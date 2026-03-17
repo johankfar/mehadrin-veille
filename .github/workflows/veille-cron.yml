@@ -6,6 +6,9 @@ on:
     - cron: '30 5,7,9,11,13,15,17 * * 1-6'  # Lundi a Samedi
   workflow_dispatch:  # Lancement manuel possible
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
