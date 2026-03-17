@@ -1,0 +1,38 @@
+name: Veille Marche - Generation automatique
+
+on:
+  schedule:
+    # Toutes les 2h de 5h30 a 18h30 UTC (= 7h30 a 20h30 heure Paris CET/CEST)
+    - cron: '30 5,7,9,11,13,15,17 * * 1-6'  # Lundi a Samedi
+  workflow_dispatch:  # Lancement manuel possible
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install google-genai
+
+      - name: Generate veille
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY_DEFAULT: ${{ secrets.GEMINI_API_KEY_DEFAULT }}
+        run: python veille_generator.py
+
+      - name: Commit and push veille_live.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add veille_live.json veille_data.json
+          git diff --cached --quiet || git commit -m "veille: update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
