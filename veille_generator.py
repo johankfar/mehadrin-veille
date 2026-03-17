@@ -242,12 +242,8 @@ def generate_veille(force=False):
         print(f"  Fact-check echoue ({e}) -- utilisation Pass 1")
         checked_news = _clean_ghost_news(raw_news)
 
-    # 6. Traductions EN / HE
-    print("  Traductions...")
-    html_en, html_he = translate_all(checked_news)
-
-    # 7. Stocker les nouveaux articles
-    added = add_articles(data, checked_news, html_en, html_he)
+    # 6. Stocker les nouveaux articles (FR uniquement, pas de traduction)
+    added = add_articles(data, checked_news)
     print(f"  {added} nouveaux articles ajoutes (total: {len(data['articles'])})")
 
     save_data(data)
