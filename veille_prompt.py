@@ -83,10 +83,10 @@ Format HTML STRICT (PAS de markdown, PAS de ```, PAS d'emojis) :
   <div class="news-cat">PRIX & VOLUMES</div>
   <div class="news-title">Titre precis -- <span class="news-date">{date}</span></div>
   <div class="news-body">Renseignement detaille avec chiffres et contexte. Sources nommees. <strong>Impact tactique :</strong> Ce que le commercial dit/fait en rendez-vous avec cette info.</div>
-  <div class="news-source"><a href="URL" target="_blank">Media -- Lire l'article</a></div>
+  <div class="news-source">Source : NomDuMedia</div>
 </div>
-OBLIGATOIRE : chaque news-item DOIT contenir un news-source avec un lien cliquable vers l'article original.
 OBLIGATOIRE : chaque article DOIT contenir au moins un chiffre concret (prix, volume, pourcentage).
+OBLIGATOIRE : dans news-source, mets UNIQUEMENT le NOM du media source en texte brut (ex: "Source : FreshPlaza", "Source : RNM FranceAgriMer"). PAS de lien <a href>. PAS d'URL. Juste le nom. Les vrais liens seront ajoutes automatiquement depuis les metadonnees de recherche.
 Les categories sont en TEXTE BRUT sans emoji : PRIX & VOLUMES, ALERTES SUPPLY, MOUVEMENTS ENSEIGNES, CONCURRENCE ORIGINES."""
 
 
@@ -109,7 +109,6 @@ PROTOCOLE DE VERIFICATION :
 
 3. SOURCES -- Verifie que chaque source citee existe reellement et dit bien ce qui est rapporte.
    - Source inventee ou deformee -- CORRIGE ou SUPPRIME l'article.
-   - Lien mort -- Trouve le bon lien ou un article equivalent.
 
 4. REECRITURE :
    - Info principale FAUSSE ou PERIMEE -- REECRIS avec l'info correcte et la source la plus recente.
@@ -130,4 +129,4 @@ FILTRES D'ELIMINATION (supprimer sans trace) :
 - PAS D'EMOJIS. Supprime tout emoji present.
 
 Renvoie le HTML complet verifie. PAS de markdown, PAS de backticks. JUSTE le HTML brut.
-Chaque article DOIT garder son news-source avec lien cliquable verifie."""
+Chaque article DOIT garder son news-source avec le NOM du media en texte brut (PAS de lien <a href>, PAS d'URL)."""
