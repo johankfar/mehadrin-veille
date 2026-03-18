@@ -29,7 +29,7 @@ from veille_storage import (
     load_data, save_data, purge_old_articles, can_generate,
     get_previous_titles, add_articles, get_articles_json_for_frontend,
 )
-from veille_translate import translate_all
+from veille_translate import translate_html
 
 # Chemin du JSON front-end
 DATA_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -116,8 +116,44 @@ Articles :
     return articles
 
 
-def _format_articles_html(articles, date_str):
+def _translate_en_articles_to_fr(client, en_articles):
+    """Traduit le titre et contenu des articles EN vers FR via Gemini Flash."""
+    for art in en_articles:
+        title_en = art["title"]
+        content_en = art.get("content", "")[:800]
+
+        prompt = (
+            f"Traduis ce titre et ce resume d'article en francais. "
+            f"Garde le meme sens, meme longueur. PAS de markdown.\n\n"
+            f"Titre: {title_en}\n\n"
+            f"Contenu: {content_en}\n\n"
+            f"Reponds STRICTEMENT en JSON:\n"
+            f'{{"title_fr": "...", "content_fr": "..."}}'
+        )
+        try:
+            resp = _gemini_call_with_retry(
+                client, max_retries=2, initial_wait=2,
+                model=GEMINI_MODEL_FLASH,
+                contents=[prompt],
+            )
+            raw = resp.text or ""
+            raw = re.sub(r'```\w*\s*', '', raw).strip().strip('`')
+            import json
+            result = json.loads(raw)
+            art["title_fr"] = result.get("title_fr", title_en)
+            art["content_fr"] = result.get("content_fr", content_en)
+            print(f"    FR: {art['title_fr'][:55]}")
+        except Exception as e:
+            print(f"    Echec trad '{title_en[:40]}': {e}")
+            art["title_fr"] = title_en
+            art["content_fr"] = content_en
+
+
+def _format_articles_html(articles, date_str, lang="fr"):
     """Formate les articles reels en HTML pour le front-end.
+
+    lang="fr" : utilise content_fr (traduit) ou content original si source FR
+    lang="en" : utilise content original si source EN, ou content pour source FR
 
     Chaque article contient un VRAI lien vers l'article source.
     """
@@ -126,9 +162,19 @@ def _format_articles_html(articles, date_str):
         cat = art.get("category", "PRIX & VOLUMES")
         title = art["title"]
         url = art["url"]
-        content = art.get("content", "")
         impact = art.get("impact", "")
         source_name = art.get("source_name", "FreshPlaza")
+        source_lang = art.get("source_lang", "fr")
+
+        if lang == "fr":
+            # Use translated FR content for EN articles, original for FR articles
+            content = art.get("content_fr", art.get("content", ""))
+            title = art.get("title_fr", title)
+        elif lang == "en":
+            # Use original EN content for EN articles, original for FR articles
+            content = art.get("content", "")
+        else:
+            content = art.get("content", "")
 
         # Build body
         body = content
@@ -210,23 +256,35 @@ def generate_veille(force=False):
     else:
         print("  Pas de cle Gemini -- categories par defaut")
 
-    # 6. Formater en HTML
+    # 5b. Traduire les articles EN -> FR (ceux venant de FreshPlaza EN)
+    en_articles = [a for a in new_articles if a.get("source_lang") == "en"]
+    if en_articles and gemini_key:
+        print(f"\n  === TRADUCTION EN->FR ({len(en_articles)} articles) ===")
+        try:
+            _translate_en_articles_to_fr(client, en_articles)
+        except Exception as e:
+            print(f"  Traduction EN->FR echouee ({e})")
+
+    # 6. Formater en HTML (FR et EN separement)
     now = datetime.now()
     date_str = now.strftime("%d/%m/%Y %H:%M")
-    news_html = _format_articles_html(new_articles, date_str)
-    print(f"\n  HTML genere : {len(news_html)} chars, {len(new_articles)} articles")
+    news_html_fr = _format_articles_html(new_articles, date_str, lang="fr")
+    news_html_en = _format_articles_html(new_articles, date_str, lang="en")
+    print(f"\n  HTML FR: {len(news_html_fr)} chars, EN: {len(news_html_en)} chars")
 
-    # 7. Traduire FR -> EN, HE
-    print("\n  === TRADUCTIONS ===")
-    html_en, html_he = "", ""
+    # 7. Traduire FR -> HE
+    print("\n  === TRADUCTION HE ===")
+    html_he = ""
     if gemini_key:
         try:
-            html_en, html_he = translate_all(news_html)
+            html_he = translate_html(news_html_fr, "he")
+            print(f"  HE: {len(html_he)} chars")
         except Exception as e:
-            print(f"  Traduction echouee ({e}) -- EN/HE vides")
+            print(f"  Traduction HE echouee ({e})")
+    html_en = news_html_en
 
     # 8. Stocker les nouveaux articles
-    added = add_articles(data, news_html, html_en, html_he)
+    added = add_articles(data, news_html_fr, html_en, html_he)
     print(f"\n  {added} nouveaux articles ajoutes (total: {len(data['articles'])})")
 
     save_data(data)
