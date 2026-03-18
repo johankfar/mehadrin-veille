@@ -167,12 +167,17 @@ def add_articles(data, articles_html_fr, articles_html_en="", articles_html_he="
             print(f"  Doublon ignore : {title_text_clean[:60]}")
             continue
 
+        # Extract source name from the HTML link if present
+        source_match = re.search(r'<a[^>]+>([^<]+)\s*[—–-]\s*', fr_html)
+        source_name = source_match.group(1).strip() if source_match else ""
+
         article = {
             "id": f"{int(_now_utc().timestamp())}_{i}",
             "timestamp": now_iso,
             "title": title_text_clean,
             "title_hash": t_hash,
             "category": _extract_category(fr_html),
+            "source_name": source_name,
             "content_fr": fr_html,
             "content_en": en_items[i] if i < len(en_items) else "",
             "content_he": he_items[i] if i < len(he_items) else "",
@@ -217,6 +222,7 @@ def get_articles_json_for_frontend(data):
                 "timestamp": a["timestamp"],
                 "title": a.get("title", ""),
                 "category": a.get("category", ""),
+                "source_name": a.get("source_name", ""),
                 "content_fr": a.get("content_fr", ""),
                 "content_en": a.get("content_en", ""),
                 "content_he": a.get("content_he", ""),
