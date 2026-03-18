@@ -171,6 +171,10 @@ def add_articles(data, articles_html_fr, articles_html_en="", articles_html_he="
         source_match = re.search(r'<a[^>]+>([^<]+)\s*[—–-]\s*', fr_html)
         source_name = source_match.group(1).strip() if source_match else ""
 
+        # Extract commercial tags from badges
+        commercial_matches = re.findall(r'data-commercial="([^"]+)"', fr_html)
+        commercials = list(set(commercial_matches))
+
         article = {
             "id": f"{int(_now_utc().timestamp())}_{i}",
             "timestamp": now_iso,
@@ -178,6 +182,7 @@ def add_articles(data, articles_html_fr, articles_html_en="", articles_html_he="
             "title_hash": t_hash,
             "category": _extract_category(fr_html),
             "source_name": source_name,
+            "commercials": commercials,
             "content_fr": fr_html,
             "content_en": en_items[i] if i < len(en_items) else "",
             "content_he": he_items[i] if i < len(he_items) else "",
@@ -223,6 +228,7 @@ def get_articles_json_for_frontend(data):
                 "title": a.get("title", ""),
                 "category": a.get("category", ""),
                 "source_name": a.get("source_name", ""),
+                "commercials": a.get("commercials", []),
                 "content_fr": a.get("content_fr", ""),
                 "content_en": a.get("content_en", ""),
                 "content_he": a.get("content_he", ""),

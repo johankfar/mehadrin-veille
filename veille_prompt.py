@@ -18,6 +18,49 @@ MEHADRIN_SEASON_CALENDAR = [
     ((35, 52), ["Grenade", "Kumquat"]),
 ]
 
+# ─── Produits par commercial ───
+COMMERCIAL_PRODUCTS = {
+    "Ophelie": [
+        "avocat", "avocats", "hass", "avocado", "aguacate",
+        "mangue", "mangues", "mango",
+        "patate douce", "patates douces", "sweet potato", "patata dolce", "batata", "boniato",
+    ],
+    "Nadia": [
+        "orri", "or mehadrin", "or shoham",
+        "mandarine", "mandarines", "mandarino", "mandarini", "mandarina",
+        "nadorcott", "clemengold", "clementine", "clemenvilla",
+        "star ruby", "pamplemousse", "pamplemousses", "pompelmo", "grapefruit", "pomelo",
+        "sweetie",
+    ],
+    "Jessica": [
+        "datte", "dattes", "medjoul", "medjool", "dattero", "datteri", "datil",
+        "grenade", "grenades", "pomegranate", "melograno", "granada",
+        "kumquat",
+    ],
+    "Sebastien": [
+        "melon", "melons", "melone",
+        "pasteque", "pasteques", "watermelon", "anguria", "sandia",
+        "cerise", "cerises", "cherry", "cherries", "ciliegia", "cereza",
+        "raisin", "raisins", "grape", "grapes", "uva",
+    ],
+}
+
+# Couleurs badges commerciaux (frontend)
+COMMERCIAL_COLORS = {
+    "Ophelie": "#7c3aed",   # violet
+    "Nadia": "#0891b2",     # teal
+    "Jessica": "#c2410c",   # orange
+    "Sebastien": "#15803d", # vert
+}
+
+# Saisons par commercial (pour contexte dans le prompt Gemini)
+COMMERCIAL_SEASONS = {
+    "Ophelie":   ((1, 30),  "Avocats Hass (Israel jan-mars, Maroc nov-avr), Mangues (CIV mars-juin, Israel avr-sept), Patates douces (Egypte sept-mai)"),
+    "Nadia":     ((1, 20),  "Orri/Or Mehadrin/Or Shoham (jan-avr), Star Ruby (oct-mai), Sweetie (oct-fev), Nadorcott (jan-avr), Clemengold (mai-sept)"),
+    "Jessica":   ((1, 52),  "Dattes Medjoul (toute l'annee), Grenades (sept-dec), Kumquat (nov-mars)"),
+    "Sebastien": ((15, 40), "Melons (avr-juil), Pasteques (avr-aout), Cerises (mai-juin), Raisin (jan-oct)"),
+}
+
 
 def get_seasonal_products(week_num):
     """Retourne la liste des produits Mehadrin en saison pour la semaine donnee."""
@@ -26,6 +69,21 @@ def get_seasonal_products(week_num):
         if start <= week_num <= end:
             products.extend(items)
     return products
+
+
+def get_commercial_for_article(title, content):
+    """Identifie le(s) commercial(aux) concerne(s) par un article.
+
+    Returns: list of commercial names (e.g. ["Ophelie", "Nadia"])
+    """
+    text = (title + " " + content).lower()
+    matches = []
+    for commercial, keywords in COMMERCIAL_PRODUCTS.items():
+        for kw in keywords:
+            if kw.lower() in text:
+                matches.append(commercial)
+                break
+    return matches
 
 
 # ─── Prompt de generation veille accueil ───

@@ -33,6 +33,7 @@ from veille_storage import (
     get_previous_titles, add_articles, get_articles_json_for_frontend,
 )
 from veille_translate import translate_html
+from veille_prompt import get_seasonal_products, get_commercial_for_article
 
 # Chemin du JSON front-end
 DATA_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -211,11 +212,17 @@ def _validate_relevance_gemini(client, articles, max_keep=20):
     """Valide la pertinence des articles via Gemini Flash (OUI/NON par article).
 
     Envoie un batch de titres + descriptions courtes, Gemini repond OUI/NON.
+    Inclut le contexte saisonnier pour prioriser les produits en saison.
     Garde max max_keep articles pertinents.
     Fallback: si Gemini echoue, garde tous les articles.
     """
     if not articles:
         return articles
+
+    # Get current week and seasonal products
+    week_num = datetime.now().isocalendar()[1]
+    seasonal = get_seasonal_products(week_num)
+    seasonal_str = ", ".join(seasonal) if seasonal else "Dattes Medjoul (toute l'annee)"
 
     # Build prompt with truncated content
     articles_text = ""
@@ -224,31 +231,40 @@ def _validate_relevance_gemini(client, articles, max_keep=20):
         content = art.get("content_fr", art.get("content", ""))[:300]
         articles_text += f"\n{i}. {title}\n   {content}\n"
 
-    prompt = f"""Tu es le FILTRE FINAL de pertinence pour la veille commerciale de Mehadrin France.
-Mehadrin = exportateur ISRAELIEN de fruits frais vers l'Europe (France + Italie principalement).
+    prompt = f"""Tu es le FILTRE FINAL de pertinence pour Mehadrin France (exportateur ISRAELIEN de fruits frais vers Europe).
+4 commerciaux terrain vont en rendez-vous chez Carrefour, Auchan, Lidl, Leclerc, Intermarche, grossistes Rungis, distribution Italie.
+Un article utile = un ARGUMENT DE VENTE CONCRET. Un article inutile = du bruit.
 
 PRODUITS MEHADRIN (les SEULS qui comptent) :
-Avocats Hass, mandarines Orri/Nadorcott/Clemengold, pamplemousses Star Ruby/Sweetie, mangues, dattes Medjoul, grenades, kumquat, melon, pasteque, cerises, raisin, patates douces.
+- Ophelie : Avocats Hass, Mangues, Patates douces
+- Nadia : Mandarines Orri/Or Mehadrin/Or Shoham, Star Ruby, Sweetie, Nadorcott, Clemengold
+- Jessica : Dattes Medjoul, Grenades, Kumquat
+- Sebastien : Melons, Pasteques, Cerises, Raisin
 
-ORIGINES CONCURRENTES : Israel, Maroc, Perou, Bresil, Colombie, Afrique du Sud, Espagne, Egypte, Cote d'Ivoire, Chili, Turquie.
+PRODUITS EN SAISON CETTE SEMAINE (sem {week_num}) — PRIORITE MAXIMALE :
+{seasonal_str}
 
-Pour chaque article, reponds OUI ou NON. Sois TRES STRICT :
+Pour chaque article, reponds OUI ou NON. Sois IMPITOYABLE :
 
-OUI uniquement si l'article donne une info qu'un COMMERCIAL Mehadrin peut utiliser EN RENDEZ-VOUS avec un acheteur GMS/grossiste :
-- Prix/cotations d'un produit Mehadrin (pas un produit hors catalogue)
-- Volumes import/export d'un produit Mehadrin
-- Probleme de production/qualite sur une origine concurrente (gel, secheresse, mouche du fruit SUR un produit Mehadrin)
-- Arrivee/fin de campagne d'une origine concurrente SUR un produit Mehadrin
-- Mouvement d'une enseigne GMS sur un produit Mehadrin (appel d'offres, changement fournisseur)
+OUI uniquement si un commercial peut UTILISER cette info en rendez-vous :
+- PRIX/cotations d'un produit Mehadrin (au kilo, au colis, par calibre)
+- VOLUMES import/export d'un produit Mehadrin (hausse/baisse)
+- Debut/fin de CAMPAGNE d'une origine concurrente sur un produit Mehadrin
+- Probleme QUALITE/PRODUCTION sur une origine concurrente (gel, secheresse, greve) qui impacte l'offre
+- MOUVEMENT d'une enseigne GMS : appel d'offres, changement fournisseur, dereferencement sur un produit Mehadrin
+- RUPTURE/PENURIE sur un produit Mehadrin chez un concurrent
 
-NON si :
-- L'article est GENERIQUE (politique agricole, accords commerciaux vagues, "le secteur agroalimentaire", macro-economie)
-- Produits HORS catalogue (tomate, carotte, oignon, salade, pomme de terre, banane, pomme, poire, agrumes generiques)
-- Sante/nutrition/etudes scientifiques (meme sur avocat ou mangue)
-- Logistique/fret/conteneurs/ports/shipping
-- Technologie/robots/emballage/packaging/conservation
+NON — rejeter SYSTEMATIQUEMENT :
+- Politique agricole, gouvernement, accords commerciaux vagues, macro-economie, "le secteur agroalimentaire"
+- Produits HORS catalogue : tomate, carotte, oignon, salade, pomme de terre, banane, pomme, poire, kiwi, fraise, framboise, agrumes generiques
+- Sante/nutrition/etudes scientifiques (MEME sur avocat ou mangue — "l'avocat ameliore la fonction vasculaire" = NON)
+- Phytosanitaire TECHNIQUE : mouche des fruits, thrips, pieges, traitements, pesticides (SAUF si ca provoque un embargo ou une interdiction d'import)
+- Logistique/fret/conteneurs/ports/shipping (Hapag-Lloyd, ZIM, CMA CGM = NON)
+- Technologie/robots/emballage/packaging/conservation/atmosphere controlee
 - B2C/consommateur/recettes/promos rayon
-- RSE/developpement durable SAUF impact direct sur prix ou approvisionnement
+- RSE/bio/durable SAUF impact direct sur prix
+- Salons/conferences SAUF annonce concrete d'un contrat
+- Article GENERIQUE sans chiffre ni fait precis
 
 Reponds en JSON STRICT : [{{"index": 0, "relevant": true}}, ...]
 PAS de markdown, PAS de commentaires.
@@ -283,6 +299,17 @@ Articles :
         return articles[:max_keep]
 
 
+def _tag_commercials(articles):
+    """Tag chaque article avec le(s) commercial(aux) concerne(s)."""
+    for art in articles:
+        title = art.get("title_fr", art.get("title", ""))
+        content = art.get("content_fr", art.get("content", ""))
+        commercials = get_commercial_for_article(title, content)
+        art["commercials"] = commercials
+        if commercials:
+            print(f"    Tag: {', '.join(commercials)} <- {title[:50]}")
+
+
 def _format_articles_html(articles, date_str, lang="fr"):
     """Formate les articles reels en HTML pour le front-end.
 
@@ -299,13 +326,12 @@ def _format_articles_html(articles, date_str, lang="fr"):
         impact = art.get("impact", "")
         source_name = art.get("source_name", "FreshPlaza")
         source_lang = art.get("source_lang", "fr")
+        commercials = art.get("commercials", [])
 
         if lang == "fr":
-            # Use translated FR content for EN articles, original for FR articles
             content = art.get("content_fr", art.get("content", ""))
             title = art.get("title_fr", title)
         elif lang == "en":
-            # Use original EN content for EN articles, original for FR articles
             content = art.get("content", "")
         else:
             content = art.get("content", "")
@@ -417,7 +443,11 @@ def generate_veille(force=False):
     else:
         print("  Pas de cle Gemini -- categories par defaut")
 
-    # 9. Formater en HTML (FR et EN separement)
+    # 9. Tagger par commercial
+    print("\n  === TAGGING COMMERCIAUX ===")
+    _tag_commercials(new_articles)
+
+    # 10. Formater en HTML (FR et EN separement)
     now = datetime.now()
     date_str = now.strftime("%d/%m/%Y %H:%M")
     news_html_fr = _format_articles_html(new_articles, date_str, lang="fr")
