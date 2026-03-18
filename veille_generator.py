@@ -1,16 +1,21 @@
 #!/usr/bin/env python3
 """
-veille_generator.py -- Generateur de veille marche (cron toutes les 2h)
-========================================================================
-Pipeline :
-  1. Charger les articles existants (anti-doublon)
-  2. Generer 4-8 nouveaux articles via Gemini Flash + Google Search Grounding
-  3. Fact-check via Gemini Flash + Google Search Grounding (pass 2)
+veille_generator.py -- Generateur de veille marche HYBRID (RSS + Gemini)
+=========================================================================
+V4 HYBRID Pipeline :
+  1. Scraper RSS (10+ sources, ~200-300 articles)
+  2. Filtre mots-cles Mehadrin (~20-40 candidats)
+  3. Gemini Flash filtre pertinence + ecrit impact tactique (4-8 articles)
   4. Traduire FR -> EN, FR -> HE
-  5. Stocker dans veille_data.json (accumulation 48h)
-  6. Exporter veille_live.json pour le front-end
+  5. Auto-fix traductions manquantes
+  6. Stocker dans veille_data.json (accumulation 48h)
+  7. Exporter veille_live.json pour le front-end
+
+ZERO HALLUCINATION : les articles viennent du RSS, les liens sont reels.
+Gemini ne GENERE pas, il FILTRE et ENRICHIT.
 """
 
+import json
 import os
 import re
 import sys
@@ -27,7 +32,8 @@ except ImportError:
     GEMINI_API_KEY_DEFAULT = os.environ.get("GEMINI_API_KEY_DEFAULT", "")
     GEMINI_MODEL_FLASH = "gemini-3-flash-preview"
 
-from veille_prompt import VEILLE_PROMPT_TEMPLATE, FACTCHECK_PROMPT, get_seasonal_products, get_off_season_products
+from veille_prompt import HYBRID_FILTER_PROMPT, get_seasonal_products, get_off_season_products
+from veille_rss import fetch_all_feeds
 from veille_storage import (
     load_data, save_data, purge_old_articles, can_generate,
     get_previous_titles, add_articles, get_articles_json_for_frontend,
@@ -61,7 +67,6 @@ def _clean_api_html(text):
     text = text.replace('`', '')
     text = re.sub(r'\n\s*---\s*\n', '\n', text)
     text = re.sub(r'\n\s*\*\*\*\s*\n', '\n', text)
-    # Extract only HTML content
     first_div = text.find('<div')
     if first_div > 0:
         text = text[first_div:]
@@ -77,103 +82,44 @@ def _clean_api_html(text):
     return text
 
 
-def _clean_ghost_news(news_html):
-    """Supprime les blocs d'actus fantomes (supprimees mais affichees avec placeholder)."""
-    ghost_pattern = re.compile(
-        r'<div\s+class="news-item">[^<]*(?:<(?!/div>)[^<]*)*'
-        r'(?:supprim[ée]|place laissée vide|antérieur au|aucune actualité.*?identifi[ée])'
-        r'[^<]*(?:<(?!/div>)[^<]*)*</div>\s*(?:</div>)?',
-        re.DOTALL | re.IGNORECASE
-    )
-    cleaned = ghost_pattern.sub('', news_html)
-    if any(w in cleaned.lower() for w in ['supprimé', 'place laissée vide', 'antérieur au']):
-        parts = re.split(r'(<div\s+class="news-item">)', cleaned)
-        result = []
-        skip = False
-        for part in parts:
-            if '<div class="news-item">' in part:
-                skip = False
-                result.append(part)
-            elif skip:
-                continue
-            else:
-                low = part.lower()
-                if any(w in low for w in ['supprimé', 'place laissée vide', 'antérieur au']):
-                    if result and '<div class="news-item">' in result[-1]:
-                        result.pop()
-                    skip = True
-                    continue
-                result.append(part)
-        cleaned = ''.join(result)
-    return cleaned
-
-
-def _fix_homepage_links(html):
-    """Remplace les liens homepage (sans chemin d'article) par du texte simple.
-
-    Gemini hallucine souvent des URLs generiques (freshplaza.fr/, lsa-conso.fr/).
-    On les remplace par 'Source : NomDuMedia' sans lien cliquable.
-    """
-    from urllib.parse import urlparse
-
-    def _replace_link(match):
-        full_tag = match.group(0)
-        url = match.group(1)
-        link_text = match.group(2)
-        try:
-            parsed = urlparse(url)
-            path = parsed.path.rstrip('/')
-            # Homepage = pas de chemin ou juste /
-            if not path or path in ('', '/'):
-                # Extraire le nom du media depuis le texte du lien
-                media_name = re.sub(r'\s*--\s*(Lire l.article|Read the article|קרא את המאמר).*', '', link_text).strip()
-                if not media_name:
-                    media_name = parsed.netloc.replace('www.', '')
-                return f'Source : {media_name}'
-            # Chemin trop court (ex: /ortofrutta, /fruits) = probablement pas un article
-            if len(path.split('/')) <= 2 and not any(c.isdigit() for c in path):
-                media_name = re.sub(r'\s*--\s*(Lire l.article|Read the article|קרא את המאמר).*', '', link_text).strip()
-                if not media_name:
-                    media_name = parsed.netloc.replace('www.', '')
-                return f'Source : {media_name}'
-        except Exception:
-            pass
-        return full_tag  # Garder le lien si URL semble valide
-
-    # Match <a href="URL" ...>text</a>
-    result = re.sub(
-        r'<a\s+href="([^"]+)"[^>]*>(.*?)</a>',
-        _replace_link,
-        html,
-        flags=re.DOTALL
-    )
-    return result
-
-
 def _strip_emojis(text):
     """Supprime tous les emojis du texte."""
     emoji_pattern = re.compile(
         "["
-        "\U0001F600-\U0001F64F"  # emoticons
-        "\U0001F300-\U0001F5FF"  # symbols & pictographs
-        "\U0001F680-\U0001F6FF"  # transport & map
-        "\U0001F1E0-\U0001F1FF"  # flags
-        "\U00002702-\U000027B0"
-        "\U000024C2-\U0001F251"
-        "\U0001f900-\U0001f9FF"
-        "\U0001fa00-\U0001fa6f"
-        "\U0001fa70-\U0001faff"
-        "\U00002600-\U000026FF"
-        "\U0000FE00-\U0000FE0F"
-        "\U0000200D"
+        "\U0001F600-\U0001F64F\U0001F300-\U0001F5FF"
+        "\U0001F680-\U0001F6FF\U0001F1E0-\U0001F1FF"
+        "\U00002702-\U000027B0\U000024C2-\U0001F251"
+        "\U0001f900-\U0001f9FF\U0001fa00-\U0001fa6f"
+        "\U0001fa70-\U0001faff\U00002600-\U000026FF"
+        "\U0000FE00-\U0000FE0F\U0000200D"
         "]+",
         flags=re.UNICODE,
     )
     return emoji_pattern.sub('', text)
 
 
+def _format_rss_articles_for_prompt(articles, max_articles=30):
+    """Formate les articles RSS pour le prompt Gemini."""
+    lines = []
+    for i, a in enumerate(articles[:max_articles], 1):
+        pub = ""
+        if a.get("pub_date"):
+            pub = a["pub_date"].strftime("%d/%m/%Y %H:%M")
+        kws = ", ".join(a.get("_matched_keywords", [])[:5])
+        lines.append(
+            f"--- ARTICLE {i} ---\n"
+            f"Titre: {a['title']}\n"
+            f"Source: {a['source']} ({a['lang']})\n"
+            f"Date: {pub}\n"
+            f"Lien: {a['link']}\n"
+            f"Resume: {a['summary'][:400]}\n"
+            f"Mots-cles Mehadrin: {kws}\n"
+        )
+    return "\n".join(lines)
+
+
 def generate_veille(force=False):
-    """Execute un cycle complet de generation de veille.
+    """Execute un cycle complet de veille HYBRID (RSS + Gemini).
 
     Args:
         force: Si True, ignore le rate limit (pour tests)
@@ -182,7 +128,7 @@ def generate_veille(force=False):
         dict: Donnees JSON pour le front-end, ou None si echec/rate-limited
     """
     print("=" * 60)
-    print(f"  VEILLE MARCHE -- {datetime.now().strftime('%d/%m/%Y %H:%M')}")
+    print(f"  VEILLE MARCHE HYBRID -- {datetime.now().strftime('%d/%m/%Y %H:%M')}")
     print("=" * 60)
 
     # 1. Charger donnees existantes
@@ -196,7 +142,37 @@ def generate_veille(force=False):
         _save_frontend_json(frontend_json)
         return frontend_json
 
-    # 3. Preparer le prompt
+    # 3. ETAPE 1 : Scraper RSS
+    print("\n  ETAPE 1 : Scraping RSS...")
+    rss_articles = fetch_all_feeds(max_age_hours=48)
+
+    if not rss_articles:
+        print("  Aucun article RSS pertinent trouve. Articles existants conserves.")
+        frontend_json = get_articles_json_for_frontend(data)
+        _save_frontend_json(frontend_json)
+        return frontend_json
+
+    # 4. Filtrer les doublons avec les articles existants
+    existing_titles = set()
+    for a in data.get("articles", []):
+        t = re.sub(r"[^\w]", "", a.get("title", "").lower())
+        existing_titles.add(t)
+
+    new_rss = []
+    for a in rss_articles:
+        t_norm = re.sub(r"[^\w]", "", a["title"].lower())
+        if t_norm not in existing_titles:
+            new_rss.append(a)
+
+    print(f"  Apres dedup vs existants: {len(new_rss)} nouveaux articles")
+
+    if not new_rss:
+        print("  Tous les articles RSS sont deja connus. Articles existants conserves.")
+        frontend_json = get_articles_json_for_frontend(data)
+        _save_frontend_json(frontend_json)
+        return frontend_json
+
+    # 5. ETAPE 2 : Gemini filtre + enrichit
     gemini_key = GEMINI_API_KEY or GEMINI_API_KEY_DEFAULT or os.environ.get("GEMINI_API_KEY", "")
     if not gemini_key:
         print("  ERREUR : Aucune cle API Gemini disponible")
@@ -207,105 +183,69 @@ def generate_veille(force=False):
     week_num = now.isocalendar()[1]
     seasonal = get_seasonal_products(week_num)
     seasonal_str = ", ".join(seasonal) if seasonal else "Dattes Medjoul (toute l'annee)"
-
     off_season = get_off_season_products(week_num)
     off_season_str = ", ".join(off_season) if off_season else "Aucun"
 
-    previous_titles = get_previous_titles(data)
-    prev_titles_str = "\n".join(f"- {t}" for t in previous_titles[-20:]) if previous_titles else "Aucun (premier cycle)"
+    articles_text = _format_rss_articles_for_prompt(new_rss)
 
-    prompt = VEILLE_PROMPT_TEMPLATE.format(
+    prompt = HYBRID_FILTER_PROMPT.format(
+        article_count=len(new_rss[:30]),
         date=date_str,
         week_num=week_num,
         seasonal_products=seasonal_str,
         off_season_products=off_season_str,
-        previous_titles=prev_titles_str,
+        articles_text=articles_text,
     )
 
-    # 4. PASS 1 : Generation via Gemini Flash + Google Search Grounding
-    raw_news = ""
+    enriched_html = ""
     try:
         from google import genai
-        from google.genai import types
 
         client = genai.Client(api_key=gemini_key)
-        search_config = types.GenerateContentConfig(
-            tools=[types.Tool(google_search=types.GoogleSearch())],
-        )
 
-        print(f"  Pass 1/2 : Gemini Flash + Google Search (sem {week_num})...")
-        print(f"  Produits en saison : {seasonal_str}")
+        print(f"\n  ETAPE 2 : Gemini Flash filtre + enrichit {len(new_rss[:30])} articles...")
 
         response = _gemini_call_with_retry(
             client,
             model=GEMINI_MODEL_FLASH,
             contents=[prompt],
-            config=search_config,
         )
-        raw_news = response.text or ""
-        print(f"  Pass 1 -- raw: {len(raw_news)} chars")
-        raw_news = _clean_api_html(raw_news)
-        raw_news = _strip_emojis(raw_news)
-        print(f"  Pass 1 -- cleaned: {len(raw_news)} chars")
+        raw = response.text or ""
+        print(f"  Gemini raw: {len(raw)} chars")
+
+        if "AUCUN_ARTICLE_PERTINENT" in raw:
+            print("  Gemini: aucun article pertinent. Articles existants conserves.")
+            frontend_json = get_articles_json_for_frontend(data)
+            _save_frontend_json(frontend_json)
+            return frontend_json
+
+        enriched_html = _clean_api_html(raw)
+        enriched_html = _strip_emojis(enriched_html)
+        print(f"  Gemini cleaned: {len(enriched_html)} chars")
 
     except Exception as e:
         import traceback
-        print(f"  ERREUR Pass 1 (Gemini): {e}")
+        print(f"  ERREUR Gemini: {e}")
         traceback.print_exc()
-        # Conserver les articles existants
         frontend_json = get_articles_json_for_frontend(data)
         _save_frontend_json(frontend_json)
         return frontend_json
 
-    if not raw_news or len(raw_news) < 100:
-        print("  Pass 1 vide ou trop courte -- articles existants conserves")
+    if not enriched_html or len(enriched_html) < 100:
+        print("  Gemini output trop court. Articles existants conserves.")
         frontend_json = get_articles_json_for_frontend(data)
         _save_frontend_json(frontend_json)
         return frontend_json
 
-    # 5. PASS 2 : Fact-check
-    checked_news = raw_news  # fallback
-    try:
-        factcheck_prompt = FACTCHECK_PROMPT.format(
-            news_html=raw_news,
-            report_date=date_str,
-        )
-
-        print("  Pass 2/2 : Fact-check Gemini Flash + Google Search...")
-        response2 = _gemini_call_with_retry(
-            client,
-            model=GEMINI_MODEL_FLASH,
-            contents=[factcheck_prompt],
-            config=search_config,
-        )
-        fc_result = _clean_api_html(response2.text or "")
-        fc_result = _strip_emojis(fc_result)
-        print(f"  Pass 2 -- cleaned: {len(fc_result)} chars")
-
-        if fc_result and len(fc_result) > 200:
-            checked_news = _clean_ghost_news(fc_result)
-            print("  Fact-check OK")
-        else:
-            print("  Pass 2 trop courte -- utilisation Pass 1")
-            checked_news = _clean_ghost_news(raw_news)
-
-    except Exception as e:
-        print(f"  Fact-check echoue ({e}) -- utilisation Pass 1")
-        checked_news = _clean_ghost_news(raw_news)
-
-    # 5b. Fix homepage links (strip hallucinated generic URLs)
-    checked_news = _fix_homepage_links(checked_news)
-    print(f"  Liens homepage nettoyes")
-
-    # 6. Traductions EN / HE
-    print("  Traductions...")
-    html_en, html_he = translate_all(checked_news)
+    # 6. ETAPE 3 : Traductions EN / HE
+    print("\n  ETAPE 3 : Traductions...")
+    html_en, html_he = translate_all(enriched_html)
 
     # 7. Stocker les nouveaux articles
-    added = add_articles(data, checked_news, html_en, html_he)
+    added = add_articles(data, enriched_html, html_en, html_he)
     print(f"  {added} nouveaux articles ajoutes (total: {len(data['articles'])})")
 
-    # 7b. Auto-fix traductions manquantes sur TOUS les articles existants
+    # 7b. Auto-fix traductions manquantes sur TOUS les articles
     _fix_missing_translations(data)
 
     save_data(data)
@@ -314,20 +254,15 @@ def generate_veille(force=False):
     frontend_json = get_articles_json_for_frontend(data)
     _save_frontend_json(frontend_json)
 
-    print("=" * 60)
-    print(f"  VEILLE TERMINEE -- {len(frontend_json['articles'])} articles disponibles")
+    print("\n" + "=" * 60)
+    print(f"  VEILLE HYBRID TERMINEE -- {len(frontend_json['articles'])} articles")
     print("=" * 60)
 
     return frontend_json
 
 
 def _fix_missing_translations(data):
-    """Auto-traduit les articles qui n'ont pas de traduction EN ou HE.
-
-    Appele a chaque run pour s'assurer que TOUS les articles sont traduits,
-    y compris ceux des cycles precedents ou la traduction avait echoue.
-    """
-    import time as _time
+    """Auto-traduit les articles qui n'ont pas de traduction EN ou HE."""
     from veille_translate import translate_html
 
     fixed = 0
@@ -340,13 +275,13 @@ def _fix_missing_translations(data):
             print(f"  Auto-trad EN: {a.get('title', '')[:50]}")
             a["content_en"] = translate_html(fr, "en")
             fixed += 1
-            _time.sleep(0.5)
+            time.sleep(0.5)
 
         if not a.get("content_he") or len(a["content_he"]) < 20:
             print(f"  Auto-trad HE: {a.get('title', '')[:50]}")
             a["content_he"] = translate_html(fr, "he")
             fixed += 1
-            _time.sleep(0.5)
+            time.sleep(0.5)
 
     if fixed:
         print(f"  {fixed} traductions manquantes corrigees")
@@ -356,18 +291,16 @@ def _fix_missing_translations(data):
 
 def _save_frontend_json(frontend_json):
     """Sauvegarde le JSON optimise pour le front-end."""
-    import json
     with open(LIVE_JSON, "w", encoding="utf-8") as f:
         json.dump(frontend_json, f, ensure_ascii=False, indent=2)
     print(f"  JSON front-end sauvegarde : {LIVE_JSON}")
 
 
 if __name__ == "__main__":
-    # Execution directe = force (ignore rate limit)
     result = generate_veille(force=True)
     if result:
         print(f"\nResultat : {result['article_count']} articles")
-        for a in result["articles"][:3]:
+        for a in result["articles"][:5]:
             print(f"  - [{a['category']}] {a['title'][:80]}")
     else:
         print("\nAucun resultat genere.")
