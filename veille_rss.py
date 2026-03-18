@@ -37,9 +37,11 @@ RSS_FEEDS = [
     {"url": "https://www.freshplaza.com/north-america/rss.xml/",  "name": "FreshPlaza NA",      "lang": "en"},
     {"url": "https://www.freshplaza.com/latin-america/rss.xml/",  "name": "FreshPlaza LatAm",   "lang": "en"},
     {"url": "https://www.freshplaza.com/africa/rss.xml/",         "name": "FreshPlaza Africa",  "lang": "en"},
+    {"url": "https://www.freshplaza.com/europe/rss.xml/",         "name": "FreshPlaza Europe", "lang": "en"},
+    # Maroc — origine concurrente majeure (avocats, agrumes)
+    {"url": "https://www.agrimaroc.ma/feed/",            "name": "AgriMaroc",       "lang": "fr"},
     # Priorite basse — couverture plus large
     {"url": "https://www.producereport.com/rss.xml",     "name": "Produce Report",  "lang": "en"},
-    {"url": "https://producebusiness.com/feed/",         "name": "Produce Business","lang": "en"},
     {"url": "https://freshfel.org/feed/",                "name": "Freshfel Europe", "lang": "en"},
 ]
 
