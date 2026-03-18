@@ -224,13 +224,31 @@ def _validate_relevance_gemini(client, articles, max_keep=20):
         content = art.get("content_fr", art.get("content", ""))[:300]
         articles_text += f"\n{i}. {title}\n   {content}\n"
 
-    prompt = f"""Tu es un filtre de pertinence pour Mehadrin France (exportateur israelien de fruits).
+    prompt = f"""Tu es le FILTRE FINAL de pertinence pour la veille commerciale de Mehadrin France.
+Mehadrin = exportateur ISRAELIEN de fruits frais vers l'Europe (France + Italie principalement).
 
-Catalogue Mehadrin : avocats Hass, mandarines Orri/Nadorcott/Clemengold, pamplemousses Star Ruby/Sweetie, mangues, dattes Medjoul, grenades, kumquat, melon, pasteque, cerises, raisin, patates douces.
+PRODUITS MEHADRIN (les SEULS qui comptent) :
+Avocats Hass, mandarines Orri/Nadorcott/Clemengold, pamplemousses Star Ruby/Sweetie, mangues, dattes Medjoul, grenades, kumquat, melon, pasteque, cerises, raisin, patates douces.
 
-Pour chaque article ci-dessous, reponds UNIQUEMENT "OUI" ou "NON" :
-- OUI = l'article concerne directement un produit Mehadrin, un marche/prix/volume pertinent, ou une info concurrentielle utile pour un commercial B2B fruits.
-- NON = hors sujet, trop generique, concerne des produits hors catalogue (tomate, carotte, oignon, salade, pomme de terre, etc.), logistique pure, B2C/consommateur, RSE/corporate sans impact prix, emballage, technologie.
+ORIGINES CONCURRENTES : Israel, Maroc, Perou, Bresil, Colombie, Afrique du Sud, Espagne, Egypte, Cote d'Ivoire, Chili, Turquie.
+
+Pour chaque article, reponds OUI ou NON. Sois TRES STRICT :
+
+OUI uniquement si l'article donne une info qu'un COMMERCIAL Mehadrin peut utiliser EN RENDEZ-VOUS avec un acheteur GMS/grossiste :
+- Prix/cotations d'un produit Mehadrin (pas un produit hors catalogue)
+- Volumes import/export d'un produit Mehadrin
+- Probleme de production/qualite sur une origine concurrente (gel, secheresse, mouche du fruit SUR un produit Mehadrin)
+- Arrivee/fin de campagne d'une origine concurrente SUR un produit Mehadrin
+- Mouvement d'une enseigne GMS sur un produit Mehadrin (appel d'offres, changement fournisseur)
+
+NON si :
+- L'article est GENERIQUE (politique agricole, accords commerciaux vagues, "le secteur agroalimentaire", macro-economie)
+- Produits HORS catalogue (tomate, carotte, oignon, salade, pomme de terre, banane, pomme, poire, agrumes generiques)
+- Sante/nutrition/etudes scientifiques (meme sur avocat ou mangue)
+- Logistique/fret/conteneurs/ports/shipping
+- Technologie/robots/emballage/packaging/conservation
+- B2C/consommateur/recettes/promos rayon
+- RSE/developpement durable SAUF impact direct sur prix ou approvisionnement
 
 Reponds en JSON STRICT : [{{"index": 0, "relevant": true}}, ...]
 PAS de markdown, PAS de commentaires.
