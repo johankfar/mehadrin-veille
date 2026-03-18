@@ -65,12 +65,44 @@ def save_data(data):
 
 
 def _title_hash(title):
-    """Normalise un titre pour comparaison anti-doublon."""
-    # Enlever HTML, ponctuation, espaces multiples, lowercase
+    """Normalise un titre pour comparaison anti-doublon.
+
+    V3: Supprime aussi les dates/heures du titre pour eviter que
+    le meme sujet avec des dates differentes passe le filtre.
+    Ex: "Avocats Hass 17/03/2026 14:15" et "Avocats Hass 18/03/2026 09:00"
+    doivent avoir le meme hash si le sujet est identique.
+    """
+    # Enlever HTML
     t = re.sub(r'<[^>]+>', '', title)
+    # Enlever dates (DD/MM/YYYY, YYYY-MM-DD, DD.MM.YYYY)
+    t = re.sub(r'\d{1,2}[/.\-]\d{1,2}[/.\-]\d{2,4}', '', t)
+    # Enlever heures (HH:MM, HHhMM)
+    t = re.sub(r'\d{1,2}[h:]\d{2}', '', t)
+    # Enlever nombres isoles (annees, timestamps)
+    t = re.sub(r'\b\d{4,}\b', '', t)
+    # Enlever ponctuation, lowercase
     t = re.sub(r'[^\w\s]', '', t.lower())
+    # Enlever mots tres courts (le, la, de, du, des, un, une, et, a, en)
+    t = re.sub(r'\b(le|la|les|de|du|des|un|une|et|a|en|au|aux|pour|par|sur|dans|avec|son|sa|ses)\b', '', t)
     t = re.sub(r'\s+', ' ', t).strip()
     return t
+
+
+def _titles_similar(hash1, hash2, threshold=0.75):
+    """Verifie si deux hashes de titre sont similaires (Jaccard sur les mots).
+
+    Permet de detecter les doublons meme avec des reformulations legeres.
+    Ex: "22 millions cartons avocats sud-africains" vs
+        "exportations avocats sud-africains millions cartons"
+    """
+    words1 = set(hash1.split())
+    words2 = set(hash2.split())
+    if not words1 or not words2:
+        return False
+    intersection = words1 & words2
+    union = words1 | words2
+    jaccard = len(intersection) / len(union) if union else 0
+    return jaccard >= threshold
 
 
 def _extract_titles(html):
@@ -151,7 +183,7 @@ def add_articles(data, articles_html_fr, articles_html_en="", articles_html_he="
     en_items = _extract_articles(articles_html_en) if articles_html_en else []
     he_items = _extract_articles(articles_html_he) if articles_html_he else []
 
-    # Titres existants pour dedup
+    # Titres existants pour dedup (exact + fuzzy)
     existing_hashes = {a.get("title_hash", "") for a in data["articles"]}
 
     added = 0
@@ -163,17 +195,20 @@ def add_articles(data, articles_html_fr, articles_html_en="", articles_html_he="
         title_text_clean = re.sub(r'<[^>]+>', '', title_text).strip()
         t_hash = _title_hash(title_text)
 
+        # Check exact match
         if t_hash in existing_hashes:
-            print(f"  Doublon ignore : {title_text_clean[:60]}")
+            print(f"  Doublon exact ignore : {title_text_clean[:60]}")
             continue
 
-        # Extract source name from the HTML link if present
-        source_match = re.search(r'<a[^>]+>([^<]+)\s*[—–-]\s*', fr_html)
-        source_name = source_match.group(1).strip() if source_match else ""
-
-        # Extract commercial tags from badges
-        commercial_matches = re.findall(r'data-commercial="([^"]+)"', fr_html)
-        commercials = list(set(commercial_matches))
+        # Check fuzzy match (Jaccard similarity)
+        is_similar = False
+        for existing_hash in existing_hashes:
+            if existing_hash and _titles_similar(t_hash, existing_hash):
+                print(f"  Doublon similaire ignore : {title_text_clean[:60]}")
+                is_similar = True
+                break
+        if is_similar:
+            continue
 
         article = {
             "id": f"{int(_now_utc().timestamp())}_{i}",
@@ -181,8 +216,6 @@ def add_articles(data, articles_html_fr, articles_html_en="", articles_html_he="
             "title": title_text_clean,
             "title_hash": t_hash,
             "category": _extract_category(fr_html),
-            "source_name": source_name,
-            "commercials": commercials,
             "content_fr": fr_html,
             "content_en": en_items[i] if i < len(en_items) else "",
             "content_he": he_items[i] if i < len(he_items) else "",
@@ -227,8 +260,6 @@ def get_articles_json_for_frontend(data):
                 "timestamp": a["timestamp"],
                 "title": a.get("title", ""),
                 "category": a.get("category", ""),
-                "source_name": a.get("source_name", ""),
-                "commercials": a.get("commercials", []),
                 "content_fr": a.get("content_fr", ""),
                 "content_en": a.get("content_en", ""),
                 "content_he": a.get("content_he", ""),

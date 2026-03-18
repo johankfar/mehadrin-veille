@@ -2,45 +2,41 @@
 """
 veille_generator.py -- Generateur de veille marche (cron toutes les 2h)
 ========================================================================
-Pipeline V3 -- VRAIS ARTICLES UNIQUEMENT :
-  1. Scraper RSS multi-sources multi-langues (vrais articles, vrais liens)
-  2. Filtrer par mots-cles produits Mehadrin
-  3. Traduire articles non-FR vers FR (Gemini Flash)
-  4. Validation pertinence Gemini (OUI/NON par article)
-  5. Categoriser + impact tactique (Gemini Flash)
-  6. Formater HTML FR, traduire FR -> EN, FR -> HE
-  7. Stocker dans veille_data.json (accumulation 48h)
-  8. Exporter veille_live.json pour le front-end
-
-ZERO invention. Chaque article = vrai article avec vrai lien.
+Pipeline :
+  1. Charger les articles existants (anti-doublon)
+  2. Generer 4-8 nouveaux articles via Gemini Flash + Google Search Grounding
+  3. Fact-check via Gemini Flash + Google Search Grounding (pass 2)
+  4. Traduire FR -> EN, FR -> HE
+  5. Stocker dans veille_data.json (accumulation 48h)
+  6. Exporter veille_live.json pour le front-end
 """
 
-import json
 import os
 import re
 import sys
 import time
 from datetime import datetime
 
-# Variables d'environnement (GitHub Actions) ou config.py (local)
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-GEMINI_API_KEY_DEFAULT = os.environ.get("GEMINI_API_KEY_DEFAULT", "")
-GEMINI_MODEL_FLASH = os.environ.get("GEMINI_MODEL_FLASH", "gemini-3-flash-preview")
+# Ajouter le dossier parent pour importer config
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from veille_scraper import scrape_real_articles
+try:
+    from config import GEMINI_API_KEY, GEMINI_API_KEY_DEFAULT, GEMINI_MODEL_FLASH
+except ImportError:
+    GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
+    GEMINI_API_KEY_DEFAULT = os.environ.get("GEMINI_API_KEY_DEFAULT", "")
+    GEMINI_MODEL_FLASH = "gemini-3-flash-preview"
+
+from veille_prompt import VEILLE_PROMPT_TEMPLATE, FACTCHECK_PROMPT, get_seasonal_products, get_off_season_products
 from veille_storage import (
     load_data, save_data, purge_old_articles, can_generate,
     get_previous_titles, add_articles, get_articles_json_for_frontend,
 )
-from veille_translate import translate_html
-from veille_prompt import get_seasonal_products, get_commercial_for_article
+from veille_translate import translate_all
 
 # Chemin du JSON front-end
 DATA_DIR = os.path.dirname(os.path.abspath(__file__))
 LIVE_JSON = os.path.join(DATA_DIR, "veille_live.json")
-
-# Categories de renseignement
-CATEGORIES = ["PRIX & VOLUMES", "ALERTES SUPPLY", "MOUVEMENTS ENSEIGNES", "CONCURRENCE ORIGINES"]
 
 
 def _gemini_call_with_retry(client, max_retries=3, initial_wait=5, **kwargs):
@@ -59,305 +55,83 @@ def _gemini_call_with_retry(client, max_retries=3, initial_wait=5, **kwargs):
                 raise
 
 
-def _categorize_articles(client, articles):
-    """Utilise Gemini Flash pour categoriser chaque article et ajouter un impact tactique.
-
-    NE genere PAS de contenu — utilise uniquement le titre et la description existants.
-    """
-    if not articles:
-        return articles
-
-    # Build prompt with all articles
-    articles_text = ""
-    for i, art in enumerate(articles):
-        articles_text += f"\n--- Article {i+1} ---\n"
-        articles_text += f"Titre: {art['title']}\n"
-        articles_text += f"Contenu: {art.get('content', '')[:500]}\n"
-
-    prompt = f"""Tu es un analyste commercial B2B fruits et legumes pour Mehadrin France (exportateur israelien).
-
-Pour chaque article ci-dessous, donne :
-1. La CATEGORIE parmi : PRIX & VOLUMES, ALERTES SUPPLY, MOUVEMENTS ENSEIGNES, CONCURRENCE ORIGINES
-2. Un IMPACT TACTIQUE en 1 phrase (que fait le commercial avec cette info en rendez-vous ?)
-
-Reponds STRICTEMENT en JSON, un objet par article :
-[
-  {{"index": 0, "category": "PRIX & VOLUMES", "impact": "Phrase d'impact tactique"}},
-  ...
-]
-
-PAS de markdown, PAS de commentaires. Juste le JSON.
-
-Articles :
-{articles_text}"""
-
-    try:
-        resp = _gemini_call_with_retry(
-            client,
-            model=GEMINI_MODEL_FLASH,
-            contents=[prompt],
-        )
-        raw = resp.text or ""
-        raw = re.sub(r'```\w*\s*', '', raw).strip().strip('`')
-
-        results = json.loads(raw)
-        for entry in results:
-            idx = entry.get("index", -1)
-            if 0 <= idx < len(articles):
-                articles[idx]["category"] = entry.get("category", "PRIX & VOLUMES")
-                articles[idx]["impact"] = entry.get("impact", "")
-        print(f"  {len(results)} articles categorises")
-
-    except Exception as e:
-        print(f"  Categorisation echouee ({e}) -- categories par defaut")
-        for art in articles:
-            if "category" not in art:
-                art["category"] = "PRIX & VOLUMES"
-            if "impact" not in art:
-                art["impact"] = ""
-
-    return articles
+def _clean_api_html(text):
+    """Clean API response: remove markdown fences, backticks, extract HTML."""
+    text = re.sub(r'```\w*\s*', '', text.strip())
+    text = text.replace('`', '')
+    text = re.sub(r'\n\s*---\s*\n', '\n', text)
+    text = re.sub(r'\n\s*\*\*\*\s*\n', '\n', text)
+    # Extract only HTML content
+    first_div = text.find('<div')
+    if first_div > 0:
+        text = text[first_div:]
+    last_div = text.rfind('</div>')
+    if last_div > 0:
+        text = text[:last_div + 6]
+    else:
+        opens = text.count('<div')
+        closes = text.count('</div>')
+        while closes < opens:
+            text += '</div>'
+            closes += 1
+    return text
 
 
-def _translate_foreign_articles_to_fr(client, articles):
-    """Traduit les articles non-FR vers FR via Gemini Flash.
-
-    Supporte EN, IT, ES, DE. Batch par groupes de 3 max pour eviter
-    les reponses tronquees sur les prompts longs.
-    """
-    LANG_NAMES = {"en": "anglais", "it": "italien", "es": "espagnol", "de": "allemand"}
-    BATCH_SIZE = 3
-
-    # Group by source language
-    by_lang = {}
-    for art in articles:
-        lang = art.get("source_lang", "en")
-        if lang == "fr":
-            continue
-        by_lang.setdefault(lang, []).append(art)
-
-    for lang, lang_articles in by_lang.items():
-        lang_name = LANG_NAMES.get(lang, lang)
-        print(f"  Traduction {lang_name} -> FR ({len(lang_articles)} articles)...")
-
-        # Process in batches of BATCH_SIZE
-        for batch_start in range(0, len(lang_articles), BATCH_SIZE):
-            batch = lang_articles[batch_start:batch_start + BATCH_SIZE]
-
-            if len(batch) == 1:
-                # Single article: simple prompt
-                art = batch[0]
-                prompt = (
-                    f"Traduis ce titre et ce resume d'article du {lang_name} en francais. "
-                    f"Garde le meme sens, meme longueur. PAS de markdown.\n\n"
-                    f"Titre: {art['title']}\n\n"
-                    f"Contenu: {art.get('content', '')[:800]}\n\n"
-                    f"Reponds STRICTEMENT en JSON:\n"
-                    f'{{"title_fr": "...", "content_fr": "..."}}'
-                )
-                try:
-                    resp = _gemini_call_with_retry(
-                        client, max_retries=2, initial_wait=2,
-                        model=GEMINI_MODEL_FLASH,
-                        contents=[prompt],
-                    )
-                    raw = resp.text or ""
-                    raw = re.sub(r'```\w*\s*', '', raw).strip().strip('`')
-                    result = json.loads(raw)
-                    art["title_fr"] = result.get("title_fr", art["title"])
-                    art["content_fr"] = result.get("content_fr", art.get("content", ""))
-                    print(f"    FR: {art['title_fr'][:55]}")
-                except Exception as e:
-                    print(f"    Echec trad '{art['title'][:40]}': {e}")
-                    art["title_fr"] = art["title"]
-                    art["content_fr"] = art.get("content", "")
+def _clean_ghost_news(news_html):
+    """Supprime les blocs d'actus fantomes (supprimees mais affichees avec placeholder)."""
+    ghost_pattern = re.compile(
+        r'<div\s+class="news-item">[^<]*(?:<(?!/div>)[^<]*)*'
+        r'(?:supprim[ée]|place laissée vide|antérieur au|aucune actualité.*?identifi[ée])'
+        r'[^<]*(?:<(?!/div>)[^<]*)*</div>\s*(?:</div>)?',
+        re.DOTALL | re.IGNORECASE
+    )
+    cleaned = ghost_pattern.sub('', news_html)
+    if any(w in cleaned.lower() for w in ['supprimé', 'place laissée vide', 'antérieur au']):
+        parts = re.split(r'(<div\s+class="news-item">)', cleaned)
+        result = []
+        skip = False
+        for part in parts:
+            if '<div class="news-item">' in part:
+                skip = False
+                result.append(part)
+            elif skip:
+                continue
             else:
-                # Batch prompt for 2-3 articles
-                articles_text = ""
-                for i, art in enumerate(batch):
-                    articles_text += f"\n--- Article {i} ---\n"
-                    articles_text += f"Titre: {art['title']}\n"
-                    articles_text += f"Contenu: {art.get('content', '')[:500]}\n"
-
-                prompt = (
-                    f"Traduis ces {len(batch)} articles du {lang_name} en francais. "
-                    f"Garde le meme sens, meme longueur. PAS de markdown.\n\n"
-                    f"{articles_text}\n\n"
-                    f"Reponds STRICTEMENT en JSON (un objet par article):\n"
-                    f'[{{"index": 0, "title_fr": "...", "content_fr": "..."}}, ...]'
-                )
-                try:
-                    resp = _gemini_call_with_retry(
-                        client, max_retries=2, initial_wait=2,
-                        model=GEMINI_MODEL_FLASH,
-                        contents=[prompt],
-                    )
-                    raw = resp.text or ""
-                    raw = re.sub(r'```\w*\s*', '', raw).strip().strip('`')
-                    results = json.loads(raw)
-                    for entry in results:
-                        idx = entry.get("index", -1)
-                        if 0 <= idx < len(batch):
-                            batch[idx]["title_fr"] = entry.get("title_fr", batch[idx]["title"])
-                            batch[idx]["content_fr"] = entry.get("content_fr", batch[idx].get("content", ""))
-                            print(f"    FR: {batch[idx]['title_fr'][:55]}")
-                except Exception as e:
-                    print(f"    Echec trad batch {lang_name}: {e}")
-                    for art in batch:
-                        art["title_fr"] = art.get("title_fr", art["title"])
-                        art["content_fr"] = art.get("content_fr", art.get("content", ""))
+                low = part.lower()
+                if any(w in low for w in ['supprimé', 'place laissée vide', 'antérieur au']):
+                    if result and '<div class="news-item">' in result[-1]:
+                        result.pop()
+                    skip = True
+                    continue
+                result.append(part)
+        cleaned = ''.join(result)
+    return cleaned
 
 
-def _validate_relevance_gemini(client, articles, max_keep=20):
-    """Valide la pertinence des articles via Gemini Flash (OUI/NON par article).
-
-    Envoie un batch de titres + descriptions courtes, Gemini repond OUI/NON.
-    Inclut le contexte saisonnier pour prioriser les produits en saison.
-    Garde max max_keep articles pertinents.
-    Fallback: si Gemini echoue, garde tous les articles.
-    """
-    if not articles:
-        return articles
-
-    # Get current week and seasonal products
-    week_num = datetime.now().isocalendar()[1]
-    seasonal = get_seasonal_products(week_num)
-    seasonal_str = ", ".join(seasonal) if seasonal else "Dattes Medjoul (toute l'annee)"
-
-    # Build prompt with truncated content
-    articles_text = ""
-    for i, art in enumerate(articles):
-        title = art.get("title_fr", art["title"])
-        content = art.get("content_fr", art.get("content", ""))[:300]
-        articles_text += f"\n{i}. {title}\n   {content}\n"
-
-    prompt = f"""Tu es le FILTRE FINAL de pertinence pour Mehadrin France (exportateur ISRAELIEN de fruits frais vers Europe).
-4 commerciaux terrain vont en rendez-vous chez Carrefour, Auchan, Lidl, Leclerc, Intermarche, grossistes Rungis, distribution Italie.
-Un article utile = un ARGUMENT DE VENTE CONCRET. Un article inutile = du bruit.
-
-PRODUITS MEHADRIN (les SEULS qui comptent) :
-- Ophelie : Avocats Hass, Mangues, Patates douces
-- Nadia : Mandarines Orri/Or Mehadrin/Or Shoham, Star Ruby, Sweetie, Nadorcott, Clemengold
-- Jessica : Dattes Medjoul, Grenades, Kumquat
-- Sebastien : Melons, Pasteques, Cerises, Raisin
-
-PRODUITS EN SAISON CETTE SEMAINE (sem {week_num}) — PRIORITE MAXIMALE :
-{seasonal_str}
-
-Pour chaque article, reponds OUI ou NON. Sois IMPITOYABLE :
-
-OUI uniquement si un commercial peut UTILISER cette info en rendez-vous :
-- PRIX/cotations d'un produit Mehadrin (au kilo, au colis, par calibre)
-- VOLUMES import/export d'un produit Mehadrin (hausse/baisse)
-- Debut/fin de CAMPAGNE d'une origine concurrente sur un produit Mehadrin
-- Probleme QUALITE/PRODUCTION sur une origine concurrente (gel, secheresse, greve) qui impacte l'offre
-- MOUVEMENT d'une enseigne GMS : appel d'offres, changement fournisseur, dereferencement sur un produit Mehadrin
-- RUPTURE/PENURIE sur un produit Mehadrin chez un concurrent
-
-NON — rejeter SYSTEMATIQUEMENT :
-- Politique agricole, gouvernement, accords commerciaux vagues, macro-economie, "le secteur agroalimentaire"
-- Produits HORS catalogue : tomate, carotte, oignon, salade, pomme de terre, banane, pomme, poire, kiwi, fraise, framboise, agrumes generiques
-- Sante/nutrition/etudes scientifiques (MEME sur avocat ou mangue — "l'avocat ameliore la fonction vasculaire" = NON)
-- Phytosanitaire TECHNIQUE : mouche des fruits, thrips, pieges, traitements, pesticides (SAUF si ca provoque un embargo ou une interdiction d'import)
-- Logistique/fret/conteneurs/ports/shipping (Hapag-Lloyd, ZIM, CMA CGM = NON)
-- Technologie/robots/emballage/packaging/conservation/atmosphere controlee
-- B2C/consommateur/recettes/promos rayon
-- RSE/bio/durable SAUF impact direct sur prix
-- Salons/conferences SAUF annonce concrete d'un contrat
-- Article GENERIQUE sans chiffre ni fait precis
-
-Reponds en JSON STRICT : [{{"index": 0, "relevant": true}}, ...]
-PAS de markdown, PAS de commentaires.
-
-Articles :
-{articles_text}"""
-
-    try:
-        resp = _gemini_call_with_retry(
-            client,
-            model=GEMINI_MODEL_FLASH,
-            contents=[prompt],
-        )
-        raw = resp.text or ""
-        raw = re.sub(r'```\w*\s*', '', raw).strip().strip('`')
-        results = json.loads(raw)
-
-        kept = []
-        rejected = 0
-        for entry in results:
-            idx = entry.get("index", -1)
-            if 0 <= idx < len(articles) and entry.get("relevant", False):
-                kept.append(articles[idx])
-            else:
-                rejected += 1
-
-        print(f"  Validation Gemini : {len(kept)} pertinents, {rejected} rejetes")
-        return kept[:max_keep]
-
-    except Exception as e:
-        print(f"  Validation Gemini echouee ({e}) -- garde tous les articles")
-        return articles[:max_keep]
-
-
-def _tag_commercials(articles):
-    """Tag chaque article avec le(s) commercial(aux) concerne(s)."""
-    for art in articles:
-        title = art.get("title_fr", art.get("title", ""))
-        content = art.get("content_fr", art.get("content", ""))
-        commercials = get_commercial_for_article(title, content)
-        art["commercials"] = commercials
-        if commercials:
-            print(f"    Tag: {', '.join(commercials)} <- {title[:50]}")
-
-
-def _format_articles_html(articles, date_str, lang="fr"):
-    """Formate les articles reels en HTML pour le front-end.
-
-    lang="fr" : utilise content_fr (traduit) ou content original si source FR
-    lang="en" : utilise content original si source EN, ou content pour source FR
-
-    Chaque article contient un VRAI lien vers l'article source.
-    """
-    html_parts = []
-    for art in articles:
-        cat = art.get("category", "PRIX & VOLUMES")
-        title = art["title"]
-        url = art["url"]
-        impact = art.get("impact", "")
-        source_name = art.get("source_name", "FreshPlaza")
-        source_lang = art.get("source_lang", "fr")
-        commercials = art.get("commercials", [])
-
-        if lang == "fr":
-            content = art.get("content_fr", art.get("content", ""))
-            title = art.get("title_fr", title)
-        elif lang == "en":
-            content = art.get("content", "")
-        else:
-            content = art.get("content", "")
-
-        # Build body
-        body = content
-        if impact:
-            body += f' <strong>Impact tactique :</strong> {impact}'
-
-        html = (
-            f'<div class="news-item">\n'
-            f'  <div class="news-cat">{cat}</div>\n'
-            f'  <div class="news-title">{title} -- <span class="news-date">{date_str}</span></div>\n'
-            f'  <div class="news-body">{body}</div>\n'
-            f'  <div class="news-source"><a href="{url}" target="_blank">{source_name} — Lire l\'article</a></div>\n'
-            f'</div>'
-        )
-        html_parts.append(html)
-
-    return "\n".join(html_parts)
+def _strip_emojis(text):
+    """Supprime tous les emojis du texte."""
+    emoji_pattern = re.compile(
+        "["
+        "\U0001F600-\U0001F64F"  # emoticons
+        "\U0001F300-\U0001F5FF"  # symbols & pictographs
+        "\U0001F680-\U0001F6FF"  # transport & map
+        "\U0001F1E0-\U0001F1FF"  # flags
+        "\U00002702-\U000027B0"
+        "\U000024C2-\U0001F251"
+        "\U0001f900-\U0001f9FF"
+        "\U0001fa00-\U0001fa6f"
+        "\U0001fa70-\U0001faff"
+        "\U00002600-\U000026FF"
+        "\U0000FE00-\U0000FE0F"
+        "\U0000200D"
+        "]+",
+        flags=re.UNICODE,
+    )
+    return emoji_pattern.sub('', text)
 
 
 def generate_veille(force=False):
     """Execute un cycle complet de generation de veille.
-
-    Pipeline V3 : vrais articles uniquement, multi-langue, validation Gemini.
 
     Args:
         force: Si True, ignore le rate limit (pour tests)
@@ -366,8 +140,7 @@ def generate_veille(force=False):
         dict: Donnees JSON pour le front-end, ou None si echec/rate-limited
     """
     print("=" * 60)
-    print(f"  VEILLE MARCHE V3 -- {datetime.now().strftime('%d/%m/%Y %H:%M')}")
-    print("  Mode : VRAIS ARTICLES (scraping RSS multi-sources)")
+    print(f"  VEILLE MARCHE -- {datetime.now().strftime('%d/%m/%Y %H:%M')}")
     print("=" * 60)
 
     # 1. Charger donnees existantes
@@ -381,102 +154,119 @@ def generate_veille(force=False):
         _save_frontend_json(frontend_json)
         return frontend_json
 
-    # 3. Scraper les VRAIS articles depuis RSS (multi-sources)
-    print("\n  === SCRAPING RSS ===")
-    real_articles = scrape_real_articles()
-
-    if not real_articles:
-        print("  Aucun article pertinent trouve dans les RSS")
-        frontend_json = get_articles_json_for_frontend(data)
-        _save_frontend_json(frontend_json)
-        return frontend_json
-
-    # 4. Deduplication vs articles existants
-    previous_titles = get_previous_titles(data)
-    prev_set = set(t.lower()[:50] for t in previous_titles)
-    new_articles = [a for a in real_articles if a["title"].lower()[:50] not in prev_set]
-    print(f"  {len(new_articles)} nouveaux (vs {len(real_articles)} trouves, {len(prev_set)} existants)")
-
-    if not new_articles:
-        print("  Tous les articles sont deja connus")
-        frontend_json = get_articles_json_for_frontend(data)
-        _save_frontend_json(frontend_json)
-        return frontend_json
-
-    # 5. Init Gemini client
+    # 3. Preparer le prompt
     gemini_key = GEMINI_API_KEY or GEMINI_API_KEY_DEFAULT or os.environ.get("GEMINI_API_KEY", "")
-    client = None
-    if gemini_key:
-        try:
-            from google import genai
-            client = genai.Client(api_key=gemini_key)
-        except Exception as e:
-            print(f"  Init Gemini echouee ({e})")
+    if not gemini_key:
+        print("  ERREUR : Aucune cle API Gemini disponible")
+        return None
 
-    # 6. Traduire les articles non-FR vers FR (AVANT categorisation)
-    foreign_articles = [a for a in new_articles if a.get("source_lang", "fr") != "fr"]
-    if foreign_articles and client:
-        print(f"\n  === TRADUCTION -> FR ({len(foreign_articles)} articles) ===")
-        try:
-            _translate_foreign_articles_to_fr(client, foreign_articles)
-        except Exception as e:
-            print(f"  Traduction -> FR echouee ({e})")
-
-    # 7. Validation pertinence Gemini (OUI/NON, max 20 gardes)
-    if client:
-        print(f"\n  === VALIDATION PERTINENCE GEMINI ({len(new_articles)} candidats) ===")
-        new_articles = _validate_relevance_gemini(client, new_articles, max_keep=20)
-
-    if not new_articles:
-        print("  Aucun article valide apres filtrage Gemini")
-        frontend_json = get_articles_json_for_frontend(data)
-        _save_frontend_json(frontend_json)
-        return frontend_json
-
-    # 8. Categoriser avec Gemini (PAS inventer -- juste categoriser + impact)
-    if client:
-        print("\n  === CATEGORISATION GEMINI ===")
-        try:
-            new_articles = _categorize_articles(client, new_articles)
-        except Exception as e:
-            print(f"  Categorisation echouee ({e})")
-    else:
-        print("  Pas de cle Gemini -- categories par defaut")
-
-    # 9. Tagger par commercial
-    print("\n  === TAGGING COMMERCIAUX ===")
-    _tag_commercials(new_articles)
-
-    # 10. Formater en HTML (FR et EN separement)
     now = datetime.now()
     date_str = now.strftime("%d/%m/%Y %H:%M")
-    news_html_fr = _format_articles_html(new_articles, date_str, lang="fr")
-    news_html_en = _format_articles_html(new_articles, date_str, lang="en")
-    print(f"\n  HTML FR: {len(news_html_fr)} chars, EN: {len(news_html_en)} chars")
+    week_num = now.isocalendar()[1]
+    seasonal = get_seasonal_products(week_num)
+    seasonal_str = ", ".join(seasonal) if seasonal else "Dattes Medjoul (toute l'annee)"
 
-    # 10. Traduire FR -> HE
-    print("\n  === TRADUCTION HE ===")
-    html_he = ""
-    if client:
-        try:
-            html_he = translate_html(news_html_fr, "he")
-            print(f"  HE: {len(html_he)} chars")
-        except Exception as e:
-            print(f"  Traduction HE echouee ({e})")
-    html_en = news_html_en
+    off_season = get_off_season_products(week_num)
+    off_season_str = ", ".join(off_season) if off_season else "Aucun"
 
-    # 11. Stocker les nouveaux articles
-    added = add_articles(data, news_html_fr, html_en, html_he)
-    print(f"\n  {added} nouveaux articles ajoutes (total: {len(data['articles'])})")
+    previous_titles = get_previous_titles(data)
+    prev_titles_str = "\n".join(f"- {t}" for t in previous_titles[-20:]) if previous_titles else "Aucun (premier cycle)"
+
+    prompt = VEILLE_PROMPT_TEMPLATE.format(
+        date=date_str,
+        week_num=week_num,
+        seasonal_products=seasonal_str,
+        off_season_products=off_season_str,
+        previous_titles=prev_titles_str,
+    )
+
+    # 4. PASS 1 : Generation via Gemini Flash + Google Search Grounding
+    raw_news = ""
+    try:
+        from google import genai
+        from google.genai import types
+
+        client = genai.Client(api_key=gemini_key)
+        search_config = types.GenerateContentConfig(
+            tools=[types.Tool(google_search=types.GoogleSearch())],
+        )
+
+        print(f"  Pass 1/2 : Gemini Flash + Google Search (sem {week_num})...")
+        print(f"  Produits en saison : {seasonal_str}")
+
+        response = _gemini_call_with_retry(
+            client,
+            model=GEMINI_MODEL_FLASH,
+            contents=[prompt],
+            config=search_config,
+        )
+        raw_news = response.text or ""
+        print(f"  Pass 1 -- raw: {len(raw_news)} chars")
+        raw_news = _clean_api_html(raw_news)
+        raw_news = _strip_emojis(raw_news)
+        print(f"  Pass 1 -- cleaned: {len(raw_news)} chars")
+
+    except Exception as e:
+        import traceback
+        print(f"  ERREUR Pass 1 (Gemini): {e}")
+        traceback.print_exc()
+        # Conserver les articles existants
+        frontend_json = get_articles_json_for_frontend(data)
+        _save_frontend_json(frontend_json)
+        return frontend_json
+
+    if not raw_news or len(raw_news) < 100:
+        print("  Pass 1 vide ou trop courte -- articles existants conserves")
+        frontend_json = get_articles_json_for_frontend(data)
+        _save_frontend_json(frontend_json)
+        return frontend_json
+
+    # 5. PASS 2 : Fact-check
+    checked_news = raw_news  # fallback
+    try:
+        factcheck_prompt = FACTCHECK_PROMPT.format(
+            news_html=raw_news,
+            report_date=date_str,
+        )
+
+        print("  Pass 2/2 : Fact-check Gemini Flash + Google Search...")
+        response2 = _gemini_call_with_retry(
+            client,
+            model=GEMINI_MODEL_FLASH,
+            contents=[factcheck_prompt],
+            config=search_config,
+        )
+        fc_result = _clean_api_html(response2.text or "")
+        fc_result = _strip_emojis(fc_result)
+        print(f"  Pass 2 -- cleaned: {len(fc_result)} chars")
+
+        if fc_result and len(fc_result) > 200:
+            checked_news = _clean_ghost_news(fc_result)
+            print("  Fact-check OK")
+        else:
+            print("  Pass 2 trop courte -- utilisation Pass 1")
+            checked_news = _clean_ghost_news(raw_news)
+
+    except Exception as e:
+        print(f"  Fact-check echoue ({e}) -- utilisation Pass 1")
+        checked_news = _clean_ghost_news(raw_news)
+
+    # 6. Traductions EN / HE
+    print("  Traductions...")
+    html_en, html_he = translate_all(checked_news)
+
+    # 7. Stocker les nouveaux articles
+    added = add_articles(data, checked_news, html_en, html_he)
+    print(f"  {added} nouveaux articles ajoutes (total: {len(data['articles'])})")
 
     save_data(data)
 
-    # 12. Exporter le JSON front-end
+    # 8. Exporter le JSON front-end
     frontend_json = get_articles_json_for_frontend(data)
     _save_frontend_json(frontend_json)
 
     print("=" * 60)
-    print(f"  VEILLE TERMINEE -- {len(frontend_json['articles'])} articles (VRAIS)")
+    print(f"  VEILLE TERMINEE -- {len(frontend_json['articles'])} articles disponibles")
     print("=" * 60)
 
     return frontend_json
