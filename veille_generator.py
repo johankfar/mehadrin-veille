@@ -152,14 +152,23 @@ def generate_veille(force=False):
         _save_frontend_json(frontend_json)
         return frontend_json
 
-    # 4. Filtrer les doublons avec les articles existants
+    # 4. Filtrer les doublons avec les articles existants (titre + URL)
     existing_titles = set()
+    existing_urls = set()
     for a in data.get("articles", []):
         t = re.sub(r"[^\w]", "", a.get("title", "").lower())
         existing_titles.add(t)
+        # Extraire les URLs des articles existants (depuis le HTML)
+        for url_match in re.findall(r'href="([^"]+)"', a.get("content_fr", "")):
+            existing_urls.add(re.sub(r"[?#].*$", "", url_match.lower().rstrip("/")))
 
     new_rss = []
     for a in rss_articles:
+        # Dedup URL
+        url_norm = re.sub(r"[?#].*$", "", a["link"].lower().rstrip("/"))
+        if url_norm in existing_urls:
+            continue
+        # Dedup titre
         t_norm = re.sub(r"[^\w]", "", a["title"].lower())
         if t_norm not in existing_titles:
             new_rss.append(a)
@@ -186,6 +195,7 @@ def generate_veille(force=False):
     off_season = get_off_season_products(week_num)
     off_season_str = ", ".join(off_season) if off_season else "Aucun"
 
+    # Injecter les commerciaux dans chaque article pour le prompt
     articles_text = _format_rss_articles_for_prompt(new_rss)
 
     prompt = HYBRID_FILTER_PROMPT.format(

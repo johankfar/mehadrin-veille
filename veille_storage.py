@@ -122,6 +122,20 @@ def _extract_articles(html):
     return articles
 
 
+def _detect_commercials_from_html(article_html):
+    """Detecte quel(s) commercial(aux) sont concernes par un article HTML."""
+    try:
+        from veille_rss import PRODUCT_TO_COMMERCIAL
+    except ImportError:
+        return []
+    text = re.sub(r'<[^>]+>', '', article_html).lower()
+    commercials = set()
+    for keyword, commercial in PRODUCT_TO_COMMERCIAL.items():
+        if keyword in text:
+            commercials.add(commercial)
+    return sorted(commercials)
+
+
 def _extract_category(article_html):
     """Extrait la categorie d'un article HTML."""
     m = re.search(r'<div class="news-cat">(.*?)</div>', article_html)
@@ -210,12 +224,16 @@ def add_articles(data, articles_html_fr, articles_html_en="", articles_html_he="
         if is_similar:
             continue
 
+        # Detect commercial(s) from title
+        commercials = _detect_commercials_from_html(fr_html)
+
         article = {
             "id": f"{int(_now_utc().timestamp())}_{i}",
             "timestamp": now_iso,
             "title": title_text_clean,
             "title_hash": t_hash,
             "category": _extract_category(fr_html),
+            "commercials": commercials,
             "content_fr": fr_html,
             "content_en": en_items[i] if i < len(en_items) else "",
             "content_he": he_items[i] if i < len(he_items) else "",
@@ -260,6 +278,7 @@ def get_articles_json_for_frontend(data):
                 "timestamp": a["timestamp"],
                 "title": a.get("title", ""),
                 "category": a.get("category", ""),
+                "commercials": a.get("commercials", []),
                 "content_fr": a.get("content_fr", ""),
                 "content_en": a.get("content_en", ""),
                 "content_he": a.get("content_he", ""),

@@ -32,6 +32,11 @@ RSS_FEEDS = [
     {"url": "https://www.reussir.fr/fruits-legumes/rss.xml", "name": "Reussir F&L", "lang": "fr"},
     {"url": "https://hortoinfo.es/feed/",                "name": "Hortoinfo",       "lang": "es"},
     {"url": "https://citrusindustry.net/feed/",          "name": "Citrus Industry", "lang": "en"},
+    # FreshPlaza editions regionales
+    {"url": "https://www.freshplaza.com/asia/rss.xml/",           "name": "FreshPlaza Asia",    "lang": "en"},
+    {"url": "https://www.freshplaza.com/north-america/rss.xml/",  "name": "FreshPlaza NA",      "lang": "en"},
+    {"url": "https://www.freshplaza.com/latin-america/rss.xml/",  "name": "FreshPlaza LatAm",   "lang": "en"},
+    {"url": "https://www.freshplaza.com/africa/rss.xml/",         "name": "FreshPlaza Africa",  "lang": "en"},
     # Priorite basse — couverture plus large
     {"url": "https://www.producereport.com/rss.xml",     "name": "Produce Report",  "lang": "en"},
     {"url": "https://producebusiness.com/feed/",         "name": "Produce Business","lang": "en"},
@@ -81,15 +86,86 @@ MEHADRIN_KEYWORDS = [
 
 # Mots-cles d'exclusion (articles a ignorer meme si un mot-cle matche)
 EXCLUDE_KEYWORDS = [
+    # Phytosanitaire / technique
     "mouche des fruits", "fruit fly", "ceratitis", "mosca de la fruta",
-    "mouche mediterraneenne", "drosophila",
+    "mouche mediterraneenne", "drosophila", "thrips", "insecte", "parasite",
+    "piégeage", "pesticide", "traitement phytosanitaire",
+    # Logistique / fret
     "conteneur", "container", "shipping", "fret", "freight",
-    "hapag-lloyd", "zim", "cma cgm", "maersk",
+    "hapag-lloyd", "zim", "cma cgm", "maersk", "route maritime",
+    # Sante / nutrition / B2C
     "recette", "recipe", "ricetta", "receta",
     "cholesterol", "vitamin", "health study", "etude sante",
-    "blockchain", "robot", "emballage innovant",
-    "top chef", "sponsoring", "carte fidelite",
+    "bienfait", "nutrient", "antioxidant", "vascular function",
+    # Technologie
+    "blockchain", "robot", "emballage innovant", "atmosphere controlee",
+    "packaging innovant", "robotic",
+    # B2C / promo
+    "top chef", "sponsoring", "carte fidelite", "appli consommateur",
+    # Produits HORS catalogue Mehadrin (eviter faux positifs)
+    "tomate", "tomato", "pomodoro", "carotte", "carrot", "oignon", "onion",
+    "salade", "lettuce", "endive", "champignon", "mushroom",
+    "pomme de terre", "potato", "patata", "asperge", "asparagus",
+    "concombre", "cucumber", "courgette", "zucchini", "aubergine",
+    "brocoli", "broccoli", "chou", "cabbage", "artichaut",
+    "ananas", "pineapple", "banane", "banana", "pomme ", "apple",
+    "poire", "pear", "kiwi", "fraise", "strawberry", "framboise",
+    "myrtille", "blueberry",
 ]
+
+# ─── Mapping produit → commercial ───
+
+PRODUCT_TO_COMMERCIAL = {
+    # Ophélie — Avocats, Mangues, Patates douces
+    "avocat": "Ophélie", "avocats": "Ophélie", "hass": "Ophélie",
+    "avocado": "Ophélie", "avocados": "Ophélie", "aguacate": "Ophélie",
+    "mangue": "Ophélie", "mangues": "Ophélie", "mango": "Ophélie",
+    "mangos": "Ophélie", "mangoes": "Ophélie",
+    "patate douce": "Ophélie", "patates douces": "Ophélie",
+    "sweet potato": "Ophélie", "sweet potatoes": "Ophélie", "batata": "Ophélie",
+    # Nadia — Agrumes (Orri, Star Ruby, Sweetie, Nadorcott, Clemengold)
+    "orri": "Nadia", "or mehadrin": "Nadia", "or shoham": "Nadia",
+    "mandarine": "Nadia", "mandarines": "Nadia", "mandarin": "Nadia",
+    "mandarino": "Nadia", "mandarina": "Nadia",
+    "clementine": "Nadia", "clemenvilla": "Nadia",
+    "nadorcott": "Nadia", "clemengold": "Nadia",
+    "pamplemousse": "Nadia", "pamplemousses": "Nadia",
+    "star ruby": "Nadia", "pomelo": "Nadia", "grapefruit": "Nadia",
+    "pompelmo": "Nadia", "sweetie": "Nadia",
+    # Jessica — Dattes, Grenades, Kumquat
+    "datte": "Jessica", "dattes": "Jessica", "medjoul": "Jessica",
+    "medjool": "Jessica", "datteri": "Jessica", "datil": "Jessica",
+    "grenade": "Jessica", "grenades": "Jessica", "pomegranate": "Jessica",
+    "melagrana": "Jessica", "granada": "Jessica",
+    "kumquat": "Jessica",
+    # Sébastien — Melons, Pastèques, Cerises, Raisin
+    "melon": "Sébastien", "melons": "Sébastien", "melone": "Sébastien",
+    "pasteque": "Sébastien", "pasteques": "Sébastien",
+    "watermelon": "Sébastien", "anguria": "Sébastien", "sandia": "Sébastien",
+    "cerise": "Sébastien", "cerises": "Sébastien", "cherry": "Sébastien",
+    "cherries": "Sébastien", "ciliegia": "Sébastien", "cereza": "Sébastien",
+    "raisin": "Sébastien", "raisins": "Sébastien", "grape": "Sébastien",
+    "grapes": "Sébastien", "uva": "Sébastien",
+}
+
+COMMERCIAL_COLORS = {
+    "Ophélie": "#7c3aed",   # violet
+    "Nadia": "#0891b2",     # teal
+    "Jessica": "#c2410c",   # orange
+    "Sébastien": "#15803d", # vert
+}
+
+
+def detect_commercials(article):
+    """Detecte quel(s) commercial(aux) sont concernes par un article.
+    Retourne une liste triee de noms uniques."""
+    text = f"{article.get('title', '')} {article.get('summary', '')}".lower()
+    commercials = set()
+    for keyword, commercial in PRODUCT_TO_COMMERCIAL.items():
+        if keyword in text:
+            commercials.add(commercial)
+    return sorted(commercials)
+
 
 # ─── Parsing RSS ───
 
@@ -287,16 +363,28 @@ def fetch_all_feeds(max_age_hours=48):
 
     print(f"  Apres filtre mots-cles Mehadrin: {len(candidates)} candidats")
 
-    # Dedup par titre
+    # Dedup par URL d'abord, puis par titre (cross-source)
+    seen_urls = set()
     seen_titles = set()
     unique = []
     for a in candidates:
+        # Dedup URL (meme article repris par 2 sources = meme URL)
+        url_norm = re.sub(r"[?#].*$", "", a["link"].lower().rstrip("/"))
+        if url_norm in seen_urls:
+            continue
+        seen_urls.add(url_norm)
+        # Dedup titre (meme article traduit par 2 sources = titre different, contenu identique)
         t_norm = re.sub(r"[^\w]", "", a["title"].lower())
-        if t_norm not in seen_titles:
-            seen_titles.add(t_norm)
-            unique.append(a)
+        if t_norm in seen_titles:
+            continue
+        seen_titles.add(t_norm)
+        unique.append(a)
 
-    print(f"  Apres dedup titres: {len(unique)} uniques")
+    print(f"  Apres dedup titres+URLs: {len(unique)} uniques")
+
+    # Tagging commercial pour chaque article
+    for a in unique:
+        a["_commercials"] = detect_commercials(a)
 
     return unique
 

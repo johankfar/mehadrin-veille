@@ -10,9 +10,15 @@ import re
 import sys
 import time
 
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-GEMINI_API_KEY_DEFAULT = os.environ.get("GEMINI_API_KEY_DEFAULT", "")
-GEMINI_MODEL_FLASH = os.environ.get("GEMINI_MODEL_FLASH", "gemini-3-flash-preview")
+# Ajouter le dossier parent pour importer config
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+try:
+    from config import GEMINI_API_KEY, GEMINI_API_KEY_DEFAULT, GEMINI_MODEL_FLASH
+except ImportError:
+    GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
+    GEMINI_API_KEY_DEFAULT = os.environ.get("GEMINI_API_KEY_DEFAULT", "")
+    GEMINI_MODEL_FLASH = "gemini-3-flash-preview"
 
 
 def _gemini_call_with_retry(client, max_retries=3, initial_wait=5, **kwargs):
