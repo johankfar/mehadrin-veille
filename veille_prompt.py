@@ -124,14 +124,17 @@ Format HTML STRICT (PAS de markdown, PAS de ```, PAS d'emojis) :
   <div class="news-source"><a href="URL_EXACTE_DE_L_ARTICLE" target="_blank">Media -- Lire l'article</a></div>
 </div>
 
-REGLE CRITIQUE SUR LES LIENS :
-- Le href DOIT pointer vers l'URL EXACTE de l'article source, PAS vers la page d'accueil du media.
-- INTERDIT : href="https://www.freshplaza.fr/" ou href="https://www.lsa-conso.fr/" (pages d'accueil).
-- OBLIGATOIRE : href="https://www.freshplaza.fr/article/12345/titre-de-l-article/" (URL complete de l'article).
-- Si tu ne trouves PAS l'URL exacte de l'article via ta recherche Google, utilise le format :
-  <div class="news-source">Source : NomDuMedia</div>
-  (texte simple sans lien, PAS de href invente).
-- Ne JAMAIS inventer une URL. Un lien faux detruit la credibilite du briefing.
+REGLE CRITIQUE SUR LES SOURCES :
+- CHAQUE article DOIT etre base sur un ARTICLE REEL que tu as trouve via ta recherche Google.
+- Tu NE PEUX PAS synthetiser ou inventer une info a partir de bribes de plusieurs sources.
+- Si tu ne trouves PAS un article reel et recent qui dit exactement ce que tu rapportes, l'article N'EXISTE PAS.
+- Le href DOIT pointer vers l'URL EXACTE de l'article source reel.
+- INTERDIT : href vers page d'accueil (freshplaza.fr/, lsa-conso.fr/).
+- OBLIGATOIRE : href vers l'article precis (freshplaza.fr/article/12345/titre/).
+- Si tu as l'info mais PAS l'URL exacte, utilise :
+  <div class="news-source">Source : NomDuMedia (date)</div>
+- Ne JAMAIS inventer une URL ni fabriquer un chiffre. Le commercial va verifier.
+- Un commercial qui cite un chiffre faux ou un article inexistant perd sa credibilite.
 
 OBLIGATOIRE : chaque article DOIT contenir au moins DEUX chiffres concrets (prix, volume, pourcentage).
 Les categories sont en TEXTE BRUT sans emoji : PRIX & VOLUMES, ALERTES SUPPLY, MOUVEMENTS ENSEIGNES, CONCURRENCE ORIGINES."""

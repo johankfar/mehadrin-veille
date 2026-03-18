@@ -305,6 +305,9 @@ def generate_veille(force=False):
     added = add_articles(data, checked_news, html_en, html_he)
     print(f"  {added} nouveaux articles ajoutes (total: {len(data['articles'])})")
 
+    # 7b. Auto-fix traductions manquantes sur TOUS les articles existants
+    _fix_missing_translations(data)
+
     save_data(data)
 
     # 8. Exporter le JSON front-end
@@ -316,6 +319,39 @@ def generate_veille(force=False):
     print("=" * 60)
 
     return frontend_json
+
+
+def _fix_missing_translations(data):
+    """Auto-traduit les articles qui n'ont pas de traduction EN ou HE.
+
+    Appele a chaque run pour s'assurer que TOUS les articles sont traduits,
+    y compris ceux des cycles precedents ou la traduction avait echoue.
+    """
+    import time as _time
+    from veille_translate import translate_html
+
+    fixed = 0
+    for a in data.get("articles", []):
+        fr = a.get("content_fr", "")
+        if not fr or len(fr) < 50:
+            continue
+
+        if not a.get("content_en") or len(a["content_en"]) < 20:
+            print(f"  Auto-trad EN: {a.get('title', '')[:50]}")
+            a["content_en"] = translate_html(fr, "en")
+            fixed += 1
+            _time.sleep(0.5)
+
+        if not a.get("content_he") or len(a["content_he"]) < 20:
+            print(f"  Auto-trad HE: {a.get('title', '')[:50]}")
+            a["content_he"] = translate_html(fr, "he")
+            fixed += 1
+            _time.sleep(0.5)
+
+    if fixed:
+        print(f"  {fixed} traductions manquantes corrigees")
+    else:
+        print(f"  Toutes les traductions sont completes")
 
 
 def _save_frontend_json(frontend_json):
