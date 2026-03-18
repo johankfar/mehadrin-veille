@@ -121,9 +121,18 @@ Format HTML STRICT (PAS de markdown, PAS de ```, PAS d'emojis) :
   <div class="news-cat">PRIX & VOLUMES</div>
   <div class="news-title">Titre precis -- <span class="news-date">{date}</span></div>
   <div class="news-body">Renseignement detaille avec chiffres et contexte. Sources nommees. <strong>Impact tactique :</strong> Ce que le commercial dit/fait en rendez-vous avec cette info.</div>
-  <div class="news-source"><a href="URL" target="_blank">Media -- Lire l'article</a></div>
+  <div class="news-source"><a href="URL_EXACTE_DE_L_ARTICLE" target="_blank">Media -- Lire l'article</a></div>
 </div>
-OBLIGATOIRE : chaque news-item DOIT contenir un news-source avec un lien cliquable vers l'article original.
+
+REGLE CRITIQUE SUR LES LIENS :
+- Le href DOIT pointer vers l'URL EXACTE de l'article source, PAS vers la page d'accueil du media.
+- INTERDIT : href="https://www.freshplaza.fr/" ou href="https://www.lsa-conso.fr/" (pages d'accueil).
+- OBLIGATOIRE : href="https://www.freshplaza.fr/article/12345/titre-de-l-article/" (URL complete de l'article).
+- Si tu ne trouves PAS l'URL exacte de l'article via ta recherche Google, utilise le format :
+  <div class="news-source">Source : NomDuMedia</div>
+  (texte simple sans lien, PAS de href invente).
+- Ne JAMAIS inventer une URL. Un lien faux detruit la credibilite du briefing.
+
 OBLIGATOIRE : chaque article DOIT contenir au moins DEUX chiffres concrets (prix, volume, pourcentage).
 Les categories sont en TEXTE BRUT sans emoji : PRIX & VOLUMES, ALERTES SUPPLY, MOUVEMENTS ENSEIGNES, CONCURRENCE ORIGINES."""
 
@@ -146,9 +155,12 @@ PROTOCOLE DE VERIFICATION :
    - Chiffre inverifiable -- SUPPRIME le chiffre, garde l'info qualitative.
    - Article avec ZERO chiffre apres correction -- SUPPRIME-LE sans trace.
 
-3. SOURCES -- Verifie que chaque source citee existe reellement et dit bien ce qui est rapporte.
+3. SOURCES ET LIENS -- Verifie que chaque source citee existe reellement et dit bien ce qui est rapporte.
    - Source inventee ou deformee -- CORRIGE ou SUPPRIME l'article.
    - Lien mort -- Trouve le bon lien ou un article equivalent.
+   - LIENS OBLIGATOIRES : chaque href DOIT pointer vers l'URL EXACTE de l'article (PAS la page d'accueil du site).
+   - Si un href pointe vers une page d'accueil (ex: "freshplaza.fr/", "lsa-conso.fr/", "italiafruit.net/"), REMPLACE-LE par l'URL exacte de l'article via une recherche web.
+   - Si tu ne trouves PAS l'URL exacte, REMPLACE le lien par du texte simple : <div class="news-source">Source : NomDuMedia</div>
 
 4. REECRITURE :
    - Info principale FAUSSE ou PERIMEE -- REECRIS avec l'info correcte et la source la plus recente.

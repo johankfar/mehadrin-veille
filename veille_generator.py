@@ -108,6 +108,48 @@ def _clean_ghost_news(news_html):
     return cleaned
 
 
+def _fix_homepage_links(html):
+    """Remplace les liens homepage (sans chemin d'article) par du texte simple.
+
+    Gemini hallucine souvent des URLs generiques (freshplaza.fr/, lsa-conso.fr/).
+    On les remplace par 'Source : NomDuMedia' sans lien cliquable.
+    """
+    from urllib.parse import urlparse
+
+    def _replace_link(match):
+        full_tag = match.group(0)
+        url = match.group(1)
+        link_text = match.group(2)
+        try:
+            parsed = urlparse(url)
+            path = parsed.path.rstrip('/')
+            # Homepage = pas de chemin ou juste /
+            if not path or path in ('', '/'):
+                # Extraire le nom du media depuis le texte du lien
+                media_name = re.sub(r'\s*--\s*(Lire l.article|Read the article|קרא את המאמר).*', '', link_text).strip()
+                if not media_name:
+                    media_name = parsed.netloc.replace('www.', '')
+                return f'Source : {media_name}'
+            # Chemin trop court (ex: /ortofrutta, /fruits) = probablement pas un article
+            if len(path.split('/')) <= 2 and not any(c.isdigit() for c in path):
+                media_name = re.sub(r'\s*--\s*(Lire l.article|Read the article|קרא את המאמר).*', '', link_text).strip()
+                if not media_name:
+                    media_name = parsed.netloc.replace('www.', '')
+                return f'Source : {media_name}'
+        except Exception:
+            pass
+        return full_tag  # Garder le lien si URL semble valide
+
+    # Match <a href="URL" ...>text</a>
+    result = re.sub(
+        r'<a\s+href="([^"]+)"[^>]*>(.*?)</a>',
+        _replace_link,
+        html,
+        flags=re.DOTALL
+    )
+    return result
+
+
 def _strip_emojis(text):
     """Supprime tous les emojis du texte."""
     emoji_pattern = re.compile(
@@ -250,6 +292,10 @@ def generate_veille(force=False):
     except Exception as e:
         print(f"  Fact-check echoue ({e}) -- utilisation Pass 1")
         checked_news = _clean_ghost_news(raw_news)
+
+    # 5b. Fix homepage links (strip hallucinated generic URLs)
+    checked_news = _fix_homepage_links(checked_news)
+    print(f"  Liens homepage nettoyes")
 
     # 6. Traductions EN / HE
     print("  Traductions...")
