@@ -88,10 +88,45 @@ def _title_hash(title):
     return t
 
 
-def _titles_similar(hash1, hash2, threshold=0.75):
+def _extract_subject_key(title_hash):
+    """Extrait le sujet-cle d'un titre : produit + pays/origine.
+
+    Permet de detecter que 'avocats kenya logistique' et 'avocats kenya exportations'
+    parlent du meme sujet meme si les mots auxiliaires different.
+    """
+    PRODUCTS = {"avocat", "avocats", "mangue", "mangues", "orri", "mandarine", "mandarines",
+                "pamplemousse", "pomelo", "pomelos", "star ruby", "staruby",
+                "datte", "dattes", "medjoul", "medjool", "patate", "patates",
+                "grenade", "grenades", "kumquat", "melon", "melons", "pasteque",
+                "cerise", "cerises", "raisin", "raisins", "clemengold", "nadorcott",
+                "sweetie", "agrume", "agrumes", "citrus", "hass"}
+    ORIGINS = {"israel", "israelien", "israelienne", "maroc", "marocain", "marocaine",
+               "egypte", "egyptien", "egyptienne", "perou", "peruvien", "colombie",
+               "bresil", "bresilien", "chili", "chilien",
+               "espagne", "espagnol", "espagnole", "turquie", "turc", "turque",
+               "kenya", "kenyan", "kenyane",
+               "afrique", "africain", "africaine", "sudafricain", "sudafricaine",
+               "rwanda", "rwandais", "rwandaise",
+               "ivoire", "ivoirien", "ivoirienne",
+               "inde", "indien", "indienne", "mexique", "mexicain"}
+    # Normaliser accents (Égypte->egypte, Israël->israel, Brésil->bresil)
+    import unicodedata
+    text = unicodedata.normalize("NFKD", title_hash).encode("ascii", "ignore").decode("ascii")
+    text = re.sub(r"['\u2019]", " ", text)  # d'avocats -> d avocats
+    text = re.sub(r"[^\w\s]", " ", text).lower()
+    words = set(text.split())
+    prods = words & PRODUCTS
+    origins = words & ORIGINS
+    if prods and origins:
+        return frozenset(prods | origins)
+    return None
+
+
+def _titles_similar(hash1, hash2, threshold=0.65):
     """Verifie si deux hashes de titre sont similaires (Jaccard sur les mots).
 
-    Permet de detecter les doublons meme avec des reformulations legeres.
+    Seuil abaisse a 0.65 (etait 0.75) pour mieux attraper les reformulations
+    cross-langue apres enrichissement Gemini.
     Ex: "22 millions cartons avocats sud-africains" vs
         "exportations avocats sud-africains millions cartons"
     """
@@ -214,13 +249,26 @@ def add_articles(data, articles_html_fr, articles_html_en="", articles_html_he="
             print(f"  Doublon exact ignore : {title_text_clean[:60]}")
             continue
 
-        # Check fuzzy match (Jaccard similarity)
+        # Check fuzzy match (Jaccard similarity, seuil 0.65)
         is_similar = False
         for existing_hash in existing_hashes:
             if existing_hash and _titles_similar(t_hash, existing_hash):
                 print(f"  Doublon similaire ignore : {title_text_clean[:60]}")
                 is_similar = True
                 break
+        if is_similar:
+            continue
+
+        # Check sujet-cle (meme produit + meme pays = meme sujet)
+        new_key = _extract_subject_key(t_hash)
+        if new_key:
+            for existing_hash in existing_hashes:
+                if existing_hash:
+                    existing_key = _extract_subject_key(existing_hash)
+                    if existing_key and new_key == existing_key:
+                        print(f"  Doublon sujet-cle ignore : {title_text_clean[:60]}")
+                        is_similar = True
+                        break
         if is_similar:
             continue
 

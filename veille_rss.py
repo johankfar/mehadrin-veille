@@ -365,24 +365,35 @@ def fetch_all_feeds(max_age_hours=48):
 
     print(f"  Apres filtre mots-cles Mehadrin: {len(candidates)} candidats")
 
-    # Dedup par URL d'abord, puis par titre (cross-source)
+    # Dedup 3 niveaux : article ID cross-langue > URL > titre
+    seen_article_ids = set()  # FreshPlaza/AGF article IDs (cross-language)
     seen_urls = set()
     seen_titles = set()
     unique = []
     for a in candidates:
-        # Dedup URL (meme article repris par 2 sources = meme URL)
+        # Niveau 1 : Article ID (meme article sur freshplaza.com/.fr/.es/.it/.de/agf.nl)
+        aid_match = re.search(r"/article/(\d+)/", a["link"])
+        if aid_match:
+            aid = aid_match.group(1)
+            if aid in seen_article_ids:
+                print(f"    Dedup article ID {aid}: {a['title'][:50]} ({a['source']})")
+                continue
+            seen_article_ids.add(aid)
+
+        # Niveau 2 : URL exacte (meme article, meme source)
         url_norm = re.sub(r"[?#].*$", "", a["link"].lower().rstrip("/"))
         if url_norm in seen_urls:
             continue
         seen_urls.add(url_norm)
-        # Dedup titre (meme article traduit par 2 sources = titre different, contenu identique)
+
+        # Niveau 3 : Titre normalise (articles similaires de sources differentes)
         t_norm = re.sub(r"[^\w]", "", a["title"].lower())
         if t_norm in seen_titles:
             continue
         seen_titles.add(t_norm)
         unique.append(a)
 
-    print(f"  Apres dedup titres+URLs: {len(unique)} uniques")
+    print(f"  Apres dedup 3-niveaux (IDs+URLs+titres): {len(unique)} uniques")
 
     # Tagging commercial pour chaque article
     for a in unique:
