@@ -88,38 +88,65 @@ def _title_hash(title):
     return t
 
 
+def _stem_fr(word):
+    """Stemming francais minimal : coupe les suffixes courants.
+    'grecques'->'grec', 'israeliens'->'israel', 'avocats'->'avocat', etc.
+    Plus besoin de lister chaque pluriel/feminin/adjectif manuellement.
+    """
+    # Ordre important : suffixes longs d'abord
+    for suffix in ("iennes", "ienne", "iens", "ien", "aises", "aise", "ais",
+                   "aines", "aine", "ains", "ain", "oles", "ole",
+                   "ques", "que", "ans", "anes", "ane",
+                   "ines", "ine", "ins", "in",
+                   "ois", "oise", "oises",
+                   "iens", "ien", "ieres", "iere",
+                   "es", "s"):
+        if len(word) > len(suffix) + 2 and word.endswith(suffix):
+            return word[:-len(suffix)]
+    return word
+
+
+# Stems de reference (pas besoin de pluriels/feminins, le stemmer les gere)
+_PRODUCT_STEMS = {"avocat", "mangue", "orri", "mandarin", "pamplemousse", "pomelo",
+                  "star", "ruby", "datte", "medjoul", "medjool", "patate",
+                  "grenad", "kumquat", "melon", "pasteque", "ceris", "raisin",
+                  "clemengold", "nadorcott", "sweetie", "agrum", "citrus", "hass",
+                  "clementin"}
+_ORIGIN_STEMS = {"israel", "maroc", "egypt", "perou", "peruv", "colombi", "bresil",
+                 "chili", "espagn", "turqu", "turc", "kenya", "grece", "grec",
+                 "afriqu", "afric", "sudafric", "rwanda", "ivoir", "inde", "indi",
+                 "mexiqu", "mexic", "argentin"}
+
+
 def _extract_subject_key(title_hash):
     """Extrait le sujet-cle d'un titre : produit + pays/origine.
 
-    Permet de detecter que 'avocats kenya logistique' et 'avocats kenya exportations'
-    parlent du meme sujet meme si les mots auxiliaires different.
+    Utilise un stemming FR minimal pour matcher automatiquement toutes les
+    formes (pluriel, feminin, adjectif) sans listing manuel.
     """
-    PRODUCTS = {"avocat", "avocats", "mangue", "mangues", "orri", "mandarine", "mandarines",
-                "pamplemousse", "pomelo", "pomelos", "star ruby", "staruby",
-                "datte", "dattes", "medjoul", "medjool", "patate", "patates",
-                "grenade", "grenades", "kumquat", "melon", "melons", "pasteque",
-                "cerise", "cerises", "raisin", "raisins", "clemengold", "nadorcott",
-                "sweetie", "agrume", "agrumes", "citrus", "hass"}
-    ORIGINS = {"israel", "israelien", "israelienne", "maroc", "marocain", "marocaine",
-               "egypte", "egyptien", "egyptienne", "perou", "peruvien", "colombie",
-               "bresil", "bresilien", "chili", "chilien",
-               "espagne", "espagnol", "espagnole", "turquie", "turc", "turque",
-               "kenya", "kenyan", "kenyane",
-               "afrique", "africain", "africaine", "sudafricain", "sudafricaine",
-               "grece", "grec", "grecs", "grecque", "grecques",
-               "rwanda", "rwandais", "rwandaise",
-               "ivoire", "ivoirien", "ivoirienne",
-               "inde", "indien", "indienne", "mexique", "mexicain"}
-    # Normaliser accents (Égypte->egypte, Israël->israel, Brésil->bresil)
     import unicodedata
     text = unicodedata.normalize("NFKD", title_hash).encode("ascii", "ignore").decode("ascii")
-    text = re.sub(r"['\u2019]", " ", text)  # d'avocats -> d avocats
+    text = re.sub(r"['\u2019]", " ", text)
     text = re.sub(r"[^\w\s]", " ", text).lower()
     words = set(text.split())
-    prods = words & PRODUCTS
-    origins = words & ORIGINS
-    if prods and origins:
-        return frozenset(prods | origins)
+
+    # Stem each word and check against reference stems
+    matched_prods = set()
+    matched_origins = set()
+    for w in words:
+        stem = _stem_fr(w)
+        # Check direct match OR prefix match (stem starts with reference)
+        for ps in _PRODUCT_STEMS:
+            if w == ps or stem == ps or w.startswith(ps) or stem.startswith(ps):
+                matched_prods.add(ps)
+                break
+        for os in _ORIGIN_STEMS:
+            if w == os or stem == os or w.startswith(os) or stem.startswith(os):
+                matched_origins.add(os)
+                break
+
+    if matched_prods and matched_origins:
+        return frozenset(matched_prods | matched_origins)
     return None
 
 
