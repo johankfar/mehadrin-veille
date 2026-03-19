@@ -106,6 +106,7 @@ def _extract_subject_key(title_hash):
                "espagne", "espagnol", "espagnole", "turquie", "turc", "turque",
                "kenya", "kenyan", "kenyane",
                "afrique", "africain", "africaine", "sudafricain", "sudafricaine",
+               "grece", "grec", "grecs", "grecque", "grecques",
                "rwanda", "rwandais", "rwandaise",
                "ivoire", "ivoirien", "ivoirienne",
                "inde", "indien", "indienne", "mexique", "mexicain"}
