@@ -152,28 +152,71 @@ def generate_veille(force=False):
         _save_frontend_json(frontend_json)
         return frontend_json
 
-    # 4. Filtrer les doublons avec les articles existants (titre + URL)
+    # 4. Filtrer les doublons avec les articles existants
+    #    5 niveaux : URL + article ID + titre exact + sujet-cle + titre fuzzy
     existing_titles = set()
     existing_urls = set()
+    existing_article_ids = set()
+    existing_subject_keys = set()
+    existing_title_words = []  # Pour Jaccard fuzzy
+
     for a in data.get("articles", []):
+        # Titre exact
         t = re.sub(r"[^\w]", "", a.get("title", "").lower())
         existing_titles.add(t)
-        # Extraire les URLs des articles existants (depuis le HTML)
+        # Mots du titre pour fuzzy
+        t_words = set(re.sub(r"[^\w\s]", "", a.get("title", "").lower()).split())
+        if t_words:
+            existing_title_words.append(t_words)
+        # URLs dans le HTML
         for url_match in re.findall(r'href="([^"]+)"', a.get("content_fr", "")):
             existing_urls.add(re.sub(r"[?#].*$", "", url_match.lower().rstrip("/")))
+        # Article IDs FreshPlaza
+        for key in ["content_fr", "content_en", "content_he"]:
+            for m in re.finditer(r'/article/(\d+)/', a.get(key, "")):
+                existing_article_ids.add(m.group(1))
+        # Sujet-cle (produit+pays)
+        from veille_rss import _extract_subject_key
+        sk = _extract_subject_key(a.get("title", ""))
+        if sk:
+            existing_subject_keys.add(sk)
 
     new_rss = []
     for a in rss_articles:
-        # Dedup URL
+        # Niveau 1 : URL exacte
         url_norm = re.sub(r"[?#].*$", "", a["link"].lower().rstrip("/"))
         if url_norm in existing_urls:
             continue
-        # Dedup titre
+        # Niveau 2 : Article ID FreshPlaza
+        aid_match = re.search(r"/article/(\d+)/", a["link"])
+        if aid_match and aid_match.group(1) in existing_article_ids:
+            continue
+        # Niveau 3 : Titre exact
         t_norm = re.sub(r"[^\w]", "", a["title"].lower())
-        if t_norm not in existing_titles:
-            new_rss.append(a)
+        if t_norm in existing_titles:
+            continue
+        # Niveau 4 : Sujet-cle (meme produit + meme pays = deja couvert)
+        sk = _extract_subject_key(a["title"])
+        if sk and sk in existing_subject_keys:
+            print(f"    Dedup sujet-cle vs existants: {a['title'][:60]}")
+            continue
+        # Niveau 5 : Titre fuzzy (Jaccard >= 0.55 = trop similaire)
+        a_words = set(re.sub(r"[^\w\s]", "", a["title"].lower()).split())
+        is_fuzzy_dup = False
+        if a_words:
+            for ex_words in existing_title_words:
+                intersection = a_words & ex_words
+                union = a_words | ex_words
+                if union and len(intersection) / len(union) >= 0.55:
+                    is_fuzzy_dup = True
+                    break
+        if is_fuzzy_dup:
+            print(f"    Dedup fuzzy vs existants: {a['title'][:60]}")
+            continue
 
-    print(f"  Apres dedup vs existants: {len(new_rss)} nouveaux articles")
+        new_rss.append(a)
+
+    print(f"  Apres dedup 5-niveaux vs existants: {len(new_rss)} nouveaux articles")
 
     if not new_rss:
         print("  Tous les articles RSS sont deja connus. Articles existants conserves.")
