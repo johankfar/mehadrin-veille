@@ -198,6 +198,15 @@ def generate_veille(force=False):
     # Injecter les commerciaux dans chaque article pour le prompt
     articles_text = _format_rss_articles_for_prompt(new_rss)
 
+    # Ajouter les titres deja publies pour eviter doublons Gemini
+    existing_titles = get_previous_titles(data)
+    existing_titles_text = ""
+    if existing_titles:
+        titles_list = "\n".join(f"- {t}" for t in existing_titles[:20])
+        existing_titles_text = (
+            f"\n\nARTICLES DEJA PUBLIES (NE PAS reproduire un article sur le meme sujet) :\n{titles_list}\n"
+        )
+
     prompt = HYBRID_FILTER_PROMPT.format(
         article_count=len(new_rss[:30]),
         date=date_str,
@@ -205,7 +214,7 @@ def generate_veille(force=False):
         seasonal_products=seasonal_str,
         off_season_products=off_season_str,
         articles_text=articles_text,
-    )
+    ) + existing_titles_text
 
     enriched_html = ""
     try:

@@ -314,6 +314,70 @@ def _matches_mehadrin(article):
     return score
 
 
+# ─── Dedup semantique (produit+pays) ───
+
+_SUBJECT_PRODUCTS = {
+    "avocat": "avocat", "avocado": "avocat", "aguacate": "avocat", "hass": "avocat",
+    "avocados": "avocat",
+    "mangue": "mangue", "mangues": "mangue", "mango": "mangue", "mangos": "mangue",
+    "mangoes": "mangue",
+    "datte": "datte", "dattes": "datte", "medjoul": "datte", "medjool": "datte",
+    "datteri": "datte",
+    "mandarin": "mandarin", "mandarine": "mandarin", "mandarines": "mandarin",
+    "orri": "mandarin", "clementine": "mandarin", "nadorcott": "mandarin",
+    "clemengold": "mandarin",
+    "pamplemousse": "pamplemousse", "grapefruit": "pamplemousse", "pomelo": "pamplemousse",
+    "star ruby": "pamplemousse",
+    "patate douce": "patate", "patates douces": "patate", "sweet potato": "patate",
+    "sweet potatoes": "patate", "batata": "patate",
+    "grenade": "grenade", "grenades": "grenade", "pomegranate": "grenade",
+    "melon": "melon", "melons": "melon",
+    "pasteque": "pasteque", "watermelon": "pasteque",
+    "cerise": "cerise", "cerises": "cerise", "cherry": "cerise", "cherries": "cerise",
+    "raisin": "raisin", "raisins": "raisin", "grape": "raisin", "grapes": "raisin",
+    "uva": "raisin",
+    "agrume": "agrume", "agrumes": "agrume", "citrus": "agrume",
+}
+
+_SUBJECT_ORIGINS = {
+    "kenya": "kenya", "kenyan": "kenya",
+    "rwanda": "rwanda", "rwandais": "rwanda", "rwandan": "rwanda",
+    "maroc": "maroc", "morocco": "maroc", "marocain": "maroc", "moroccan": "maroc",
+    "israel": "israel", "israelien": "israel", "israeli": "israel",
+    "grece": "grece", "grec": "grece", "greek": "grece", "greece": "grece",
+    "perou": "perou", "peru": "perou", "peruvian": "perou",
+    "egypte": "egypte", "egypt": "egypte", "egyptien": "egypte", "egyptian": "egypte",
+    "afrique du sud": "afrique_sud", "south africa": "afrique_sud",
+    "sud-africain": "afrique_sud", "south african": "afrique_sud",
+    "espagne": "espagne", "spain": "espagne", "espagnol": "espagne", "spanish": "espagne",
+    "turquie": "turquie", "turkey": "turquie",
+    "inde": "inde", "india": "inde", "indian": "inde",
+    "chili": "chili", "chile": "chili", "chilean": "chili",
+    "bresil": "bresil", "brazil": "bresil",
+    "colombie": "colombie", "colombia": "colombie",
+    "argentine": "argentine", "argentina": "argentine",
+    "zambie": "zambie", "zambia": "zambie",
+    "cote d'ivoire": "cote_ivoire", "ivory coast": "cote_ivoire",
+}
+
+
+def _extract_subject_key(title):
+    """Extrait (produit, pays) du titre pour dedup semantique.
+    Retourne un frozenset ou None si pas assez d'info."""
+    t = title.lower()
+    found_prods = set()
+    found_origins = set()
+    for kw, norm in _SUBJECT_PRODUCTS.items():
+        if kw in t:
+            found_prods.add(norm)
+    for kw, norm in _SUBJECT_ORIGINS.items():
+        if kw in t:
+            found_origins.add(norm)
+    if found_prods and found_origins:
+        return frozenset(found_prods | found_origins)
+    return None
+
+
 # ─── API publique ───
 
 def fetch_all_feeds(max_age_hours=48):
@@ -365,10 +429,11 @@ def fetch_all_feeds(max_age_hours=48):
 
     print(f"  Apres filtre mots-cles Mehadrin: {len(candidates)} candidats")
 
-    # Dedup 3 niveaux : article ID cross-langue > URL > titre
+    # Dedup 4 niveaux : article ID cross-langue > URL > titre > sujet-cle
     seen_article_ids = set()  # FreshPlaza/AGF article IDs (cross-language)
     seen_urls = set()
     seen_titles = set()
+    seen_subjects = set()  # (produit, pays) pour dedup semantique
     unique = []
     for a in candidates:
         # Niveau 1 : Article ID (meme article sur freshplaza.com/.fr/.es/.it/.de/agf.nl)
@@ -391,9 +456,18 @@ def fetch_all_feeds(max_age_hours=48):
         if t_norm in seen_titles:
             continue
         seen_titles.add(t_norm)
+
+        # Niveau 4 : Sujet-cle (meme produit + meme pays = meme sujet)
+        subject = _extract_subject_key(a["title"])
+        if subject and subject in seen_subjects:
+            print(f"    Dedup sujet {subject}: {a['title'][:50]} ({a['source']})")
+            continue
+        if subject:
+            seen_subjects.add(subject)
+
         unique.append(a)
 
-    print(f"  Apres dedup 3-niveaux (IDs+URLs+titres): {len(unique)} uniques")
+    print(f"  Apres dedup 4-niveaux (IDs+URLs+titres+sujets): {len(unique)} uniques")
 
     # Tagging commercial pour chaque article
     for a in unique:

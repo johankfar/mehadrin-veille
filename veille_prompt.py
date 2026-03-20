@@ -89,7 +89,7 @@ REGLES CRITIQUES :
 - Le lien source est SACRE : copie-le exactement tel quel.
 - Redige en francais. Maximum 8 articles. Minimum 3 si au moins 3 sont pertinents.
 - PAS D'EMOJIS.
-- ANTI-DOUBLON : Si plusieurs articles parlent du MEME SUJET (meme produit + meme pays), ne garder que le MEILLEUR (celui avec le plus de chiffres/details). NE PAS produire 2 articles sur "avocats Kenya" ou 2 articles sur "patates douces Egypte".
+- ANTI-DOUBLON STRICT : Si plusieurs articles parlent du MEME SUJET (meme produit + meme pays/origine), ne garder que le MEILLEUR (celui avec le plus de chiffres/details). NE PAS produire 2 articles sur "avocats Kenya" ou 2 articles sur "patates douces Egypte". ATTENTION : les articles proviennent de FreshPlaza en 5+ langues (EN, FR, ES, IT, DE) — le meme article est souvent present plusieurs fois avec des titres traduits. Ne garder qu'UNE seule version par sujet.
 
 FORMAT DE SORTIE (HTML strict) :
 Pour chaque article retenu, genere :

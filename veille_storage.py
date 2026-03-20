@@ -263,6 +263,22 @@ def add_articles(data, articles_html_fr, articles_html_en="", articles_html_he="
     # Titres existants pour dedup (exact + fuzzy)
     existing_hashes = {a.get("title_hash", "") for a in data["articles"]}
 
+    # Article IDs existants pour dedup cross-langue
+    existing_article_ids = set()
+    for a in data["articles"]:
+        for key in ["content_fr", "content_en", "content_he"]:
+            for m in re.finditer(r'/article/(\d+)/', a.get(key, "")):
+                existing_article_ids.add(m.group(1))
+
+    # Sujets-cle existants pour dedup semantique
+    existing_subject_keys = set()
+    for a in data["articles"]:
+        h = a.get("title_hash", "")
+        if h:
+            sk = _extract_subject_key(h)
+            if sk:
+                existing_subject_keys.add(sk)
+
     added = 0
     now_iso = _now_utc().isoformat()
 
@@ -272,12 +288,18 @@ def add_articles(data, articles_html_fr, articles_html_en="", articles_html_he="
         title_text_clean = re.sub(r'<[^>]+>', '', title_text).strip()
         t_hash = _title_hash(title_text)
 
-        # Check exact match
+        # Check 0: Article ID FreshPlaza (cross-langue)
+        aid_match = re.search(r'/article/(\d+)/', fr_html)
+        if aid_match and aid_match.group(1) in existing_article_ids:
+            print(f"  Doublon article ID {aid_match.group(1)} ignore : {title_text_clean[:60]}")
+            continue
+
+        # Check 1: Exact title hash match
         if t_hash in existing_hashes:
             print(f"  Doublon exact ignore : {title_text_clean[:60]}")
             continue
 
-        # Check fuzzy match (Jaccard similarity, seuil 0.65)
+        # Check 2: Fuzzy match (Jaccard similarity, seuil 0.65)
         is_similar = False
         for existing_hash in existing_hashes:
             if existing_hash and _titles_similar(t_hash, existing_hash):
@@ -287,17 +309,10 @@ def add_articles(data, articles_html_fr, articles_html_en="", articles_html_he="
         if is_similar:
             continue
 
-        # Check sujet-cle (meme produit + meme pays = meme sujet)
+        # Check 3: Sujet-cle (meme produit + meme pays = meme sujet)
         new_key = _extract_subject_key(t_hash)
-        if new_key:
-            for existing_hash in existing_hashes:
-                if existing_hash:
-                    existing_key = _extract_subject_key(existing_hash)
-                    if existing_key and new_key == existing_key:
-                        print(f"  Doublon sujet-cle ignore : {title_text_clean[:60]}")
-                        is_similar = True
-                        break
-        if is_similar:
+        if new_key and new_key in existing_subject_keys:
+            print(f"  Doublon sujet-cle ignore : {title_text_clean[:60]}")
             continue
 
         # Detect commercial(s) from title
@@ -316,6 +331,10 @@ def add_articles(data, articles_html_fr, articles_html_en="", articles_html_he="
         }
         data["articles"].insert(0, article)  # Plus recents en haut
         existing_hashes.add(t_hash)
+        if aid_match:
+            existing_article_ids.add(aid_match.group(1))
+        if new_key:
+            existing_subject_keys.add(new_key)
         added += 1
 
     data["last_generated"] = now_iso
