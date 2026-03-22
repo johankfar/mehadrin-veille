@@ -113,7 +113,6 @@ EXCLUDE_KEYWORDS = [
     "ananas", "pineapple", "banane", "banana", "pomme ", "apple",
     "poire", "pear", "kiwi", "fraise", "strawberry", "framboise",
     "myrtille", "blueberry",
-    "poivron", "pepper", "peperone", "pimiento",
     # Marchés non-européens (hors scope Mehadrin)
     "azerbaidjan", "azerbaijan", "azerbaiyan",
 ]

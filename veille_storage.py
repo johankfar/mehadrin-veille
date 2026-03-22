@@ -227,7 +227,6 @@ def purge_old_articles(data):
 # Mots-cles qui rendent un article HORS SUJET meme s'il est deja en stock
 _PURGE_CONTENT_KEYWORDS = [
     # Produits hors catalogue
-    "poivron", "pepper", "peperone", "pimiento",
     "tomate", "tomato", "pomodoro",
     "pomme de terre", "potato", "patata",
     "banane", "banana", "fraise", "strawberry",
