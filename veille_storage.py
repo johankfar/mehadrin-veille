@@ -227,9 +227,11 @@ def purge_old_articles(data):
 # Exclusions ABSOLUES — toujours purger meme si pays frontalier
 _PURGE_ALWAYS = [
     "azerbaidjan", "azerbaijan",
+    "poivron", "pepper", "peperone", "pimiento",
     "mouche des fruits", "fruit fly", "ceratitis",
     "pesticide", "insecticide",
     "recette", "recipe", "blockchain", "robot",
+    "coree du sud", "south korea", "south korean",
 ]
 
 # Pays frontaliers/concurrents d'Israel — bypass les exclusions produit
