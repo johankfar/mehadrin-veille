@@ -86,13 +86,13 @@ MEHADRIN_KEYWORDS = [
     "cif", "rnm", "franceagrimer", "ismea",
 ]
 
-# Mots-cles d'exclusion (articles a ignorer meme si un mot-cle matche)
-EXCLUDE_KEYWORDS = [
+# Exclusions ABSOLUES — toujours exclure, meme si pays frontalier
+EXCLUDE_ALWAYS = [
     # Phytosanitaire / technique
     "mouche des fruits", "fruit fly", "ceratitis", "mosca de la fruta",
     "mouche mediterraneenne", "drosophila", "thrips", "insecte", "parasite",
     "piégeage", "pesticide", "traitement phytosanitaire",
-    # Logistique / fret
+    # Logistique / fret (sauf impact direct supply)
     "conteneur", "container", "shipping", "fret", "freight",
     "hapag-lloyd", "zim", "cma cgm", "maersk", "route maritime",
     # Sante / nutrition / B2C
@@ -104,7 +104,13 @@ EXCLUDE_KEYWORDS = [
     "packaging innovant", "robotic",
     # B2C / promo
     "top chef", "sponsoring", "carte fidelite", "appli consommateur",
-    # Produits HORS catalogue Mehadrin (eviter faux positifs)
+    # Marchés non-européens (hors scope)
+    "azerbaidjan", "azerbaijan", "azerbaiyan",
+]
+
+# Exclusions PRODUIT — ne s'appliquent PAS si l'article mentionne
+# un pays frontalier/concurrent d'Israel ou un marche europeen cle
+EXCLUDE_PRODUCTS = [
     "tomate", "tomato", "pomodoro", "carotte", "carrot", "oignon", "onion",
     "salade", "lettuce", "endive", "champignon", "mushroom",
     "pomme de terre", "potato", "patata", "asperge", "asparagus",
@@ -113,9 +119,25 @@ EXCLUDE_KEYWORDS = [
     "ananas", "pineapple", "banane", "banana", "pomme ", "apple",
     "poire", "pear", "kiwi", "fraise", "strawberry", "framboise",
     "myrtille", "blueberry",
-    # Marchés non-européens (hors scope Mehadrin)
-    "azerbaidjan", "azerbaijan", "azerbaiyan",
 ]
+
+# Pays frontaliers/concurrents d'Israel — si l'article en mentionne un,
+# les exclusions produit ne s'appliquent PAS (on garde tout F&L de ces pays)
+NEIGHBORING_COUNTRIES = [
+    "israel", "egypte", "egypt", "egitto", "egipto", "agypten",
+    "jordanie", "jordan", "giordania", "jordanien",
+    "turquie", "turkey", "turchia", "turkei",
+    "maroc", "morocco", "marocco", "marruecos", "marokko",
+    "espagne", "spain", "spagna", "spanien",
+    "grece", "greece", "grecia", "griechenland",
+    "kenya", "peru", "perou",
+    "afrique du sud", "south africa", "sudafrica",
+    "colombie", "colombia", "kolumbien",
+    "chili", "chile",
+]
+
+# Combine pour compatibilite (la fonction _matches_mehadrin utilise EXCLUDE_KEYWORDS)
+EXCLUDE_KEYWORDS = EXCLUDE_ALWAYS + EXCLUDE_PRODUCTS
 
 # ─── Mapping produit → commercial ───
 
@@ -293,13 +315,26 @@ def _parse_rss_date(date_str):
 def _matches_mehadrin(article):
     """Verifie si un article contient au moins un mot-cle Mehadrin.
     Retourne le score (nombre de mots-cles trouves) ou 0 si non pertinent.
+
+    Logique d'exclusion a 2 niveaux :
+    - EXCLUDE_ALWAYS : toujours exclure (phyto, tech, B2C)
+    - EXCLUDE_PRODUCTS : exclure SAUF si l'article mentionne un pays
+      frontalier/concurrent d'Israel (on garde tout F&L de ces pays)
     """
     text = f"{article['title']} {article['summary']}".lower()
 
-    # Exclusions d'abord
-    for kw in EXCLUDE_KEYWORDS:
+    # Exclusions absolues (toujours)
+    for kw in EXCLUDE_ALWAYS:
         if kw in text:
             return 0
+
+    # Exclusions produit (conditionnelles)
+    # Si l'article mentionne un pays frontalier → on garde quand meme
+    mentions_neighbor = any(country in text for country in NEIGHBORING_COUNTRIES)
+    if not mentions_neighbor:
+        for kw in EXCLUDE_PRODUCTS:
+            if kw in text:
+                return 0
 
     # Comptage des mots-cles
     score = 0

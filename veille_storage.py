@@ -224,27 +224,30 @@ def purge_old_articles(data):
     return data
 
 
-# Mots-cles qui rendent un article HORS SUJET meme s'il est deja en stock
-_PURGE_CONTENT_KEYWORDS = [
-    # Produits hors catalogue
-    "tomate", "tomato", "pomodoro",
-    "pomme de terre", "potato", "patata",
-    "banane", "banana", "fraise", "strawberry",
-    "kiwi", "framboise", "myrtille", "blueberry",
-    # Marches hors scope
+# Exclusions ABSOLUES — toujours purger meme si pays frontalier
+_PURGE_ALWAYS = [
     "azerbaidjan", "azerbaijan",
-    # Technique/phyto
     "mouche des fruits", "fruit fly", "ceratitis",
     "pesticide", "insecticide",
+    "recette", "recipe", "blockchain", "robot",
+]
+
+# Pays frontaliers/concurrents d'Israel — bypass les exclusions produit
+_NEIGHBOR_COUNTRIES = [
+    "israel", "egypte", "egypt", "jordanie", "jordan",
+    "turquie", "turkey", "maroc", "morocco",
+    "espagne", "spain", "grece", "greece",
+    "kenya", "peru", "perou",
+    "afrique du sud", "south africa",
+    "colombie", "colombia", "chili", "chile",
 ]
 
 
 def purge_excluded_content(data):
-    """Supprime les articles en stock qui contiennent des mots-cles exclus.
+    """Supprime les articles en stock qui sont clairement hors sujet.
 
-    Rattrape les articles qui ont passe les filtres avant l'ajout
-    d'un nouveau mot-cle d'exclusion, ou qui viennent du prompt Gemini
-    sans etre filtres au niveau RSS.
+    Respecte la regle : les articles F&L des pays frontaliers/concurrents
+    d'Israel sont TOUJOURS gardes, meme si le produit est hors catalogue.
     """
     import unicodedata
     before = len(data["articles"])
@@ -252,14 +255,18 @@ def purge_excluded_content(data):
     for a in data["articles"]:
         title = unicodedata.normalize("NFKD", a.get("title", ""))
         title = title.encode("ascii", "ignore").decode().lower()
+
+        # Exclusions absolues (toujours purger)
         is_excluded = False
-        for kw in _PURGE_CONTENT_KEYWORDS:
+        for kw in _PURGE_ALWAYS:
             if kw in title:
                 print(f"  Purge contenu exclu: {a.get('title', '')[:60]} [mot: {kw}]")
                 is_excluded = True
                 break
-        if not is_excluded:
-            filtered.append(a)
+        if is_excluded:
+            continue
+
+        filtered.append(a)
     data["articles"] = filtered
     purged = before - len(filtered)
     if purged > 0:
