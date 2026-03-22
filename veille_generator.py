@@ -35,8 +35,9 @@ except ImportError:
 from veille_prompt import HYBRID_FILTER_PROMPT, get_seasonal_products, get_off_season_products
 from veille_rss import fetch_all_feeds
 from veille_storage import (
-    load_data, save_data, purge_old_articles, can_generate,
-    get_previous_titles, add_articles, get_articles_json_for_frontend,
+    load_data, save_data, purge_old_articles, purge_excluded_content,
+    can_generate, get_previous_titles, add_articles,
+    get_articles_json_for_frontend,
 )
 from veille_translate import translate_all
 
@@ -131,9 +132,10 @@ def generate_veille(force=False):
     print(f"  VEILLE MARCHE HYBRID -- {datetime.now().strftime('%d/%m/%Y %H:%M')}")
     print("=" * 60)
 
-    # 1. Charger donnees existantes
+    # 1. Charger donnees existantes + purge auto
     data = load_data()
     purge_old_articles(data)
+    purge_excluded_content(data)  # Rattrape les articles hors sujet deja en stock
 
     # 2. Rate limit check
     if not force and not can_generate(data):
