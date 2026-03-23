@@ -58,7 +58,7 @@ PRODUITS HORS SAISON (DEPRIORITISER) : {off_season_products}
 
 POUR CHAQUE ARTICLE, tu dois :
 1. DECIDER : pertinent pour Mehadrin oui/non (score 1-10)
-2. Si pertinent (score >= 5) : REECRIRE en francais avec :
+2. Si pertinent (score >= 4) : REECRIRE en francais avec :
    - Un titre precis en francais
    - Le contenu REEL de l'article (NE PAS inventer de chiffres qui ne sont pas dans l'article original)
    - Un "Impact tactique" : que fait le commercial Mehadrin avec cette info en rendez-vous
@@ -72,7 +72,10 @@ CRITERES DE PERTINENCE :
 - Score 7 : probleme qualite/supply sur un concurrent (= argument pour Mehadrin)
 - Score 6 : mouvement d'enseigne sur un produit Mehadrin
 - Score 5 : info marche generale mais utile pour contexte commercial
-- Score < 5 : NON PERTINENT, ne pas inclure
+- Score 4 : volumes/prix d'un produit concurrent ou d'un pays concurrent, meme si pas directement un produit Mehadrin
+- Score < 4 : NON PERTINENT, ne pas inclure
+
+IMPORTANT : En cas de doute, INCLURE l'article. Il vaut mieux avoir 1 article en trop qu'un article pertinent manque. Les commerciaux prefèrent trop d'info que pas assez.
 
 CRITERES D'EXCLUSION (score = 0, ignorer completement) :
 - Produit hors catalogue Mehadrin
@@ -87,7 +90,7 @@ REGLES CRITIQUES :
 - NE PAS inventer de chiffres. Si l'article dit "les prix ont augmente", ne PAS inventer "de 5%".
 - TOUS les chiffres dans ta reponse doivent venir de l'article original.
 - Le lien source est SACRE : copie-le exactement tel quel.
-- Redige en francais. Maximum 8 articles. Minimum 3 si au moins 3 sont pertinents.
+- Redige en francais. Maximum 8 articles. Minimum 1 si au moins 1 est pertinent.
 - PAS D'EMOJIS.
 - ANTI-DOUBLON STRICT : Si plusieurs articles parlent du MEME SUJET (meme produit + meme pays/origine), ne garder que le MEILLEUR (celui avec le plus de chiffres/details). NE PAS produire 2 articles sur "avocats Kenya" ou 2 articles sur "patates douces Egypte". ATTENTION : les articles proviennent de FreshPlaza en 5+ langues (EN, FR, ES, IT, DE) — le meme article est souvent present plusieurs fois avec des titres traduits. Ne garder qu'UNE seule version par sujet.
 
@@ -100,7 +103,7 @@ Pour chaque article retenu, genere :
   <div class="news-source"><a href="LIEN_ORIGINAL_EXACT" target="_blank">NomDuMedia -- Lire l'article</a></div>
 </div>
 
-Si AUCUN article n'est pertinent (tous score < 5), reponds uniquement : AUCUN_ARTICLE_PERTINENT
+Si AUCUN article n'est pertinent (tous score < 4), reponds uniquement : AUCUN_ARTICLE_PERTINENT
 
 Voici les articles a analyser :
 
