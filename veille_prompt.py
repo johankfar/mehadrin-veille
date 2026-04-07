@@ -49,7 +49,7 @@ def get_off_season_products(week_num):
 HYBRID_FILTER_PROMPT = """Tu es un ANALYSTE DE RENSEIGNEMENT COMMERCIAL pour Mehadrin France, exportateur israelien de fruits frais vers l'Europe.
 
 Je te donne {article_count} articles REELS trouves dans la presse B2B fruits et legumes.
-Tu dois SELECTIONNER les plus pertinents et les ENRICHIR avec un impact tactique.
+Tu dois SELECTIONNER les plus pertinents et les RESUMER factuellement.
 
 Date : {date}. Semaine {week_num}.
 
@@ -61,7 +61,6 @@ POUR CHAQUE ARTICLE, tu dois :
 2. Si pertinent (score >= 4) : REECRIRE en francais avec :
    - Un titre precis en francais
    - Le contenu REEL de l'article (NE PAS inventer de chiffres qui ne sont pas dans l'article original)
-   - Un "Impact tactique" : que fait le commercial Mehadrin avec cette info en rendez-vous
 3. GARDER le lien original de l'article (OBLIGATOIRE, ne PAS le modifier)
 4. ATTRIBUER une categorie : PRIX & VOLUMES, ALERTES SUPPLY, MOUVEMENTS ENSEIGNES, CONCURRENCE ORIGINES
 
@@ -99,7 +98,7 @@ Pour chaque article retenu, genere :
 <div class="news-item">
   <div class="news-cat">CATEGORIE</div>
   <div class="news-title">Titre en francais -- <span class="news-date">{date}</span></div>
-  <div class="news-body">Resume enrichi de l'article avec les chiffres REELS de l'article original. <strong>Impact tactique :</strong> Ce que le commercial fait avec cette info.</div>
+  <div class="news-body">Resume factuel de l'article avec les chiffres REELS de l'article original.</div>
   <div class="news-source"><a href="LIEN_ORIGINAL_EXACT" target="_blank">NomDuMedia -- Lire l'article</a></div>
 </div>
 
