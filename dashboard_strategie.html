@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mehadrin Intelligence</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Inter',sans-serif;background:#0f172a;color:#e2e8f0;min-height:100vh}
+a{color:#38bdf8;text-decoration:none}
+a:hover{text-decoration:underline}
+.header{position:sticky;top:0;z-index:100;background:linear-gradient(135deg,#0f172a 0%,#1e293b 100%);border-bottom:1px solid #334155;padding:16px 32px;display:flex;align-items:center;justify-content:space-between}
+.header h1{font-size:1.5rem;font-weight:800;letter-spacing:-0.5px;display:flex;align-items:center;gap:12px}
+.header h1 span.accent{color:#22c55e}
+.live-dot{width:10px;height:10px;background:#22c55e;border-radius:50%;display:inline-block;animation:pulse 2s infinite}
+.live-label{font-size:.75rem;font-weight:600;color:#22c55e;text-transform:uppercase;letter-spacing:1px;display:flex;align-items:center;gap:6px}
+@keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(34,197,94,.6)}50%{box-shadow:0 0 0 8px rgba(34,197,94,0)}}
+.header-right{font-size:.8rem;color:#94a3b8}
+.kpi-row{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;padding:24px 32px 0}
+.kpi-card{background:#1e293b;border-radius:12px;padding:20px 24px;border-left:4px solid;position:relative;overflow:hidden;transition:transform .2s}
+.kpi-card:hover{transform:translateY(-2px)}
+.kpi-card.green{border-color:#22c55e}
+.kpi-card.blue{border-color:#3b82f6}
+.kpi-card.amber{border-color:#f59e0b}
+.kpi-card.red{border-color:#ef4444}
+.kpi-card .kpi-value{font-size:2rem;font-weight:800;line-height:1}
+.kpi-card.green .kpi-value{color:#22c55e}
+.kpi-card.blue .kpi-value{color:#3b82f6}
+.kpi-card.amber .kpi-value{color:#f59e0b}
+.kpi-card.red .kpi-value{color:#ef4444}
+.kpi-card .kpi-label{font-size:.8rem;color:#94a3b8;margin-top:6px}
+.kpi-card .kpi-sub{font-size:.7rem;color:#64748b;margin-top:3px}
+.main{display:grid;grid-template-columns:1fr 1fr;gap:24px;padding:24px 32px}
+.card{background:#1e293b;border-radius:12px;padding:24px;border:1px solid #334155}
+.card h2{font-size:1.1rem;font-weight:700;margin-bottom:16px;display:flex;align-items:center;gap:8px}
+.card h2 .icon{font-size:1.2rem}
+.full-width{grid-column:1/-1}
+.cat-badge{display:inline-block;padding:3px 10px;border-radius:20px;font-size:.65rem;font-weight:700;text-transform:uppercase;letter-spacing:.5px}
+.cat-prix{background:rgba(59,130,246,.15);color:#60a5fa;border:1px solid rgba(59,130,246,.3)}
+.cat-alertes{background:rgba(239,68,68,.15);color:#f87171;border:1px solid rgba(239,68,68,.3)}
+.cat-concurrence{background:rgba(245,158,11,.15);color:#fbbf24;border:1px solid rgba(245,158,11,.3)}
+.cat-enseignes{background:rgba(168,85,247,.15);color:#c084fc;border:1px solid rgba(168,85,247,.3)}
+.cat-reglementation{background:rgba(20,184,166,.15);color:#2dd4bf;border:1px solid rgba(20,184,166,.3)}
+.feed-item{padding:14px 0;border-bottom:1px solid rgba(51,65,85,.5)}
+.feed-item:last-child{border:none}
+.feed-title{font-weight:600;font-size:.9rem;margin-bottom:4px}
+.feed-meta{font-size:.72rem;color:#64748b;display:flex;gap:10px;align-items:center;margin-top:6px}
+.feed-source{color:#94a3b8;font-weight:600}
+.feed-commercial{font-size:.65rem;padding:2px 8px;border-radius:10px;font-weight:600}
+.comm-jessica{background:rgba(22,163,74,.15);color:#4ade80;border:1px solid rgba(22,163,74,.3)}
+.comm-nadia{background:rgba(37,99,235,.15);color:#60a5fa;border:1px solid rgba(37,99,235,.3)}
+.comm-ophelie{background:rgba(234,88,12,.15);color:#fb923c;border:1px solid rgba(234,88,12,.3)}
+.comm-sebastien{background:rgba(124,58,237,.15);color:#a78bfa;border:1px solid rgba(124,58,237,.3)}
+.filter-row{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap}
+.filter-btn{padding:6px 14px;border-radius:20px;font-size:.72rem;font-weight:600;cursor:pointer;border:1px solid #334155;background:transparent;color:#94a3b8;transition:all .2s}
+.filter-btn:hover{border-color:#60a5fa;color:#60a5fa}
+.filter-btn.active{background:#3b82f6;color:#fff;border-color:#3b82f6}
+.chart-container{position:relative;width:100%;height:280px}
+.cal-grid{display:grid;gap:4px;font-size:.65rem;text-align:center}
+.cal-header{color:#94a3b8;font-weight:700;padding:6px 0}
+.cal-cell{padding:6px 2px;border-radius:6px;font-weight:600;font-size:.6rem}
+.cal-active{background:rgba(34,197,94,.2);color:#22c55e;border:1px solid rgba(34,197,94,.3)}
+.cal-peak{background:rgba(34,197,94,.4);color:#22c55e;border:1px solid rgba(34,197,94,.5);font-weight:800}
+.cal-off{background:rgba(30,41,59,.5);color:#475569}
+.cal-product{color:#94a3b8;font-weight:700;text-align:left;padding:6px 4px;font-size:.7rem}
+.prospect-table{width:100%;border-collapse:separate;border-spacing:0;font-size:.78rem}
+.prospect-table th{text-align:left;padding:10px 12px;color:#94a3b8;font-weight:700;font-size:.7rem;text-transform:uppercase;letter-spacing:.5px;border-bottom:2px solid #334155}
+.prospect-table td{padding:10px 12px;border-bottom:1px solid rgba(51,65,85,.5)}
+.prospect-table tr:hover td{background:rgba(59,130,246,.05)}
+.score-high{color:#22c55e;font-weight:800}
+.score-mid{color:#f59e0b;font-weight:700}
+.score-low{color:#94a3b8}
+.boost-badge{display:inline-block;padding:1px 6px;border-radius:8px;font-size:.65rem;font-weight:700;background:rgba(34,197,94,.15);color:#22c55e;border:1px solid rgba(34,197,94,.3)}
+.loading{text-align:center;padding:40px;color:#64748b}
+.loading .spinner{display:inline-block;width:24px;height:24px;border:3px solid #334155;border-top-color:#3b82f6;border-radius:50%;animation:spin .8s linear infinite;margin-bottom:12px}
+@keyframes spin{to{transform:rotate(360deg)}}
+::-webkit-scrollbar{width:6px}
+::-webkit-scrollbar-track{background:#0f172a}
+::-webkit-scrollbar-thumb{background:#334155;border-radius:3px}
+@media(max-width:1024px){.kpi-row{grid-template-columns:repeat(2,1fr)}.main{grid-template-columns:1fr}}
+@media(max-width:600px){.kpi-row{grid-template-columns:1fr}.header{padding:12px 16px}.kpi-row,.main{padding-left:16px;padding-right:16px}}
+</style>
+</head>
+<body>
+<div class="header">
+  <h1><span class="accent">MEHADRIN</span> Intelligence</h1>
+  <div class="live-label"><span class="live-dot"></span> LIVE <span class="header-right" id="lastUpdate">Chargement...</span></div>
+</div>
+<div class="kpi-row">
+  <div class="kpi-card green"><div class="kpi-value" id="kpiTotal">-</div><div class="kpi-label">Articles actifs</div><div class="kpi-sub">Dernieres 72h</div></div>
+  <div class="kpi-card blue"><div class="kpi-value" id="kpiSources">-</div><div class="kpi-label">Sources RSS</div><div class="kpi-sub">22 flux monitores</div></div>
+  <div class="kpi-card amber"><div class="kpi-value" id="kpiAlerts">-</div><div class="kpi-label">Alertes supply</div><div class="kpi-sub">Ruptures, retards, qualite</div></div>
+  <div class="kpi-card red"><div class="kpi-value" id="kpiPrix">-</div><div class="kpi-label">Signaux prix</div><div class="kpi-sub">Hausses, baisses, tendances</div></div>
+</div>
+<div class="main">
+  <div class="card" style="grid-row:span 2">
+    <h2><span class="icon">&#128225;</span> Veille Marche en Direct</h2>
+    <div class="filter-row" id="filterRow">
+      <button class="filter-btn active" data-cat="all">Tous</button>
+      <button class="filter-btn" data-cat="prix">Prix &amp; Volumes</button>
+      <button class="filter-btn" data-cat="alertes">Alertes Supply</button>
+      <button class="filter-btn" data-cat="concurrence">Concurrence</button>
+      <button class="filter-btn" data-cat="enseignes">Enseignes</button>
+    </div>
+    <div id="feedContainer"><div class="loading"><div class="spinner"></div><br>Connexion aux flux RSS...</div></div>
+  </div>
+  <div class="card"><h2><span class="icon">&#128202;</span> Articles par Produit</h2><div class="chart-container"><canvas id="chartProducts"></canvas></div></div>
+  <div class="card"><h2><span class="icon">&#127757;</span> Origines Mentionnees</h2><div class="chart-container"><canvas id="chartOrigins"></canvas></div></div>
+  <div class="card full-width">
+    <h2><span class="icon">&#128197;</span> Calendrier Saisonnier Mehadrin</h2>
+    <div id="calendarGrid" class="cal-grid"></div>
+  </div>
+  <div class="card full-width">
+    <h2><span class="icon">&#127919;</span> Signaux Prospects (veille x CRM)</h2>
+    <p style="font-size:.78rem;color:#64748b;margin-bottom:16px">Prospects dont le pays/produit apparait dans la veille recente.</p>
+    <div id="prospectTable"><div class="loading"><div class="spinner"></div><br>Analyse croisee veille x prospects...</div></div>
+  </div>
+</div>
+<script>
+var VEILLE_URL="https://raw.githubusercontent.com/johankfar/mehadrin-veille/main/veille_live.json";
+var CAT_MAP={"Prix & Volumes":"prix","Alertes Supply":"alertes","Concurrence Origines":"concurrence","Enseignes":"enseignes","Reglementation":"reglementation"};
+var CAT_CLASS={prix:"cat-prix",alertes:"cat-alertes",concurrence:"cat-concurrence",enseignes:"cat-enseignes",reglementation:"cat-reglementation"};
+var COMM_CLASS={Jessica:"comm-jessica",Nadia:"comm-nadia",Ophelie:"comm-ophelie",Sebastien:"comm-sebastien"};
+var allArticles=[],currentFilter="all";
+
+function catKey(a){var r=a.categorie||a.category||"";return CAT_MAP[r]||r.toLowerCase().replace(/[^a-z]/g,"");}
+function getTimeAgo(d){if(!d)return"";var diff=Math.floor((new Date()-new Date(d))/3600000);if(diff<1)return"< 1h";if(diff<24)return diff+"h";return Math.floor(diff/24)+"j";}
+
+function updateKPIs(){
+  document.getElementById("kpiTotal").textContent=allArticles.length;
+  var src={};allArticles.forEach(function(a){src[a.source||""]=1;});
+  document.getElementById("kpiSources").textContent=Object.keys(src).length;
+  document.getElementById("kpiAlerts").textContent=allArticles.filter(function(a){return catKey(a)==="alertes";}).length;
+  document.getElementById("kpiPrix").textContent=allArticles.filter(function(a){return catKey(a)==="prix";}).length;
+}
+
+function renderFeed(){
+  var c=document.getElementById("feedContainer");
+  var f=currentFilter==="all"?allArticles:allArticles.filter(function(a){return catKey(a)===currentFilter;});
+  if(!f.length){c.innerHTML="<p style='color:#64748b;padding:20px 0'>Aucun article dans cette categorie.</p>";return;}
+  c.innerHTML=f.map(function(a){
+    var ck=catKey(a),cc=CAT_CLASS[ck]||"cat-prix",cl=a.categorie||a.category||"General";
+    var cm=a.commercial||"",cmc=COMM_CLASS[cm]||"";
+    var t=getTimeAgo(a.date||a.timestamp||""),s=a.source||"",lk=a.link||a.url||"#";
+    var ti=a.titre_fr||a.titre||a.title||"Sans titre";
+    var su=a.resume_fr||a.resume||a.summary||"";
+    return "<div class='feed-item'>"+
+      "<div style='display:flex;gap:8px;align-items:center;margin-bottom:6px'>"+
+      "<span class='cat-badge "+cc+"'>"+cl+"</span>"+
+      (cm?"<span class='feed-commercial "+cmc+"'>"+cm+"</span>":"")+
+      "</div><div class='feed-title'><a href='"+lk+"' target='_blank'>"+ti+"</a></div>"+
+      (su?"<div style='font-size:.78rem;color:#94a3b8;margin-top:4px;line-height:1.4'>"+su.substring(0,200)+(su.length>200?"...":"")+"</div>":"")+
+      "<div class='feed-meta'><span class='feed-source'>"+s+"</span><span class='feed-time'>"+t+"</span></div></div>";
+  }).join("");
+}
+
+document.getElementById("filterRow").addEventListener("click",function(e){
+  if(!e.target.classList.contains("filter-btn"))return;
+  document.querySelectorAll(".filter-btn").forEach(function(b){b.classList.remove("active");});
+  e.target.classList.add("active");currentFilter=e.target.dataset.cat;renderFeed();
+});
+
+function renderCharts(){
+  Chart.defaults.devicePixelRatio=Math.max(window.devicePixelRatio||1,2);
+  Chart.defaults.color="#94a3b8";Chart.defaults.font.family="Inter";
+  var pc={};
+  allArticles.forEach(function(a){
+    var p=a.produits||a.products||[];
+    if(typeof p==="string")p.split(",").forEach(function(x){x=x.trim();if(x)pc[x]=(pc[x]||0)+1;});
+    else if(Array.isArray(p))p.forEach(function(x){if(x)pc[x]=(pc[x]||0)+1;});
+  });
+  var sorted=Object.entries(pc).sort(function(a,b){return b[1]-a[1];}).slice(0,10);
+  if(sorted.length)new Chart(document.getElementById("chartProducts"),{type:"bar",data:{labels:sorted.map(function(s){return s[0];}),datasets:[{data:sorted.map(function(s){return s[1];}),backgroundColor:"rgba(59,130,246,.6)",borderColor:"#3b82f6",borderWidth:1,borderRadius:4}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{y:{grid:{color:"rgba(51,65,85,.5)"},ticks:{stepSize:1}},x:{grid:{display:false},ticks:{maxRotation:45}}}}});
+
+  var oc={};
+  allArticles.forEach(function(a){var o=a.origine||a.origin||a.pays||"";if(o)oc[o]=(oc[o]||0)+1;});
+  var os=Object.entries(oc).sort(function(a,b){return b[1]-a[1];}).slice(0,8);
+  var cols=["#22c55e","#3b82f6","#f59e0b","#ef4444","#8b5cf6","#06b6d4","#ec4899","#64748b"];
+  if(os.length)new Chart(document.getElementById("chartOrigins"),{type:"doughnut",data:{labels:os.map(function(s){return s[0];}),datasets:[{data:os.map(function(s){return s[1];}),backgroundColor:cols.slice(0,os.length),borderColor:"#1e293b",borderWidth:3}]},options:{responsive:true,maintainAspectRatio:false,cutout:"55%",plugins:{legend:{position:"right",labels:{padding:12,usePointStyle:true,pointStyleWidth:8,font:{size:11}}}}}});
+}
+
+function renderCalendar(){
+  var months=["Jan","Fev","Mar","Avr","Mai","Jun","Jul","Aou","Sep","Oct","Nov","Dec"];
+  var products={"Orri Mandarine":[0,1,2,3,0,0,0,0,0,0,0,0],"Or Shoham":[0,1,2,3,3,0,0,0,0,0,0,0],"Medjool Dattes":[0,0,0,0,0,0,0,2,3,3,2,1],"Grenade":[0,0,0,0,0,0,0,0,2,3,3,1],"Avocat Israel":[0,0,0,0,0,0,0,0,0,1,2,3],"Orange Navel":[0,0,0,0,0,0,0,0,0,1,2,3],"Patate Douce":[0,0,0,0,0,0,0,0,1,2,3,2],"Pomelo":[0,1,2,3,2,0,0,0,0,0,0,0],"Mangue":[0,0,0,0,0,1,2,3,3,2,0,0]};
+  var cm=new Date().getMonth();
+  var h="<div></div>";
+  months.forEach(function(m){h+="<div class='cal-header'>"+m+"</div>";});
+  Object.keys(products).forEach(function(name){
+    h+="<div class='cal-product'>"+name+"</div>";
+    products[name].forEach(function(v,i){
+      var cls="cal-off",label="";
+      if(v===3){cls="cal-peak";label="PEAK";}else if(v===2){cls="cal-active";label="OK";}else if(v===1){cls="cal-active";label="~";}
+      var hl=(i===cm&&v>0)?";outline:2px solid #22c55e;outline-offset:-2px":"";
+      h+="<div class='cal-cell "+cls+"' style='"+hl+"'>"+label+"</div>";
+    });
+  });
+  var g=document.getElementById("calendarGrid");g.innerHTML=h;g.style.gridTemplateColumns="120px repeat(12,1fr)";
+}
+
+function renderProspects(){
+  var countries={};
+  allArticles.forEach(function(a){var o=a.origine||a.origin||a.pays||"";if(o)countries[o]=(countries[o]||0)+1;});
+  var demo=[
+    {name:"FRUTAS GARCIA S.L.",country:"Espagne",comm:"Ophelie",score:82,products:"Mandarine, Avocat"},
+    {name:"ORTOFRUIT ITALIA SRL",country:"Italie",comm:"Nadia",score:74,products:"Orange, Grenade"},
+    {name:"PRIMEURS DU SUD",country:"France",comm:"Sebastien",score:68,products:"Avocat, Mangue"},
+    {name:"CITRUS VALLEY EXPORT",country:"Israel",comm:"Nadia",score:91,products:"Orri, Pomelo"},
+    {name:"FRESH CONNECT BV",country:"Pays-Bas",comm:"Jessica",score:56,products:"Mandarine, Dattes"},
+    {name:"AGRUMI DEL SOLE",country:"Italie",comm:"Nadia",score:63,products:"Orange, Mandarine"},
+    {name:"FRUTIBER IMPORT",country:"Portugal",comm:"Ophelie",score:45,products:"Avocat, Patate douce"},
+    {name:"MARCHE INTERNATIONAL",country:"France",comm:"Jessica",score:77,products:"Mangue, Grenade"}
+  ];
+  demo.forEach(function(p){var m=countries[p.country]||0;p.boost=Math.min(m*3,15);p.finalScore=Math.min(p.score+p.boost,100);});
+  demo.sort(function(a,b){return b.finalScore-a.finalScore;});
+  var h="<table class='prospect-table'><thead><tr><th>Prospect</th><th>Pays</th><th>Commercial</th><th>Produits</th><th>Score</th><th>Boost Veille</th><th>Score Final</th></tr></thead><tbody>";
+  demo.forEach(function(p){
+    var sc=p.finalScore>=70?"score-high":p.finalScore>=50?"score-mid":"score-low";
+    var cc=COMM_CLASS[p.comm]||"";
+    h+="<tr><td style='font-weight:600'>"+p.name+"</td><td>"+p.country+"</td><td><span class='feed-commercial "+cc+"'>"+p.comm+"</span></td><td style='font-size:.72rem;color:#94a3b8'>"+p.products+"</td><td>"+p.score+"</td><td>"+(p.boost>0?"<span class='boost-badge'>+"+p.boost+"</span>":"-")+"</td><td class='"+sc+"'>"+p.finalScore+"</td></tr>";
+  });
+  h+="</tbody></table>";
+  document.getElementById("prospectTable").innerHTML=h;
+}
+
+async function init(){
+  try{
+    var resp=await fetch(VEILLE_URL+"?t="+Date.now());
+    var data=await resp.json();
+    allArticles=data.articles||[];
+    updateKPIs();renderFeed();renderCharts();renderCalendar();renderProspects();
+    document.getElementById("lastUpdate").textContent="Mis a jour: "+new Date().toLocaleString("fr-FR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
+  }catch(e){document.getElementById("feedContainer").innerHTML="<p style='color:#ef4444'>Erreur: "+e.message+"</p>";}
+}
+init();setInterval(init,300000);
+</script>
+</body>
+</html>
