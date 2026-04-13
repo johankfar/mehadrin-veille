@@ -40,6 +40,9 @@ RSS_FEEDS = [
     {"url": "https://www.freshplaza.com/europe/rss.xml/",         "name": "FreshPlaza Europe", "lang": "en"},
     # Maroc — origine concurrente majeure (avocats, agrumes)
     {"url": "https://www.agrimaroc.ma/feed/",            "name": "AgriMaroc",       "lang": "fr"},
+    # Agrumes — sources specialisees
+    {"url": "https://valenciafruits.com/feed/",          "name": "ValenciaFruits",  "lang": "es"},
+    {"url": "https://www.freshplaza.cn/rss.xml",         "name": "FreshPlaza CN",   "lang": "zh"},
     # Priorite basse — couverture plus large
     {"url": "https://www.producereport.com/rss.xml",     "name": "Produce Report",  "lang": "en"},
     {"url": "https://freshfel.org/feed/",                "name": "Freshfel Europe", "lang": "en"},
@@ -54,6 +57,15 @@ MEHADRIN_KEYWORDS = [
     "orri", "or mehadrin", "or shoham", "mandarine", "mandarines",
     "mandarin", "mandarino", "mandarina", "clementine", "clemenvilla",
     "nadorcott", "clemengold", "jaffa",
+    # Oranges (Nadia)
+    "orange", "oranges", "naranja", "arancia", "arance", "blood orange",
+    "sanguine", "sanguinella", "tarocco", "navel", "valencia late",
+    # Citrons (Nadia)
+    "citron", "citrons", "lemon", "lemons", "limon", "limone", "limoni",
+    "lime", "limes", "lima",
+    # Agrumes generique (Nadia)
+    "agrume", "agrumes", "citrus", "agrumi", "citrico", "citricos",
+    "zitrus", "zitronen",
     # Pamplemousses (Nadia)
     "pamplemousse", "pamplemousses", "star ruby", "pomelo", "grapefruit",
     "pompelmo", "sweetie",
@@ -149,7 +161,17 @@ PRODUCT_TO_COMMERCIAL = {
     "mangos": "Ophélie", "mangoes": "Ophélie",
     "patate douce": "Ophélie", "patates douces": "Ophélie",
     "sweet potato": "Ophélie", "sweet potatoes": "Ophélie", "batata": "Ophélie",
-    # Nadia — Agrumes (Orri, Star Ruby, Sweetie, Nadorcott, Clemengold)
+    # Nadia — Agrumes (Oranges, Citrons, Orri, Star Ruby, Sweetie, Nadorcott, Clemengold)
+    "orange": "Nadia", "oranges": "Nadia", "naranja": "Nadia",
+    "arancia": "Nadia", "arance": "Nadia", "blood orange": "Nadia",
+    "sanguine": "Nadia", "sanguinella": "Nadia", "tarocco": "Nadia",
+    "navel": "Nadia", "valencia late": "Nadia",
+    "citron": "Nadia", "citrons": "Nadia", "lemon": "Nadia",
+    "lemons": "Nadia", "limon": "Nadia", "limone": "Nadia",
+    "limoni": "Nadia", "lime": "Nadia", "limes": "Nadia",
+    "agrume": "Nadia", "agrumes": "Nadia", "citrus": "Nadia",
+    "agrumi": "Nadia", "citrico": "Nadia", "citricos": "Nadia",
+    "zitrus": "Nadia", "zitronen": "Nadia",
     "orri": "Nadia", "or mehadrin": "Nadia", "or shoham": "Nadia",
     "mandarine": "Nadia", "mandarines": "Nadia", "mandarin": "Nadia",
     "mandarino": "Nadia", "mandarina": "Nadia",
