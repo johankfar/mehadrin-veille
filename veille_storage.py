@@ -19,10 +19,10 @@ DATA_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_FILE = os.path.join(DATA_DIR, "veille_data.json")
 
 # Duree de retention des articles
-RETENTION_HOURS = 48
+RETENTION_HOURS = 72
 
 # Rate limit : intervalle minimum entre deux generations
-MIN_INTERVAL_MINUTES = 110  # ~2h, avec marge
+MIN_INTERVAL_MINUTES = 90  # ~2h, avec marge
 
 
 def _now_utc():

@@ -38,4 +38,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add veille_live.json veille_data.json
           git diff --cached --quiet || git commit -m "veille: update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase || true
           git push
