@@ -60,9 +60,6 @@ MEHADRIN_KEYWORDS = [
     # Oranges (Nadia)
     "orange", "oranges", "naranja", "arancia", "arance", "blood orange",
     "sanguine", "sanguinella", "tarocco", "navel", "valencia late",
-    # Citrons (Nadia)
-    "citron", "citrons", "lemon", "lemons", "limon", "limone", "limoni",
-    "lime", "limes", "lima",
     # Agrumes generique (Nadia)
     "agrume", "agrumes", "citrus", "agrumi", "citrico", "citricos",
     "zitrus", "zitronen",
@@ -166,10 +163,7 @@ PRODUCT_TO_COMMERCIAL = {
     "arancia": "Nadia", "arance": "Nadia", "blood orange": "Nadia",
     "sanguine": "Nadia", "sanguinella": "Nadia", "tarocco": "Nadia",
     "navel": "Nadia", "valencia late": "Nadia",
-    "citron": "Nadia", "citrons": "Nadia", "lemon": "Nadia",
-    "lemons": "Nadia", "limon": "Nadia", "limone": "Nadia",
-    "limoni": "Nadia", "lime": "Nadia", "limes": "Nadia",
-    "agrume": "Nadia", "agrumes": "Nadia", "citrus": "Nadia",
+        "agrume": "Nadia", "agrumes": "Nadia", "citrus": "Nadia",
     "agrumi": "Nadia", "citrico": "Nadia", "citricos": "Nadia",
     "zitrus": "Nadia", "zitronen": "Nadia",
     "orri": "Nadia", "or mehadrin": "Nadia", "or shoham": "Nadia",
