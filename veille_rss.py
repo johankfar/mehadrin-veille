@@ -97,6 +97,10 @@ MEHADRIN_KEYWORDS = [
 
 # Exclusions ABSOLUES — toujours exclure, meme si pays frontalier
 EXCLUDE_ALWAYS = [
+    # Citrons / Lemons — Mehadrin n'en vend pas
+    "citron", "citrons", "lemon", "lemons", "limon", "limone", "limoni",
+    "lime ", "limes ", "lima ",
+    "zitrone", "zitronen",
     # Phytosanitaire / technique
     "mouche des fruits", "fruit fly", "ceratitis", "mosca de la fruta",
     "mouche mediterraneenne", "drosophila", "thrips", "insecte", "parasite",
