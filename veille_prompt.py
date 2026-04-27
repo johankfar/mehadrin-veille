@@ -55,7 +55,7 @@ Date : {date}. Semaine {week_num}.
 
 PRODUITS MEHADRIN : avocats, mangues, mandarines (Orri, Or Shoham, Nadorcott), oranges, pomelos, pamplemousses (Star Ruby), clemengold, sweetie, dattes Medjoul, grenades, kumquats, patates douces, melons, pasteques, cerises, raisin de table.
 PRODUITS EN SAISON : {seasonal_products}
-PRODUITS HORS SAISON (DEPRIORITISER) : {off_season_products}
+PRODUITS HORS SAISON (EXCLURE — score = 0, ne PAS inclure) : {off_season_products}
 ORIGINES MEHADRIN ET CONCURRENTES : Israel, Maroc, Egypte, Perou, Colombie, Bresil, Chili, Espagne, Turquie, Kenya, Afrique du Sud, Inde, Mexique, Grece, Cote d'Ivoire, Sicile.
 
 POUR CHAQUE ARTICLE, tu dois :
@@ -84,7 +84,8 @@ REGLE ABSOLUE : INCLURE LARGEMENT. Les commerciaux veulent TROP d'articles pluto
 - En cas de doute → INCLURE. Ne rejeter que ce qui est CLAIREMENT hors sujet.
 - Tu DOIS retourner AU MINIMUM 3 articles si tu en recois 7 ou plus. 0 article = INACCEPTABLE sauf si tous les articles parlent de technologie/robots/logistique.
 
-CRITERES D'EXCLUSION STRICTS (score = 0, ignorer UNIQUEMENT si c'est 100% hors sujet) :
+CRITERES D'EXCLUSION STRICTS (score = 0, NE PAS INCLURE) :
+- PRODUITS HORS SAISON : tout article dont le sujet principal est un produit liste dans "PRODUITS HORS SAISON" ci-dessus. Exemple : si "Cerises" et "Raisin" sont hors saison, exclure les articles sur les cerises de Californie, le raisin de table egyptien/peruvien/indien, etc. Meme si ces produits font partie du catalogue Mehadrin, ils ne sont PAS pertinents hors saison.
 - Phytosanitaire technique (mouche des fruits, thrips, insectes, CRISPR, genomique)
 - Sante/nutrition, etudes scientifiques medicales
 - Logistique/fret/conteneurs (SAUF si impact sur disponibilite d'un fruit Mehadrin)
