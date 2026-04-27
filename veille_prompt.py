@@ -53,12 +53,14 @@ Tu dois SELECTIONNER les plus pertinents et les RESUMER factuellement.
 
 Date : {date}. Semaine {week_num}.
 
+PRODUITS MEHADRIN : avocats, mangues, mandarines (Orri, Or Shoham, Nadorcott), oranges, pomelos, pamplemousses (Star Ruby), clemengold, sweetie, dattes Medjoul, grenades, kumquats, patates douces, melons, pasteques, cerises, raisin de table.
 PRODUITS EN SAISON : {seasonal_products}
 PRODUITS HORS SAISON (DEPRIORITISER) : {off_season_products}
+ORIGINES MEHADRIN ET CONCURRENTES : Israel, Maroc, Egypte, Perou, Colombie, Bresil, Chili, Espagne, Turquie, Kenya, Afrique du Sud, Inde, Mexique, Grece, Cote d'Ivoire, Sicile.
 
 POUR CHAQUE ARTICLE, tu dois :
 1. DECIDER : pertinent pour Mehadrin oui/non (score 1-10)
-2. Si pertinent (score >= 4) : REECRIRE en francais avec :
+2. Si pertinent (score >= 3) : REECRIRE en francais avec :
    - Un titre precis en francais
    - Le contenu REEL de l'article (NE PAS inventer de chiffres qui ne sont pas dans l'article original)
 3. GARDER le lien original de l'article (OBLIGATOIRE, ne PAS le modifier)
@@ -66,32 +68,38 @@ POUR CHAQUE ARTICLE, tu dois :
 
 CRITERES DE PERTINENCE :
 - Score 10 : prix/cotation d'un produit Mehadrin avec chiffres
-- Score 9 : volumes import/export d'un produit Mehadrin
+- Score 9 : volumes import/export d'un produit Mehadrin avec chiffres
 - Score 8 : debut/fin campagne d'une origine concurrente sur un produit Mehadrin
-- Score 7 : probleme qualite/supply sur un concurrent (= argument pour Mehadrin)
-- Score 6 : mouvement d'enseigne sur un produit Mehadrin
-- Score 5 : info marche generale mais utile pour contexte commercial
-- Score 4 : volumes/prix d'un produit concurrent ou d'un pays concurrent, meme si pas directement un produit Mehadrin
-- Score < 4 : NON PERTINENT, ne pas inclure
+- Score 7 : probleme qualite/supply sur un concurrent (= argument commercial pour Mehadrin)
+- Score 6 : mouvement d'enseigne ou acquisition dans le secteur fruits/agrumes
+- Score 5 : info marche generale sur un fruit/agrume dans un pays concurrent, meme sans chiffres precis
+- Score 4 : volumes/prix d'un produit voisin (ex: raisin de table, agrumes generique) dans un pays listee ci-dessus
+- Score 3 : info sur un fruit/legume dans une origine concurrente — utile pour contexte meme si pas directement Mehadrin
+- Score < 3 : NON PERTINENT
 
-IMPORTANT : En cas de doute, INCLURE l'article. Il vaut mieux avoir 1 article en trop qu'un article pertinent manque. Les commerciaux prefèrent trop d'info que pas assez.
+REGLE ABSOLUE : INCLURE LARGEMENT. Les commerciaux veulent TROP d'articles plutot que pas assez.
+- Si un article mentionne un fruit ET un pays concurrent → INCLURE (score >= 4)
+- Si un article parle de prix ou volumes de fruits en Europe → INCLURE (score >= 4)
+- Si un article parle d'avocats, mangues, agrumes, pasteques, melons, raisin, grenades, dattes → INCLURE (score >= 5)
+- En cas de doute → INCLURE. Ne rejeter que ce qui est CLAIREMENT hors sujet.
+- Tu DOIS retourner AU MINIMUM 3 articles si tu en recois 7 ou plus. 0 article = INACCEPTABLE sauf si tous les articles parlent de technologie/robots/logistique.
 
-CRITERES D'EXCLUSION (score = 0, ignorer completement) :
-- Produit hors catalogue Mehadrin
-- Phytosanitaire technique (mouche des fruits, thrips, insectes)
-- Sante/nutrition, etudes scientifiques
-- Logistique/fret/conteneurs
-- Technologie/emballage/robots
-- B2C/recettes/promos
-- Produits hors saison SAUF evenement majeur
+CRITERES D'EXCLUSION STRICTS (score = 0, ignorer UNIQUEMENT si c'est 100% hors sujet) :
+- Phytosanitaire technique (mouche des fruits, thrips, insectes, CRISPR, genomique)
+- Sante/nutrition, etudes scientifiques medicales
+- Logistique/fret/conteneurs (SAUF si impact sur disponibilite d'un fruit Mehadrin)
+- Technologie/emballage/robots/packaging
+- B2C/recettes/promos supermarche
+- Produits JAMAIS vendus par un importateur de fruits frais (viande, lait, cereales, noix, pistaches)
+- Marches UNIQUEMENT locaux sans impact Europe (ex: raisin en Inde pour consommation locale)
 
 REGLES CRITIQUES :
 - NE PAS inventer de chiffres. Si l'article dit "les prix ont augmente", ne PAS inventer "de 5%".
 - TOUS les chiffres dans ta reponse doivent venir de l'article original.
 - Le lien source est SACRE : copie-le exactement tel quel.
-- Redige en francais. Maximum 8 articles. Minimum 1 si au moins 1 est pertinent.
+- Redige en francais. Maximum 12 articles. Minimum 3 si au moins 7 articles sont fournis.
 - PAS D'EMOJIS.
-- ANTI-DOUBLON STRICT : Si plusieurs articles parlent du MEME SUJET (meme produit + meme pays/origine), ne garder que le MEILLEUR (celui avec le plus de chiffres/details). NE PAS produire 2 articles sur "avocats Kenya" ou 2 articles sur "patates douces Egypte". ATTENTION : les articles proviennent de FreshPlaza en 5+ langues (EN, FR, ES, IT, DE) — le meme article est souvent present plusieurs fois avec des titres traduits. Ne garder qu'UNE seule version par sujet.
+- ANTI-DOUBLON STRICT : Si plusieurs articles parlent du MEME SUJET (meme produit + meme pays/origine), ne garder que le MEILLEUR (celui avec le plus de chiffres/details). ATTENTION : les articles proviennent de FreshPlaza en 5+ langues (EN, FR, ES, IT, DE) — le meme article est souvent present plusieurs fois avec des titres traduits. Ne garder qu'UNE seule version par sujet.
 
 FORMAT DE SORTIE (HTML strict) :
 Pour chaque article retenu, genere :
@@ -102,7 +110,7 @@ Pour chaque article retenu, genere :
   <div class="news-source"><a href="LIEN_ORIGINAL_EXACT" target="_blank">NomDuMedia -- Lire l'article</a></div>
 </div>
 
-Si AUCUN article n'est pertinent (tous score < 4), reponds uniquement : AUCUN_ARTICLE_PERTINENT
+Si AUCUN article n'est pertinent (tous score < 3), reponds uniquement : AUCUN_ARTICLE_PERTINENT
 
 Voici les articles a analyser :
 
