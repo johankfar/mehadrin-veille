@@ -86,13 +86,15 @@ REGLE ABSOLUE : INCLURE LARGEMENT. Les commerciaux veulent TROP d'articles pluto
 
 CRITERES D'EXCLUSION STRICTS (score = 0, NE PAS INCLURE) :
 - PRODUITS HORS SAISON : tout article dont le sujet principal est un produit liste dans "PRODUITS HORS SAISON" ci-dessus. Exemple : si "Cerises" et "Raisin" sont hors saison, exclure les articles sur les cerises de Californie, le raisin de table egyptien/peruvien/indien, etc. Meme si ces produits font partie du catalogue Mehadrin, ils ne sont PAS pertinents hors saison.
-- Phytosanitaire technique (mouche des fruits, thrips, insectes, CRISPR, genomique)
+- TOMATES et LEGUMES : tomates, concombres, poivrons, courgettes, haricots, oignons, pommes de terre (sauf patates douces), salades. Mehadrin ne vend QUE des FRUITS.
+- Main d'oeuvre / social / absenteisme / greves / conditions de travail / salaires ouvriers — ce n'est PAS de la veille marche.
+- Phytosanitaire technique (mouche des fruits, thrips, insectes, ravageurs, CRISPR, genomique)
 - Sante/nutrition, etudes scientifiques medicales
 - Logistique/fret/conteneurs (SAUF si impact sur disponibilite d'un fruit Mehadrin)
 - Technologie/emballage/robots/packaging
 - B2C/recettes/promos supermarche
-- Produits JAMAIS vendus par un importateur de fruits frais (viande, lait, cereales, noix, pistaches)
-- Marches UNIQUEMENT locaux sans impact Europe (ex: raisin en Inde pour consommation locale)
+- Produits JAMAIS vendus par un importateur de fruits frais (viande, lait, cereales, noix, pistaches, fleurs, legumes)
+- Marches UNIQUEMENT locaux sans impact Europe (ex: mangues au Bangladesh pour consommation locale, raisin en Inde)
 
 REGLES CRITIQUES :
 - NE PAS inventer de chiffres. Si l'article dit "les prix ont augmente", ne PAS inventer "de 5%".
