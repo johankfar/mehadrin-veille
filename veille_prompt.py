@@ -60,47 +60,44 @@ ORIGINES MEHADRIN ET CONCURRENTES : Israel, Maroc, Egypte, Perou, Colombie, Bres
 
 POUR CHAQUE ARTICLE, tu dois :
 1. DECIDER : pertinent pour Mehadrin oui/non (score 1-10)
-2. Si pertinent (score >= 3) : REECRIRE en francais avec :
+2. Si pertinent (score >= 4) : REECRIRE en francais avec :
    - Un titre precis en francais
    - Le contenu REEL de l'article (NE PAS inventer de chiffres qui ne sont pas dans l'article original)
 3. GARDER le lien original de l'article (OBLIGATOIRE, ne PAS le modifier)
 4. ATTRIBUER une categorie : PRIX & VOLUMES, ALERTES SUPPLY, MOUVEMENTS ENSEIGNES, CONCURRENCE ORIGINES
 
-CRITERES DE PERTINENCE :
-- Score 10 : prix/cotation d'un produit Mehadrin avec chiffres
-- Score 9 : volumes import/export d'un produit Mehadrin avec chiffres
-- Score 8 : debut/fin campagne d'une origine concurrente sur un produit Mehadrin
-- Score 7 : probleme qualite/supply sur un concurrent (= argument commercial pour Mehadrin)
-- Score 6 : mouvement d'enseigne ou acquisition dans le secteur fruits/agrumes
-- Score 5 : info marche generale sur un fruit/agrume dans un pays concurrent, meme sans chiffres precis
-- Score 4 : volumes/prix d'un produit voisin (ex: raisin de table, agrumes generique) dans un pays listee ci-dessus
-- Score 3 : info sur un fruit/legume dans une origine concurrente — utile pour contexte meme si pas directement Mehadrin
-- Score < 3 : NON PERTINENT
+REGLE FONDAMENTALE : un article est pertinent UNIQUEMENT s'il parle d'un PRODUIT MEHADRIN (liste ci-dessus) dans un MARCHE pertinent (Europe, import/export, origine concurrente). Si l'article parle d'un autre produit (myrtilles, fraises, fruits a noyau, bananes, kiwis, pommes, poires...) → EXCLURE.
 
-REGLE ABSOLUE : INCLURE LARGEMENT. Les commerciaux veulent TROP d'articles plutot que pas assez.
-- Si un article mentionne un fruit ET un pays concurrent → INCLURE (score >= 4)
-- Si un article parle de prix ou volumes de fruits en Europe → INCLURE (score >= 4)
-- Si un article parle d'avocats, mangues, agrumes, pasteques, melons, raisin, grenades, dattes → INCLURE (score >= 5)
-- En cas de doute → INCLURE. Ne rejeter que ce qui est CLAIREMENT hors sujet.
-- Tu DOIS retourner AU MINIMUM 3 articles si tu en recois 7 ou plus. 0 article = INACCEPTABLE sauf si tous les articles parlent de technologie/robots/logistique.
+CRITERES DE PERTINENCE :
+- Score 10 : prix/cotation d'un produit Mehadrin EN SAISON avec chiffres
+- Score 9 : volumes import/export d'un produit Mehadrin EN SAISON avec chiffres
+- Score 8 : debut/fin campagne d'une origine concurrente sur un produit Mehadrin
+- Score 7 : probleme qualite/supply chez un concurrent sur un produit Mehadrin (= argument commercial)
+- Score 6 : mouvement d'enseigne ou acquisition dans le secteur AGRUMES/AVOCATS/MANGUES/EXOTIQUES
+- Score 5 : info marche sur un produit Mehadrin dans un pays concurrent, meme sans chiffres precis
+- Score 4 : info generale sur les agrumes, avocats ou mangues dans une origine concurrente
+- Score < 4 : NON PERTINENT — ne pas inclure
+
+IMPORTANT : en cas de doute, VERIFIER que l'article parle bien d'un PRODUIT MEHADRIN. Si le produit n'est pas dans la liste ci-dessus → EXCLURE, meme si c'est un fruit.
 
 CRITERES D'EXCLUSION STRICTS (score = 0, NE PAS INCLURE) :
-- PRODUITS HORS SAISON : tout article dont le sujet principal est un produit liste dans "PRODUITS HORS SAISON" ci-dessus. Exemple : si "Cerises" et "Raisin" sont hors saison, exclure les articles sur les cerises de Californie, le raisin de table egyptien/peruvien/indien, etc. Meme si ces produits font partie du catalogue Mehadrin, ils ne sont PAS pertinents hors saison.
+- PRODUITS NON-MEHADRIN : myrtilles, fraises, framboises, bananes, kiwis, pommes, poires, peches, nectarines, abricots, prunes, figues, litchis, fruits a noyau, baies. Si le produit n'est PAS dans la liste PRODUITS MEHADRIN → EXCLURE.
+- PRODUITS HORS SAISON : tout article dont le sujet principal est un produit liste dans "PRODUITS HORS SAISON" ci-dessus.
 - TOMATES et LEGUMES : tomates, concombres, poivrons, courgettes, haricots, oignons, pommes de terre (sauf patates douces), salades. Mehadrin ne vend QUE des FRUITS.
-- Main d'oeuvre / social / absenteisme / greves / conditions de travail / salaires ouvriers — ce n'est PAS de la veille marche.
-- Phytosanitaire technique (mouche des fruits, thrips, insectes, ravageurs, CRISPR, genomique)
-- Sante/nutrition, etudes scientifiques medicales
-- Logistique/fret/conteneurs (SAUF si impact sur disponibilite d'un fruit Mehadrin)
-- Technologie/emballage/robots/packaging
-- B2C/recettes/promos supermarche
-- Produits JAMAIS vendus par un importateur de fruits frais (viande, lait, cereales, noix, pistaches, fleurs, legumes)
-- Marches UNIQUEMENT locaux sans impact Europe (ex: mangues au Bangladesh pour consommation locale, raisin en Inde)
+- Main d'oeuvre / social / absenteisme / greves / conditions de travail / salaires ouvriers.
+- Phytosanitaire / recherche : mouche des fruits, thrips, insectes, ravageurs, HLB, verdissement, CRISPR, genomique, innovation varietale, recherche agronomique.
+- Sante/nutrition, etudes scientifiques medicales.
+- Logistique/fret/conteneurs/films plastiques/serres (SAUF si impact DIRECT sur disponibilite d'un fruit Mehadrin).
+- Technologie/emballage/robots/packaging.
+- B2C/recettes/promos supermarche.
+- Marches UNIQUEMENT locaux sans impact Europe (ex: mangues au Bangladesh, fruits en Inde/Chine pour consommation locale).
+- Evenements / salons / promotions generiques sans info de marche concrete.
 
 REGLES CRITIQUES :
 - NE PAS inventer de chiffres. Si l'article dit "les prix ont augmente", ne PAS inventer "de 5%".
 - TOUS les chiffres dans ta reponse doivent venir de l'article original.
 - Le lien source est SACRE : copie-le exactement tel quel.
-- Redige en francais. Maximum 12 articles. Minimum 3 si au moins 7 articles sont fournis.
+- Redige en francais. Maximum 10 articles. Mieux vaut 3 articles pertinents que 10 articles mediocres.
 - PAS D'EMOJIS.
 - ANTI-DOUBLON STRICT : Si plusieurs articles parlent du MEME SUJET (meme produit + meme pays/origine), ne garder que le MEILLEUR (celui avec le plus de chiffres/details). ATTENTION : les articles proviennent de FreshPlaza en 5+ langues (EN, FR, ES, IT, DE) — le meme article est souvent present plusieurs fois avec des titres traduits. Ne garder qu'UNE seule version par sujet.
 
