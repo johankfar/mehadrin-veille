@@ -1,13 +1,12 @@
 name: Veille Marche - Generation automatique
 
 on:
-  schedule:
-    # Toutes les heures de 5h a 18h UTC (= 7h a 20h Paris CEST)
-    # GitHub Actions peut retarder/sauter des crons. On lance toutes les heures
-    # mais MIN_INTERVAL_MINUTES=90 dans le code empeche les double-runs.
-    # Si GitHub saute un creneau, le suivant 1h apres rattrape.
-    - cron: '30 5-18 * * 1-6'  # Lundi a Samedi, toutes les heures
-  workflow_dispatch:  # Lancement manuel possible
+  # DESACTIVE - La veille tourne sur le VPS Hetzner (cron toutes les 90min)
+  # GitHub Actions creait des divergences git avec le VPS.
+  # Garder workflow_dispatch pour lancement manuel d'urgence si le VPS tombe.
+  # schedule:
+  #   - cron: '30 5-18 * * 1-6'
+  workflow_dispatch:  # Lancement manuel d'urgence uniquement
 
 permissions:
   contents: write
