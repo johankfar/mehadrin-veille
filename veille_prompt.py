@@ -90,7 +90,7 @@ CRITERES D'EXCLUSION STRICTS (score = 0, NE PAS INCLURE) :
 - Logistique/fret/conteneurs/films plastiques/serres (SAUF si impact DIRECT sur disponibilite d'un fruit Mehadrin).
 - Technologie/emballage/robots/packaging.
 - B2C/recettes/promos supermarche.
-- Marches UNIQUEMENT locaux sans impact Europe (ex: mangues au Bangladesh, fruits en Inde/Chine pour consommation locale).
+- Marches sans impact sur l'Europe : Australie, Nouvelle-Zelande, USA/Canada (marche interieur), Asie du Sud-Est, Bangladesh, Inde/Chine (consommation locale). Seuls les marches des ORIGINES CONCURRENTES listees ci-dessus sont pertinents.
 - Evenements / salons / promotions generiques sans info de marche concrete.
 
 REGLES CRITIQUES :
