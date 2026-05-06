@@ -95,6 +95,7 @@ CRITERES D'EXCLUSION STRICTS (score = 0, NE PAS INCLURE) :
 - Technologie/emballage/robots/packaging.
 - B2C/recettes/promos supermarche.
 - Marches sans impact sur l'Europe : Australie, Nouvelle-Zelande, USA/Canada (marche interieur), Asie du Sud-Est, Bangladesh, Inde/Chine (consommation locale). Seuls les marches des ORIGINES CONCURRENTES listees ci-dessus sont pertinents.
+- Resultats financiers / bilans trimestriels / cours de bourse de multinationales (Dole, Fresh Del Monte, Chiquita, Total Produce, Greenyard, etc.). Seules les acquisitions ou expansions ayant un impact DIRECT sur un produit Mehadrin sont pertinentes.
 - Evenements / salons / promotions generiques sans info de marche concrete.
 
 REGLES CRITIQUES :
