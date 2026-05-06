@@ -64,7 +64,11 @@ POUR CHAQUE ARTICLE, tu dois :
    - Un titre precis en francais
    - Le contenu REEL de l'article (NE PAS inventer de chiffres qui ne sont pas dans l'article original)
 3. GARDER le lien original de l'article (OBLIGATOIRE, ne PAS le modifier)
-4. ATTRIBUER une categorie : PRIX & VOLUMES, ALERTES SUPPLY, MOUVEMENTS ENSEIGNES, CONCURRENCE ORIGINES
+4. ATTRIBUER une categorie selon ces DEFINITIONS STRICTES :
+   - PRIX & VOLUMES : l'article contient des CHIFFRES (prix, cotations, tonnes, %, volumes, export/import). Meme si c'est une origine concurrente, s'il y a des chiffres → PRIX & VOLUMES.
+   - ALERTES SUPPLY : probleme d'approvisionnement, retard, intemperies, secheresse, fin de campagne, penurie, qualite, gel, greve portuaire. Tout ce qui MENACE la disponibilite d'un fruit.
+   - MOUVEMENTS ENSEIGNES : acquisition, fusion, investissement, nouveau distributeur, partenariat commercial, expansion d'entreprise.
+   - CONCURRENCE ORIGINES : UNIQUEMENT pour les articles SANS chiffres et SANS alerte qui decrivent une strategie pays, un positionnement geographique, ou une expansion de culture. C'est la categorie par DEFAUT la moins prioritaire.
 
 REGLE FONDAMENTALE : un article est pertinent UNIQUEMENT s'il parle d'un PRODUIT MEHADRIN (liste ci-dessus) dans un MARCHE pertinent (Europe, import/export, origine concurrente). Si l'article parle d'un autre produit (myrtilles, fraises, fruits a noyau, bananes, kiwis, pommes, poires...) → EXCLURE.
 
