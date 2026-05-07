@@ -95,7 +95,7 @@ CRITERES D'EXCLUSION STRICTS (score = 0, NE PAS INCLURE) :
 - Technologie/emballage/robots/packaging.
 - B2C/recettes/promos supermarche.
 - Marches sans impact sur l'Europe : Australie, Nouvelle-Zelande, USA/Canada (marche interieur), Asie du Sud-Est, Bangladesh, Inde/Chine (consommation locale). Seuls les marches des ORIGINES CONCURRENTES listees ci-dessus sont pertinents.
-- Resultats financiers / bilans trimestriels / cours de bourse de multinationales (Dole, Fresh Del Monte, Chiquita, Total Produce, Greenyard, etc.). Seules les acquisitions ou expansions ayant un impact DIRECT sur un produit Mehadrin sont pertinentes.
+- Portraits / profils / expansions d'entreprises : resultats financiers, bilans, croissance organique, CA, nombre d'employes, investissements d'une entreprise specifique (Dole, Fresh Del Monte, Chiquita, Total Produce, Greenyard, Juan Motilla, Unifrutti, etc.). On ne veut PAS savoir qu'une entreprise X a grandi de Y%. On veut UNIQUEMENT des infos MARCHE (prix, volumes, campagnes, supply) pas des infos ENTREPRISE.
 - Evenements / salons / promotions generiques sans info de marche concrete.
 
 REGLES CRITIQUES :
