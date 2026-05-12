@@ -86,7 +86,7 @@ IMPORTANT : en cas de doute, VERIFIER que l'article parle bien d'un PRODUIT MEHA
 
 CRITERES D'EXCLUSION STRICTS (score = 0, NE PAS INCLURE) :
 - PRODUITS NON-MEHADRIN : myrtilles, fraises, framboises, bananes, kiwis, pommes, poires, peches, nectarines, abricots, prunes, figues, litchis, fruits a noyau, baies. Si le produit n'est PAS dans la liste PRODUITS MEHADRIN → EXCLURE.
-- PRODUITS HORS SAISON : tout article dont le sujet principal est un produit liste dans "PRODUITS HORS SAISON" ci-dessus.
+- PRODUITS HORS SAISON : tout article dont le sujet principal est un produit liste dans "PRODUITS HORS SAISON" ci-dessus. INCLUT AUSSI : raisins de table, cerises, table grapes — TOUJOURS exclure ces produits meme si listes dans PRODUITS MEHADRIN (pas la saison).
 - TOMATES et LEGUMES : tomates, concombres, poivrons, courgettes, haricots, oignons, pommes de terre (sauf patates douces), salades. Mehadrin ne vend QUE des FRUITS.
 - Main d'oeuvre / social / absenteisme / greves / conditions de travail / salaires ouvriers.
 - Phytosanitaire / recherche : mouche des fruits, thrips, insectes, ravageurs, HLB, verdissement, CRISPR, genomique, innovation varietale, recherche agronomique.
