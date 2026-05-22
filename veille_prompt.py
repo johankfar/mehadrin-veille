@@ -94,8 +94,8 @@ CRITERES D'EXCLUSION STRICTS (score = 0, NE PAS INCLURE) :
 - Logistique/fret/conteneurs/films plastiques/serres (SAUF si impact DIRECT sur disponibilite d'un fruit Mehadrin).
 - Technologie/emballage/robots/packaging.
 - B2C/recettes/promos supermarche.
-- Marches sans impact sur l'Europe : Australie, Nouvelle-Zelande, USA/Canada (marche interieur), Asie du Sud-Est, Bangladesh, Inde/Chine (consommation locale). Seuls les marches des ORIGINES CONCURRENTES listees ci-dessus sont pertinents.
-- Portraits / profils / expansions d'entreprises : resultats financiers, bilans, croissance organique, CA, nombre d'employes, investissements d'une entreprise specifique (Dole, Fresh Del Monte, Chiquita, Total Produce, Greenyard, Juan Motilla, Unifrutti, etc.). On ne veut PAS savoir qu'une entreprise X a grandi de Y%. On veut UNIQUEMENT des infos MARCHE (prix, volumes, campagnes, supply) pas des infos ENTREPRISE.
+- Marches sans impact sur l'Europe : Australie, Nouvelle-Zelande, Asie du Sud-Est (Thailande, Vietnam, Philippines), Bangladesh, Inde/Chine (consommation locale). EXCEPTION : les prix USA sur un produit Mehadrin AVEC chiffres sont pertinents car indicateurs du marche mondial.
+- Resultats financiers / bilans / cours de bourse d'entreprises. On ne veut PAS savoir qu'une entreprise X a grandi de Y% ou a fait Z millions de CA. EXCEPTION : si l'article contient des infos MARCHE concretes (prix, volumes, debut/fin campagne) en plus du profil entreprise, GARDER l'article pour les infos marche.
 - Evenements / salons / promotions generiques sans info de marche concrete.
 
 REGLES CRITIQUES :
