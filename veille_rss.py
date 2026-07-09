@@ -250,7 +250,7 @@ def _fetch_feed(feed_config, timeout=15):
             if title and link:
                 articles.append({
                     "title": _clean_html(title),
-                    "link": link.strip(),
+                    "link": _safe_link(link),
                     "summary": _clean_html(desc)[:500] if desc else "",
                     "pub_date": _parse_rss_date(pub_date),
                     "source": name,
@@ -271,7 +271,7 @@ def _fetch_feed(feed_config, timeout=15):
             if title and link:
                 articles.append({
                     "title": _clean_html(title),
-                    "link": link.strip(),
+                    "link": _safe_link(link),
                     "summary": _clean_html(desc)[:500] if desc else "",
                     "pub_date": _parse_rss_date(pub_date),
                     "source": name,
@@ -291,6 +291,16 @@ def _get_text(el, tag, ns=None):
     if child is not None and child.text:
         return child.text.strip()
     return ""
+
+
+def _safe_link(url):
+    # F10 : le lien est reproduit VERBATIM dans un href par le prompt Gemini.
+    # On n'autorise que http/https et on retire les caracteres qui casseraient
+    # l'attribut (guillemets, chevrons, backtick, espaces/retours). Defense-in-depth.
+    u = str(url or '').strip()
+    if not re.match(r'^https?://', u, re.IGNORECASE):
+        return ''
+    return re.sub(r'[\s"\'<>`]', '', u)
 
 
 def _clean_html(text):
