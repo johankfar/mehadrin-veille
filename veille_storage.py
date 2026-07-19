@@ -14,6 +14,8 @@ import os
 import re
 from datetime import datetime, timedelta, timezone
 
+from veille_taxonomy import classify_article, enrich_articles
+
 # Chemin du fichier de donnees
 DATA_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_FILE = os.path.join(DATA_DIR, "veille_data.json")
@@ -369,6 +371,7 @@ def add_articles(data, articles_html_fr, articles_html_en="", articles_html_he="
 
         # Detect commercial(s) from title
         commercials = _detect_commercials_from_html(fr_html)
+        products, origins = classify_article(title_text_clean, fr_html)
 
         article = {
             "id": f"{int(_now_utc().timestamp())}_{i}",
@@ -377,6 +380,8 @@ def add_articles(data, articles_html_fr, articles_html_en="", articles_html_he="
             "title_hash": t_hash,
             "category": _extract_category(fr_html),
             "commercials": commercials,
+            "products": products,
+            "origins": origins,
             "content_fr": fr_html,
             "content_en": en_items[i] if i < len(en_items) else "",
             "content_he": he_items[i] if i < len(he_items) else "",
@@ -411,6 +416,9 @@ def get_articles_for_display(data, lang="fr"):
 def get_articles_json_for_frontend(data):
     """Retourne un JSON optimise pour le front-end avec les 3 langues."""
     purge_old_articles(data)
+    # Migration idempotente des articles deja en stock. Le classifieur ne
+    # deduit rien du commercial ou de la saison : mentions explicites seulement.
+    enrich_articles(data)
     sorted_articles = sorted(
         data.get("articles", []),
         key=lambda a: a.get("timestamp", ""),
@@ -426,6 +434,8 @@ def get_articles_json_for_frontend(data):
                 "title": a.get("title", ""),
                 "category": a.get("category", ""),
                 "commercials": a.get("commercials", []),
+                "products": a.get("products", []),
+                "origins": a.get("origins", []),
                 "content_fr": a.get("content_fr", ""),
                 "content_en": a.get("content_en", ""),
                 "content_he": a.get("content_he", ""),
