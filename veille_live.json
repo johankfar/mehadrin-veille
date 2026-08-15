@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-08-15T08:04:02.505727+00:00",
-  "article_count": 38,
+  "last_updated": "2026-08-15T09:33:07.643157+00:00",
+  "article_count": 37,
   "attention_points": [
+    {
+      "id": "attention-c80108a8ea795b26",
+      "article_id": "1786786387_0",
+      "url": "https://east-fruit.com/en/trending/watermelon-prices-continue-to-decline-in-ukraine/",
+      "source": "EastFruit",
+      "title": "Poursuite de la baisse des prix des pastèques",
+      "summary": "Conditions climatiques favorables soutenant la récolte et la disponibilité",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-08-15T06:41:49+00:00",
+      "published_at_source": "rss",
+      "signal_type": "price",
+      "signal_label": "Prix",
+      "icon": "information",
+      "products": [
+        "watermelon"
+      ],
+      "age_hours": 2
+    },
     {
       "id": "attention-2008da0a6406dd0e",
       "article_id": "1786721564_0",
@@ -19,14 +38,14 @@
       "products": [
         "date"
       ],
-      "age_hours": 18
+      "age_hours": 19
     },
     {
       "id": "attention-8d29dc6135107e2a",
       "article_id": "1786726983_0",
       "url": "https://www.freshplaza.es/article/9863129/la-caida-de-la-demanda-en-oriente-medio-golpea-a-los-exportadores-sudafricanos-de-citricos-y-mango/",
       "source": "FreshPlaza ES",
-      "title": "Recul de la demande d'agrumes au Moyen-Orient et défis",
+      "title": "Baisse de la demande d'agrumes au Moyen-Orient et défis",
       "summary": "Dans la région de Hoedspruit, les exportateurs sud-africains font face à une conjoncture difficile.",
       "origin_code": "ZAF",
       "origin_label": "Afrique du Sud",
@@ -39,7 +58,7 @@
         "mandarine",
         "orange"
       ],
-      "age_hours": 18
+      "age_hours": 19
     },
     {
       "id": "attention-1457fdfadcffecb5",
@@ -58,29 +77,24 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 20
-    },
-    {
-      "id": "attention-e364ea96153eaa52",
-      "article_id": "1786716209_2",
-      "url": "https://www.freshplaza.com/article/9863423/kenyan-avocado-farms-can-generate-up-to-us-11-028-ha-annually/",
-      "source": "FreshPlaza",
-      "title": "Analyse de la rentabilité de la culture de l'avocat",
-      "summary": "Au Kenya, l'agripreneur Elijah Sawe estime qu'une exploitation d'avocats bien gérée peut générer jusqu'à 11 028,73 dollars de revenus bruts annuels par acre (environ 0,40 hectare).",
-      "origin_code": "KEN",
-      "origin_label": "Kenya",
-      "published_at": "2026-08-14T13:31:00+02:00",
-      "published_at_source": "legacy_html_date",
-      "signal_type": "information",
-      "signal_label": "Information",
-      "icon": "information",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 20
+      "age_hours": 22
     }
   ],
   "articles": [
+    {
+      "id": "1786786387_0",
+      "timestamp": "2026-08-15T09:33:07.643157+00:00",
+      "title": "Poursuite de la baisse des prix des pastèques en Ukraine -- 15/08/2026 06:41",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [],
+      "products": [
+        "watermelon"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Poursuite de la baisse des prix des pastèques en Ukraine -- <span class=\"news-date\">15/08/2026 06:41</span></div><div class=\"news-body\">Les conditions météorologiques favorables en Ukraine favorisent une récolte active des pastèques, entraînant une hausse de l&#x27;offre sur le marché. En conséquence, les analystes observent une baisse continue des prix de vente pour les producteurs locaux. <span class=\"news-reason\">Information sur l&#x27;offre et les prix d&#x27;un produit Mehadrin en saison chez un pays concurrent.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/trending/watermelon-prices-continue-to-decline-in-ukraine/\" target=\"_blank\">EastFruit -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGINS COMPETITION</div><div class=\"news-title\">Continued decline in watermelon prices in Ukraine -- <span class=\"news-date\">15/08/2026 06:41</span></div><div class=\"news-body\">Favorable weather conditions in Ukraine are promoting an active watermelon harvest, leading to an increase in market supply. As a result, analysts are observing a continuous decline in selling prices for local producers. <span class=\"news-reason\">Information on the supply and prices of a Mehadrin product in season in a competing country.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/trending/watermelon-prices-continue-to-decline-in-ukraine/\" target=\"_blank\">EastFruit -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">המשך הירידה במחירי האבטיחים באוקראינה -- <span class=\"news-date\">15/08/2026 06:41</span></div><div class=\"news-body\">תנאי מזג האוויר הנוחים באוקראינה מעודדים קטיף פעיל של אבטיחים, דבר המוביל לעלייה בהיצע בשוק. כתוצאה מכך, האנליסטים מבחינים בירידה מתמשכת במחירי המכירה עבור היצרנים המקומיים. <span class=\"news-reason\">מידע על ההיצע והמחירים של מוצר מהדרין בעונה אצל מדינה מתחרה.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/trending/watermelon-prices-continue-to-decline-in-ukraine/\" target=\"_blank\">EastFruit -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1786781042_0",
       "timestamp": "2026-08-15T08:04:02.505727+00:00",
@@ -102,7 +116,7 @@
     {
       "id": "1786732450_0",
       "timestamp": "2026-08-14T18:34:10.897209+00:00",
-      "title": "Pérou : baisse de 60 % de la production de mangues anticipée pour la saison 2026/27",
+      "title": "Pérou : une baisse de 60 % de la production de mangues est anticipée pour la saison 2026/27",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -113,14 +127,14 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pérou : baisse de 60 % de la production de mangues anticipée pour la saison 2026/27 -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">La floraison des manguiers au Pérou a été sévèrement touchée par le phénomène El Niño, laissant présager une chute de production allant jusqu&#x27;à 60 %. La campagne débutera en semaine 40 (octobre) dans la région de Piura et se poursuivra jusqu&#x27;en janvier 2027, avec des récoltes successives à Lambayeque et Casma. <span class=\"news-reason\">Alerte majeure sur les volumes d&#x27;un concurrent clé avec des chiffres précis de baisse de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863313/el-nino-golpea-la-floracion-del-mango-en-peru-la-produccion-podria-caer-hasta-un-60/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pérou : une baisse de 60 % de la production de mangues est anticipée pour la saison 2026/27 -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">La floraison des manguiers au Pérou a été sévèrement touchée par le phénomène El Niño, laissant présager une chute de production allant jusqu&#x27;à 60 %. La campagne débutera en semaine 40 (octobre) dans la région de Piura et se poursuivra jusqu&#x27;en janvier 2027, avec des récoltes successives à Lambayeque et Casma. <span class=\"news-reason\">Alerte majeure sur les volumes d&#x27;un concurrent clé avec des chiffres précis de baisse de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863313/el-nino-golpea-la-floracion-del-mango-en-peru-la-produccion-podria-caer-hasta-un-60/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Peru: a 60% drop in mango production is expected for the 2026/27 season -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">Mango tree flowering in Peru has been severely affected by the El Niño phenomenon, suggesting a production drop of up to 60%. The campaign will begin in week 40 (October) in the Piura region and will continue until January 2027, with successive harvests in Lambayeque and Casma. <span class=\"news-reason\">Major alert on the volumes of a key competitor with specific production decline figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863313/el-nino-golpea-la-floracion-del-mango-en-peru-la-produccion-podria-caer-hasta-un-60/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">פרו: צפויה ירידה של 60% בייצור המנגו לעונת 2026/27 -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">פריחת עצי המנגו בפרו נפגעה קשות מתופעת אל-ניניו, המבשרת על ירידה בייצור של עד 60%. העונה תתחיל בשבוע 40 (אוקטובר) באזור פיוורה ותימשך עד ינואר 2027, עם יבולים עוקבים בלמבאייקה ובקאסמה. <span class=\"news-reason\">התראה משמעותית לגבי כמויות של מתחרה מפתח עם נתונים מדויקים על הירידה בייצור.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863313/el-nino-golpea-la-floracion-del-mango-en-peru-la-produccion-podria-caer-hasta-un-60/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1786726983_0",
       "timestamp": "2026-08-14T17:03:03.417711+00:00",
-      "title": "Recul de la demande d&#x27;agrumes au Moyen-Orient et défis climatiques en Afrique du Sud",
+      "title": "Baisse de la demande d&#x27;agrumes au Moyen-Orient et défis climatiques en Afrique du Sud",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -132,7 +146,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Recul de la demande d&#x27;agrumes au Moyen-Orient et défis climatiques en Afrique du Sud -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">Dans la région de Hoedspruit, les exportateurs sud-africains font face à une conjoncture difficile. Alors que la saison des mandarines touche normalement à sa fin, des pluies hivernales tardives ont ralenti les opérations de récolte et d&#x27;emballage. De plus, une chute de la demande sur les marchés du Moyen-Orient perturbe les flux d&#x27;exportation habituels. Face à ces contraintes, les producteurs (notamment Rederberg Estates) anticipent un basculement vers la récolte des oranges de type Valencia. <span class=\"news-reason\">Information stratégique sur la concurrence (Afrique du Sud) concernant la fin de campagne des mandarines et oranges Valencia, incluant une alerte de marché régionale.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863129/la-caida-de-la-demanda-en-oriente-medio-golpea-a-los-exportadores-sudafricanos-de-citricos-y-mango/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Baisse de la demande d&#x27;agrumes au Moyen-Orient et défis climatiques en Afrique du Sud -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">Dans la région de Hoedspruit, les exportateurs sud-africains font face à une conjoncture difficile. Alors que la saison des mandarines touche normalement à sa fin, des pluies hivernales tardives ont ralenti les opérations de récolte et d&#x27;emballage. De plus, une chute de la demande sur les marchés du Moyen-Orient perturbe les flux d&#x27;exportation habituels. Face à ces contraintes, les producteurs (notamment Rederberg Estates) anticipent un basculement vers la récolte des oranges de type Valencia. <span class=\"news-reason\">Information stratégique sur la concurrence (Afrique du Sud) concernant la fin de campagne des mandarines et oranges Valencia, incluant une alerte de marché régionale.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863129/la-caida-de-la-demanda-en-oriente-medio-golpea-a-los-exportadores-sudafricanos-de-citricos-y-mango/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Decline in citrus demand in the Middle East and climate repercussions in South Africa -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">In the Hoedspruit region, South African exporters are facing a difficult situation. While the mandarin season normally comes to an end, late winter rains have slowed harvesting and packing operations. Furthermore, a drop in demand in Middle Eastern markets is disrupting usual export flows. Faced with these constraints, producers (notably Rederberg Estates) are anticipating a shift to harvesting Valencia-type oranges. <span class=\"news-reason\">Strategic competition information (South Africa) concerning the end of the mandarin and Valencia orange season, including a regional market alert.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863129/la-caida-de-la-demanda-en-oriente-medio-golpea-a-los-exportadores-sudafricanos-de-citricos-y-mango/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ירידה בביקוש להדרים במזרח התיכון והשלכות אקלימיות בדרום אפריקה -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">באזור הודספרויט, היצואנים מדרום אפריקה מתמודדים עם מצב מאתגר. בעוד שעונת המנדרינות מתקרבת בדרך כלל לסיומה, גשמי חורף מאוחרים האטו את פעולות הקטיף והאריזה. בנוסף, ירידה בביקוש בשווקי המזרח התיכון משבשת את זרמי הייצוא הרגילים. לנוכח אילוצים אלו, המגדלים (במיוחד Rederberg Estates) צופים מעבר לקטיף של תפוזים מסוג ולנסיה. <span class=\"news-reason\">מידע אסטרטגי על התחרות (דרום אפריקה) בנוגע לסיום עונת המנדרינות ותפוזי הוולנסיה, כולל התראת שוק אזורית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863129/la-caida-de-la-demanda-en-oriente-medio-golpea-a-los-exportadores-sudafricanos-de-citricos-y-mango/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -248,7 +262,7 @@
     {
       "id": "1786710804_3",
       "timestamp": "2026-08-14T12:33:24.034277+00:00",
-      "title": "Argentine : préparatifs pour les premières exportations de cerises certifiées AOP",
+      "title": "Argentine : préparatifs en vue des premières exportations de cerises certifiées AOP",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Sébastien"
@@ -259,7 +273,7 @@
       "origins": [
         "ARG"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Argentine : préparatifs pour les premières exportations de cerises certifiées AOP -- <span class=\"news-date\">13/08/2026 15:33</span></div><div class=\"news-body\">La région de Los Antiguos en Patagonie a finalisé la mise en place d&#x27;un système de gestion de la qualité pour ses cerises. Ce projet pilote permet désormais l&#x27;exportation de fruits bénéficiant de l&#x27;Appellation d&#x27;Origine Protégée (AOP), visant à garantir la traçabilité et l&#x27;identité territoriale sur les marchés internationaux. <span class=\"news-reason\">Stratégie de valorisation d&#x27;un pays concurrent sur un produit Mehadrin actuellement en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9862271/argentina-prepara-sus-primeras-exportaciones-de-cerezas-con-certificacion-dop/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Argentine : préparatifs en vue des premières exportations de cerises certifiées AOP -- <span class=\"news-date\">13/08/2026 15:33</span></div><div class=\"news-body\">La région de Los Antiguos en Patagonie a finalisé la mise en place d&#x27;un système de gestion de la qualité pour ses cerises. Ce projet pilote permet désormais l&#x27;exportation de fruits bénéficiant de l&#x27;Appellation d&#x27;Origine Protégée (AOP), visant à garantir la traçabilité et l&#x27;identité territoriale sur les marchés internationaux. <span class=\"news-reason\">Stratégie de valorisation d&#x27;un pays concurrent sur un produit Mehadrin actuellement en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9862271/argentina-prepara-sus-primeras-exportaciones-de-cerezas-con-certificacion-dop/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Argentina: preparation for the first exports of PDO-certified cherries -- <span class=\"news-date\">13/08/2026 15:33</span></div><div class=\"news-body\">The Los Antiguos region in Patagonia has finalized the implementation of a quality management system for its cherries. This pilot project now allows for the export of fruits benefiting from a Protected Designation of Origin (PDO), aiming to guarantee traceability and territorial identity in international markets. <span class=\"news-reason\">Value enhancement strategy of a competing country for a Mehadrin product currently in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9862271/argentina-prepara-sus-primeras-exportaciones-de-cerezas-con-certificacion-dop/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">ארגנטינה: הכנות ליצוא ראשון של דובדבנים בעלי הסמכת כינוי מקור מוגן (AOP) -- <span class=\"news-date\">13/08/2026 15:33</span></div><div class=\"news-body\">אזור לוס אנטיגואוס בפטגוניה השלים את הקמתו של מערך ניהול איכות עבור הדובדבנים שלו. פרויקט פיילוט זה מאפשר כעת יצוא של פירות הנהנים מכינוי מקור מוגן (AOP), במטרה להבטיח עקיבות וזהות אזורית בשווקים הבינלאומיים. <span class=\"news-reason\">אסטרטגיית מיצוב של מדינה מתחרה עבור מוצר של מהדרין הנמצא כעת בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9862271/argentina-prepara-sus-primeras-exportaciones-de-cerezas-con-certificacion-dop/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -335,7 +349,7 @@
     {
       "id": "1786699990_2",
       "timestamp": "2026-08-14T09:33:10.850080+00:00",
-      "title": "Maroc : la production d&#x27;avocats impactée par la canicule de fin août",
+      "title": "Maroc : la production d&#x27;avocats affectée par la canicule de fin août",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -346,7 +360,7 @@
       "origins": [
         "MAR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Maroc : la production d&#x27;avocats impactée par la canicule de fin août -- <span class=\"news-date\">14/08/2026 10:44</span></div><div class=\"news-body\">Les producteurs d&#x27;avocats de la région du Gharb au Maroc s&#x27;inquiètent des prévisions météorologiques pour la fin du mois d&#x27;août. Ils redoutent une vague de chaleur intense similaire à celle de 2025, qui avait causé des dommages importants aux vergers et impacté la disponibilité des fruits. <span class=\"news-reason\">Alerte climatique sur une origine clé (Maroc) pour un produit stratégique (avocat).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9861740/marokkanische-avocado-erzeuger-befurchten-eine-hitzewelle-ende-august/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Maroc : la production d&#x27;avocats affectée par la canicule de fin août -- <span class=\"news-date\">14/08/2026 10:44</span></div><div class=\"news-body\">Les producteurs d&#x27;avocats de la région du Gharb au Maroc s&#x27;inquiètent des prévisions météorologiques pour la fin du mois d&#x27;août. Ils redoutent une vague de chaleur intense similaire à celle de 2025, qui avait causé des dommages importants aux vergers et impacté la disponibilité des fruits. <span class=\"news-reason\">Alerte climatique sur une origine clé (Maroc) pour un produit stratégique (avocat).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9861740/marokkanische-avocado-erzeuger-befurchten-eine-hitzewelle-ende-august/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Morocco: Avocado production threatened by heatwave in late August -- <span class=\"news-date\">14/08/2026 10:44</span></div><div class=\"news-body\">Avocado producers in the Gharb region of Morocco are concerned about the weather forecasts for the end of August. They fear an intense heatwave similar to that of 2025, which caused significant damage to orchards and impacted fruit availability. <span class=\"news-reason\">Climate alert for a key origin (Morocco) for a strategic product (avocado).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9861740/marokkanische-avocado-erzeuger-befurchten-eine-hitzewelle-ende-august/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מרוקו: ייצור האבוקדו מאוים על ידי גל חום בסוף אוגוסט -- <span class=\"news-date\">14/08/2026 10:44</span></div><div class=\"news-body\">מגדלי האבוקדו באזור ע'רב שבמרוקו מודאגים מתחזיות מזג האוויר לסוף חודש אוגוסט. הם חוששים מגל חום כבד בדומה לזה של 2025, שגרם לנזקים משמעותיים למטעים והשפיע על זמינות הפירות. <span class=\"news-reason\">התראת אקלים במקור מפתח (מרוקו) עבור מוצר אסטרטגי (אבוקדו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9861740/marokkanische-avocado-erzeuger-befurchten-eine-hitzewelle-ende-august/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -707,38 +721,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique du Sud : révision à la baisse des prévisions d&#x27;exportation d&#x27;agrumes -- <span class=\"news-date\">12/08/2026 12:07</span></div><div class=\"news-body\">La Citrus Growers&#x27; Association of Southern Africa (CGA) a révisé ses prévisions d&#x27;exportation pour 2026. Initialement estimée à 209,4 millions de cartons de 15 kg, la projection est désormais abaissée à 205,3 millions de cartons après consultation des groupes de spécialités par variété. <span class=\"news-reason\">Article crucial avec chiffres précis sur les volumes d&#x27;exportation d&#x27;un concurrent direct sur les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9861747/zuid-afrika-verlaagt-exportraming-citrus-naar-205-3-miljoen-kartons/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">South Africa: downward revision of citrus export forecasts -- <span class=\"news-date\">12/08/2026 12:07</span></div><div class=\"news-body\">The Citrus Growers' Association of Southern Africa (CGA) has revised its export forecasts for 2026. Initially estimated at 209.4 million 15 kg cartons, the projection is now lowered to 205.3 million cartons after consultation with specialty groups by variety. <span class=\"news-reason\">Crucial article with precise figures on the export volumes of a direct competitor in citrus.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9861747/zuid-afrika-verlaagt-exportraming-citrus-naar-205-3-miljoen-kartons/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">דרום אפריקה: עדכון כלפי מטה של תחזיות ייצוא ההדרים -- <span class=\"news-date\">12/08/2026 12:07</span></div><div class=\"news-body\">התאחדות מגדלי ההדרים של דרום אפריקה (CGA) עדכנה את תחזיות הייצוא שלה לשנת 2026. התחזית, שהוערכה בתחילה ב-209.4 מיליון קרטונים של 15 ק\"ג, הופחתה כעת ל-205.3 מיליון קרטונים לאחר התייעצות עם קבוצות ההתמחות לפי זנים. <span class=\"news-reason\">כתבה קריטית עם נתונים מדויקים על כמויות הייצוא של מתחרה ישיר בענף ההדרים.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9861747/zuid-afrika-verlaagt-exportraming-citrus-naar-205-3-miljoen-kartons/\" target=\"_blank\">AGF.nl -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1786527193_1",
-      "timestamp": "2026-08-12T09:33:13.043774+00:00",
-      "title": "Ukraine : rendements élevés de pastèques pour la saison 2026 -- 11/08/2026 07:27",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [],
-      "products": [
-        "watermelon"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Ukraine : rendements élevés de pastèques pour la saison 2026 -- <span class=\"news-date\">11/08/2026 07:27</span></div><div class=\"news-body\">La production commerciale de pastèques en Ukraine s&#x27;étend désormais vers le nord, notamment dans la région de Vinnytsia. Un producteur local rapporte des rendements de 80 tonnes par hectare pour la saison 2026, illustrant le potentiel croissant de cette nouvelle zone de production. <span class=\"news-reason\">Contient des chiffres de rendement (80 t/ha) pour un produit en saison.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/news/ukraines-watermelon-production-expands-beyond-the-south-as-vinnytsia-grower-reports-yields-of-80-tonnes-per-hectare/\" target=\"_blank\">EastFruit -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Ukraine: high watermelon yields for the 2026 season -- <span class=\"news-date\">11/08/2026 07:27</span></div><div class=\"news-body\">Commercial watermelon production in Ukraine is now expanding northward, notably in the Vinnytsia region. A local producer reports yields of 80 tonnes per hectare for the 2026 season, illustrating the growing potential of this new production area. <span class=\"news-reason\">Contains yield figures (80 t/ha) for a seasonal product.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/news/ukraines-watermelon-production-expands-beyond-the-south-as-vinnytsia-grower-reports-yields-of-80-tonnes-per-hectare/\" target=\"_blank\">EastFruit -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">אוקראינה: יבולים גבוהים של אבטיחים לעונת 2026 -- <span class=\"news-date\">11/08/2026 07:27</span></div><div class=\"news-body\">הייצור המסחרי של אבטיחים באוקראינה מתרחב כעת צפונה, במיוחד באזור ויניצה. מגדל מקומי מדווח על יבולים של 80 טון להקטר לעונת 2026, הממחישים את הפוטנציאל הגדל של אזור ייצור חדש זה. <span class=\"news-reason\">מכיל נתוני יבול (80 טון/הקטר) עבור מוצר בעונה.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/news/ukraines-watermelon-production-expands-beyond-the-south-as-vinnytsia-grower-reports-yields-of-80-tonnes-per-hectare/\" target=\"_blank\">EastFruit -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1786527193_0",
-      "timestamp": "2026-08-12T09:33:13.043774+00:00",
-      "title": "Surveillance de la récolte marocaine d&#x27;avocats et prévisions de volumes -- 12/08/2026 08:10",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Surveillance de la récolte marocaine d&#x27;avocats et prévisions de volumes -- <span class=\"news-date\">12/08/2026 08:10</span></div><div class=\"news-body\">Les producteurs marocains d&#x27;avocats surveillent la seconde moitié du mois d&#x27;août après une première chute de fruits due aux fortes chaleurs de mai. La filière estime le potentiel de récolte à environ 130 000 tonnes pour la campagne à venir, bien que cette projection doive encore être confirmée par les instances officielles. <span class=\"news-reason\">Contient des projections de volumes précises (130 000 tonnes) pour un produit stratégique de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/avocat-la-chaleur-daout-maintient-la-recolte-sous-surveillance/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Monitoring of the Moroccan avocado harvest and volume forecasts -- <span class=\"news-date\">12/08/2026 08:10</span></div><div class=\"news-body\">Moroccan avocado producers are monitoring the second half of August after an initial fruit drop due to high heat in May. The sector estimates the harvest potential at approximately 130,000 tonnes for the upcoming campaign, although this projection has yet to be confirmed by official bodies. <span class=\"news-reason\">Contains precise volume projections (130,000 tonnes) for a strategic Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/avocat-la-chaleur-daout-maintient-la-recolte-sous-surveillance/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מעקב אחר קטיף האבוקדו במרוקו ותחזיות כמויות -- <span class=\"news-date\">12/08/2026 08:10</span></div><div class=\"news-body\">מגדלי האבוקדו במרוקו עוקבים אחר המחצית השנייה של חודש אוגוסט לאחר נשירת פירות ראשונה עקב החום הכבד של חודש מאי. הענף מעריך את פוטנציאל היבול בכ-130,000 טון לעונה הקרובה, אם כי תחזית זו טרם אושרה על ידי הגופים הרשמיים. <span class=\"news-reason\">מכיל תחזיות כמויות מדויקות (130,000 טון) עבור מוצר אסטרטגי של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/avocat-la-chaleur-daout-maintient-la-recolte-sous-surveillance/\" target=\"_blank\">AgriMaroc -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
