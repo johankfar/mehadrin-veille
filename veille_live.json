@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-08-15T09:33:07.643157+00:00",
-  "article_count": 30,
+  "last_updated": "2026-08-17T05:02:03.238704+00:00",
+  "article_count": 20,
   "attention_points": [
+    {
+      "id": "attention-084e3f3924a4a69c",
+      "article_id": "1786942923_1",
+      "url": "https://www.freshplaza.it/article/9863514/un-operazione-da-20-milioni-di-euro-per-la-crescita-della-filiera-dell-avocado-in-sicilia/",
+      "source": "FreshPlaza IT",
+      "title": "Investissement de 20 millions d'euros dans la filière",
+      "summary": "La Società Agricola Halaesa, soutenue par le cabinet de conseil PTS, a finalisé une opération de financement de 20 millions d'euros.",
+      "origin_code": "ITA",
+      "origin_label": "Italie",
+      "published_at": "2026-08-17T06:00:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 1
+    },
     {
       "id": "attention-c80108a8ea795b26",
       "article_id": "1786786387_0",
@@ -19,26 +38,7 @@
       "products": [
         "watermelon"
       ],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-2008da0a6406dd0e",
-      "article_id": "1786721564_0",
-      "url": "https://www.freshplaza.es/article/9862700/el-datil-medjool-se-consolida-como-producto-de-consumo-habitual-mas-alla-de-las-fechas-senaladas/",
-      "source": "FreshPlaza ES",
-      "title": "Perspectives de récolte des dattes Medjool aux États-Unis pour",
-      "summary": "Les perspectives pour la nouvelle campagne de dattes Medjool aux États-Unis sont très positives grâce à des conditions météorologiques favorables durant toute la période de culture.",
-      "origin_code": "USA",
-      "origin_label": "États-Unis",
-      "published_at": "2026-08-14T15:50:00+02:00",
-      "published_at_source": "legacy_html_date",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "date"
-      ],
-      "age_hours": 19
+      "age_hours": 46
     },
     {
       "id": "attention-8d29dc6135107e2a",
@@ -58,7 +58,7 @@
         "mandarine",
         "orange"
       ],
-      "age_hours": 19
+      "age_hours": 63
     },
     {
       "id": "attention-1457fdfadcffecb5",
@@ -77,10 +77,46 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 22
+      "age_hours": 65
     }
   ],
   "articles": [
+    {
+      "id": "1786942923_1",
+      "timestamp": "2026-08-17T05:02:03.238704+00:00",
+      "title": "Investissement de 20 millions d&#x27;euros dans la filière de l&#x27;avocat en Sicile",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ITA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Investissement de 20 millions d&#x27;euros dans la filière de l&#x27;avocat en Sicile -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">La Società Agricola Halaesa, soutenue par le cabinet de conseil PTS, a finalisé une opération de financement de 20 millions d&#x27;euros. Ces fonds sont destinés à structurer et développer la filière de production d&#x27;avocats en Sicile, visant une croissance stratégique sur le marché des fruits tropicaux en Italie. <span class=\"news-reason\">Investissement majeur dans la filière d&#x27;un produit Mehadrin (avocat) chez un concurrent européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863514/un-operazione-da-20-milioni-di-euro-per-la-crescita-della-filiera-dell-avocado-in-sicilia/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Investment of 20 million euros in the Sicilian avocado sector -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">Società Agricola Halaesa, supported by the PTS consulting firm, has finalized a 20 million euro financing operation. These funds are intended to structure and develop the avocado production sector in Sicily, aiming for strategic growth in the Italian tropical fruit market. <span class=\"news-reason\">Major investment in the sector of a Mehadrin product (avocado) by a European competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863514/un-operazione-da-20-milioni-di-euro-per-la-crescita-della-filiera-dell-avocado-in-sicilia/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות רשתות</div><div class=\"news-title\">השקעה של 20 מיליון אירו בענף האבוקדו בסיציליה -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">חברת Società Agricola Halaesa, בתמיכת חברת הייעוץ PTS, השלימה עסקת מימון של 20 מיליון אירו. כספים אלו מיועדים לארגון ופיתוח ענף ייצור האבוקדו בסיציליה, במטרה להשיג צמיחה אסטרטגית בשוק הפירות הטרופיים באיטליה. <span class=\"news-reason\">השקעה משמעותית בענף של מוצר מהדרין (אבוקדו) אצל מתחרה אירופאי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863514/un-operazione-da-20-milioni-di-euro-per-la-crescita-della-filiera-dell-avocado-in-sicilia/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1786942923_0",
+      "timestamp": "2026-08-17T05:02:03.238704+00:00",
+      "title": "Lancement de la campagne estivale de la mandarine Tango d’Afrique du Sud",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "ZAF"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne estivale de la mandarine Tango d’Afrique du Sud -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">La marque Tango Fruit débute sa campagne estivale de mandarines premium sans pépins en provenance d&#x27;Afrique du Sud. La période de disponibilité sur le marché s&#x27;étend de juillet à novembre. La variété se distingue par sa qualité gustative et l&#x27;absence de graines, se positionnant sur le segment premium durant la contre-saison européenne. <span class=\"news-reason\">Information stratégique sur le début de campagne d&#x27;un produit concurrent direct (mandarine sans pépins) pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863511/prende-il-via-la-campagna-estiva-del-mandarino-premium-senza-semi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Launch of the South African Tango mandarin summer campaign -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">The Tango Fruit brand is starting its summer campaign for premium seedless mandarins from South Africa. The market availability period extends from July to November. The variety is distinguished by its taste quality and the absence of seeds, positioning itself in the premium segment during the European off-season. <span class=\"news-reason\">Strategic information on the start of the campaign for a direct competitor product (seedless mandarin) for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863511/prende-il-via-la-campagna-estiva-del-mandarino-premium-senza-semi/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השקת קמפיין הקיץ של מנדרינת טנגו מדרום אפריקה -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">המותג Tango Fruit מתחיל את קמפיין הקיץ של מנדרינות פרימיום ללא גרעינים מדרום אפריקה. תקופת הזמינות בשוק נמשכת מיולי עד נובמבר. הזן בולט באיכות הטעם שלו ובהיעדר גרעינים, ומתמקם בסגמנט הפרימיום במהלך עונת הנגד האירופית. <span class=\"news-reason\">מידע אסטרטגי על תחילת קמפיין של מוצר מתחרה ישיר (מנדרינה ללא גרעינים) עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863511/prende-il-via-la-campagna-estiva-del-mandarino-premium-senza-semi/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1786786387_0",
       "timestamp": "2026-08-15T09:33:07.643157+00:00",
@@ -98,7 +134,7 @@
     {
       "id": "1786781042_0",
       "timestamp": "2026-08-15T08:04:02.505727+00:00",
-      "title": "Impact du stress thermique sur la production d&#x27;avocats au Maroc",
+      "title": "Impact du stress thermique sur la production d’avocats au Maroc",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -109,14 +145,14 @@
       "origins": [
         "MAR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Impact du stress thermique sur la production d&#x27;avocats au Maroc -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">Le secteur marocain de l&#x27;avocat subit une pression croissante en raison de la sécheresse et des températures extrêmes, forçant des déplacements des zones de production. En 2023, le Maroc a exporté environ 22 000 tonnes d&#x27;avocats, soit 55 % de sa production totale. La gestion de l&#x27;eau devient un enjeu stratégique pour maintenir la viabilité des exportations. <span class=\"news-reason\">Fournit des statistiques précises d&#x27;exportation (22 000 tonnes) et une analyse des changements structurels de l&#x27;origine marocaine.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863109/el-cultivo-de-aguacate-en-marruecos-podria-cambiar-conforme-se-intensifica-el-calor/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Impact du stress thermique sur la production d’avocats au Maroc -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">Le secteur marocain de l&#x27;avocat subit une pression croissante en raison de la sécheresse et des températures extrêmes, forçant des déplacements des zones de production. En 2023, le Maroc a exporté environ 22 000 tonnes d&#x27;avocats, soit 55 % de sa production totale. La gestion de l&#x27;eau devient un enjeu stratégique pour maintenir la viabilité des exportations. <span class=\"news-reason\">Fournit des statistiques précises d&#x27;exportation (22 000 tonnes) et une analyse des changements structurels de l&#x27;origine marocaine.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863109/el-cultivo-de-aguacate-en-marruecos-podria-cambiar-conforme-se-intensifica-el-calor/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Impact of heat stress on avocado production in Morocco -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">The Moroccan avocado sector is under increasing pressure due to drought and extreme temperatures, forcing shifts in production areas. In 2023, Morocco exported approximately 22,000 tons of avocados, representing 55% of its total production. Water management is becoming a strategic issue to maintain export viability. <span class=\"news-reason\">Provides precise export statistics (22,000 tons) and an analysis of structural changes in the Moroccan origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863109/el-cultivo-de-aguacate-en-marruecos-podria-cambiar-conforme-se-intensifica-el-calor/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">השפעת עקה תרמית על ייצור האבוקדו במרוקו -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">מגזר האבוקדו המרוקאי חווה לחץ גובר עקב הבצורת והטמפרטורות הקיצוניות, מה שמאלץ העתקה של אזורי הייצור. בשנת 2023 ייצאה מרוקו כ-22,000 טונות אבוקדו, המהווים 55% מכלל הייצור שלה. ניהול המים הופך לאתגר אסטרטגי לשמירה על כדאיות הייצוא. <span class=\"news-reason\">מספק נתונים סטטיסטיים מדויקים על ייצוא (22,000 טונות) וניתוח של שינויים מבניים במקור המרוקאי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863109/el-cultivo-de-aguacate-en-marruecos-podria-cambiar-conforme-se-intensifica-el-calor/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1786732450_0",
       "timestamp": "2026-08-14T18:34:10.897209+00:00",
-      "title": "Pérou : baisse de 60 % de la production de mangues anticipée pour la saison 2026/27",
+      "title": "Pérou : baisse de 60 % de la production de mangues anticipée pour la campagne 2026/27",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -127,7 +163,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pérou : baisse de 60 % de la production de mangues anticipée pour la saison 2026/27 -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">La floraison des manguiers au Pérou a été sévèrement touchée par le phénomène El Niño, laissant présager une chute de production allant jusqu&#x27;à 60 %. La campagne débutera en semaine 40 (octobre) dans la région de Piura et se poursuivra jusqu&#x27;en janvier 2027, avec des récoltes successives à Lambayeque et Casma. <span class=\"news-reason\">Alerte majeure sur les volumes d&#x27;un concurrent clé avec des chiffres précis de baisse de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863313/el-nino-golpea-la-floracion-del-mango-en-peru-la-produccion-podria-caer-hasta-un-60/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pérou : baisse de 60 % de la production de mangues anticipée pour la campagne 2026/27 -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">La floraison des manguiers au Pérou a été sévèrement touchée par le phénomène El Niño, laissant présager une chute de production allant jusqu&#x27;à 60 %. La campagne débutera en semaine 40 (octobre) dans la région de Piura et se poursuivra jusqu&#x27;en janvier 2027, avec des récoltes successives à Lambayeque et Casma. <span class=\"news-reason\">Alerte majeure sur les volumes d&#x27;un concurrent clé avec des chiffres précis de baisse de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863313/el-nino-golpea-la-floracion-del-mango-en-peru-la-produccion-podria-caer-hasta-un-60/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Peru: a 60% drop in mango production is expected for the 2026/27 season -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">Mango tree flowering in Peru has been severely affected by the El Niño phenomenon, suggesting a production drop of up to 60%. The campaign will begin in week 40 (October) in the Piura region and will continue until January 2027, with successive harvests in Lambayeque and Casma. <span class=\"news-reason\">Major alert on the volumes of a key competitor with specific production decline figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863313/el-nino-golpea-la-floracion-del-mango-en-peru-la-produccion-podria-caer-hasta-un-60/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">פרו: צפויה ירידה של 60% בייצור המנגו לעונת 2026/27 -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">פריחת עצי המנגו בפרו נפגעה קשות מתופעת אל-ניניו, המבשרת על ירידה בייצור של עד 60%. העונה תתחיל בשבוע 40 (אוקטובר) באזור פיוורה ותימשך עד ינואר 2027, עם יבולים עוקבים בלמבאייקה ובקאסמה. <span class=\"news-reason\">התראה משמעותית לגבי כמויות של מתחרה מפתח עם נתונים מדויקים על הירידה בייצור.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863313/el-nino-golpea-la-floracion-del-mango-en-peru-la-produccion-podria-caer-hasta-un-60/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -398,211 +434,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Stratégie de sourcing d&#x27;avocats au Maroc par l&#x27;opérateur Xfresh -- <span class=\"news-date\">13/08/2026 12:48</span></div><div class=\"news-body\">L&#x27;entreprise Xfresh met en place des équipes de contrôle qualité directement au Maroc et au Kenya pour sécuriser ses approvisionnements en avocats. L&#x27;objectif est de garantir une qualité homogène en rayon toute l&#x27;année pour les distributeurs européens. Le financement de ce modèle opérationnel en amont constitue toutefois le défi majeur de l&#x27;entreprise. <span class=\"news-reason\">L&#x27;article mentionne une stratégie de contrôle qualité à la source pour l&#x27;avocat au Maroc, origine clé de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9861672/lorsque-nous-avons-enfin-pu-nous-developper-le-financement-s-est-avere-etre-notre-plus-grand-defi/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Avocado sourcing strategy in Morocco by operator Xfresh -- <span class=\"news-date\">13/08/2026 12:48</span></div><div class=\"news-body\">The company Xfresh is setting up quality control teams directly in Morocco and Kenya to secure its avocado supplies. The goal is to guarantee consistent quality on shelves all year round for European retailers. However, financing this upstream operational model remains the company's major challenge. <span class=\"news-reason\">The article mentions a quality control strategy at the source for avocados in Morocco, a key origin for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9861672/lorsque-nous-avons-enfin-pu-nous-developper-le-financement-s-et-avere-etre-notre-plus-grand-defi/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">אסטרטגיית רכש אבוקדו במרוקו על ידי המפעיל Xfresh -- <span class=\"news-date\">13/08/2026 12:48</span></div><div class=\"news-body\">חברת Xfresh מקימה צוותי בקרת איכות ישירות במרוקו ובקניה כדי להבטיח את אספקת האבוקדו שלה. המטרה היא להבטיח איכות אחידה על המדף לאורך כל השנה עבור המפיצים האירופיים. המימון של מודל תפעולי זה בשלבים המוקדמים מהווה את האתגר המרכזי של החברה. <span class=\"news-reason\">המאמר מציין אסטרטגיית בקרת איכות במקור עבור האבוקדו במרוקו, מקור מפתח עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9861672/lorsque-nous-avons-enfin-pu-nous-developper-le-financement-s-est-avere-etre-notre-plus-grand-defi/\" target=\"_blank\">FreshPlaza FR -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1786629804_2",
-      "timestamp": "2026-08-13T14:03:24.456385+00:00",
-      "title": "Diversification du marché mondial de l&#x27;avocat vers la transformation",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Diversification du marché mondial de l&#x27;avocat vers la transformation -- <span class=\"news-date\">13/08/2026 15:33</span></div><div class=\"news-body\">Le marché mondial de l&#x27;avocat évolue vers un nouvel équilibre. Si le fruit frais dominait historiquement, les segments de l&#x27;avocat surgelé, du guacamole et de l&#x27;huile gagnent en importance commerciale et ne sont plus considérés comme de simples débouchés pour les écarts de tri. <span class=\"news-reason\">Analyse du positionnement stratégique du marché de l&#x27;avocat, produit cœur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863022/el-futuro-del-aguacate-se-decidira-en-una-mesa-a-tres-fresco-congelado-y-aceite/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Diversification of the global avocado market towards processing -- <span class=\"news-date\">13/08/2026 15:33</span></div><div class=\"news-body\">The global avocado market is evolving towards a new balance. While fresh fruit historically dominated, the frozen avocado, guacamole, and oil segments are gaining commercial importance and are no longer considered mere outlets for sorting rejects. <span class=\"news-reason\">Analysis of the strategic positioning of the avocado market, a core product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863022/el-futuro-del-aguacate-se-decidira-en-una-mesa-a-tres-fresco-congelado-y-aceite/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">גיוון שוק האבוקדו העולמי לכיוון עיבוד -- <span class=\"news-date\">13/08/2026 15:33</span></div><div class=\"news-body\">שוק האבוקדו העולמי נע לעבר איזון חדש. בעוד שהפרי הטרי שלט היסטורית, מגזרי האבוקדו הקפוא, הגוואקמולי והשמן צוברים חשיבות מסחרית ואינם נחשבים עוד רק כפתרונות לתוצרת שאינה מתאימה לשיווק טרי. <span class=\"news-reason\">ניתוח המיצוב האסטרטגי של שוק האבוקדו, מוצר ליבה של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863022/el-futuro-del-aguacate-se-decidira-en-una-mesa-a-tres-fresco-congelado-y-aceite/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1786629804_1",
-      "timestamp": "2026-08-13T14:03:24.456385+00:00",
-      "title": "Caroline du Nord : la récolte de patates douces accuse un retard",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "sweet_potato"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Caroline du Nord : la récolte de patates douces accuse un retard -- <span class=\"news-date\">13/08/2026 15:33</span></div><div class=\"news-body\">Le démarrage de la campagne de patates douces en Caroline du Nord accuse un retard cette saison. Malgré ce décalage, les perspectives de qualité sont jugées bonnes grâce aux précipitations récentes, et la récolte devrait débuter la semaine prochaine. <span class=\"news-reason\">Alerte sur le calendrier de récolte d&#x27;une origine concurrente majeure pour la patate douce, impactant la disponibilité sur le marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9862719/la-cosecha-de-batata-en-carolina-del-norte-arranca-con-retraso-pero-con-buenas-perspectivas-de-calidad/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">North Carolina sweet potato harvest delayed -- <span class=\"news-date\">13/08/2026 15:33</span></div><div class=\"news-body\">The start of the sweet potato campaign in North Carolina is experiencing a delay this season. Despite this shift, quality prospects are considered good thanks to recent rainfall, and the harvest is expected to start next week. <span class=\"news-reason\">Alert on the harvest schedule of a major competing origin for sweet potatoes, impacting market availability.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9862719/la-cosecha-de-batata-en-carolina-del-norte-arranca-con-retraso-pero-con-buenas-perspectivas-de-calidad/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">עיכוב בקטיף הבטטות בצפון קרוליינה -- <span class=\"news-date\">13/08/2026 15:33</span></div><div class=\"news-body\">תחילת עונת הבטטות בצפון קרוליינה מתעכבת העונה. למרות העיכוב, תחזיות האיכות נחשבות לטובות הודות למשקעים האחרונים, והקטיף צפוי להתחיל בשבוע הבא. <span class=\"news-reason\">התראה על לוח הזמנים של הקטיף במקור תחרותי מרכזי לבטטה, המשפיע על הזמינות בשוק.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9862719/la-cosecha-de-batata-en-carolina-del-norte-arranca-con-retraso-pero-con-buenas-perspectivas-de-calidad/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1786624399_3",
-      "timestamp": "2026-08-13T12:33:19.931177+00:00",
-      "title": "Suspension de la récolte de mandarines en Afrique du Sud en raison des pluies -- 13/08/2026 13:48",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "mandarine"
-      ],
-      "origins": [
-        "ZAF",
-        "IND"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Suspension de la récolte de mandarines en Afrique du Sud en raison des pluies -- <span class=\"news-date\">13/08/2026 13:48</span></div><div class=\"news-body\">Les exploitations de Rederberg Estates (Afrique du Sud) ont suspendu la récolte de mandarines en raison de pluies hivernales. Parallèlement, une forte hausse de la demande indienne est observée pour les petits agrumes sud-africains malgré des droits de douane de 30 %. <span class=\"news-reason\">Alerte supply météo sur un produit concurrent direct (petits agrumes).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9862626/big-bump-in-indian-demand-for-south-african-soft-citrus-despite-30-tariff/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Suspension of mandarin harvest in South Africa due to rain -- <span class=\"news-date\">13/08/2026 13:48</span></div><div class=\"news-body\">Rederberg Estates (South Africa) farms have suspended the mandarin harvest due to winter rains. At the same time, a sharp increase in Indian demand is observed for South African soft citrus despite 30% customs duties. <span class=\"news-reason\">Weather supply alert on a direct competing product (soft citrus).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9862626/big-bump-in-indian-demand-for-south-african-soft-citrus-despite-30-tariff/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השעיית קטיף המנדרינות בדרום אפריקה עקב הגשמים -- <span class=\"news-date\">13/08/2026 13:48</span></div><div class=\"news-body\">חוות Rederberg Estates (דרום אפריקה) השעו את קטיף המנדרינות עקב גשמי החורף. במקביל, נרשמה עלייה חדה בביקוש ההודי להדרים קטנים מדרום אפריקה למרות מכס של 30%. <span class=\"news-reason\">התראת אספקה עקב מזג אוויר על מוצר מתחרה ישיר (הדרים קטנים).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9862626/big-bump-in-indian-demand-for-south-african-soft-citrus-despite-30-tariff/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1786624399_2",
-      "timestamp": "2026-08-13T12:33:19.931177+00:00",
-      "title": "Progression des échanges d&#x27;agrumes entre la Turquie et la Russie -- 13/08/2026 13:43",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [
-        "TUR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Progression des échanges d&#x27;agrumes entre la Turquie et la Russie -- <span class=\"news-date\">13/08/2026 13:43</span></div><div class=\"news-body\">Les échanges agricoles entre la Turquie et la Russie ont progressé de plus de 30 % au premier semestre 2026. La Turquie consolide sa position de fournisseur majeur de fruits et d&#x27;agrumes pour le marché russe, malgré des résultats d&#x27;exportation globaux contrastés sur la période. <span class=\"news-reason\">Données de volumes et de croissance d&#x27;une origine concurrente (Turquie) sur les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9862623/turkey-s-apple-exports-to-russia-rise-in-june-despite-lower-half-year-total/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Growth in citrus trade between Turkey and Russia -- <span class=\"news-date\">13/08/2026 13:43</span></div><div class=\"news-body\">Agricultural trade between Turkey and Russia grew by more than 30% in the first half of 2026. Turkey is consolidating its position as a major supplier of fruit and citrus to the Russian market, despite mixed overall export results over the period. <span class=\"news-reason\">Volume and growth data for a competing origin (Turkey) for citrus.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9862623/turkey-s-apple-exports-to-russia-rise-in-june-despite-lower-half-year-total/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">התקדמות בסחר בהדרים בין טורקיה לרוסיה -- <span class=\"news-date\">13/08/2026 13:43</span></div><div class=\"news-body\">הסחר החקלאי בין טורקיה לרוסיה עלה ביותר מ-30% במחצית הראשונה של 2026. טורקיה מבססת את מעמדה כספקית מרכזית של פירות והדרים לשוק הרוסי, למרות תוצאות יצוא גלובליות מעורבות בתקופה זו. <span class=\"news-reason\">נתוני נפח וצמיחה של מקור מתחרה (טורקיה) בענף ההדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9862623/turkey-s-apple-exports-to-russia-rise-in-june-despite-lower-half-year-total/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1786624399_1",
-      "timestamp": "2026-08-13T12:33:19.931177+00:00",
-      "title": "Arrivée des oranges Navel sud-africaines et instabilité de la qualité -- 13/08/2026 13:43",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "orange",
-        "citrus_grapefruit"
-      ],
-      "origins": [
-        "ZAF"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Arrivée des oranges Navel sud-africaines et instabilité de la qualité -- <span class=\"news-date\">13/08/2026 13:43</span></div><div class=\"news-body\">De faibles volumes d&#x27;oranges Navel Witkrans d&#x27;Afrique du Sud ont été réceptionnés sur le marché. Les prix se situent entre 240 et 250 ¥ (environ 35,56-37,04 USD) par grande caisse. Les opérateurs indiquent que la qualité n&#x27;est pas encore stable en ce début de saison. Des mentions sur l&#x27;évolution des prix du pomelo sud-africain sont également rapportées. <span class=\"news-reason\">Cotations et alertes qualité sur des produits concurrents directs (agrumes Afrique du Sud).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9862765/south-african-witkrans-oranges-arrive-while-xinjiang-plums-see-a-bumper-harvest-and-price-drop/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Arrival of South African Navel oranges and quality instability -- <span class=\"news-date\">13/08/2026 13:43</span></div><div class=\"news-body\">Low volumes of South African Navel Witkrans oranges have been received on the market. Prices range between 240 and 250 ¥ (approximately 35.56-37.04 USD) per large crate. Operators indicate that quality is not yet stable at the start of this season. Mentions of price developments for South African pomelo are also reported. <span class=\"news-reason\">Price quotes and quality alerts on direct competing products (South African citrus).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9862765/south-african-witkrans-oranges-arrive-while-xinjiang-plums-see-a-bumper-harvest-and-price-drop/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">הגעת תפוזי טבור מדרום אפריקה וחוסר יציבות באיכות -- <span class=\"news-date\">13/08/2026 13:43</span></div><div class=\"news-body\">כמויות קטנות של תפוזי טבור (Navel) מסוג Witkrans מדרום אפריקה התקבלו בשוק. המחירים נעים בין 240 ל-250 ין (כ-35.56-37.04 דולר) לארגז גדול. המפעילים מציינים כי האיכות עדיין אינה יציבה בתחילת העונה. כמו כן דווח על שינויים במחירי הפומלה מדרום אפריקה. <span class=\"news-reason\">הצעות מחיר והתראות איכות על מוצרים מתחרים ישירים (הדרים מדרום אפריקה).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9862765/south-african-witkrans-oranges-arrive-while-xinjiang-plums-see-a-bumper-harvest-and-price-drop/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1786618972_3",
-      "timestamp": "2026-08-13T11:02:51.999246+00:00",
-      "title": "Exportation de Sumo Citrus australiens vers le Canada -- 12/08/2026 13:38",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Exportation de Sumo Citrus australiens vers le Canada -- <span class=\"news-date\">12/08/2026 13:38</span></div><div class=\"news-body\">Les entreprises Oppy et AC Foods s&#x27;associent pour commercialiser le Sumo Citrus (petit agrume premium) d&#x27;origine australienne au Canada. Ce programme vise à fournir les détaillants canadiens durant la contre-saison de l&#x27;hémisphère nord en profitant du calendrier de récolte de l&#x27;hémisphère sud. <span class=\"news-reason\">Information sur la stratégie d&#x27;un concurrent sur un segment premium des agrumes (petits agrumes).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9862347/australian-grown-sumo-citrus-is-coming-to-canada/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Export of Australian Sumo Citrus to Canada -- <span class=\"news-date\">12/08/2026 13:38</span></div><div class=\"news-body\">Companies Oppy and AC Foods are partnering to market Sumo Citrus (premium easy peeler) of Australian origin in Canada. This program aims to supply Canadian retailers during the northern hemisphere's off-season by taking advantage of the southern hemisphere's harvest schedule. <span class=\"news-reason\">Information on the strategy of a competitor in a premium citrus segment (easy peelers).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9862347/australian-grown-sumo-citrus-is-coming-to-canada/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">ייצוא Sumo Citrus מאוסטרליה לקנדה -- <span class=\"news-date\">12/08/2026 13:38</span></div><div class=\"news-body\" dir=\"rtl\">החברות Oppy ו-AC Foods משתפות פעולה לשיווק Sumo Citrus (הדר פרימיום קטן) ממקור אוסטרלי בקנדה. תוכנית זו נועדה לספק לקמעונאים קנדיים פרי מחוץ לעונה בחצי הכדור הצפוני תוך ניצול לוח הזמנים של הקטיף בחצי הכדור הדרומי. <span class=\"news-reason\">מידע על אסטרטגיה של מתחרה במקטע הפרימיום של הדרים (הדרים קטנים).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9862347/australian-grown-sumo-citrus-is-coming-to-canada/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1786618972_2",
-      "timestamp": "2026-08-13T11:02:51.999246+00:00",
-      "title": "Subventions pour l&#x27;irrigation goutte-à-goutte au Maroc en 2026 -- 12/08/2026 21:05",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [],
-      "products": [],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Subventions pour l&#x27;irrigation goutte-à-goutte au Maroc en 2026 -- <span class=\"news-date\">12/08/2026 21:05</span></div><div class=\"news-body\">Le Maroc propose des subventions couvrant 60 % à 100 % du coût d&#x27;installation de systèmes d&#x27;irrigation localisée pour 2026. Ce programme de l&#x27;État impose l&#x27;obtention d&#x27;une approbation préalable et le respect de plafonds financiers par hectare, visant à optimiser l&#x27;accès à l&#x27;eau pour les exploitations agricoles. <span class=\"news-reason\">Information structurelle sur une origine majeure de Mehadrin (Maroc) impactant les coûts de production futurs.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/irrigation-goutte-a-goutte-au-maroc-comment-obtenir-la-subvention-de-letat-en-2026/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Drip irrigation subsidies in Morocco in 2026 -- <span class=\"news-date\">12/08/2026 21:05</span></div><div class=\"news-body\">Morocco is offering subsidies covering 60% to 100% of the installation cost of localized irrigation systems for 2026. This government program requires prior approval and adherence to financial caps per hectare, aiming to optimize water access for agricultural farms. <span class=\"news-reason\">Structural information on a major origin for Mehadrin (Morocco) impacting future production costs.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/irrigation-goutte-a-goutte-au-maroc-comment-obtenir-la-subvention-de-letat-en-2026/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">סובסידיות להשקיה בטפטוף במרוקו בשנת 2026 -- <span class=\"news-date\">12/08/2026 21:05</span></div><div class=\"news-body\" dir=\"rtl\">מרוקו מציעה סובסידיות המכסות 60% עד 100% מעלות ההתקנה של מערכות השקיה מקומיות לשנת 2026. תוכנית ממשלתית זו מחייבת קבלת אישור מראש ועמידה בתקרות פיננסיות לדונם, במטרה לייעל את הגישה למים עבור משקים חקלאיים. <span class=\"news-reason\">מידע מבני על מקור מרכזי של מהדרין (מרוקו) המשפיע על עלויות הייצור העתידיות.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/irrigation-goutte-a-goutte-au-maroc-comment-obtenir-la-subvention-de-letat-en-2026/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1786618972_1",
-      "timestamp": "2026-08-13T11:02:51.999246+00:00",
-      "title": "Afrique du Sud : le prix des oranges chute de 48,7 % -- 13/08/2026 12:15",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "lemon",
-        "orange"
-      ],
-      "origins": [
-        "ZAF",
-        "PER",
-        "CHL",
-        "ARG"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique du Sud : le prix des oranges chute de 48,7 % -- <span class=\"news-date\">13/08/2026 12:15</span></div><div class=\"news-body\">L&#x27;Afrique du Sud enregistre une baisse massive de 48,7 % du prix de ses oranges. Le pays est actuellement au sommet de sa saison d&#x27;agrumes, tout comme le Pérou, le Chili, l&#x27;Argentine et l&#x27;Uruguay. Les citrons, les oranges et les petits agrumes (easy peelers) traversent actuellement différentes phases de commercialisation selon les régions productrices de l&#x27;hémisphère sud. <span class=\"news-reason\">Contient des chiffres précis sur l&#x27;évolution des prix d&#x27;un produit Mehadrin (agrumes) chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9861757/zuid-afrika-ziet-de-sinaasappelprijzen-met-48-7-dalen/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">South Africa: orange prices drop by 48.7% -- <span class=\"news-date\">13/08/2026 12:15</span></div><div class=\"news-body\">South Africa is recording a massive 48.7% drop in the price of its oranges. The country is currently at the peak of its citrus season, as are Peru, Chile, Argentina, and Uruguay. Lemons, oranges, and easy peelers are currently going through different marketing phases depending on the producing regions of the southern hemisphere. <span class=\"news-reason\">Contains precise figures on price trends for a Mehadrin product (citrus) from a major competitor.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9861757/zuid-afrika-ziet-de-sinaasappelprijzen-met-48-7-dalen/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">דרום אפריקה: מחיר התפוזים צונח ב-48.7% -- <span class=\"news-date\">13/08/2026 12:15</span></div><div class=\"news-body\" dir=\"rtl\">דרום אפריקה רושמת ירידה מסיבית של 48.7% במחירי התפוזים שלה. המדינה נמצאת כעת בשיא עונת ההדרים שלה, בדומה לפרו, צ'ילה, ארגנטינה ואורוגוואי. לימונים, תפוזים והדרים קטנים (easy peelers) עוברים כעת שלבי שיווק שונים בהתאם לאזורי הייצור בחצי הכדור הדרומי. <span class=\"news-reason\">מכיל נתונים מדויקים על התפתחות המחירים של מוצר מהדרין (הדרים) אצל מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9861757/zuid-afrika-ziet-de-sinaasappelprijzen-met-48-7-dalen/\" target=\"_blank\">AGF.nl -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1786613595_2",
-      "timestamp": "2026-08-13T09:33:15.031884+00:00",
-      "title": "L&#x27;avocat porté par la tendance de consommation des protéines -- 12/08/2026 12:48",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;avocat porté par la tendance de consommation des protéines -- <span class=\"news-date\">12/08/2026 12:48</span></div><div class=\"news-body\">Mission Produce souligne que l&#x27;avocat devient un moteur de croissance dans le secteur de la restauration. Son nouveau positionnement comme source de protéines végétales redéfinit les comportements d&#x27;achat et stimule la demande pour ce produit frais. <span class=\"news-reason\">Information sur le positionnement stratégique d&#x27;un produit phare de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9859609/proteines-et-produits-frais-pourquoi-l-avocat-se-retrouve-au-coeur-des-tendances-de-consommation/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Avocado driven by the protein consumption trend -- <span class=\"news-date\">12/08/2026 12:48</span></div><div class=\"news-body\">Mission Produce highlights that avocado is becoming a growth driver in the foodservice sector. Its new positioning as a source of plant-based protein is redefining purchasing behaviors and stimulating demand for this fresh product. <span class=\"news-reason\">Information on the strategic positioning of a flagship Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9859609/proteines-et-produits-frais-pourquoi-l-avocat-se-retrouve-au-coeur-des-tendances-de-consommation/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות ומקורות</div><div class=\"news-title\">האבוקדו נישא על גבי מגמת צריכת החלבון -- <span class=\"news-date\">12/08/2026 12:48</span></div><div class=\"news-body\">חברת Mission Produce מדגישה כי האבוקדו הופך למנוע צמיחה בענף המסעדנות. המיצוב החדש שלו כמקור לחלבון מן הצומח מגדיר מחדש את דפוסי הרכישה וממריץ את הביקוש למוצר טרי זה. <span class=\"news-reason\">מידע על המיצוב האסטרטגי של מוצר דגל של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9859609/proteines-et-produits-frais-pourquoi-l-avocat-se-retrouve-au-coeur-des-tendances-de-consommation/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1786613595_1",
-      "timestamp": "2026-08-13T09:33:15.031884+00:00",
-      "title": "Séisme en Colombie : impact limité sur la filière de l&#x27;avocat",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "COL"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Séisme en Colombie : impact limité sur la filière de l&#x27;avocat -- <span class=\"news-date\">13/08/2026 10:56</span></div><div class=\"news-body\">Bien qu&#x27;un séisme récent ait touché l&#x27;ouest de la Colombie, notamment la région du Valle del Cauca, le secteur de l&#x27;exportation d&#x27;avocats semble avoir évité des dommages majeurs sur ses plantations. Les infrastructures humaines sont touchées, mais la production agro-exportatrice reste globalement opérationnelle. <span class=\"news-reason\">Alerte supply concernant un produit majeur chez un concurrent direct (Colombie).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9862750/eingesturzte-hauser-noch-stehende-baume-so-halt-die-kolumbianische-avocadobranche-dem-erdbeben-stand/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Earthquake in Colombia: limited impact on the avocado sector -- <span class=\"news-date\">13/08/2026 10:56</span></div><div class=\"news-body\">Although a recent earthquake affected western Colombia, particularly the Valle del Cauca region, the avocado export sector seems to have avoided major damage to its plantations. Human infrastructure has been affected, but agro-export production remains generally operational. <span class=\"news-reason\">Supply alert regarding a major product from a direct competitor (Colombia).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9862750/eingesturzte-hauser-noch-stehende-baume-so-halt-die-kolumbianische-avocadobranche-dem-erdbeben-stand/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">רעידת אדמה בקולומביה: השפעה מוגבלת על ענף האבוקדו -- <span class=\"news-date\">13/08/2026 10:56</span></div><div class=\"news-body\">למרות שרעידת אדמה פקדה לאחרונה את מערב קולומביה, ובמיוחד את אזור ואיה דל קאוקה, נראה כי מגזר ייצוא האבוקדו נמנע מנזקים משמעותיים למטעים שלו. התשתיות האנושיות נפגעו, אך הייצור החקלאי לייצוא נותר פעיל באופן כללי. <span class=\"news-reason\">התראת אספקה בנוגע למוצר מרכזי אצל מתחרה ישיר (קולומביה).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9862750/eingesturzte-hauser-noch-stehende-baume-so-halt-die-kolumbianische-avocadobranche-dem-erdbeben-stand/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1786597399_2",
-      "timestamp": "2026-08-13T05:03:19.145121+00:00",
-      "title": "Analyse des tendances de consommation d&#x27;avocats via une application de maturité -- 12/08/2026 12:48",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Analyse des tendances de consommation d&#x27;avocats via une application de maturité -- <span class=\"news-date\">12/08/2026 12:48</span></div><div class=\"news-body\">L&#x27;utilisation d&#x27;une application mobile destinée à prédire la maturité des avocats ÉVO HASS a permis de recueillir des données sur les habitudes réelles des consommateurs. L&#x27;outil permet de situer le fruit sur une échelle de cinq stades de maturité, fournissant aux importateurs des informations sur les préférences d&#x27;achat en magasin. <span class=\"news-reason\">Données sur le comportement des acheteurs d&#x27;avocats Hass, pertinentes pour la stratégie commerciale de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9862259/scan-de-maturite-ce-que-les-donnees-post-achat-disent-vraiment-du-comportement-des-acheteurs-d-avocats/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Analysis of avocado consumption trends via a maturity application -- <span class=\"news-date\">12/08/2026 12:48</span></div><div class=\"news-body\">The use of a mobile application intended to predict the maturity of EVO HASS avocados has allowed for the collection of data on actual consumer habits. The tool allows the fruit to be placed on a scale of five maturity stages, providing importers with information on in-store purchasing preferences. <span class=\"news-reason\">Data on the behavior of Hass avocado buyers, relevant to Mehadrin&#x27;s commercial strategy.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9862259/scan-de-maturite-ce-que-les-donnees-post-achat-disent-vraiment-du-comportement-des-acheteurs-d-avocats/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">ניתוח מגמות צריכת אבוקדו באמצעות אפליקציית בשלות -- <span class=\"news-date\">12/08/2026 12:48</span></div><div class=\"news-body\">השימוש באפליקציה סלולרית המיועדת לחיזוי בשלות האבוקדו ÉVO HASS איפשר לאסוף נתונים על הרגלי הצרכנים בפועל. הכלי מאפשר למקם את הפרי על סולם של חמישה שלבי בשלות, ומספק ליבואנים מידע על העדפות הקנייה בחנויות. <span class=\"news-reason\">נתונים על התנהגות קוני אבוקדו האס (Hass), הרלוונטיים לאסטרטגיה המסחרית של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9862259/scan-de-maturite-ce-que-les-donnees-post-achat-disent-vraiment-du-comportement-des-acheteurs-d-avocats/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1786597399_1",
-      "timestamp": "2026-08-13T05:03:19.145121+00:00",
-      "title": "Reprise des exportations d&#x27;avocats mexicains vers les États-Unis",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "MEX",
-        "USA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Reprise des exportations d&#x27;avocats mexicains vers les États-Unis -- <span class=\"news-date\">12/08/2026 15:48</span></div><div class=\"news-body\">Les exportations d&#x27;avocats depuis le Mexique vers les États-Unis ont repris officiellement. Les inspections avaient été suspendues la semaine dernière dans l&#x27;État du Michoacán par le gouvernement américain pour des raisons de sécurité, provoquant un arrêt temporaire des flux. <span class=\"news-reason\">Information stratégique sur le rétablissement de l&#x27;offre d&#x27;un concurrent majeur (Mexique) sur le marché mondial de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9862280/los-aguacates-de-mexico-regresan-al-mercado-estadounidense-tras-una-pausa/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Resumption of Mexican avocado exports to the United States -- <span class=\"news-date\">12/08/2026 15:48</span></div><div class=\"news-body\">Avocado exports from Mexico to the United States have officially resumed. Inspections had been suspended last week in the State of Michoacán by the U.S. government for security reasons, causing a temporary halt in flows. <span class=\"news-reason\">Strategic information on the restoration of supply from a major competitor (Mexico) in the global avocado market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9862280/los-aguacates-de-mexico-regresan-al-mercado-estadounidense-tras-una-pausa/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">חידוש ייצוא האבוקדו המקסיקני לארצות הברית -- <span class=\"news-date\">12/08/2026 15:48</span></div><div class=\"news-body\">ייצוא האבוקדו ממקסיקו לארצות הברית התחדש באופן רשמי. הבדיקות הושעו בשבוע שעבר במדינת מיצ'ואקאן על ידי הממשל האמריקאי מסיבות ביטחוניות, מה שגרם לעצירה זמנית של זרם הסחורות. <span class=\"news-reason\">מידע אסטרטגי על חידוש ההיצע של מתחרה מרכזי (מקסיקו) בשוק האבוקדו העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9862280/los-aguacates-de-mexico-regresan-al-mercado-estadounidense-tras-una-pausa/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
