@@ -1,6 +1,41 @@
 {
-  "last_generated": "2026-08-17T05:02:03.238704+00:00",
+  "last_generated": "2026-08-17T11:02:25.509923+00:00",
   "articles": [
+    {
+      "id": "1786964545_0",
+      "timestamp": "2026-08-17T11:02:25.509923+00:00",
+      "title": "Hausse des prix à l&#x27;exportation des pomelos jaunes de Thaïlande -- 17/08/2026 12:04",
+      "title_hash": "hausse prix à lx27exportation pomelos jaunes thaïlande",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "citrus_grapefruit"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Hausse des prix à l&#x27;exportation des pomelos jaunes de Thaïlande -- <span class=\"news-date\">17/08/2026 12:04</span></div><div class=\"news-body\">La saison d&#x27;exportation des pomelos thaïlandais entre dans sa phase cruciale. Alors que les volumes devraient rester stables, les prix à l&#x27;exportation des pomelos jaunes sont attendus en hausse d&#x27;environ 10 % par rapport à la saison dernière. Cette augmentation est la conséquence de problèmes de qualité survenus plus tôt dans l&#x27;année. <span class=\"news-reason\">Article contenant des chiffres précis sur les prix d&#x27;un produit Mehadrin provenant d&#x27;une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9860899/hogere-kosten-stuwen-exportprijzen-van-thaise-gele-pomelo-s/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Export price increase for Thai yellow pomelos -- <span class=\"news-date\">17/08/2026 12:04</span></div><div class=\"news-body\">The Thai pomelo export season is entering its crucial phase. While volumes are expected to remain stable, export prices for yellow pomelos are expected to rise by about 10% compared to last season. This increase is the result of quality issues that occurred earlier in the year. <span class=\"news-reason\">Article containing specific price figures for a Mehadrin product from a competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9860899/hogere-kosten-stuwen-exportprijzen-van-thaise-gele-pomelo-s/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עלייה במחירי הייצוא של פומלו צהוב מתאילנד -- <span class=\"news-date\">17/08/2026 12:04</span></div><div class=\"news-body\">עונת הייצוא של הפומלו התאילנדי נכנסת לשלב המכריע שלה. בעוד שהכמויות צפויות להישאר יציבות, מחירי הייצוא של הפומלו הצהוב צפויים לעלות בכ-10% בהשוואה לעונה שעברה. עלייה זו היא תוצאה של בעיות איכות שהתרחשו מוקדם יותר השנה. <span class=\"news-reason\">מאמר המכיל נתונים מדויקים על מחירי מוצר מהדרין ממקור מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9860899/hogere-kosten-stuwen-exportprijzen-van-thaise-gele-pomelo-s/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>",
+      "rss_metadata": {
+        "id": "rss-fe29aa863cb26848",
+        "title": "Hogere kosten stuwen exportprijzen van Thaise gele pomelo's",
+        "summary": "De Thaise export van pomelo's gaat de belangrijkste fase van het seizoen in. Exporteurs verwachten relatief stabiele volumes, maar voor gele pomelo's liggen de exportprijzen naar verwachting circa 10% hoger dan vorig seizoen. Dat is het gevolg van kwaliteitsproblemen die eerder dit jaar ontstonden door…",
+        "url": "https://www.agf.nl/article/9860899/hogere-kosten-stuwen-exportprijzen-van-thaise-gele-pomelo-s/",
+        "source": "AGF.nl",
+        "published_at": "2026-08-17T12:04:00+02:00",
+        "language": "nl",
+        "products": [
+          "citrus_grapefruit"
+        ],
+        "origins": []
+      },
+      "attention_enrichment": {
+        "title_fr": "Hausse des prix à l'exportation des pomelos",
+        "summary_fr": "Les prix à l'exportation augmentent pour cette saison."
+      },
+      "gemini_score": 10
+    },
     {
       "id": "1786942923_1",
       "timestamp": "2026-08-17T05:02:03.238704+00:00",
@@ -150,7 +185,7 @@
     {
       "id": "1786732450_0",
       "timestamp": "2026-08-14T18:34:10.897209+00:00",
-      "title": "Pérou : baisse de 60 % de la production de mangues prévue pour la campagne 2026/27",
+      "title": "Pérou : une baisse de 60 % de la production de mangues prévue pour la campagne 2026/27",
       "title_hash": "pérou chute 60 production mangues est attendue saison 27",
       "category": "ALERTES SUPPLY",
       "commercials": [
@@ -162,14 +197,14 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pérou : baisse de 60 % de la production de mangues prévue pour la campagne 2026/27 -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">La floraison des manguiers au Pérou a été sévèrement touchée par le phénomène El Niño, laissant présager une chute de production allant jusqu&#x27;à 60 %. La campagne débutera en semaine 40 (octobre) dans la région de Piura et se poursuivra jusqu&#x27;en janvier 2027, avec des récoltes successives à Lambayeque et Casma. <span class=\"news-reason\">Alerte majeure sur les volumes d&#x27;un concurrent clé avec des chiffres précis de baisse de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863313/el-nino-golpea-la-floracion-del-mango-en-peru-la-produccion-podria-caer-hasta-un-60/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pérou : une baisse de 60 % de la production de mangues prévue pour la campagne 2026/27 -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">La floraison des manguiers au Pérou a été sévèrement touchée par le phénomène El Niño, laissant présager une chute de production allant jusqu&#x27;à 60 %. La campagne débutera en semaine 40 (octobre) dans la région de Piura et se poursuivra jusqu&#x27;en janvier 2027, avec des récoltes successives à Lambayeque et Casma. <span class=\"news-reason\">Alerte majeure sur les volumes d&#x27;un concurrent clé avec des chiffres précis de baisse de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863313/el-nino-golpea-la-floracion-del-mango-en-peru-la-produccion-podria-caer-hasta-un-60/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Peru: a 60% drop in mango production is expected for the 2026/27 season -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">Mango tree flowering in Peru has been severely affected by the El Niño phenomenon, suggesting a production drop of up to 60%. The campaign will begin in week 40 (October) in the Piura region and will continue until January 2027, with successive harvests in Lambayeque and Casma. <span class=\"news-reason\">Major alert on the volumes of a key competitor with specific production decline figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863313/el-nino-golpea-la-floracion-del-mango-en-peru-la-produccion-podria-caer-hasta-un-60/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">פרו: צפויה ירידה של 60% בייצור המנגו לעונת 2026/27 -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">פריחת עצי המנגו בפרו נפגעה קשות מתופעת אל-ניניו, המבשרת על ירידה בייצור של עד 60%. העונה תתחיל בשבוע 40 (אוקטובר) באזור פיוורה ותימשך עד ינואר 2027, עם יבולים עוקבים בלמבאייקה ובקאסמה. <span class=\"news-reason\">התראה משמעותית לגבי כמויות של מתחרה מפתח עם נתונים מדויקים על הירידה בייצור.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863313/el-nino-golpea-la-floracion-del-mango-en-peru-la-produccion-podria-caer-hasta-un-60/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1786726983_0",
       "timestamp": "2026-08-14T17:03:03.417711+00:00",
-      "title": "Recul de la demande d&#x27;agrumes au Moyen-Orient et défis climatiques en Afrique du Sud",
+      "title": "Baisse de la demande d&#x27;agrumes au Moyen-Orient et défis climatiques en Afrique du Sud",
       "title_hash": "recul demande dx27agrumes moyenorient répercussions climatiques afrique sud",
       "category": "ALERTES SUPPLY",
       "commercials": [
@@ -182,7 +217,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Recul de la demande d&#x27;agrumes au Moyen-Orient et défis climatiques en Afrique du Sud -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">Dans la région de Hoedspruit, les exportateurs sud-africains font face à une conjoncture difficile. Alors que la saison des mandarines touche normalement à sa fin, des pluies hivernales tardives ont ralenti les opérations de récolte et d&#x27;emballage. De plus, une chute de la demande sur les marchés du Moyen-Orient perturbe les flux d&#x27;exportation habituels. Face à ces contraintes, les producteurs (notamment Rederberg Estates) anticipent un basculement vers la récolte des oranges de type Valencia. <span class=\"news-reason\">Information stratégique sur la concurrence (Afrique du Sud) concernant la fin de campagne des mandarines et oranges Valencia, incluant une alerte de marché régionale.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863129/la-caida-de-la-demanda-en-oriente-medio-golpea-a-los-exportadores-sudafricanos-de-citricos-y-mango/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Baisse de la demande d&#x27;agrumes au Moyen-Orient et défis climatiques en Afrique du Sud -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">Dans la région de Hoedspruit, les exportateurs sud-africains font face à une conjoncture difficile. Alors que la saison des mandarines touche normalement à sa fin, des pluies hivernales tardives ont ralenti les opérations de récolte et d&#x27;emballage. De plus, une chute de la demande sur les marchés du Moyen-Orient perturbe les flux d&#x27;exportation habituels. Face à ces contraintes, les producteurs (notamment Rederberg Estates) anticipent un basculement vers la récolte des oranges de type Valencia. <span class=\"news-reason\">Information stratégique sur la concurrence (Afrique du Sud) concernant la fin de campagne des mandarines et oranges Valencia, incluant une alerte de marché régionale.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863129/la-caida-de-la-demanda-en-oriente-medio-golpea-a-los-exportadores-sudafricanos-de-citricos-y-mango/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Decline in citrus demand in the Middle East and climate repercussions in South Africa -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">In the Hoedspruit region, South African exporters are facing a difficult situation. While the mandarin season normally comes to an end, late winter rains have slowed harvesting and packing operations. Furthermore, a drop in demand in Middle Eastern markets is disrupting usual export flows. Faced with these constraints, producers (notably Rederberg Estates) are anticipating a shift to harvesting Valencia-type oranges. <span class=\"news-reason\">Strategic competition information (South Africa) concerning the end of the mandarin and Valencia orange season, including a regional market alert.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863129/la-caida-de-la-demanda-en-oriente-medio-golpea-a-los-exportadores-sudafricanos-de-citricos-y-mango/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ירידה בביקוש להדרים במזרח התיכון והשלכות אקלימיות בדרום אפריקה -- <span class=\"news-date\">14/08/2026 15:50</span></div><div class=\"news-body\">באזור הודספרויט, היצואנים מדרום אפריקה מתמודדים עם מצב מאתגר. בעוד שעונת המנדרינות מתקרבת בדרך כלל לסיומה, גשמי חורף מאוחרים האטו את פעולות הקטיף והאריזה. בנוסף, ירידה בביקוש בשווקי המזרח התיכון משבשת את זרמי הייצוא הרגילים. לנוכח אילוצים אלו, המגדלים (במיוחד Rederberg Estates) צופים מעבר לקטיף של תפוזים מסוג ולנסיה. <span class=\"news-reason\">מידע אסטרטגי על התחרות (דרום אפריקה) בנוגע לסיום עונת המנדרינות ותפוזי הוולנסיה, כולל התראת שוק אזורית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863129/la-caida-de-la-demanda-en-oriente-medio-golpea-a-los-exportadores-sudafricanos-de-citricos-y-mango/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -356,82 +391,29 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Europe : mévente des oranges et mandarines malgré un approvisionnement limité -- <span class=\"news-date\">14/08/2026 13:49</span></div><div class=\"news-body\">Le marché européen des agrumes subit une baisse de consommation notable pour les oranges et les mandarines. Malgré une offre globalement insuffisante, les ventes sont à la traîne en raison des températures élevées en Europe, qui détournent les consommateurs de ces produits au profit de fruits plus estivaux. <span class=\"news-reason\">Analyse directe du marché européen pour les produits cœurs de Mehadrin avec facteurs explicatifs.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9862211/meme-avec-un-approvisionnement-insuffisant-les-ventes-d-oranges-et-de-mandarines-restent-nettement-a-la-traine/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Europe: sluggish sales of oranges and mandarins despite limited supply -- <span class=\"news-date\">14/08/2026 13:49</span></div><div class=\"news-body\">The European citrus market is experiencing a notable decline in consumption for oranges and mandarins. Despite a generally insufficient supply, sales are lagging due to high temperatures in Europe, which divert consumers from these products in favor of more summer fruits. <span class=\"news-reason\">Direct analysis of the European market for Mehadrin&#x27;s core products with explanatory factors.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9862211/meme-avec-un-approvisionnement-insuffisant-les-ventes-d-oranges-et-de-mandarines-restent-nettement-a-la-traine/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">אירופה: ירידה במכירות תפוזים ומנדרינות למרות היצע מוגבל -- <span class=\"news-date\">14/08/2026 13:49</span></div><div class=\"news-body\">שוק פירות ההדר האירופי חווה ירידה ניכרת בצריכה של תפוזים ומנדרינות. למרות היצע לא מספק באופן כללי, המכירות מדשדשות בשל הטמפרטורות הגבוהות באירופה, הגורמות לצרכנים להעדיף פירות קיציים יותר על פני מוצרים אלו. <span class=\"news-reason\">ניתוח ישיר של השוק האירופי למוצרי הליבה של מהדרין עם גורמים מסבירים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9862211/meme-avec-un-approvisionnement-insuffisant-les-ventes-d-oranges-et-de-mandarines-restent-nettement-a-la-traine/\" target=\"_blank\">FreshPlaza FR -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1786705408_3",
-      "timestamp": "2026-08-14T11:03:28.001149+00:00",
-      "title": "L&#x27;Égypte intensifie ses exportations de mangues vers l&#x27;Europe -- 14/08/2026 12:07",
-      "title_hash": "lx27égypte intensifie exportations mangues vers lx27europe",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "mango"
-      ],
-      "origins": [
-        "EGY"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;Égypte intensifie ses exportations de mangues vers l&#x27;Europe -- <span class=\"news-date\">14/08/2026 12:07</span></div><div class=\"news-body\">L&#x27;exportateur égyptien Ghezaa renforce sa présence sur les marchés européen et britannique alors que la saison des mangues entre dans sa période de pointe. L&#x27;entreprise mise sur la qualité et des prix compétitifs pour gagner des parts de marché. <span class=\"news-reason\">Information sur la stratégie commerciale d&#x27;une origine concurrente directe.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9863101/kwaliteit-en-scherpe-prijzen-zetten-egyptische-mango-s-op-de-kaart-in-europa/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Egypt intensifies mango exports to Europe -- <span class=\"news-date\">14/08/2026 12:07</span></div><div class=\"news-body\">Egyptian exporter Ghezaa is strengthening its presence in the European and UK markets as the mango season enters its peak period. The company is counting on quality and competitive prices to gain market share. <span class=\"news-reason\">Information on the commercial strategy of a direct competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9863101/kwaliteit-en-scherpe-prijzen-zetten-egyptische-mango-s-op-de-kaart-in-europa/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מצרים מגבירה את ייצוא המנגו לאירופה -- <span class=\"news-date\">14/08/2026 12:07</span></div><div class=\"news-body\">היצואן המצרי Ghezaa מחזק את נוכחותו בשווקים האירופיים והבריטיים בעוד עונת המנגו נכנסת לתקופת השיא שלה. החברה מסתמכת על איכות ומחירים תחרותיים כדי לזכות בנתחי שוק. <span class=\"news-reason\">מידע על האסטרטגיה המסחרית של מקור מתחרה ישיר.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9863101/kwaliteit-en-scherpe-prijzen-zetten-egyptische-mango-s-op-de-kaart-in-europa/\" target=\"_blank\">AGF.nl -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1786705408_2",
-      "timestamp": "2026-08-14T11:03:28.001149+00:00",
-      "title": "Marché européen de la mangue : déficit de l&#x27;offre et stabilité des cours durant la période estivale",
-      "title_hash": "marché européen mangue offre limitée stabilité prix durant période estivale",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "mango"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Marché européen de la mangue : déficit de l&#x27;offre et stabilité des cours durant la période estivale -- <span class=\"news-date\">14/08/2026 10:44</span></div><div class=\"news-body\">Le marché européen de la mangue traverse une phase de calme relatif. La demande est limitée en raison des vacances d&#x27;été et du manque de promotions en grande distribution. Parallèlement, l&#x27;offre disponible est restreinte, ce qui permet de maintenir un niveau de prix sain sur le marché. <span class=\"news-reason\">Analyse de l&#x27;état du marché européen pour un produit Mehadrin avec mention des niveaux de prix et de l&#x27;offre.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9862203/das-begrenzte-mangoangebot-sorgt-fur-ein-gesundes-preisniveau-aber-ist-das-die-ruhe-vor-dem-sturm/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">European mango market: limited supply and price stability during the summer period -- <span class=\"news-date\">14/08/2026 10:44</span></div><div class=\"news-body\">The European mango market is going through a phase of relative calm. Demand is limited due to summer holidays and the lack of promotions in large retail. At the same time, available supply is restricted, which allows for a healthy price level to be maintained on the market. <span class=\"news-reason\">Analysis of the European market status for a Mehadrin product, including mentions of price levels and supply.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9862203/das-begrenzte-mangoangebot-sorgt-fur-ein-gesundes-preisniveau-aber-ist-das-die-ruhe-vor-dem-sturm/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">שוק המנגו האירופי: היצע מוגבל ויציבות מחירים במהלך תקופת הקיץ -- <span class=\"news-date\">14/08/2026 10:44</span></div><div class=\"news-body\">שוק המנגו האירופי עובר שלב של שקט יחסי. הביקוש מוגבל בשל חופשות הקיץ והיעדר מבצעים ברשתות השיווק. במקביל, ההיצע הזמין מוגבל, מה שמאפשר לשמור על רמת מחירים בריאה בשוק. <span class=\"news-reason\">ניתוח מצב השוק האירופי עבור מוצר מהדרין עם ציון רמות המחירים וההיצע.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9862203/das-begrenzte-mangoangebot-sorgt-fur-ein-gesundes-preisniveau-aber-ist-das-die-ruhe-vor-dem-sturm/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1786699990_2",
-      "timestamp": "2026-08-14T09:33:10.850080+00:00",
-      "title": "Maroc : la production d&#x27;avocats impactée par la canicule de fin août",
-      "title_hash": "maroc production dx27avocats menacée canicule fin août",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Maroc : la production d&#x27;avocats impactée par la canicule de fin août -- <span class=\"news-date\">14/08/2026 10:44</span></div><div class=\"news-body\">Les producteurs d&#x27;avocats de la région du Gharb au Maroc s&#x27;inquiètent des prévisions météorologiques pour la fin du mois d&#x27;août. Ils redoutent une vague de chaleur intense similaire à celle de 2025, qui avait causé des dommages importants aux vergers et impacté la disponibilité des fruits. <span class=\"news-reason\">Alerte climatique sur une origine clé (Maroc) pour un produit stratégique (avocat).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9861740/marokkanische-avocado-erzeuger-befurchten-eine-hitzewelle-ende-august/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Morocco: Avocado production threatened by heatwave in late August -- <span class=\"news-date\">14/08/2026 10:44</span></div><div class=\"news-body\">Avocado producers in the Gharb region of Morocco are concerned about the weather forecasts for the end of August. They fear an intense heatwave similar to that of 2025, which caused significant damage to orchards and impacted fruit availability. <span class=\"news-reason\">Climate alert for a key origin (Morocco) for a strategic product (avocado).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9861740/marokkanische-avocado-erzeuger-befurchten-eine-hitzewelle-ende-august/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מרוקו: ייצור האבוקדו מאוים על ידי גל חום בסוף אוגוסט -- <span class=\"news-date\">14/08/2026 10:44</span></div><div class=\"news-body\">מגדלי האבוקדו באזור ע'רב שבמרוקו מודאגים מתחזיות מזג האוויר לסוף חודש אוגוסט. הם חוששים מגל חום כבד בדומה לזה של 2025, שגרם לנזקים משמעותיים למטעים והשפיע על זמינות הפירות. <span class=\"news-reason\">התראת אקלים במקור מפתח (מרוקו) עבור מוצר אסטרטגי (אבוקדו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9861740/marokkanische-avocado-erzeuger-befurchten-eine-hitzewelle-ende-august/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1786699990_1",
-      "timestamp": "2026-08-14T09:33:10.850080+00:00",
-      "title": "Afrique du Sud : Publication des volumes d&#x27;exportation d&#x27;agrumes pour la semaine 33 -- 14/08/2026 08:57",
-      "title_hash": "afrique sud publication volumes dx27exportation dx27agrumes semaine 33",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [
-        "ZAF"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique du Sud : Publication des volumes d&#x27;exportation d&#x27;agrumes pour la semaine 33 -- <span class=\"news-date\">14/08/2026 08:57</span></div><div class=\"news-body\">La Citrus Growers&#x27; Association (CGA) d&#x27;Afrique du Sud a publié les données relatives aux volumes d&#x27;agrumes emballés et expédiés pour la semaine 33 de la saison 2026. L&#x27;organisation a également profité de cette communication pour lancer sa journée annuelle dédiée à la filière (Citrus Day). <span class=\"news-reason\">Information sur les volumes d&#x27;exportation d&#x27;une origine concurrente majeure pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.cga.co.za/week-33-from-the-desk-of-the-ceo-2/\" target=\"_blank\">CGA -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">South Africa: Publication of citrus export volumes for week 33 -- <span class=\"news-date\">14/08/2026 08:57</span></div><div class=\"news-body\">The Citrus Growers&#x27; Association (CGA) of South Africa has published data related to the volumes of citrus packed and shipped for week 33 of the 2026 season. The organization also used this communication to launch its annual industry day (Citrus Day). <span class=\"news-reason\">Information on the export volumes of a major competing origin for citrus fruits.</span></div><div class=\"news-source\"><a href=\"https://www.cga.co.za/week-33-from-the-desk-of-the-ceo-2/\" target=\"_blank\">CGA -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">דרום אפריקה: פרסום כמויות יצוא ההדרים לשבוע 33 -- <span class=\"news-date\">14/08/2026 08:57</span></div><div class=\"news-body\">איגוד מגדלי ההדרים (CGA) של דרום אפריקה פרסם את הנתונים הנוגעים לכמויות ההדרים שנארזו ונשלחו לשבוע 33 של עונת 2026. הארגון ניצל את ההודעה הזו גם כדי להשיק את היום השנתי המוקדש לענף (Citrus Day). <span class=\"news-reason\">מידע על כמויות היצוא של מקור מתחרה מרכזי בתחום ההדרים.</span></div><div class=\"news-source\"><a href=\"https://www.cga.co.za/week-33-from-the-desk-of-the-ceo-2/\" target=\"_blank\">CGA -- קרא את הכתבה</a></div></div>"
     }
   ],
-  "article_count": 19,
+  "article_count": 16,
   "attention_points": [
+    {
+      "id": "attention-fe29aa863cb26848",
+      "article_id": "1786964545_0",
+      "url": "https://www.agf.nl/article/9860899/hogere-kosten-stuwen-exportprijzen-van-thaise-gele-pomelo-s/",
+      "source": "AGF.nl",
+      "title": "Hausse des prix à l'exportation des pomelos jaunes",
+      "summary": "Les prix à l'exportation augmentent pour cette saison.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-08-17T12:04:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "price",
+      "signal_label": "Prix",
+      "icon": "information",
+      "products": [
+        "citrus_grapefruit"
+      ],
+      "age_hours": 0
+    },
     {
       "id": "attention-084e3f3924a4a69c",
       "article_id": "1786942923_1",
@@ -449,33 +431,14 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 1
-    },
-    {
-      "id": "attention-c80108a8ea795b26",
-      "article_id": "1786786387_0",
-      "url": "https://east-fruit.com/en/trending/watermelon-prices-continue-to-decline-in-ukraine/",
-      "source": "EastFruit",
-      "title": "Poursuite de la baisse des prix des pastèques",
-      "summary": "Conditions climatiques favorables soutenant la récolte et la disponibilité",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-08-15T06:41:49+00:00",
-      "published_at_source": "rss",
-      "signal_type": "price",
-      "signal_label": "Prix",
-      "icon": "information",
-      "products": [
-        "watermelon"
-      ],
-      "age_hours": 46
+      "age_hours": 7
     },
     {
       "id": "attention-8d29dc6135107e2a",
       "article_id": "1786726983_0",
       "url": "https://www.freshplaza.es/article/9863129/la-caida-de-la-demanda-en-oriente-medio-golpea-a-los-exportadores-sudafricanos-de-citricos-y-mango/",
       "source": "FreshPlaza ES",
-      "title": "Recul de la demande d'agrumes au Moyen-Orient et défis",
+      "title": "Baisse de la demande d'agrumes au Moyen-Orient et défis",
       "summary": "Dans la région de Hoedspruit, les exportateurs sud-africains font face à une conjoncture difficile.",
       "origin_code": "ZAF",
       "origin_label": "Afrique du Sud",
@@ -488,7 +451,7 @@
         "mandarine",
         "orange"
       ],
-      "age_hours": 63
+      "age_hours": 69
     },
     {
       "id": "attention-1457fdfadcffecb5",
@@ -507,7 +470,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 65
+      "age_hours": 71
     }
   ]
 }
