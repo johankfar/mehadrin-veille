@@ -1,23 +1,25 @@
 {
-  "last_updated": "2026-08-19T05:02:51.073728+00:00",
-  "article_count": 23,
+  "last_updated": "2026-08-19T09:32:41.789802+00:00",
+  "article_count": 26,
   "attention_points": [
     {
-      "id": "attention-61d692c405a742e2",
-      "article_id": "1787115771_3",
-      "url": "https://www.freshplaza.it/article/9864107/agrumi-bene-la-qualita-ma-senza-sostegno-pubblico-la-filiera-rischia-il-collasso/",
+      "id": "attention-0a414e36a04500d1",
+      "article_id": "1787131961_0",
+      "url": "https://www.freshplaza.it/article/9861738/i-coltivatori-marocchini-di-avocado-si-preparano-a-un-fine-agosto-rischioso/",
       "source": "FreshPlaza IT",
-      "title": "La filière agrumicole sicilienne menacée par la sécheresse",
-      "summary": "L'agrumiculture en Sicile, pilier du secteur italien, fait face à des défis critiques mettant en péril la durabilité économique des exploitations.",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
+      "title": "Impact des risques climatiques sur la production d'avocats",
+      "summary": "Les producteurs redoutent des pertes de récolte liées au climat fin août",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
       "published_at": "2026-08-19T06:00:00+02:00",
       "published_at_source": "rss",
       "signal_type": "weather",
       "signal_label": "Météo",
       "icon": "weather",
-      "products": [],
-      "age_hours": 1
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 5
     },
     {
       "id": "attention-7bd303c55a02006f",
@@ -36,26 +38,26 @@
       "products": [
         "orange"
       ],
-      "age_hours": 1
+      "age_hours": 5
     },
     {
-      "id": "attention-261908dc02d016a1",
-      "article_id": "1787077944_0",
-      "url": "https://www.freshplaza.com/article/9864173/the-demand-has-been-encouraging-supported-by-the-fruit-s-eating-quality/",
-      "source": "FreshPlaza",
-      "title": "Forte demande pour les mandarines Nadorcott d'Afrique du Sud",
-      "summary": "La demande pour les agrumes sud-africains reste dynamique.",
-      "origin_code": "EGY",
-      "origin_label": "Égypte",
-      "published_at": "2026-08-18T13:43:00+02:00",
+      "id": "attention-b224a9d3427875e2",
+      "article_id": "1787131961_1",
+      "url": "https://www.freshplaza.it/article/9862255/cosi-scopriamo-cosa-fanno-i-consumatori-con-la-frutta-dopo-l-acquisto/",
+      "source": "FreshPlaza IT",
+      "title": "Technologie mobile pour l'évaluation de la maturité des avocats",
+      "summary": "Un outil digital guide les consommateurs dans l'achat d'avocats Hass",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-08-19T06:00:00+02:00",
       "published_at_source": "rss",
       "signal_type": "information",
       "signal_label": "Information",
       "icon": "information",
       "products": [
-        "berry"
+        "avocat"
       ],
-      "age_hours": 17
+      "age_hours": 5
     },
     {
       "id": "attention-36f5ec28e47d49b7",
@@ -72,10 +74,62 @@
       "signal_label": "Volumes",
       "icon": "information",
       "products": [],
-      "age_hours": 17
+      "age_hours": 21
     }
   ],
   "articles": [
+    {
+      "id": "1787131961_2",
+      "timestamp": "2026-08-19T09:32:41.789802+00:00",
+      "title": "L&#x27;intelligence artificielle au service des acheteurs d&#x27;avocats mexicains -- 18/08/2026 12:00",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MEX"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;intelligence artificielle au service des acheteurs d&#x27;avocats mexicains -- <span class=\"news-date\">18/08/2026 12:00</span></div><div class=\"news-body\">Avocados From Mexico déploie une plateforme basée sur l&#x27;intelligence artificielle pour interagir avec les clients. L&#x27;outil propose des conseils conversationnels sur la sélection, le stockage et la préparation des fruits afin d&#x27;optimiser l&#x27;expérience d&#x27;achat et la consommation. <span class=\"news-reason\">Stratégie marketing d&#x27;une origine concurrente majeure sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/08/18/avo-ai/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Artificial intelligence serving Mexican avocado buyers -- <span class=\"news-date\">18/08/2026 12:00</span></div><div class=\"news-body\">Avocados From Mexico is deploying an artificial intelligence-based platform to interact with customers. The tool offers conversational tips on fruit selection, storage, and preparation to optimize the shopping and consumption experience. <span class=\"news-reason\">Marketing strategy of a major competing origin for a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/08/18/avo-ai/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">בינה מלאכותית בשירות רוכשי האבוקדו המקסיקני -- <span class=\"news-date\">18/08/2026 12:00</span></div><div class=\"news-body\">Avocados From Mexico משיקה פלטפורמה מבוססת בינה מלאכותית לאינטראקציה עם לקוחות. הכלי מציע ייעוץ שיחתי על בחירה, אחסון והכנה של הפירות במטרה לייעל את חוויית הקנייה והצריכה. <span class=\"news-reason\">אסטרטגיה שיווקית של מקור מתחרה מרכזי במוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/08/18/avo-ai/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1787131961_1",
+      "timestamp": "2026-08-19T09:32:41.789802+00:00",
+      "title": "Technologie mobile pour l&#x27;évaluation de la maturité des avocats Hass",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Technologie mobile pour l&#x27;évaluation de la maturité des avocats Hass -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">Un nouveau système permet de déterminer la maturité des avocats ÉVO HASS à l&#x27;aide d&#x27;un smartphone. L&#x27;application fournit une prévision sur une échelle de cinq niveaux, permettant d&#x27;orienter les consommateurs selon leurs habitudes de consommation immédiate ou différée. <span class=\"news-reason\">Information sur l&#x27;innovation marketing et le comportement des consommateurs pour l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9862255/cosi-scopriamo-cosa-fanno-i-consumatori-con-la-frutta-dopo-l-acquisto/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Mobile technology for Hass avocado maturity assessment -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">A new system allows the maturity of ÉVO HASS avocados to be determined using a smartphone. The application provides a forecast on a five-level scale, allowing consumers to be guided according to their immediate or delayed consumption habits. <span class=\"news-reason\">Information on marketing innovation and consumer behavior for avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9862255/cosi-scopriamo-cosa-fanno-i-consumatori-con-la-frutta-dopo-l-acquisto/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">טכנולוגיה סלולרית להערכת בשלות אבוקדו האס -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">מערכת חדשה מאפשרת לקבוע את בשלות אבוקדו ה-ÉVO HASS באמצעות סמארטפון. האפליקציה מספקת תחזית בסולם של חמש רמות, המאפשרת לכוון את הצרכנים בהתאם להרגלי הצריכה המיידית או הדחויה שלהם. <span class=\"news-reason\">מידע על חדשנות שיווקית והתנהגות צרכנים עבור אבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9862255/cosi-scopriamo-cosa-fanno-i-consumatori-con-la-frutta-dopo-l-acquisto/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1787131961_0",
+      "timestamp": "2026-08-19T09:32:41.789802+00:00",
+      "title": "Impact des risques climatiques sur la production d&#x27;avocats au Maroc à la fin août",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact des risques climatiques sur la production d&#x27;avocats au Maroc à la fin août -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">Les producteurs d&#x27;avocats de la région du Gharb au Maroc s&#x27;inquiètent d&#x27;une possible vague de chaleur à la fin du mois d&#x27;août. Ils craignent une répétition des dommages subis lors de la campagne 2025, où les conditions climatiques extrêmes avaient lourdement impacté le développement des fruits. <span class=\"news-reason\">Alerte sur la production d&#x27;une origine concurrente directe (Maroc) pour un produit Mehadrin (avocat).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861738/i-coltivatori-marocchini-di-avocado-si-preparano-a-un-fine-agosto-rischioso/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Impact of climate risks on avocado production in Morocco at the end of August -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">Avocado growers in the Gharb region of Morocco are worried about a possible heatwave at the end of August. They fear a repeat of the damage suffered during the 2025 campaign, when extreme weather conditions heavily impacted fruit development. <span class=\"news-reason\">Alert on the production of a direct competing origin (Morocco) for a Mehadrin product (avocado).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861738/i-coltivatori-marocchini-di-avocado-si-preparano-a-un-fine-agosto-rischioso/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השפעת סיכוני האקלים על ייצור האבוקדו במרוקו בסוף אוגוסט -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">מגדלי אבוקדו באזור ע'רב שבמרוקו מודאגים מגל חום אפשרי בסוף חודש אוגוסט. הם חוששים מחזרה על הנזקים שנגרמו במהלך עונת 2025, שבה תנאי אקלים קיצוניים השפיעו קשות על התפתחות הפירות. <span class=\"news-reason\">התראה על ייצור של מקור מתחרה ישיר (מרוקו) עבור מוצר מהדרין (אבוקדו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861738/i-coltivatori-marocchini-di-avocado-si-preparano-a-un-fine-agosto-rischioso/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1787115771_3",
       "timestamp": "2026-08-19T05:02:51.073728+00:00",
@@ -132,7 +186,7 @@
     {
       "id": "1787115771_0",
       "timestamp": "2026-08-19T05:02:51.073728+00:00",
-      "title": "Forte progression de la demande indienne pour les agrumes sud-africains",
+      "title": "Forte croissance de la demande indienne pour les agrumes sud-africains",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -145,7 +199,7 @@
         "ZAF",
         "IND"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Forte progression de la demande indienne pour les agrumes sud-africains -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">Chez Rederberg Estates en Afrique du Sud, la récolte et le conditionnement des mandarines se prolongent exceptionnellement alors que la saison des oranges Valencia débute. Des pluies hivernales sont tombées le 12 août dans cette zone subtropicale. Malgré un droit de douane de 30 %, la demande indienne pour les agrumes sud-africains est en forte progression cette année. <span class=\"news-reason\">Informations sur la concurrence (Afrique du Sud) concernant les mandarines et oranges Valencia avec mention de conditions climatiques.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863128/forte-aumento-della-domanda-indiana-di-agrumi-sudafricani-nonostante-il-dazio-del-30-per-cento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Forte croissance de la demande indienne pour les agrumes sud-africains -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">Chez Rederberg Estates en Afrique du Sud, la récolte et le conditionnement des mandarines se prolongent exceptionnellement alors que la saison des oranges Valencia débute. Des pluies hivernales sont tombées le 12 août dans cette zone subtropicale. Malgré un droit de douane de 30 %, la demande indienne pour les agrumes sud-africains est en forte progression cette année. <span class=\"news-reason\">Informations sur la concurrence (Afrique du Sud) concernant les mandarines et oranges Valencia avec mention de conditions climatiques.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863128/forte-aumento-della-domanda-indiana-di-agrumi-sudafricani-nonostante-il-dazio-del-30-per-cento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Strong growth in Indian demand for South African citrus -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">At Rederberg Estates in South Africa, the harvesting and packing of mandarins are exceptionally prolonged as the Valencia orange season begins. Winter rains fell on August 12 in this subtropical zone. Despite a 30% tariff, Indian demand for South African citrus is showing strong growth this year. <span class=\"news-reason\">Competition information (South Africa) concerning mandarins and Valencia oranges with mention of climatic conditions.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863128/forte-aumento-della-domanda-indiana-di-agrumi-sudafricani-nonostante-il-dazio-del-30-per-cento/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">עלייה חדה בביקוש ההודי להדרים מדרום אפריקה -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">ב-Rederberg Estates שבדרום אפריקה, קטיף ואריזת המנדרינות מתארכים באופן חריג בעוד עונת תפוזי הוולנסיה מתחילה. גשמי חורף ירדו ב-12 באוגוסט באזור סובטרופי זה. למרות מכס של 30%, הביקוש ההודי להדרים מדרום אפריקה נמצא בעלייה חדה השנה. <span class=\"news-reason\">מידע על תחרות (דרום אפריקה) בנוגע למנדרינות ותפוזי ולנסיה בצירוף אזכור תנאי האקלים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863128/forte-aumento-della-domanda-indiana-di-agrumi-sudafricani-nonostante-il-dazio-del-30-per-cento/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -243,7 +297,7 @@
     {
       "id": "1787045539_1",
       "timestamp": "2026-08-18T09:32:19.345449+00:00",
-      "title": "La récolte de pomelos chinois de Pinghe progresse de 10 %",
+      "title": "Hausse de 10 % de la récolte de pomelos chinois de Pinghe",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -254,21 +308,21 @@
       "origins": [
         "CHN"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La récolte de pomelos chinois de Pinghe progresse de 10 % -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">La nouvelle saison des pomelos de Pinghe entre en phase d&#x27;exportation avec une hausse de production estimée à environ 10 %. Si la qualité globale est jugée stable, les prix sont légèrement inférieurs à ceux de l&#x27;année dernière. Les exportateurs signalent également que les coûts élevés du fret maritime continuent de peser sur les expéditions. <span class=\"news-reason\">Informations précises sur les volumes et prix d&#x27;une origine concurrente majeure pour les pomelos.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863948/pomelo-ernte-steigt-in-dieser-saison-um-rund-10-hohe-seefrachtkosten-belasten-den-export/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Hausse de 10 % de la récolte de pomelos chinois de Pinghe -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">La nouvelle saison des pomelos de Pinghe entre en phase d&#x27;exportation avec une hausse de production estimée à environ 10 %. Si la qualité globale est jugée stable, les prix sont légèrement inférieurs à ceux de l&#x27;année dernière. Les exportateurs signalent également que les coûts élevés du fret maritime continuent de peser sur les expéditions. <span class=\"news-reason\">Informations précises sur les volumes et prix d&#x27;une origine concurrente majeure pour les pomelos.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863948/pomelo-ernte-steigt-in-dieser-saison-um-rund-10-hohe-seefrachtkosten-belasten-den-export/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">10% increase in the Pinghe Chinese pomelo harvest -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">The new Pinghe pomelo season is entering the export phase with a production increase estimated at around 10%. While overall quality is considered stable, prices are slightly lower than last year. Exporters also report that high ocean freight costs continue to weigh on shipments. <span class=\"news-reason\">Precise information on volumes and prices for a major competing origin for pomelos.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863948/pomelo-ernte-steigt-in-dieser-saison-um-rund-10-hohe-seefrachtkosten-belasten-den-export/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">עלייה של 10% ביבול הפומלה הסינית מפינגה -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">עונת הפומלה החדשה של פינגה נכנסת לשלב הייצוא עם עלייה בייצור המוערכת בכ-10%. בעוד שהאיכות הכוללת נחשבת ליציבה, המחירים נמוכים מעט מאלו של השנה שעברה. היצואנים מדווחים גם כי עלויות ההובלה הימית הגבוהות ממשיכות להכביד על המשלוחים. <span class=\"news-reason\">מידע מדויק על הכמויות והמחירים של מקור מתחרה מרכזי לפומלה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863948/pomelo-ernte-steigt-in-dieser-saison-um-rund-10-hohe-seefrachtkosten-belasten-den-export/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1787045539_0",
       "timestamp": "2026-08-18T09:32:19.345449+00:00",
-      "title": "Clôture de la récolte de pastèques dans le Tyrol autrichien",
+      "title": "Fin de la récolte des pastèques dans le Tyrol autrichien",
       "category": "ALERTES SUPPLY",
       "commercials": [],
       "products": [
         "watermelon"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Clôture de la récolte de pastèques dans le Tyrol autrichien -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">La campagne de pastèques dans le Tyrol touche à sa fin avec des livraisons prévues jusqu&#x27;à la fin de la semaine 35. Bien que la demande locale progresse, la rentabilité de la culture sur les quatre hectares exploités par Ulrichshof GmbH reste jugée trop faible actuellement. <span class=\"news-reason\">Annonce de fin de campagne pour une origine concurrente sur un produit Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863960/tiroler-wassermelone-findet-zunehmend-akzeptanz-die-rentabilitat-ist-aber-bislang-noch-zu-gering/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Fin de la récolte des pastèques dans le Tyrol autrichien -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">La campagne de pastèques dans le Tyrol touche à sa fin avec des livraisons prévues jusqu&#x27;à la fin de la semaine 35. Bien que la demande locale progresse, la rentabilité de la culture sur les quatre hectares exploités par Ulrichshof GmbH reste jugée trop faible actuellement. <span class=\"news-reason\">Annonce de fin de campagne pour une origine concurrente sur un produit Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863960/tiroler-wassermelone-findet-zunehmend-akzeptanz-die-rentabilitat-ist-aber-bislang-noch-zu-gering/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">End of the watermelon harvest in the Austrian Tyrol -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">The watermelon campaign in Tyrol is coming to an end with deliveries scheduled until the end of week 35. Although local demand is growing, the profitability of cultivation on the four hectares operated by Ulrichshof GmbH is still considered too low at present. <span class=\"news-reason\">End of campaign announcement for a competing origin on a seasonal Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863960/tiroler-wassermelone-findet-zunehmend-akzeptanz-die-rentabilitat-ist-aber-bislang-noch-zu-gering/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סיום קטיף האבטיחים בטירול האוסטרית -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">עונת האבטיחים בטירול מגיעה לסיומה עם משלוחים המתוכננים עד סוף שבוע 35. למרות שהביקוש המקומי נמצא במגמת עלייה, הרווחיות של הגידול בארבעת ההקטרים המופעלים על ידי Ulrichshof GmbH נחשבת כיום לנמוכה מדי. <span class=\"news-reason\">הודעה על סיום העונה עבור מקור מתחרה למוצר מהדרין בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863960/tiroler-wassermelone-findet-zunehmend-akzeptanz-die-rentabilitat-ist-aber-bislang-noch-zu-gering/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
@@ -447,7 +501,7 @@
     {
       "id": "1786942923_1",
       "timestamp": "2026-08-17T05:02:03.238704+00:00",
-      "title": "Investissement de 20 millions d&#x27;euros dans la filière de l&#x27;avocat en Sicile",
+      "title": "20 millions d&#x27;euros investis dans la filière de l&#x27;avocat en Sicile",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Ophélie"
@@ -458,7 +512,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Investissement de 20 millions d&#x27;euros dans la filière de l&#x27;avocat en Sicile -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">La Società Agricola Halaesa, soutenue par le cabinet de conseil PTS, a finalisé une opération de financement de 20 millions d&#x27;euros. Ces fonds sont destinés à structurer et développer la filière de production d&#x27;avocats en Sicile, visant une croissance stratégique sur le marché des fruits tropicaux en Italie. <span class=\"news-reason\">Investissement majeur dans la filière d&#x27;un produit Mehadrin (avocat) chez un concurrent européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863514/un-operazione-da-20-milioni-di-euro-per-la-crescita-della-filiera-dell-avocado-in-sicilia/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">20 millions d&#x27;euros investis dans la filière de l&#x27;avocat en Sicile -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">La Società Agricola Halaesa, soutenue par le cabinet de conseil PTS, a finalisé une opération de financement de 20 millions d&#x27;euros. Ces fonds sont destinés à structurer et développer la filière de production d&#x27;avocats en Sicile, visant une croissance stratégique sur le marché des fruits tropicaux en Italie. <span class=\"news-reason\">Investissement majeur dans la filière d&#x27;un produit Mehadrin (avocat) chez un concurrent européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863514/un-operazione-da-20-milioni-di-euro-per-la-crescita-della-filiera-dell-avocado-in-sicilia/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Investment of 20 million euros in the Sicilian avocado sector -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">Società Agricola Halaesa, supported by the PTS consulting firm, has finalized a 20 million euro financing operation. These funds are intended to structure and develop the avocado production sector in Sicily, aiming for strategic growth in the Italian tropical fruit market. <span class=\"news-reason\">Major investment in the sector of a Mehadrin product (avocado) by a European competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863514/un-operazione-da-20-milioni-di-euro-per-la-crescita-della-filiera-dell-avocado-in-sicilia/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות רשתות</div><div class=\"news-title\">השקעה של 20 מיליון אירו בענף האבוקדו בסיציליה -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">חברת Società Agricola Halaesa, בתמיכת חברת הייעוץ PTS, השלימה עסקת מימון של 20 מיליון אירו. כספים אלו מיועדים לארגון ופיתוח ענף ייצור האבוקדו בסיציליה, במטרה להשיג צמיחה אסטרטגית בשוק הפירות הטרופיים באיטליה. <span class=\"news-reason\">השקעה משמעותית בענף של מוצר מהדרין (אבוקדו) אצל מתחרה אירופאי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863514/un-operazione-da-20-milioni-di-euro-per-la-crescita-della-filiera-dell-avocado-in-sicilia/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
