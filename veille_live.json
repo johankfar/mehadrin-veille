@@ -1,25 +1,42 @@
 {
-  "last_updated": "2026-08-18T18:32:24.128163+00:00",
-  "article_count": 19,
+  "last_updated": "2026-08-19T05:02:51.073728+00:00",
+  "article_count": 23,
   "attention_points": [
     {
-      "id": "attention-0dc421defa2e6eee",
-      "article_id": "1787077944_1",
-      "url": "https://www.freshfruitportal.com/news/2026/08/18/michoacan-avocado/",
-      "source": "Fresh Fruit Portal",
-      "title": "Baisse de 27 % de la production d'avocats",
-      "summary": "L'État mexicain du Michoacán a clôturé sa campagne d'avocats 2025/26 avec une baisse de volume de 27 % par rapport à l'exercice précédent.",
-      "origin_code": "MEX",
-      "origin_label": "Mexique",
-      "published_at": "2026-08-18T17:50:43+00:00",
+      "id": "attention-61d692c405a742e2",
+      "article_id": "1787115771_3",
+      "url": "https://www.freshplaza.it/article/9864107/agrumi-bene-la-qualita-ma-senza-sostegno-pubblico-la-filiera-rischia-il-collasso/",
+      "source": "FreshPlaza IT",
+      "title": "La filière agrumicole sicilienne menacée par la sécheresse",
+      "summary": "L'agrumiculture en Sicile, pilier du secteur italien, fait face à des défis critiques mettant en péril la durabilité économique des exploitations.",
+      "origin_code": "ITA",
+      "origin_label": "Italie",
+      "published_at": "2026-08-19T06:00:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
+      "products": [],
+      "age_hours": 1
+    },
+    {
+      "id": "attention-7bd303c55a02006f",
+      "article_id": "1787115771_2",
+      "url": "https://www.freshplaza.it/article/9864256/la-campagna-delle-arance-provenienti-dal-sudafrica-entra-nel-vivo/",
+      "source": "FreshPlaza IT",
+      "title": "Recul de la disponibilité des oranges sud-africaines sur",
+      "summary": "La campagne des oranges sud-africaines de Dole en Italie est entrée dans sa phase active et devrait durer jusqu'en novembre.",
+      "origin_code": "ZAF",
+      "origin_label": "Afrique du Sud",
+      "published_at": "2026-08-19T06:00:00+02:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [
-        "avocat"
+        "orange"
       ],
-      "age_hours": 0
+      "age_hours": 1
     },
     {
       "id": "attention-261908dc02d016a1",
@@ -38,7 +55,7 @@
       "products": [
         "berry"
       ],
-      "age_hours": 6
+      "age_hours": 17
     },
     {
       "id": "attention-36f5ec28e47d49b7",
@@ -55,29 +72,83 @@
       "signal_label": "Volumes",
       "icon": "information",
       "products": [],
-      "age_hours": 6
-    },
-    {
-      "id": "attention-58e17bbb8399d47c",
-      "article_id": "1786969933_0",
-      "url": "https://www.freshplaza.fr/article/9862720/la-secheresse-retarde-legerement-la-recolte-de-patates-douces-en-caroline-du-nord/",
-      "source": "FreshPlaza FR",
-      "title": "Récolte de patates douces retardée en Caroline du Nord",
-      "summary": "La Caroline du Nord connaît un démarrage tardif de sa campagne de patates douces en raison de la sécheresse.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-08-17T13:56:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [
-        "sweet_potato"
-      ],
-      "age_hours": 30
+      "age_hours": 17
     }
   ],
   "articles": [
+    {
+      "id": "1787115771_3",
+      "timestamp": "2026-08-19T05:02:51.073728+00:00",
+      "title": "La filière agrumicole sicilienne menacée par la sécheresse et la hausse des coûts -- 19/08/2026 06:00",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "ITA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La filière agrumicole sicilienne menacée par la sécheresse et la hausse des coûts -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">L&#x27;agrumiculture en Sicile, pilier du secteur italien, fait face à des défis critiques mettant en péril la durabilité économique des exploitations. La pénurie d&#x27;eau, les événements climatiques extrêmes et l&#x27;augmentation des coûts de production menacent la filière de collapsus en l&#x27;absence de soutien public renforcé. <span class=\"news-reason\">Alerte supply sur une origine concurrente (Sicile) pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864107/agrumi-bene-la-qualita-ma-senza-sostegno-pubblico-la-filiera-rischia-il-collasso/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">The Sicilian citrus industry threatened by drought and rising costs -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">Citrus farming in Sicily, a pillar of the Italian sector, faces critical challenges endangering the economic sustainability of farms. Water shortages, extreme weather events, and increasing production costs threaten the industry with collapse in the absence of strengthened public support. <span class=\"news-reason\">Supply alert on a competing origin (Sicily) for citrus.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864107/agrumi-bene-la-qualita-ma-senza-sostegno-pubblico-la-filiera-rischia-il-collasso/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ענף ההדרים הסיציליאני מאוים על ידי הבצורת ועליית העלויות -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">גידול ההדרים בסיציליה, עמוד תווך של המגזר האיטלקי, עומד בפני אתגרים קריטיים המסכנים את היציבות הכלכלית של המשקים. המחסור במים, אירועי אקלים קיצוניים והעלייה בעלויות הייצור מאיימים על הענף בקריסה ללא תמיכה ציבורית מוגברת. <span class=\"news-reason\">התראת אספקה על מקור מתחרה (סיציליה) עבור הדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864107/agrumi-bene-la-qualita-ma-senza-sostegno-pubblico-la-filiera-rischia-il-collasso/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1787115771_2",
+      "timestamp": "2026-08-19T05:02:51.073728+00:00",
+      "title": "Recul de la disponibilité des oranges sud-africaines sur le marché italien",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "ITA",
+        "ZAF"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Recul de la disponibilité des oranges sud-africaines sur le marché italien -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">La campagne des oranges sud-africaines de Dole en Italie est entrée dans sa phase active et devrait durer jusqu&#x27;en novembre. Cependant, le début de saison est marqué par des événements climatiques défavorables et des difficultés logistiques qui ont réduit la disponibilité des fruits sur le marché par rapport aux prévisions initiales. <span class=\"news-reason\">Alerte sur les volumes d&#x27;un produit concurrent direct (orange Afrique du Sud) sur un marché clé (Italie).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864256/la-campagna-delle-arance-provenienti-dal-sudafrica-entra-nel-vivo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Decrease in availability of South African oranges on the Italian market -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">Dole's South African orange campaign in Italy has entered its active phase and is expected to last until November. However, the start of the season is marked by unfavorable weather events and logistical difficulties that have reduced fruit availability on the market compared to initial forecasts. <span class=\"news-reason\">Alert on the volumes of a direct competitor product (South African orange) in a key market (Italy).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864256/la-campagna-delle-arance-provenienti-dal-sudafrica-entra-nel-vivo/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ירידה בזמינות של תפוזים מדרום אפריקה בשוק האיטלקי -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">קמפיין התפוזים מדרום אפריקה של דול (Dole) באיטליה נכנס לשלב הפעיל שלו וצפוי להימשך עד נובמבר. עם זאת, תחילת העונה מתאפיינת באירועי אקלים קשים ובקשיים לוגיסטיים שצמצמו את זמינות הפירות בשוק בהשוואה לתחזיות המקוריות. <span class=\"news-reason\">התראה על כמויות של מוצר מתחרה ישיר (תפוז דרום אפריקה) בשוק מרכזי (איטליה).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864256/la-campagna-delle-arance-provenienti-dal-sudafrica-entra-nel-vivo/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1787115771_1",
+      "timestamp": "2026-08-19T05:02:51.073728+00:00",
+      "title": "Pomelos chinois : hausse de l&#x27;offre et stabilité des prix malgré le fret -- 18/08/2026 12:06",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "citrus_grapefruit"
+      ],
+      "origins": [
+        "CHN"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Pomelos chinois : hausse de l&#x27;offre et stabilité des prix malgré le fret -- <span class=\"news-date\">18/08/2026 12:06</span></div><div class=\"news-body\">Le lancement de la nouvelle saison des pomelos de Pinghe se caractérise par une récolte plus abondante et une qualité stable. Les prix sont légèrement inférieurs à ceux de l&#x27;année passée. Toutefois, la persistance de tarifs d&#x27;expédition élevés pèse lourdement sur les coûts d&#x27;exportation globaux selon la direction de Liping Fruit. <span class=\"news-reason\">Données sur les volumes et prix d&#x27;un produit Mehadrin (pomelo) chez un concurrent majeur (Chine).</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9863944/chinese-pomelo-s-meer-aanbod-stabiele-kwaliteit-maar-hoge-scheepvaarttarieven-drukken-op-exportkosten/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Chinese pomelos: increase in supply and stable prices despite freight -- <span class=\"news-date\">18/08/2026 12:06</span></div><div class=\"news-body\">The launch of the new Pinghe pomelo season is characterized by a more abundant harvest and stable quality. Prices are slightly lower than last year. However, the persistence of high shipping rates is weighing heavily on overall export costs according to Liping Fruit management. <span class=\"news-reason\">Data on volumes and prices of a Mehadrin product (pomelo) at a major competitor (China).</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9863944/chinese-pomelo-s-meer-aanbod-stabiele-kwaliteit-maar-hoge-scheepvaarttarieven-drukken-op-exportkosten/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">פומלו סיני: עלייה בהיצע ויציבות מחירים למרות עלויות ההובלה -- <span class=\"news-date\">18/08/2026 12:06</span></div><div class=\"news-body\">השקת העונה החדשה של הפומלו מפינגה (Pinghe) מתאפיינת ביבול שופע יותר ובאיכות יציבה. המחירים נמוכים מעט מאלה של השנה שעברה. עם זאת, המשך מחירי השילוח הגבוהים מכביד מאוד על עלויות הייצוא הכוללות, לפי הנהלת Liping Fruit. <span class=\"news-reason\">נתונים על כמויות ומחירים של מוצר מהדרין (פומלו) אצל מתחרה מרכזי (סין).</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9863944/chinese-pomelo-s-meer-aanbod-stabiele-kwaliteit-maar-hoge-scheepvaarttarieven-drukken-op-exportkosten/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1787115771_0",
+      "timestamp": "2026-08-19T05:02:51.073728+00:00",
+      "title": "Forte progression de la demande indienne pour les agrumes sud-africains -- 19/08/2026 06:00",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine",
+        "orange"
+      ],
+      "origins": [
+        "ZAF",
+        "IND"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Forte progression de la demande indienne pour les agrumes sud-africains -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">Chez Rederberg Estates en Afrique du Sud, la récolte et le conditionnement des mandarines se prolongent exceptionnellement alors que la saison des oranges Valencia débute. Des pluies hivernales sont tombées le 12 août dans cette zone subtropicale. Malgré un droit de douane de 30 %, la demande indienne pour les agrumes sud-africains est en forte progression cette année. <span class=\"news-reason\">Informations sur la concurrence (Afrique du Sud) concernant les mandarines et oranges Valencia avec mention de conditions climatiques.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863128/forte-aumento-della-domanda-indiana-di-agrumi-sudafricani-nonostante-il-dazio-del-30-per-cento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Strong growth in Indian demand for South African citrus -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">At Rederberg Estates in South Africa, the harvesting and packing of mandarins are exceptionally prolonged as the Valencia orange season begins. Winter rains fell on August 12 in this subtropical zone. Despite a 30% tariff, Indian demand for South African citrus is showing strong growth this year. <span class=\"news-reason\">Competition information (South Africa) concerning mandarins and Valencia oranges with mention of climatic conditions.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863128/forte-aumento-della-domanda-indiana-di-agrumi-sudafricani-nonostante-il-dazio-del-30-per-cento/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">עלייה חדה בביקוש ההודי להדרים מדרום אפריקה -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">ב-Rederberg Estates שבדרום אפריקה, קטיף ואריזת המנדרינות מתארכים באופן חריג בעוד עונת תפוזי הוולנסיה מתחילה. גשמי חורף ירדו ב-12 באוגוסט באזור סובטרופי זה. למרות מכס של 30%, הביקוש ההודי להדרים מדרום אפריקה נמצא בעלייה חדה השנה. <span class=\"news-reason\">מידע על תחרות (דרום אפריקה) בנוגע למנדרינות ותפוזי ולנסיה בצירוף אזכור תנאי האקלים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863128/forte-aumento-della-domanda-indiana-di-agrumi-sudafricani-nonostante-il-dazio-del-30-per-cento/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1787077944_1",
       "timestamp": "2026-08-18T18:32:24.128163+00:00",
@@ -172,7 +243,7 @@
     {
       "id": "1787045539_1",
       "timestamp": "2026-08-18T09:32:19.345449+00:00",
-      "title": "La récolte de pomelos chinois de Pinghe progresse de 10 %",
+      "title": "La récolte de pomelos chinois de Pinghe affiche une hausse de 10 %",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -183,7 +254,7 @@
       "origins": [
         "CHN"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La récolte de pomelos chinois de Pinghe progresse de 10 % -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">La nouvelle saison des pomelos de Pinghe entre en phase d&#x27;exportation avec une hausse de production estimée à environ 10 %. Si la qualité globale est jugée stable, les prix sont légèrement inférieurs à ceux de l&#x27;année dernière. Les exportateurs signalent également que les coûts élevés du fret maritime continuent de peser sur les expéditions. <span class=\"news-reason\">Informations précises sur les volumes et prix d&#x27;une origine concurrente majeure pour les pomelos.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863948/pomelo-ernte-steigt-in-dieser-saison-um-rund-10-hohe-seefrachtkosten-belasten-den-export/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La récolte de pomelos chinois de Pinghe affiche une hausse de 10 % -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">La nouvelle saison des pomelos de Pinghe entre en phase d&#x27;exportation avec une hausse de production estimée à environ 10 %. Si la qualité globale est jugée stable, les prix sont légèrement inférieurs à ceux de l&#x27;année dernière. Les exportateurs signalent également que les coûts élevés du fret maritime continuent de peser sur les expéditions. <span class=\"news-reason\">Informations précises sur les volumes et prix d&#x27;une origine concurrente majeure pour les pomelos.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863948/pomelo-ernte-steigt-in-dieser-saison-um-rund-10-hohe-seefrachtkosten-belasten-den-export/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">10% increase in the Pinghe Chinese pomelo harvest -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">The new Pinghe pomelo season is entering the export phase with a production increase estimated at around 10%. While overall quality is considered stable, prices are slightly lower than last year. Exporters also report that high ocean freight costs continue to weigh on shipments. <span class=\"news-reason\">Precise information on volumes and prices for a major competing origin for pomelos.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863948/pomelo-ernte-steigt-in-dieser-saison-um-rund-10-hohe-seefrachtkosten-belasten-den-export/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">עלייה של 10% ביבול הפומלה הסינית מפינגה -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">עונת הפומלה החדשה של פינגה נכנסת לשלב הייצוא עם עלייה בייצור המוערכת בכ-10%. בעוד שהאיכות הכוללת נחשבת ליציבה, המחירים נמוכים מעט מאלו של השנה שעברה. היצואנים מדווחים גם כי עלויות ההובלה הימית הגבוהות ממשיכות להכביד על המשלוחים. <span class=\"news-reason\">מידע מדויק על הכמויות והמחירים של מקור מתחרה מרכזי לפומלה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863948/pomelo-ernte-steigt-in-dieser-saison-um-rund-10-hohe-seefrachtkosten-belasten-den-export/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -239,7 +310,7 @@
     {
       "id": "1786986152_0",
       "timestamp": "2026-08-17T17:02:32.564458+00:00",
-      "title": "Kenya : l’attractivité de la filière avocat suscite l’engouement de la jeune génération d’agriculteurs",
+      "title": "Kenya : l’attractivité de la filière de l’avocat mobilise la jeune génération d’agriculteurs",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -250,14 +321,14 @@
       "origins": [
         "KEN"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Kenya : l’attractivité de la filière avocat suscite l’engouement de la jeune génération d’agriculteurs -- <span class=\"news-date\">17/08/2026 15:12</span></div><div class=\"news-body\">Au Kenya, la culture de l&#x27;avocat suscite un vif intérêt chez les jeunes producteurs. Selon l&#x27;entrepreneur Elijah Sawe, une exploitation de 0,4 hectare bien gérée peut générer un revenu brut annuel allant jusqu&#x27;à 9 500 euros. Cette dynamique illustre l&#x27;attractivité économique de la filière dans le pays, soutenue par des conditions de marché favorables. <span class=\"news-reason\">Info sur l&#x27;attractivité économique et l&#x27;expansion de la production d&#x27;avocats au Kenya, un pays concurrent, avec des données chiffrées sur le rendement financier.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863468/el-aguacate-keniano-seduce-a-los-jovenes-agricultores/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Kenya : l’attractivité de la filière de l’avocat mobilise la jeune génération d’agriculteurs -- <span class=\"news-date\">17/08/2026 15:12</span></div><div class=\"news-body\">Au Kenya, la culture de l&#x27;avocat suscite un vif intérêt chez les jeunes producteurs. Selon l&#x27;entrepreneur Elijah Sawe, une exploitation de 0,4 hectare bien gérée peut générer un revenu brut annuel allant jusqu&#x27;à 9 500 euros. Cette dynamique illustre l&#x27;attractivité économique de la filière dans le pays, soutenue par des conditions de marché favorables. <span class=\"news-reason\">Info sur l&#x27;attractivité économique et l&#x27;expansion de la production d&#x27;avocats au Kenya, un pays concurrent, avec des données chiffrées sur le rendement financier.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863468/el-aguacate-keniano-seduce-a-los-jovenes-agricultores/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Kenya: avocado profitability attracts young farmers -- <span class=\"news-date\">17/08/2026 15:12</span></div><div class=\"news-body\">In Kenya, avocado cultivation is sparking strong interest among young producers. According to entrepreneur Elijah Sawe, a well-managed 0.4-hectare farm can generate an annual gross income of up to 9,500 euros. This dynamic illustrates the economic attractiveness of the sector in the country, supported by favorable market conditions. <span class=\"news-reason\">Information on the economic attractiveness and expansion of avocado production in Kenya, a competing country, with figures on financial returns.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863468/el-aguacate-keniano-seduce-a-los-jovenes-agricultores/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">קניה: רווחיות האבוקדו מושכת חקלאים צעירים -- <span class=\"news-date\">17/08/2026 15:12</span></div><div class=\"news-body\">בקניה, גידול האבוקדו מעורר עניין רב בקרב מגדלים צעירים. לפי היזם אליהו סאווה, משק של 0.4 הקטר המנוהל היטב יכול לייצר הכנסה גולמית שנתית של עד 9,500 אירו. דינמיקה זו ממחישה את האטרקטיביות הכלכלית של הענף במדינה, הנתמכת בתנאי שוק נוחים. <span class=\"news-reason\">מידע על האטרקטיביות הכלכלית והתרחבות ייצור האבוקדו בקניה, מדינה מתחרה, עם נתונים מספריים על התשואה הפיננסית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863468/el-aguacate-keniano-seduce-a-los-jovenes-agricultores/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1786980765_1",
       "timestamp": "2026-08-17T15:32:45.873318+00:00",
-      "title": "Impact d&#x27;un séisme de magnitude 7,4 sur la filière de l&#x27;avocat colombien",
+      "title": "Impact d’un séisme de magnitude 7,4 sur la filière de l’avocat colombien",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -268,7 +339,7 @@
       "origins": [
         "COL"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact d&#x27;un séisme de magnitude 7,4 sur la filière de l&#x27;avocat colombien -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">Un séisme de magnitude 7,4 a frappé l&#x27;ouest de la Colombie le 10 août 2026, avec un épicentre situé entre les départements de Chocó et Risaralda. Les secousses ont été fortement ressenties dans les principales zones de culture d&#x27;avocats Hass, notamment à Medellín et Pereira, laissant craindre des perturbations logistiques. <span class=\"news-reason\">Alerte supply liée à une catastrophe naturelle impactant les zones de production d&#x27;un concurrent direct.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861832/terremoto-in-colombia-l-impatto-sulle-aree-di-coltivazione-dell-avocado-hass-ancora-da-quantificare/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact d’un séisme de magnitude 7,4 sur la filière de l’avocat colombien -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">Un séisme de magnitude 7,4 a frappé l&#x27;ouest de la Colombie le 10 août 2026, avec un épicentre situé entre les départements de Chocó et Risaralda. Les secousses ont été fortement ressenties dans les principales zones de culture d&#x27;avocats Hass, notamment à Medellín et Pereira, laissant craindre des perturbations logistiques. <span class=\"news-reason\">Alerte supply liée à une catastrophe naturelle impactant les zones de production d&#x27;un concurrent direct.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861832/terremoto-in-colombia-l-impatto-sulle-aree-di-coltivazione-dell-avocado-hass-ancora-da-quantificare/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Repercussions of a 7.4 magnitude earthquake on the Colombian avocado industry -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">A magnitude 7.4 earthquake struck western Colombia on August 10, 2026, with an epicenter located between the departments of Chocó and Risaralda. The tremors were strongly felt in the main Hass avocado growing areas, notably in Medellín and Pereira, raising fears of logistical disruptions. <span class=\"news-reason\">Supply alert related to a natural disaster impacting the production areas of a direct competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861832/terremoto-in-colombia-l-impatto-sulle-aree-di-coltivazione-dell-avocado-hass-ancora-da-quantificare/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השלכות של רעידת אדמה בעוצמה 7.4 על ענף האבוקדו הקולומביאני -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">רעידת אדמה בעוצמה 7.4 פגעה במערב קולומביה ב-10 באוגוסט 2026, עם מוקד הממוקם בין המחוזות צ'וקו וריסרלדה. הרעידות הורגשו בעוצמה באזורי הגידול העיקריים של אבוקדו האס, במיוחד במדיין ובפריירה, מה שמעורר חשש לשיבושים לוגיסטיים. <span class=\"news-reason\">התראת אספקה הקשורה לאסון טבע המשפיע על אזורי הייצור של מתחרה ישיר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861832/terremoto-in-colombia-l-impatto-sulle-aree-di-coltivazione-dell-avocado-hass-ancora-da-quantificare/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
