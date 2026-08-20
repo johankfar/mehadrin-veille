@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-20T08:03:16.050708+00:00",
-  "article_count": 39,
+  "last_updated": "2026-08-20T09:34:21.549470+00:00",
+  "article_count": 40,
   "attention_points": [
     {
-      "id": "attention-01260d15d04354df",
-      "article_id": "1787202206_0",
-      "url": "https://www.freshplaza.it/article/9863147/le-esportazioni-per-la-campagna-avocado-che-termina-ad-agosto-sono-diminuite-del-50-60-per-cento/",
-      "source": "FreshPlaza IT",
-      "title": "Chute de 50 à 60 % des exportations d'avocats",
-      "summary": "En Colombie, le secteur de l'avocat Hass traverse l'une des périodes les plus difficiles de son histoire.",
-      "origin_code": "COL",
-      "origin_label": "Colombie",
-      "published_at": "2026-08-20T06:05:00+02:00",
+      "id": "attention-8dc71f6244a7c3f7",
+      "article_id": "1787218461_0",
+      "url": "https://www.freshplaza.de/article/9864906/lieferprogramme-erneut-ausgeweitet/",
+      "source": "FreshPlaza DE",
+      "title": "Expansion des programmes de distribution d'avocats biologiques mexicains vers",
+      "summary": "Eosta et Avova ont annoncé une expansion significative de leur production d'avocats biologiques 'Organic Raingrown' pour la saison en cours.",
+      "origin_code": "MEX",
+      "origin_label": "Mexique",
+      "published_at": "2026-08-20T10:58:00+02:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
@@ -19,7 +19,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 3
+      "age_hours": 0
     },
     {
       "id": "attention-5835b4e1edcc081c",
@@ -38,7 +38,7 @@
       "products": [
         "melon"
       ],
-      "age_hours": 20
+      "age_hours": 22
     },
     {
       "id": "attention-d944aabee685ac19",
@@ -57,7 +57,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 21
+      "age_hours": 23
     },
     {
       "id": "attention-b224a9d3427875e2",
@@ -76,10 +76,28 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 28
+      "age_hours": 29
     }
   ],
   "articles": [
+    {
+      "id": "1787218461_0",
+      "timestamp": "2026-08-20T09:34:21.549470+00:00",
+      "title": "Expansion des programmes de distribution d&#x27;avocats biologiques mexicains vers l&#x27;Europe",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MEX"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Expansion des programmes de distribution d&#x27;avocats biologiques mexicains vers l&#x27;Europe -- <span class=\"news-date\">20/08/2026 10:58</span></div><div class=\"news-body\">Eosta et Avova ont annoncé une expansion significative de leur production d&#x27;avocats biologiques &#x27;Organic Raingrown&#x27; pour la saison en cours. Avova, spécialiste basé dans le Michoacán au Mexique, commence ses premières expéditions vers le marché européen cette semaine. <span class=\"news-reason\">Information sur l&#x27;expansion commerciale d&#x27;un concurrent (Eosta/Avova) sur le marché européen de l&#x27;avocat bio.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9864906/lieferprogramme-erneut-ausgeweitet/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">BRAND MOVEMENTS</div><div class=\"news-title\">Expansion of Mexican organic avocado delivery programs to Europe -- <span class=\"news-date\">20/08/2026 10:58</span></div><div class=\"news-body\">Eosta and Avova have announced a significant expansion of their 'Organic Raingrown' organic avocado production for the current season. Avova, a specialist based in Michoacán, Mexico, is starting its first shipments to the European market this week. <span class=\"news-reason\">Information on the commercial expansion of a competitor (Eosta/Avova) in the European organic avocado market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9864906/lieferprogramme-erneut-ausgeweitet/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">פעילות רשתות שיווק</div><div class=\"news-title\">התרחבות תוכניות האספקה של אבוקדו אורגני מקסיקני לאירופה -- <span class=\"news-date\">20/08/2026 10:58</span></div><div class=\"news-body\">חברות Eosta ו-Avova הכריזו על הרחבה משמעותית של ייצור האבוקדו האורגני &#x27;Organic Raingrown&#x27; לעונה הנוכחית. Avova, מומחית הממוקמת במיצ&#x27;ואקן שבמקסיקו, מתחילה השבוע את המשלוחים הראשונים שלה לשוק האירופי. <span class=\"news-reason\">מידע על התרחבות מסחרית של מתחרה (Eosta/Avova) בשוק האבוקדו האורגני האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9864906/lieferprogramme-erneut-ausgeweitet/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1787207610_1",
       "timestamp": "2026-08-20T06:33:30.078779+00:00",
@@ -289,7 +307,7 @@
     {
       "id": "1787137401_2",
       "timestamp": "2026-08-19T11:03:21.356795+00:00",
-      "title": "Melon Reame : l’uniformité et la qualité face aux défis climatiques",
+      "title": "Melon Reame : l’uniformité et la qualité face aux enjeux climatiques",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Sébastien"
@@ -300,7 +318,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Melon Reame : l’uniformité et la qualité face aux défis climatiques -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">La recherche variétale a introduit le melon Reame pour répondre aux exigences croissantes de la filière en Italie. Cette variété vise à offrir une meilleure uniformité et une qualité constante malgré la variabilité climatique. L&#x27;objectif est d&#x27;assurer une continuité de production et de répondre aux standards élevés des distributeurs. <span class=\"news-reason\">Info marché sur une nouvelle variété concurrente pour un produit en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864387/il-melone-reame-porta-in-campo-qualita-uniformita-e-valore-per-la-filiera/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Melon Reame : l’uniformité et la qualité face aux enjeux climatiques -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">La recherche variétale a introduit le melon Reame pour répondre aux exigences croissantes de la filière en Italie. Cette variété vise à offrir une meilleure uniformité et une qualité constante malgré la variabilité climatique. L&#x27;objectif est d&#x27;assurer une continuité de production et de répondre aux standards élevés des distributeurs. <span class=\"news-reason\">Info marché sur une nouvelle variété concurrente pour un produit en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864387/il-melone-reame-porta-in-campo-qualita-uniformita-e-valore-per-la-filiera/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Reame melon focuses on uniformity and quality in the face of climate challenges -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">Varietal research introduced the Reame melon to meet the growing demands of the industry in Italy. This variety aims to offer better uniformity and consistent quality despite climate variability. The goal is to ensure production continuity and meet the high standards of distributors. <span class=\"news-reason\">Market info on a new competing variety for a product in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864387/il-melone-reame-porta-in-campo-qualita-uniformita-e-valore-per-la-filiera/\" target=\"_blank\">FreshPlaza IT -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">מלון Reame מתמקד באחידות ואיכות מול אתגרי האקלים -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">מחקר הזנים הציג את מלון Reame כדי לענות על הדרישות הגוברות של הענף באיטליה. זן זה שואף להציע אחידות טובה יותר ואיכות עקבית למרות שינויי האקלים. המטרה היא להבטיח רציפות בייצור ולעמוד בסטנדרטים הגבוהים של המפיצים. <span class=\"news-reason\">מידע שוק על זן מתחרה חדש למוצר בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864387/il-melone-reame-porta-in-campo-qualita-uniformita-e-valore-per-la-filiera/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -391,7 +409,7 @@
     {
       "id": "1787115771_3",
       "timestamp": "2026-08-19T05:02:51.073728+00:00",
-      "title": "La filière agrumicole sicilienne face aux défis de la sécheresse et de l&#x27;augmentation des coûts",
+      "title": "La filière agrumicole sicilienne face aux enjeux de la sécheresse et de la hausse des coûts",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -400,7 +418,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La filière agrumicole sicilienne face aux défis de la sécheresse et de l&#x27;augmentation des coûts -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">L&#x27;agrumiculture en Sicile, pilier du secteur italien, fait face à des défis critiques mettant en péril la durabilité économique des exploitations. La pénurie d&#x27;eau, les événements climatiques extrêmes et l&#x27;augmentation des coûts de production menacent la filière de collapsus en l&#x27;absence de soutien public renforcé. <span class=\"news-reason\">Alerte supply sur une origine concurrente (Sicile) pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864107/agrumi-bene-la-qualita-ma-senza-sostegno-pubblico-la-filiera-rischia-il-collasso/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La filière agrumicole sicilienne face aux enjeux de la sécheresse et de la hausse des coûts -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">L&#x27;agrumiculture en Sicile, pilier du secteur italien, fait face à des défis critiques mettant en péril la durabilité économique des exploitations. La pénurie d&#x27;eau, les événements climatiques extrêmes et l&#x27;augmentation des coûts de production menacent la filière de collapsus en l&#x27;absence de soutien public renforcé. <span class=\"news-reason\">Alerte supply sur une origine concurrente (Sicile) pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864107/agrumi-bene-la-qualita-ma-senza-sostegno-pubblico-la-filiera-rischia-il-collasso/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">The Sicilian citrus industry threatened by drought and rising costs -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">Citrus farming in Sicily, a pillar of the Italian sector, faces critical challenges endangering the economic sustainability of farms. Water shortages, extreme weather events, and increasing production costs threaten the industry with collapse in the absence of strengthened public support. <span class=\"news-reason\">Supply alert on a competing origin (Sicily) for citrus.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864107/agrumi-bene-la-qualita-ma-senza-sostegno-pubblico-la-filiera-rischia-il-collasso/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ענף ההדרים הסיציליאני מאוים על ידי הבצורת ועליית העלויות -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">גידול ההדרים בסיציליה, עמוד תווך של המגזר האיטלקי, עומד בפני אתגרים קריטיים המסכנים את היציבות הכלכלית של המשקים. המחסור במים, אירועי אקלים קיצוניים והעלייה בעלויות הייצור מאיימים על הענף בקריסה ללא תמיכה ציבורית מוגברת. <span class=\"news-reason\">התראת אספקה על מקור מתחרה (סיציליה) עבור הדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864107/agrumi-bene-la-qualita-ma-senza-sostegno-pubblico-la-filiera-rischia-il-collasso/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -573,14 +591,14 @@
     {
       "id": "1787045539_0",
       "timestamp": "2026-08-18T09:32:19.345449+00:00",
-      "title": "Fin de la récolte des pastèques dans le Tyrol autrichien",
+      "title": "Fin de la récolte de pastèques dans le Tyrol autrichien",
       "category": "ALERTES SUPPLY",
       "commercials": [],
       "products": [
         "watermelon"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Fin de la récolte des pastèques dans le Tyrol autrichien -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">La campagne de pastèques dans le Tyrol touche à sa fin avec des livraisons prévues jusqu&#x27;à la fin de la semaine 35. Bien que la demande locale progresse, la rentabilité de la culture sur les quatre hectares exploités par Ulrichshof GmbH reste jugée trop faible actuellement. <span class=\"news-reason\">Annonce de fin de campagne pour une origine concurrente sur un produit Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863960/tiroler-wassermelone-findet-zunehmend-akzeptanz-die-rentabilitat-ist-aber-bislang-noch-zu-gering/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Fin de la récolte de pastèques dans le Tyrol autrichien -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">La campagne de pastèques dans le Tyrol touche à sa fin avec des livraisons prévues jusqu&#x27;à la fin de la semaine 35. Bien que la demande locale progresse, la rentabilité de la culture sur les quatre hectares exploités par Ulrichshof GmbH reste jugée trop faible actuellement. <span class=\"news-reason\">Annonce de fin de campagne pour une origine concurrente sur un produit Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863960/tiroler-wassermelone-findet-zunehmend-akzeptanz-die-rentabilitat-ist-aber-bislang-noch-zu-gering/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">End of the watermelon harvest in the Austrian Tyrol -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">The watermelon campaign in Tyrol is coming to an end with deliveries scheduled until the end of week 35. Although local demand is growing, the profitability of cultivation on the four hectares operated by Ulrichshof GmbH is still considered too low at present. <span class=\"news-reason\">End of campaign announcement for a competing origin on a seasonal Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863960/tiroler-wassermelone-findet-zunehmend-akzeptanz-die-rentabilitat-ist-aber-bislang-noch-zu-gering/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סיום קטיף האבטיחים בטירול האוסטרית -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">עונת האבטיחים בטירול מגיעה לסיומה עם משלוחים המתוכננים עד סוף שבוע 35. למרות שהביקוש המקומי נמצא במגמת עלייה, הרווחיות של הגידול בארבעת ההקטרים המופעלים על ידי Ulrichshof GmbH נחשבת כיום לנמוכה מדי. <span class=\"news-reason\">הודעה על סיום העונה עבור מקור מתחרה למוצר מהדרין בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863960/tiroler-wassermelone-findet-zunehmend-akzeptanz-die-rentabilitat-ist-aber-bislang-noch-zu-gering/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
@@ -622,7 +640,7 @@
     {
       "id": "1786986152_0",
       "timestamp": "2026-08-17T17:02:32.564458+00:00",
-      "title": "Kenya : le dynamisme de la filière avocat mobilise une nouvelle génération d’exploitants agricoles",
+      "title": "Kenya : le dynamisme de la filière de l&#x27;avocat mobilise une nouvelle génération d&#x27;exploitants agricoles",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -633,7 +651,7 @@
       "origins": [
         "KEN"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Kenya : le dynamisme de la filière avocat mobilise une nouvelle génération d’exploitants agricoles -- <span class=\"news-date\">17/08/2026 15:12</span></div><div class=\"news-body\">Au Kenya, la culture de l&#x27;avocat suscite un vif intérêt chez les jeunes producteurs. Selon l&#x27;entrepreneur Elijah Sawe, une exploitation de 0,4 hectare bien gérée peut générer un revenu brut annuel allant jusqu&#x27;à 9 500 euros. Cette dynamique illustre l&#x27;attractivité économique de la filière dans le pays, soutenue par des conditions de marché favorables. <span class=\"news-reason\">Info sur l&#x27;attractivité économique et l&#x27;expansion de la production d&#x27;avocats au Kenya, un pays concurrent, avec des données chiffrées sur le rendement financier.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863468/el-aguacate-keniano-seduce-a-los-jovenes-agricultores/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Kenya : le dynamisme de la filière de l&#x27;avocat mobilise une nouvelle génération d&#x27;exploitants agricoles -- <span class=\"news-date\">17/08/2026 15:12</span></div><div class=\"news-body\">Au Kenya, la culture de l&#x27;avocat suscite un vif intérêt chez les jeunes producteurs. Selon l&#x27;entrepreneur Elijah Sawe, une exploitation de 0,4 hectare bien gérée peut générer un revenu brut annuel allant jusqu&#x27;à 9 500 euros. Cette dynamique illustre l&#x27;attractivité économique de la filière dans le pays, soutenue par des conditions de marché favorables. <span class=\"news-reason\">Info sur l&#x27;attractivité économique et l&#x27;expansion de la production d&#x27;avocats au Kenya, un pays concurrent, avec des données chiffrées sur le rendement financier.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863468/el-aguacate-keniano-seduce-a-los-jovenes-agricultores/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Kenya: avocado profitability attracts young farmers -- <span class=\"news-date\">17/08/2026 15:12</span></div><div class=\"news-body\">In Kenya, avocado cultivation is sparking strong interest among young producers. According to entrepreneur Elijah Sawe, a well-managed 0.4-hectare farm can generate an annual gross income of up to 9,500 euros. This dynamic illustrates the economic attractiveness of the sector in the country, supported by favorable market conditions. <span class=\"news-reason\">Information on the economic attractiveness and expansion of avocado production in Kenya, a competing country, with figures on financial returns.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863468/el-aguacate-keniano-seduce-a-los-jovenes-agricultores/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">קניה: רווחיות האבוקדו מושכת חקלאים צעירים -- <span class=\"news-date\">17/08/2026 15:12</span></div><div class=\"news-body\">בקניה, גידול האבוקדו מעורר עניין רב בקרב מגדלים צעירים. לפי היזם אליהו סאווה, משק של 0.4 הקטר המנוהל היטב יכול לייצר הכנסה גולמית שנתית של עד 9,500 אירו. דינמיקה זו ממחישה את האטרקטיביות הכלכלית של הענף במדינה, הנתמכת בתנאי שוק נוחים. <span class=\"news-reason\">מידע על האטרקטיביות הכלכלית והתרחבות ייצור האבוקדו בקניה, מדינה מתחרה, עם נתונים מספריים על התשואה הפיננסית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863468/el-aguacate-keniano-seduce-a-los-jovenes-agricultores/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
