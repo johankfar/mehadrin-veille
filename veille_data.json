@@ -1,6 +1,45 @@
 {
-  "last_generated": "2026-08-19T18:33:15.620760+00:00",
+  "last_generated": "2026-08-20T05:03:26.554215+00:00",
   "articles": [
+    {
+      "id": "1787202206_0",
+      "timestamp": "2026-08-20T05:03:26.554215+00:00",
+      "title": "Chute de 50 à 60 % des exportations d&#x27;avocats colombiens pour la campagne s&#x27;achevant en août",
+      "title_hash": "chute 50 à 60 exportations dx27avocats colombiens campagne sx27achevant août",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "COL"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Chute de 50 à 60 % des exportations d&#x27;avocats colombiens pour la campagne s&#x27;achevant en août -- <span class=\"news-date\">20/08/2026 06:05</span></div><div class=\"news-body\">En Colombie, le secteur de l&#x27;avocat Hass traverse l&#x27;une des périodes les plus difficiles de son histoire. Les exportations pour la campagne se terminant en août ont enregistré une baisse massive comprise entre 50 % et 60 %. Cette situation critique touche particulièrement les producteurs du sud-ouest d&#x27;Antioquia, confrontés à une chute des volumes après des années de croissance soutenue. <span class=\"news-reason\">Article contenant des chiffres précis sur la baisse des volumes d&#x27;exportation d&#x27;un pays concurrent majeur pour l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863147/le-esportazioni-per-la-campagna-avocado-che-termina-ad-agosto-sono-diminuite-del-50-60-per-cento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">50 to 60% drop in Colombian avocado exports for the season ending in August -- <span class=\"news-date\">20/08/2026 06:05</span></div><div class=\"news-body\">In Colombia, the Hass avocado sector is going through one of the most difficult periods in its history. Exports for the season ending in August recorded a massive drop of between 50% and 60%. This critical situation particularly affects producers in southwestern Antioquia, facing a drop in volumes after years of sustained growth. <span class=\"news-reason\">Article containing precise figures on the drop in export volumes from a major competitor country for avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863147/le-esportazioni-per-la-campagna-avocado-che-termina-ad-agosto-sono-diminuite-del-50-60-per-cento/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 50% עד 60% בייצוא האבוקדו מקולומביה לעונה המסתיימת באוגוסט -- <span class=\"news-date\">20/08/2026 06:05</span></div><div class=\"news-body\">בקולומביה, ענף אבוקדו האס עובר את אחת התקופות הקשות בתולדותיו. הייצוא לעונה המסתיימת באוגוסט רשם ירידה מאסיבית של בין 50% ל-60%. מצב קריטי זה משפיע במיוחד על המגדלים בדרום-מערב אנטיוקיה, המתמודדים עם צניחה בכמויות לאחר שנים של צמיחה מתמדת. <span class=\"news-reason\">מאמר המכיל נתונים מדויקים על הירידה בכמויות הייצוא של מדינה מתחרה מרכזית בענף האבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863147/le-esportazioni-per-la-campagna-avocado-che-termina-ad-agosto-sono-diminuite-del-50-60-per-cento/\" target=\"_blank\">FreshPlaza IT -- קרא את המאמר</a></div></div>",
+      "rss_metadata": {
+        "id": "rss-01260d15d04354df",
+        "title": "\"Le esportazioni per la campagna avocado che termina ad agosto sono diminuite del 50-60 per cento\"",
+        "summary": "In Colombia, il settore dell'avocado Hass sta affrontando uno dei periodi più difficili dei suoi quasi 20 anni di storia. Secondo Juan David Mondragón Múnera, amministratore delegato della ProcolHass SAS e produttore di avocado nel sud-ovest di Antioquia, il settore, un tempo sostenuto dagli alti prezzi…",
+        "url": "https://www.freshplaza.it/article/9863147/le-esportazioni-per-la-campagna-avocado-che-termina-ad-agosto-sono-diminuite-del-50-60-per-cento/",
+        "source": "FreshPlaza IT",
+        "published_at": "2026-08-20T06:05:00+02:00",
+        "language": "it",
+        "products": [
+          "avocat"
+        ],
+        "origins": [
+          "COL"
+        ]
+      },
+      "attention_enrichment": {
+        "title_fr": "Chute massive des exportations d'avocats en Colombie",
+        "summary_fr": "Baisse de 50 à 60 % des volumes exportés jusqu'en août"
+      },
+      "gemini_score": 9
+    },
     {
       "id": "1787164395_0",
       "timestamp": "2026-08-19T18:33:15.620760+00:00",
@@ -192,7 +231,7 @@
     {
       "id": "1787142815_2",
       "timestamp": "2026-08-19T12:33:35.044029+00:00",
-      "title": "Reprise des exportations d&#x27;avocats mexicains après une suspension pour raisons de sécurité",
+      "title": "Reprise des exportations d&#x27;avocats mexicains après une suspension pour motifs de sécurité",
       "title_hash": "reprise exportations dx27avocats mexicains après suspension raisons sécurité",
       "category": "ALERTES SUPPLY",
       "commercials": [
@@ -205,7 +244,7 @@
         "MEX",
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Reprise des exportations d&#x27;avocats mexicains après une suspension pour raisons de sécurité -- <span class=\"news-date\">18/08/2026 15:40</span></div><div class=\"news-body\">Les exportations mexicaines d&#x27;avocats vers les États-Unis ont repris après la levée d&#x27;une alerte de sécurité qui a suspendu les envois depuis le Michoacán pendant huit jours. Cette suspension a temporairement touché environ 200 000 employés de l&#x27;industrie. <span class=\"news-reason\">Alerte supply majeure sur l&#x27;origine concurrente principale (Mexique) impactant le marché mondial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863907/mexico-reanuda-las-exportaciones-de-aguacate-de-michoacan-tras-la-alerta-de-seguridad-de-ee-uu/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Reprise des exportations d&#x27;avocats mexicains après une suspension pour motifs de sécurité -- <span class=\"news-date\">18/08/2026 15:40</span></div><div class=\"news-body\">Les exportations mexicaines d&#x27;avocats vers les États-Unis ont repris après la levée d&#x27;une alerte de sécurité qui a suspendu les envois depuis le Michoacán pendant huit jours. Cette suspension a temporairement touché environ 200 000 employés de l&#x27;industrie. <span class=\"news-reason\">Alerte supply majeure sur l&#x27;origine concurrente principale (Mexique) impactant le marché mondial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863907/mexico-reanuda-las-exportaciones-de-aguacate-de-michoacan-tras-la-alerta-de-seguridad-de-ee-uu/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Resumption of Mexican avocado exports after a suspension for security reasons -- <span class=\"news-date\">18/08/2026 15:40</span></div><div class=\"news-body\">Mexican avocado exports to the United States have resumed after the lifting of a security alert that suspended shipments from Michoacán for eight days. This suspension temporarily affected approximately 200,000 industry employees. <span class=\"news-reason\">Major supply alert on the main competing origin (Mexico) impacting the global market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863907/mexico-reanuda-las-exportaciones-de-aguacate-de-michoacan-tras-la-alerta-de-seguridad-de-ee-uu/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">חידוש יצוא האבוקדו המקסיקני לאחר השעיה מסיבות ביטחוניות -- <span class=\"news-date\">18/08/2026 15:40</span></div><div class=\"news-body\">יצוא האבוקדו המקסיקני לארצות הברית חודש לאחר הסרת התרעת אבטחה שהשעתה את המשלוחים ממיצ'ואקאן למשך שמונה ימים. השעיה זו השפיעה זמנית על כ-200,000 עובדים בתעשייה. <span class=\"news-reason\">התראת אספקה משמעותית לגבי המקור המתחרה העיקרי (מקסיקו) המשפיעה על השוק העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863907/mexico-reanuda-las-exportaciones-de-aguacate-de-michoacan-tras-la-alerta-de-seguridad-de-ee-uu/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -554,7 +593,7 @@
     {
       "id": "1787131961_0",
       "timestamp": "2026-08-19T09:32:41.789802+00:00",
-      "title": "Impact des aléas climatiques sur la production d&#x27;avocats au Maroc à fin août",
+      "title": "Impact des aléas climatiques sur la production d&#x27;avocats au Maroc à la fin du mois d&#x27;août",
       "title_hash": "impact risques climatiques production dx27avocats maroc fin août",
       "category": "ALERTES SUPPLY",
       "commercials": [
@@ -566,7 +605,7 @@
       "origins": [
         "MAR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact des aléas climatiques sur la production d&#x27;avocats au Maroc à fin août -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">Les producteurs d&#x27;avocats de la région du Gharb au Maroc s&#x27;inquiètent d&#x27;une possible vague de chaleur à la fin du mois d&#x27;août. Ils craignent une répétition des dommages subis lors de la campagne 2025, où les conditions climatiques extrêmes avaient lourdement impacté le développement des fruits. <span class=\"news-reason\">Alerte sur la production d&#x27;une origine concurrente directe (Maroc) pour un produit Mehadrin (avocat).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861738/i-coltivatori-marocchini-di-avocado-si-preparano-a-un-fine-agosto-rischioso/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact des aléas climatiques sur la production d&#x27;avocats au Maroc à la fin du mois d&#x27;août -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">Les producteurs d&#x27;avocats de la région du Gharb au Maroc s&#x27;inquiètent d&#x27;une possible vague de chaleur à la fin du mois d&#x27;août. Ils craignent une répétition des dommages subis lors de la campagne 2025, où les conditions climatiques extrêmes avaient lourdement impacté le développement des fruits. <span class=\"news-reason\">Alerte sur la production d&#x27;une origine concurrente directe (Maroc) pour un produit Mehadrin (avocat).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861738/i-coltivatori-marocchini-di-avocado-si-preparano-a-un-fine-agosto-rischioso/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Impact of climate risks on avocado production in Morocco at the end of August -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">Avocado growers in the Gharb region of Morocco are worried about a possible heatwave at the end of August. They fear a repeat of the damage suffered during the 2025 campaign, when extreme weather conditions heavily impacted fruit development. <span class=\"news-reason\">Alert on the production of a direct competing origin (Morocco) for a Mehadrin product (avocado).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861738/i-coltivatori-marocchini-di-avocado-si-preparano-a-un-fine-agosto-rischioso/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השפעת סיכוני האקלים על ייצור האבוקדו במרוקו בסוף אוגוסט -- <span class=\"news-date\">19/08/2026 06:00</span></div><div class=\"news-body\">מגדלי אבוקדו באזור ע'רב שבמרוקו מודאגים מגל חום אפשרי בסוף חודש אוגוסט. הם חוששים מחזרה על הנזקים שנגרמו במהלך עונת 2025, שבה תנאי אקלים קיצוניים השפיעו קשות על התפתחות הפירות. <span class=\"news-reason\">התראה על ייצור של מקור מתחרה ישיר (מרוקו) עבור מוצר מהדרין (אבוקדו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861738/i-coltivatori-marocchini-di-avocado-si-preparano-a-un-fine-agosto-rischioso/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -975,7 +1014,7 @@
     {
       "id": "1787045539_0",
       "timestamp": "2026-08-18T09:32:19.345449+00:00",
-      "title": "Fin de la campagne de récolte de pastèques dans le Tyrol autrichien",
+      "title": "Fin de la récolte des pastèques dans le Tyrol autrichien",
       "title_hash": "fin récolte pastèques tyrol autrichien",
       "category": "ALERTES SUPPLY",
       "commercials": [],
@@ -983,7 +1022,7 @@
         "watermelon"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Fin de la campagne de récolte de pastèques dans le Tyrol autrichien -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">La campagne de pastèques dans le Tyrol touche à sa fin avec des livraisons prévues jusqu&#x27;à la fin de la semaine 35. Bien que la demande locale progresse, la rentabilité de la culture sur les quatre hectares exploités par Ulrichshof GmbH reste jugée trop faible actuellement. <span class=\"news-reason\">Annonce de fin de campagne pour une origine concurrente sur un produit Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863960/tiroler-wassermelone-findet-zunehmend-akzeptanz-die-rentabilitat-ist-aber-bislang-noch-zu-gering/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Fin de la récolte des pastèques dans le Tyrol autrichien -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">La campagne de pastèques dans le Tyrol touche à sa fin avec des livraisons prévues jusqu&#x27;à la fin de la semaine 35. Bien que la demande locale progresse, la rentabilité de la culture sur les quatre hectares exploités par Ulrichshof GmbH reste jugée trop faible actuellement. <span class=\"news-reason\">Annonce de fin de campagne pour une origine concurrente sur un produit Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863960/tiroler-wassermelone-findet-zunehmend-akzeptanz-die-rentabilitat-ist-aber-bislang-noch-zu-gering/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">End of the watermelon harvest in the Austrian Tyrol -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">The watermelon campaign in Tyrol is coming to an end with deliveries scheduled until the end of week 35. Although local demand is growing, the profitability of cultivation on the four hectares operated by Ulrichshof GmbH is still considered too low at present. <span class=\"news-reason\">End of campaign announcement for a competing origin on a seasonal Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863960/tiroler-wassermelone-findet-zunehmend-akzeptanz-die-rentabilitat-ist-aber-bislang-noch-zu-gering/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סיום קטיף האבטיחים בטירול האוסטרית -- <span class=\"news-date\">18/08/2026 10:45</span></div><div class=\"news-body\">עונת האבטיחים בטירול מגיעה לסיומה עם משלוחים המתוכננים עד סוף שבוע 35. למרות שהביקוש המקומי נמצא במגמת עלייה, הרווחיות של הגידול בארבעת ההקטרים המופעלים על ידי Ulrichshof GmbH נחשבת כיום לנמוכה מדי. <span class=\"news-reason\">הודעה על סיום העונה עבור מקור מתחרה למוצר מהדרין בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9863960/tiroler-wassermelone-findet-zunehmend-akzeptanz-die-rentabilitat-ist-aber-bislang-noch-zu-gering/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -1084,7 +1123,7 @@
     {
       "id": "1786986152_0",
       "timestamp": "2026-08-17T17:02:32.564458+00:00",
-      "title": "Kenya : le dynamisme de la filière avocat attire la nouvelle génération d’exploitants agricoles",
+      "title": "Kenya : le dynamisme de la filière avocat attire une nouvelle génération d&#x27;exploitants agricoles",
       "title_hash": "kenya rentabilité lx27avocat attire jeunes agriculteurs",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
@@ -1096,7 +1135,7 @@
       "origins": [
         "KEN"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Kenya : le dynamisme de la filière avocat attire la nouvelle génération d’exploitants agricoles -- <span class=\"news-date\">17/08/2026 15:12</span></div><div class=\"news-body\">Au Kenya, la culture de l&#x27;avocat suscite un vif intérêt chez les jeunes producteurs. Selon l&#x27;entrepreneur Elijah Sawe, une exploitation de 0,4 hectare bien gérée peut générer un revenu brut annuel allant jusqu&#x27;à 9 500 euros. Cette dynamique illustre l&#x27;attractivité économique de la filière dans le pays, soutenue par des conditions de marché favorables. <span class=\"news-reason\">Info sur l&#x27;attractivité économique et l&#x27;expansion de la production d&#x27;avocats au Kenya, un pays concurrent, avec des données chiffrées sur le rendement financier.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863468/el-aguacate-keniano-seduce-a-los-jovenes-agricultores/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Kenya : le dynamisme de la filière avocat attire une nouvelle génération d&#x27;exploitants agricoles -- <span class=\"news-date\">17/08/2026 15:12</span></div><div class=\"news-body\">Au Kenya, la culture de l&#x27;avocat suscite un vif intérêt chez les jeunes producteurs. Selon l&#x27;entrepreneur Elijah Sawe, une exploitation de 0,4 hectare bien gérée peut générer un revenu brut annuel allant jusqu&#x27;à 9 500 euros. Cette dynamique illustre l&#x27;attractivité économique de la filière dans le pays, soutenue par des conditions de marché favorables. <span class=\"news-reason\">Info sur l&#x27;attractivité économique et l&#x27;expansion de la production d&#x27;avocats au Kenya, un pays concurrent, avec des données chiffrées sur le rendement financier.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863468/el-aguacate-keniano-seduce-a-los-jovenes-agricultores/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Kenya: avocado profitability attracts young farmers -- <span class=\"news-date\">17/08/2026 15:12</span></div><div class=\"news-body\">In Kenya, avocado cultivation is sparking strong interest among young producers. According to entrepreneur Elijah Sawe, a well-managed 0.4-hectare farm can generate an annual gross income of up to 9,500 euros. This dynamic illustrates the economic attractiveness of the sector in the country, supported by favorable market conditions. <span class=\"news-reason\">Information on the economic attractiveness and expansion of avocado production in Kenya, a competing country, with figures on financial returns.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863468/el-aguacate-keniano-seduce-a-los-jovenes-agricultores/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">קניה: רווחיות האבוקדו מושכת חקלאים צעירים -- <span class=\"news-date\">17/08/2026 15:12</span></div><div class=\"news-body\">בקניה, גידול האבוקדו מעורר עניין רב בקרב מגדלים צעירים. לפי היזם אליהו סאווה, משק של 0.4 הקטר המנוהל היטב יכול לייצר הכנסה גולמית שנתית של עד 9,500 אירו. דינמיקה זו ממחישה את האטרקטיביות הכלכלית של הענף במדינה, הנתמכת בתנאי שוק נוחים. <span class=\"news-reason\">מידע על האטרקטיביות הכלכלית והתרחבות ייצור האבוקדו בקניה, מדינה מתחרה, עם נתונים מספריים על התשואה הפיננסית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9863468/el-aguacate-keniano-seduce-a-los-jovenes-agricultores/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -1377,104 +1416,28 @@
         "summary_fr": "Les prix à l'exportation augmentent pour cette saison."
       },
       "gemini_score": 10
-    },
-    {
-      "id": "1786942923_1",
-      "timestamp": "2026-08-17T05:02:03.238704+00:00",
-      "title": "20 millions d&#x27;euros investis dans la filière de l&#x27;avocat en Sicile",
-      "title_hash": "investissement 20 millions dx27euros filière lx27avocat sicile",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "ITA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">20 millions d&#x27;euros investis dans la filière de l&#x27;avocat en Sicile -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">La Società Agricola Halaesa, soutenue par le cabinet de conseil PTS, a finalisé une opération de financement de 20 millions d&#x27;euros. Ces fonds sont destinés à structurer et développer la filière de production d&#x27;avocats en Sicile, visant une croissance stratégique sur le marché des fruits tropicaux en Italie. <span class=\"news-reason\">Investissement majeur dans la filière d&#x27;un produit Mehadrin (avocat) chez un concurrent européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863514/un-operazione-da-20-milioni-di-euro-per-la-crescita-della-filiera-dell-avocado-in-sicilia/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Investment of 20 million euros in the Sicilian avocado sector -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">Società Agricola Halaesa, supported by the PTS consulting firm, has finalized a 20 million euro financing operation. These funds are intended to structure and develop the avocado production sector in Sicily, aiming for strategic growth in the Italian tropical fruit market. <span class=\"news-reason\">Major investment in the sector of a Mehadrin product (avocado) by a European competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863514/un-operazione-da-20-milioni-di-euro-per-la-crescita-della-filiera-dell-avocado-in-sicilia/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות רשתות</div><div class=\"news-title\">השקעה של 20 מיליון אירו בענף האבוקדו בסיציליה -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">חברת Società Agricola Halaesa, בתמיכת חברת הייעוץ PTS, השלימה עסקת מימון של 20 מיליון אירו. כספים אלו מיועדים לארגון ופיתוח ענף ייצור האבוקדו בסיציליה, במטרה להשיג צמיחה אסטרטגית בשוק הפירות הטרופיים באיטליה. <span class=\"news-reason\">השקעה משמעותית בענף של מוצר מהדרין (אבוקדו) אצל מתחרה אירופאי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863514/un-operazione-da-20-milioni-di-euro-per-la-crescita-della-filiera-dell-avocado-in-sicilia/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>",
-      "rss_metadata": {
-        "id": "rss-084e3f3924a4a69c",
-        "title": "Un'operazione da 20 milioni di euro per la crescita della filiera dell'avocado in Sicilia",
-        "summary": "PTS, gruppo attivo nella consulenza strategica, finanziaria e operativa per imprese, intermediari finanziari e Pubblica Amministrazione, ha assistito in qualità di advisor finanziario, la Società Agricola Halaesa - Società Benefit, partecipata da un club deal di investitori e attiva nel settore…",
-        "url": "https://www.freshplaza.it/article/9863514/un-operazione-da-20-milioni-di-euro-per-la-crescita-della-filiera-dell-avocado-in-sicilia/",
-        "source": "FreshPlaza IT",
-        "published_at": "2026-08-17T06:00:00+02:00",
-        "language": "it",
-        "products": [
-          "avocat"
-        ],
-        "origins": [
-          "ITA"
-        ]
-      },
-      "attention_enrichment": {
-        "title_fr": "Investissement de 20 millions d'euros dans l'avocat sicilien",
-        "summary_fr": "Financement majeur pour le développement de la production d'avocats en Sicile"
-      },
-      "gemini_score": 6
-    },
-    {
-      "id": "1786942923_0",
-      "timestamp": "2026-08-17T05:02:03.238704+00:00",
-      "title": "Lancement de la campagne estivale de la mandarine Tango d&#x27;Afrique du Sud",
-      "title_hash": "lancement campagne estivale mandarine tango dx27afrique sud",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "mandarine"
-      ],
-      "origins": [
-        "ZAF"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne estivale de la mandarine Tango d&#x27;Afrique du Sud -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">La marque Tango Fruit débute sa campagne estivale de mandarines premium sans pépins en provenance d&#x27;Afrique du Sud. La période de disponibilité sur le marché s&#x27;étend de juillet à novembre. La variété se distingue par sa qualité gustative et l&#x27;absence de graines, se positionnant sur le segment premium durant la contre-saison européenne. <span class=\"news-reason\">Information stratégique sur le début de campagne d&#x27;un produit concurrent direct (mandarine sans pépins) pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863511/prende-il-via-la-campagna-estiva-del-mandarino-premium-senza-semi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Launch of the South African Tango mandarin summer campaign -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">The Tango Fruit brand is starting its summer campaign for premium seedless mandarins from South Africa. The market availability period extends from July to November. The variety is distinguished by its taste quality and the absence of seeds, positioning itself in the premium segment during the European off-season. <span class=\"news-reason\">Strategic information on the start of the campaign for a direct competitor product (seedless mandarin) for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863511/prende-il-via-la-campagna-estiva-del-mandarino-premium-senza-semi/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השקת קמפיין הקיץ של מנדרינת טנגו מדרום אפריקה -- <span class=\"news-date\">17/08/2026 06:00</span></div><div class=\"news-body\">המותג Tango Fruit מתחיל את קמפיין הקיץ של מנדרינות פרימיום ללא גרעינים מדרום אפריקה. תקופת הזמינות בשוק נמשכת מיולי עד נובמבר. הזן בולט באיכות הטעם שלו ובהיעדר גרעינים, ומתמקם בסגמנט הפרימיום במהלך עונת הנגד האירופית. <span class=\"news-reason\">מידע אסטרטגי על תחילת קמפיין של מוצר מתחרה ישיר (מנדרינה ללא גרעינים) עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863511/prende-il-via-la-campagna-estiva-del-mandarino-premium-senza-semi/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>",
-      "rss_metadata": {
-        "id": "rss-cb98277de8bfcb7f",
-        "title": "Prende il via la campagna estiva del mandarino premium senza semi",
-        "summary": "Con l'avvio della campagna sudafricana, Tango Fruit torna protagonista della stagione estiva, garantendo la disponibilità del suo mandarino premium senza semi da luglio a novembre. Apprezzato per il gusto naturalmente dolce, privo di semi, la praticità di consumo e l'eccellente qualità, Tango continua a…",
-        "url": "https://www.freshplaza.it/article/9863511/prende-il-via-la-campagna-estiva-del-mandarino-premium-senza-semi/",
-        "source": "FreshPlaza IT",
-        "published_at": "2026-08-17T06:00:00+02:00",
-        "language": "it",
-        "products": [
-          "mandarine"
-        ],
-        "origins": []
-      },
-      "attention_enrichment": {
-        "title_fr": "Mandarines Tango d'Afrique du Sud disponibles jusqu'en novembre",
-        "summary_fr": "Lancement de la campagne sud-africaine de mandarines premium sans pépins"
-      },
-      "gemini_score": 8
     }
   ],
-  "article_count": 39,
+  "article_count": 38,
   "attention_points": [
     {
-      "id": "attention-2306c53f8f24969a",
-      "article_id": "1787142815_0",
-      "url": "https://www.freshfruitportal.com/news/2026/08/19/fl-citrus-demand/",
-      "source": "Fresh Fruit Portal",
-      "title": "La demande d'agrumes de Floride se maintient malgré",
-      "summary": "Des prix premium maintenus malgré un déclin historique de production.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-08-19T12:00:17+00:00",
+      "id": "attention-01260d15d04354df",
+      "article_id": "1787202206_0",
+      "url": "https://www.freshplaza.it/article/9863147/le-esportazioni-per-la-campagna-avocado-che-termina-ad-agosto-sono-diminuite-del-50-60-per-cento/",
+      "source": "FreshPlaza IT",
+      "title": "Chute de 50 à 60 % des exportations d'avocats",
+      "summary": "En Colombie, le secteur de l'avocat Hass traverse l'une des périodes les plus difficiles de son histoire.",
+      "origin_code": "COL",
+      "origin_label": "Colombie",
+      "published_at": "2026-08-20T06:05:00+02:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [
-        "orange"
+        "avocat"
       ],
-      "age_hours": 6
+      "age_hours": 0
     },
     {
       "id": "attention-5835b4e1edcc081c",
@@ -1493,7 +1456,7 @@
       "products": [
         "melon"
       ],
-      "age_hours": 7
+      "age_hours": 17
     },
     {
       "id": "attention-d944aabee685ac19",
@@ -1512,7 +1475,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 8
+      "age_hours": 18
     },
     {
       "id": "attention-b224a9d3427875e2",
@@ -1531,7 +1494,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 14
+      "age_hours": 25
     }
   ]
 }
