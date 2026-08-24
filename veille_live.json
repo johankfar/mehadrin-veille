@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T12:33:34.227103+00:00",
-  "article_count": 21,
+  "last_updated": "2026-08-24T14:02:28.946034+00:00",
+  "article_count": 22,
   "attention_points": [
     {
       "id": "attention-4181f9322c82b20c",
@@ -19,7 +19,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-4857e20814af83d2",
@@ -39,7 +39,7 @@
         "melon",
         "watermelon"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-0f122225b069daf3",
@@ -56,7 +56,7 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-31ecb1e2897f45f4",
@@ -76,10 +76,28 @@
         "avocat",
         "orange"
       ],
-      "age_hours": 0
+      "age_hours": 2
     }
   ],
   "articles": [
+    {
+      "id": "1787580148_0",
+      "timestamp": "2026-08-24T14:02:28.946034+00:00",
+      "title": "L’Égypte développe un pôle technologique dédié à la patate douce -- 24/08/2026 12:05",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "sweet_potato"
+      ],
+      "origins": [
+        "EGY"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">L’Égypte développe un pôle technologique dédié à la patate douce -- <span class=\"news-date\">24/08/2026 12:05</span></div><div class=\"news-body\">Sweet Potato International a mis en place la première plateforme spécialisée en Égypte. Ce projet vise à connecter le matériel végétal certifié et les technologies de pointe (provenant de Caroline du Nord) avec la production professionnelle locale pour mieux servir le marché européen. <span class=\"news-reason\">Article sur le développement stratégique d&#x27;une origine concurrente pour la patate douce, produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9865598/egypte-ontwikkelt-zich-tot-kennis-en-technologiehub-voor-zoete-aardappelen/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Egypt develops a technology hub dedicated to sweet potatoes -- <span class=\"news-date\">24/08/2026 12:05</span></div><div class=\"news-body\">Sweet Potato International has set up the first specialized platform in Egypt. This project aims to connect certified plant material and cutting-edge technologies (from North Carolina) with local professional production to better serve the European market. <span class=\"news-reason\">Article on the strategic development of a competing origin for sweet potatoes, a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9865598/egypte-ontwikkelt-zich-tot-kennis-en-technologiehub-voor-zoete-aardappelen/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות רשתות שיווק</div><div class=\"news-title\">מצרים מפתחת מרכז טכנולוגי המוקדש לבטטה -- <span class=\"news-date\">24/08/2026 12:05</span></div><div class=\"news-body\">חברת Sweet Potato International הקימה את הפלטפורמה הייעודית הראשונה במצרים. פרויקט זה נועד לחבר בין חומר צמחי מאושר וטכנולוגיות מתקדמות (מצפון קרוליינה) לבין ייצור מקצועי מקומי כדי לשרת טוב יותר את השוק האירופי. <span class=\"news-reason\">מאמר על פיתוח אסטרטגי של מקור מתחרה לבטטה, מוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9865598/egypte-ontwikkelt-zich-tot-kennis-en-technologiehub-voor-zoete-aardappelen/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1787574814_6",
       "timestamp": "2026-08-24T12:33:34.227103+00:00",
@@ -232,7 +250,7 @@
     {
       "id": "1787563944_1",
       "timestamp": "2026-08-24T09:32:24.165547+00:00",
-      "title": "Fortes disparités de prix pour les avocats sur le marché européen",
+      "title": "Fortes disparités de prix pour l&#x27;avocat sur le marché européen",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -244,7 +262,7 @@
         "DEU",
         "NLD"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Fortes disparités de prix pour les avocats sur le marché européen -- <span class=\"news-date\">24/08/2026 10:35</span></div><div class=\"news-body\">En raison de la cherté des fruits et légumes produits en Allemagne, les consommateurs et acheteurs se tournent vers les marchés frontaliers. Aux Pays-Bas, des caisses entières d&#x27;avocats sont proposées à un prix attractif de cinq euros. Cette situation met en évidence une pression sur les prix de l&#x27;avocat et des opportunités d&#x27;achat à bas coût dans le secteur du négoce néerlandais par rapport au marché allemand. <span class=\"news-reason\">L&#x27;article fournit une cotation spécifique (5 euros la caisse) pour l&#x27;avocat, produit pilier de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/external/9865772/funf-euro-fur-eine-ganze-kiste-avocados/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Fortes disparités de prix pour l&#x27;avocat sur le marché européen -- <span class=\"news-date\">24/08/2026 10:35</span></div><div class=\"news-body\">En raison de la cherté des fruits et légumes produits en Allemagne, les consommateurs et acheteurs se tournent vers les marchés frontaliers. Aux Pays-Bas, des caisses entières d&#x27;avocats sont proposées à un prix attractif de cinq euros. Cette situation met en évidence une pression sur les prix de l&#x27;avocat et des opportunités d&#x27;achat à bas coût dans le secteur du négoce néerlandais par rapport au marché allemand. <span class=\"news-reason\">L&#x27;article fournit une cotation spécifique (5 euros la caisse) pour l&#x27;avocat, produit pilier de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/external/9865772/funf-euro-fur-eine-ganze-kiste-avocados/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Significant price disparities for avocados on the European market -- <span class=\"news-date\">24/08/2026 10:35</span></div><div class=\"news-body\">Due to the high cost of fruits and vegetables produced in Germany, consumers and buyers are turning to cross-border markets. In the Netherlands, whole crates of avocados are being offered at an attractive price of five euros. This situation highlights price pressure on avocados and low-cost purchasing opportunities in the Dutch trading sector compared to the German market. <span class=\"news-reason\">The article provides a specific price quote (5 euros per crate) for avocados, a pillar product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/external/9865772/funf-euro-fur-eine-ganze-kiste-avocados/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">פערים משמעותיים במחירי האבוקדו בשוק האירופי -- <span class=\"news-date\">24/08/2026 10:35</span></div><div class=\"news-body\">בשל יוקר הפירות והירקות המיוצרים בגרמניה, צרכנים וקונים פונים לשווקים הסמוכים לגבול. בהולנד, ארגזי אבוקדו שלמים מוצעים במחיר אטרקטיבי של חמישה אירו. מצב זה מדגיש לחץ על מחירי האבוקדו והזדמנויות רכישה בעלות נמוכה במגזר המסחר ההולנדי בהשוואה לשוק הגרמני. <span class=\"news-reason\">המאמר מספק הצעת מחיר ספציפית (5 אירו לארגז) עבור אבוקדו, מוצר ליבה של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/external/9865772/funf-euro-fur-eine-ganze-kiste-avocados/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -376,7 +394,7 @@
     {
       "id": "1787547760_1",
       "timestamp": "2026-08-24T05:02:40.982462+00:00",
-      "title": "Lancement de la campagne de grenades en Égypte : des perspectives prometteuses",
+      "title": "Lancement de la campagne de la grenade en Égypte : des perspectives prometteuses",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -387,7 +405,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne de grenades en Égypte : des perspectives prometteuses -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">La saison des grenades a débuté en Égypte avec des perspectives plus favorables que l&#x27;an dernier. Les prix pour les fruits premium devraient rester soutenus durant les premières semaines. Les variétés concernées incluent la 116 et la Wonderful. <span class=\"news-reason\">Annonce du début de saison chez un concurrent direct pour la grenade, avec mention des variétés.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863479/i-prezzi-resteranno-piuttosto-sostenuti-nelle-prime-settimane-della-stagione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne de la grenade en Égypte : des perspectives prometteuses -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">La saison des grenades a débuté en Égypte avec des perspectives plus favorables que l&#x27;an dernier. Les prix pour les fruits premium devraient rester soutenus durant les premières semaines. Les variétés concernées incluent la 116 et la Wonderful. <span class=\"news-reason\">Annonce du début de saison chez un concurrent direct pour la grenade, avec mention des variétés.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863479/i-prezzi-resteranno-piuttosto-sostenuti-nelle-prime-settimane-della-stagione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Launch of the pomegranate season in Egypt with positive prospects -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">The pomegranate season has begun in Egypt with more favorable prospects than last year. Prices for premium fruit are expected to remain firm during the first few weeks. The varieties involved include 116 and Wonderful. <span class=\"news-reason\">Announcement of the start of the season for a direct pomegranate competitor, with mention of varieties.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863479/i-prezzi-resteranno-piuttosto-sostenuti-nelle-prime-settimane-della-stagione/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השקת עונת הרימונים במצרים עם תחזיות חיוביות -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">עונת הרימונים החלה במצרים עם תחזיות חיוביות יותר מבשנה שעברה. המחירים עבור פירות פרימיום צפויים להישאר יציבים במהלך השבועות הראשונים. הזנים המדוברים כוללים את ה-116 וה-Wonderful. <span class=\"news-reason\">הודעה על תחילת העונה אצל מתחרה ישיר לרימונים, תוך ציון הזנים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863479/i-prezzi-resteranno-piuttosto-sostenuti-nelle-prime-settimane-della-stagione/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -426,21 +444,21 @@
     {
       "id": "1787321099_1",
       "timestamp": "2026-08-21T14:04:59.804731+00:00",
-      "title": "Clôture de la campagne des pastèques tyroliennes : une rentabilité limitée",
+      "title": "Fin de la campagne des pastèques tyroliennes : une rentabilité limitée",
       "category": "ALERTES SUPPLY",
       "commercials": [],
       "products": [
         "watermelon"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Clôture de la campagne des pastèques tyroliennes : une rentabilité limitée -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">La saison de la pastèque dans le Tyrol (Autriche) touche à sa fin, avec des livraisons prévues jusqu&#x27;à la fin de la semaine 35. Bien que le produit gagne en acceptation auprès des consommateurs, Andreas Norz de Ulrichshof GmbH souligne que la rentabilité sur les quatre hectares cultivés reste insuffisante. <span class=\"news-reason\">Information sur la fin de campagne d&#x27;un produit en saison (pastèque) sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864390/l-anguria-tirolese-trova-sempre-maggiore-accettazione-ma-la-redditivita-e-ancora-troppo-bassa/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Fin de la campagne des pastèques tyroliennes : une rentabilité limitée -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">La saison de la pastèque dans le Tyrol (Autriche) touche à sa fin, avec des livraisons prévues jusqu&#x27;à la fin de la semaine 35. Bien que le produit gagne en acceptation auprès des consommateurs, Andreas Norz de Ulrichshof GmbH souligne que la rentabilité sur les quatre hectares cultivés reste insuffisante. <span class=\"news-reason\">Information sur la fin de campagne d&#x27;un produit en saison (pastèque) sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864390/l-anguria-tirolese-trova-sempre-maggiore-accettazione-ma-la-redditivita-e-ancora-troppo-bassa/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Closing of the Tyrolean watermelon season against a backdrop of limited profitability -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">The watermelon season in Tyrol (Austria) is drawing to a close, with deliveries scheduled until the end of week 35. Although the product is gaining acceptance among consumers, Andreas Norz of Ulrichshof GmbH emphasizes that profitability on the four hectares cultivated remains insufficient. <span class=\"news-reason\">Information on the end of the campaign for a seasonal product (watermelon) on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864390/l-anguria-tirolese-trova-sempre-maggiore-accettazione-ma-la-redditivita-e-ancora-troppo-bassa/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סיום עונת האבטיחים בטירול על רקע רווחיות מוגבלת -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">עונת האבטיחים בטירול (אוסטריה) מגיעה לסיומה, עם משלוחים המתוכננים עד סוף שבוע 35. למרות שהמוצר זוכה לקבלה גוברת בקרב הצרכנים, אנדראס נורץ מ-Ulrichshof GmbH מדגיש כי הרווחיות על ארבעת ההקטרים המעובדים נותרת בלתי מספקת. <span class=\"news-reason\">מידע על סיום עונה של מוצר עונתי (אבטיח) בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864390/l-anguria-tirolese-trova-sempre-maggiore-accettazione-ma-la-redditivita-e-ancora-troppo-bassa/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1787321099_0",
       "timestamp": "2026-08-21T14:04:59.804731+00:00",
-      "title": "Excédent de patates douces égyptiennes face à l&#x27;atonie de la demande européenne",
+      "title": "Surplus de patates douces égyptiennes face à l&#x27;atonie de la demande européenne",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -451,7 +469,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Excédent de patates douces égyptiennes face à l&#x27;atonie de la demande européenne -- <span class=\"news-date\">21/08/2026 15:04</span></div><div class=\"news-body\">La campagne égyptienne de patates douces traverse une phase difficile avec une demande européenne faible qui ne parvient pas à absorber une récolte plus abondante que celle de l&#x27;année précédente. Selon Mostafa Ali de Premium Sourcing, le marché est actuellement saturé par des excédents de stocks, l&#x27;offre dépassant largement la consommation. <span class=\"news-reason\">Analyse de marché sur un produit stratégique (patate douce) d&#x27;une origine concurrente majeure (Égypte).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865186/la-batata-egipcia-acumula-excedentes-ante-una-demanda-europea-que-no-despega/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Surplus de patates douces égyptiennes face à l&#x27;atonie de la demande européenne -- <span class=\"news-date\">21/08/2026 15:04</span></div><div class=\"news-body\">La campagne égyptienne de patates douces traverse une phase difficile avec une demande européenne faible qui ne parvient pas à absorber une récolte plus abondante que celle de l&#x27;année précédente. Selon Mostafa Ali de Premium Sourcing, le marché est actuellement saturé par des excédents de stocks, l&#x27;offre dépassant largement la consommation. <span class=\"news-reason\">Analyse de marché sur un produit stratégique (patate douce) d&#x27;une origine concurrente majeure (Égypte).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865186/la-batata-egipcia-acumula-excedentes-ante-una-demanda-europea-que-no-despega/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Surplus of Egyptian sweet potatoes in the face of sluggish European demand -- <span class=\"news-date\">21/08/2026 15:04</span></div><div class=\"news-body\">The Egyptian sweet potato campaign is going through a difficult phase with weak European demand failing to absorb a harvest that is more abundant than that of the previous year. According to Mostafa Ali of Premium Sourcing, the market is currently saturated with excess stocks, with supply far exceeding consumption. <span class=\"news-reason\">Market analysis of a strategic product (sweet potato) from a major competing origin (Egypt).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865186/la-batata-egipcia-acumula-excedentes-ante-una-demanda-europea-que-no-despega/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עודפי בטטות מצריות מול ביקוש אירופי רפה -- <span class=\"news-date\">21/08/2026 15:04</span></div><div class=\"news-body\">עונת הבטטות המצרית עוברת שלב קשה עם ביקוש אירופי נמוך שאינו מצליח לקלוט יבול שופע יותר מזה של השנה שעברה. לדברי מוסטפא עלי מ-Premium Sourcing, השוק רווי כיום בעודפי מלאי, כאשר ההיצע עולה משמעותית על הצריכה. <span class=\"news-reason\">ניתוח שוק של מוצר אסטרטגי (בטטה) ממקור מתחרה מרכזי (מצרים).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865186/la-batata-egipcia-acumula-excedentes-ante-una-demanda-europea-que-no-despega/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     }
