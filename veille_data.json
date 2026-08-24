@@ -1,6 +1,118 @@
 {
-  "last_generated": "2026-08-24T05:02:40.982462+00:00",
+  "last_generated": "2026-08-24T08:02:32.141782+00:00",
   "articles": [
+    {
+      "id": "1787558552_2",
+      "timestamp": "2026-08-24T08:02:32.141782+00:00",
+      "title": "Inquiétudes météorologiques pour les zones d&#x27;exportation au Chili et au Pérou -- 21/08/2026 13:16",
+      "title_hash": "inquiétudes météorologiques zones dx27exportation chili pérou",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Sébastien"
+      ],
+      "products": [],
+      "origins": [
+        "PER",
+        "CHL"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Inquiétudes météorologiques pour les zones d&#x27;exportation au Chili et au Pérou -- <span class=\"news-date\">21/08/2026 13:16</span></div><div class=\"news-body\">De fortes précipitations ont été enregistrées dans l&#x27;extrême nord du Chili et le sud du Pérou, notamment dans les régions d&#x27;Ica et d&#x27;Arequipa. Bien que les zones de cultures destinées à l&#x27;exportation soient pour l&#x27;instant préservées, la situation maintient les exportateurs et les producteurs en état d&#x27;alerte. <span class=\"news-reason\">Alerte météo sur des zones de production concurrentes pour les produits Mehadrin, pouvant impacter la disponibilité future.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9865229/les-pluies-dans-le-nord-du-chili-et-le-sud-du-perou-suscitent-l-inquietude/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Weather concerns for export zones in Chile and Peru -- <span class=\"news-date\">21/08/2026 13:16</span></div><div class=\"news-body\">Heavy rainfall has been recorded in the far north of Chile and the south of Peru, particularly in the Ica and Arequipa regions. Although the cultivation areas intended for export are preserved for now, the situation keeps exporters and producers on alert. <span class=\"news-reason\">Weather alert for competing production zones for Mehadrin products, which could impact future availability.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9865229/les-pluies-dans-le-nord-du-chili-et-le-sud-du-perou-suscitent-l-inquietude/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">חששות ממזג האוויר באזורי הייצוא בצ'ילה ובפרו -- <span class=\"news-date\">21/08/2026 13:16</span></div><div class=\"news-body\">משקעים כבדים נרשמו בצפון הרחוק של צ'ילה ובדרום פרו, במיוחד באזורי איקה (Ica) ואריקיפה (Arequipa). למרות ששטחי הגידול המיועדים לייצוא נשמרו לעת עתה, המצב משאיר את היצואנים והמגדלים במצב של כוננות. <span class=\"news-reason\">התראת מזג אוויר באזורי ייצור מתחרים עבור מוצרי מהדרין, העלולה להשפיע על הזמינות העתידית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9865229/les-pluies-dans-le-nord-du-chili-et-le-sud-du-perou-suscitent-l-inquietude/\" target=\"_blank\">FreshPlaza FR -- לקריאת הכתבה</a></div></div>",
+      "rss_metadata": {
+        "id": "rss-d699cc1def6161b8",
+        "title": "Les pluies dans le nord du Chili et le sud du Pérou suscitent l'inquiétude",
+        "summary": "Les fortes précipitations enregistrées ces dernières semaines à l'extrême nord du Chili, notamment à Tocopilla, et dans le sud du Pérou, dans des régions telles qu'Ica et Arequipa, ont suscité l'inquiétude des producteurs et des négociants en fruits des deux pays. Toutefois, selon des sources consultées…",
+        "url": "https://www.freshplaza.fr/article/9865229/les-pluies-dans-le-nord-du-chili-et-le-sud-du-perou-suscitent-l-inquietude/",
+        "source": "FreshPlaza FR",
+        "published_at": "2026-08-21T13:16:00+02:00",
+        "language": "fr",
+        "products": [],
+        "origins": [
+          "PER",
+          "CHL"
+        ]
+      },
+      "attention_enrichment": {
+        "title_fr": "Vigilance face aux conditions météorologiques défavorables",
+        "summary_fr": "Précipitations importantes dans les zones de production de fruits"
+      },
+      "gemini_score": 4
+    },
+    {
+      "id": "1787558552_1",
+      "timestamp": "2026-08-24T08:02:32.141782+00:00",
+      "title": "Ralentissement de la production d&#x27;avocats dans le nord du Pérou -- 21/08/2026 12:06",
+      "title_hash": "ralentissement production dx27avocats nord pérou",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "PER"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Ralentissement de la production d&#x27;avocats dans le nord du Pérou -- <span class=\"news-date\">21/08/2026 12:06</span></div><div class=\"news-body\">Selon la direction d&#x27;Agrícola Pampa Baja, la production d&#x27;avocats dans la région d&#x27;Olmos, au nord du Pérou, enregistre actuellement un ralentissement. Parallèlement, dans le sud du pays, la récolte d&#x27;autres fruits montre des signes d&#x27;accélération avec une avance d&#x27;une semaine sur le calendrier habituel. <span class=\"news-reason\">Note une alerte sur le rythme de production d&#x27;un produit phare (avocat) chez un concurrent majeur (Pérou).</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9865230/druivenoogst-in-het-zuiden-versnelt-terwijl-avocadoteelt-in-het-noorden-vertraagt/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Slowdown in avocado production in northern Peru -- <span class=\"news-date\">21/08/2026 12:06</span></div><div class=\"news-body\">According to the management of Agrícola Pampa Baja, avocado production in the Olmos region of northern Peru is currently recording a slowdown. Meanwhile, in the south of the country, the harvest of other fruits shows signs of acceleration with a one-week lead over the usual schedule. <span class=\"news-reason\">Notes an alert on the production pace of a flagship product (avocado) from a major competitor (Peru).</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9865230/druivenoogst-in-het-zuiden-versnelt-terwijl-avocadoteelt-in-het-noorden-vertraagt/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">האטה בייצור האבוקדו בצפון פרו -- <span class=\"news-date\">21/08/2026 12:06</span></div><div class=\"news-body\">לפי הנהלת Agrícola Pampa Baja, ייצור האבוקדו באזור אולמוס (Olmos), בצפון פרו, רושם כעת האטה. במקביל, בדרום המדינה, קטיף פירות אחרים מראה סימני האצה עם הקדמה של שבוע לעומת לוח הזמנים הרגיל. <span class=\"news-reason\">התראה על קצב הייצור של מוצר דגל (אבוקדו) אצל מתחרה מרכזי (פרו).</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9865230/druivenoogst-in-het-zuiden-versnelt-terwijl-avocadoteelt-in-het-noorden-vertraagt/\" target=\"_blank\">AGF.nl -- לקריאת הכתבה</a></div></div>",
+      "rss_metadata": {
+        "id": "rss-7d770e136e4357b1",
+        "title": "Druivenoogst in het zuiden versnelt terwijl avocadoteelt in het noorden vertraagt",
+        "summary": "Het druivenseizoen 2026 ligt goed op schema in het zuiden van Peru en loopt zelfs een week voor op de gebruikelijke planning. Dat zegt Juan Carlos Paredes, directeur van Agrícola Pampa Baja. Het bedrijf is actief in Majes (Arequipa, in het zuiden van Peru) en Olmos (Noord-Peru). Het druivenseizoen van…",
+        "url": "https://www.agf.nl/article/9865230/druivenoogst-in-het-zuiden-versnelt-terwijl-avocadoteelt-in-het-noorden-vertraagt/",
+        "source": "AGF.nl",
+        "published_at": "2026-08-21T12:06:00+02:00",
+        "language": "nl",
+        "products": [],
+        "origins": [
+          "PER"
+        ]
+      },
+      "attention_enrichment": {
+        "title_fr": "Évolution contrastée des rythmes de récolte de fruits",
+        "summary_fr": "Ralentissement constaté pour la culture de l'avocat"
+      },
+      "gemini_score": 7
+    },
+    {
+      "id": "1787558552_0",
+      "timestamp": "2026-08-24T08:02:32.141782+00:00",
+      "title": "Clôture de la campagne de mangues dans le nord du Sinaloa avec 52 000 tonnes exportées -- 21/08/2026 15:04",
+      "title_hash": "clôture campagne mangues nord sinaloa 52 000 tonnes exportées",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [
+        "MEX",
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Clôture de la campagne de mangues dans le nord du Sinaloa avec 52 000 tonnes exportées -- <span class=\"news-date\">21/08/2026 15:04</span></div><div class=\"news-body\">La récolte de mangues dans le nord de Sinaloa, au Mexique, s&#x27;achève avec un volume d&#x27;exportation vers les États-Unis estimé à 52 000 tonnes, soit environ 13 millions de colis. Malgré les défis posés par la sécheresse et des températures hivernales insuffisantes, les rendements finaux ont contredit les prévisions initiales plus pessimistes. <span class=\"news-reason\">Information sur la fin de campagne d&#x27;une origine concurrente (Mexique) pour un produit Mehadrin avec des chiffres précis de volume.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865497/temporada-de-mango-en-norte-de-sinaloa-concluye-con-13-millones-de-bultos-exportados/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">End of the mango campaign in northern Sinaloa with 52,000 tons exported -- <span class=\"news-date\">21/08/2026 15:04</span></div><div class=\"news-body\">The mango harvest in northern Sinaloa, Mexico, is concluding with an export volume to the United States estimated at 52,000 tons, or approximately 13 million packages. Despite the challenges posed by drought and insufficient winter temperatures, final yields contradicted initial, more pessimistic forecasts. <span class=\"news-reason\">Information on the end of the campaign for a competing origin (Mexico) for a Mehadrin product with precise volume figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865497/temporada-de-mango-en-norte-de-sinaloa-concluye-con-13-millones-de-bultos-exportados/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיום עונת המנגו בצפון סינלואה עם 52,000 טון מיוצאים -- <span class=\"news-date\">21/08/2026 15:04</span></div><div class=\"news-body\">קטיף המנגו בצפון סינלואה, מקסיקו, מסתיים עם נפח ייצוא לארצות הברית המוערך ב-52,000 טון, שהם כ-13 מיליון מארזים. למרות האתגרים שהציבו הבצורת וטמפרטורות חורף לא מספיקות, התפוקה הסופית סתרה את התחזיות הראשוניות הפסימיות יותר. <span class=\"news-reason\">מידע על סיום העונה ממקור מתחרה (מקסיקו) עבור מוצר של מהדרין עם נתוני נפח מדויקים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865497/temporada-de-mango-en-norte-de-sinaloa-concluye-con-13-millones-de-bultos-exportados/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>",
+      "rss_metadata": {
+        "id": "rss-b347e7b21c131323",
+        "title": "Temporada de mango en norte de Sinaloa concluye con 13 millones de bultos exportados",
+        "summary": "La cosecha de mango en el norte de Sinaloa está previsto que cierre la próxima semana con alrededor de 52.000 toneladas exportadas a Estados Unidos, pese a que los pronósticos iniciales anticipaban bajos rendimientos por efecto de la sequía y la falta de horas frío. Manuel Ignacio Martín del Campo…",
+        "url": "https://www.freshplaza.es/article/9865497/temporada-de-mango-en-norte-de-sinaloa-concluye-con-13-millones-de-bultos-exportados/",
+        "source": "FreshPlaza ES",
+        "published_at": "2026-08-21T15:04:00+02:00",
+        "language": "es",
+        "products": [
+          "mango"
+        ],
+        "origins": []
+      },
+      "attention_enrichment": {
+        "title_fr": "Clôture de la campagne d'exportation des mangues",
+        "summary_fr": "Fin de la récolte malgré les conditions climatiques défavorables"
+      },
+      "gemini_score": 8
+    },
     {
       "id": "1787547760_4",
       "timestamp": "2026-08-24T05:02:40.982462+00:00",
@@ -39,7 +151,7 @@
     {
       "id": "1787547760_3",
       "timestamp": "2026-08-24T05:02:40.982462+00:00",
-      "title": "Forte concurrence sur le marché italien de la pastèque",
+      "title": "Vive concurrence sur le marché italien de la pastèque",
       "title_hash": "intense concurrence marché italien pastèque",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [],
@@ -49,7 +161,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Forte concurrence sur le marché italien de la pastèque -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">La coopérative Agrieuropa rapporte une campagne de pastèques difficile en Italie. Malgré des volumes importants, la saison est marquée par une tension commerciale maximale lors des pics de production en raison d&#x27;une forte concurrence. <span class=\"news-reason\">Informations sur l&#x27;état du marché et la concurrence pour un produit Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865703/angurie-volumi-importanti-ma-una-campagna-segnata-dalla-forte-concorrenza/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Vive concurrence sur le marché italien de la pastèque -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">La coopérative Agrieuropa rapporte une campagne de pastèques difficile en Italie. Malgré des volumes importants, la saison est marquée par une tension commerciale maximale lors des pics de production en raison d&#x27;une forte concurrence. <span class=\"news-reason\">Informations sur l&#x27;état du marché et la concurrence pour un produit Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865703/angurie-volumi-importanti-ma-una-campagna-segnata-dalla-forte-concorrenza/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Intense competition in the Italian watermelon market -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">The Agrieuropa cooperative reports a difficult watermelon campaign in Italy. Despite significant volumes, the season is marked by maximum commercial tension during production peaks due to strong competition. <span class=\"news-reason\">Information on market status and competition for a Mehadrin product in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865703/angurie-volumi-importanti-ma-una-campagna-segnata-dalla-forte-concorrenza/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">תחרות עזה בשוק האבטיחים האיטלקי -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">הקואופרטיב Agrieuropa מדווח על עונת אבטיחים מאתגרת באיטליה. למרות כמויות משמעותיות, העונה מתאפיינת במתח מסחרי מרבי במהלך שיאי הייצור בשל תחרות עזה. <span class=\"news-reason\">מידע על מצב השוק והתחרות עבור מוצר מהדרין בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865703/angurie-volumi-importanti-ma-una-campagna-segnata-dalla-forte-concorrenza/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -113,7 +225,7 @@
     {
       "id": "1787547760_1",
       "timestamp": "2026-08-24T05:02:40.982462+00:00",
-      "title": "Lancement de la saison des grenades en Égypte : des perspectives positives",
+      "title": "Lancement de la campagne des grenades en Égypte : des perspectives favorables",
       "title_hash": "lancement saison grenades égypte perspectives positives",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
@@ -125,7 +237,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la saison des grenades en Égypte : des perspectives positives -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">La saison des grenades a débuté en Égypte avec des perspectives plus favorables que l&#x27;an dernier. Les prix pour les fruits premium devraient rester soutenus durant les premières semaines. Les variétés concernées incluent la 116 et la Wonderful. <span class=\"news-reason\">Annonce du début de saison chez un concurrent direct pour la grenade, avec mention des variétés.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863479/i-prezzi-resteranno-piuttosto-sostenuti-nelle-prime-settimane-della-stagione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne des grenades en Égypte : des perspectives favorables -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">La saison des grenades a débuté en Égypte avec des perspectives plus favorables que l&#x27;an dernier. Les prix pour les fruits premium devraient rester soutenus durant les premières semaines. Les variétés concernées incluent la 116 et la Wonderful. <span class=\"news-reason\">Annonce du début de saison chez un concurrent direct pour la grenade, avec mention des variétés.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863479/i-prezzi-resteranno-piuttosto-sostenuti-nelle-prime-settimane-della-stagione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Launch of the pomegranate season in Egypt with positive prospects -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">The pomegranate season has begun in Egypt with more favorable prospects than last year. Prices for premium fruit are expected to remain firm during the first few weeks. The varieties involved include 116 and Wonderful. <span class=\"news-reason\">Announcement of the start of the season for a direct pomegranate competitor, with mention of varieties.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863479/i-prezzi-resteranno-piuttosto-sostenuti-nelle-prime-settimane-della-stagione/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השקת עונת הרימונים במצרים עם תחזיות חיוביות -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">עונת הרימונים החלה במצרים עם תחזיות חיוביות יותר מבשנה שעברה. המחירים עבור פירות פרימיום צפויים להישאר יציבים במהלך השבועות הראשונים. הזנים המדוברים כוללים את ה-116 וה-Wonderful. <span class=\"news-reason\">הודעה על תחילת העונה אצל מתחרה ישיר לרימונים, תוך ציון הזנים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863479/i-prezzi-resteranno-piuttosto-sostenuti-nelle-prime-settimane-della-stagione/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -152,7 +264,7 @@
     {
       "id": "1787547760_0",
       "timestamp": "2026-08-24T05:02:40.982462+00:00",
-      "title": "Révision à la baisse des prévisions d&#x27;exportation d&#x27;agrumes sud-africains pour 2026",
+      "title": "Révision à la baisse des prévisions d&#x27;exportation d&#x27;agrumes d&#x27;Afrique du Sud pour 2026",
       "title_hash": "révision à baisse prévisions dx27exportation dx27agrumes sudafricains",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
@@ -162,7 +274,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Révision à la baisse des prévisions d&#x27;exportation d&#x27;agrumes sud-africains pour 2026 -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">L&#x27;Association des producteurs d&#x27;agrumes d&#x27;Afrique du Sud (CGA) a abaissé ses estimations d&#x27;exportation totales pour 2026 à 205 millions de cartons de 15 kg. La prévision initiale s&#x27;élevait à 209,4 millions de cartons. <span class=\"news-reason\">Contient des volumes d&#x27;exportation révisés avec des chiffres précis pour un produit et une origine concurrents majeurs.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861748/agrumi-sudafricani-le-stime-di-esportazione-2026-scendono-a-205-milioni-di-cartoni/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Révision à la baisse des prévisions d&#x27;exportation d&#x27;agrumes d&#x27;Afrique du Sud pour 2026 -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">L&#x27;Association des producteurs d&#x27;agrumes d&#x27;Afrique du Sud (CGA) a abaissé ses estimations d&#x27;exportation totales pour 2026 à 205 millions de cartons de 15 kg. La prévision initiale s&#x27;élevait à 209,4 millions de cartons. <span class=\"news-reason\">Contient des volumes d&#x27;exportation révisés avec des chiffres précis pour un produit et une origine concurrents majeurs.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861748/agrumi-sudafricani-le-stime-di-esportazione-2026-scendono-a-205-milioni-di-cartoni/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Downward revision of South African citrus export forecasts for 2026 -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">The Citrus Growers&#x27; Association of South Africa (CGA) has lowered its total export estimates for 2026 to 205 million 15 kg cartons. The initial forecast stood at 209.4 million cartons. <span class=\"news-reason\">Contains revised export volumes with precise figures for a major competing product and origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861748/agrumi-sudafricani-le-stime-di-esportazione-2026-scendono-a-205-milioni-di-cartoni/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים ונפחים</div><div class=\"news-title\">עדכון כלפי מטה של תחזיות ייצוא פירות הדר מדרום אפריקה לשנת 2026 -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">התאחדות מגדלי ההדרים של דרום אפריקה (CGA) הפחיתה את הערכות הייצוא הכוללות שלה לשנת 2026 ל-205 מיליון קרטונים של 15 ק\"ג. התחזית הראשונית עמדה על 209.4 מיליון קרטונים. <span class=\"news-reason\">מכיל נתוני נפחי ייצוא מעודכנים עם נתונים מדויקים עבור מוצר ומקור מתחרים עיקריים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861748/agrumi-sudafricani-le-stime-di-esportazione-2026-scendono-a-205-milioni-di-cartoni/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -511,91 +623,35 @@
         "summary_fr": "Zones de production opérationnelles malgré séisme et sécheresse"
       },
       "gemini_score": 7
-    },
-    {
-      "id": "1787294021_1",
-      "timestamp": "2026-08-21T06:33:41.193186+00:00",
-      "title": "Hausse de 10 % de la production de pomelo chinois",
-      "title_hash": "production pomelo chinois progresse 10",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "citrus_grapefruit"
-      ],
-      "origins": [
-        "CHN"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Hausse de 10 % de la production de pomelo chinois -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">La nouvelle saison du pomelo de Pinghe (Chine) est marquee par une hausse de production de 10 % et une qualite stable. Bien que les volumes augmentent, les prix de vente sont en legere baisse et les marges des exportateurs sont comprimees par des couts de fret maritime eleves. <span class=\"news-reason\">Chiffres de production et tendances de prix pour une origine concurrente directe du pomelo Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863946/stagione-del-pomelo-in-crescita-produzione-su-del-dieci-per-cento-ma-i-noli-marittimi-pesano-sull-export/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Chinese pomelo production increases by 10% -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">The new Pinghe (China) pomelo season is marked by a 10% production increase and stable quality. Although volumes are increasing, selling prices are slightly down and exporters' margins are squeezed by high sea freight costs. <span class=\"news-reason\">Production figures and price trends for a direct competing origin of Mehadrin pomelo.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863946/stagione-del-pomelo-in-crescita-produzione-su-del-dieci-per-cento-ma-i-noli-marittimi-pesano-sull-export/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ייצור הפומלו הסיני גדל ב-10% -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">העונה החדשה של הפומלו מפינגהה (סין) מתאפיינת בעלייה של 10% בייצור ובאיכות יציבה. למרות עליית הכמויות, מחירי המכירה נמצאים בירידה קלה ושולי הרווח של היצואנים נשחקים בשל עלויות הובלה ימית גבוהות. <span class=\"news-reason\">נתוני ייצור ומגמות מחירים עבור מקור מתחרה ישיר לפומלו של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863946/stagione-del-pomelo-in-crescita-produzione-su-del-dieci-per-cento-ma-i-noli-marittimi-pesano-sull-export/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>",
-      "rss_metadata": {
-        "id": "rss-1fbbc41428c1378c",
-        "title": "Stagione del pomelo in crescita: produzione su del dieci per cento, ma i noli marittimi pesano sull'export",
-        "summary": "Con l'avvio della nuova stagione di raccolta ed esportazione del pomelo di Pinghe, il mercato di quest'anno si caratterizza per un aumento della produzione, una qualità stabile e prezzi leggermente in calo. A pesare sui margini degli esportatori sono però i noli marittimi, che restano su livelli elevati…",
-        "url": "https://www.freshplaza.it/article/9863946/stagione-del-pomelo-in-crescita-produzione-su-del-dieci-per-cento-ma-i-noli-marittimi-pesano-sull-export/",
-        "source": "FreshPlaza IT",
-        "published_at": "2026-08-21T06:05:00+02:00",
-        "language": "it",
-        "products": [
-          "citrus_grapefruit"
-        ],
-        "origins": []
-      },
-      "attention_enrichment": {
-        "title_fr": "Hausse de 10% de la production chinoise",
-        "summary_fr": "Augmentation des volumes et baisse des prix."
-      },
-      "gemini_score": 9
     }
   ],
-  "article_count": 15,
+  "article_count": 17,
   "attention_points": [
     {
       "id": "attention-28f103a26d78f306",
       "article_id": "1787547760_1",
       "url": "https://www.freshplaza.it/article/9863479/i-prezzi-resteranno-piuttosto-sostenuti-nelle-prime-settimane-della-stagione/",
       "source": "FreshPlaza IT",
-      "title": "Lancement de la saison des grenades en Égypte",
+      "title": "Lancement de la campagne des grenades en Égypte",
       "summary": "La nouvelle campagne débute avec des perspectives de prix soutenus",
       "origin_code": "EGY",
       "origin_label": "Égypte",
-      "published_at": "2026-08-24T06:00:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "information",
-      "signal_label": "Information",
-      "icon": "information",
-      "products": [
-        "pomegranate"
-      ],
-      "age_hours": 1
-    },
-    {
-      "id": "attention-c4cbb07d003905b0",
-      "article_id": "1787547760_3",
-      "url": "https://www.freshplaza.it/article/9865703/angurie-volumi-importanti-ma-una-campagna-segnata-dalla-forte-concorrenza/",
-      "source": "FreshPlaza IT",
-      "title": "Forte concurrence sur le marché des pastèques",
-      "summary": "La saison est marquée par une forte pression concurrentielle",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
       "published_at": "2026-08-24T06:00:00+02:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [
-        "watermelon"
+        "pomegranate"
       ],
-      "age_hours": 1
+      "age_hours": 4
     },
     {
       "id": "attention-ef6f75c4f1751f73",
       "article_id": "1787547760_0",
       "url": "https://www.freshplaza.it/article/9861748/agrumi-sudafricani-le-stime-di-esportazione-2026-scendono-a-205-milioni-di-cartoni/",
       "source": "FreshPlaza IT",
-      "title": "Révision à la baisse des prévisions d'exportation d'agrumes sud-africains",
+      "title": "Révision à la baisse des prévisions d'exportation d'agrumes d'Afrique",
       "summary": "Les prévisions d'exportation annuelles sont revues à la baisse",
       "origin_code": "ZAF",
       "origin_label": "Afrique du Sud",
@@ -605,7 +661,28 @@
       "signal_label": "Volumes",
       "icon": "information",
       "products": [],
-      "age_hours": 1
+      "age_hours": 4
+    },
+    {
+      "id": "attention-2b5b982022ef63da",
+      "article_id": "1787321099_2",
+      "url": "https://www.freshplaza.com/article/9865286/nigeria-plans-one-million-trees-for-horticultural-clusters/",
+      "source": "FreshPlaza",
+      "title": "Le Nigeria lance un programme de plantation d'un million",
+      "summary": "Un nouveau programme prévoit la plantation de nombreux arbres fruitiers.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-08-21T13:22:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
+      "products": [
+        "avocat",
+        "mango",
+        "coconut"
+      ],
+      "age_hours": 68
     },
     {
       "id": "attention-f3b0ff9a4877f300",
@@ -625,7 +702,7 @@
         "melon",
         "watermelon"
       ],
-      "age_hours": 65
+      "age_hours": 68
     }
   ]
 }
