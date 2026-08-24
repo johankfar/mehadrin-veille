@@ -1,46 +1,61 @@
 {
-  "last_updated": "2026-08-21T14:04:59.804731+00:00",
-  "article_count": 26,
+  "last_updated": "2026-08-24T05:02:40.982462+00:00",
+  "article_count": 15,
   "attention_points": [
     {
-      "id": "attention-1d3b1fcb7867143b",
-      "article_id": "1787321099_0",
-      "url": "https://www.freshplaza.es/article/9865186/la-batata-egipcia-acumula-excedentes-ante-una-demanda-europea-que-no-despega/",
-      "source": "FreshPlaza ES",
-      "title": "Surplus de patates douces égyptiennes face à l'atonie",
-      "summary": "La campagne égyptienne de patates douces traverse une phase difficile avec une demande européenne faible qui ne parvient pas à absorber une récolte plus abondante que celle de l'année précédente.",
+      "id": "attention-28f103a26d78f306",
+      "article_id": "1787547760_1",
+      "url": "https://www.freshplaza.it/article/9863479/i-prezzi-resteranno-piuttosto-sostenuti-nelle-prime-settimane-della-stagione/",
+      "source": "FreshPlaza IT",
+      "title": "Lancement de la saison des grenades en Égypte",
+      "summary": "La nouvelle campagne débute avec des perspectives de prix soutenus",
       "origin_code": "EGY",
       "origin_label": "Égypte",
-      "published_at": "2026-08-21T15:04:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "sweet_potato"
-      ],
-      "age_hours": 1
-    },
-    {
-      "id": "attention-2b5b982022ef63da",
-      "article_id": "1787321099_2",
-      "url": "https://www.freshplaza.com/article/9865286/nigeria-plans-one-million-trees-for-horticultural-clusters/",
-      "source": "FreshPlaza",
-      "title": "Le Nigeria lance un programme de plantation d'un million",
-      "summary": "Un nouveau programme prévoit la plantation de nombreux arbres fruitiers.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-08-21T13:22:00+02:00",
+      "published_at": "2026-08-24T06:00:00+02:00",
       "published_at_source": "rss",
       "signal_type": "information",
       "signal_label": "Information",
       "icon": "information",
       "products": [
-        "avocat",
-        "mango",
-        "coconut"
+        "pomegranate"
       ],
-      "age_hours": 2
+      "age_hours": 1
+    },
+    {
+      "id": "attention-c4cbb07d003905b0",
+      "article_id": "1787547760_3",
+      "url": "https://www.freshplaza.it/article/9865703/angurie-volumi-importanti-ma-una-campagna-segnata-dalla-forte-concorrenza/",
+      "source": "FreshPlaza IT",
+      "title": "Forte concurrence sur le marché des pastèques",
+      "summary": "La saison est marquée par une forte pression concurrentielle",
+      "origin_code": "ITA",
+      "origin_label": "Italie",
+      "published_at": "2026-08-24T06:00:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "watermelon"
+      ],
+      "age_hours": 1
+    },
+    {
+      "id": "attention-ef6f75c4f1751f73",
+      "article_id": "1787547760_0",
+      "url": "https://www.freshplaza.it/article/9861748/agrumi-sudafricani-le-stime-di-esportazione-2026-scendono-a-205-milioni-di-cartoni/",
+      "source": "FreshPlaza IT",
+      "title": "Révision à la baisse des prévisions d'exportation d'agrumes sud-africains",
+      "summary": "Les prévisions d'exportation annuelles sont revues à la baisse",
+      "origin_code": "ZAF",
+      "origin_label": "Afrique du Sud",
+      "published_at": "2026-08-24T06:00:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "information",
+      "products": [],
+      "age_hours": 1
     },
     {
       "id": "attention-f3b0ff9a4877f300",
@@ -60,27 +75,94 @@
         "melon",
         "watermelon"
       ],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-da229a249f0dfaf5",
-      "article_id": "1787310240_1",
-      "url": "https://www.cga.co.za/week-34-from-the-desk-of-the-ceo-2/",
-      "source": "CGA",
-      "title": "Rapport sur les volumes et l'accès au marché",
-      "summary": "Le dernier rapport de la Citrus Growers Association (CGA) pour la semaine 34 détaille l'état des volumes d'agrumes emballés et expédiés pour la saison.",
-      "origin_code": "IND",
-      "origin_label": "Inde",
-      "published_at": "2026-08-21T09:37:49+00:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "information",
-      "products": [],
-      "age_hours": 4
+      "age_hours": 65
     }
   ],
   "articles": [
+    {
+      "id": "1787547760_4",
+      "timestamp": "2026-08-24T05:02:40.982462+00:00",
+      "title": "Internationalisation rapide du marché mondial de la grenade -- 21/08/2026 13:16",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [
+        "pomegranate"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Internationalisation rapide du marché mondial de la grenade -- <span class=\"news-date\">21/08/2026 13:16</span></div><div class=\"news-body\">Le marché mondial de la grenade connaît une expansion rapide. La production et les exportations se développent dans de nombreuses régions, poussant les exportateurs à cibler de nouveaux marchés de destination. <span class=\"news-reason\">Informations générales sur l&#x27;expansion de la concurrence et des zones de production de grenades.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9864758/l-emballage-doit-etre-considere-comme-faisant-partie-d-une-strategie-post-recolte-plus-globale/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Rapid internationalization of the global pomegranate market -- <span class=\"news-date\">21/08/2026 13:16</span></div><div class=\"news-body\">The global pomegranate market is experiencing rapid expansion. Production and exports are developing in many regions, pushing exporters to target new destination markets. <span class=\"news-reason\">General information on the expansion of competition and pomegranate production areas.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9864758/l-emballage-doit-etre-considere-comme-faisant-partie-d-une-strategie-post-recolte-plus-globale/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">בינלאומיות מהירה של שוק הרימונים העולמי -- <span class=\"news-date\">21/08/2026 13:16</span></div><div class=\"news-body\">שוק הרימונים העולמי חווה התרחבות מהירה. הייצור והייצוא מתפתחים באזורים רבים, מה שדוחף את היצואנים להתמקד בשווקי יעד חדשים. <span class=\"news-reason\">מידע כללי על התרחבות התחרות ואזורי גידול הרימונים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9864758/l-emballage-doit-etre-considere-comme-faisant-partie-d-une-strategie-post-recolte-plus-globale/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1787547760_3",
+      "timestamp": "2026-08-24T05:02:40.982462+00:00",
+      "title": "Vive concurrence sur le marché italien de la pastèque",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [],
+      "products": [
+        "watermelon"
+      ],
+      "origins": [
+        "ITA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Vive concurrence sur le marché italien de la pastèque -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">La coopérative Agrieuropa rapporte une campagne de pastèques difficile en Italie. Malgré des volumes importants, la saison est marquée par une tension commerciale maximale lors des pics de production en raison d&#x27;une forte concurrence. <span class=\"news-reason\">Informations sur l&#x27;état du marché et la concurrence pour un produit Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865703/angurie-volumi-importanti-ma-una-campagna-segnata-dalla-forte-concorrenza/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Intense competition in the Italian watermelon market -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">The Agrieuropa cooperative reports a difficult watermelon campaign in Italy. Despite significant volumes, the season is marked by maximum commercial tension during production peaks due to strong competition. <span class=\"news-reason\">Information on market status and competition for a Mehadrin product in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865703/angurie-volumi-importanti-ma-una-campagna-segnata-dalla-forte-concorrenza/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">תחרות עזה בשוק האבטיחים האיטלקי -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">הקואופרטיב Agrieuropa מדווח על עונת אבטיחים מאתגרת באיטליה. למרות כמויות משמעותיות, העונה מתאפיינת במתח מסחרי מרבי במהלך שיאי הייצור בשל תחרות עזה. <span class=\"news-reason\">מידע על מצב השוק והתחרות עבור מוצר מהדרין בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865703/angurie-volumi-importanti-ma-una-campagna-segnata-dalla-forte-concorrenza/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1787547760_2",
+      "timestamp": "2026-08-24T05:02:40.982462+00:00",
+      "title": "Impact d&#x27;El Niño sur la production d&#x27;avocats dans le nord du Pérou -- 21/08/2026 13:22",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "PER"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact d&#x27;El Niño sur la production d&#x27;avocats dans le nord du Pérou -- <span class=\"news-date\">21/08/2026 13:22</span></div><div class=\"news-body\">Les conditions climatiques liées à El Niño au Pérou entraînent des résultats contrastés. Si les perspectives sont bonnes pour certaines cultures au sud, la production d&#x27;avocats dans les zones de culture du nord subit un recul. <span class=\"news-reason\">Alerte sur la production d&#x27;avocats chez un concurrent majeur suite à des problèmes climatiques.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9865231/the-two-faces-of-el-nino-in-peru-boost-for-southern-grapes-setback-for-northern-avocados/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Impact of El Niño on avocado production in northern Peru -- <span class=\"news-date\">21/08/2026 13:22</span></div><div class=\"news-body\">El Niño-related weather conditions in Peru are leading to mixed results. While prospects are good for some crops in the south, avocado production in northern growing areas is experiencing a decline. <span class=\"news-reason\">Alert on avocado production for a major competitor following climate issues.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9865231/the-two-faces-of-el-nino-in-peru-boost-for-southern-grapes-setback-for-northern-avocados/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השפעת אל ניניו על ייצור האבוקדו בצפון פרו -- <span class=\"news-date\">21/08/2026 13:22</span></div><div class=\"news-body\">תנאי האקלים הקשורים לאל ניניו בפרו מובילים לתוצאות מעורבות. בעוד שהתחזיות טובות עבור גידולים מסוימים בדרום, ייצור האבוקדו באזורי הגידול בצפון חווה ירידה. <span class=\"news-reason\">התראה על ייצור האבוקדו אצל מתחרה מרכזי עקב בעיות אקלים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9865231/the-two-faces-of-el-nino-in-peru-boost-for-southern-grapes-setback-for-northern-avocados/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1787547760_1",
+      "timestamp": "2026-08-24T05:02:40.982462+00:00",
+      "title": "Lancement de la saison des grenades en Égypte : des perspectives positives",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [
+        "pomegranate"
+      ],
+      "origins": [
+        "EGY"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la saison des grenades en Égypte : des perspectives positives -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">La saison des grenades a débuté en Égypte avec des perspectives plus favorables que l&#x27;an dernier. Les prix pour les fruits premium devraient rester soutenus durant les premières semaines. Les variétés concernées incluent la 116 et la Wonderful. <span class=\"news-reason\">Annonce du début de saison chez un concurrent direct pour la grenade, avec mention des variétés.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863479/i-prezzi-resteranno-piuttosto-sostenuti-nelle-prime-settimane-della-stagione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Launch of the pomegranate season in Egypt with positive prospects -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">The pomegranate season has begun in Egypt with more favorable prospects than last year. Prices for premium fruit are expected to remain firm during the first few weeks. The varieties involved include 116 and Wonderful. <span class=\"news-reason\">Announcement of the start of the season for a direct pomegranate competitor, with mention of varieties.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863479/i-prezzi-resteranno-piuttosto-sostenuti-nelle-prime-settimane-della-stagione/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השקת עונת הרימונים במצרים עם תחזיות חיוביות -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">עונת הרימונים החלה במצרים עם תחזיות חיוביות יותר מבשנה שעברה. המחירים עבור פירות פרימיום צפויים להישאר יציבים במהלך השבועות הראשונים. הזנים המדוברים כוללים את ה-116 וה-Wonderful. <span class=\"news-reason\">הודעה על תחילת העונה אצל מתחרה ישיר לרימונים, תוך ציון הזנים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863479/i-prezzi-resteranno-piuttosto-sostenuti-nelle-prime-settimane-della-stagione/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1787547760_0",
+      "timestamp": "2026-08-24T05:02:40.982462+00:00",
+      "title": "Révision à la baisse des prévisions d&#x27;exportation d&#x27;agrumes sud-africains pour 2026",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "ZAF"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Révision à la baisse des prévisions d&#x27;exportation d&#x27;agrumes sud-africains pour 2026 -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">L&#x27;Association des producteurs d&#x27;agrumes d&#x27;Afrique du Sud (CGA) a abaissé ses estimations d&#x27;exportation totales pour 2026 à 205 millions de cartons de 15 kg. La prévision initiale s&#x27;élevait à 209,4 millions de cartons. <span class=\"news-reason\">Contient des volumes d&#x27;exportation révisés avec des chiffres précis pour un produit et une origine concurrents majeurs.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861748/agrumi-sudafricani-le-stime-di-esportazione-2026-scendono-a-205-milioni-di-cartoni/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Downward revision of South African citrus export forecasts for 2026 -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">The Citrus Growers&#x27; Association of South Africa (CGA) has lowered its total export estimates for 2026 to 205 million 15 kg cartons. The initial forecast stood at 209.4 million cartons. <span class=\"news-reason\">Contains revised export volumes with precise figures for a major competing product and origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861748/agrumi-sudafricani-le-stime-di-esportazione-2026-scendono-a-205-milioni-di-cartoni/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים ונפחים</div><div class=\"news-title\">עדכון כלפי מטה של תחזיות ייצוא פירות הדר מדרום אפריקה לשנת 2026 -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">התאחדות מגדלי ההדרים של דרום אפריקה (CGA) הפחיתה את הערכות הייצוא הכוללות שלה לשנת 2026 ל-205 מיליון קרטונים של 15 ק\"ג. התחזית הראשונית עמדה על 209.4 מיליון קרטונים. <span class=\"news-reason\">מכיל נתוני נפחי ייצוא מעודכנים עם נתונים מדויקים עבור מוצר ומקור מתחרים עיקריים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861748/agrumi-sudafricani-le-stime-di-esportazione-2026-scendono-a-205-milioni-di-cartoni/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1787321099_2",
       "timestamp": "2026-08-21T14:04:59.804731+00:00",
@@ -100,21 +182,21 @@
     {
       "id": "1787321099_1",
       "timestamp": "2026-08-21T14:04:59.804731+00:00",
-      "title": "Clôture de la campagne des pastèques tyroliennes : une rentabilité limitée",
+      "title": "Fin de la campagne des pastèques tyroliennes : une rentabilité limitée",
       "category": "ALERTES SUPPLY",
       "commercials": [],
       "products": [
         "watermelon"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Clôture de la campagne des pastèques tyroliennes : une rentabilité limitée -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">La saison de la pastèque dans le Tyrol (Autriche) touche à sa fin, avec des livraisons prévues jusqu&#x27;à la fin de la semaine 35. Bien que le produit gagne en acceptation auprès des consommateurs, Andreas Norz de Ulrichshof GmbH souligne que la rentabilité sur les quatre hectares cultivés reste insuffisante. <span class=\"news-reason\">Information sur la fin de campagne d&#x27;un produit en saison (pastèque) sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864390/l-anguria-tirolese-trova-sempre-maggiore-accettazione-ma-la-redditivita-e-ancora-troppo-bassa/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Fin de la campagne des pastèques tyroliennes : une rentabilité limitée -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">La saison de la pastèque dans le Tyrol (Autriche) touche à sa fin, avec des livraisons prévues jusqu&#x27;à la fin de la semaine 35. Bien que le produit gagne en acceptation auprès des consommateurs, Andreas Norz de Ulrichshof GmbH souligne que la rentabilité sur les quatre hectares cultivés reste insuffisante. <span class=\"news-reason\">Information sur la fin de campagne d&#x27;un produit en saison (pastèque) sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864390/l-anguria-tirolese-trova-sempre-maggiore-accettazione-ma-la-redditivita-e-ancora-troppo-bassa/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Closing of the Tyrolean watermelon season against a backdrop of limited profitability -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">The watermelon season in Tyrol (Austria) is drawing to a close, with deliveries scheduled until the end of week 35. Although the product is gaining acceptance among consumers, Andreas Norz of Ulrichshof GmbH emphasizes that profitability on the four hectares cultivated remains insufficient. <span class=\"news-reason\">Information on the end of the campaign for a seasonal product (watermelon) on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864390/l-anguria-tirolese-trova-sempre-maggiore-accettazione-ma-la-redditivita-e-ancora-troppo-bassa/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סיום עונת האבטיחים בטירול על רקע רווחיות מוגבלת -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">עונת האבטיחים בטירול (אוסטריה) מגיעה לסיומה, עם משלוחים המתוכננים עד סוף שבוע 35. למרות שהמוצר זוכה לקבלה גוברת בקרב הצרכנים, אנדראס נורץ מ-Ulrichshof GmbH מדגיש כי הרווחיות על ארבעת ההקטרים המעובדים נותרת בלתי מספקת. <span class=\"news-reason\">מידע על סיום עונה של מוצר עונתי (אבטיח) בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864390/l-anguria-tirolese-trova-sempre-maggiore-accettazione-ma-la-redditivita-e-ancora-troppo-bassa/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1787321099_0",
       "timestamp": "2026-08-21T14:04:59.804731+00:00",
-      "title": "Surplus de patates douces égyptiennes face à l&#x27;atonie de la demande européenne",
+      "title": "Excédent de patates douces égyptiennes face à l&#x27;atonie de la demande européenne",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -125,7 +207,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Surplus de patates douces égyptiennes face à l&#x27;atonie de la demande européenne -- <span class=\"news-date\">21/08/2026 15:04</span></div><div class=\"news-body\">La campagne égyptienne de patates douces traverse une phase difficile avec une demande européenne faible qui ne parvient pas à absorber une récolte plus abondante que celle de l&#x27;année précédente. Selon Mostafa Ali de Premium Sourcing, le marché est actuellement saturé par des excédents de stocks, l&#x27;offre dépassant largement la consommation. <span class=\"news-reason\">Analyse de marché sur un produit stratégique (patate douce) d&#x27;une origine concurrente majeure (Égypte).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865186/la-batata-egipcia-acumula-excedentes-ante-una-demanda-europea-que-no-despega/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Excédent de patates douces égyptiennes face à l&#x27;atonie de la demande européenne -- <span class=\"news-date\">21/08/2026 15:04</span></div><div class=\"news-body\">La campagne égyptienne de patates douces traverse une phase difficile avec une demande européenne faible qui ne parvient pas à absorber une récolte plus abondante que celle de l&#x27;année précédente. Selon Mostafa Ali de Premium Sourcing, le marché est actuellement saturé par des excédents de stocks, l&#x27;offre dépassant largement la consommation. <span class=\"news-reason\">Analyse de marché sur un produit stratégique (patate douce) d&#x27;une origine concurrente majeure (Égypte).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865186/la-batata-egipcia-acumula-excedentes-ante-una-demanda-europea-que-no-despega/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Surplus of Egyptian sweet potatoes in the face of sluggish European demand -- <span class=\"news-date\">21/08/2026 15:04</span></div><div class=\"news-body\">The Egyptian sweet potato campaign is going through a difficult phase with weak European demand failing to absorb a harvest that is more abundant than that of the previous year. According to Mostafa Ali of Premium Sourcing, the market is currently saturated with excess stocks, with supply far exceeding consumption. <span class=\"news-reason\">Market analysis of a strategic product (sweet potato) from a major competing origin (Egypt).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865186/la-batata-egipcia-acumula-excedentes-ante-una-demanda-europea-que-no-despega/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עודפי בטטות מצריות מול ביקוש אירופי רפה -- <span class=\"news-date\">21/08/2026 15:04</span></div><div class=\"news-body\">עונת הבטטות המצרית עוברת שלב קשה עם ביקוש אירופי נמוך שאינו מצליח לקלוט יבול שופע יותר מזה של השנה שעברה. לדברי מוסטפא עלי מ-Premium Sourcing, השוק רווי כיום בעודפי מלאי, כאשר ההיצע עולה משמעותית על הצריכה. <span class=\"news-reason\">ניתוח שוק של מוצר אסטרטגי (בטטה) ממקור מתחרה מרכזי (מצרים).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865186/la-batata-egipcia-acumula-excedentes-ante-una-demanda-europea-que-no-despega/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -236,7 +318,7 @@
     {
       "id": "1787294021_1",
       "timestamp": "2026-08-21T06:33:41.193186+00:00",
-      "title": "La production de pomelo chinois en hausse de 10 %",
+      "title": "Augmentation de 10 % de la production de pomelo chinois",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -247,286 +329,9 @@
       "origins": [
         "CHN"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La production de pomelo chinois en hausse de 10 % -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">La nouvelle saison du pomelo de Pinghe (Chine) est marquee par une hausse de production de 10 % et une qualite stable. Bien que les volumes augmentent, les prix de vente sont en legere baisse et les marges des exportateurs sont comprimees par des couts de fret maritime eleves. <span class=\"news-reason\">Chiffres de production et tendances de prix pour une origine concurrente directe du pomelo Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863946/stagione-del-pomelo-in-crescita-produzione-su-del-dieci-per-cento-ma-i-noli-marittimi-pesano-sull-export/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Augmentation de 10 % de la production de pomelo chinois -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">La nouvelle saison du pomelo de Pinghe (Chine) est marquee par une hausse de production de 10 % et une qualite stable. Bien que les volumes augmentent, les prix de vente sont en legere baisse et les marges des exportateurs sont comprimees par des couts de fret maritime eleves. <span class=\"news-reason\">Chiffres de production et tendances de prix pour une origine concurrente directe du pomelo Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863946/stagione-del-pomelo-in-crescita-produzione-su-del-dieci-per-cento-ma-i-noli-marittimi-pesano-sull-export/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Chinese pomelo production increases by 10% -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">The new Pinghe (China) pomelo season is marked by a 10% production increase and stable quality. Although volumes are increasing, selling prices are slightly down and exporters' margins are squeezed by high sea freight costs. <span class=\"news-reason\">Production figures and price trends for a direct competing origin of Mehadrin pomelo.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863946/stagione-del-pomelo-in-crescita-produzione-su-del-dieci-per-cento-ma-i-noli-marittimi-pesano-sull-export/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ייצור הפומלו הסיני גדל ב-10% -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">העונה החדשה של הפומלו מפינגהה (סין) מתאפיינת בעלייה של 10% בייצור ובאיכות יציבה. למרות עליית הכמויות, מחירי המכירה נמצאים בירידה קלה ושולי הרווח של היצואנים נשחקים בשל עלויות הובלה ימית גבוהות. <span class=\"news-reason\">נתוני ייצור ומגמות מחירים עבור מקור מתחרה ישיר לפומלו של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863946/stagione-del-pomelo-in-crescita-produzione-su-del-dieci-per-cento-ma-i-noli-marittimi-pesano-sull-export/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787288635_4",
-      "timestamp": "2026-08-21T05:03:54.994578+00:00",
-      "title": "Les exportations turques perturbées par une attaque en mer Noire -- 20/08/2026 13:36",
-      "category": "ALERTES SUPPLY",
-      "commercials": [],
-      "products": [],
-      "origins": [
-        "TUR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Les exportations turques perturbées par une attaque en mer Noire -- <span class=\"news-date\">20/08/2026 13:36</span></div><div class=\"news-body\">Une attaque de drone contre le navire Ro-Ro NADEZHDA a interrompu les liaisons maritimes entre Samsun et Tuapse. Cet incident perturbe les exportations de produits frais de la Turquie vers la Russie, ce qui pourrait impacter les flux de marchandises vers d&#x27;autres marchés européens. <span class=\"news-reason\">Alerte logistique majeure affectant un concurrent clé (Turquie) sur le flux des produits frais.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9864896/drone-attack-disrupts-turkey-russia-fresh-produce-shipments/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Turkish exports disrupted by Black Sea attack -- <span class=\"news-date\">20/08/2026 13:36</span></div><div class=\"news-body\">A drone attack on the Ro-Ro vessel NADEZHDA interrupted maritime links between Samsun and Tuapse. This incident disrupts fresh produce exports from Turkey to Russia, which could impact commodity flows to other European markets. <span class=\"news-reason\">Major logistical alert affecting a key competitor (Turkey) on fresh produce flow.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9864896/drone-attack-disrupts-turkey-russia-fresh-produce-shipments/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">הייצוא הטורקי השתבש עקב תקיפה בים השחור -- <span class=\"news-date\">20/08/2026 13:36</span></div><div class=\"news-body\">מתקפת כטב\"ם נגד הספינה Ro-Ro NADEZHDA קטעה את נתיבי השיט בין סמסון לטואפסה. אירוע זה משבש את ייצוא התוצרת הטרייה מטורקיה לרוסיה, מה שעלול להשפיע על זרימת הסחורות לשווקים אירופיים אחרים. <span class=\"news-reason\">התראה לוגיסטית משמעותית המשפיעה על מתחרה מפתח (טורקיה) בזרימת התוצרת הטרייה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9864896/drone-attack-disrupts-turkey-russia-fresh-produce-shipments/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787288634_3",
-      "timestamp": "2026-08-21T05:03:54.994578+00:00",
-      "title": "Campagne 2026 du melon italien : des perspectives complexes",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Sébastien"
-      ],
-      "products": [
-        "melon"
-      ],
-      "origins": [
-        "ITA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Campagne 2026 du melon italien : des perspectives complexes -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">La saison 2026 du melon en Italie est marquée par des difficultés de production liées aux fortes températures et à la grêle. Le marché reste plat, entraînant des prix de vente qui stagnent au niveau des coûts de production, selon les données de l&#x27;OP Francescon. <span class=\"news-reason\">Informations sur les conditions de marché et la rentabilité d&#x27;un produit Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865252/per-i-meloni-un-annata-molto-complicata/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Difficult 2026 campaign for Italian melons -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">The 2026 melon season in Italy is marked by production difficulties related to high temperatures and hail. The market remains flat, leading to selling prices that stagnate at production cost levels, according to data from OP Francescon. <span class=\"news-reason\">Information on market conditions and the profitability of a Mehadrin product during the season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865252/per-i-meloni-un-annata-molto-complicata/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עונת 2026 קשה למלון האיטלקי -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">עונת המלון 2026 באיטליה מתאפיינת בקשיי ייצור הקשורים לטמפרטורות גבוהות ולברד. השוק נותר סטטי, מה שמוביל למחירי מכירה שקופאים ברמת עלויות הייצור, על פי נתוני OP Francescon. <span class=\"news-reason\">מידע על תנאי השוק והרווחיות של מוצר מהדרין בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865252/per-i-meloni-un-annata-molto-complicata/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787288634_2",
-      "timestamp": "2026-08-21T05:03:54.994578+00:00",
-      "title": "Pérou : la production de mangues chute de 60 % sous l&#x27;effet d&#x27;El Niño",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie",
-        "Sébastien"
-      ],
-      "products": [
-        "mango"
-      ],
-      "origins": [
-        "PER"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pérou : la production de mangues chute de 60 % sous l&#x27;effet d&#x27;El Niño -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">Le phénomène El Niño a gravement perturbé la floraison des manguiers au Pérou, notamment dans la région de Piura. Les prévisions font état d&#x27;une baisse de production pouvant atteindre 60 %. La saison devrait débuter en semaine 40 à Piura et se terminer vers la fin décembre à Casma. <span class=\"news-reason\">Alerte critique sur les volumes d&#x27;une origine concurrente avec des chiffres précis et des dates de campagne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863433/el-nino-colpisce-la-fioritura-dei-mango-in-peru-con-un-potenziale-calo-della-produzione-fino-al-60-per-cento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Mango production in Peru drops by 60% due to El Niño -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">The El Niño phenomenon has severely disrupted mango tree flowering in Peru, particularly in the Piura region. Forecasts indicate a production drop of up to 60%. The season is expected to begin in week 40 in Piura and end around late December in Casma. <span class=\"news-reason\">Critical alert on volumes from a competing origin with precise figures and campaign dates.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863433/el-nino-colpisce-la-fioritura-dei-mango-in-peru-con-un-potenziale-calo-della-produzione-fino-al-60-per-cento/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ייצור המנגו בפרו צונח ב-60% עקב תופעת אל ניניו -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">תופעת אל ניניו שיבשה קשות את פריחת עצי המנגו בפרו, במיוחד באזור פיוורה (Piura). התחזיות מצביעות על ירידה בייצור שעלולה להגיע ל-60%. העונה צפויה להתחיל בשבוע 40 בפיוורה ולהסתיים לקראת סוף דצמבר בקסמה (Casma). <span class=\"news-reason\">התראה קריטית על כמויות ממקור מתחרה עם נתונים מדויקים ותאריכי עונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863433/el-nino-colpisce-la-fioritura-dei-mango-in-peru-con-un-potenziale-calo-della-produzione-fino-al-60-per-cento/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787288634_1",
-      "timestamp": "2026-08-21T05:03:54.994578+00:00",
-      "title": "L’Égypte intensifie ses exportations de mangues vers l’Europe",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "mango"
-      ],
-      "origins": [
-        "EGY"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’Égypte intensifie ses exportations de mangues vers l’Europe -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">L&#x27;entreprise égyptienne Ghezaa consolide sa présence sur les marchés de l&#x27;Union européenne et du Royaume-Uni. La campagne de mangue entre actuellement dans sa phase de pic d&#x27;expédition, avec des ambitions de croissance forte pour cette saison sur le continent européen. <span class=\"news-reason\">Description de la stratégie d&#x27;un concurrent direct sur le marché européen pendant le pic de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863102/pensiamo-che-questo-sara-un-anno-di-svolta-per-i-mango-egiziani-sul-mercato-europeo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Intensification of Egyptian mango exports to Europe -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">The Egyptian company Ghezaa is consolidating its presence in the European Union and United Kingdom markets. The mango campaign is currently entering its peak shipping phase, with ambitions for strong growth this season on the European continent. <span class=\"news-reason\">Description of the strategy of a direct competitor in the European market during the production peak.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863102/pensiamo-che-questo-sara-un-anno-di-svolta-per-i-mango-egiziani-sul-mercato-europeo/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">התגברות ייצוא המנגו המצרי לאירופה -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">החברה המצרית Ghezaa מבססת את נוכחותה בשוקי האיחוד האירופי ובריטניה. עונת המנגו נכנסת כעת לשלב שיא המשלוחים, עם שאיפות לצמיחה חזקה בעונה זו ביבשת אירופה. <span class=\"news-reason\">תיאור האסטרטגיה של מתחרה ישיר בשוק האירופי במהלך שיא הייצור.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863102/pensiamo-che-questo-sara-un-anno-di-svolta-per-i-mango-egiziani-sul-mercato-europeo/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787240077_4",
-      "timestamp": "2026-08-20T15:34:37.851067+00:00",
-      "title": "Perspectives de raffermissement des cours des oranges Valencia de Californie -- 20/08/2026 13:36",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "orange"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Perspectives de raffermissement des cours des oranges Valencia de Californie -- <span class=\"news-date\">20/08/2026 13:36</span></div><div class=\"news-body\">La campagne des oranges Valencia en Californie se caractérise cette année par des fruits de calibres anormalement gros. Cette spécificité de l&#x27;offre devrait entraîner un renforcement des prix sur le marché alors que l&#x27;offre reste stable. <span class=\"news-reason\">Indicateur de tendance de prix sur une variété d&#x27;orange concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9864841/pricing-expected-to-strengthen-on-california-valencias/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Outlook for firming prices of California Valencia oranges -- <span class=\"news-date\">20/08/2026 13:36</span></div><div class=\"news-body\">This year's Valencia orange season in California is characterized by abnormally large fruit sizes. This supply specificity is expected to lead to a strengthening of prices in the market while supply remains stable. <span class=\"news-reason\">Price trend indicator for a competing orange variety.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9864841/pricing-expected-to-strengthen-on-california-valencias/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">תחזיות להתחזקות מחירי תפוזי ולנסיה מקליפורניה -- <span class=\"news-date\">20/08/2026 13:36</span></div><div class=\"news-body\">עונת תפוזי הוולנסיה בקליפורניה מתאפיינת השנה בפירות בגדלים חריגים. ספציפיות זו של ההיצע צפויה להוביל להתחזקות המחירים בשוק בעוד שההיצע נותר יציב. <span class=\"news-reason\">מדד למגמת המחירים של זן תפוזים מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9864841/pricing-expected-to-strengthen-on-california-valencias/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787240077_3",
-      "timestamp": "2026-08-20T15:34:37.851067+00:00",
-      "title": "Impact des alertes météorologiques sur la production fruitière au Chili et au Pérou",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Nadia",
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "PER",
-        "CHL"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact des alertes météorologiques sur la production fruitière au Chili et au Pérou -- <span class=\"news-date\">20/08/2026 15:48</span></div><div class=\"news-body\">Des pluies intensives ont touché le nord du Chili (Tocopilla) et le sud du Pérou (Ica et Arequipa), provoquant des alertes chez les producteurs locaux. Bien que certains acteurs relativisent les risques immédiats, la situation reste sous surveillance pour l&#x27;impact potentiel sur les récoltes. <span class=\"news-reason\">Menaces climatiques sur des origines concurrentes pour les avocats et agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865116/las-lluvias-en-el-norte-de-chile-y-el-sur-de-peru-generan-alerta/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Weather alerts for fruit crops in Chile and Peru -- <span class=\"news-date\">20/08/2026 15:48</span></div><div class=\"news-body\">Intensive rains hit northern Chile (Tocopilla) and southern Peru (Ica and Arequipa), triggering alerts among local producers. Although some actors downplay the immediate risks, the situation remains under surveillance for potential impact on harvests. <span class=\"news-reason\">Climatic threats to competing origins for avocados and citrus.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865116/las-lluvias-en-el-norte-de-chile-y-el-sur-de-peru-generan-alerta/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">התראות מזג אוויר לגידולי פירות בצ'ילה ובפרו -- <span class=\"news-date\">20/08/2026 15:48</span></div><div class=\"news-body\">גשמים עזים פקדו את צפון צ'ילה (טוקופילה) ודרום פרו (איקה וארקיפה), ועוררו התראות בקרב המגדלים המקומיים. למרות שחלק מהגורמים ממעיטים בחשיבות הסיכונים המיידיים, המצב נותר תחת מעקב בשל ההשפעה הפוטנציאלית על היבולים. <span class=\"news-reason\">איומי אקלים על מקורות אספקה מתחרים לאבוקדו והדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865116/las-lluvias-en-el-norte-de-chile-y-el-sur-de-peru-generan-alerta/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787240077_2",
-      "timestamp": "2026-08-20T15:34:37.851067+00:00",
-      "title": "Ralentissement de la production d&#x27;avocats dans le nord du Pérou",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "PER"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Ralentissement de la production d&#x27;avocats dans le nord du Pérou -- <span class=\"news-date\">20/08/2026 15:48</span></div><div class=\"news-body\">Sous l&#x27;influence du phénomène El Niño, la production d&#x27;avocats dans le nord du Pérou, particulièrement dans la zone d&#x27;Olmos, subit un ralentissement marqué. Ce freinage contraste avec l&#x27;avance constatée sur d&#x27;autres cultures dans le sud du pays. <span class=\"news-reason\">Alerte sur la disponibilité future des volumes d&#x27;un concurrent direct (avocat).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865114/las-dos-caras-de-el-nino-en-peru-la-uva-del-sur-acelera-mientras-la-palta-del-norte-se-frena/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Slowdown in avocado production in northern Peru -- <span class=\"news-date\">20/08/2026 15:48</span></div><div class=\"news-body\">Under the influence of the El Niño phenomenon, avocado production in northern Peru, particularly in the Olmos area, is undergoing a marked slowdown. This slowdown contrasts with the progress observed in other crops in the south of the country. <span class=\"news-reason\">Alert on the future availability of volumes from a direct competitor (avocado).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865114/las-dos-caras-de-el-nino-en-peru-la-uva-del-sur-acelera-mientras-la-palta-del-norte-se-frena/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">האטה בייצור האבוקדו בצפון פרו -- <span class=\"news-date\">20/08/2026 15:48</span></div><div class=\"news-body\">תחת השפעת תופעת אל ניניו, ייצור האבוקדו בצפון פרו, במיוחד באזור אולמוס (Olmos), חווה האטה משמעותית. בלימה זו עומדת בניגוד להתקדמות שנרשמה בגידולים אחרים בדרום המדינה. <span class=\"news-reason\">התראה על זמינות עתידית של כמויות של מתחרה ישיר (אבוקדו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865114/las-dos-caras-de-el-nino-en-peru-la-uva-del-sur-acelera-mientras-la-palta-del-norte-se-frena/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787240077_1",
-      "timestamp": "2026-08-20T15:34:37.851067+00:00",
-      "title": "Le prix moyen de l&#x27;avocat péruvien a progressé de 10,1 % en juillet",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "PER"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le prix moyen de l&#x27;avocat péruvien a progressé de 10,1 % en juillet -- <span class=\"news-date\">20/08/2026 15:48</span></div><div class=\"news-body\">Les exportations péruviennes d&#x27;avocats ont atteint 1,272 milliard de dollars FOB sur les sept premiers mois de 2026, en hausse de 7,7 %. En juillet, malgré une baisse de 10 % des volumes, le chiffre d&#x27;affaires n&#x27;a reculé que de 1 % grâce à une progression de 10,1 % du prix moyen par kilo par rapport à l&#x27;an dernier. <span class=\"news-reason\">Données chiffrées précises sur les prix et volumes d&#x27;un concurrent direct de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865054/exportaciones-peruanas-de-palta-suman-1-272-millones-hasta-julio-con-alza-de-7-7/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">The average price of Peruvian avocado increased by 10.1% in July -- <span class=\"news-date\">20/08/2026 15:48</span></div><div class=\"news-body\">Peruvian avocado exports reached 1.272 billion dollars FOB over the first seven months of 2026, up 7.7%. In July, despite a 10% drop in volumes, turnover only fell by 1% thanks to a 10.1% increase in the average price per kilo compared to last year. <span class=\"news-reason\">Precise figures on prices and volumes of a direct competitor of Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865054/exportaciones-peruanas-de-palta-suman-1-272-millones-hasta-julio-con-alza-de-7-7/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">המחיר הממוצע של אבוקדו פרואני עלה ב-10.1% ביולי -- <span class=\"news-date\">20/08/2026 15:48</span></div><div class=\"news-body\">יצוא האבוקדו מפרו הגיע ל-1.272 מיליארד דולר FOB בשבעת החודשים הראשונים של 2026, עלייה של 7.7%. ביולי, למרות ירידה של 10% בכמויות, המחזור ירד ב-1% בלבד הודות לעלייה של 10.1% במחיר הממוצע לק\"ג בהשוואה לאשתקד. <span class=\"news-reason\">נתונים מספריים מדויקים על מחירים וכמויות של מתחרה ישיר של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865054/exportaciones-peruanas-de-palta-suman-1-272-millones-hasta-julio-con-alza-de-7-7/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787234611_2",
-      "timestamp": "2026-08-20T14:03:31.792549+00:00",
-      "title": "L&#x27;Australie anticipe une récolte record d&#x27;avocats pour 2026 -- 20/08/2026 12:00",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;Australie anticipe une récolte record d&#x27;avocats pour 2026 -- <span class=\"news-date\">20/08/2026 12:00</span></div><div class=\"news-body\">Le secteur australien de l&#x27;avocat se prépare à une récolte record en 2026. Cette croissance est portée par la maturité des nouveaux vergers et des conditions météorologiques favorables. La demande à l&#x27;exportation reste forte, notamment sur les marchés asiatiques. <span class=\"news-reason\">Information sur les volumes de production d&#x27;une origine concurrente sur l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/08/20/australian-avocado-26/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Australia anticipates a record avocado harvest for 2026 -- <span class=\"news-date\">20/08/2026 12:00</span></div><div class=\"news-body\">The Australian avocado sector is preparing for a record harvest in 2026. This growth is driven by the maturity of new orchards and favorable weather conditions. Export demand remains strong, particularly in Asian markets. <span class=\"news-reason\">Information on production volumes from a competing origin for avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/08/20/australian-avocado-26/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">אוסטרליה צופה יבול אבוקדו שובר שיאים לשנת 2026 -- <span class=\"news-date\">20/08/2026 12:00</span></div><div class=\"news-body\">מגזר האבוקדו האוסטרלי נערך ליבול שיא בשנת 2026. צמיחה זו מונעת מהבשלת מטעים חדשים ותנאי מזג אוויר נוחים. הביקוש לייצוא נותר חזק, במיוחד בשווקים האסיאתיים. <span class=\"news-reason\">מידע על נפחי ייצור של מקור מתחרה באבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/08/20/australian-avocado-26/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787229281_3",
-      "timestamp": "2026-08-20T12:34:41.317445+00:00",
-      "title": "Bilan de fin de campagne pour les mangues du Sénégal -- 20/08/2026 13:24",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "mango"
-      ],
-      "origins": [
-        "SEN"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Bilan de fin de campagne pour les mangues du Sénégal -- <span class=\"news-date\">20/08/2026 13:24</span></div><div class=\"news-body\">La campagne de mangues du Sénégal s&#x27;est achevée le 26 juillet. Malgré des volumes d&#x27;exportation en hausse par rapport à la saison dernière, des réclamations concernant la qualité ont été enregistrées de la part d&#x27;acheteurs internationaux. <span class=\"news-reason\">Analyse de fin de campagne d&#x27;une origine concurrente avec mention de la hausse des volumes et des problèmes de qualité.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9864735/des-volumes-d-exportation-en-hausse-pour-la-mangue-senegalaise/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">End-of-campaign review for Senegalese mangoes -- <span class=\"news-date\">20/08/2026 13:24</span></div><div class=\"news-body\">The Senegalese mango campaign ended on July 26. Despite export volumes being up compared to last season, quality complaints were recorded from international buyers. <span class=\"news-reason\">End-of-campaign analysis of a competing origin mentioning the increase in volumes and quality issues.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9864735/des-volumes-d-exportation-en-hausse-pour-la-mangue-senegalaise/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סיכום סוף עונה למנגו מסנגל -- <span class=\"news-date\">20/08/2026 13:24</span></div><div class=\"news-body\">עונת המנגו מסנגל הסתיימה ב-26 ביולי. למרות עלייה בכמויות היצוא בהשוואה לעונה שעברה, נרשמו תלונות בנוגע לאיכות מצד קונים בינלאומיים. <span class=\"news-reason\">ניתוח סוף עונה של מקור מתחרה עם ציון העלייה בכמויות ובעיות האיכות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9864735/des-volumes-d-exportation-en-维持-pour-la-mangue-senegalaise/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787229281_2",
-      "timestamp": "2026-08-20T12:34:41.317445+00:00",
-      "title": "Fin de campagne anticipée pour les mangues du Mexique -- 19/08/2026 13:30",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "mango"
-      ],
-      "origins": [
-        "MEX"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Fin de campagne anticipée pour les mangues du Mexique -- <span class=\"news-date\">19/08/2026 13:30</span></div><div class=\"news-body\">La saison des mangues au Mexique se termine nettement plus tôt que d&#x27;habitude. Seule la variété Keitt est encore disponible pour quelques semaines, la production biologique actuelle provenant de la région de Los Mochis. <span class=\"news-reason\">Information sur la fin de disponibilité d&#x27;une origine majeure concurrente pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/africa/article/9864592/mexican-mango-season-expected-to-end-before-the-end-of-the-month/\" target=\"_blank\">FreshPlaza Africa -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Early end of campaign for Mexican mangoes -- <span class=\"news-date\">19/08/2026 13:30</span></div><div class=\"news-body\">The mango season in Mexico is ending significantly earlier than usual. Only the Keitt variety is still available for a few weeks, with current organic production coming from the Los Mochis region. <span class=\"news-reason\">Information on the end of availability of a major competing origin for mangoes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/africa/article/9864592/mexican-mango-season-expected-to-end-before-the-end-of-the-month/\" target=\"_blank\">FreshPlaza Africa -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סיום עונה מוקדם למנגו ממקסיקו -- <span class=\"news-date\">19/08/2026 13:30</span></div><div class=\"news-body\">עונת המנגו במקסיקו מסתיימת מוקדם משמעותית מהרגיל. רק זן הקיט עדיין זמין לכמה שבועות, כאשר הייצור האורגני הנוכחי מגיע מאזור לוס מוצ'יס. <span class=\"news-reason\">מידע על סיום הזמינות של מקור מתחרה מרכזי למנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/africa/article/9864592/mexican-mango-season-expected-to-end-before-the-end-of-the-month/\" target=\"_blank\">FreshPlaza Africa -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787229281_1",
-      "timestamp": "2026-08-20T12:34:41.317445+00:00",
-      "title": "Baisse de 20 à 25 % de la production de mangues espagnoles cette année -- 20/08/2026 13:24",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "mango"
-      ],
-      "origins": [
-        "ESP"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse de 20 à 25 % de la production de mangues espagnoles cette année -- <span class=\"news-date\">20/08/2026 13:24</span></div><div class=\"news-body\">La campagne de mangues en Espagne débute avec au moins une semaine d&#x27;avance. La production totale devrait être inférieure de 20 à 25 % par rapport à 2025. La récolte de la variété principale Osteen commencera prochainement. <span class=\"news-reason\">Article contenant des chiffres de volumes précis sur une origine concurrente directe au moment du début de sa récolte.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9864789/nous-estimons-que-la-production-de-mangues-espagnoles-sera-inferieure-d-environ-20-a-25-cette-annee/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">20 to 25% drop in Spanish mango production this year -- <span class=\"news-date\">20/08/2026 13:24</span></div><div class=\"news-body\">The mango campaign in Spain is starting at least a week early. Total production is expected to be 20 to 25% lower compared to 2025. Harvesting of the main variety Osteen will begin shortly. <span class=\"news-reason\">Article containing precise volume figures for a direct competing origin at the start of its harvest.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9864789/nous-estimons-que-la-production-de-mangues-espagnoles-sera-inferieure-d-environ-20-a-25-cette-annee/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 20 עד 25 אחוזים בייצור המנגו הספרדי השנה -- <span class=\"news-date\">20/08/2026 13:24</span></div><div class=\"news-body\">עונת המנגו בספרד מתחילה בהקדמה של שבוע אחד לפחות. הייצור הכולל צפוי להיות נמוך ב-20 עד 25 אחוזים בהשוואה לשנת 2025. קטיף הזן העיקרי אוסטין יתחיל בקרוב. <span class=\"news-reason\">כתבה המכילה נתוני כמויות מדויקים על מקור מתחרה ישיר בזמן תחילת הקטיף שלו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9864789/nous-estimons-que-la-production-de-mangues-espagnoles-sera-inferieure-d-environ-20-a-25-cette-annee/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787218461_0",
-      "timestamp": "2026-08-20T09:34:21.549470+00:00",
-      "title": "Expansion des programmes de distribution d&#x27;avocats biologiques mexicains en Europe",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "MEX"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Expansion des programmes de distribution d&#x27;avocats biologiques mexicains en Europe -- <span class=\"news-date\">20/08/2026 10:58</span></div><div class=\"news-body\">Eosta et Avova ont annoncé une expansion significative de leur production d&#x27;avocats biologiques &#x27;Organic Raingrown&#x27; pour la saison en cours. Avova, spécialiste basé dans le Michoacán au Mexique, commence ses premières expéditions vers le marché européen cette semaine. <span class=\"news-reason\">Information sur l&#x27;expansion commerciale d&#x27;un concurrent (Eosta/Avova) sur le marché européen de l&#x27;avocat bio.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9864906/lieferprogramme-erneut-ausgeweitet/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">BRAND MOVEMENTS</div><div class=\"news-title\">Expansion of Mexican organic avocado delivery programs to Europe -- <span class=\"news-date\">20/08/2026 10:58</span></div><div class=\"news-body\">Eosta and Avova have announced a significant expansion of their 'Organic Raingrown' organic avocado production for the current season. Avova, a specialist based in Michoacán, Mexico, is starting its first shipments to the European market this week. <span class=\"news-reason\">Information on the commercial expansion of a competitor (Eosta/Avova) in the European organic avocado market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9864906/lieferprogramme-erneut-ausgeweitet/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">פעילות רשתות שיווק</div><div class=\"news-title\">התרחבות תוכניות האספקה של אבוקדו אורגני מקסיקני לאירופה -- <span class=\"news-date\">20/08/2026 10:58</span></div><div class=\"news-body\">חברות Eosta ו-Avova הכריזו על הרחבה משמעותית של ייצור האבוקדו האורגני &#x27;Organic Raingrown&#x27; לעונה הנוכחית. Avova, מומחית הממוקמת במיצ&#x27;ואקן שבמקסיקו, מתחילה השבוע את המשלוחים הראשונים שלה לשוק האירופי. <span class=\"news-reason\">מידע על התרחבות מסחרית של מתחרה (Eosta/Avova) בשוק האבוקדו האורגני האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9864906/lieferprogramme-erneut-ausgeweitet/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787207610_1",
-      "timestamp": "2026-08-20T06:33:30.078779+00:00",
-      "title": "Clôture de la campagne pour les pastèques du Tyrol -- 19/08/2026 13:30",
-      "category": "ALERTES SUPPLY",
-      "commercials": [],
-      "products": [
-        "watermelon"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Clôture de la campagne pour les pastèques du Tyrol -- <span class=\"news-date\">19/08/2026 13:30</span></div><div class=\"news-body\">La récolte des pastèques dans le Tyrol touche à sa fin, les expéditions devant se poursuivre jusqu&#x27;à la fin de la semaine 35 selon la demande. Bien que populaire, la culture sur quatre hectares fait face à une rentabilité actuellement jugée trop faible. <span class=\"news-reason\">Information sur la fin de saison d&#x27;une origine concurrente pour la pastèque, produit en saison chez Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9864389/tyrolean-watermelons-are-gaining-popularity-but-profitability-remains-too-low-for-now/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">End of the campaign for Tyrolean watermelons -- <span class=\"news-date\">19/08/2026 13:30</span></div><div class=\"news-body\">The watermelon harvest in Tyrol is coming to an end, with shipments expected to continue until the end of week 35 depending on demand. Although popular, cultivation on four hectares currently faces profitability judged to be too low. <span class=\"news-reason\">Information on the end of the season for a competing origin for watermelon, a seasonal product at Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9864389/tyrolean-watermelons-are-gaining-popularity-but-profitability-remains-too-low-for-now/\" target=\"_blank\">FreshPlaza -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סיום עונת האבטיחים בטירול -- <span class=\"news-date\">19/08/2026 13:30</span></div><div class=\"news-body\">קטיף האבטיחים בטירול מתקרב לסיומו, כאשר המשלוחים צפויים להימשך עד סוף שבוע 35 בהתאם לביקוש. למרות הפופולריות שלו, הגידול על פני ארבעה הקטרים מתמודד כיום עם רווחיות הנחשבת לנמוכה מדי. <span class=\"news-reason\">מידע על סיום העונה של מקור מתחרה לאבטיח, מוצר הנמצא בעונה אצל מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9864389/tyrolean-watermelons-are-gaining-popularity-but-profitability-remains-too-low-for-now/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787202206_0",
-      "timestamp": "2026-08-20T05:03:26.554215+00:00",
-      "title": "Chute de 50 à 60 % des exportations d&#x27;avocats de Colombie pour la campagne s&#x27;achevant en août",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "COL"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Chute de 50 à 60 % des exportations d&#x27;avocats de Colombie pour la campagne s&#x27;achevant en août -- <span class=\"news-date\">20/08/2026 06:05</span></div><div class=\"news-body\">En Colombie, le secteur de l&#x27;avocat Hass traverse l&#x27;une des périodes les plus difficiles de son histoire. Les exportations pour la campagne se terminant en août ont enregistré une baisse massive comprise entre 50 % et 60 %. Cette situation critique touche particulièrement les producteurs du sud-ouest d&#x27;Antioquia, confrontés à une chute des volumes après des années de croissance soutenue. <span class=\"news-reason\">Article contenant des chiffres précis sur la baisse des volumes d&#x27;exportation d&#x27;un pays concurrent majeur pour l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863147/le-esportazioni-per-la-campagna-avocado-che-termina-ad-agosto-sono-diminuite-del-50-60-per-cento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">50 to 60% drop in Colombian avocado exports for the season ending in August -- <span class=\"news-date\">20/08/2026 06:05</span></div><div class=\"news-body\">In Colombia, the Hass avocado sector is going through one of the most difficult periods in its history. Exports for the season ending in August recorded a massive drop of between 50% and 60%. This critical situation particularly affects producers in southwestern Antioquia, facing a drop in volumes after years of sustained growth. <span class=\"news-reason\">Article containing precise figures on the drop in export volumes from a major competitor country for avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863147/le-esportazioni-per-la-campagna-avocado-che-termina-ad-agosto-sono-diminuite-del-50-60-per-cento/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 50% עד 60% בייצוא האבוקדו מקולומביה לעונה המסתיימת באוגוסט -- <span class=\"news-date\">20/08/2026 06:05</span></div><div class=\"news-body\">בקולומביה, ענף אבוקדו האס עובר את אחת התקופות הקשות בתולדותיו. הייצוא לעונה המסתיימת באוגוסט רשם ירידה מאסיבית של בין 50% ל-60%. מצב קריטי זה משפיע במיוחד על המגדלים בדרום-מערב אנטיוקיה, המתמודדים עם צניחה בכמויות לאחר שנים של צמיחה מתמדת. <span class=\"news-reason\">מאמר המכיל נתונים מדויקים על הירידה בכמויות הייצוא של מדינה מתחרה מרכזית בענף האבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863147/le-esportazioni-per-la-campagna-avocado-che-termina-ad-agosto-sono-diminuite-del-50-60-per-cento/\" target=\"_blank\">FreshPlaza IT -- קרא את המאמר</a></div></div>"
-    },
-    {
-      "id": "1787164395_0",
-      "timestamp": "2026-08-19T18:33:15.620760+00:00",
-      "title": "L&#x27;Union européenne enregistre un volume record d&#x27;importations d&#x27;agrumes cette saison -- 19/08/2026 12:10",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [
-        "ESP"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Union européenne enregistre un volume record d&#x27;importations d&#x27;agrumes cette saison -- <span class=\"news-date\">19/08/2026 12:10</span></div><div class=\"news-body\">L&#x27;Union européenne a importé un volume record de 1 572 564 tonnes d&#x27;agrumes entre septembre 2025 et mai 2026. Selon le ministère espagnol de l&#x27;Agriculture, il s&#x27;agit du chiffre le plus élevé jamais enregistré pour cette période. <span class=\"news-reason\">Contient des chiffres précis de volumes d&#x27;importations sur un produit Mehadrin phare sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9863927/eu-importeert-recordhoeveelheid-citrus/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">The European Union records a record volume of citrus imports this season -- <span class=\"news-date\">19/08/2026 12:10</span></div><div class=\"news-body\">The European Union imported a record volume of 1,572,564 tons of citrus between September 2025 and May 2026. According to the Spanish Ministry of Agriculture, this is the highest figure ever recorded for this period. <span class=\"news-reason\">Contains precise figures of import volumes for a flagship Mehadrin product on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9863927/eu-importeert-recordhoeveelheid-citrus/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">האיחוד האירופי רושם היקף שיא של יבוא פרי הדר העונה -- <span class=\"news-date\">19/08/2026 12:10</span></div><div class=\"news-body\">האיחוד האירופי ייבא היקף שיא של 1,572,564 טונות של פרי הדר בין ספטמבר 2025 למאי 2026. לפי משרד החקלאות הספרדי, זהו הנתון הגבוה ביותר שנרשם אי פעם לתקופה זו. <span class=\"news-reason\">מכיל נתונים מדויקים על היקפי יבוא של מוצר דגל של מהדרין בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9863927/eu-importeert-recordhoeveelheid-citrus/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
