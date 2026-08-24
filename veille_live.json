@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T14:02:28.946034+00:00",
-  "article_count": 22,
+  "last_updated": "2026-08-24T15:31:30.063086+00:00",
+  "article_count": 20,
   "attention_points": [
     {
       "id": "attention-4181f9322c82b20c",
@@ -19,7 +19,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 2
+      "age_hours": 3
     },
     {
       "id": "attention-4857e20814af83d2",
@@ -39,7 +39,26 @@
         "melon",
         "watermelon"
       ],
-      "age_hours": 2
+      "age_hours": 3
+    },
+    {
+      "id": "attention-656bfb7fddc6d7ac",
+      "article_id": "1787585490_0",
+      "url": "https://www.freshplaza.fr/article/9865188/le-marche-de-la-patate-douce-est-tres-lent-en-ce-moment/",
+      "source": "FreshPlaza FR",
+      "title": "Demande atone pour la patate douce égyptienne",
+      "summary": "Une récolte égyptienne abondante peine à être absorbée",
+      "origin_code": "EGY",
+      "origin_label": "Égypte",
+      "published_at": "2026-08-24T13:37:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "sweet_potato"
+      ],
+      "age_hours": 3
     },
     {
       "id": "attention-0f122225b069daf3",
@@ -56,30 +75,28 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-31ecb1e2897f45f4",
-      "article_id": "1787574814_5",
-      "url": "https://www.freshplaza.com/article/9865678/south-african-cambria-oranges-arrive-gradually-while-avocado-prices-continue-to-rise/",
-      "source": "FreshPlaza",
-      "title": "Hausse des cours de l'avocat et arrivée des oranges",
-      "summary": "Les oranges sud-africaines Cambria entrent sur le marche avec des prix stables, la taille #55 etant cotee entre 250 et 270 ¥ par carton.",
-      "origin_code": "ZAF",
-      "origin_label": "Afrique du Sud",
-      "published_at": "2026-08-24T13:36:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "price",
-      "signal_label": "Prix",
-      "icon": "information",
-      "products": [
-        "avocat",
-        "orange"
-      ],
-      "age_hours": 2
+      "age_hours": 3
     }
   ],
   "articles": [
+    {
+      "id": "1787585490_0",
+      "timestamp": "2026-08-24T15:31:30.063086+00:00",
+      "title": "Ralentissement du marché de la patate douce en Égypte -- 24/08/2026 13:37",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "sweet_potato"
+      ],
+      "origins": [
+        "EGY"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Ralentissement du marché de la patate douce en Égypte -- <span class=\"news-date\">24/08/2026 13:37</span></div><div class=\"news-body\">La campagne égyptienne de patate douce traverse une phase de stagnation commerciale. Selon Mostafa Ali de Premium Sourcing, le marché international a des difficultés à absorber une récolte plus volumineuse que lors des campagnes précédentes, entraînant une demande très atone et un ralentissement des flux export. <span class=\"news-reason\">Information stratégique sur les volumes et la demande d&#x27;un produit Mehadrin (patate douce) chez un concurrent direct (Égypte).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9865188/le-marche-de-la-patate-douce-est-tres-lent-en-ce-moment/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Slowdown of the sweet potato market in Egypt -- <span class=\"news-date\">24/08/2026 13:37</span></div><div class=\"news-body\">The Egyptian sweet potato campaign is going through a phase of commercial stagnation. According to Mostafa Ali of Premium Sourcing, the international market is having difficulty absorbing a larger harvest than in previous campaigns, leading to very sluggish demand and a slowdown in export flows. <span class=\"news-reason\">Strategic information on volumes and demand for a Mehadrin product (sweet potato) from a direct competitor (Egypt).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9865188/le-marche-de-la-patate-douce-est-tres-lent-en-ce-moment/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">האטה בשוק הבטטה במצרים -- <span class=\"news-date\">24/08/2026 13:37</span></div><div class=\"news-body\">עונת הבטטה המצרית עוברת שלב של קיפאון מסחרי. לפי מוסטפא עלי מ-Premium Sourcing, לשוק הבינלאומי יש קושי לספוג יבול גדול יותר מאשר בעונות קודמות, מה שמוביל לביקוש דל מאוד ולהאטה בזרימת הייצוא. <span class=\"news-reason\">מידע אסטרטגי על כמויות וביקוש למוצר מהדרין (בטטה) אצל מתחרה ישיר (מצרים).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9865188/le-marche-de-la-patate-douce-est-tres-lent-en-ce-moment/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1787580148_0",
       "timestamp": "2026-08-24T14:02:28.946034+00:00",
@@ -360,7 +377,7 @@
     {
       "id": "1787547760_3",
       "timestamp": "2026-08-24T05:02:40.982462+00:00",
-      "title": "Forte concurrence sur le marché italien de la pastèque",
+      "title": "Vive concurrence sur le marché italien de la pastèque",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [],
       "products": [
@@ -369,7 +386,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Forte concurrence sur le marché italien de la pastèque -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">La coopérative Agrieuropa rapporte une campagne de pastèques difficile en Italie. Malgré des volumes importants, la saison est marquée par une tension commerciale maximale lors des pics de production en raison d&#x27;une forte concurrence. <span class=\"news-reason\">Informations sur l&#x27;état du marché et la concurrence pour un produit Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865703/angurie-volumi-importanti-ma-una-campagna-segnata-dalla-forte-concorrenza/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Vive concurrence sur le marché italien de la pastèque -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">La coopérative Agrieuropa rapporte une campagne de pastèques difficile en Italie. Malgré des volumes importants, la saison est marquée par une tension commerciale maximale lors des pics de production en raison d&#x27;une forte concurrence. <span class=\"news-reason\">Informations sur l&#x27;état du marché et la concurrence pour un produit Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865703/angurie-volumi-importanti-ma-una-campagna-segnata-dalla-forte-concorrenza/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Intense competition in the Italian watermelon market -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">The Agrieuropa cooperative reports a difficult watermelon campaign in Italy. Despite significant volumes, the season is marked by maximum commercial tension during production peaks due to strong competition. <span class=\"news-reason\">Information on market status and competition for a Mehadrin product in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865703/angurie-volumi-importanti-ma-una-campagna-segnata-dalla-forte-concorrenza/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">תחרות עזה בשוק האבטיחים האיטלקי -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">הקואופרטיב Agrieuropa מדווח על עונת אבטיחים מאתגרת באיטליה. למרות כמויות משמעותיות, העונה מתאפיינת במתח מסחרי מרבי במהלך שיאי הייצור בשל תחרות עזה. <span class=\"news-reason\">מידע על מצב השוק והתחרות עבור מוצר מהדרין בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865703/angurie-volumi-importanti-ma-una-campagna-segnata-dalla-forte-concorrenza/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -424,54 +441,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique du Sud : révision à la baisse des prévisions d&#x27;exportation d&#x27;agrumes pour 2026 -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">L&#x27;Association des producteurs d&#x27;agrumes d&#x27;Afrique du Sud (CGA) a abaissé ses estimations d&#x27;exportation totales pour 2026 à 205 millions de cartons de 15 kg. La prévision initiale s&#x27;élevait à 209,4 millions de cartons. <span class=\"news-reason\">Contient des volumes d&#x27;exportation révisés avec des chiffres précis pour un produit et une origine concurrents majeurs.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861748/agrumi-sudafricani-le-stime-di-esportazione-2026-scendono-a-205-milioni-di-cartoni/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Downward revision of South African citrus export forecasts for 2026 -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">The Citrus Growers&#x27; Association of South Africa (CGA) has lowered its total export estimates for 2026 to 205 million 15 kg cartons. The initial forecast stood at 209.4 million cartons. <span class=\"news-reason\">Contains revised export volumes with precise figures for a major competing product and origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861748/agrumi-sudafricani-le-stime-di-esportazione-2026-scendono-a-205-milioni-di-cartoni/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים ונפחים</div><div class=\"news-title\">עדכון כלפי מטה של תחזיות ייצוא פירות הדר מדרום אפריקה לשנת 2026 -- <span class=\"news-date\">24/08/2026 06:00</span></div><div class=\"news-body\">התאחדות מגדלי ההדרים של דרום אפריקה (CGA) הפחיתה את הערכות הייצוא הכוללות שלה לשנת 2026 ל-205 מיליון קרטונים של 15 ק\"ג. התחזית הראשונית עמדה על 209.4 מיליון קרטונים. <span class=\"news-reason\">מכיל נתוני נפחי ייצוא מעודכנים עם נתונים מדויקים עבור מוצר ומקור מתחרים עיקריים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9861748/agrumi-sudafricani-le-stime-di-esportazione-2026-scendono-a-205-milioni-di-cartoni/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787321099_2",
-      "timestamp": "2026-08-21T14:04:59.804731+00:00",
-      "title": "Le Nigeria lance un programme de plantation d&#x27;un million d&#x27;arbres fruitiers. -- 21/08/2026 13:22",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Nigeria lance un programme de plantation d&#x27;un million d&#x27;arbres fruitiers. -- <span class=\"news-date\">21/08/2026 13:22</span></div><div class=\"news-body\">L&#x27;Autorité nationale de développement des terres agricoles (NALDA) du Nigeria prévoit de planter un million d&#x27;arbres économiques dans le cadre du projet Green Hope. Le programme vise à établir des pôles horticoles incluant des avocatiers et des manguiers à travers les six zones géopolitiques du pays. <span class=\"news-reason\">Stratégie d&#x27;expansion de cultures concurrentes (avocats) dans une nouvelle origine.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9865286/nigeria-plans-one-million-trees-for-horticultural-clusters/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Nigeria launches a program to plant one million fruit trees. -- <span class=\"news-date\">21/08/2026 13:22</span></div><div class=\"news-body\">Nigeria's National Agricultural Land Development Authority (NALDA) plans to plant one million economic trees as part of the Green Hope project. The program aims to establish horticultural hubs including avocado and mango trees across the country's six geopolitical zones. <span class=\"news-reason\">Expansion strategy for competing crops (avocados) in a new origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9865286/nigeria-plans-one-million-trees-for-horticultural-clusters/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות בין מקורות אספקה</div><div class=\"news-title\">ניגריה משיקה תוכנית לנטיעת מיליון עצי פרי. -- <span class=\"news-date\">21/08/2026 13:22</span></div><div class=\"news-body\">הרשות הלאומית לפיתוח קרקעות חקלאיות (NALDA) של ניגריה מתכננת לנטוע מיליון עצים כלכליים במסגרת פרויקט Green Hope. התוכנית שואפת להקים מרכזי הורטיקולטורה הכוללים עצי אבוקדו ומנגו בששת האזורים הגיאופוליטיים של המדינה. <span class=\"news-reason\">אסטרטגיית התרחבות של גידולים מתחרים (אבוקדו) במקור אספקה חדש.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9865286/nigeria-plans-one-million-trees-for-horticultural-clusters/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787321099_1",
-      "timestamp": "2026-08-21T14:04:59.804731+00:00",
-      "title": "Fin de la campagne des pastèques tyroliennes : une rentabilité limitée",
-      "category": "ALERTES SUPPLY",
-      "commercials": [],
-      "products": [
-        "watermelon"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Fin de la campagne des pastèques tyroliennes : une rentabilité limitée -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">La saison de la pastèque dans le Tyrol (Autriche) touche à sa fin, avec des livraisons prévues jusqu&#x27;à la fin de la semaine 35. Bien que le produit gagne en acceptation auprès des consommateurs, Andreas Norz de Ulrichshof GmbH souligne que la rentabilité sur les quatre hectares cultivés reste insuffisante. <span class=\"news-reason\">Information sur la fin de campagne d&#x27;un produit en saison (pastèque) sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864390/l-anguria-tirolese-trova-sempre-maggiore-accettazione-ma-la-redditivita-e-ancora-troppo-bassa/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Closing of the Tyrolean watermelon season against a backdrop of limited profitability -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">The watermelon season in Tyrol (Austria) is drawing to a close, with deliveries scheduled until the end of week 35. Although the product is gaining acceptance among consumers, Andreas Norz of Ulrichshof GmbH emphasizes that profitability on the four hectares cultivated remains insufficient. <span class=\"news-reason\">Information on the end of the campaign for a seasonal product (watermelon) on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864390/l-anguria-tirolese-trova-sempre-maggiore-accettazione-ma-la-redditivita-e-ancora-troppo-bassa/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סיום עונת האבטיחים בטירול על רקע רווחיות מוגבלת -- <span class=\"news-date\">21/08/2026 06:05</span></div><div class=\"news-body\">עונת האבטיחים בטירול (אוסטריה) מגיעה לסיומה, עם משלוחים המתוכננים עד סוף שבוע 35. למרות שהמוצר זוכה לקבלה גוברת בקרב הצרכנים, אנדראס נורץ מ-Ulrichshof GmbH מדגיש כי הרווחיות על ארבעת ההקטרים המעובדים נותרת בלתי מספקת. <span class=\"news-reason\">מידע על סיום עונה של מוצר עונתי (אבטיח) בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864390/l-anguria-tirolese-trova-sempre-maggiore-accettazione-ma-la-redditivita-e-ancora-troppo-bassa/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787321099_0",
-      "timestamp": "2026-08-21T14:04:59.804731+00:00",
-      "title": "Surplus de patates douces égyptiennes face à l&#x27;atonie de la demande européenne",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "sweet_potato"
-      ],
-      "origins": [
-        "EGY"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Surplus de patates douces égyptiennes face à l&#x27;atonie de la demande européenne -- <span class=\"news-date\">21/08/2026 15:04</span></div><div class=\"news-body\">La campagne égyptienne de patates douces traverse une phase difficile avec une demande européenne faible qui ne parvient pas à absorber une récolte plus abondante que celle de l&#x27;année précédente. Selon Mostafa Ali de Premium Sourcing, le marché est actuellement saturé par des excédents de stocks, l&#x27;offre dépassant largement la consommation. <span class=\"news-reason\">Analyse de marché sur un produit stratégique (patate douce) d&#x27;une origine concurrente majeure (Égypte).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865186/la-batata-egipcia-acumula-excedentes-ante-una-demanda-europea-que-no-despega/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Surplus of Egyptian sweet potatoes in the face of sluggish European demand -- <span class=\"news-date\">21/08/2026 15:04</span></div><div class=\"news-body\">The Egyptian sweet potato campaign is going through a difficult phase with weak European demand failing to absorb a harvest that is more abundant than that of the previous year. According to Mostafa Ali of Premium Sourcing, the market is currently saturated with excess stocks, with supply far exceeding consumption. <span class=\"news-reason\">Market analysis of a strategic product (sweet potato) from a major competing origin (Egypt).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865186/la-batata-egipcia-acumula-excedentes-ante-una-demanda-europea-que-no-despega/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עודפי בטטות מצריות מול ביקוש אירופי רפה -- <span class=\"news-date\">21/08/2026 15:04</span></div><div class=\"news-body\">עונת הבטטות המצרית עוברת שלב קשה עם ביקוש אירופי נמוך שאינו מצליח לקלוט יבול שופע יותר מזה של השנה שעברה. לדברי מוסטפא עלי מ-Premium Sourcing, השוק רווי כיום בעודפי מלאי, כאשר ההיצע עולה משמעותית על הצריכה. <span class=\"news-reason\">ניתוח שוק של מוצר אסטרטגי (בטטה) ממקור מתחרה מרכזי (מצרים).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865186/la-batata-egipcia-acumula-excedentes-ante-una-demanda-europea-que-no-despega/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
