@@ -1,10 +1,49 @@
 {
-  "last_generated": "2026-08-25T15:34:03.893925+00:00",
+  "last_generated": "2026-08-25T17:03:46.149528+00:00",
   "articles": [
+    {
+      "id": "1787677426_0",
+      "timestamp": "2026-08-25T17:03:46.149528+00:00",
+      "title": "Nouvelle-Zélande : Pertes de récoltes d&#x27;avocats consécutives à des gelées de -5°C -- 25/08/2026 13:39",
+      "title_hash": "nouvellezélande pertes récoltes dx27avocats consécutives à gelées 5c",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "NZL"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Nouvelle-Zélande : Pertes de récoltes d&#x27;avocats consécutives à des gelées de -5°C -- <span class=\"news-date\">25/08/2026 13:39</span></div><div class=\"news-body\">Les producteurs d&#x27;avocats néo-zélandais évaluent d&#x27;importantes pertes de récolte suite à des gelées nocturnes ayant atteint -5°C les 5 et 6 août. Les vergers de plusieurs régions clés, notamment la Bay of Plenty, ont été touchés alors que la campagne de récolte montait en puissance. Les dégâts constatés incluent des chutes massives de fruits, un brunissement du feuillage et des impacts sur les premières récoltes. <span class=\"news-reason\">Alerte supply majeure concernant l&#x27;avocat chez un pays concurrent impactant la disponibilité mondiale.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9866187/avocado-growers-in-new-zealand-assess-crop-losses-after-5degc-frost/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">New Zealand: Avocado crop losses following -5°C frosts -- <span class=\"news-date\">25/08/2026 13:39</span></div><div class=\"news-body\">New Zealand avocado growers are assessing significant crop losses following overnight frosts that reached -5°C on August 5 and 6. Orchards in several key regions, notably the Bay of Plenty, were affected as the harvesting season was gaining momentum. Observed damage includes massive fruit drop, browning of foliage, and impacts on early harvests. <span class=\"news-reason\">Major supply alert regarding avocados in a competing country impacting global availability.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9866187/avocado-growers-in-new-zealand-assess-crop-losses-after-5degc-frost/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ניו זילנד: אובדן יבולי אבוקדו בעקבות קרה של -5°C -- <span class=\"news-date\">25/08/2026 13:39</span></div><div class=\"news-body\">מגדלי האבוקדו בניו זילנד מעריכים אובדן יבולים משמעותי בעקבות קרה לילית שהגיעה ל-5- מעלות צלזיוס ב-5 וב-6 באוגוסט. מטעים בכמה אזורי מפתח, ובהם מפרץ פלנטי, נפגעו בשעה שעונת הקטיף תפסה תאוצה. הנזקים שנצפו כוללים נשירה מסיבית של פירות, השחמה של העלווה והשפעות על היבולים הראשונים. <span class=\"news-reason\">התראת אספקה משמעותית בנוגע לאבוקדו במדינה מתחרה המשפיעה על הזמינות העולמית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9866187/avocado-growers-in-new-zealand-assess-crop-losses-after-5degc-frost/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>",
+      "rss_metadata": {
+        "id": "rss-dc35c700d79f44d4",
+        "title": "Avocado growers in New Zealand assess crop losses after -5°C frost",
+        "summary": "New Zealand avocado growers are assessing crop losses after temperatures fell to around -5°C on the nights of August 5 and 6. The frost affected orchards in several growing regions, including the Bay of Plenty, as the harvest was building. Fruit has dropped from trees, foliage has browned, and some early…",
+        "url": "https://www.freshplaza.com/article/9866187/avocado-growers-in-new-zealand-assess-crop-losses-after-5degc-frost/",
+        "source": "FreshPlaza",
+        "published_at": "2026-08-25T13:39:00+02:00",
+        "language": "en",
+        "products": [
+          "avocat"
+        ],
+        "origins": [
+          "NZL"
+        ]
+      },
+      "attention_enrichment": {
+        "title_fr": "Gelées sévères sur les récoltes d'avocats",
+        "summary_fr": "Pertes de fruits et dommages foliaires après gel"
+      },
+      "gemini_score": 7
+    },
     {
       "id": "1787672043_3",
       "timestamp": "2026-08-25T15:34:03.893925+00:00",
-      "title": "Le Brésil tire parti des retards de production de mangues au Pérou et en Équateur",
+      "title": "Le Brésil tire profit des retards de production de mangues au Pérou et en Équateur",
       "title_hash": "brésil tire profit retards production mangues pérou équateur",
       "category": "ALERTES SUPPLY",
       "commercials": [
@@ -17,7 +56,7 @@
         "PER",
         "BRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le Brésil tire parti des retards de production de mangues au Pérou et en Équateur -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">Le marché brésilien de la mangue profite d&#x27;une fenêtre d&#x27;exportation favorable en raison de retards de production au Pérou et en Équateur. Cette disponibilité réduite chez les concurrents redirige la demande internationale vers l&#x27;origine brésilienne pour la seconde moitié de 2026. <span class=\"news-reason\">Intelligence sur les fenêtres de commercialisation et les décalages de production chez les concurrents.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866411/retrasos-en-peru-y-ecuador-favorecen-la-ventana-comercial-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le Brésil tire profit des retards de production de mangues au Pérou et en Équateur -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">Le marché brésilien de la mangue profite d&#x27;une fenêtre d&#x27;exportation favorable en raison de retards de production au Pérou et en Équateur. Cette disponibilité réduite chez les concurrents redirige la demande internationale vers l&#x27;origine brésilienne pour la seconde moitié de 2026. <span class=\"news-reason\">Intelligence sur les fenêtres de commercialisation et les décalages de production chez les concurrents.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866411/retrasos-en-peru-y-ecuador-favorecen-la-ventana-comercial-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Brazil benefits from mango production delays in Peru and Ecuador -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">The Brazilian mango market is benefiting from a favorable export window due to production delays in Peru and Ecuador. This reduced availability from competitors is redirecting international demand toward the Brazilian origin for the second half of 2026. <span class=\"news-reason\">Intelligence on marketing windows and production shifts among competitors.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866411/retrasos-en-peru-y-ecuador-favorecen-la-ventana-comercial-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ברזיל מפיקה תועלת מעיכובים בייצור המנגו בפרו ובאקוודור -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">שוק המנגו הברזילאי נהנה מחלון ייצוא נוח בשל עיכובים בייצור בפרו ובאקוודור. זמינות מצומצמת זו אצל המתחרים מפנה את הביקוש הבינלאומי למקור הברזילאי למחצית השנייה של 2026. <span class=\"news-reason\">מידע על חלונות שיווק ופערי ייצור אצל מתחרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866411/retrasos-en-peru-y-ecuador-favorecen-la-ventana-comercial-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -45,7 +84,7 @@
     {
       "id": "1787672043_2",
       "timestamp": "2026-08-25T15:34:03.893925+00:00",
-      "title": "Europe : une demande estivale de mangues soutenue malgré des prix élevés",
+      "title": "Europe : maintien d’une demande de mangues soutenue cet été malgré des prix élevés",
       "title_hash": "europe demande estivale mangues soutenue dépit prix élevés",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
@@ -55,7 +94,7 @@
         "mango"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Europe : une demande estivale de mangues soutenue malgré des prix élevés -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">Les mangues ont enregistré de bons résultats commerciaux cet été en Europe, stimulées par les vagues de chaleur. Malgré une offre limitée et des prix de vente élevés, la demande est restée forte pour ce produit exotique. <span class=\"news-reason\">Analyse de la demande sur le marché européen pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865556/las-limas-los-mangos-y-los-cocos-para-beber-se-han-vendido-muy-bien-este-verano/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Europe : maintien d’une demande de mangues soutenue cet été malgré des prix élevés -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">Les mangues ont enregistré de bons résultats commerciaux cet été en Europe, stimulées par les vagues de chaleur. Malgré une offre limitée et des prix de vente élevés, la demande est restée forte pour ce produit exotique. <span class=\"news-reason\">Analyse de la demande sur le marché européen pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865556/las-limas-los-mangos-y-los-cocos-para-beber-se-han-vendido-muy-bien-este-verano/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Europe: sustained summer demand for mangoes despite high prices -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">Mangoes recorded good commercial results this summer in Europe, stimulated by heatwaves. Despite limited supply and high selling prices, demand remained strong for this exotic product. <span class=\"news-reason\">Analysis of demand on the European market for a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865556/las-limas-los-mangos-y-los-cocos-para-beber-se-han-vendido-muy-bien-este-verano/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">אירופה: ביקוש קיץ גבוה למנגו למרות מחירים גבוהים -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">המנגו רשם תוצאות מסחריות טובות הקיץ באירופה, בעידוד גלי החום. למרות היצע מוגבל ומחירי מכירה גבוהים, הביקוש למוצר האקזוטי נותר חזק. <span class=\"news-reason\">ניתוח הביקוש בשוק האירופי למוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865556/las-limas-los-mangos-y-los-cocos-para-beber-se-han-vendido-muy-bien-este-verano/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -116,7 +155,7 @@
     {
       "id": "1787672043_0",
       "timestamp": "2026-08-25T15:34:03.893925+00:00",
-      "title": "Espagne : la production de mangues accuse un recul de 20 à 25 %",
+      "title": "Espagne : la production de mangues en repli de 20 à 25 %",
       "title_hash": "espagne recul 20 à 25 production mangues",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
@@ -128,7 +167,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production de mangues accuse un recul de 20 à 25 % -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">La production espagnole de mangues devrait baisser de 20 à 25 % cette année. La récolte des variétés précoces a déjà commencé, et la variété principale, Osteen, devrait arriver sur le marché avec une semaine d&#x27;avance sur le calendrier habituel. <span class=\"news-reason\">Informations chiffrées précises sur le recul des volumes chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production de mangues en repli de 20 à 25 % -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">La production espagnole de mangues devrait baisser de 20 à 25 % cette année. La récolte des variétés précoces a déjà commencé, et la variété principale, Osteen, devrait arriver sur le marché avec une semaine d&#x27;avance sur le calendrier habituel. <span class=\"news-reason\">Informations chiffrées précises sur le recul des volumes chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: 20 to 25% drop in mango production -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">Spanish mango production is expected to drop by 20 to 25% this year. The harvest of early varieties has already begun, and the main variety, Osteen, is expected to arrive on the market a week ahead of the usual schedule. <span class=\"news-reason\">Precise figures on the volume decline for a major competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד: ירידה של 20-25% בייצור המנגו -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">ייצור המנגו הספרדי צפוי לרדת ב-20-25% השנה. קטיף הזנים המוקדמים כבר החל, והזן העיקרי, Osteen, צפוי להגיע לשוק שבוע לפני המועד הרגיל. <span class=\"news-reason\">מידע מספרי מדויק על הירידה בכמויות אצל מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -492,7 +531,7 @@
     {
       "id": "1787634119_0",
       "timestamp": "2026-08-25T05:01:59.598007+00:00",
-      "title": "Maroc : Lancement imminent de la récolte des petits agrumes, prévisions de volumes stables",
+      "title": "Maroc : Démarrage imminent de la récolte des petits agrumes, prévisions de volumes stables",
       "title_hash": "lancement imminent campagne récolte petits agrumes maroc volumes stables",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
@@ -504,7 +543,7 @@
       "origins": [
         "MAR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Maroc : Lancement imminent de la récolte des petits agrumes, prévisions de volumes stables -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">Dans la région de Berkane, au Maroc, la récolte des petits agrumes (mandarines et clémentines) est sur le point de commencer. Les opérateurs locaux prévoient des volumes stables par rapport aux saisons précédentes, avec un calendrier de récolte conforme aux prévisions habituelles. <span class=\"news-reason\">Information stratégique sur le début de campagne d&#x27;une origine concurrente majeure pour les mandarines et clémentines.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864303/si-avvicina-la-raccolta-dei-soft-citrus-marocchini-e-si-prevedono-volumi-stabili/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Maroc : Démarrage imminent de la récolte des petits agrumes, prévisions de volumes stables -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">Dans la région de Berkane, au Maroc, la récolte des petits agrumes (mandarines et clémentines) est sur le point de commencer. Les opérateurs locaux prévoient des volumes stables par rapport aux saisons précédentes, avec un calendrier de récolte conforme aux prévisions habituelles. <span class=\"news-reason\">Information stratégique sur le début de campagne d&#x27;une origine concurrente majeure pour les mandarines et clémentines.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864303/si-avvicina-la-raccolta-dei-soft-citrus-marocchini-e-si-prevedono-volumi-stabili/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Imminent launch of the small citrus harvest campaign in Morocco with stable volumes -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">In the Berkane region of Morocco, the harvest of small citrus fruits (mandarins and clementines) is about to begin. Local operators anticipate stable volumes compared to previous seasons, with a harvest schedule in line with usual forecasts. <span class=\"news-reason\">Strategic information on the start of the campaign for a major competing origin for mandarins and clementines.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864303/si-avvicina-la-raccolta-dei-soft-citrus-marocchini-e-si-prevedono-volumi-stabili/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מקורות מתחרים</div><div class=\"news-title\">תחילתה הקרובה של עונת קטיף פירות ההדר הקטנים במרוקו עם כמויות יציבות -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">באזור ברקן שבמרוקו, קטיף פירות ההדר הקטנים (מנדרינות וקלמנטינות) עומד להתחיל. הגורמים המקומיים צופים כמויות יציבות בהשוואה לעונות הקודמות, עם לוח זמנים לקטיף התואם את התחזיות הרגילות. <span class=\"news-reason\">מידע אסטרטגי על תחילת העונה של מקור מתחרה מרכזי למנדרינות וקלמנטינות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864303/si-avvicina-la-raccolta-dei-soft-citrus-marocchini-e-si-prevedono-volumi-stabili/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -927,7 +966,7 @@
     {
       "id": "1787563944_1",
       "timestamp": "2026-08-24T09:32:24.165547+00:00",
-      "title": "Fortes disparités de prix pour l&#x27;avocat sur le marché européen",
+      "title": "Importantes disparités de prix pour l&#x27;avocat sur le marché européen",
       "title_hash": "importantes disparités prix avocats marché européen",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
@@ -940,7 +979,7 @@
         "DEU",
         "NLD"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Fortes disparités de prix pour l&#x27;avocat sur le marché européen -- <span class=\"news-date\">24/08/2026 10:35</span></div><div class=\"news-body\">En raison de la cherté des fruits et légumes produits en Allemagne, les consommateurs et acheteurs se tournent vers les marchés frontaliers. Aux Pays-Bas, des caisses entières d&#x27;avocats sont proposées à un prix attractif de cinq euros. Cette situation met en évidence une pression sur les prix de l&#x27;avocat et des opportunités d&#x27;achat à bas coût dans le secteur du négoce néerlandais par rapport au marché allemand. <span class=\"news-reason\">L&#x27;article fournit une cotation spécifique (5 euros la caisse) pour l&#x27;avocat, produit pilier de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/external/9865772/funf-euro-fur-eine-ganze-kiste-avocados/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Importantes disparités de prix pour l&#x27;avocat sur le marché européen -- <span class=\"news-date\">24/08/2026 10:35</span></div><div class=\"news-body\">En raison de la cherté des fruits et légumes produits en Allemagne, les consommateurs et acheteurs se tournent vers les marchés frontaliers. Aux Pays-Bas, des caisses entières d&#x27;avocats sont proposées à un prix attractif de cinq euros. Cette situation met en évidence une pression sur les prix de l&#x27;avocat et des opportunités d&#x27;achat à bas coût dans le secteur du négoce néerlandais par rapport au marché allemand. <span class=\"news-reason\">L&#x27;article fournit une cotation spécifique (5 euros la caisse) pour l&#x27;avocat, produit pilier de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/external/9865772/funf-euro-fur-eine-ganze-kiste-avocados/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Significant price disparities for avocados on the European market -- <span class=\"news-date\">24/08/2026 10:35</span></div><div class=\"news-body\">Due to the high cost of fruits and vegetables produced in Germany, consumers and buyers are turning to cross-border markets. In the Netherlands, whole crates of avocados are being offered at an attractive price of five euros. This situation highlights price pressure on avocados and low-cost purchasing opportunities in the Dutch trading sector compared to the German market. <span class=\"news-reason\">The article provides a specific price quote (5 euros per crate) for avocados, a pillar product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/external/9865772/funf-euro-fur-eine-ganze-kiste-avocados/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">פערים משמעותיים במחירי האבוקדו בשוק האירופי -- <span class=\"news-date\">24/08/2026 10:35</span></div><div class=\"news-body\">בשל יוקר הפירות והירקות המיוצרים בגרמניה, צרכנים וקונים פונים לשווקים הסמוכים לגבול. בהולנד, ארגזי אבוקדו שלמים מוצעים במחיר אטרקטיבי של חמישה אירו. מצב זה מדגיש לחץ על מחירי האבוקדו והזדמנויות רכישה בעלות נמוכה במגזר המסחר ההולנדי בהשוואה לשוק הגרמני. <span class=\"news-reason\">המאמר מספק הצעת מחיר ספציפית (5 אירו לארגז) עבור אבוקדו, מוצר ליבה של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/external/9865772/funf-euro-fur-eine-ganze-kiste-avocados/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -1303,14 +1342,14 @@
       "gemini_score": 9
     }
   ],
-  "article_count": 34,
+  "article_count": 35,
   "attention_points": [
     {
       "id": "attention-1f561d100fe722b8",
       "article_id": "1787672043_3",
       "url": "https://www.freshplaza.es/article/9866411/retrasos-en-peru-y-ecuador-favorecen-la-ventana-comercial-del-mango-brasileno/",
       "source": "FreshPlaza ES",
-      "title": "Le Brésil tire parti des retards de production",
+      "title": "Le Brésil tire profit des retards de production",
       "summary": "Des retards de production concurrents favorisent l'offre disponible",
       "origin_code": "PER",
       "origin_label": "Pérou",
@@ -1322,14 +1361,14 @@
       "products": [
         "mango"
       ],
-      "age_hours": 2
+      "age_hours": 3
     },
     {
       "id": "attention-915789a02ed3afbf",
       "article_id": "1787672043_2",
       "url": "https://www.freshplaza.es/article/9865556/las-limas-los-mangos-y-los-cocos-para-beber-se-han-vendido-muy-bien-este-verano/",
       "source": "FreshPlaza ES",
-      "title": "Europe : une demande estivale de mangues soutenue malgré",
+      "title": "Europe : maintien d’une demande de mangues soutenue cet",
       "summary": "La forte demande compense l'offre limitée et les prix élevés",
       "origin_code": null,
       "origin_label": null,
@@ -1342,7 +1381,7 @@
         "mango",
         "lime"
       ],
-      "age_hours": 2
+      "age_hours": 3
     },
     {
       "id": "attention-ab418ef19b07df85",
@@ -1361,27 +1400,26 @@
       "products": [
         "pomegranate"
       ],
-      "age_hours": 2
+      "age_hours": 3
     },
     {
-      "id": "attention-6c14c9409acbe2fc",
-      "article_id": "1787661206_5",
-      "url": "https://www.freshplaza.it/article/9864297/la-domanda-e-stata-incoraggiante-supportata-dalla-qualita-organolettica-della-frutta/",
-      "source": "FreshPlaza IT",
-      "title": "Forte demande pour les agrumes et la mandarine Nadorcott",
-      "summary": "L'importateur Kwek Global Pte observe une demande soutenue pour les agrumes, incluant la mandarine Nadorcott d'Afrique du Sud et les agrumes d'Égypte.",
-      "origin_code": "EGY",
-      "origin_label": "Égypte",
-      "published_at": "2026-08-25T06:05:00+02:00",
+      "id": "attention-dc35c700d79f44d4",
+      "article_id": "1787677426_0",
+      "url": "https://www.freshplaza.com/article/9866187/avocado-growers-in-new-zealand-assess-crop-losses-after-5degc-frost/",
+      "source": "FreshPlaza",
+      "title": "Nouvelle-Zélande : Pertes de récoltes d'avocats consécutives",
+      "summary": "Les producteurs d'avocats néo-zélandais évaluent d'importantes pertes de récolte suite à des gelées nocturnes ayant atteint -5°C les 5 et 6 août.",
+      "origin_code": "NZL",
+      "origin_label": "Nouvelle-Zelande",
+      "published_at": "2026-08-25T13:39:00+02:00",
       "published_at_source": "rss",
-      "signal_type": "information",
-      "signal_label": "Information",
-      "icon": "information",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
       "products": [
-        "mandarine",
-        "grape"
+        "avocat"
       ],
-      "age_hours": 11
+      "age_hours": 5
     }
   ]
 }
