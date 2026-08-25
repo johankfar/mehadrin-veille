@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-25T05:01:59.598007+00:00",
-  "article_count": 21,
+  "last_updated": "2026-08-25T06:31:53.618714+00:00",
+  "article_count": 22,
   "attention_points": [
     {
       "id": "attention-735a3d6b6d38c8dd",
       "article_id": "1787634119_0",
       "url": "https://www.freshplaza.it/article/9864303/si-avvicina-la-raccolta-dei-soft-citrus-marocchini-e-si-prevedono-volumi-stabili/",
       "source": "FreshPlaza IT",
-      "title": "Lancement imminent de la campagne de récolte des petits",
+      "title": "Maroc : lancement imminent de la campagne de récolte",
       "summary": "Les volumes de mandarines et clémentines sont prévus stables.",
       "origin_code": "MAR",
       "origin_label": "Maroc",
@@ -19,7 +19,7 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-4181f9322c82b20c",
@@ -38,7 +38,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 17
+      "age_hours": 18
     },
     {
       "id": "attention-4857e20814af83d2",
@@ -58,7 +58,7 @@
         "melon",
         "watermelon"
       ],
-      "age_hours": 17
+      "age_hours": 18
     },
     {
       "id": "attention-0f122225b069daf3",
@@ -75,14 +75,32 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 17
+      "age_hours": 18
     }
   ],
   "articles": [
     {
+      "id": "1787639513_0",
+      "timestamp": "2026-08-25T06:31:53.618714+00:00",
+      "title": "L&#x27;Afrique du Sud révise à la baisse ses prévisions d&#x27;exportation d&#x27;oranges jusqu&#x27;à 19 % -- 24/08/2026 13:36",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "ZAF"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Afrique du Sud révise à la baisse ses prévisions d&#x27;exportation d&#x27;oranges jusqu&#x27;à 19 % -- <span class=\"news-date\">24/08/2026 13:36</span></div><div class=\"news-body\">La saison 2026 est marquée par des difficultés pour les agrumiculteurs d&#x27;Afrique australe. Les prévisions d&#x27;exportation pour les oranges Valencia ont été revues à la baisse à 58 millions de cartons de 15 kg, soit une diminution de 8 %. Pour les oranges Navel, la baisse est plus importante, avec une estimation désormais fixée à 24,3 millions de cartons, ce qui représente une chute de 19 %. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur la baisse significative des volumes d&#x27;exportation d&#x27;un concurrent majeur pour les oranges Navel et Valencia.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9865911/south-africa-cuts-2026-orange-export-estimates-by-up-to-19/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">South Africa revises its orange export forecasts downwards by up to 19% -- <span class=\"news-date\">24/08/2026 13:36</span></div><div class=\"news-body\">The 2026 season is marked by difficulties for citrus growers in Southern Africa. Export forecasts for Valencia oranges have been revised downwards to 58 million 15 kg cartons, a decrease of 8%. For Navel oranges, the decline is more significant, with an estimate now set at 24.3 million cartons, representing a 19% drop. <span class=\"news-reason\">The article provides precise figures on the significant drop in export volumes of a major competitor for Navel and Valencia oranges.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9865911/south-africa-cuts-2026-orange-export-estimates-by-up-to-19/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים ונפחים</div><div class=\"news-title\">דרום אפריקה מעדכנת כלפי מטה את תחזיות ייצוא התפוזים שלה בעד 19% -- <span class=\"news-date\">24/08/2026 13:36</span></div><div class=\"news-body\">עונת 2026 מתאפיינת בקשיים עבור מגדלי ההדרים באפריקה הדרומית. תחזיות הייצוא עבור תפוזי ולנסיה עודכנו כלפי מטה ל-58 מיליון קרטונים של 15 ק\"ג, המהווים ירידה של 8%. עבור תפוזי טבור (Navel), הירידה משמעותית יותר, עם הערכה שנקבעה כעת על 24.3 מיליון קרטונים, המייצגת צניחה של 19%. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על הירידה המשמעותית בנפחי הייצוא של מתחרה מרכזי עבור תפוזי טבור (Navel) וולנסיה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9865911/south-africa-cuts-2026-orange-export-estimates-by-up-to-19/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
       "id": "1787634119_0",
       "timestamp": "2026-08-25T05:01:59.598007+00:00",
-      "title": "Lancement imminent de la campagne de récolte des petits agrumes au Maroc avec des volumes stables -- 25/08/2026 06:05",
+      "title": "Maroc : lancement imminent de la campagne de récolte des petits agrumes avec des volumes stables",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -93,7 +111,7 @@
       "origins": [
         "MAR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement imminent de la campagne de récolte des petits agrumes au Maroc avec des volumes stables -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">Dans la région de Berkane, au Maroc, la récolte des petits agrumes (mandarines et clémentines) est sur le point de commencer. Les opérateurs locaux prévoient des volumes stables par rapport aux saisons précédentes, avec un calendrier de récolte conforme aux prévisions habituelles. <span class=\"news-reason\">Information stratégique sur le début de campagne d&#x27;une origine concurrente majeure pour les mandarines et clémentines.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864303/si-avvicina-la-raccolta-dei-soft-citrus-marocchini-e-si-prevedono-volumi-stabili/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Maroc : lancement imminent de la campagne de récolte des petits agrumes avec des volumes stables -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">Dans la région de Berkane, au Maroc, la récolte des petits agrumes (mandarines et clémentines) est sur le point de commencer. Les opérateurs locaux prévoient des volumes stables par rapport aux saisons précédentes, avec un calendrier de récolte conforme aux prévisions habituelles. <span class=\"news-reason\">Information stratégique sur le début de campagne d&#x27;une origine concurrente majeure pour les mandarines et clémentines.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864303/si-avvicina-la-raccolta-dei-soft-citrus-marocchini-e-si-prevedono-volumi-stabili/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Imminent launch of the small citrus harvest campaign in Morocco with stable volumes -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">In the Berkane region of Morocco, the harvest of small citrus fruits (mandarins and clementines) is about to begin. Local operators anticipate stable volumes compared to previous seasons, with a harvest schedule in line with usual forecasts. <span class=\"news-reason\">Strategic information on the start of the campaign for a major competing origin for mandarins and clementines.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864303/si-avvicina-la-raccolta-dei-soft-citrus-marocchini-e-si-prevedono-volumi-stabili/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מקורות מתחרים</div><div class=\"news-title\">תחילתה הקרובה של עונת קטיף פירות ההדר הקטנים במרוקו עם כמויות יציבות -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">באזור ברקן שבמרוקו, קטיף פירות ההדר הקטנים (מנדרינות וקלמנטינות) עומד להתחיל. הגורמים המקומיים צופים כמויות יציבות בהשוואה לעונות הקודמות, עם לוח זמנים לקטיף התואם את התחזיות הרגילות. <span class=\"news-reason\">מידע אסטרטגי על תחילת העונה של מקור מתחרה מרכזי למנדרינות וקלמנטינות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864303/si-avvicina-la-raccolta-dei-soft-citrus-marocchini-e-si-prevedono-volumi-stabili/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -304,7 +322,7 @@
     {
       "id": "1787563944_0",
       "timestamp": "2026-08-24T09:32:24.165547+00:00",
-      "title": "La demande de pomélo s&#x27;intensifie en Allemagne et en Europe du Nord",
+      "title": "Intensification de la demande de pomélo en Allemagne et en Europe du Nord",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -318,7 +336,7 @@
       "origins": [
         "DEU"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La demande de pomélo s&#x27;intensifie en Allemagne et en Europe du Nord -- <span class=\"news-date\">24/08/2026 10:35</span></div><div class=\"news-body\">Le secteur des fruits exotiques en Allemagne et en Europe du Nord enregistre un bilan estival positif, marqué par une forte demande pour le pomélo. Malgré une offre actuellement limitée sur le marché et des niveaux de prix élevés, les opérateurs parviennent à maintenir l&#x27;approvisionnement des clients. Les mangues et les citrons verts profitent également de la météo chaude pour soutenir leurs volumes de vente. <span class=\"news-reason\">L&#x27;article traite de la dynamique du marché du pomélo, produit Mehadrin, avec des indications sur les prix et l&#x27;offre.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9865557/grosses-interesse-an-pomelo-aus-deutschland-und-nordeuropa/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Intensification de la demande de pomélo en Allemagne et en Europe du Nord -- <span class=\"news-date\">24/08/2026 10:35</span></div><div class=\"news-body\">Le secteur des fruits exotiques en Allemagne et en Europe du Nord enregistre un bilan estival positif, marqué par une forte demande pour le pomélo. Malgré une offre actuellement limitée sur le marché et des niveaux de prix élevés, les opérateurs parviennent à maintenir l&#x27;approvisionnement des clients. Les mangues et les citrons verts profitent également de la météo chaude pour soutenir leurs volumes de vente. <span class=\"news-reason\">L&#x27;article traite de la dynamique du marché du pomélo, produit Mehadrin, avec des indications sur les prix et l&#x27;offre.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9865557/grosses-interesse-an-pomelo-aus-deutschland-und-nordeuropa/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Growing interest in pomelo in Germany and Northern Europe -- <span class=\"news-date\">24/08/2026 10:35</span></div><div class=\"news-body\">The exotic fruit sector in Germany and Northern Europe is reporting a positive summer result, marked by strong demand for pomelo. Despite currently limited market supply and high price levels, operators are managing to maintain supply to customers. Mangoes and limes are also benefiting from the warm weather to support their sales volumes. <span class=\"news-reason\">The article discusses the dynamics of the pomelo market, a Mehadrin product, with information on prices and supply.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9865557/grosses-interesse-an-pomelo-aus-deutschland-und-nordeuropa/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עניין גובר בפומלה בגרמניה ובצפון אירופה -- <span class=\"news-date\">24/08/2026 10:35</span></div><div class=\"news-body\">מגזר הפירות האקזוטיים בגרמניה ובצפון אירופה רושם סיכום קיץ חיובי, המתאפיין בביקוש חזק לפומלה. למרות היצע מוגבל כרגע בשוק ורמות מחירים גבוהות, המפעילים מצליחים לשמור על אספקה ללקוחות. המנגו והליים נהנים גם הם ממזג האוויר החם התומך בנפחי המכירות שלהם. <span class=\"news-reason\">המאמר עוסק בדינמיקה של שוק הפומלה, מוצר מהדרין, עם אינדיקציות לגבי מחירים והיצע.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9865557/grosses-interesse-an-pomelo-aus-deutschland-und-nordeuropa/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
