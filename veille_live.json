@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-08-27T14:04:24.525853+00:00",
-  "article_count": 38,
+  "last_updated": "2026-08-27T15:33:57.515662+00:00",
+  "article_count": 39,
   "attention_points": [
+    {
+      "id": "attention-bd20b738f834ed39",
+      "article_id": "1787844837_1",
+      "url": "https://www.freshplaza.es/article/9866934/dado-el-nivel-de-consumo-actual-necesitamos-una-cosecha-excelente-consistente-y-con-altos-rendimientos/",
+      "source": "FreshPlaza ES",
+      "title": "Forte progression de la demande pour la patate douce",
+      "summary": "Le secteur de la patate douce en Caroline du Nord anticipe une demande mondiale en forte croissance, dépassant les prévisions annuelles.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-08-27T16:00:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "sweet_potato"
+      ],
+      "age_hours": 1
+    },
     {
       "id": "attention-3bfe876fe5398d1a",
       "article_id": "1787834045_0",
@@ -19,26 +38,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-a899b1ad3434db9b",
-      "article_id": "1787839464_0",
-      "url": "https://www.freshplaza.com/article/9867053/california-mandarin-acreage-reaches-68-536-acres-in-2026/",
-      "source": "FreshPlaza",
-      "title": "Recensement des superficies de vergers de mandarines en Californie",
-      "summary": "D'après les données du California Department of Food and Agriculture et de l'USDA, la superficie consacrée aux mandarines en Californie atteint 68 536 acres en 2026.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-08-27T13:33:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "mandarine"
-      ],
-      "age_hours": 2
+      "age_hours": 4
     },
     {
       "id": "attention-526baca70d731058",
@@ -55,7 +55,7 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 31
+      "age_hours": 33
     },
     {
       "id": "attention-915789a02ed3afbf",
@@ -75,10 +75,40 @@
         "mango",
         "lime"
       ],
-      "age_hours": 48
+      "age_hours": 50
     }
   ],
   "articles": [
+    {
+      "id": "1787844837_2",
+      "timestamp": "2026-08-27T15:33:57.515662+00:00",
+      "title": "Période de transition et activité calme au marché de Rungis -- 27/08/2026 12:41",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "FRA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Période de transition et activité calme au marché de Rungis -- <span class=\"news-date\">27/08/2026 12:41</span></div><div class=\"news-body\">À la fin du mois d&#x27;août, le marché de Rungis connaît une activité particulièrement calme. Cette situation s&#x27;explique par une phase de transition entre la fin de campagne des fruits d&#x27;été et l&#x27;arrivée progressive des premiers produits d&#x27;automne, couplée à une consommation qui tarde à reprendre avant la rentrée scolaire. <span class=\"news-reason\">Information sur l&#x27;état du marché principal en France pour les fruits de saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9867204/a-rungis-un-marche-encore-calme-en-attendant-la-rentree/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Transition period and quiet activity at the Rungis market -- <span class=\"news-date\">27/08/2026 12:41</span></div><div class=\"news-body\">At the end of August, the Rungis market is experiencing particularly quiet activity. This situation is explained by a transition phase between the end of the summer fruit campaign and the progressive arrival of the first autumn products, coupled with consumption that is slow to pick up before the start of the school year. <span class=\"news-reason\">Information on the state of the main market in France for seasonal fruits.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9867204/a-rungis-un-marche-encore-calme-en-attendant-la-rentree/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">תקופת מעבר ופעילות רגועה בשוק רנז'יס -- <span class=\"news-date\">27/08/2026 12:41</span></div><div class=\"news-body\">בסוף חודש אוגוסט, שוק רנז'יס חווה פעילות רגועה במיוחד. מצב זה מוסבר בשלב המעבר בין סוף עונת פירות הקיץ לבין ההגעה המדורגת של מוצרי הסתיו הראשונים, לצד צריכה שמתעכבת להתאושש לפני החזרה ללימודים. <span class=\"news-reason\">מידע על מצב השוק המרכזי בצרפת עבור פירות העונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9867204/a-rungis-un-marche-encore-calme-en-attendant-la-rentree/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1787844837_1",
+      "timestamp": "2026-08-27T15:33:57.515662+00:00",
+      "title": "Forte progression de la demande pour la patate douce de Caroline du Nord -- 27/08/2026 16:00",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "sweet_potato"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Forte progression de la demande pour la patate douce de Caroline du Nord -- <span class=\"news-date\">27/08/2026 16:00</span></div><div class=\"news-body\">Le secteur de la patate douce en Caroline du Nord anticipe une demande mondiale en forte croissance, dépassant les prévisions annuelles. Les producteurs soulignent que pour maintenir ce rythme, la prochaine récolte devra être excellente et constante en termes de rendements pour satisfaire les niveaux de consommation actuels. <span class=\"news-reason\">Information marché sur la patate douce, produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866934/dado-el-nivel-de-consumo-actual-necesitamos-una-cosecha-excelente-consistente-y-con-altos-rendimientos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Strong growth in demand for North Carolina sweet potatoes -- <span class=\"news-date\">27/08/2026 16:00</span></div><div class=\"news-body\">The sweet potato sector in North Carolina anticipates strong growth in global demand, exceeding annual forecasts. Producers emphasize that to maintain this pace, the next harvest must be excellent and consistent in terms of yields to satisfy current consumption levels. <span class=\"news-reason\">Market information on sweet potato, a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866934/dado-el-nivel-de-consumo-actual-necesitamos-una-cosecha-excelente-consistente-y-con-altos-rendimientos/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">עלייה חדה בביקוש לבטטה מצפון קרוליינה -- <span class=\"news-date\">27/08/2026 16:00</span></div><div class=\"news-body\">ענף הבטטה בצפון קרוליינה צופה ביקוש עולמי בצמיחה חזקה, מעבר לתחזיות השנתיות. המגדלים מדגישים שכדי לשמור על קצב זה, היבול הבא יצטרך להיות מצוין ועקבי מבחינת יבולים כדי לספק את רמות הצריכה הנוכחיות. <span class=\"news-reason\">מידע שוק על בטטה, מוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866934/dado-el-nivel-de-consumo-actual-necesitamos-una-cosecha-excelente-consistente-y-con-altos-rendimientos/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1787839464_0",
       "timestamp": "2026-08-27T14:04:24.525853+00:00",
@@ -241,7 +271,7 @@
     {
       "id": "1787753112_4",
       "timestamp": "2026-08-26T14:05:12.210737+00:00",
-      "title": "Record d&#x27;exportations d&#x27;avocats chiliens pour la saison 2025-2026",
+      "title": "Exportations record d&#x27;avocats chiliens pour la saison 2025-2026",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -252,7 +282,7 @@
       "origins": [
         "CHL"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Record d&#x27;exportations d&#x27;avocats chiliens pour la saison 2025-2026 -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">À la clôture de la saison 2025-2026, le Chili enregistre des exportations de fruits frais d&#x27;une valeur de 8 milliards de dollars au 31 juillet, soit une hausse de 6 %. La filière avocat mène cette performance avec une progression de 22,8 % de ses expéditions, atteignant son plus haut niveau en 15 ans. <span class=\"news-reason\">Données chiffrées sur les volumes d&#x27;exportation records d&#x27;une origine concurrente majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866426/chile-cierra-temporada-fruticola-con-paltas-en-maximo-de-15-anos-y-avellanas-que-duplican-su-valor-exportado/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Exportations record d&#x27;avocats chiliens pour la saison 2025-2026 -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">À la clôture de la saison 2025-2026, le Chili enregistre des exportations de fruits frais d&#x27;une valeur de 8 milliards de dollars au 31 juillet, soit une hausse de 6 %. La filière avocat mène cette performance avec une progression de 22,8 % de ses expéditions, atteignant son plus haut niveau en 15 ans. <span class=\"news-reason\">Données chiffrées sur les volumes d&#x27;exportation records d&#x27;une origine concurrente majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866426/chile-cierra-temporada-fruticola-con-paltas-en-maximo-de-15-anos-y-avellanas-que-duplican-su-valor-exportado/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Record Chilean avocado exports for the 2025-2026 season -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">At the close of the 2025-2026 season, Chile recorded fresh fruit exports worth $8 billion as of July 31, a 6% increase. The avocado sector leads this performance with a 22.8% increase in shipments, reaching its highest level in 15 years. <span class=\"news-reason\">Data on record export volumes from a major competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866426/chile-cierra-temporada-fruticola-con-paltas-en-maximo-de-15-anos-y-avellanas-que-duplican-su-valor-exportado/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">שיא בייצוא אבוקדו צ'יליאני לעונת 2025-2026 -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">עם סיום עונת 2025-2026, צ'ילה רשמה ייצוא פירות טריים בשווי 8 מיליארד דולר נכון ל-31 ביולי, עלייה של 6%. ענף האבוקדו מוביל את הביצועים הללו עם עלייה של 22.8% במשלוחים, והגיע לרמתו הגבוהה ביותר מזה 15 שנה. <span class=\"news-reason\">נתונים מספריים על היקפי ייצוא שובר שיאים ממקור מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866426/chile-cierra-temporada-fruticola-con-paltas-en-maximo-de-15-anos-y-avellanas-que-duplican-su-valor-exportado/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -444,7 +474,7 @@
     {
       "id": "1787682830_0",
       "timestamp": "2026-08-25T18:33:50.147770+00:00",
-      "title": "Équateur : croissance des volumes d&#x27;exportation de fruits non traditionnels",
+      "title": "Équateur : progression des volumes d&#x27;exportation de fruits non traditionnels",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -454,7 +484,7 @@
         "mango"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Équateur : croissance des volumes d&#x27;exportation de fruits non traditionnels -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">Au premier semestre 2026, les exportations équatoriennes de neuf fruits non traditionnels ont atteint 126 599 tonnes, soit une progression de 17,1 % en volume par rapport à la même période en 2025. Malgré cette hausse des volumes, la valeur FOB totale a reculé de 3,4 %, passant de 196,2 millions à 189,5 millions de dollars. <span class=\"news-reason\">Statistiques d&#x27;exportation d&#x27;une origine concurrente majeure sur des segments incluant potentiellement mangues et avocats, montrant une pression sur les prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866419/las-exportaciones-de-frutas-no-tradicionales-de-ecuador-crecen-en-volumen-pero-pierden-valor-fob/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Équateur : progression des volumes d&#x27;exportation de fruits non traditionnels -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">Au premier semestre 2026, les exportations équatoriennes de neuf fruits non traditionnels ont atteint 126 599 tonnes, soit une progression de 17,1 % en volume par rapport à la même période en 2025. Malgré cette hausse des volumes, la valeur FOB totale a reculé de 3,4 %, passant de 196,2 millions à 189,5 millions de dollars. <span class=\"news-reason\">Statistiques d&#x27;exportation d&#x27;une origine concurrente majeure sur des segments incluant potentiellement mangues et avocats, montrant une pression sur les prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866419/las-exportaciones-de-frutas-no-tradicionales-de-ecuador-crecen-en-volumen-pero-pierden-valor-fob/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Ecuador: Increase in non-traditional fruit export volumes -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">In the first half of 2026, Ecuadorian exports of nine non-traditional fruits reached 126,599 tons, representing a 17.1% increase in volume compared to the same period in 2025. Despite this increase in volume, the total FOB value fell by 3.4%, from 196.2 million to 189.5 million dollars. <span class=\"news-reason\">Export statistics from a major competing origin in segments potentially including mangoes and avocados, showing price pressure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866419/las-exportaciones-de-frutas-no-tradicionales-de-ecuador-crecen-en-volumen-pero-pierden-valor-fob/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">אקוודור: עלייה בנפחי ייצוא פירות לא מסורתיים -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">במחצית הראשונה של שנת 2026, ייצוא תשעה סוגי פירות לא מסורתיים מאקוודור הגיע ל-126,599 טון, המהווה עלייה של 17.1% בנפח לעומת התקופה המקבילה בשנת 2025. למרות העלייה בנפחים, ערך ה-FOB הכולל ירד ב-3.4%, מ-196.2 מיליון ל-189.5 מיליון דולר. <span class=\"news-reason\">סטטיסטיקות ייצוא ממקור מתחרה מרכזי במגזרים הכוללים פוטנציאלית מנגו ואבוקדו, המצביעות על לחץ מחירים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866419/las-exportaciones-de-frutas-no-tradicionales-de-ecuador-crecen-en-volumen-pero-pierden-valor-fob/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -479,7 +509,7 @@
     {
       "id": "1787672043_3",
       "timestamp": "2026-08-25T15:34:03.893925+00:00",
-      "title": "Le Brésil tire profit des retards de production de mangues au Pérou et en Équateur",
+      "title": "Le Brésil capitalise sur les retards de production de mangues au Pérou et en Équateur",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -491,7 +521,7 @@
         "PER",
         "BRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le Brésil tire profit des retards de production de mangues au Pérou et en Équateur -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">Le marché brésilien de la mangue profite d&#x27;une fenêtre d&#x27;exportation favorable en raison de retards de production au Pérou et en Équateur. Cette disponibilité réduite chez les concurrents redirige la demande internationale vers l&#x27;origine brésilienne pour la seconde moitié de 2026. <span class=\"news-reason\">Intelligence sur les fenêtres de commercialisation et les décalages de production chez les concurrents.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866411/retrasos-en-peru-y-ecuador-favorecen-la-ventana-comercial-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le Brésil capitalise sur les retards de production de mangues au Pérou et en Équateur -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">Le marché brésilien de la mangue profite d&#x27;une fenêtre d&#x27;exportation favorable en raison de retards de production au Pérou et en Équateur. Cette disponibilité réduite chez les concurrents redirige la demande internationale vers l&#x27;origine brésilienne pour la seconde moitié de 2026. <span class=\"news-reason\">Intelligence sur les fenêtres de commercialisation et les décalages de production chez les concurrents.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866411/retrasos-en-peru-y-ecuador-favorecen-la-ventana-comercial-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Brazil benefits from mango production delays in Peru and Ecuador -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">The Brazilian mango market is benefiting from a favorable export window due to production delays in Peru and Ecuador. This reduced availability from competitors is redirecting international demand toward the Brazilian origin for the second half of 2026. <span class=\"news-reason\">Intelligence on marketing windows and production shifts among competitors.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866411/retrasos-en-peru-y-ecuador-favorecen-la-ventana-comercial-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ברזיל מפיקה תועלת מעיכובים בייצור המנגו בפרו ובאקוודור -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">שוק המנגו הברזילאי נהנה מחלון ייצוא נוח בשל עיכובים בייצור בפרו ובאקוודור. זמינות מצומצמת זו אצל המתחרים מפנה את הביקוש הבינלאומי למקור הברזילאי למחצית השנייה של 2026. <span class=\"news-reason\">מידע על חלונות שיווק ופערי ייצור אצל מתחרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866411/retrasos-en-peru-y-ecuador-favorecen-la-ventana-comercial-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -532,7 +562,7 @@
     {
       "id": "1787672043_0",
       "timestamp": "2026-08-25T15:34:03.893925+00:00",
-      "title": "Espagne : la production de mangues en recul de 20 à 25 %",
+      "title": "Espagne : la production de mangues accuse un recul de 20 à 25 %",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -543,7 +573,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production de mangues en recul de 20 à 25 % -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">La production espagnole de mangues devrait baisser de 20 à 25 % cette année. La récolte des variétés précoces a déjà commencé, et la variété principale, Osteen, devrait arriver sur le marché avec une semaine d&#x27;avance sur le calendrier habituel. <span class=\"news-reason\">Informations chiffrées précises sur le recul des volumes chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production de mangues accuse un recul de 20 à 25 % -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">La production espagnole de mangues devrait baisser de 20 à 25 % cette année. La récolte des variétés précoces a déjà commencé, et la variété principale, Osteen, devrait arriver sur le marché avec une semaine d&#x27;avance sur le calendrier habituel. <span class=\"news-reason\">Informations chiffrées précises sur le recul des volumes chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: 20 to 25% drop in mango production -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">Spanish mango production is expected to drop by 20 to 25% this year. The harvest of early varieties has already begun, and the main variety, Osteen, is expected to arrive on the market a week ahead of the usual schedule. <span class=\"news-reason\">Precise figures on the volume decline for a major competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד: ירידה של 20-25% בייצור המנגו -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">ייצור המנגו הספרדי צפוי לרדת ב-20-25% השנה. קטיף הזנים המוקדמים כבר החל, והזן העיקרי, Osteen, צפוי להגיע לשוק שבוע לפני המועד הרגיל. <span class=\"news-reason\">מידע מספרי מדויק על הירידה בכמויות אצל מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -704,7 +734,7 @@
     {
       "id": "1787634119_0",
       "timestamp": "2026-08-25T05:01:59.598007+00:00",
-      "title": "Maroc : Démarrage imminent de la campagne des petits agrumes et perspectives de volumes stables",
+      "title": "Maroc : Lancement imminent de la campagne des petits agrumes et perspectives de volumes stables",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -715,27 +745,9 @@
       "origins": [
         "MAR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Maroc : Démarrage imminent de la campagne des petits agrumes et perspectives de volumes stables -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">Dans la région de Berkane, au Maroc, la récolte des petits agrumes (mandarines et clémentines) est sur le point de commencer. Les opérateurs locaux prévoient des volumes stables par rapport aux saisons précédentes, avec un calendrier de récolte conforme aux prévisions habituelles. <span class=\"news-reason\">Information stratégique sur le début de campagne d&#x27;une origine concurrente majeure pour les mandarines et clémentines.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864303/si-avvicina-la-raccolta-dei-soft-citrus-marocchini-e-si-prevedono-volumi-stabili/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Maroc : Lancement imminent de la campagne des petits agrumes et perspectives de volumes stables -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">Dans la région de Berkane, au Maroc, la récolte des petits agrumes (mandarines et clémentines) est sur le point de commencer. Les opérateurs locaux prévoient des volumes stables par rapport aux saisons précédentes, avec un calendrier de récolte conforme aux prévisions habituelles. <span class=\"news-reason\">Information stratégique sur le début de campagne d&#x27;une origine concurrente majeure pour les mandarines et clémentines.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864303/si-avvicina-la-raccolta-dei-soft-citrus-marocchini-e-si-prevedono-volumi-stabili/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Imminent launch of the small citrus harvest campaign in Morocco with stable volumes -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">In the Berkane region of Morocco, the harvest of small citrus fruits (mandarins and clementines) is about to begin. Local operators anticipate stable volumes compared to previous seasons, with a harvest schedule in line with usual forecasts. <span class=\"news-reason\">Strategic information on the start of the campaign for a major competing origin for mandarins and clementines.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864303/si-avvicina-la-raccolta-dei-soft-citrus-marocchini-e-si-prevedono-volumi-stabili/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מקורות מתחרים</div><div class=\"news-title\">תחילתה הקרובה של עונת קטיף פירות ההדר הקטנים במרוקו עם כמויות יציבות -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">באזור ברקן שבמרוקו, קטיף פירות ההדר הקטנים (מנדרינות וקלמנטינות) עומד להתחיל. הגורמים המקומיים צופים כמויות יציבות בהשוואה לעונות הקודמות, עם לוח זמנים לקטיף התואם את התחזיות הרגילות. <span class=\"news-reason\">מידע אסטרטגי על תחילת העונה של מקור מתחרה מרכזי למנדרינות וקלמנטינות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864303/si-avvicina-la-raccolta-dei-soft-citrus-marocchini-e-si-prevedono-volumi-stabili/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787585490_0",
-      "timestamp": "2026-08-24T15:31:30.063086+00:00",
-      "title": "Ralentissement du marché de la patate douce en Égypte -- 24/08/2026 13:37",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "sweet_potato"
-      ],
-      "origins": [
-        "EGY"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Ralentissement du marché de la patate douce en Égypte -- <span class=\"news-date\">24/08/2026 13:37</span></div><div class=\"news-body\">La campagne égyptienne de patate douce traverse une phase de stagnation commerciale. Selon Mostafa Ali de Premium Sourcing, le marché international a des difficultés à absorber une récolte plus volumineuse que lors des campagnes précédentes, entraînant une demande très atone et un ralentissement des flux export. <span class=\"news-reason\">Information stratégique sur les volumes et la demande d&#x27;un produit Mehadrin (patate douce) chez un concurrent direct (Égypte).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9865188/le-marche-de-la-patate-douce-est-tres-lent-en-ce-moment/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Slowdown of the sweet potato market in Egypt -- <span class=\"news-date\">24/08/2026 13:37</span></div><div class=\"news-body\">The Egyptian sweet potato campaign is going through a phase of commercial stagnation. According to Mostafa Ali of Premium Sourcing, the international market is having difficulty absorbing a larger harvest than in previous campaigns, leading to very sluggish demand and a slowdown in export flows. <span class=\"news-reason\">Strategic information on volumes and demand for a Mehadrin product (sweet potato) from a direct competitor (Egypt).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9865188/le-marche-de-la-patate-douce-est-tres-lent-en-ce-moment/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">האטה בשוק הבטטה במצרים -- <span class=\"news-date\">24/08/2026 13:37</span></div><div class=\"news-body\">עונת הבטטה המצרית עוברת שלב של קיפאון מסחרי. לפי מוסטפא עלי מ-Premium Sourcing, לשוק הבינלאומי יש קושי לספוג יבול גדול יותר מאשר בעונות קודמות, מה שמוביל לביקוש דל מאוד ולהאטה בזרימת הייצוא. <span class=\"news-reason\">מידע אסטרטגי על כמויות וביקוש למוצר מהדרין (בטטה) אצל מתחרה ישיר (מצרים).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9865188/le-marche-de-la-patate-douce-est-tres-lent-en-ce-moment/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
