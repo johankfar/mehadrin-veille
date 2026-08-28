@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-28T12:34:17.154481+00:00",
-  "article_count": 42,
+  "last_updated": "2026-08-28T14:04:17.926087+00:00",
+  "article_count": 44,
   "attention_points": [
     {
       "id": "attention-7671e6048ca51dc2",
@@ -17,7 +17,7 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 0
+      "age_hours": 1
     },
     {
       "id": "attention-45a7382a5d723372",
@@ -36,7 +36,7 @@
       "products": [
         "date"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-278bc68a79eb364d",
@@ -55,7 +55,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 1
+      "age_hours": 2
     },
     {
       "id": "attention-1ad2b84b3a1960b2",
@@ -74,10 +74,46 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 8
+      "age_hours": 9
     }
   ],
   "articles": [
+    {
+      "id": "1787925857_2",
+      "timestamp": "2026-08-28T14:04:17.926087+00:00",
+      "title": "Production record de mangues en Sicile malgré les obstacles commerciaux",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [
+        "ITA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Production record de mangues en Sicile malgré les obstacles commerciaux -- <span class=\"news-date\">28/08/2026 10:41</span></div><div class=\"news-body\">La saison de la mangue en Sicile se distingue cette année par une production exceptionnellement abondante, dépassant les niveaux des années précédentes. Bien que l&#x27;offre soit importante, le marché maintient un certain équilibre grâce à la qualité gustative des fruits. Cependant, l&#x27;absence de coordination entre les acteurs de la filière limite l&#x27;efficacité de la commercialisation et le plein potentiel de vente. <span class=\"news-reason\">Analyse de la situation d&#x27;une origine concurrente proche (Sicile) qui gagne en volume.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9866941/starke-saison-fur-sizilianische-mangos-aber-fehlende-koordination-bremst-den-absatz/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Record mango production in Sicily despite commercial obstacles -- <span class=\"news-date\">28/08/2026 10:41</span></div><div class=\"news-body\">The mango season in Sicily is distinguished this year by an exceptionally abundant production, exceeding the levels of previous years. Although supply is significant, the market maintains a certain balance thanks to the taste quality of the fruit. However, the lack of coordination among industry stakeholders limits marketing efficiency and full sales potential. <span class=\"news-reason\">Analysis of the situation of a nearby competing origin (Sicily) that is gaining in volume.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9866941/starke-saison-fur-sizilianische-mangos-aber-fehlende-koordination-bremst-den-absatz/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">ייצור שיא של מנגו בסיציליה למרות מכשולים מסחריים -- <span class=\"news-date\">28/08/2026 10:41</span></div><div class=\"news-body\">עונת המנגו בסיציליה בולטת השנה בייצור שופע באופן חריג, העולה על הרמות של השנים הקודמות. למרות ההיצע הגדול, השוק שומר על איזון מסוים בזכות האיכות הגבוהה של הפירות. עם זאת, חוסר תיאום בין הגורמים בענף מגביל את יעילות השיווק ואת מיצוי פוטנציאל המכירות. <span class=\"news-reason\">ניתוח המצב של מקור מתחרה קרוב (סיציליה) שצובר נפח.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9866941/starke-saison-fur-sizilianische-mangos-aber-fehlende-koordination-bremst-den-absatz/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1787925857_1",
+      "timestamp": "2026-08-28T14:04:17.926087+00:00",
+      "title": "Pertes de production historiques pour la mangue mexicaine à Nayarit et Sinaloa -- 28/08/2026 13:41",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [
+        "MEX"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pertes de production historiques pour la mangue mexicaine à Nayarit et Sinaloa -- <span class=\"news-date\">28/08/2026 13:41</span></div><div class=\"news-body\">La campagne mexicaine de la mangue s&#x27;achève sur un bilan négatif avec une production finale bien inférieure aux prévisions initiales. Les États de Nayarit et de Sinaloa ont été particulièrement touchés par des conditions météorologiques défavorables. Le directeur de Mangos México confirme que la situation a été plus complexe que prévu, entraînant des pertes historiques pour les producteurs locaux. <span class=\"news-reason\">Information sur une baisse de production chez un concurrent (Mexique) due aux intempéries, impactant la disponibilité globale.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9866973/la-culture-de-la-mangue-mexicaine-subit-des-pertes-historiques-dans-l-etat-de-nayarit-en-raison-des-conditions-climatiques/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Historic production losses for Mexican mangoes in Nayarit and Sinaloa -- <span class=\"news-date\">28/08/2026 13:41</span></div><div class=\"news-body\">The Mexican mango season is ending with a negative result, with final production well below initial forecasts. The states of Nayarit and Sinaloa were particularly affected by unfavorable weather conditions. The director of Mangos México confirms that the situation was more complex than expected, leading to historic losses for local producers. <span class=\"news-reason\">Information about a production decrease from a competitor (Mexico) due to bad weather, impacting global availability.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9866973/la-culture-de-la-mangue-mexicaine-subit-des-pertes-historiques-dans-l-etat-de-nayarit-en-raison-des-conditions-climatiques/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">הפסדי ייצור היסטוריים למנגו המקסיקני בנאיאריט ובסינאלואה -- <span class=\"news-date\">28/08/2026 13:41</span></div><div class=\"news-body\">עונת המנגו המקסיקנית מסתיימת במאזן שלילי עם ייצור סופי נמוך בהרבה מהתחזיות המוקדמות. המדינות נאיאריט וסינאלואה נפגעו במיוחד מתנאי מזג אוויר קשים. מנהל Mangos México מאשר כי המצב היה מורכב מהצפוי, מה שהוביל להפסדים היסטוריים עבור המגדלים המקומיים. <span class=\"news-reason\">מידע על ירידה בייצור אצל מתחרה (מקסיקו) עקב פגעי מזג אוויר, המשפיעה על הזמינות העולמית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9866973/la-culture-de-la-mangue-mexicaine-subit-des-pertes-historiques-dans-l-etat-de-nayarit-en-raison-des-conditions-climatiques/\" target=\"_blank\">FreshPlaza FR -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1787920457_7",
       "timestamp": "2026-08-28T12:34:17.154481+00:00",
@@ -325,7 +361,7 @@
     {
       "id": "1787844837_1",
       "timestamp": "2026-08-27T15:33:57.515662+00:00",
-      "title": "Forte croissance de la demande pour la patate douce de Caroline du Nord",
+      "title": "Forte progression de la demande pour la patate douce de Caroline du Nord",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -334,7 +370,7 @@
         "sweet_potato"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Forte croissance de la demande pour la patate douce de Caroline du Nord -- <span class=\"news-date\">27/08/2026 16:00</span></div><div class=\"news-body\">Le secteur de la patate douce en Caroline du Nord anticipe une demande mondiale en forte croissance, dépassant les prévisions annuelles. Les producteurs soulignent que pour maintenir ce rythme, la prochaine récolte devra être excellente et constante en termes de rendements pour satisfaire les niveaux de consommation actuels. <span class=\"news-reason\">Information marché sur la patate douce, produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866934/dado-el-nivel-de-consumo-actual-necesitamos-una-cosecha-excelente-consistente-y-con-altos-rendimientos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Forte progression de la demande pour la patate douce de Caroline du Nord -- <span class=\"news-date\">27/08/2026 16:00</span></div><div class=\"news-body\">Le secteur de la patate douce en Caroline du Nord anticipe une demande mondiale en forte croissance, dépassant les prévisions annuelles. Les producteurs soulignent que pour maintenir ce rythme, la prochaine récolte devra être excellente et constante en termes de rendements pour satisfaire les niveaux de consommation actuels. <span class=\"news-reason\">Information marché sur la patate douce, produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866934/dado-el-nivel-de-consumo-actual-necesitamos-una-cosecha-excelente-consistente-y-con-altos-rendimientos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Strong growth in demand for North Carolina sweet potatoes -- <span class=\"news-date\">27/08/2026 16:00</span></div><div class=\"news-body\">The sweet potato sector in North Carolina anticipates strong growth in global demand, exceeding annual forecasts. Producers emphasize that to maintain this pace, the next harvest must be excellent and consistent in terms of yields to satisfy current consumption levels. <span class=\"news-reason\">Market information on sweet potato, a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866934/dado-el-nivel-de-consumo-actual-necesitamos-una-cosecha-excelente-consistente-y-con-altos-rendimientos/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">עלייה חדה בביקוש לבטטה מצפון קרוליינה -- <span class=\"news-date\">27/08/2026 16:00</span></div><div class=\"news-body\">ענף הבטטה בצפון קרוליינה צופה ביקוש עולמי בצמיחה חזקה, מעבר לתחזיות השנתיות. המגדלים מדגישים שכדי לשמור על קצב זה, היבול הבא יצטרך להיות מצוין ועקבי מבחינת יבולים כדי לספק את רמות הצריכה הנוכחיות. <span class=\"news-reason\">מידע שוק על בטטה, מוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866934/dado-el-nivel-de-consumo-actual-necesitamos-una-cosecha-excelente-consistente-y-con-altos-rendimientos/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -465,7 +501,7 @@
     {
       "id": "1787763918_1",
       "timestamp": "2026-08-26T17:05:18.055767+00:00",
-      "title": "Déficit d&#x27;approvisionnement en mangues Kent sur le marché international",
+      "title": "Pénurie de mangues Kent sur le marché international",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -474,7 +510,7 @@
         "mango"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Déficit d&#x27;approvisionnement en mangues Kent sur le marché international -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">Le marché international fait face à une pénurie de mangues Kent, tant en conventionnel qu&#x27;en biologique. Cette rareté de la variété Kent oblige les acheteurs à se tourner vers des segments alternatifs, maintenant une tension sur l&#x27;approvisionnement global et favorisant une tendance haussière des prix. <span class=\"news-reason\">Information sur une pénurie spécifique de la variété Kent, produit clé de Mehadrin, impactant la disponibilité mondiale.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866765/escasez-de-mango-iqf-convencional-y-organico-presiona-al-mercado-internacional/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pénurie de mangues Kent sur le marché international -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">Le marché international fait face à une pénurie de mangues Kent, tant en conventionnel qu&#x27;en biologique. Cette rareté de la variété Kent oblige les acheteurs à se tourner vers des segments alternatifs, maintenant une tension sur l&#x27;approvisionnement global et favorisant une tendance haussière des prix. <span class=\"news-reason\">Information sur une pénurie spécifique de la variété Kent, produit clé de Mehadrin, impactant la disponibilité mondiale.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866765/escasez-de-mango-iqf-convencional-y-organico-presiona-al-mercado-internacional/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Shortage of Kent mangoes on the international market -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">The international market is facing a shortage of Kent mangoes, in both conventional and organic. This scarcity of the Kent variety is forcing buyers to turn to alternative segments, maintaining tension on global supply and favoring an upward price trend. <span class=\"news-reason\">Information on a specific shortage of the Kent variety, a key product for Mehadrin, impacting global availability.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866765/escasez-de-mango-iqf-convencional-y-organico-presiona-al-mercado-internacional/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מחסור במנגו מזן קנט בשוק הבינלאומי -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">השוק הבינלאומי מתמודד עם מחסור במנגו מזן קנט, הן בגידול קונבנציונלי והן בגידול אורגני. מחסור זה בזן הקנט מאלץ את הקונים לפנות למקטעים חלופיים, מה ששומר על מתח באספקה העולמית ומעודד מגמת עלייה במחירים. <span class=\"news-reason\">מידע על מחסור ספציפי בזן הקנט, מוצר מפתח של מהדרין, המשפיע על הזמינות העולמית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866765/escasez-de-mango-iqf-convencional-y-organico-presiona-al-mercado-internacional/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -536,7 +572,7 @@
     {
       "id": "1787753112_2",
       "timestamp": "2026-08-26T14:05:12.210737+00:00",
-      "title": "Impact d&#x27;El Niño sur la production mondiale de mangues 2026/27",
+      "title": "Répercussions d’El Niño sur la production mondiale de mangues 2026/27",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -545,7 +581,7 @@
         "mango"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact d&#x27;El Niño sur la production mondiale de mangues 2026/27 -- <span class=\"news-date\">26/08/2026 15:48</span></div><div class=\"news-body\">Le phénomène climatique El Niño menace la production mondiale de mangues pour la saison 2026/27. Des anomalies de température à la surface de la mer intensifient la pression des maladies, mettant à l&#x27;épreuve les capacités de production dans les principales zones de culture. <span class=\"news-reason\">Alerte sur les risques climatiques et sanitaires pesant sur une culture majeure de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866858/el-nino-2026-27-y-la-mayor-presion-de-enfermedades-ponen-a-prueba-a-la-produccion-mundial-de-mango/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Répercussions d’El Niño sur la production mondiale de mangues 2026/27 -- <span class=\"news-date\">26/08/2026 15:48</span></div><div class=\"news-body\">Le phénomène climatique El Niño menace la production mondiale de mangues pour la saison 2026/27. Des anomalies de température à la surface de la mer intensifient la pression des maladies, mettant à l&#x27;épreuve les capacités de production dans les principales zones de culture. <span class=\"news-reason\">Alerte sur les risques climatiques et sanitaires pesant sur une culture majeure de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866858/el-nino-2026-27-y-la-mayor-presion-de-enfermedades-ponen-a-prueba-a-la-produccion-mundial-de-mango/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Impact of El Niño on global mango production 2026/27 -- <span class=\"news-date\">26/08/2026 15:48</span></div><div class=\"news-body\">The El Niño climate phenomenon threatens global mango production for the 2026/27 season. Sea surface temperature anomalies are intensifying disease pressure, testing production capacities in key growing areas. <span class=\"news-reason\">Alert on climate and health risks weighing on a major Mehadrin crop.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866858/el-nino-2026-27-y-la-mayor-presion-de-enfermedades-ponen-a-prueba-a-la-produccion-mundial-de-mango/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השפעת אל ניניו על ייצור המנגו העולמי 2026/27 -- <span class=\"news-date\">26/08/2026 15:48</span></div><div class=\"news-body\">תופעת האקלים אל ניניו מאיימת על ייצור המנגו העולמי לעונת 2026/27. אנומליות בטמפרטורת פני הים מגבירות את לחץ המחלות, ומעמידות למבחן את יכולות הייצור באזורי הגידול העיקריים. <span class=\"news-reason\">התראה על סיכונים אקלימיים ותברואתיים המכבידים על גידול מרכזי של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866858/el-nino-2026-27-y-la-mayor-presion-de-enfermedades-ponen-a-prueba-a-la-produccion-mundial-de-mango/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -757,7 +793,7 @@
     {
       "id": "1787672043_2",
       "timestamp": "2026-08-25T15:34:03.893925+00:00",
-      "title": "Europe : la demande de mangues demeure soutenue cet été en dépit de prix élevés",
+      "title": "Europe : la demande de mangues demeure soutenue cet été malgré des prix élevés",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -766,7 +802,7 @@
         "mango"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Europe : la demande de mangues demeure soutenue cet été en dépit de prix élevés -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">Les mangues ont enregistré de bons résultats commerciaux cet été en Europe, stimulées par les vagues de chaleur. Malgré une offre limitée et des prix de vente élevés, la demande est restée forte pour ce produit exotique. <span class=\"news-reason\">Analyse de la demande sur le marché européen pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865556/las-limas-los-mangos-y-los-cocos-para-beber-se-han-vendido-muy-bien-este-verano/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Europe : la demande de mangues demeure soutenue cet été malgré des prix élevés -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">Les mangues ont enregistré de bons résultats commerciaux cet été en Europe, stimulées par les vagues de chaleur. Malgré une offre limitée et des prix de vente élevés, la demande est restée forte pour ce produit exotique. <span class=\"news-reason\">Analyse de la demande sur le marché européen pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865556/las-limas-los-mangos-y-los-cocos-para-beber-se-han-vendido-muy-bien-este-verano/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Europe: sustained summer demand for mangoes despite high prices -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">Mangoes recorded good commercial results this summer in Europe, stimulated by heatwaves. Despite limited supply and high selling prices, demand remained strong for this exotic product. <span class=\"news-reason\">Analysis of demand on the European market for a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865556/las-limas-los-mangos-y-los-cocos-para-beber-se-han-vendido-muy-bien-este-verano/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">אירופה: ביקוש קיץ גבוה למנגו למרות מחירים גבוהים -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">המנגו רשם תוצאות מסחריות טובות הקיץ באירופה, בעידוד גלי החום. למרות היצע מוגבל ומחירי מכירה גבוהים, הביקוש למוצר האקזוטי נותר חזק. <span class=\"news-reason\">ניתוח הביקוש בשוק האירופי למוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865556/las-limas-los-mangos-y-los-cocos-para-beber-se-han-vendido-muy-bien-este-verano/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -791,7 +827,7 @@
     {
       "id": "1787672043_0",
       "timestamp": "2026-08-25T15:34:03.893925+00:00",
-      "title": "Espagne : recul de 20 à 25 % de la production de mangues",
+      "title": "Espagne : la production de mangues accuse un recul de 20 à 25 %",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -802,7 +838,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : recul de 20 à 25 % de la production de mangues -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">La production espagnole de mangues devrait baisser de 20 à 25 % cette année. La récolte des variétés précoces a déjà commencé, et la variété principale, Osteen, devrait arriver sur le marché avec une semaine d&#x27;avance sur le calendrier habituel. <span class=\"news-reason\">Informations chiffrées précises sur le recul des volumes chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production de mangues accuse un recul de 20 à 25 % -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">La production espagnole de mangues devrait baisser de 20 à 25 % cette année. La récolte des variétés précoces a déjà commencé, et la variété principale, Osteen, devrait arriver sur le marché avec une semaine d&#x27;avance sur le calendrier habituel. <span class=\"news-reason\">Informations chiffrées précises sur le recul des volumes chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: 20 to 25% drop in mango production -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">Spanish mango production is expected to drop by 20 to 25% this year. The harvest of early varieties has already begun, and the main variety, Osteen, is expected to arrive on the market a week ahead of the usual schedule. <span class=\"news-reason\">Precise figures on the volume decline for a major competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד: ירידה של 20-25% בייצור המנגו -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">ייצור המנגו הספרדי צפוי לרדת ב-20-25% השנה. קטיף הזנים המוקדמים כבר החל, והזן העיקרי, Osteen, צפוי להגיע לשוק שבוע לפני המועד הרגיל. <span class=\"news-reason\">מידע מספרי מדויק על הירידה בכמויות אצל מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     }
