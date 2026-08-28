@@ -1,45 +1,61 @@
 {
-  "last_updated": "2026-08-28T11:05:03.423983+00:00",
-  "article_count": 44,
+  "last_updated": "2026-08-28T12:34:17.154481+00:00",
+  "article_count": 42,
   "attention_points": [
     {
-      "id": "attention-dfae9e915b090129",
-      "article_id": "1787915103_1",
-      "url": "https://www.agf.nl/article/9867313/jumbo-bereikt-begin-2027-mijlpaal-van-50-winkels-in-belgie/",
-      "source": "AGF.nl",
-      "title": "Expansion de Jumbo en Belgique et lancement de nouveaux agrumes",
-      "summary": "Le distributeur Morrisons lance une nouvelle gamme de fruits sous licence Disney, incluant des emballages de 500 grammes d'easy peelers (petits agrumes) ainsi que des pommes et des poires.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-08-28T12:05:00+02:00",
+      "id": "attention-7671e6048ca51dc2",
+      "article_id": "1787920457_7",
+      "url": "https://www.hortidaily.com/article/9867067/south-africa-amends-vat-zero-rating-rules-for-exports/",
+      "source": "HortiDaily",
+      "title": "Afrique du Sud : Simplification du régime de TVA",
+      "summary": "Le Trésor national sud-africain a publié des amendements permettant l'application d'un taux zéro de TVA pour les marchandises livrées aux autorités portuaires en vue de l'exportation, simplifiant ainsi les procédures.",
+      "origin_code": "ZAF",
+      "origin_label": "Afrique du Sud",
+      "published_at": "2026-08-28T14:05:00+02:00",
       "published_at_source": "rss",
       "signal_type": "information",
       "signal_label": "Information",
       "icon": "information",
-      "products": [
-        "pear",
-        "apple"
-      ],
-      "age_hours": 1
+      "products": [],
+      "age_hours": 0
     },
     {
-      "id": "attention-a0839f841a4f5dd2",
-      "article_id": "1787915103_0",
-      "url": "https://www.freshplaza.de/article/9867340/mangos-durfen-erst-bei-einem-brix-wert-von-mindestens-7-und-einem-inneren-farbwert-von-2-geerntet-werden/",
-      "source": "FreshPlaza DE",
-      "title": "Renforcement des normes de récolte pour la mangue Kent",
-      "summary": "Des conditions climatiques défavorables et exigences de maturité accrues.",
-      "origin_code": "PER",
-      "origin_label": "Pérou",
-      "published_at": "2026-08-28T10:41:00+02:00",
+      "id": "attention-45a7382a5d723372",
+      "article_id": "1787920457_4",
+      "url": "https://www.freshplaza.fr/article/9866909/les-exportateurs-tunisiens-de-dattes-se-tournent-vers-l-asie-face-aux-restrictions-sur-le-marche-marocain/",
+      "source": "FreshPlaza FR",
+      "title": "Démarrage précoce de la campagne de dattes Deglet Nour",
+      "summary": "En raison d'un été caniculaire, la campagne tunisienne de dattes devrait débuter fin septembre, plus tôt que d'ordinaire.",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-08-28T13:41:00+02:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [
-        "mango"
+        "date"
       ],
-      "age_hours": 2
+      "age_hours": 0
+    },
+    {
+      "id": "attention-278bc68a79eb364d",
+      "article_id": "1787920457_6",
+      "url": "https://www.freshplaza.com/article/9867550/new-zealand-avocados-build-broader-asian-foothold-beyond-australia/",
+      "source": "FreshPlaza",
+      "title": "La Nouvelle-Zélande accroît ses exportations d'avocats vers l'Asie",
+      "summary": "Le secteur néo-zélandais de l'avocat diversifie ses débouchés en ciblant davantage les marchés asiatiques.",
+      "origin_code": "NZL",
+      "origin_label": "Nouvelle-Zelande",
+      "published_at": "2026-08-28T13:28:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "information",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 1
     },
     {
       "id": "attention-1ad2b84b3a1960b2",
@@ -58,27 +74,115 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 7
-    },
-    {
-      "id": "attention-41fcdeda0625b1bb",
-      "article_id": "1787904203_0",
-      "url": "https://citrusindustry.net/2026/08/27/new-approval-boost-south-african-citrus-exports-india/",
-      "source": "Citrus Industry",
-      "title": "Exportations d'agrumes sud-africains vers l'Inde : accord sur",
-      "summary": "Après près d'une décennie de négociations, de nouvelles conditions d'exportation pour les agrumes sud-africains vers l'Inde ont été établies.",
-      "origin_code": "ZAF",
-      "origin_label": "Afrique du Sud",
-      "published_at": "2026-08-27T14:00:00+00:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "information",
-      "products": [],
-      "age_hours": 21
+      "age_hours": 8
     }
   ],
   "articles": [
+    {
+      "id": "1787920457_7",
+      "timestamp": "2026-08-28T12:34:17.154481+00:00",
+      "title": "Afrique du Sud : Simplification du régime de TVA applicable aux produits exportés -- 28/08/2026 14:05",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "ZAF"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Afrique du Sud : Simplification du régime de TVA applicable aux produits exportés -- <span class=\"news-date\">28/08/2026 14:05</span></div><div class=\"news-body\">Le Trésor national sud-africain a publié des amendements permettant l&#x27;application d&#x27;un taux zéro de TVA pour les marchandises livrées aux autorités portuaires en vue de l&#x27;exportation, simplifiant ainsi les procédures. <span class=\"news-reason\">Information sur le cadre fiscal d&#x27;une origine concurrente majeure facilitant les flux logistiques.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9867067/south-africa-amends-vat-zero-rating-rules-for-exports/\" target=\"_blank\">HortiDaily -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION BY ORIGIN</div><div class=\"news-title\">South Africa: Simplification of the VAT regime applicable to exported products -- <span class=\"news-date\">28/08/2026 14:05</span></div><div class=\"news-body\">The South African National Treasury has published amendments allowing the application of a zero-rate VAT for goods delivered to port authorities for export, thereby simplifying procedures. <span class=\"news-reason\">Information on the tax framework of a major competing origin facilitating logistical flows.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9867067/south-africa-amends-vat-zero-rating-rules-for-exports/\" target=\"_blank\">HortiDaily -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">דרום אפריקה: פישוט משטר המע\"מ החל על מוצרים מיוצאים -- <span class=\"news-date\">28/08/2026 14:05</span></div><div class=\"news-body\">משרד האוצר הלאומי של דרום אפריקה פרסם תיקונים המאפשרים החלת שיעור מע\"מ אפס על סחורות שנמסרו לרשויות הנמל לצורך יצוא, ובכך מפשט את ההליכים. <span class=\"news-reason\">מידע על המסגרת הפיסקלית של מקור מתחרה מרכזי המקל על זרמים לוגיסטיים.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9867067/south-africa-amends-vat-zero-rating-rules-for-exports/\" target=\"_blank\">HortiDaily -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1787920457_6",
+      "timestamp": "2026-08-28T12:34:17.154481+00:00",
+      "title": "La Nouvelle-Zélande accroît ses exportations d&#x27;avocats vers l&#x27;Asie -- 28/08/2026 13:28",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "NZL"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La Nouvelle-Zélande accroît ses exportations d&#x27;avocats vers l&#x27;Asie -- <span class=\"news-date\">28/08/2026 13:28</span></div><div class=\"news-body\">Le secteur néo-zélandais de l&#x27;avocat diversifie ses débouchés en ciblant davantage les marchés asiatiques. La saison 2025/26 a marqué un record de volumes exportés hors de l&#x27;Australie, renforçant leur présence internationale. <span class=\"news-reason\">Évolution de la stratégie d&#x27;exportation d&#x27;un concurrent sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867550/new-zealand-avocados-build-broader-asian-foothold-beyond-australia/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION BY ORIGIN</div><div class=\"news-title\">New Zealand increases avocado exports to Asia -- <span class=\"news-date\">28/08/2026 13:28</span></div><div class=\"news-body\">The New Zealand avocado sector is diversifying its outlets by targeting Asian markets more heavily. The 2025/26 season marked record volumes exported outside of Australia, strengthening their international presence. <span class=\"news-reason\">Evolution of the export strategy of a competitor on a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867550/new-zealand-avocados-build-broader-asian-foothold-beyond-australia/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">ניו זילנד מגדילה את יצוא האבוקדו שלה לאסיה -- <span class=\"news-date\">28/08/2026 13:28</span></div><div class=\"news-body\">מגזר האבוקדו של ניו זילנד מגון את יעדיו על ידי התמקדות רבה יותר בשווקים האסיאתיים. עונת 2025/26 רשמה שיא בכמויות שיוצאו אל מחוץ לאוסטרליה, מה שחיזק את הנוכחות הבינלאומית שלהם. <span class=\"news-reason\">שינוי באסטרטגיית היצוא של מתחרה במוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867550/new-zealand-avocados-build-broader-asian-foothold-beyond-australia/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1787920457_5",
+      "timestamp": "2026-08-28T12:34:17.154481+00:00",
+      "title": "Pression sur les ressources hydriques pour la production d&#x27;avocats et d&#x27;agrumes au Chili -- 28/08/2026 13:28",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia",
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "CHL"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pression sur les ressources hydriques pour la production d&#x27;avocats et d&#x27;agrumes au Chili -- <span class=\"news-date\">28/08/2026 13:28</span></div><div class=\"news-body\">La vallée de l&#x27;Aconcagua au Chili, zone de production majeure pour les avocats et les agrumes, subit une baisse constante du débit de sa rivière depuis 15 ans, menaçant la durabilité des exportations. <span class=\"news-reason\">Alerte de long terme sur la capacité de production d&#x27;une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867371/produce-industry-working-to-address-water-risks-in-chile-s-aconcagua-valley/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Pressure on water resources for avocado and citrus production in Chile -- <span class=\"news-date\">28/08/2026 13:28</span></div><div class=\"news-body\">The Aconcagua Valley in Chile, a major production area for avocados and citrus, has been experiencing a constant decline in its river flow for 15 years, threatening the sustainability of exports. <span class=\"news-reason\">Long-term alert on the production capacity of a competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867371/produce-industry-working-to-address-water-risks-in-chile-s-aconcagua-valley/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">לחץ על משאבי המים לייצור אבוקדו ופירות הדר בצ'ילה -- <span class=\"news-date\">28/08/2026 13:28</span></div><div class=\"news-body\">עמק אקונקגווה בצ'ילה, אזור ייצור מרכזי לאבוקדו ופירות הדר, סובל מירידה מתמדת בזרימת הנהר שלו מזה 15 שנה, מה שמעמיד בסכנה את יציבות היצוא. <span class=\"news-reason\">התראה לטווח ארוך על כושר הייצור של מקור מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867371/produce-industry-working-to-address-water-risks-in-chile-s-aconcagua-valley/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1787920457_4",
+      "timestamp": "2026-08-28T12:34:17.154481+00:00",
+      "title": "Démarrage précoce de la campagne de dattes Deglet Nour en Tunisie -- 28/08/2026 13:41",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [
+        "date"
+      ],
+      "origins": [
+        "MAR",
+        "ISR",
+        "TUN"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Démarrage précoce de la campagne de dattes Deglet Nour en Tunisie -- <span class=\"news-date\">28/08/2026 13:41</span></div><div class=\"news-body\">En raison d&#x27;un été caniculaire, la campagne tunisienne de dattes devrait débuter fin septembre, plus tôt que d&#x27;ordinaire. Face aux difficultés sur le marché marocain, les exportateurs tunisiens se réorientent vers l&#x27;Asie. <span class=\"news-reason\">Information sur le calendrier de commercialisation d&#x27;un produit concurrent de la datte israélienne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9866909/les-exportateurs-tunisiens-de-dattes-se-tournent-vers-l-asie-face-aux-restrictions-sur-le-marche-marocain/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION BY ORIGIN</div><div class=\"news-title\">Early start for the Deglet Nour date campaign in Tunisia -- <span class=\"news-date\">28/08/2026 13:41</span></div><div class=\"news-body\">Due to a heatwave summer, the Tunisian date campaign is expected to start in late September, earlier than usual. Facing difficulties in the Moroccan market, Tunisian exporters are shifting their focus to Asia. <span class=\"news-reason\">Information on the marketing schedule of a product competing with Israeli dates.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9866909/les-exportateurs-tunisiens-de-dattes-se-tournent-vers-l-asie-face-aux-restrictions-sur-le-marche-marocain/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">תחילת מוקדמת של עונת תמריי דגלת נור בתוניסיה -- <span class=\"news-date\">28/08/2026 13:41</span></div><div class=\"news-body\">בשל קיץ חם במיוחד, עונת התמרים התוניסאית צפויה להתחיל בסוף ספטמבר, מוקדם מהרגיל. לנוכח הקשיים בשוק המרוקאי, היצואנים התוניסאים פונים לאסיה. <span class=\"news-reason\">מידע על לוח הזמנים לשיווק של מוצר המתחרה בתמר הישראלי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9866909/les-exportateurs-tunisiens-de-dattes-se-tournent-vers-l-asie-face-aux-restrictions-sur-le-marche-marocain/\" target=\"_blank\">FreshPlaza FR -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1787920457_3",
+      "timestamp": "2026-08-28T12:34:17.154481+00:00",
+      "title": "Sunkist s&#x27;associe à VIDAfresh pour la distribution d&#x27;agrumes au Royaume-Uni -- 28/08/2026 13:28",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Sunkist s&#x27;associe à VIDAfresh pour la distribution d&#x27;agrumes au Royaume-Uni -- <span class=\"news-date\">28/08/2026 13:28</span></div><div class=\"news-body\">Sunkist Growers a annoncé un partenariat avec VIDAfresh pour étendre la disponibilité de ses agrumes premium sur le marché britannique. Le programme débutera avec la saison de l&#x27;hémisphère nord, incluant oranges et petits fruits. <span class=\"news-reason\">Mouvement commercial important sur le marché stratégique du Royaume-Uni pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867363/premium-citrus-offering-expands-in-the-united-kingdom/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Sunkist partners with VIDAfresh for citrus distribution in the United Kingdom -- <span class=\"news-date\">28/08/2026 13:28</span></div><div class=\"news-body\">Sunkist Growers has announced a partnership with VIDAfresh to expand the availability of its premium citrus fruits in the UK market. The program will begin with the Northern Hemisphere season, including oranges and small fruits. <span class=\"news-reason\">Major commercial movement in the strategic UK market for citrus fruits.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867363/premium-citrus-offering-expands-in-the-united-kingdom/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות</div><div class=\"news-title\">Sunkist משתפת פעולה עם VIDAfresh להפצת פרי הדר בבריטניה -- <span class=\"news-date\">28/08/2026 13:28</span></div><div class=\"news-body\">Sunkist Growers הודיעה על שותפות עם VIDAfresh להרחבת הזמינות של פירות ההדר המובחרים שלה בשוק הבריטי. התוכנית תחל עם עונת חצי הכדור הצפוני, ותכלול תפוזים ופירות קטנים. <span class=\"news-reason\">מהלך מסחרי חשוב בשוק האסטרטגי של בריטניה עבור פירות הדר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867363/premium-citrus-offering-expands-in-the-united-kingdom/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1787920457_0",
+      "timestamp": "2026-08-28T12:34:17.154481+00:00",
+      "title": "L&#x27;Égypte renforce sa position d&#x27;exportateur de premier plan de grenades avec une production record -- 28/08/2026 13:28",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [
+        "pomegranate"
+      ],
+      "origins": [
+        "EGY"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Égypte renforce sa position d&#x27;exportateur de premier plan de grenades avec une production record -- <span class=\"news-date\">28/08/2026 13:28</span></div><div class=\"news-body\">L&#x27;Égypte renforce sa place sur le marché mondial de la grenade grâce à une production nationale atteignant environ 883 540 tonnes. Le pays profite d&#x27;une large fenêtre de récolte et d&#x27;une demande internationale en hausse pour ce produit. <span class=\"news-reason\">Article contenant des chiffres précis sur le volume de production d&#x27;un produit Mehadrin en pleine saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867542/export-performance-has-kept-pace-with-production-growth/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Egypt strengthens its position as a leading pomegranate exporter with record production -- <span class=\"news-date\">28/08/2026 13:28</span></div><div class=\"news-body\">Egypt is strengthening its position in the global pomegranate market thanks to national production reaching approximately 883,540 tonnes. The country is benefiting from a wide harvesting window and rising international demand for this product. <span class=\"news-reason\">Article containing precise figures on the production volume of a Mehadrin product in full season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867542/export-performance-has-kept-pace-with-production-growth/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מצרים מחזקת את מעמדה כיצואנית מובילה של רימונים עם ייצור שיא -- <span class=\"news-date\">28/08/2026 13:28</span></div><div class=\"news-body\">מצרים מחזקת את מקומה בשוק הרימונים העולמי הודות לייצור מקומי המגיע לכ-883,540 טונות. המדינה נהנית מחלון קטיף רחב ומביקוש בינלאומי גובר למוצר זה. <span class=\"news-reason\">מאמר המכיל נתונים מדויקים על נפח הייצור של מוצר מהדרין בשיא העונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867542/export-performance-has-kept-pace-with-production-growth/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1787915103_2",
       "timestamp": "2026-08-28T11:05:03.423983+00:00",
@@ -118,7 +222,7 @@
     {
       "id": "1787915103_0",
       "timestamp": "2026-08-28T11:05:03.423983+00:00",
-      "title": "Renforcement des normes de récolte pour la mangue Kent du Pérou",
+      "title": "Renforcement des normes de récolte de la mangue Kent du Pérou",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -129,7 +233,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Renforcement des normes de récolte pour la mangue Kent du Pérou -- <span class=\"news-date\">28/08/2026 10:41</span></div><div class=\"news-body\">La saison de la mangue Kent au Pérou s&#x27;annonce incertaine en raison de températures minimales supérieures à la normale qui ont perturbé la floraison. Par ailleurs, de nouvelles directives de qualité imposent désormais que les mangues ne soient récoltées qu&#x27;à partir d&#x27;un indice Brix de 7 et d&#x27;une valeur de couleur interne de 2 afin de garantir une maturité optimale à l&#x27;exportation. <span class=\"news-reason\">Informations cruciales sur les nouvelles normes de maturité (Brix) et les difficultés de floraison chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9867340/mangos-durfen-erst-bei-einem-brix-wert-von-mindestens-7-und-einem-inneren-farbwert-von-2-geerntet-werden/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Renforcement des normes de récolte de la mangue Kent du Pérou -- <span class=\"news-date\">28/08/2026 10:41</span></div><div class=\"news-body\">La saison de la mangue Kent au Pérou s&#x27;annonce incertaine en raison de températures minimales supérieures à la normale qui ont perturbé la floraison. Par ailleurs, de nouvelles directives de qualité imposent désormais que les mangues ne soient récoltées qu&#x27;à partir d&#x27;un indice Brix de 7 et d&#x27;une valeur de couleur interne de 2 afin de garantir une maturité optimale à l&#x27;exportation. <span class=\"news-reason\">Informations cruciales sur les nouvelles normes de maturité (Brix) et les difficultés de floraison chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9867340/mangos-durfen-erst-bei-einem-brix-wert-von-mindestens-7-und-einem-inneren-farbwert-von-2-geerntet-werden/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Peruvian Kent mangoes face stricter harvesting standards -- <span class=\"news-date\">28/08/2026 10:41</span></div><div class=\"news-body\">The Kent mango season in Peru is looking uncertain due to higher-than-normal minimum temperatures that have disrupted flowering. Furthermore, new quality guidelines now mandate that mangoes only be harvested starting from a Brix index of 7 and an internal color value of 2 to ensure optimal ripeness for export. <span class=\"news-reason\">Crucial information on new maturity standards (Brix) and flowering difficulties at a major competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9867340/mangos-durfen-erst-bei-einem-brix-wert-von-mindestens-7-und-einem-inneren-farbwert-von-2-geerntet-werden/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מנגו קנט מפרו מתמודד עם תקני קטיף מחמירים יותר -- <span class=\"news-date\">28/08/2026 10:41</span></div><div class=\"news-body\">עונת המנגו קנט בפרו נראית לא ודאית בשל טמפרטורות מינימום גבוהות מהרגיל ששיבשו את הפריחה. בנוסף, הנחיות איכות חדשות קובעות כעת כי יש לקטוף מנגו רק החל ממדד בריקס (Brix) של 7 וערך צבע פנימי של 2 על מנת להבטיח בשלות אופטימלית לייצוא. <span class=\"news-reason\">מידע חיוני על תקני בשלות חדשים (Brix) וקשיים בפריחה אצל מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9867340/mangos-durfen-erst-bei-einem-brix-wert-von-mindestens-7-und-einem-inneren-farbwert-von-2-geerntet-werden/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -189,7 +293,7 @@
     {
       "id": "1787893464_1",
       "timestamp": "2026-08-28T05:04:24.279464+00:00",
-      "title": "L&#x27;impact du phénomène El Niño sur la production d&#x27;avocats dans le nord du Pérou",
+      "title": "Impact du phénomène El Niño sur la production d&#x27;avocats dans le nord du Pérou",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -200,7 +304,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;impact du phénomène El Niño sur la production d&#x27;avocats dans le nord du Pérou -- <span class=\"news-date\">28/08/2026 06:05</span></div><div class=\"news-body\">Les perspectives pour la campagne 2026 au Pérou sont marquées par un contraste climatique. Tandis que le sud bénéficie de conditions clémentes, la production d&#x27;avocats dans les régions du nord subit un coup d&#x27;arrêt important en raison des hausses de température de l&#x27;eau liées à El Niño, perturbant les volumes attendus. <span class=\"news-reason\">Alerte de supply sur l&#x27;origine concurrente péruvienne pour l&#x27;avocat suite aux anomalies climatiques.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865232/i-due-volti-di-el-nino-in-peru-vantaggio-per-l-uva-da-tavola-del-sud-battuta-d-arresto-per-gli-avocado-del-nord/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact du phénomène El Niño sur la production d&#x27;avocats dans le nord du Pérou -- <span class=\"news-date\">28/08/2026 06:05</span></div><div class=\"news-body\">Les perspectives pour la campagne 2026 au Pérou sont marquées par un contraste climatique. Tandis que le sud bénéficie de conditions clémentes, la production d&#x27;avocats dans les régions du nord subit un coup d&#x27;arrêt important en raison des hausses de température de l&#x27;eau liées à El Niño, perturbant les volumes attendus. <span class=\"news-reason\">Alerte de supply sur l&#x27;origine concurrente péruvienne pour l&#x27;avocat suite aux anomalies climatiques.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865232/i-due-volti-di-el-nino-in-peru-vantaggio-per-l-uva-da-tavola-del-sud-battuta-d-arresto-per-gli-avocado-del-nord/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">The El Niño phenomenon weighs on avocado production in northern Peru -- <span class=\"news-date\">28/08/2026 06:05</span></div><div class=\"news-body\">The outlook for the 2026 campaign in Peru is marked by a climatic contrast. While the south benefits from mild conditions, avocado production in the northern regions is suffering a significant setback due to rising water temperatures linked to El Niño, disrupting expected volumes. <span class=\"news-reason\">Supply alert on the competing Peruvian origin for avocados following climate anomalies.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865232/i-due-volti-di-el-nino-in-peru-vantaggio-per-l-uva-da-tavola-del-sud-battuta-d-arresto-per-gli-avocado-del-nord/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">תופעת האל ניניו מכבידה על ייצור האבוקדו בצפון פרו -- <span class=\"news-date\">28/08/2026 06:05</span></div><div class=\"news-body\">התחזיות לעונת 2026 בפרו מתאפיינות בניגודיות אקלימית. בעוד שהדרום נהנה מתנאים נוחים, ייצור האבוקדו במחוזות הצפוניים סופג בלימה משמעותית בשל עליית טמפרטורות המים הקשורה לאל ניניו, דבר המשבש את הכמויות הצפויות. <span class=\"news-reason\">התראת אספקה על המקור הפרואני המתחרה לאבוקדו בעקבות חריגות אקלימיות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865232/i-due-volti-di-el-nino-in-peru-vantaggio-per-l-uva-da-tavola-del-sud-battuta-d-arresto-per-gli-avocado-del-nord/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -221,7 +325,7 @@
     {
       "id": "1787844837_1",
       "timestamp": "2026-08-27T15:33:57.515662+00:00",
-      "title": "Forte progression de la demande pour la patate douce de Caroline du Nord",
+      "title": "Forte croissance de la demande pour la patate douce de Caroline du Nord",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -230,7 +334,7 @@
         "sweet_potato"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Forte progression de la demande pour la patate douce de Caroline du Nord -- <span class=\"news-date\">27/08/2026 16:00</span></div><div class=\"news-body\">Le secteur de la patate douce en Caroline du Nord anticipe une demande mondiale en forte croissance, dépassant les prévisions annuelles. Les producteurs soulignent que pour maintenir ce rythme, la prochaine récolte devra être excellente et constante en termes de rendements pour satisfaire les niveaux de consommation actuels. <span class=\"news-reason\">Information marché sur la patate douce, produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866934/dado-el-nivel-de-consumo-actual-necesitamos-una-cosecha-excelente-consistente-y-con-altos-rendimientos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Forte croissance de la demande pour la patate douce de Caroline du Nord -- <span class=\"news-date\">27/08/2026 16:00</span></div><div class=\"news-body\">Le secteur de la patate douce en Caroline du Nord anticipe une demande mondiale en forte croissance, dépassant les prévisions annuelles. Les producteurs soulignent que pour maintenir ce rythme, la prochaine récolte devra être excellente et constante en termes de rendements pour satisfaire les niveaux de consommation actuels. <span class=\"news-reason\">Information marché sur la patate douce, produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866934/dado-el-nivel-de-consumo-actual-necesitamos-una-cosecha-excelente-consistente-y-con-altos-rendimientos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Strong growth in demand for North Carolina sweet potatoes -- <span class=\"news-date\">27/08/2026 16:00</span></div><div class=\"news-body\">The sweet potato sector in North Carolina anticipates strong growth in global demand, exceeding annual forecasts. Producers emphasize that to maintain this pace, the next harvest must be excellent and consistent in terms of yields to satisfy current consumption levels. <span class=\"news-reason\">Market information on sweet potato, a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866934/dado-el-nivel-de-consumo-actual-necesitamos-una-cosecha-excelente-consistente-y-con-altos-rendimientos/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">עלייה חדה בביקוש לבטטה מצפון קרוליינה -- <span class=\"news-date\">27/08/2026 16:00</span></div><div class=\"news-body\">ענף הבטטה בצפון קרוליינה צופה ביקוש עולמי בצמיחה חזקה, מעבר לתחזיות השנתיות. המגדלים מדגישים שכדי לשמור על קצב זה, היבול הבא יצטרך להיות מצוין ועקבי מבחינת יבולים כדי לספק את רמות הצריכה הנוכחיות. <span class=\"news-reason\">מידע שוק על בטטה, מוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866934/dado-el-nivel-de-consumo-actual-necesitamos-una-cosecha-excelente-consistente-y-con-altos-rendimientos/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -396,7 +500,7 @@
     {
       "id": "1787753112_4",
       "timestamp": "2026-08-26T14:05:12.210737+00:00",
-      "title": "Exportations records d&#x27;avocats chiliens pour la saison 2025-2026",
+      "title": "Exportations record d&#x27;avocats chiliens pour la saison 2025-2026",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -407,7 +511,7 @@
       "origins": [
         "CHL"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Exportations records d&#x27;avocats chiliens pour la saison 2025-2026 -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">À la clôture de la saison 2025-2026, le Chili enregistre des exportations de fruits frais d&#x27;une valeur de 8 milliards de dollars au 31 juillet, soit une hausse de 6 %. La filière avocat mène cette performance avec une progression de 22,8 % de ses expéditions, atteignant son plus haut niveau en 15 ans. <span class=\"news-reason\">Données chiffrées sur les volumes d&#x27;exportation records d&#x27;une origine concurrente majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866426/chile-cierra-temporada-fruticola-con-paltas-en-maximo-de-15-anos-y-avellanas-que-duplican-su-valor-exportado/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Exportations record d&#x27;avocats chiliens pour la saison 2025-2026 -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">À la clôture de la saison 2025-2026, le Chili enregistre des exportations de fruits frais d&#x27;une valeur de 8 milliards de dollars au 31 juillet, soit une hausse de 6 %. La filière avocat mène cette performance avec une progression de 22,8 % de ses expéditions, atteignant son plus haut niveau en 15 ans. <span class=\"news-reason\">Données chiffrées sur les volumes d&#x27;exportation records d&#x27;une origine concurrente majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866426/chile-cierra-temporada-fruticola-con-paltas-en-maximo-de-15-anos-y-avellanas-que-duplican-su-valor-exportado/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Record Chilean avocado exports for the 2025-2026 season -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">At the close of the 2025-2026 season, Chile recorded fresh fruit exports worth $8 billion as of July 31, a 6% increase. The avocado sector leads this performance with a 22.8% increase in shipments, reaching its highest level in 15 years. <span class=\"news-reason\">Data on record export volumes from a major competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866426/chile-cierra-temporada-fruticola-con-paltas-en-maximo-de-15-anos-y-avellanas-que-duplican-su-valor-exportado/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">שיא בייצוא אבוקדו צ'יליאני לעונת 2025-2026 -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">עם סיום עונת 2025-2026, צ'ילה רשמה ייצוא פירות טריים בשווי 8 מיליארד דולר נכון ל-31 ביולי, עלייה של 6%. ענף האבוקדו מוביל את הביצועים הללו עם עלייה של 22.8% במשלוחים, והגיע לרמתו הגבוהה ביותר מזה 15 שנה. <span class=\"news-reason\">נתונים מספריים על היקפי ייצוא שובר שיאים ממקור מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866426/chile-cierra-temporada-fruticola-con-paltas-en-maximo-de-15-anos-y-avellanas-que-duplican-su-valor-exportado/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -432,7 +536,7 @@
     {
       "id": "1787753112_2",
       "timestamp": "2026-08-26T14:05:12.210737+00:00",
-      "title": "Impact d’El Niño sur la production mondiale de mangues 2026/27",
+      "title": "Impact d&#x27;El Niño sur la production mondiale de mangues 2026/27",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -441,14 +545,14 @@
         "mango"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact d’El Niño sur la production mondiale de mangues 2026/27 -- <span class=\"news-date\">26/08/2026 15:48</span></div><div class=\"news-body\">Le phénomène climatique El Niño menace la production mondiale de mangues pour la saison 2026/27. Des anomalies de température à la surface de la mer intensifient la pression des maladies, mettant à l&#x27;épreuve les capacités de production dans les principales zones de culture. <span class=\"news-reason\">Alerte sur les risques climatiques et sanitaires pesant sur une culture majeure de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866858/el-nino-2026-27-y-la-mayor-presion-de-enfermedades-ponen-a-prueba-a-la-produccion-mundial-de-mango/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact d&#x27;El Niño sur la production mondiale de mangues 2026/27 -- <span class=\"news-date\">26/08/2026 15:48</span></div><div class=\"news-body\">Le phénomène climatique El Niño menace la production mondiale de mangues pour la saison 2026/27. Des anomalies de température à la surface de la mer intensifient la pression des maladies, mettant à l&#x27;épreuve les capacités de production dans les principales zones de culture. <span class=\"news-reason\">Alerte sur les risques climatiques et sanitaires pesant sur une culture majeure de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866858/el-nino-2026-27-y-la-mayor-presion-de-enfermedades-ponen-a-prueba-a-la-produccion-mundial-de-mango/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Impact of El Niño on global mango production 2026/27 -- <span class=\"news-date\">26/08/2026 15:48</span></div><div class=\"news-body\">The El Niño climate phenomenon threatens global mango production for the 2026/27 season. Sea surface temperature anomalies are intensifying disease pressure, testing production capacities in key growing areas. <span class=\"news-reason\">Alert on climate and health risks weighing on a major Mehadrin crop.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866858/el-nino-2026-27-y-la-mayor-presion-de-enfermedades-ponen-a-prueba-a-la-produccion-mundial-de-mango/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השפעת אל ניניו על ייצור המנגו העולמי 2026/27 -- <span class=\"news-date\">26/08/2026 15:48</span></div><div class=\"news-body\">תופעת האקלים אל ניניו מאיימת על ייצור המנגו העולמי לעונת 2026/27. אנומליות בטמפרטורת פני הים מגבירות את לחץ המחלות, ומעמידות למבחן את יכולות הייצור באזורי הגידול העיקריים. <span class=\"news-reason\">התראה על סיכונים אקלימיים ותברואתיים המכבידים על גידול מרכזי של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866858/el-nino-2026-27-y-la-mayor-presion-de-enfermedades-ponen-a-prueba-a-la-produccion-mundial-de-mango/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1787753112_1",
       "timestamp": "2026-08-26T14:05:12.210737+00:00",
-      "title": "Baisse historique de la production de mangues au Mexique",
+      "title": "Chute historique de la production de mangues au Mexique",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -459,7 +563,7 @@
       "origins": [
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Baisse historique de la production de mangues au Mexique -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">La campagne mexicaine de mangue se clôture avec des volumes nettement inférieurs aux prévisions. Les conditions climatiques défavorables dans les régions de Nayarit et Sinaloa ont provoqué des pertes qualifiées d&#x27;historiques par les instances professionnelles locales. <span class=\"news-reason\">Information sur les pertes de production d&#x27;une origine concurrente influençant le marché mondial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866649/el-mango-mexicano-afronta-perdidas-historicas-en-nayarit-por-el-factor-climatico/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Chute historique de la production de mangues au Mexique -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">La campagne mexicaine de mangue se clôture avec des volumes nettement inférieurs aux prévisions. Les conditions climatiques défavorables dans les régions de Nayarit et Sinaloa ont provoqué des pertes qualifiées d&#x27;historiques par les instances professionnelles locales. <span class=\"news-reason\">Information sur les pertes de production d&#x27;une origine concurrente influençant le marché mondial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866649/el-mango-mexicano-afronta-perdidas-historicas-en-nayarit-por-el-factor-climatico/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Historic drop in mango production in Mexico -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">The Mexican mango season is closing with volumes significantly lower than forecasts. Unfavorable weather conditions in the Nayarit and Sinaloa regions have caused losses described as historic by local professional bodies. <span class=\"news-reason\">Information on production losses from a competing origin influencing the global market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866649/el-mango-mexicano-afronta-perdidas-historicas-en-nayarit-por-el-factor-climatico/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">צניחה היסטורית בייצור המנגו במקסיקו -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">עונת המנגו המקסיקנית מסתיימת עם כמויות נמוכות משמעותית מהתחזיות. תנאי מזג אוויר שליליים באזורי נאיאריט וסינלואה גרמו להפסדים שהוגדרו כהיסטוריים על ידי הגורמים המקצועיים המקומיים. <span class=\"news-reason\">מידע על הפסדי ייצור ממקור מתחרה המשפיע על השוק העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866649/el-mango-mexicano-afronta-perdidas-historicas-en-nayarit-por-el-factor-climatico/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -634,7 +738,7 @@
     {
       "id": "1787672043_3",
       "timestamp": "2026-08-25T15:34:03.893925+00:00",
-      "title": "Le Brésil capitalise sur les retards de production de mangues au Pérou et en Équateur",
+      "title": "Le Brésil tire parti des retards de production de mangues au Pérou et en Équateur",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -646,7 +750,7 @@
         "PER",
         "BRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le Brésil capitalise sur les retards de production de mangues au Pérou et en Équateur -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">Le marché brésilien de la mangue profite d&#x27;une fenêtre d&#x27;exportation favorable en raison de retards de production au Pérou et en Équateur. Cette disponibilité réduite chez les concurrents redirige la demande internationale vers l&#x27;origine brésilienne pour la seconde moitié de 2026. <span class=\"news-reason\">Intelligence sur les fenêtres de commercialisation et les décalages de production chez les concurrents.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866411/retrasos-en-peru-y-ecuador-favorecen-la-ventana-comercial-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le Brésil tire parti des retards de production de mangues au Pérou et en Équateur -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">Le marché brésilien de la mangue profite d&#x27;une fenêtre d&#x27;exportation favorable en raison de retards de production au Pérou et en Équateur. Cette disponibilité réduite chez les concurrents redirige la demande internationale vers l&#x27;origine brésilienne pour la seconde moitié de 2026. <span class=\"news-reason\">Intelligence sur les fenêtres de commercialisation et les décalages de production chez les concurrents.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866411/retrasos-en-peru-y-ecuador-favorecen-la-ventana-comercial-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Brazil benefits from mango production delays in Peru and Ecuador -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">The Brazilian mango market is benefiting from a favorable export window due to production delays in Peru and Ecuador. This reduced availability from competitors is redirecting international demand toward the Brazilian origin for the second half of 2026. <span class=\"news-reason\">Intelligence on marketing windows and production shifts among competitors.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866411/retrasos-en-peru-y-ecuador-favorecen-la-ventana-comercial-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ברזיל מפיקה תועלת מעיכובים בייצור המנגו בפרו ובאקוודור -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">שוק המנגו הברזילאי נהנה מחלון ייצוא נוח בשל עיכובים בייצור בפרו ובאקוודור. זמינות מצומצמת זו אצל המתחרים מפנה את הביקוש הבינלאומי למקור הברזילאי למחצית השנייה של 2026. <span class=\"news-reason\">מידע על חלונות שיווק ופערי ייצור אצל מתחרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866411/retrasos-en-peru-y-ecuador-favorecen-la-ventana-comercial-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -687,7 +791,7 @@
     {
       "id": "1787672043_0",
       "timestamp": "2026-08-25T15:34:03.893925+00:00",
-      "title": "Espagne : la production de mangues accuse un recul de 20 à 25 %",
+      "title": "Espagne : recul de 20 à 25 % de la production de mangues",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -698,145 +802,9 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production de mangues accuse un recul de 20 à 25 % -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">La production espagnole de mangues devrait baisser de 20 à 25 % cette année. La récolte des variétés précoces a déjà commencé, et la variété principale, Osteen, devrait arriver sur le marché avec une semaine d&#x27;avance sur le calendrier habituel. <span class=\"news-reason\">Informations chiffrées précises sur le recul des volumes chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : recul de 20 à 25 % de la production de mangues -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">La production espagnole de mangues devrait baisser de 20 à 25 % cette année. La récolte des variétés précoces a déjà commencé, et la variété principale, Osteen, devrait arriver sur le marché avec une semaine d&#x27;avance sur le calendrier habituel. <span class=\"news-reason\">Informations chiffrées précises sur le recul des volumes chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: 20 to 25% drop in mango production -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">Spanish mango production is expected to drop by 20 to 25% this year. The harvest of early varieties has already begun, and the main variety, Osteen, is expected to arrive on the market a week ahead of the usual schedule. <span class=\"news-reason\">Precise figures on the volume decline for a major competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד: ירידה של 20-25% בייצור המנגו -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">ייצור המנגו הספרדי צפוי לרדת ב-20-25% השנה. קטיף הזנים המוקדמים כבר החל, והזן העיקרי, Osteen, צפוי להגיע לשוק שבוע לפני המועד הרגיל. <span class=\"news-reason\">מידע מספרי מדויק על הירידה בכמויות אצל מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787661206_7",
-      "timestamp": "2026-08-25T12:33:26.867332+00:00",
-      "title": "L&#x27;exportateur égyptien Daltex explore des opportunités de production en Ouzbékistan -- 25/08/2026 08:30",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [],
-      "products": [],
-      "origins": [
-        "EGY"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;exportateur égyptien Daltex explore des opportunités de production en Ouzbékistan -- <span class=\"news-date\">25/08/2026 08:30</span></div><div class=\"news-body\">La société égyptienne Daltex étudie la mise en place d&#x27;unités de production et de transformation de fruits et légumes dans la région de Surkhandarya, en Ouzbékistan. Des pourparlers avec les autorités locales visent à développer des projets agricoles destinés à l&#x27;exportation. <span class=\"news-reason\">Stratégie d&#x27;expansion d&#x27;un concurrent majeur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/horticultural-business/egypts-daltex-explores-fruit-and-vegetable-production-and-processing-projects-in-uzbekistan/\" target=\"_blank\">EastFruit -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Egyptian exporter Daltex explores production opportunities in Uzbekistan -- <span class=\"news-date\">25/08/2026 08:30</span></div><div class=\"news-body\">The Egyptian company Daltex is studying the establishment of fruit and vegetable production and processing units in the Surkhandarya region of Uzbekistan. Talks with local authorities aim to develop agricultural projects destined for export. <span class=\"news-reason\">Expansion strategy of a major Mehadrin competitor.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/horticultural-business/egypts-daltex-explores-fruit-and-vegetable-production-and-processing-projects-in-uzbekistan/\" target=\"_blank\">EastFruit -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות בין מקורות</div><div class=\"news-title\">היצואן המצרי Daltex בוחן הזדמנויות ייצור באוזבקיסטן -- <span class=\"news-date\">25/08/2026 08:30</span></div><div class=\"news-body\">החברה המצרית Daltex בוחנת הקמת יחידות ייצור ועיבוד פירות וירקות במחוז סורחנדריה שבאוזבקיסטן. שיחות עם הרשויות המקומיות שואפות לפתח פרויקטים חקלאיים המיועדים לייצוא. <span class=\"news-reason\">אסטרטגיית התרחבות של מתחרה מרכזי של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/horticultural-business/egypts-daltex-explores-fruit-and-vegetable-production-and-processing-projects-in-uzbekistan/\" target=\"_blank\">EastFruit -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787661206_6",
-      "timestamp": "2026-08-25T12:33:26.867332+00:00",
-      "title": "Nouveau modèle de logistique directe pour l&#x27;avocat en Nouvelle-Zélande -- 25/08/2026 13:39",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "NZL"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Nouveau modèle de logistique directe pour l&#x27;avocat en Nouvelle-Zélande -- <span class=\"news-date\">25/08/2026 13:39</span></div><div class=\"news-body\">En Nouvelle-Zélande, l&#x27;entreprise The Avo Tree a adopté un modèle de chaîne d&#x27;approvisionnement directe pour améliorer la qualité des avocats. Les fruits sont récoltés à la demande et expédiés directement aux clients sans passer par des phases de stockage à froid prolongées. <span class=\"news-reason\">Innovation logistique chez un concurrent impactant la qualité et la disponibilité du produit.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9865748/avocado-supply-chain-cuts-post-harvest-handling-in-new-zealand/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">New direct logistics model for avocados in New Zealand -- <span class=\"news-date\">25/08/2026 13:39</span></div><div class=\"news-body\">In New Zealand, the company The Avo Tree has adopted a direct supply chain model to improve the quality of avocados. The fruit is harvested on demand and shipped directly to customers without going through prolonged cold storage phases. <span class=\"news-reason\">Logistics innovation at a competitor impacting product quality and availability.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9865748/avocado-supply-chain-cuts-post-harvest-handling-in-new-zealand/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מודל לוגיסטי ישיר חדש לאבוקדו בניו זילנד -- <span class=\"news-date\">25/08/2026 13:39</span></div><div class=\"news-body\">בניו זילנד, חברת The Avo Tree אימצה מודל שרשרת אספקה ישירה לשיפור איכות האבוקדו. הפירות נקטפים לפי דרישה ונשלחים ישירות ללקוחות ללא שלבי אחסון ממושכים בקירור. <span class=\"news-reason\">חדשנות לוגיסטית אצל מתחרה המשפיעה על איכות וזמינות המוצר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9865748/avocado-supply-chain-cuts-post-harvest-handling-in-new-zealand/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787661206_5",
-      "timestamp": "2026-08-25T12:33:26.867332+00:00",
-      "title": "Forte demande d&#x27;agrumes et de mandarines Nadorcott en Asie",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "mandarine"
-      ],
-      "origins": [
-        "EGY",
-        "ZAF"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Forte demande d&#x27;agrumes et de mandarines Nadorcott en Asie -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">L&#x27;importateur Kwek Global Pte observe une demande soutenue pour les agrumes, incluant la mandarine Nadorcott d&#x27;Afrique du Sud et les agrumes d&#x27;Égypte. La qualité organoleptique des fruits favorise les ventes auprès des réseaux de distribution haut de gamme et des grossistes. <span class=\"news-reason\">Informations sur la demande et la qualité de variétés d&#x27;agrumes concurrentes (Afrique du Sud, Égypte).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864297/la-domanda-e-stata-incoraggiante-supportata-dalla-qualita-organolettica-della-frutta/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Strong demand for citrus and Nadorcott mandarins in Asia -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">Importer Kwek Global Pte observes sustained demand for citrus, including the Nadorcott mandarin from South Africa and citrus from Egypt. The organoleptic quality of the fruit favors sales to high-end distribution networks and wholesalers. <span class=\"news-reason\">Information on demand and quality of competing citrus varieties (South Africa, Egypt).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864297/la-domanda-e-stata-incoraggiante-supportata-dalla-qualita-organolettica-della-frutta/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות בין מקורות</div><div class=\"news-title\">ביקוש חזק להדרים ולמנדרינת נאדורקוט באסיה -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">היבואן Kwek Global Pte מזהה ביקוש מתמשך להדרים, כולל מנדרינת נאדורקוט מדרום אפריקה והדרים ממצרים. האיכות האורגנולפטית של הפירות מעודדת מכירות ברשתות שיווק יוקרתיות ואצל סיטונאים. <span class=\"news-reason\">מידע על הביקוש והאיכות של זני הדרים מתחרים (דרום אפריקה, מצרים).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864297/la-domanda-e-stata-incoraggiante-supportata-dalla-qualita-organolettica-della-frutta/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787661206_4",
-      "timestamp": "2026-08-25T12:33:26.867332+00:00",
-      "title": "Expansion géographique des exportations de melons et pastèques du Kazakhstan -- 25/08/2026 13:39",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Sébastien"
-      ],
-      "products": [
-        "melon",
-        "watermelon"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Expansion géographique des exportations de melons et pastèques du Kazakhstan -- <span class=\"news-date\">25/08/2026 13:39</span></div><div class=\"news-body\">Le Kazakhstan renforce sa présence sur le marché des melons et pastèques. La région de Turkistan domine les exportations, avec des volumes ayant dépassé les 107 500 tonnes l&#x27;année dernière. Bien que principalement orientées vers la Russie et la Biélorussie, la géographie des expéditions continue de s&#x27;étendre. <span class=\"news-reason\">Volumes d&#x27;exportation significatifs d&#x27;une origine émergente pour des produits Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9866283/kazakhstan-s-melon-and-watermelon-exports-continue-to-grow/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Geographical expansion of Kazakhstan&#x27;s melon and watermelon exports -- <span class=\"news-date\">25/08/2026 13:39</span></div><div class=\"news-body\">Kazakhstan is strengthening its presence in the melon and watermelon market. The Turkistan region dominates exports, with volumes exceeding 107,500 tons last year. Although mainly oriented towards Russia and Belarus, the geography of shipments continues to expand. <span class=\"news-reason\">Significant export volumes from an emerging origin for Mehadrin products.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9866283/kazakhstan-s-melon-and-watermelon-exports-continue-to-grow/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">התרחבות גיאוגרפית של יצוא המלונים והאבטיחים מקזחסטן -- <span class=\"news-date\">25/08/2026 13:39</span></div><div class=\"news-body\">קזחסטן מחזקת את נוכחותה בשוק המלונים והאבטיחים. מחוז טורקיסטן שולט בייצוא, עם כמויות שעלו על 107,500 טון בשנה שעברה. למרות שהמשלוחים מופנים בעיקר לרוסיה ולבלארוס, הגיאוגרפיה של הייצוא ממשיכה להתרחב. <span class=\"news-reason\">נפחי ייצוא משמעותיים ממקור מתעורר עבור מוצרי מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9866283/kazakhstan-s-melon-and-watermelon-exports-continue-to-grow/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787661206_3",
-      "timestamp": "2026-08-25T12:33:26.867332+00:00",
-      "title": "Forte pression des volumes sur le marché italien de la pastèque -- 25/08/2026 13:39",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [],
-      "products": [
-        "watermelon"
-      ],
-      "origins": [
-        "ITA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Forte pression des volumes sur le marché italien de la pastèque -- <span class=\"news-date\">25/08/2026 13:39</span></div><div class=\"news-body\">La coopérative Agrieuropa rapporte une saison de pastèque italienne marquée par une forte tension commerciale. Les périodes de pic de production ont nécessité la gestion de quantités très importantes, entraînant une concurrence féroce sur les marchés durant les semaines de volumes maximaux. <span class=\"news-reason\">Analyse de la tension du marché liée aux volumes de production d&#x27;une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9866103/watermelons-see-high-volumes-in-a-season-marked-by-fierce-competition/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Strong volume pressure on the Italian watermelon market -- <span class=\"news-date\">25/08/2026 13:39</span></div><div class=\"news-body\">The Agrieuropa cooperative reports an Italian watermelon season marked by strong commercial tension. Peak production periods required the management of very large quantities, leading to fierce competition in the markets during the weeks of maximum volumes. <span class=\"news-reason\">Analysis of market tension related to production volumes of a competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9866103/watermelons-see-high-volumes-in-a-season-marked-by-fierce-competition/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">לחץ כמויות כבד בשוק האבטיחים האיטלקי -- <span class=\"news-date\">25/08/2026 13:39</span></div><div class=\"news-body\">קואופרטיב Agrieuropa מדווח על עונת אבטיחים איטלקית המאופיינת במתח מסחרי עז. תקופות שיא הייצור הצריכו ניהול של כמויות גדולות מאוד, מה שהוביל לתחרות עזה בשווקים במהלך השבועות של הנפחים המקסימליים. <span class=\"news-reason\">ניתוח של המתח בשוק הקשור לנפחי ייצור ממקור מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9866103/watermelons-see-high-volumes-in-a-season-marked-by-fierce-competition/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787661206_2",
-      "timestamp": "2026-08-25T12:33:26.867332+00:00",
-      "title": "Marché de la grenade : transition entre l&#x27;Afrique du Sud et l&#x27;Espagne -- 25/08/2026 13:30",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Jessica"
-      ],
-      "products": [
-        "pomegranate"
-      ],
-      "origins": [
-        "ESP",
-        "ZAF"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Marché de la grenade : transition entre l&#x27;Afrique du Sud et l&#x27;Espagne -- <span class=\"news-date\">25/08/2026 13:30</span></div><div class=\"news-body\">Les transformateurs en Europe et au Royaume-Uni écoulent actuellement les derniers stocks de grenades en provenance d&#x27;Afrique du Sud. Parallèlement, les premières grenades espagnoles de la variété Acco ont commencé à arriver sur le marché la semaine dernière. La demande pour la transformation reste forte pour le produit sud-africain malgré la fin de sa campagne. <span class=\"news-reason\">Informations précises sur le basculement des origines et l&#x27;arrivée des nouvelles variétés concurrentes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9865183/c-est-une-lecon-magistrale-sur-la-sensibilite-des-marches-aux-evenements-mondiaux/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Pomegranate market: transition between South Africa and Spain -- <span class=\"news-date\">25/08/2026 13:30</span></div><div class=\"news-body\">Processors in Europe and the UK are currently selling off the last stocks of pomegranates from South Africa. Meanwhile, the first Spanish pomegranates of the Acco variety began arriving on the market last week. Demand for processing remains strong for the South African product despite the end of its campaign. <span class=\"news-reason\">Precise information on the shift in origins and the arrival of new competing varieties.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9865183/c-est-une-lecon-magistrale-sur-la-sensibilite-des-marches-aux-evenements-mondiaux/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">שוק הרימונים: מעבר בין דרום אפריקה לספרד -- <span class=\"news-date\">25/08/2026 13:30</span></div><div class=\"news-body\">המעבדים באירופה ובבריטניה מוכרים כעת את המלאים האחרונים של רימונים מדרום אפריקה. במקביל, הרימונים הספרדיים הראשונים מזן עכו החלו להגיע לשוק בשבוע שעבר. הביקוש לעיבוד נותר חזק עבור המוצר הדרום אפריקאי למרות סיום העונה שלו. <span class=\"news-reason\">מידע מדויק על חילופי המקורות והגעת זנים מתחרים חדשים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9865183/c-est-une-lecon-magistrale-sur-la-sensibilite-des-marches-aux-evenements-mondiaux/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787661206_1",
-      "timestamp": "2026-08-25T12:33:26.867332+00:00",
-      "title": "L&#x27;Australie enregistre des exportations record d&#x27;avocats au premier semestre -- 25/08/2026 13:39",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Australie enregistre des exportations record d&#x27;avocats au premier semestre -- <span class=\"news-date\">25/08/2026 13:39</span></div><div class=\"news-body\">L&#x27;industrie australienne de l&#x27;avocat affiche des résultats historiques pour l&#x27;année se terminant en juin 2026. Les exportations ont atteint 21 444 tonnes, portées par une demande internationale croissante et une qualité de production robuste. Ce dynamisme sur les marchés mondiaux s&#x27;accompagne d&#x27;une forte consommation intérieure. <span class=\"news-reason\">Volumes d&#x27;exportation records détaillés pour un produit stratégique Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9866393/australian-avocados-take-the-next-step-from-retail-to-foodservice/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Australia records record avocado exports in the first half of the year -- <span class=\"news-date\">25/08/2026 13:39</span></div><div class=\"news-body\">The Australian avocado industry is showing historic results for the year ending in June 2026. Exports reached 21,444 tons, driven by growing international demand and robust production quality. This dynamism in global markets is accompanied by strong domestic consumption. <span class=\"news-reason\">Detailed record export volumes for a strategic Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9866393/australian-avocados-take-the-next-step-from-retail-to-foodservice/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">אוסטרליה רושמת יצוא שיא של אבוקדו במחצית הראשונה -- <span class=\"news-date\">25/08/2026 13:39</span></div><div class=\"news-body\">תעשיית האבוקדו האוסטרלית מציגה תוצאות היסטוריות לשנה המסתיימת ביוני 2026. הייצוא הגיע ל-21,444 טון, הודות לביקוש בינלאומי גובר ואיכות ייצור חזקה. הדינמיות הזו בשווקים העולמיים מלווה בצריכה מקומית גבוהה. <span class=\"news-reason\">נתוני שיא של נפחי ייצוא מפורטים עבור מוצר אסטרטגי של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9866393/australian-avocados-take-the-next-step-from-retail-to-foodservice/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787661206_0",
-      "timestamp": "2026-08-25T12:33:26.867332+00:00",
-      "title": "L&#x27;Espagne premier fournisseur de pastèques de l&#x27;UE mais concurrencée par le Maroc -- 25/08/2026 13:30",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [],
-      "products": [
-        "watermelon"
-      ],
-      "origins": [
-        "ESP",
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Espagne premier fournisseur de pastèques de l&#x27;UE mais concurrencée par le Maroc -- <span class=\"news-date\">25/08/2026 13:30</span></div><div class=\"news-body\">Au premier semestre 2026, l&#x27;Espagne reste le principal fournisseur de pastèques des États membres de l&#x27;Union européenne avec une part de 21,45 % du volume total importé. Cependant, le rapport d&#x27;Hortoinfo souligne que les ventes espagnoles ont chuté de 44,30 % par rapport à la même période en 2017. Cette baisse profite au Maroc qui gagne progressivement du terrain sur le marché européen. <span class=\"news-reason\">Contient des parts de marché précises et des pourcentages d&#x27;évolution sur un produit Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9866116/l-espagne-est-le-premier-fournisseur-de-pasteques-de-l-ue-mais-perd-du-terrain-face-au-maroc/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Spain is the leading supplier of watermelons to the EU but faces competition from Morocco -- <span class=\"news-date\">25/08/2026 13:30</span></div><div class=\"news-body\">In the first half of 2026, Spain remains the main supplier of watermelons to European Union member states with a share of 21.45% of the total imported volume. However, the Hortoinfo report highlights that Spanish sales have plummeted by 44.30% compared to the same period in 2017. This decline benefits Morocco, which is gradually gaining ground in the European market. <span class=\"news-reason\">Contains precise market shares and evolution percentages for a Mehadrin product in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9866116/l-espagne-est-le-premier-fournisseur-de-pasteques-de-l-ue-mais-perd-du-terrain-face-au-maroc/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד היא ספקית האבטיחים העיקרית של האיחוד האירופי, אך מתמודדת עם תחרות מצד מרוקו -- <span class=\"news-date\">25/08/2026 13:30</span></div><div class=\"news-body\">במחצית הראשונה של 2026, ספרד נותרה ספקית האבטיחים העיקרית של המדינות החברות באיחוד האירופי עם נתח של 21.45% מכלל נפח הייבוא. עם זאת, הדו\"ח של Hortoinfo מדגיש כי המכירות הספרדיות צנחו ב-44.30% בהשוואה לתקופה המקבילה ב-2017. ירידה זו מועילה למרוקו, שצוברת בהדרגה שטח בשוק האירופי. <span class=\"news-reason\">מכיל נתחי שוק מדויקים ואחוזי שינוי עבור מוצר מהדרין בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9866116/l-espagne-est-le-premier-fournisseur-de-pasteques-de-l-ue-mais-perd-du-terrain-face-au-maroc/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
