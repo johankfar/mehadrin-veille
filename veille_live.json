@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-28T08:03:23.943223+00:00",
-  "article_count": 40,
+  "last_updated": "2026-08-28T09:34:19.298268+00:00",
+  "article_count": 41,
   "attention_points": [
     {
       "id": "attention-15ecf72e928381e4",
@@ -20,7 +20,7 @@
         "avocat",
         "grape"
       ],
-      "age_hours": 3
+      "age_hours": 5
     },
     {
       "id": "attention-1ad2b84b3a1960b2",
@@ -39,7 +39,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 3
+      "age_hours": 5
     },
     {
       "id": "attention-41fcdeda0625b1bb",
@@ -56,27 +56,47 @@
       "signal_label": "Volumes",
       "icon": "information",
       "products": [],
-      "age_hours": 18
+      "age_hours": 19
     },
     {
-      "id": "attention-526baca70d731058",
-      "article_id": "1787747670_2",
-      "url": "https://hortoinfo.es/denuncian-que-israel-vende-a-espana-hortalizas-y-frutas-de-palestina-como-si-fueran-cultivadas-en-el-estado-hebreo/",
-      "source": "Hortoinfo",
-      "title": "Litige relatif à l'étiquetage des produits israéliens en Espagne",
-      "summary": "Les organisations agraires espagnoles COAG et CECU dénoncent la commercialisation en Espagne de fruits et légumes produits en Palestine comme étant d'origine israélienne.",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-08-26T06:30:00+00:00",
+      "id": "attention-77c2ec6224d50b46",
+      "article_id": "1787909659_0",
+      "url": "https://www.freshplaza.es/article/9867183/el-congreso-del-aguacate-de-jalisco-llega-a-su-decima-edicion/",
+      "source": "FreshPlaza ES",
+      "title": "Ouverture du 10e Congrès de l'Avocat à Jalisco",
+      "summary": "La ville de Zapotlán El Grande accueille la dixième édition du Congrès de l'Avocat de Jalisco.",
+      "origin_code": "MEX",
+      "origin_label": "Mexique",
+      "published_at": "2026-08-27T16:00:00+02:00",
       "published_at_source": "rss",
       "signal_type": "information",
       "signal_label": "Information",
       "icon": "information",
-      "products": [],
-      "age_hours": 49
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 19
     }
   ],
   "articles": [
+    {
+      "id": "1787909659_0",
+      "timestamp": "2026-08-28T09:34:19.298268+00:00",
+      "title": "Ouverture du 10e Congrès de l&#x27;Avocat à Jalisco, au Mexique",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MEX"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Ouverture du 10e Congrès de l&#x27;Avocat à Jalisco, au Mexique -- <span class=\"news-date\">27/08/2026 16:00</span></div><div class=\"news-body\">La ville de Zapotlán El Grande accueille la dixième édition du Congrès de l&#x27;Avocat de Jalisco. L&#x27;événement rassemble plus de 1 700 professionnels et une centaine d&#x27;entreprises internationales. Inauguré par les autorités locales, ce congrès constitue un point de rencontre majeur pour les acteurs de la filière mexicaine de l&#x27;avocat. <span class=\"news-reason\">Information sur la filière avocat (produit Mehadrin) chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9867183/el-congreso-del-aguacate-de-jalisco-llega-a-su-decima-edicion/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGINS COMPETITION</div><div class=\"news-title\">Opening of the 10th Avocado Congress in Jalisco, Mexico -- <span class=\"news-date\">27/08/2026 16:00</span></div><div class=\"news-body\">The city of Zapotlán El Grande is hosting the tenth edition of the Jalisco Avocado Congress. The event brings together more than 1,700 professionals and around a hundred international companies. Inaugurated by local authorities, this congress is a major meeting point for stakeholders in the Mexican avocado industry. <span class=\"news-reason\">Information on the avocado industry (Mehadrin product) at a major competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9867183/el-congreso-del-aguacate-de-jalisco-llega-a-su-decima-edicion/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">פתיחת קונגרס האבוקדו ה-10 בחליסקו, מקסיקו -- <span class=\"news-date\">27/08/2026 16:00</span></div><div class=\"news-body\">העיר ספוטלאן אל גראנדה מארחת את המהדורה העשירית של קונגרס האבוקדו של חליסקו. האירוע מפגיש יותר מ-1,700 אנשי מקצוע וכמאה חברות בינלאומיות. הקונגרס, שנחנך על ידי הרשויות המקומיות, מהווה נקודת מפגש מרכזית עבור השחקנים בענף האבוקדו המקסיקני. <span class=\"news-reason\">מידע על ענף האבוקדו (מוצר מהדרין) אצל מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9867183/el-congreso-del-aguacate-de-jalisco-llega-a-su-decima-edicion/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1787904203_0",
       "timestamp": "2026-08-28T08:03:23.943223+00:00",
@@ -234,7 +254,7 @@
     {
       "id": "1787817881_1",
       "timestamp": "2026-08-27T08:04:41.147829+00:00",
-      "title": "Afrique du Sud : excédents d&#x27;agrumes et enjeux de gestion de la qualité",
+      "title": "Afrique du Sud : excédents d&#x27;agrumes et enjeux de la gestion de la qualité",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -243,7 +263,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Afrique du Sud : excédents d&#x27;agrumes et enjeux de gestion de la qualité -- <span class=\"news-date\">27/08/2026 06:05</span></div><div class=\"news-body\">En Afrique du Sud, l&#x27;expansion des surfaces cultivées entraîne une hausse des volumes et des excédents d&#x27;agrumes. Cependant, le secteur fait face à des défis majeurs cette année, notamment en ce qui concerne la gestion de la qualité des fruits et les risques liés aux niveaux de production. <span class=\"news-reason\">Signalement de problèmes qualitatifs majeurs chez un concurrent clé des agrumes, constituant un argument commercial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865138/aumentano-le-eccedenze-di-agrumi-con-l-espansione-della-coltivazione-in-sudafrica/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Afrique du Sud : excédents d&#x27;agrumes et enjeux de la gestion de la qualité -- <span class=\"news-date\">27/08/2026 06:05</span></div><div class=\"news-body\">En Afrique du Sud, l&#x27;expansion des surfaces cultivées entraîne une hausse des volumes et des excédents d&#x27;agrumes. Cependant, le secteur fait face à des défis majeurs cette année, notamment en ce qui concerne la gestion de la qualité des fruits et les risques liés aux niveaux de production. <span class=\"news-reason\">Signalement de problèmes qualitatifs majeurs chez un concurrent clé des agrumes, constituant un argument commercial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865138/aumentano-le-eccedenze-di-agrumi-con-l-espansione-della-coltivazione-in-sudafrica/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">South Africa: Citrus surpluses and quality management challenges -- <span class=\"news-date\">27/08/2026 06:05</span></div><div class=\"news-body\">In South Africa, the expansion of cultivated areas is leading to an increase in volumes and citrus surpluses. However, the sector faces major challenges this year, particularly regarding fruit quality management and risks related to production levels. <span class=\"news-reason\">Reporting of major quality issues from a key citrus competitor, constituting a commercial argument.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865138/aumentano-le-eccedenze-di-agrumi-con-l-espansione-della-coltivazione-in-sudafrica/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">דרום אפריקה: עודפי הדרים ואתגרי ניהול איכות -- <span class=\"news-date\">27/08/2026 06:05</span></div><div class=\"news-body\">בדרום אפריקה, הרחבת שטחי הגידול מובילה לעלייה בנפחים ובעודפי פירות הדר. עם זאת, המגזר מתמודד השנה עם אתגרים משמעותיים, במיוחד בכל הנוגע לניהול איכות הפירות והסיכונים הקשורים לרמות הייצור. <span class=\"news-reason\">דיווח על בעיות איכות מרכזיות אצל מתחרה מפתח בתחום ההדרים, המהווה טיעון מסחרי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865138/aumentano-le-eccedenze-di-agrumi-con-l-espansione-della-coltivazione-in-sudafrica/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -374,7 +394,7 @@
     {
       "id": "1787753112_1",
       "timestamp": "2026-08-26T14:05:12.210737+00:00",
-      "title": "Effondrement historique de la production de mangues au Mexique",
+      "title": "Chute historique de la production de mangues au Mexique",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -385,7 +405,7 @@
       "origins": [
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Effondrement historique de la production de mangues au Mexique -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">La campagne mexicaine de mangue se clôture avec des volumes nettement inférieurs aux prévisions. Les conditions climatiques défavorables dans les régions de Nayarit et Sinaloa ont provoqué des pertes qualifiées d&#x27;historiques par les instances professionnelles locales. <span class=\"news-reason\">Information sur les pertes de production d&#x27;une origine concurrente influençant le marché mondial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866649/el-mango-mexicano-afronta-perdidas-historicas-en-nayarit-por-el-factor-climatico/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Chute historique de la production de mangues au Mexique -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">La campagne mexicaine de mangue se clôture avec des volumes nettement inférieurs aux prévisions. Les conditions climatiques défavorables dans les régions de Nayarit et Sinaloa ont provoqué des pertes qualifiées d&#x27;historiques par les instances professionnelles locales. <span class=\"news-reason\">Information sur les pertes de production d&#x27;une origine concurrente influençant le marché mondial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866649/el-mango-mexicano-afronta-perdidas-historicas-en-nayarit-por-el-factor-climatico/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Historic drop in mango production in Mexico -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">The Mexican mango season is closing with volumes significantly lower than forecasts. Unfavorable weather conditions in the Nayarit and Sinaloa regions have caused losses described as historic by local professional bodies. <span class=\"news-reason\">Information on production losses from a competing origin influencing the global market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866649/el-mango-mexicano-afronta-perdidas-historicas-en-nayarit-por-el-factor-climatico/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">צניחה היסטורית בייצור המנגו במקסיקו -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">עונת המנגו המקסיקנית מסתיימת עם כמויות נמוכות משמעותית מהתחזיות. תנאי מזג אוויר שליליים באזורי נאיאריט וסינלואה גרמו להפסדים שהוגדרו כהיסטוריים על ידי הגורמים המקצועיים המקומיים. <span class=\"news-reason\">מידע על הפסדי ייצור ממקור מתחרה המשפיע על השוק העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866649/el-mango-mexicano-afronta-perdidas-historicas-en-nayarit-por-el-factor-climatico/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -560,7 +580,7 @@
     {
       "id": "1787672043_3",
       "timestamp": "2026-08-25T15:34:03.893925+00:00",
-      "title": "Le Brésil tire profit des retards de production de mangues au Pérou et en Équateur",
+      "title": "Le Brésil profite des retards de production de mangues au Pérou et en Équateur",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -572,14 +592,14 @@
         "PER",
         "BRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le Brésil tire profit des retards de production de mangues au Pérou et en Équateur -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">Le marché brésilien de la mangue profite d&#x27;une fenêtre d&#x27;exportation favorable en raison de retards de production au Pérou et en Équateur. Cette disponibilité réduite chez les concurrents redirige la demande internationale vers l&#x27;origine brésilienne pour la seconde moitié de 2026. <span class=\"news-reason\">Intelligence sur les fenêtres de commercialisation et les décalages de production chez les concurrents.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866411/retrasos-en-peru-y-ecuador-favorecen-la-ventana-comercial-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le Brésil profite des retards de production de mangues au Pérou et en Équateur -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">Le marché brésilien de la mangue profite d&#x27;une fenêtre d&#x27;exportation favorable en raison de retards de production au Pérou et en Équateur. Cette disponibilité réduite chez les concurrents redirige la demande internationale vers l&#x27;origine brésilienne pour la seconde moitié de 2026. <span class=\"news-reason\">Intelligence sur les fenêtres de commercialisation et les décalages de production chez les concurrents.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866411/retrasos-en-peru-y-ecuador-favorecen-la-ventana-comercial-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Brazil benefits from mango production delays in Peru and Ecuador -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">The Brazilian mango market is benefiting from a favorable export window due to production delays in Peru and Ecuador. This reduced availability from competitors is redirecting international demand toward the Brazilian origin for the second half of 2026. <span class=\"news-reason\">Intelligence on marketing windows and production shifts among competitors.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866411/retrasos-en-peru-y-ecuador-favorecen-la-ventana-comercial-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ברזיל מפיקה תועלת מעיכובים בייצור המנגו בפרו ובאקוודור -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">שוק המנגו הברזילאי נהנה מחלון ייצוא נוח בשל עיכובים בייצור בפרו ובאקוודור. זמינות מצומצמת זו אצל המתחרים מפנה את הביקוש הבינלאומי למקור הברזילאי למחצית השנייה של 2026. <span class=\"news-reason\">מידע על חלונות שיווק ופערי ייצור אצל מתחרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866411/retrasos-en-peru-y-ecuador-favorecen-la-ventana-comercial-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1787672043_2",
       "timestamp": "2026-08-25T15:34:03.893925+00:00",
-      "title": "Europe : la demande de mangues demeure soutenue cet été en dépit de prix élevés",
+      "title": "Europe : la demande de mangues demeure soutenue cet été malgré des prix élevés",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -588,7 +608,7 @@
         "mango"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Europe : la demande de mangues demeure soutenue cet été en dépit de prix élevés -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">Les mangues ont enregistré de bons résultats commerciaux cet été en Europe, stimulées par les vagues de chaleur. Malgré une offre limitée et des prix de vente élevés, la demande est restée forte pour ce produit exotique. <span class=\"news-reason\">Analyse de la demande sur le marché européen pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865556/las-limas-los-mangos-y-los-cocos-para-beber-se-han-vendido-muy-bien-este-verano/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Europe : la demande de mangues demeure soutenue cet été malgré des prix élevés -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">Les mangues ont enregistré de bons résultats commerciaux cet été en Europe, stimulées par les vagues de chaleur. Malgré une offre limitée et des prix de vente élevés, la demande est restée forte pour ce produit exotique. <span class=\"news-reason\">Analyse de la demande sur le marché européen pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865556/las-limas-los-mangos-y-los-cocos-para-beber-se-han-vendido-muy-bien-este-verano/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Europe: sustained summer demand for mangoes despite high prices -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">Mangoes recorded good commercial results this summer in Europe, stimulated by heatwaves. Despite limited supply and high selling prices, demand remained strong for this exotic product. <span class=\"news-reason\">Analysis of demand on the European market for a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865556/las-limas-los-mangos-y-los-cocos-para-beber-se-han-vendido-muy-bien-este-verano/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">אירופה: ביקוש קיץ גבוה למנגו למרות מחירים גבוהים -- <span class=\"news-date\">25/08/2026 15:26</span></div><div class=\"news-body\">המנגו רשם תוצאות מסחריות טובות הקיץ באירופה, בעידוד גלי החום. למרות היצע מוגבל ומחירי מכירה גבוהים, הביקוש למוצר האקזוטי נותר חזק. <span class=\"news-reason\">ניתוח הביקוש בשוק האירופי למוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9865556/las-limas-los-mangos-y-los-cocos-para-beber-se-han-vendido-muy-bien-este-verano/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -613,7 +633,7 @@
     {
       "id": "1787672043_0",
       "timestamp": "2026-08-25T15:34:03.893925+00:00",
-      "title": "Espagne : la production de mangues enregistre une baisse de 20 à 25 %",
+      "title": "Espagne : la production de mangues enregistre un repli de 20 à 25 %",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -624,7 +644,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production de mangues enregistre une baisse de 20 à 25 % -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">La production espagnole de mangues devrait baisser de 20 à 25 % cette année. La récolte des variétés précoces a déjà commencé, et la variété principale, Osteen, devrait arriver sur le marché avec une semaine d&#x27;avance sur le calendrier habituel. <span class=\"news-reason\">Informations chiffrées précises sur le recul des volumes chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production de mangues enregistre un repli de 20 à 25 % -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">La production espagnole de mangues devrait baisser de 20 à 25 % cette année. La récolte des variétés précoces a déjà commencé, et la variété principale, Osteen, devrait arriver sur le marché avec une semaine d&#x27;avance sur le calendrier habituel. <span class=\"news-reason\">Informations chiffrées précises sur le recul des volumes chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: 20 to 25% drop in mango production -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">Spanish mango production is expected to drop by 20 to 25% this year. The harvest of early varieties has already begun, and the main variety, Osteen, is expected to arrive on the market a week ahead of the usual schedule. <span class=\"news-reason\">Precise figures on the volume decline for a major competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד: ירידה של 20-25% בייצור המנגו -- <span class=\"news-date\">25/08/2026 06:05</span></div><div class=\"news-body\">ייצור המנגו הספרדי צפוי לרדת ב-20-25% השנה. קטיף הזנים המוקדמים כבר החל, והזן העיקרי, Osteen, צפוי להגיע לשוק שבוע לפני המועד הרגיל. <span class=\"news-reason\">מידע מספרי מדויק על הירידה בכמויות אצל מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9864787/la-produzione-spagnola-di-mango-dovrebbe-diminuire-del-20-25-per-cento-quest-anno/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
