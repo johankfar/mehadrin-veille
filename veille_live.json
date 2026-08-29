@@ -1,13 +1,32 @@
 {
-  "last_updated": "2026-08-28T17:03:27.979779+00:00",
-  "article_count": 39,
+  "last_updated": "2026-08-29T06:33:13.340770+00:00",
+  "article_count": 40,
   "attention_points": [
+    {
+      "id": "attention-782642cea7c3799d",
+      "article_id": "1787985193_0",
+      "url": "https://east-fruit.com/en/news/melon-prices-rise-sharply-in-ukraine-over-the-past-week/",
+      "source": "EastFruit",
+      "title": "Forte hausse des prix du melon en Ukraine cette",
+      "summary": "Le recul saisonnier des volumes disponibles soutient la valorisation.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-08-29T06:01:01+00:00",
+      "published_at_source": "rss",
+      "signal_type": "price",
+      "signal_label": "Prix",
+      "icon": "information",
+      "products": [
+        "melon"
+      ],
+      "age_hours": 0
+    },
     {
       "id": "attention-2ad04ad7bfe0cdf0",
       "article_id": "1787931288_0",
       "url": "https://www.freshplaza.es/article/9867303/el-consumo-de-aguacate-en-la-ue-27-una-tendencia-al-alza-impulsada-por-el-aumento-de-la-oferta/",
       "source": "FreshPlaza ES",
-      "title": "Forte progression de la consommation d'avocats au sein",
+      "title": "Forte progression de la consommation d’avocats au sein",
       "summary": "La consommation progresse grâce à une offre importée croissante",
       "origin_code": null,
       "origin_label": null,
@@ -19,7 +38,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 2
+      "age_hours": 16
     },
     {
       "id": "attention-7671e6048ca51dc2",
@@ -36,7 +55,7 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 4
+      "age_hours": 18
     },
     {
       "id": "attention-278bc68a79eb364d",
@@ -55,29 +74,26 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 5
-    },
-    {
-      "id": "attention-1ad2b84b3a1960b2",
-      "article_id": "1787893464_2",
-      "url": "https://www.freshplaza.it/article/9864800/il-settore-dell-avocado-colombiano-e-in-ripresa-e-non-registra-impatti-sul-programma-delle-esportazioni/",
-      "source": "FreshPlaza IT",
-      "title": "Résilience de la filière colombienne de l'avocat Hass après",
-      "summary": "Malgré un tremblement de terre ayant frappé la région de Pereira, zone stratégique pour la culture de l'avocat Hass en Colombie, le programme d'exportation reste intact.",
-      "origin_code": "COL",
-      "origin_label": "Colombie",
-      "published_at": "2026-08-28T06:05:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 12
+      "age_hours": 19
     }
   ],
   "articles": [
+    {
+      "id": "1787985193_0",
+      "timestamp": "2026-08-29T06:33:13.340770+00:00",
+      "title": "Forte hausse des prix du melon en Ukraine cette semaine -- 29/08/2026 06:01",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Sébastien"
+      ],
+      "products": [
+        "melon"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Forte hausse des prix du melon en Ukraine cette semaine -- <span class=\"news-date\">29/08/2026 06:01</span></div><div class=\"news-body\">Les prix des melons ont augmenté de manière significative en Ukraine cette semaine, portés par une baisse saisonnière de l&#x27;offre et une demande de consommation relativement forte. Selon les analystes d&#x27;EastFruit, les prix pratiqués par les exploitations agricoles ont progressé en moyenne de 37 % par rapport à la semaine précédente. <span class=\"news-reason\">L&#x27;article concerne un produit Mehadrin en saison (melon) et fournit des données chiffrées précises sur l&#x27;évolution des prix (+37%) sur un marché européen.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/news/melon-prices-rise-sharply-in-ukraine-over-the-past-week/\" target=\"_blank\">EastFruit -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Sharp rise in melon prices in Ukraine this week -- <span class=\"news-date\">29/08/2026 06:01</span></div><div class=\"news-body\">Melon prices have increased significantly in Ukraine this week, driven by a seasonal decline in supply and relatively strong consumer demand. According to EastFruit analysts, prices charged by farms have increased by an average of 37% compared to the previous week. <span class=\"news-reason\">The article concerns a Mehadrin product in season (melon) and provides precise numerical data on price trends (+37%) in a European market.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/news/melon-prices-rise-sharply-in-ukraine-over-the-past-week/\" target=\"_blank\">EastFruit -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עלייה חדה במחירי המלון באוקראינה השבוע -- <span class=\"news-date\">29/08/2026 06:01</span></div><div class=\"news-body\">מחירי המלונים עלו השבוע באוקראינה באופן משמעותי, בעקבות ירידה עונתית בהיצע וביקוש צרכני חזק יחסית. לפי האנליסטים של EastFruit, המחירים במשקים החקלאיים עלו בממוצע ב-37% בהשוואה לשבוע הקודם. <span class=\"news-reason\">הכתבה עוסקת במוצר מהדרין בעונה (מלון) ומספקת נתונים מספריים מדויקים על התפתחות המחירים (+37%) בשוק אירופי.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/news/melon-prices-rise-sharply-in-ukraine-over-the-past-week/\" target=\"_blank\">EastFruit -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1787936607_0",
       "timestamp": "2026-08-28T17:03:27.979779+00:00",
@@ -99,7 +115,7 @@
     {
       "id": "1787931288_0",
       "timestamp": "2026-08-28T15:34:48.083680+00:00",
-      "title": "Forte progression de la consommation d&#x27;avocats au sein de l&#x27;Union européenne",
+      "title": "Forte progression de la consommation d’avocats au sein de l’Union européenne",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -108,7 +124,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Forte progression de la consommation d&#x27;avocats au sein de l&#x27;Union européenne -- <span class=\"news-date\">28/08/2026 16:05</span></div><div class=\"news-body\">La consommation d&#x27;avocats dans l&#x27;UE-27 a progressé de 36 % entre 2020 et 2024. Les importations en provenance de pays tiers ont connu une hausse massive de 52 %, passant de 603 673 tonnes en 2020 à 917 951 tonnes en 2025. Cette tendance est portée par une augmentation constante de l&#x27;offre internationale, avec une croissance annuelle notable de 12,5 % enregistrée en 2021. <span class=\"news-reason\">L&#x27;article présente des données chiffrées précises sur les volumes d&#x27;importations et la consommation d&#x27;avocats sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9867303/el-consumo-de-aguacate-en-la-ue-27-una-tendencia-al-alza-impulsada-por-el-aumento-de-la-oferta/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Forte progression de la consommation d’avocats au sein de l’Union européenne -- <span class=\"news-date\">28/08/2026 16:05</span></div><div class=\"news-body\">La consommation d&#x27;avocats dans l&#x27;UE-27 a progressé de 36 % entre 2020 et 2024. Les importations en provenance de pays tiers ont connu une hausse massive de 52 %, passant de 603 673 tonnes en 2020 à 917 951 tonnes en 2025. Cette tendance est portée par une augmentation constante de l&#x27;offre internationale, avec une croissance annuelle notable de 12,5 % enregistrée en 2021. <span class=\"news-reason\">L&#x27;article présente des données chiffrées précises sur les volumes d&#x27;importations et la consommation d&#x27;avocats sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9867303/el-consumo-de-aguacate-en-la-ue-27-una-tendencia-al-alza-impulsada-por-el-aumento-de-la-oferta/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Strong growth in avocado consumption within the European Union -- <span class=\"news-date\">28/08/2026 16:05</span></div><div class=\"news-body\">Avocado consumption in the EU-27 increased by 36% between 2020 and 2024. Imports from third countries saw a massive 52% increase, rising from 603,673 tonnes in 2020 to 917,951 tonnes in 2025. This trend is driven by a steady increase in international supply, with a notable annual growth of 12.5% recorded in 2021. <span class=\"news-reason\">The article presents precise numerical data on import volumes and avocado consumption on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9867303/el-consumo-de-aguacate-en-la-ue-27-una-tendencia-al-alza-impulsada-por-el-aumento-de-la-oferta/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">עלייה משמעותית בצריכת האבוקדו באיחוד האירופי -- <span class=\"news-date\">28/08/2026 16:05</span></div><div class=\"news-body\">צריכת האבוקדו באיחוד האירופי (EU-27) עלתה ב-36% בין השנים 2020 ל-2024. היבוא ממדינות שלישיות רשם עלייה מאסיבית של 52%, מ-603,673 טונות בשנת 2020 ל-917,951 טונות בשנת 2025. מגמה זו מונעת על ידי עלייה מתמדת בהיצע הבינלאומי, עם צמיחה שנתית בולטת של 12.5% שנרשמה בשנת 2021. <span class=\"news-reason\">המאמר מציג נתונים מספריים מדויקים על היקפי היבוא וצריכת האבוקדו בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9867303/el-consumo-de-aguacate-en-la-ue-27-una-tendencia-al-alza-impulsada-por-el-aumento-de-la-oferta/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -482,7 +498,7 @@
     {
       "id": "1787817881_1",
       "timestamp": "2026-08-27T08:04:41.147829+00:00",
-      "title": "Afrique du Sud : excédents d&#x27;agrumes et défis de la gestion de la qualité",
+      "title": "Afrique du Sud : excédents d&#x27;agrumes et enjeux de la gestion de la qualité",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -491,14 +507,14 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Afrique du Sud : excédents d&#x27;agrumes et défis de la gestion de la qualité -- <span class=\"news-date\">27/08/2026 06:05</span></div><div class=\"news-body\">En Afrique du Sud, l&#x27;expansion des surfaces cultivées entraîne une hausse des volumes et des excédents d&#x27;agrumes. Cependant, le secteur fait face à des défis majeurs cette année, notamment en ce qui concerne la gestion de la qualité des fruits et les risques liés aux niveaux de production. <span class=\"news-reason\">Signalement de problèmes qualitatifs majeurs chez un concurrent clé des agrumes, constituant un argument commercial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865138/aumentano-le-eccedenze-di-agrumi-con-l-espansione-della-coltivazione-in-sudafrica/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Afrique du Sud : excédents d&#x27;agrumes et enjeux de la gestion de la qualité -- <span class=\"news-date\">27/08/2026 06:05</span></div><div class=\"news-body\">En Afrique du Sud, l&#x27;expansion des surfaces cultivées entraîne une hausse des volumes et des excédents d&#x27;agrumes. Cependant, le secteur fait face à des défis majeurs cette année, notamment en ce qui concerne la gestion de la qualité des fruits et les risques liés aux niveaux de production. <span class=\"news-reason\">Signalement de problèmes qualitatifs majeurs chez un concurrent clé des agrumes, constituant un argument commercial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865138/aumentano-le-eccedenze-di-agrumi-con-l-espansione-della-coltivazione-in-sudafrica/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">South Africa: Citrus surpluses and quality management challenges -- <span class=\"news-date\">27/08/2026 06:05</span></div><div class=\"news-body\">In South Africa, the expansion of cultivated areas is leading to an increase in volumes and citrus surpluses. However, the sector faces major challenges this year, particularly regarding fruit quality management and risks related to production levels. <span class=\"news-reason\">Reporting of major quality issues from a key citrus competitor, constituting a commercial argument.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865138/aumentano-le-eccedenze-di-agrumi-con-l-espansione-della-coltivazione-in-sudafrica/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">דרום אפריקה: עודפי הדרים ואתגרי ניהול איכות -- <span class=\"news-date\">27/08/2026 06:05</span></div><div class=\"news-body\">בדרום אפריקה, הרחבת שטחי הגידול מובילה לעלייה בנפחים ובעודפי פירות הדר. עם זאת, המגזר מתמודד השנה עם אתגרים משמעותיים, במיוחד בכל הנוגע לניהול איכות הפירות והסיכונים הקשורים לרמות הייצור. <span class=\"news-reason\">דיווח על בעיות איכות מרכזיות אצל מתחרה מפתח בתחום ההדרים, המהווה טיעון מסחרי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9865138/aumentano-le-eccedenze-di-agrumi-con-l-espansione-della-coltivazione-in-sudafrica/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1787807080_2",
       "timestamp": "2026-08-27T05:04:40.940838+00:00",
-      "title": "Sicile : record de production pour la campagne de mangues",
+      "title": "Sicile : production record pour la campagne de mangues",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -509,7 +525,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Sicile : record de production pour la campagne de mangues -- <span class=\"news-date\">27/08/2026 06:05</span></div><div class=\"news-body\">La Sicile enregistre une campagne de mangues exceptionnelle avec une production abondante qui surpasse les volumes des années précédentes. Malgré cette offre massive, le marché reste stable pour le moment grâce à une planification commerciale efficace et une qualité de produit maintenue à un niveau optimal. <span class=\"news-reason\">Informations sur une production abondante dans une origine concurrente pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866808/mango-siciliano-cresce-l-offerta-qualita-e-programmazione-per-sostenere-il-mercato/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Sicile : production record pour la campagne de mangues -- <span class=\"news-date\">27/08/2026 06:05</span></div><div class=\"news-body\">La Sicile enregistre une campagne de mangues exceptionnelle avec une production abondante qui surpasse les volumes des années précédentes. Malgré cette offre massive, le marché reste stable pour le moment grâce à une planification commerciale efficace et une qualité de produit maintenue à un niveau optimal. <span class=\"news-reason\">Informations sur une production abondante dans une origine concurrente pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866808/mango-siciliano-cresce-l-offerta-qualita-e-programmazione-per-sostenere-il-mercato/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Mango production in Sicily: a record campaign -- <span class=\"news-date\">27/08/2026 06:05</span></div><div class=\"news-body\">Sicily is recording an exceptional mango campaign with abundant production that surpasses volumes from previous years. Despite this massive supply, the market remains stable for now thanks to effective commercial planning and product quality maintained at an optimal level. <span class=\"news-reason\">Information on abundant production in a competing origin for mangoes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866808/mango-siciliano-cresce-l-offerta-qualita-e-programmazione-per-sostenere-il-mercato/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">ייצור מנגו בסיציליה: עונה שוברת שיאים -- <span class=\"news-date\">27/08/2026 06:05</span></div><div class=\"news-body\">סיציליה רושמת עונת מנגו יוצאת דופן עם ייצור שופע העולה על הכמויות של השנים הקודמות. למרות היצע מסיבי זה, השוק נותר יציב כרגע בזכות תכנון מסחרי יעיל ואיכות מוצר שנשמרה ברמה אופטימלית. <span class=\"news-reason\">מידע על ייצור שופע במקור מתחרה עבור המנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866808/mango-siciliano-cresce-l-offerta-qualita-e-programmazione-per-sostenere-il-mercato/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -570,7 +586,7 @@
     {
       "id": "1787753112_4",
       "timestamp": "2026-08-26T14:05:12.210737+00:00",
-      "title": "Exportations record d&#x27;avocats chiliens pour la saison 2025-2026",
+      "title": "Record d&#x27;exportations d&#x27;avocats chiliens pour la saison 2025-2026",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -581,7 +597,7 @@
       "origins": [
         "CHL"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Exportations record d&#x27;avocats chiliens pour la saison 2025-2026 -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">À la clôture de la saison 2025-2026, le Chili enregistre des exportations de fruits frais d&#x27;une valeur de 8 milliards de dollars au 31 juillet, soit une hausse de 6 %. La filière avocat mène cette performance avec une progression de 22,8 % de ses expéditions, atteignant son plus haut niveau en 15 ans. <span class=\"news-reason\">Données chiffrées sur les volumes d&#x27;exportation records d&#x27;une origine concurrente majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866426/chile-cierra-temporada-fruticola-con-paltas-en-maximo-de-15-anos-y-avellanas-que-duplican-su-valor-exportado/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Record d&#x27;exportations d&#x27;avocats chiliens pour la saison 2025-2026 -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">À la clôture de la saison 2025-2026, le Chili enregistre des exportations de fruits frais d&#x27;une valeur de 8 milliards de dollars au 31 juillet, soit une hausse de 6 %. La filière avocat mène cette performance avec une progression de 22,8 % de ses expéditions, atteignant son plus haut niveau en 15 ans. <span class=\"news-reason\">Données chiffrées sur les volumes d&#x27;exportation records d&#x27;une origine concurrente majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866426/chile-cierra-temporada-fruticola-con-paltas-en-maximo-de-15-anos-y-avellanas-que-duplican-su-valor-exportado/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Record Chilean avocado exports for the 2025-2026 season -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">At the close of the 2025-2026 season, Chile recorded fresh fruit exports worth $8 billion as of July 31, a 6% increase. The avocado sector leads this performance with a 22.8% increase in shipments, reaching its highest level in 15 years. <span class=\"news-reason\">Data on record export volumes from a major competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866426/chile-cierra-temporada-fruticola-con-paltas-en-maximo-de-15-anos-y-avellanas-que-duplican-su-valor-exportado/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">שיא בייצוא אבוקדו צ'יליאני לעונת 2025-2026 -- <span class=\"news-date\">26/08/2026 15:46</span></div><div class=\"news-body\">עם סיום עונת 2025-2026, צ'ילה רשמה ייצוא פירות טריים בשווי 8 מיליארד דולר נכון ל-31 ביולי, עלייה של 6%. ענף האבוקדו מוביל את הביצועים הללו עם עלייה של 22.8% במשלוחים, והגיע לרמתו הגבוהה ביותר מזה 15 שנה. <span class=\"news-reason\">נתונים מספריים על היקפי ייצוא שובר שיאים ממקור מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9866426/chile-cierra-temporada-fruticola-con-paltas-en-maximo-de-15-anos-y-avellanas-que-duplican-su-valor-exportado/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
