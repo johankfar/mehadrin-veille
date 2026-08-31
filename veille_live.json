@@ -1,44 +1,44 @@
 {
-  "last_updated": "2026-08-31T11:02:31.812703+00:00",
-  "article_count": 20,
+  "last_updated": "2026-08-31T12:32:24.379148+00:00",
+  "article_count": 21,
   "attention_points": [
     {
-      "id": "attention-c798309cb3114b74",
-      "article_id": "1788152535_1",
-      "url": "https://www.freshplaza.it/article/9867744/tunisia-export-di-datteri-in-aumento/",
-      "source": "FreshPlaza IT",
-      "title": "Tunisie : Hausse de 13,3 % des exportations",
-      "summary": "Les exportations tunisiennes de dattes ont atteint 144 100 tonnes au cours des dix premiers mois de la campagne 2025/2026.",
-      "origin_code": "TUN",
-      "origin_label": "Tunisie",
-      "published_at": "2026-08-31T06:00:00+02:00",
+      "id": "attention-fc952be2cecb8928",
+      "article_id": "1788179544_0",
+      "url": "https://www.freshfruitportal.com/news/2026/08/31/african-avocado/",
+      "source": "Fresh Fruit Portal",
+      "title": "Les exportations africaines d’avocats devraient atteindre 450 000 tonnes",
+      "summary": "En 2025, les exportations d'avocats en provenance d'Afrique ont atteint 450 000 tonnes.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-08-31T12:00:48+00:00",
       "published_at_source": "rss",
       "signal_type": "volume",
       "signal_label": "Volumes",
       "icon": "information",
       "products": [
-        "date"
+        "avocat"
       ],
-      "age_hours": 7
+      "age_hours": 0
     },
     {
-      "id": "attention-d07a3d93b0676f73",
-      "article_id": "1788152535_0",
-      "url": "https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/",
-      "source": "FreshPlaza IT",
-      "title": "Afrique du Sud : demande soutenue pour les oranges",
-      "summary": "Les oranges Valencia de calibres 74 a 105 dominent la demande actuelle.",
-      "origin_code": "ZAF",
-      "origin_label": "Afrique du Sud",
-      "published_at": "2026-08-31T06:00:00+02:00",
+      "id": "attention-c9bf9ae222810cb1",
+      "article_id": "1788179544_2",
+      "url": "https://www.freshplaza.fr/article/9866935/des-questions-persistent-autour-des-exportations-de-patates-douces-de-caroline-du-nord/",
+      "source": "FreshPlaza FR",
+      "title": "Incertitudes sur l'offre de patates douces en Caroline",
+      "summary": "En Caroline du Nord, la demande de patates douces progresse de manière constante, dépassant les prévisions d'année en année.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-08-31T13:43:00+02:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [
-        "orange"
+        "sweet_potato"
       ],
-      "age_hours": 7
+      "age_hours": 0
     },
     {
       "id": "attention-782642cea7c3799d",
@@ -57,7 +57,7 @@
       "products": [
         "melon"
       ],
-      "age_hours": 53
+      "age_hours": 54
     },
     {
       "id": "attention-7671e6048ca51dc2",
@@ -74,10 +74,76 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 70
+      "age_hours": 72
     }
   ],
   "articles": [
+    {
+      "id": "1788179544_3",
+      "timestamp": "2026-08-31T12:32:24.379148+00:00",
+      "title": "Égypte : 14 000 tonnes de patates douces exportées en une semaine -- 31/08/2026 13:51",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "sweet_potato"
+      ],
+      "origins": [
+        "EGY"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Égypte : 14 000 tonnes de patates douces exportées en une semaine -- <span class=\"news-date\">31/08/2026 13:51</span></div><div class=\"news-body\">Selon les données de l&#x27;Autorité nationale de sécurité alimentaire (NFSA), l&#x27;Égypte a exporté environ 172 000 tonnes de produits alimentaires entre le 22 et le 28 août 2026. Sur cette période, les expéditions de patates douces ont représenté environ 14 000 tonnes. <span class=\"news-reason\">Chiffres précis d&#x27;exportation hebdomadaire pour un produit Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867756/egyptian-sweet-potato-exports-reach-14-000-tons-in-one-week/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Egypt: 14,000 tons of sweet potatoes exported in one week -- <span class=\"news-date\">31/08/2026 13:51</span></div><div class=\"news-body\">According to data from the National Food Safety Authority (NFSA), Egypt exported approximately 172,000 tons of food products between August 22 and 28, 2026. During this period, sweet potato shipments accounted for approximately 14,000 tons. <span class=\"news-reason\">Precise weekly export figures for a Mehadrin product in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867756/egyptian-sweet-potato-exports-reach-14-000-tons-in-one-week/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מצרים: 14,000 טון בטטות יוצאו בשבוע אחד -- <span class=\"news-date\">31/08/2026 13:51</span></div><div class=\"news-body\">על פי נתוני הרשות הלאומית לבטיחות מזון (NFSA), מצרים ייצאה כ-172,000 טון מוצרי מזון בין ה-22 ל-28 באוגוסט 2026. בתקופה זו, משלוחי הבטטות היוו כ-14,000 טון. <span class=\"news-reason\">נתוני יצוא שבועיים מדויקים עבור מוצר מהדרין בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867756/egyptian-sweet-potato-exports-reach-14-000-tons-in-one-week/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1788179544_2",
+      "timestamp": "2026-08-31T12:32:24.379148+00:00",
+      "title": "Incertitudes sur l&#x27;offre de patates douces en Caroline du Nord face à une demande record -- 31/08/2026 13:43",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "sweet_potato"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Incertitudes sur l&#x27;offre de patates douces en Caroline du Nord face à une demande record -- <span class=\"news-date\">31/08/2026 13:43</span></div><div class=\"news-body\">En Caroline du Nord, la demande de patates douces progresse de manière constante, dépassant les prévisions d&#x27;année en année. Alors que la prochaine récolte approche, les professionnels du secteur s&#x27;interrogent sur la capacité des volumes produits à satisfaire une demande en forte explosion. <span class=\"news-reason\">Alerte sur la disponibilité et l&#x27;explosion de la demande chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9866935/des-questions-persistent-autour-des-exportations-de-patates-douces-de-caroline-du-nord/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Uncertainties over North Carolina sweet potato supply in the face of record demand -- <span class=\"news-date\">31/08/2026 13:43</span></div><div class=\"news-body\">In North Carolina, demand for sweet potatoes is growing steadily, exceeding forecasts year after year. As the next harvest approaches, industry professionals are questioning the capacity of produced volumes to satisfy booming demand. <span class=\"news-reason\">Alert on availability and exploding demand from a major competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9866935/des-questions-persistent-autour-des-exportations-de-patates-douces-de-caroline-du-nord/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">אי-וודאות לגבי היצע הבטטות בצפון קרוליינה מול ביקוש שיא -- <span class=\"news-date\">31/08/2026 13:43</span></div><div class=\"news-body\">בצפון קרוליינה, הביקוש לבטטות עולה בהתמדה, ועוקף את התחזיות משנה לשנה. ככל שהקציר הבא מתקרב, אנשי המקצוע בענף תוהים לגבי יכולתן של הכמויות המיוצרות לספק ביקוש שמתפוצץ בעוצמה. <span class=\"news-reason\">התראה על זמינות והתפוצצות ביקוש אצל מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9866935/des-questions-persistent-autour-des-exportations-de-patates-douces-de-caroline-du-nord/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1788179544_1",
+      "timestamp": "2026-08-31T12:32:24.379148+00:00",
+      "title": "Le Myanmar prévoit l&#x27;exportation de 20 000 tonnes d&#x27;avocats pour la saison 2026-2027 -- 31/08/2026 13:51",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le Myanmar prévoit l&#x27;exportation de 20 000 tonnes d&#x27;avocats pour la saison 2026-2027 -- <span class=\"news-date\">31/08/2026 13:51</span></div><div class=\"news-body\">L&#x27;Association des producteurs et exportateurs d&#x27;avocats du Myanmar (MAVO) prévoit la disponibilité de 20 000 tonnes d&#x27;avocats pour l&#x27;exportation au cours de la saison 2026-2027. L&#x27;organisation prévoit également de lancer des campagnes de marketing domestique pour stimuler la consommation locale. <span class=\"news-reason\">Prévisions de volumes d&#x27;exportation pour une origine concurrente en avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867835/avocado-export-supply-in-myanmar-reaches-20-000-tons/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Myanmar expects to export 20,000 tons of avocados for the 2026-2027 season -- <span class=\"news-date\">31/08/2026 13:51</span></div><div class=\"news-body\">The Myanmar Avocado Producer and Exporter Association (MAVO) expects 20,000 tons of avocados to be available for export during the 2026-2027 season. The organization also plans to launch domestic marketing campaigns to boost local consumption. <span class=\"news-reason\">Export volume forecasts for a competing avocado origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867835/avocado-export-supply-in-myanmar-reaches-20-000-tons/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מיאנמר צופה יצוא של 20,000 טון אבוקדו בעונת 2026-2027 -- <span class=\"news-date\">31/08/2026 13:51</span></div><div class=\"news-body\">איגוד יצרני ויצואני האבוקדו של מיאנמר (MAVO) צופה זמינות של 20,000 טון אבוקדו ליצוא במהלך עונת 2026-2027. הארגון מתכנן גם להשיק קמפיינים שיווקיים מקומיים לעידוד הצריכה המקומית. <span class=\"news-reason\">תחזיות כמויות יצוא עבור מקור מתחרה באבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867835/avocado-export-supply-in-myanmar-reaches-20-000-tons/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1788179544_0",
+      "timestamp": "2026-08-31T12:32:24.379148+00:00",
+      "title": "Les exportations africaines d’avocats devraient atteindre 450 000 tonnes en 2025 -- 31/08/2026 12:00",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les exportations africaines d’avocats devraient atteindre 450 000 tonnes en 2025 -- <span class=\"news-date\">31/08/2026 12:00</span></div><div class=\"news-body\">En 2025, les exportations d&#x27;avocats en provenance d&#x27;Afrique ont atteint 450 000 tonnes. La région continue de diversifier ses destinations d&#x27;exportation tout en intégrant de nouveaux pays producteurs, et ce malgré l&#x27;augmentation des volumes ainsi que des risques géopolitiques et logistiques croissants. <span class=\"news-reason\">Volumes d&#x27;exportation d&#x27;avocats en Afrique et diversification des marchés.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/08/31/african-avocado/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">African avocado exports are expected to reach 450,000 tons in 2025 -- <span class=\"news-date\">31/08/2026 12:00</span></div><div class=\"news-body\">In 2025, avocado exports from Africa reached 450,000 tons. The region continues to diversify its export destinations while integrating new producing countries, despite increasing volumes as well as growing geopolitical and logistical risks. <span class=\"news-reason\">Avocado export volumes in Africa and market diversification.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/08/31/african-avocado/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">יצוא האבוקדו מאפריקה צפוי להגיע ל-450,000 טון בשנת 2025 -- <span class=\"news-date\">31/08/2026 12:00</span></div><div class=\"news-body\">בשנת 2025, יצוא האבוקדו מאפריקה הגיע ל-450,000 טון. האזור ממשיך לגוון את יעדי היצוא שלו תוך שילוב מדינות יצרניות חדשות, וזאת למרות העלייה בכמויות וכן סיכונים גיאופוליטיים ולוגיסטיים גוברים. <span class=\"news-reason\">כמויות יצוא אבוקדו באפריקה וגיוון שווקים.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/08/31/african-avocado/\" target=\"_blank\">Fresh Fruit Portal -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1788174151_0",
       "timestamp": "2026-08-31T11:02:31.812703+00:00",
@@ -148,7 +214,7 @@
     {
       "id": "1788152535_1",
       "timestamp": "2026-08-31T05:02:15.942657+00:00",
-      "title": "Tunisie : Hausse de 13,3 % des exportations de dattes sur dix mois",
+      "title": "Tunisie : Les exportations de dattes progressent de 13,3 % sur dix mois",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica"
@@ -159,14 +225,14 @@
       "origins": [
         "TUN"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tunisie : Hausse de 13,3 % des exportations de dattes sur dix mois -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">Les exportations tunisiennes de dattes ont atteint 144 100 tonnes au cours des dix premiers mois de la campagne 2025/2026. Ce volume marque une progression de 13,3 % par rapport aux 127 200 tonnes enregistrees durant la meme periode de la saison precedente, selon les donnees de l&#x27;Observatoire national de l&#x27;agriculture (Onagri). <span class=\"news-reason\">Donnees chiffrees precises sur les volumes d&#x27;exportation d&#x27;un concurrent direct sur le segment des dattes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867744/tunisia-export-di-datteri-in-aumento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tunisie : Les exportations de dattes progressent de 13,3 % sur dix mois -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">Les exportations tunisiennes de dattes ont atteint 144 100 tonnes au cours des dix premiers mois de la campagne 2025/2026. Ce volume marque une progression de 13,3 % par rapport aux 127 200 tonnes enregistrees durant la meme periode de la saison precedente, selon les donnees de l&#x27;Observatoire national de l&#x27;agriculture (Onagri). <span class=\"news-reason\">Donnees chiffrees precises sur les volumes d&#x27;exportation d&#x27;un concurrent direct sur le segment des dattes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867744/tunisia-export-di-datteri-in-aumento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Tunisia: 13.3% increase in date exports over ten months -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">Tunisian date exports reached 144,100 tonnes during the first ten months of the 2025/2026 campaign. This volume marks a 13.3% increase compared to the 127,200 tonnes recorded during the same period of the previous season, according to data from the National Observatory of Agriculture (Onagri). <span class=\"news-reason\">Precise numerical data on export volumes from a direct competitor in the dates segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867744/tunisia-export-di-datteri-in-aumento/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">תוניסיה: עלייה של 13.3% בייצוא התמרים לאורך עשרה חודשים -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">ייצוא התמרים של תוניסיה הגיע ל-144,100 טון במהלך עשרת החודשים הראשונים של עונת 2025/2026. נפח זה מהווה עלייה של 13.3% לעומת 127,200 הטונות שנרשמו בתקופה המקבילה בעונה הקודמת, על פי נתוני המצפה הלאומי לחקלאות (Onagri). <span class=\"news-reason\">נתונים מספריים מדויקים על נפחי הייצוא של מתחרה ישיר במגזר התמרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867744/tunisia-export-di-datteri-in-aumento/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1788152535_0",
       "timestamp": "2026-08-31T05:02:15.942657+00:00",
-      "title": "Afrique du Sud : demande soutenue pour les oranges Valencia de petits calibres",
+      "title": "Afrique du Sud : demande soutenue pour les oranges Valencia de petit calibre",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -178,7 +244,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique du Sud : demande soutenue pour les oranges Valencia de petits calibres -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">En Afrique du Sud, la saison des agrumes dans la region du Cap se concentre sur les oranges Valencia de petits calibres, notamment les tailles 74, 88 et 105. La demande du marche est actuellement orientee vers ces petits fruits, ce qui complique l&#x27;ecoulement des calibres plus importants. Les producteurs locaux esperent egalement une reprise du marche pour les mandarines tardives. <span class=\"news-reason\">Contient des precisions sur les calibres (74, 88, 105) et les tendances de la demande pour les agrumes, produit coeur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique du Sud : demande soutenue pour les oranges Valencia de petit calibre -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">En Afrique du Sud, la saison des agrumes dans la region du Cap se concentre sur les oranges Valencia de petits calibres, notamment les tailles 74, 88 et 105. La demande du marche est actuellement orientee vers ces petits fruits, ce qui complique l&#x27;ecoulement des calibres plus importants. Les producteurs locaux esperent egalement une reprise du marche pour les mandarines tardives. <span class=\"news-reason\">Contient des precisions sur les calibres (74, 88, 105) et les tendances de la demande pour les agrumes, produit coeur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">South Africa: high demand for small-caliber Valencia oranges -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">In South Africa, the citrus season in the Cape region is focusing on small-caliber Valencia oranges, particularly sizes 74, 88, and 105. Market demand is currently oriented towards these small fruits, which complicates the movement of larger calibers. Local producers are also hoping for a market recovery for late mandarins. <span class=\"news-reason\">Contains details on calibers (74, 88, 105) and demand trends for citrus, Mehadrin&#x27;s core product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">דרום אפריקה: ביקוש חזק לתפוזי ולנסיה בגדלים קטנים -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">בדרום אפריקה, עונת ההדרים באזור הכף מתמקדת בתפוזי ולנסיה בגדלים קטנים, במיוחד גדלים 74, 88 ו-105. הביקוש בשוק מכוון כעת לפירות הקטנים הללו, מה שמקשה על מכירת הגדלים הגדולים יותר. המגדלים המקומיים מקווים גם להתאוששות השוק עבור המנדרינות המאוחרות. <span class=\"news-reason\">מכיל פרטים מדויקים על הגדלים (74, 88, 105) ומגמות הביקוש להדרים, מוצר הליבה של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -235,7 +301,7 @@
     {
       "id": "1787925857_2",
       "timestamp": "2026-08-28T14:04:17.926087+00:00",
-      "title": "Production record de mangues en Sicile malgré les barrières commerciales",
+      "title": "Sicile : production record de mangues malgré les barrières commerciales",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -246,7 +312,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Production record de mangues en Sicile malgré les barrières commerciales -- <span class=\"news-date\">28/08/2026 10:41</span></div><div class=\"news-body\">La saison de la mangue en Sicile se distingue cette année par une production exceptionnellement abondante, dépassant les niveaux des années précédentes. Bien que l&#x27;offre soit importante, le marché maintient un certain équilibre grâce à la qualité gustative des fruits. Cependant, l&#x27;absence de coordination entre les acteurs de la filière limite l&#x27;efficacité de la commercialisation et le plein potentiel de vente. <span class=\"news-reason\">Analyse de la situation d&#x27;une origine concurrente proche (Sicile) qui gagne en volume.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9866941/starke-saison-fur-sizilianische-mangos-aber-fehlende-koordination-bremst-den-absatz/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Sicile : production record de mangues malgré les barrières commerciales -- <span class=\"news-date\">28/08/2026 10:41</span></div><div class=\"news-body\">La saison de la mangue en Sicile se distingue cette année par une production exceptionnellement abondante, dépassant les niveaux des années précédentes. Bien que l&#x27;offre soit importante, le marché maintient un certain équilibre grâce à la qualité gustative des fruits. Cependant, l&#x27;absence de coordination entre les acteurs de la filière limite l&#x27;efficacité de la commercialisation et le plein potentiel de vente. <span class=\"news-reason\">Analyse de la situation d&#x27;une origine concurrente proche (Sicile) qui gagne en volume.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9866941/starke-saison-fur-sizilianische-mangos-aber-fehlende-koordination-bremst-den-absatz/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Record mango production in Sicily despite commercial obstacles -- <span class=\"news-date\">28/08/2026 10:41</span></div><div class=\"news-body\">The mango season in Sicily is distinguished this year by an exceptionally abundant production, exceeding the levels of previous years. Although supply is significant, the market maintains a certain balance thanks to the taste quality of the fruit. However, the lack of coordination among industry stakeholders limits marketing efficiency and full sales potential. <span class=\"news-reason\">Analysis of the situation of a nearby competing origin (Sicily) that is gaining in volume.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9866941/starke-saison-fur-sizilianische-mangos-aber-fehlende-koordination-bremst-den-absatz/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">ייצור שיא של מנגו בסיציליה למרות מכשולים מסחריים -- <span class=\"news-date\">28/08/2026 10:41</span></div><div class=\"news-body\">עונת המנגו בסיציליה בולטת השנה בייצור שופע באופן חריג, העולה על הרמות של השנים הקודמות. למרות ההיצע הגדול, השוק שומר על איזון מסוים בזכות האיכות הגבוהה של הפירות. עם זאת, חוסר תיאום בין הגורמים בענף מגביל את יעילות השיווק ואת מיצוי פוטנציאל המכירות. <span class=\"news-reason\">ניתוח המצב של מקור מתחרה קרוב (סיציליה) שצובר נפח.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9866941/starke-saison-fur-sizilianische-mangos-aber-fehlende-koordination-bremst-den-absatz/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
@@ -372,60 +438,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Égypte renforce sa position d&#x27;exportateur de premier plan de grenades avec une production record -- <span class=\"news-date\">28/08/2026 13:28</span></div><div class=\"news-body\">L&#x27;Égypte renforce sa place sur le marché mondial de la grenade grâce à une production nationale atteignant environ 883 540 tonnes. Le pays profite d&#x27;une large fenêtre de récolte et d&#x27;une demande internationale en hausse pour ce produit. <span class=\"news-reason\">Article contenant des chiffres précis sur le volume de production d&#x27;un produit Mehadrin en pleine saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867542/export-performance-has-kept-pace-with-production-growth/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Egypt strengthens its position as a leading pomegranate exporter with record production -- <span class=\"news-date\">28/08/2026 13:28</span></div><div class=\"news-body\">Egypt is strengthening its position in the global pomegranate market thanks to national production reaching approximately 883,540 tonnes. The country is benefiting from a wide harvesting window and rising international demand for this product. <span class=\"news-reason\">Article containing precise figures on the production volume of a Mehadrin product in full season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867542/export-performance-has-kept-pace-with-production-growth/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מצרים מחזקת את מעמדה כיצואנית מובילה של רימונים עם ייצור שיא -- <span class=\"news-date\">28/08/2026 13:28</span></div><div class=\"news-body\">מצרים מחזקת את מקומה בשוק הרימונים העולמי הודות לייצור מקומי המגיע לכ-883,540 טונות. המדינה נהנית מחלון קטיף רחב ומביקוש בינלאומי גובר למוצר זה. <span class=\"news-reason\">מאמר המכיל נתונים מדויקים על נפח הייצור של מוצר מהדרין בשיא העונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867542/export-performance-has-kept-pace-with-production-growth/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787915103_2",
-      "timestamp": "2026-08-28T11:05:03.423983+00:00",
-      "title": "Aperçu du marché mondial de la mangue et transition des zones de production -- 28/08/2026 10:14",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "mango"
-      ],
-      "origins": [
-        "BRA",
-        "MEX"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Aperçu du marché mondial de la mangue et transition des zones de production -- <span class=\"news-date\">28/08/2026 10:14</span></div><div class=\"news-body\">Le marché mondial de la mangue traverse une phase de transition. En Europe, l&#x27;approvisionnement bascule progressivement vers les origines méditerranéennes. Alors que la campagne mexicaine touche à sa fin, les volumes en provenance du Brésil augmentent. La disponibilité globale reste influencée par des conditions météorologiques variables selon les zones de culture. <span class=\"news-reason\">Analyse de la transition vers les origines méditerranéennes et évolution de l&#x27;offre concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867003/global-market-overview-mangoes/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Global mango market overview and transition of production zones -- <span class=\"news-date\">28/08/2026 10:14</span></div><div class=\"news-body\">The global mango market is going through a transition phase. In Europe, supply is gradually shifting towards Mediterranean origins. While the Mexican season is coming to an end, volumes from Brazil are increasing. Overall availability remains influenced by varying weather conditions across growing regions. <span class=\"news-reason\">Analysis of the transition to Mediterranean origins and evolution of competing supply.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867003/global-market-overview-mangoes/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">סקירה של שוק המנגו העולמי ומעבר בין אזורי ייצור -- <span class=\"news-date\">28/08/2026 10:14</span></div><div class=\"news-body\">שוק המנגו העולמי עובר שלב של מעבר. באירופה, האספקה עוברת בהדרגה למקורות מאזור הים התיכון. בעוד העונה המקסיקנית מתקרבת לסיומה, הכמויות מברזיל נמצאות בעלייה. הזמינות הכללית נותרת מושפעת מתנאי מזג אוויר משתנים בהתאם לאזורי הגידול. <span class=\"news-reason\">ניתוח המעבר למקורות ים תיכוניים והתפתחות ההיצע המתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867003/global-market-overview-mangoes/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787915103_1",
-      "timestamp": "2026-08-28T11:05:03.423983+00:00",
-      "title": "Expansion de Jumbo en Belgique et lancement de nouveaux agrumes Disney chez Morrisons -- 28/08/2026 12:05",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "pear",
-        "apple"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Expansion de Jumbo en Belgique et lancement de nouveaux agrumes Disney chez Morrisons -- <span class=\"news-date\">28/08/2026 12:05</span></div><div class=\"news-body\">Le distributeur Morrisons lance une nouvelle gamme de fruits sous licence Disney, incluant des emballages de 500 grammes d&#x27;easy peelers (petits agrumes) ainsi que des pommes et des poires. En parallèle, l&#x27;enseigne Jumbo annonce son intention d&#x27;atteindre le cap des 50 magasins en Belgique d&#x27;ici le début de l&#x27;année 2027. <span class=\"news-reason\">Lancement d&#x27;une nouvelle gamme d&#x27;agrumes (easy peelers) dans la grande distribution britannique.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9867313/jumbo-bereikt-begin-2027-mijlpaal-van-50-winkels-in-belgie/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Jumbo's expansion in Belgium and launch of new Disney citrus at Morrisons -- <span class=\"news-date\">28/08/2026 12:05</span></div><div class=\"news-body\">Retailer Morrisons is launching a new range of Disney-licensed fruit, including 500-gram packs of easy peelers (small citrus) as well as apples and pears. Meanwhile, the Jumbo chain has announced its intention to reach the milestone of 50 stores in Belgium by early 2027. <span class=\"news-reason\">Launch of a new citrus range (easy peelers) in British retail.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9867313/jumbo-bereikt-begin-2027-mijlpaal-van-50-winkels-in-belgie/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות ברשתות השיווק</div><div class=\"news-title\">התרחבות ג&#x27;מבו בבלגיה והשקת פירות הדר חדשים של דיסני במוריסונס -- <span class=\"news-date\">28/08/2026 12:05</span></div><div class=\"news-body\">רשת מוריסונס משיקה סדרת פירות חדשה תחת זיכיון של דיסני, הכוללת אריזות של 500 גרם של פירות הדר קלי קילוף (easy peelers) וכן תפוחים ואגסים. במקביל, רשת ג&#x27;מבו מודיעה על כוונתה להגיע ליעד של 50 חנויות בבלגיה עד תחילת שנת 2027. <span class=\"news-reason\">השקת סדרה חדשה של פירות הדר (easy peelers) בקמעונאות הבריטית.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9867313/jumbo-bereikt-begin-2027-mijlpaal-van-50-winkels-in-belgie/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1787915103_0",
-      "timestamp": "2026-08-28T11:05:03.423983+00:00",
-      "title": "Durcissement des normes de récolte de la mangue Kent au Pérou",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "mango"
-      ],
-      "origins": [
-        "PER"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Durcissement des normes de récolte de la mangue Kent au Pérou -- <span class=\"news-date\">28/08/2026 10:41</span></div><div class=\"news-body\">La saison de la mangue Kent au Pérou s&#x27;annonce incertaine en raison de températures minimales supérieures à la normale qui ont perturbé la floraison. Par ailleurs, de nouvelles directives de qualité imposent désormais que les mangues ne soient récoltées qu&#x27;à partir d&#x27;un indice Brix de 7 et d&#x27;une valeur de couleur interne de 2 afin de garantir une maturité optimale à l&#x27;exportation. <span class=\"news-reason\">Informations cruciales sur les nouvelles normes de maturité (Brix) et les difficultés de floraison chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9867340/mangos-durfen-erst-bei-einem-brix-wert-von-mindestens-7-und-einem-inneren-farbwert-von-2-geerntet-werden/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Peruvian Kent mangoes face stricter harvesting standards -- <span class=\"news-date\">28/08/2026 10:41</span></div><div class=\"news-body\">The Kent mango season in Peru is looking uncertain due to higher-than-normal minimum temperatures that have disrupted flowering. Furthermore, new quality guidelines now mandate that mangoes only be harvested starting from a Brix index of 7 and an internal color value of 2 to ensure optimal ripeness for export. <span class=\"news-reason\">Crucial information on new maturity standards (Brix) and flowering difficulties at a major competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9867340/mangos-durfen-erst-bei-einem-brix-wert-von-mindestens-7-und-einem-inneren-farbwert-von-2-geerntet-werden/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מנגו קנט מפרו מתמודד עם תקני קטיף מחמירים יותר -- <span class=\"news-date\">28/08/2026 10:41</span></div><div class=\"news-body\">עונת המנגו קנט בפרו נראית לא ודאית בשל טמפרטורות מינימום גבוהות מהרגיל ששיבשו את הפריחה. בנוסף, הנחיות איכות חדשות קובעות כעת כי יש לקטוף מנגו רק החל ממדד בריקס (Brix) של 7 וערך צבע פנימי של 2 על מנת להבטיח בשלות אופטימלית לייצוא. <span class=\"news-reason\">מידע חיוני על תקני בשלות חדשים (Brix) וקשיים בפריחה אצל מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9867340/mangos-durfen-erst-bei-einem-brix-wert-von-mindestens-7-und-einem-inneren-farbwert-von-2-geerntet-werden/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
