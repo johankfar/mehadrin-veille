@@ -1,25 +1,44 @@
 {
-  "last_updated": "2026-09-01T05:01:31.754158+00:00",
-  "article_count": 18,
+  "last_updated": "2026-09-01T12:32:07.526840+00:00",
+  "article_count": 21,
   "attention_points": [
     {
-      "id": "attention-78873848c84f04e5",
-      "article_id": "1788238891_0",
-      "url": "https://www.freshplaza.it/article/9866071/nel-2026-si-stima-una-riduzione-fino-al-19-per-cento-per-le-esportazioni-di-arance-sudafricane/",
-      "source": "FreshPlaza IT",
-      "title": "Une baisse de 19 % des exportations d'oranges sud-africaines",
-      "summary": "La saison 2026 s'annonce difficile pour les agrumiculteurs d'Afrique australe.",
-      "origin_code": "ZAF",
-      "origin_label": "Afrique du Sud",
-      "published_at": "2026-09-01T06:05:00+02:00",
+      "id": "attention-465ea3640835c4ba",
+      "article_id": "1788265927_1",
+      "url": "https://www.freshplaza.com/article/9868465/chilean-avocado-crop-forecast-to-reach-17-year-high/",
+      "source": "FreshPlaza",
+      "title": "Chili : Prévisions de récolte record pour l'avocat",
+      "summary": "La production d'avocats au Chili est projetée à 285 000 tonnes pour la saison 2026-2027, soit une augmentation de 10 % par rapport aux 265 000 tonnes de la saison précédente.",
+      "origin_code": "CHL",
+      "origin_label": "Chili",
+      "published_at": "2026-09-01T13:29:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 1
+    },
+    {
+      "id": "attention-e2dd74cecefc16e9",
+      "article_id": "1788265927_2",
+      "url": "https://www.agf.nl/article/9868428/nieuwe-fytosanitaire-eisen-voor-import-gember-kurkuma-en-citrus/",
+      "source": "AGF.nl",
+      "title": "Nouvelles exigences phytosanitaires de l'UE applicables aux importations d'agrumes",
+      "summary": "À partir du 15 octobre 2026, l'Union européenne appliquera de nouvelles exigences phytosanitaires pour l'importation de produits tiers.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-09-01T12:07:00+02:00",
       "published_at_source": "rss",
       "signal_type": "volume",
       "signal_label": "Volumes",
       "icon": "information",
       "products": [
-        "orange"
+        "ginger"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-4c38780b6a933ac7",
@@ -38,7 +57,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 9
+      "age_hours": 16
     },
     {
       "id": "attention-7abaac12debfc325",
@@ -57,27 +76,62 @@
       "products": [
         "mango"
       ],
-      "age_hours": 17
-    },
-    {
-      "id": "attention-a6db5e4c2133c1c8",
-      "article_id": "1788184918_0",
-      "url": "https://www.freshplaza.com/article/9867754/citrus-farmland-development-raises-food-security-concerns/",
-      "source": "FreshPlaza",
-      "title": "Menaces sur les terres agrumicoles en Afrique du Sud",
-      "summary": "La conversion des terres agricoles pourrait impacter les volumes",
-      "origin_code": "ZAF",
-      "origin_label": "Afrique du Sud",
-      "published_at": "2026-08-31T13:51:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [],
-      "age_hours": 17
+      "age_hours": 24
     }
   ],
   "articles": [
+    {
+      "id": "1788265927_2",
+      "timestamp": "2026-09-01T12:32:07.526840+00:00",
+      "title": "Nouvelles exigences phytosanitaires de l&#x27;UE applicables aux importations d&#x27;agrumes -- 01/09/2026 12:07",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "ginger"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Nouvelles exigences phytosanitaires de l&#x27;UE applicables aux importations d&#x27;agrumes -- <span class=\"news-date\">01/09/2026 12:07</span></div><div class=\"news-body\">À partir du 15 octobre 2026, l&#x27;Union européenne appliquera de nouvelles exigences phytosanitaires pour l&#x27;importation de produits tiers. Cette mesure concerne directement les agrumes, ainsi que le gingembre et le curcuma. Un nouveau certificat phytosanitaire sera requis pour ces produits afin d&#x27;accéder au marché européen. <span class=\"news-reason\">Alerte réglementaire impactant directement les conditions d&#x27;importation des agrumes en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9868428/nieuwe-fytosanitaire-eisen-voor-import-gember-kurkuma-en-citrus/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">New EU phytosanitary requirements applicable to citrus imports -- <span class=\"news-date\">01/09/2026 12:07</span></div><div class=\"news-body\">Starting October 15, 2026, the European Union will apply new phytosanitary requirements for the import of third-party products. This measure directly concerns citrus fruits, as well as ginger and turmeric. A new phytosanitary certificate will be required for these products to access the European market. <span class=\"news-reason\">Regulatory alert directly impacting the conditions for importing citrus fruits into Europe.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9868428/nieuwe-fytosanitaire-eisen-voor-import-gember-kurkuma-en-citrus/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">דרישות פיטו-סניטריות חדשות של האיחוד האירופי החלות על יבוא פירות הדר -- <span class=\"news-date\">01/09/2026 12:07</span></div><div class=\"news-body\">החל מה-15 באוקטובר 2026, האיחוד האירופי יחיל דרישות פיטו-סניטריות חדשות ליבוא מוצרים ממדינות שלישיות. צעד זה נוגע ישירות לפירות הדר, כמו גם לג'ינג'ר ולכורכום. יידרש אישור פיטו-סניטרי חדש עבור מוצרים אלו כדי לקבל גישה לשוק האירופי. <span class=\"news-reason\">התראה רגולטורית המשפיעה ישירות על תנאי היבוא של פירות הדר לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9868428/nieuwe-fytosanitaire-eisen-voor-import-gember-kurkuma-en-citrus/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1788265927_1",
+      "timestamp": "2026-09-01T12:32:07.526840+00:00",
+      "title": "Chili : Prévisions de récolte record pour l&#x27;avocat en 2026-2027 -- 01/09/2026 13:29",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "CHL"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Chili : Prévisions de récolte record pour l&#x27;avocat en 2026-2027 -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">La production d&#x27;avocats au Chili est projetée à 285 000 tonnes pour la saison 2026-2027, soit une augmentation de 10 % par rapport aux 265 000 tonnes de la saison précédente. Si ce volume est atteint, il s&#x27;agirait de la récolte la plus importante du pays en 17 ans, égalant presque le record établi en 2009-2010. <span class=\"news-reason\">Données chiffrées précises sur la production d&#x27;un concurrent majeur de l&#x27;avocat sur le marché mondial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868465/chilean-avocado-crop-forecast-to-reach-17-year-high/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Chile: Record harvest forecast for avocado in 2026-2027 -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">Avocado production in Chile is projected at 285,000 tons for the 2026-2027 season, a 10% increase compared to the 265,000 tons of the previous season. If this volume is reached, it would be the country's largest harvest in 17 years, nearly matching the record set in 2009-2010. <span class=\"news-reason\">Precise figures on the production of a major avocado competitor in the global market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868465/chilean-avocado-crop-forecast-to-reach-17-year-high/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">צ'ילה: תחזית ליבול שיא של אבוקדו ב-2026-2027 -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">ייצור האבוקדו בצ'ילה צפוי להגיע ל-285,000 טונות בעונת 2026-2027, עלייה של 10% לעומת 265,000 טונות בעונה הקודמת. אם יעד זה יושג, מדובר יהיה ביבול הגדול ביותר של המדינה מזה 17 שנים, כמעט משתווה לשיא שנקבע ב-2009-2010. <span class=\"news-reason\">נתונים מספריים מדויקים על הייצור של מתחרה מרכזי בתחום האבוקדו בשוק העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868465/chilean-avocado-crop-forecast-to-reach-17-year-high/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1788265927_0",
+      "timestamp": "2026-09-01T12:32:07.526840+00:00",
+      "title": "Égypte : Lancement de la campagne des dattes Barhi -- 01/09/2026 12:07",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [
+        "date"
+      ],
+      "origins": [
+        "EGY"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Égypte : Lancement de la campagne des dattes Barhi -- <span class=\"news-date\">01/09/2026 12:07</span></div><div class=\"news-body\">La saison des dattes Barhi en Égypte bat son plein avec une offre jugée stable. Les volumes de production sont en croissance grâce à l&#x27;entrée en production de jeunes plantations. L&#x27;Égypte bénéficie d&#x27;un avantage logistique significatif pour approvisionner le marché européen, bien que la demande soit actuellement sensible aux fluctuations de prix. <span class=\"news-reason\">Information sur le début de campagne d&#x27;une origine concurrente pour les dattes, produit stratégique pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9868155/barhi-dadelseizoen-in-volle-gang-egypte-profiteert-van-logistiek-voordeel-richting-europa/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Egypt: Launch of the Barhi date season -- <span class=\"news-date\">01/09/2026 12:07</span></div><div class=\"news-body\">The Barhi date season in Egypt is in full swing with a supply considered stable. Production volumes are growing thanks to young plantations entering production. Egypt benefits from a significant logistical advantage for supplying the European market, although demand is currently sensitive to price fluctuations. <span class=\"news-reason\">Information on the start of the season for a competing origin for dates, a strategic product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9868155/barhi-dadelseizoen-in-volle-gang-egypte-profiteert-van-logistiek-voordeel-richting-europa/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מצרים: השקת עונת תמר הברהי -- <span class=\"news-date\">01/09/2026 12:07</span></div><div class=\"news-body\">עונת תמר הברהי במצרים נמצאת בעיצומה עם היצע שנחשב יציב. כמויות הייצור נמצאות בצמיחה הודות לכניסתם לניב של מטעים צעירים. מצרים נהנית מיתרון לוגיסטי משמעותי באספקת השוק האירופי, למרות שהביקוש רגיש כרגע לתנודות במחירים. <span class=\"news-reason\">מידע על תחילת עונה של מקור מתחרה עבור תמרים, מוצר אסטרטגי עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9868155/barhi-dadelseizoen-in-volle-gang-egypte-profiteert-van-logistiek-voordeel-richting-europa/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1788238891_1",
       "timestamp": "2026-09-01T05:01:31.754158+00:00",
@@ -369,7 +423,7 @@
     {
       "id": "1788152535_0",
       "timestamp": "2026-08-31T05:02:15.942657+00:00",
-      "title": "Afrique du Sud : demande soutenue pour les oranges Valencia de petit calibre",
+      "title": "Afrique du Sud : demande soutenue pour les oranges Valencia de petits calibres",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -381,7 +435,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique du Sud : demande soutenue pour les oranges Valencia de petit calibre -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">En Afrique du Sud, la saison des agrumes dans la region du Cap se concentre sur les oranges Valencia de petits calibres, notamment les tailles 74, 88 et 105. La demande du marche est actuellement orientee vers ces petits fruits, ce qui complique l&#x27;ecoulement des calibres plus importants. Les producteurs locaux esperent egalement une reprise du marche pour les mandarines tardives. <span class=\"news-reason\">Contient des precisions sur les calibres (74, 88, 105) et les tendances de la demande pour les agrumes, produit coeur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique du Sud : demande soutenue pour les oranges Valencia de petits calibres -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">En Afrique du Sud, la saison des agrumes dans la region du Cap se concentre sur les oranges Valencia de petits calibres, notamment les tailles 74, 88 et 105. La demande du marche est actuellement orientee vers ces petits fruits, ce qui complique l&#x27;ecoulement des calibres plus importants. Les producteurs locaux esperent egalement une reprise du marche pour les mandarines tardives. <span class=\"news-reason\">Contient des precisions sur les calibres (74, 88, 105) et les tendances de la demande pour les agrumes, produit coeur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">South Africa: high demand for small-caliber Valencia oranges -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">In South Africa, the citrus season in the Cape region is focusing on small-caliber Valencia oranges, particularly sizes 74, 88, and 105. Market demand is currently oriented towards these small fruits, which complicates the movement of larger calibers. Local producers are also hoping for a market recovery for late mandarins. <span class=\"news-reason\">Contains details on calibers (74, 88, 105) and demand trends for citrus, Mehadrin&#x27;s core product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">דרום אפריקה: ביקוש חזק לתפוזי ולנסיה בגדלים קטנים -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">בדרום אפריקה, עונת ההדרים באזור הכף מתמקדת בתפוזי ולנסיה בגדלים קטנים, במיוחד גדלים 74, 88 ו-105. הביקוש בשוק מכוון כעת לפירות הקטנים הללו, מה שמקשה על מכירת הגדלים הגדולים יותר. המגדלים המקומיים מקווים גם להתאוששות השוק עבור המנדרינות המאוחרות. <span class=\"news-reason\">מכיל פרטים מדויקים על הגדלים (74, 88, 105) ומגמות הביקוש להדרים, מוצר הליבה של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     }
