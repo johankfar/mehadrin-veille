@@ -1,25 +1,44 @@
 {
-  "last_updated": "2026-08-31T17:02:06.780560+00:00",
-  "article_count": 17,
+  "last_updated": "2026-09-01T05:01:31.754158+00:00",
+  "article_count": 19,
   "attention_points": [
     {
-      "id": "attention-fc952be2cecb8928",
-      "article_id": "1788179544_0",
-      "url": "https://www.freshfruitportal.com/news/2026/08/31/african-avocado/",
-      "source": "Fresh Fruit Portal",
-      "title": "Les exportations africaines d’avocats devraient atteindre 450 000 tonnes",
-      "summary": "En 2025, les exportations d'avocats en provenance d'Afrique ont atteint 450 000 tonnes.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-08-31T12:00:48+00:00",
+      "id": "attention-78873848c84f04e5",
+      "article_id": "1788238891_0",
+      "url": "https://www.freshplaza.it/article/9866071/nel-2026-si-stima-una-riduzione-fino-al-19-per-cento-per-le-esportazioni-di-arance-sudafricane/",
+      "source": "FreshPlaza IT",
+      "title": "Baisse de 19 % des exportations d'oranges sud-africaines prévue",
+      "summary": "La saison 2026 s'annonce difficile pour les agrumiculteurs d'Afrique australe.",
+      "origin_code": "ZAF",
+      "origin_label": "Afrique du Sud",
+      "published_at": "2026-09-01T06:05:00+02:00",
       "published_at_source": "rss",
       "signal_type": "volume",
       "signal_label": "Volumes",
       "icon": "information",
       "products": [
+        "orange"
+      ],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-4c38780b6a933ac7",
+      "article_id": "1788238891_1",
+      "url": "https://www.freshfruitportal.com/news/2026/08/31/morocco-avocado-conf/",
+      "source": "Fresh Fruit Portal",
+      "title": "Lancement d'une plateforme internationale pour la filière de l'avocat",
+      "summary": "Green Smile annonce le lancement de la Morocco Avocado Conference 2026 (MAC), la première conférence internationale entièrement dédiée à la filière marocaine de l'avocat.",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-08-31T19:43:24+00:00",
+      "published_at_source": "rss",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
+      "products": [
         "avocat"
       ],
-      "age_hours": 5
+      "age_hours": 9
     },
     {
       "id": "attention-7abaac12debfc325",
@@ -38,7 +57,7 @@
       "products": [
         "mango"
       ],
-      "age_hours": 5
+      "age_hours": 17
     },
     {
       "id": "attention-a6db5e4c2133c1c8",
@@ -55,29 +74,46 @@
       "signal_label": "Alerte",
       "icon": "alert",
       "products": [],
-      "age_hours": 5
-    },
-    {
-      "id": "attention-b4a7a6eb513d2e82",
-      "article_id": "1788195726_1",
-      "url": "https://www.freshplaza.com/article/9867783/ghana-exporter-begins-first-commercial-mango-season/",
-      "source": "FreshPlaza",
-      "title": "Première campagne commerciale de mangues pour un exportateur ghanéen",
-      "summary": "L'exportateur ghanéen MakolaHub lance sa première récolte commerciale de mangues issues de sa propre exploitation créée en 2021.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-08-31T13:51:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "mango"
-      ],
-      "age_hours": 5
+      "age_hours": 17
     }
   ],
   "articles": [
+    {
+      "id": "1788238891_1",
+      "timestamp": "2026-09-01T05:01:31.754158+00:00",
+      "title": "Lancement d&#x27;une plateforme internationale pour la filière de l&#x27;avocat au Maroc -- 31/08/2026 19:43",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Lancement d&#x27;une plateforme internationale pour la filière de l&#x27;avocat au Maroc -- <span class=\"news-date\">31/08/2026 19:43</span></div><div class=\"news-body\">Green Smile annonce le lancement de la Morocco Avocado Conference 2026 (MAC), la première conférence internationale entièrement dédiée à la filière marocaine de l&#x27;avocat. L&#x27;événement se déroulera le 30 septembre 2026 à Tanger, point stratégique pour l&#x27;exportation vers l&#x27;Europe, afin de structurer ce secteur en pleine croissance. <span class=\"news-reason\">Annonce d&#x27;un nouvel événement stratégique dans un pays concurrent direct de Mehadrin pour l&#x27;avocat, visant à renforcer les liens avec le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/08/31/morocco-avocado-conf/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Launch of an international platform for the avocado sector in Morocco -- <span class=\"news-date\">31/08/2026 19:43</span></div><div class=\"news-body\">Green Smile announces the launch of the Morocco Avocado Conference 2026 (MAC), the first international conference entirely dedicated to the Moroccan avocado sector. The event will take place on September 30, 2026, in Tangier, a strategic point for exports to Europe, in order to structure this growing sector. <span class=\"news-reason\">Announcement of a new strategic event in a direct competing country to Mehadrin for avocados, aimed at strengthening links with the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/08/31/morocco-avocado-conf/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מגמות בענף</div><div class=\"news-title\">השקת פלטפורמה בינלאומית לענף האבוקדו במרוקו -- <span class=\"news-date\">31/08/2026 19:43</span></div><div class=\"news-body\">חברת Green Smile מכריזה על השקת ועידת האבוקדו של מרוקו 2026 (MAC), הוועידה הבינלאומית הראשונה המוקדשת כולה לענף האבוקדו המרוקאי. האירוע יתקיים ב-30 בספטמבר 2026 בטנג'יר, נקודה אסטרטגית ליצוא לאירופה, במטרה לארגן את המגזר הנמצא בצמיחה מהירה. <span class=\"news-reason\">הכרזה על אירוע אסטרטגי חדש במדינה המתחרה ישירות במהדרין בתחום האבוקדו, במטרה לחזק את הקשרים עם השוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/08/31/morocco-avocado-conf/\" target=\"_blank\">Fresh Fruit Portal -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1788238891_0",
+      "timestamp": "2026-09-01T05:01:31.754158+00:00",
+      "title": "Baisse de 19 % des exportations d&#x27;oranges sud-africaines prévue pour 2026.",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "ZAF"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse de 19 % des exportations d&#x27;oranges sud-africaines prévue pour 2026. -- <span class=\"news-date\">01/09/2026 06:05</span></div><div class=\"news-body\">La saison 2026 s&#x27;annonce difficile pour les agrumiculteurs d&#x27;Afrique australe. Suite à une révision des estimations par le groupe de travail variétal, les prévisions d&#x27;exportation pour les oranges Valencia et Navel ont été ajustées à la baisse, avec une réduction totale estimée à 19 % par rapport aux prévisions initiales. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur la réduction des volumes d&#x27;exportation d&#x27;une origine concurrente majeure pour les oranges (Valencia et Navel), produit clé de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866071/nel-2026-si-stima-una-riduzione-fino-al-19-per-cento-per-le-esportazioni-di-arance-sudafricane/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">A 19% decrease in South African orange exports is projected for 2026. -- <span class=\"news-date\">01/09/2026 06:05</span></div><div class=\"news-body\">The 2026 season is shaping up to be difficult for citrus growers in Southern Africa. Following a revision of estimates by the varietal working group, export forecasts for Valencia and Navel oranges have been adjusted downwards, with an estimated total reduction of 19% compared to initial forecasts. <span class=\"news-reason\">The article provides precise figures on the reduction in export volumes from a major competing origin for oranges (Valencia and Navel), a key product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866071/nel-2026-si-stima-una-riduzione-fino-al-19-per-cento-per-le-esportazioni-di-arance-sudafricane/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">ירידה של 19% ביצוא התפוזים מדרום אפריקה צפויה בשנת 2026. -- <span class=\"news-date\">01/09/2026 06:05</span></div><div class=\"news-body\">עונת 2026 נראית מאתגרת עבור מגדלי ההדרים בדרום אפריקה. בעקבות עדכון ההערכות על ידי קבוצת העבודה הזנית, תחזיות היצוא עבור תפוזי ולנסיה ונאבל עודכנו כלפי מטה, עם הפחתה כוללת המוערכת ב-19% לעומת התחזיות הראשוניות. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על הפחתת כמויות היצוא ממקור מתחרה מרכזי לתפוזים (ולנסיה ונאבל), מוצר מפתח של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866071/nel-2026-si-stima-una-riduzione-fino-al-19-per-cento-per-le-esportazioni-di-arance-sudafricane/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1788195726_2",
       "timestamp": "2026-08-31T17:02:06.780560+00:00",
@@ -315,7 +351,7 @@
     {
       "id": "1788152535_1",
       "timestamp": "2026-08-31T05:02:15.942657+00:00",
-      "title": "Tunisie : Hausse de 13,3 % des exportations de dattes sur dix mois",
+      "title": "Tunisie : Progression de 13,3 % des exportations de dattes sur dix mois",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica"
@@ -326,14 +362,14 @@
       "origins": [
         "TUN"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tunisie : Hausse de 13,3 % des exportations de dattes sur dix mois -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">Les exportations tunisiennes de dattes ont atteint 144 100 tonnes au cours des dix premiers mois de la campagne 2025/2026. Ce volume marque une progression de 13,3 % par rapport aux 127 200 tonnes enregistrees durant la meme periode de la saison precedente, selon les donnees de l&#x27;Observatoire national de l&#x27;agriculture (Onagri). <span class=\"news-reason\">Donnees chiffrees precises sur les volumes d&#x27;exportation d&#x27;un concurrent direct sur le segment des dattes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867744/tunisia-export-di-datteri-in-aumento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tunisie : Progression de 13,3 % des exportations de dattes sur dix mois -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">Les exportations tunisiennes de dattes ont atteint 144 100 tonnes au cours des dix premiers mois de la campagne 2025/2026. Ce volume marque une progression de 13,3 % par rapport aux 127 200 tonnes enregistrees durant la meme periode de la saison precedente, selon les donnees de l&#x27;Observatoire national de l&#x27;agriculture (Onagri). <span class=\"news-reason\">Donnees chiffrees precises sur les volumes d&#x27;exportation d&#x27;un concurrent direct sur le segment des dattes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867744/tunisia-export-di-datteri-in-aumento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Tunisia: 13.3% increase in date exports over ten months -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">Tunisian date exports reached 144,100 tonnes during the first ten months of the 2025/2026 campaign. This volume marks a 13.3% increase compared to the 127,200 tonnes recorded during the same period of the previous season, according to data from the National Observatory of Agriculture (Onagri). <span class=\"news-reason\">Precise numerical data on export volumes from a direct competitor in the dates segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867744/tunisia-export-di-datteri-in-aumento/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">תוניסיה: עלייה של 13.3% בייצוא התמרים לאורך עשרה חודשים -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">ייצוא התמרים של תוניסיה הגיע ל-144,100 טון במהלך עשרת החודשים הראשונים של עונת 2025/2026. נפח זה מהווה עלייה של 13.3% לעומת 127,200 הטונות שנרשמו בתקופה המקבילה בעונה הקודמת, על פי נתוני המצפה הלאומי לחקלאות (Onagri). <span class=\"news-reason\">נתונים מספריים מדויקים על נפחי הייצוא של מתחרה ישיר במגזר התמרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867744/tunisia-export-di-datteri-in-aumento/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1788152535_0",
       "timestamp": "2026-08-31T05:02:15.942657+00:00",
-      "title": "Afrique du Sud : demande soutenue pour les oranges Valencia de petits calibres",
+      "title": "Afrique du Sud : demande soutenue pour les oranges Valencia de petit calibre",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -345,7 +381,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique du Sud : demande soutenue pour les oranges Valencia de petits calibres -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">En Afrique du Sud, la saison des agrumes dans la region du Cap se concentre sur les oranges Valencia de petits calibres, notamment les tailles 74, 88 et 105. La demande du marche est actuellement orientee vers ces petits fruits, ce qui complique l&#x27;ecoulement des calibres plus importants. Les producteurs locaux esperent egalement une reprise du marche pour les mandarines tardives. <span class=\"news-reason\">Contient des precisions sur les calibres (74, 88, 105) et les tendances de la demande pour les agrumes, produit coeur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique du Sud : demande soutenue pour les oranges Valencia de petit calibre -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">En Afrique du Sud, la saison des agrumes dans la region du Cap se concentre sur les oranges Valencia de petits calibres, notamment les tailles 74, 88 et 105. La demande du marche est actuellement orientee vers ces petits fruits, ce qui complique l&#x27;ecoulement des calibres plus importants. Les producteurs locaux esperent egalement une reprise du marche pour les mandarines tardives. <span class=\"news-reason\">Contient des precisions sur les calibres (74, 88, 105) et les tendances de la demande pour les agrumes, produit coeur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">South Africa: high demand for small-caliber Valencia oranges -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">In South Africa, the citrus season in the Cape region is focusing on small-caliber Valencia oranges, particularly sizes 74, 88, and 105. Market demand is currently oriented towards these small fruits, which complicates the movement of larger calibers. Local producers are also hoping for a market recovery for late mandarins. <span class=\"news-reason\">Contains details on calibers (74, 88, 105) and demand trends for citrus, Mehadrin&#x27;s core product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">דרום אפריקה: ביקוש חזק לתפוזי ולנסיה בגדלים קטנים -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">בדרום אפריקה, עונת ההדרים באזור הכף מתמקדת בתפוזי ולנסיה בגדלים קטנים, במיוחד גדלים 74, 88 ו-105. הביקוש בשוק מכוון כעת לפירות הקטנים הללו, מה שמקשה על מכירת הגדלים הגדולים יותר. המגדלים המקומיים מקווים גם להתאוששות השוק עבור המנדרינות המאוחרות. <span class=\"news-reason\">מכיל פרטים מדויקים על הגדלים (74, 88, 105) ומגמות הביקוש להדרים, מוצר הליבה של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
