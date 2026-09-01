@@ -1,25 +1,61 @@
 {
-  "last_updated": "2026-09-01T12:32:07.526840+00:00",
-  "article_count": 21,
+  "last_updated": "2026-09-01T14:02:19.410321+00:00",
+  "article_count": 24,
   "attention_points": [
     {
-      "id": "attention-465ea3640835c4ba",
-      "article_id": "1788265927_1",
-      "url": "https://www.freshplaza.com/article/9868465/chilean-avocado-crop-forecast-to-reach-17-year-high/",
+      "id": "attention-0bdf77a20bf3e8d3",
+      "article_id": "1788271339_2",
+      "url": "https://www.freshplaza.com/article/9868199/ample-volume-marks-2026-27-medjool-date-crop/",
       "source": "FreshPlaza",
-      "title": "Chili : Prévisions de récolte record pour l'avocat",
-      "summary": "La production d'avocats au Chili est projetée à 285 000 tonnes pour la saison 2026-2027, soit une augmentation de 10 % par rapport aux 265 000 tonnes de la saison précédente.",
-      "origin_code": "CHL",
-      "origin_label": "Chili",
+      "title": "Volumes abondants et récolte précoce pour la datte Medjool",
+      "summary": "La campagne 2026-2027 des dattes Medjool aux États-Unis commence avec des perspectives positives.",
+      "origin_code": "USA",
+      "origin_label": "États-Unis",
       "published_at": "2026-09-01T13:29:00+02:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [
+        "date"
+      ],
+      "age_hours": 2
+    },
+    {
+      "id": "attention-1107355d0eb4944b",
+      "article_id": "1788271339_0",
+      "url": "https://www.freshplaza.com/article/9868312/avocado-frost-losses-assessed-across-new-zealand/",
+      "source": "FreshPlaza",
+      "title": "Pertes de récoltes d'avocats consécutives au gel en Nouvelle-Zélande",
+      "summary": "Les producteurs d'avocats de Nouvelle-Zélande évaluent les pertes suite au gel survenu les 5 et 6 août dans les régions de Northland et Bay of Plenty.",
+      "origin_code": "NZL",
+      "origin_label": "Nouvelle-Zelande",
+      "published_at": "2026-09-01T13:29:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
+      "products": [
         "avocat"
       ],
-      "age_hours": 1
+      "age_hours": 2
+    },
+    {
+      "id": "attention-7cc0429423990c86",
+      "article_id": "1788271339_1",
+      "url": "https://www.freshplaza.com/article/9868225/airport-delays-in-kenya-threaten-fresh-produce-exports/",
+      "source": "FreshPlaza",
+      "title": "Kenya : les retards aéroportuaires menacent les exportations",
+      "summary": "Une grève perlée des travailleurs de l'aviation à l'aéroport international Jomo Kenyatta (JKIA) au Kenya perturbe les exportations de produits frais.",
+      "origin_code": "KEN",
+      "origin_label": "Kenya",
+      "published_at": "2026-09-01T13:29:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
+      "products": [],
+      "age_hours": 2
     },
     {
       "id": "attention-e2dd74cecefc16e9",
@@ -38,48 +74,60 @@
       "products": [
         "ginger"
       ],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-4c38780b6a933ac7",
-      "article_id": "1788238891_1",
-      "url": "https://www.freshfruitportal.com/news/2026/08/31/morocco-avocado-conf/",
-      "source": "Fresh Fruit Portal",
-      "title": "Lancement d'une plateforme internationale pour la filière de l'avocat",
-      "summary": "Green Smile annonce le lancement de la Morocco Avocado Conference 2026 (MAC), la première conférence internationale entièrement dédiée à la filière marocaine de l'avocat.",
-      "origin_code": "MAR",
-      "origin_label": "Maroc",
-      "published_at": "2026-08-31T19:43:24+00:00",
-      "published_at_source": "rss",
-      "signal_type": "information",
-      "signal_label": "Information",
-      "icon": "information",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 16
-    },
-    {
-      "id": "attention-7abaac12debfc325",
-      "article_id": "1788195726_0",
-      "url": "https://www.freshfruitportal.com/news/2026/08/31/peru-mango/",
-      "source": "Fresh Fruit Portal",
-      "title": "La filière de la mangue au Pérou confrontée",
-      "summary": "Le secteur de la mangue péruvienne est confronté à des défis majeurs compromettant son avenir, notamment une baisse de la rentabilité pour les producteurs, les impacts du changement climatique et un faible.",
-      "origin_code": "PER",
-      "origin_label": "Pérou",
-      "published_at": "2026-08-31T12:00:16+00:00",
-      "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [
-        "mango"
-      ],
-      "age_hours": 24
+      "age_hours": 3
     }
   ],
   "articles": [
+    {
+      "id": "1788271339_2",
+      "timestamp": "2026-09-01T14:02:19.410321+00:00",
+      "title": "Volumes abondants et récolte précoce pour la datte Medjool 2026-2027 -- 01/09/2026 13:29",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [
+        "date"
+      ],
+      "origins": [
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Volumes abondants et récolte précoce pour la datte Medjool 2026-2027 -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">La campagne 2026-2027 des dattes Medjool aux États-Unis commence avec des perspectives positives. Grâce à des conditions météorologiques optimales dans la Bard Valley, la récolte a débuté tôt en août, affichant des volumes abondants et une qualité de fruit supérieure par rapport aux saisons précédentes. <span class=\"news-reason\">Informations de volume et de début de campagne sur un produit stratégique en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868199/ample-volume-marks-2026-27-medjool-date-crop/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Abundant volumes and early harvest for the 2026-2027 Medjool date -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">The 2026-2027 Medjool date campaign in the United States is starting with positive prospects. Thanks to optimal weather conditions in the Bard Valley, harvesting began early in August, showing abundant volumes and superior fruit quality compared to previous seasons. <span class=\"news-reason\">Volume and campaign start information for a strategic seasonal product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868199/ample-volume-marks-2026-27-medjool-date-crop/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">כמויות בשפע ויבול מוקדם לתמר מג'הול 2026-2027 -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">עונת 2026-2027 של תמר המג'הול בארצות הברית מתחילה עם תחזיות חיוביות. הודות לתנאי מזג אוויר אופטימליים בעמק בארד (Bard Valley), הקטיף החל מוקדם באוגוסט, עם כמויות בשפע ואיכות פרי מעולה בהשוואה לעונות קודמות. <span class=\"news-reason\">מידע על כמויות ותחילת העונה עבור מוצר אסטרטגי בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868199/ample-volume-marks-2026-27-medjool-date-crop/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1788271339_1",
+      "timestamp": "2026-09-01T14:02:19.410321+00:00",
+      "title": "Kenya : les retards aéroportuaires menacent les exportations de produits frais -- 01/09/2026 13:29",
+      "category": "ALERTES SUPPLY",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "KEN"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Kenya : les retards aéroportuaires menacent les exportations de produits frais -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">Une grève perlée des travailleurs de l&#x27;aviation à l&#x27;aéroport international Jomo Kenyatta (JKIA) au Kenya perturbe les exportations de produits frais. Le Fresh Produce Consortium du Kenya avertit que ces retards menacent directement la qualité des cargaisons périssables, notamment les fruits et légumes, dont la valeur dépend d&#x27;une expédition rapide. <span class=\"news-reason\">Alerte logistique majeure impactant la disponibilité et la qualité des fruits d&#x27;une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868225/airport-delays-in-kenya-threaten-fresh-produce-exports/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Kenya: airport delays threaten fresh produce exports -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">A go-slow strike by aviation workers at Jomo Kenyatta International Airport (JKIA) in Kenya is disrupting fresh produce exports. The Fresh Produce Consortium of Kenya warns that these delays directly threaten the quality of perishable shipments, particularly fruits and vegetables, whose value depends on rapid shipping. <span class=\"news-reason\">Major logistics alert impacting the availability and quality of fruit from a competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868225/airport-delays-in-kenya-threaten-fresh-produce-exports/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">קניה: עיכובים בשדות התעופה מאיימים על יצוא התוצרת הטרייה -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">שביתת האטה של עובדי התעופה בנמל התעופה הבינלאומי ג'ומו קניאטה (JKIA) בקניה משבשת את יצוא התוצרת הטרייה. קונסורציום התוצרת הטרייה של קניה מזהיר כי עיכובים אלו מאיימים ישירות על איכות המטענים המתכלים, ובפרט פירות וירקות, שערכם תלוי במשלוח מהיר. <span class=\"news-reason\">התראת לוגיסטיקה משמעותית המשפיעה על הזמינות והאיכות של פירות ממקור מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868225/airport-delays-in-kenya-threaten-fresh-produce-exports/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1788271339_0",
+      "timestamp": "2026-09-01T14:02:19.410321+00:00",
+      "title": "Pertes de récoltes d&#x27;avocats consécutives au gel en Nouvelle-Zélande -- 01/09/2026 13:29",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "NZL"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pertes de récoltes d&#x27;avocats consécutives au gel en Nouvelle-Zélande -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">Les producteurs d&#x27;avocats de Nouvelle-Zélande évaluent les pertes suite au gel survenu les 5 et 6 août dans les régions de Northland et Bay of Plenty. Les températures sont descendues jusqu&#x27;à -4°C, causant des dommages aux fruits et au feuillage. Certains vergers signalent des impacts significatifs sur le potentiel de récolte. <span class=\"news-reason\">Alerte supply sur un produit Mehadrin chez une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868312/avocado-frost-losses-assessed-across-new-zealand/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Avocado crop losses following frost in New Zealand -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">New Zealand avocado growers are assessing losses following frost on August 5 and 6 in the Northland and Bay of Plenty regions. Temperatures dropped as low as -4°C, causing damage to fruit and foliage. Some orchards report significant impacts on harvest potential. <span class=\"news-reason\">Supply alert on a Mehadrin product from a competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868312/avocado-frost-losses-assessed-across-new-zealand/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">אובדן יבול אבוקדו בעקבות קרה בניו זילנד -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">מגדלי האבוקדו בניו זילנד מעריכים את האבדות בעקבות הקרה שאירעה ב-5 וב-6 באוגוסט באזורי נורת'לנד וביי אוף פלנטי. הטמפרטורות ירדו ל-4 מעלות מתחת לאפס, מה שגרם לנזקים לפרי ולעלווה. מטעים מסוימים מדווחים על השפעות משמעותיות על פוטנציאל היבול. <span class=\"news-reason\">התראת אספקה על מוצר מהדרין ממקור מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868312/avocado-frost-losses-assessed-across-new-zealand/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1788265927_2",
       "timestamp": "2026-09-01T12:32:07.526840+00:00",
@@ -153,7 +201,7 @@
     {
       "id": "1788238891_0",
       "timestamp": "2026-09-01T05:01:31.754158+00:00",
-      "title": "Une baisse de 19 % des exportations d&#x27;oranges sud-africaines est prévue pour 2026.",
+      "title": "Baisse de 19 % des exportations d&#x27;oranges sud-africaines prévue pour 2026.",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -164,7 +212,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Une baisse de 19 % des exportations d&#x27;oranges sud-africaines est prévue pour 2026. -- <span class=\"news-date\">01/09/2026 06:05</span></div><div class=\"news-body\">La saison 2026 s&#x27;annonce difficile pour les agrumiculteurs d&#x27;Afrique australe. Suite à une révision des estimations par le groupe de travail variétal, les prévisions d&#x27;exportation pour les oranges Valencia et Navel ont été ajustées à la baisse, avec une réduction totale estimée à 19 % par rapport aux prévisions initiales. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur la réduction des volumes d&#x27;exportation d&#x27;une origine concurrente majeure pour les oranges (Valencia et Navel), produit clé de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866071/nel-2026-si-stima-una-riduzione-fino-al-19-per-cento-per-le-esportazioni-di-arance-sudafricane/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse de 19 % des exportations d&#x27;oranges sud-africaines prévue pour 2026. -- <span class=\"news-date\">01/09/2026 06:05</span></div><div class=\"news-body\">La saison 2026 s&#x27;annonce difficile pour les agrumiculteurs d&#x27;Afrique australe. Suite à une révision des estimations par le groupe de travail variétal, les prévisions d&#x27;exportation pour les oranges Valencia et Navel ont été ajustées à la baisse, avec une réduction totale estimée à 19 % par rapport aux prévisions initiales. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur la réduction des volumes d&#x27;exportation d&#x27;une origine concurrente majeure pour les oranges (Valencia et Navel), produit clé de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866071/nel-2026-si-stima-una-riduzione-fino-al-19-per-cento-per-le-esportazioni-di-arance-sudafricane/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">A 19% decrease in South African orange exports is projected for 2026. -- <span class=\"news-date\">01/09/2026 06:05</span></div><div class=\"news-body\">The 2026 season is shaping up to be difficult for citrus growers in Southern Africa. Following a revision of estimates by the varietal working group, export forecasts for Valencia and Navel oranges have been adjusted downwards, with an estimated total reduction of 19% compared to initial forecasts. <span class=\"news-reason\">The article provides precise figures on the reduction in export volumes from a major competing origin for oranges (Valencia and Navel), a key product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866071/nel-2026-si-stima-una-riduzione-fino-al-19-per-cento-per-le-esportazioni-di-arance-sudafricane/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">ירידה של 19% ביצוא התפוזים מדרום אפריקה צפויה בשנת 2026. -- <span class=\"news-date\">01/09/2026 06:05</span></div><div class=\"news-body\">עונת 2026 נראית מאתגרת עבור מגדלי ההדרים בדרום אפריקה. בעקבות עדכון ההערכות על ידי קבוצת העבודה הזנית, תחזיות היצוא עבור תפוזי ולנסיה ונאבל עודכנו כלפי מטה, עם הפחתה כוללת המוערכת ב-19% לעומת התחזיות הראשוניות. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על הפחתת כמויות היצוא ממקור מתחרה מרכזי לתפוזים (ולנסיה ונאבל), מוצר מפתח של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866071/nel-2026-si-stima-una-riduzione-fino-al-19-per-cento-per-le-esportazioni-di-arance-sudafricane/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -405,7 +453,7 @@
     {
       "id": "1788152535_1",
       "timestamp": "2026-08-31T05:02:15.942657+00:00",
-      "title": "Tunisie : Hausse de 13,3 % des exportations de dattes sur dix mois",
+      "title": "Tunisie : Progression de 13,3 % des exportations de dattes sur dix mois",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica"
@@ -416,14 +464,14 @@
       "origins": [
         "TUN"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tunisie : Hausse de 13,3 % des exportations de dattes sur dix mois -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">Les exportations tunisiennes de dattes ont atteint 144 100 tonnes au cours des dix premiers mois de la campagne 2025/2026. Ce volume marque une progression de 13,3 % par rapport aux 127 200 tonnes enregistrees durant la meme periode de la saison precedente, selon les donnees de l&#x27;Observatoire national de l&#x27;agriculture (Onagri). <span class=\"news-reason\">Donnees chiffrees precises sur les volumes d&#x27;exportation d&#x27;un concurrent direct sur le segment des dattes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867744/tunisia-export-di-datteri-in-aumento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tunisie : Progression de 13,3 % des exportations de dattes sur dix mois -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">Les exportations tunisiennes de dattes ont atteint 144 100 tonnes au cours des dix premiers mois de la campagne 2025/2026. Ce volume marque une progression de 13,3 % par rapport aux 127 200 tonnes enregistrees durant la meme periode de la saison precedente, selon les donnees de l&#x27;Observatoire national de l&#x27;agriculture (Onagri). <span class=\"news-reason\">Donnees chiffrees precises sur les volumes d&#x27;exportation d&#x27;un concurrent direct sur le segment des dattes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867744/tunisia-export-di-datteri-in-aumento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Tunisia: 13.3% increase in date exports over ten months -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">Tunisian date exports reached 144,100 tonnes during the first ten months of the 2025/2026 campaign. This volume marks a 13.3% increase compared to the 127,200 tonnes recorded during the same period of the previous season, according to data from the National Observatory of Agriculture (Onagri). <span class=\"news-reason\">Precise numerical data on export volumes from a direct competitor in the dates segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867744/tunisia-export-di-datteri-in-aumento/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">תוניסיה: עלייה של 13.3% בייצוא התמרים לאורך עשרה חודשים -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">ייצוא התמרים של תוניסיה הגיע ל-144,100 טון במהלך עשרת החודשים הראשונים של עונת 2025/2026. נפח זה מהווה עלייה של 13.3% לעומת 127,200 הטונות שנרשמו בתקופה המקבילה בעונה הקודמת, על פי נתוני המצפה הלאומי לחקלאות (Onagri). <span class=\"news-reason\">נתונים מספריים מדויקים על נפחי הייצוא של מתחרה ישיר במגזר התמרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867744/tunisia-export-di-datteri-in-aumento/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1788152535_0",
       "timestamp": "2026-08-31T05:02:15.942657+00:00",
-      "title": "Afrique du Sud : demande soutenue pour les oranges Valencia de petits calibres",
+      "title": "Afrique du Sud : demande soutenue pour les oranges Valencia de petit calibre",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -435,7 +483,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique du Sud : demande soutenue pour les oranges Valencia de petits calibres -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">En Afrique du Sud, la saison des agrumes dans la region du Cap se concentre sur les oranges Valencia de petits calibres, notamment les tailles 74, 88 et 105. La demande du marche est actuellement orientee vers ces petits fruits, ce qui complique l&#x27;ecoulement des calibres plus importants. Les producteurs locaux esperent egalement une reprise du marche pour les mandarines tardives. <span class=\"news-reason\">Contient des precisions sur les calibres (74, 88, 105) et les tendances de la demande pour les agrumes, produit coeur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique du Sud : demande soutenue pour les oranges Valencia de petit calibre -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">En Afrique du Sud, la saison des agrumes dans la region du Cap se concentre sur les oranges Valencia de petits calibres, notamment les tailles 74, 88 et 105. La demande du marche est actuellement orientee vers ces petits fruits, ce qui complique l&#x27;ecoulement des calibres plus importants. Les producteurs locaux esperent egalement une reprise du marche pour les mandarines tardives. <span class=\"news-reason\">Contient des precisions sur les calibres (74, 88, 105) et les tendances de la demande pour les agrumes, produit coeur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">South Africa: high demand for small-caliber Valencia oranges -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">In South Africa, the citrus season in the Cape region is focusing on small-caliber Valencia oranges, particularly sizes 74, 88, and 105. Market demand is currently oriented towards these small fruits, which complicates the movement of larger calibers. Local producers are also hoping for a market recovery for late mandarins. <span class=\"news-reason\">Contains details on calibers (74, 88, 105) and demand trends for citrus, Mehadrin&#x27;s core product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">דרום אפריקה: ביקוש חזק לתפוזי ולנסיה בגדלים קטנים -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">בדרום אפריקה, עונת ההדרים באזור הכף מתמקדת בתפוזי ולנסיה בגדלים קטנים, במיוחד גדלים 74, 88 ו-105. הביקוש בשוק מכוון כעת לפירות הקטנים הללו, מה שמקשה על מכירת הגדלים הגדולים יותר. המגדלים המקומיים מקווים גם להתאוששות השוק עבור המנדרינות המאוחרות. <span class=\"news-reason\">מכיל פרטים מדויקים על הגדלים (74, 88, 105) ומגמות הביקוש להדרים, מוצר הליבה של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     }
