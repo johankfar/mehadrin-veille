@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-02T06:33:05.461201+00:00",
-  "article_count": 35,
+  "last_updated": "2026-09-02T08:02:43.086567+00:00",
+  "article_count": 37,
   "attention_points": [
     {
       "id": "attention-62db0188073280f2",
       "article_id": "1788330785_0",
       "url": "https://www.freshplaza.it/article/9866950/in-spagna-inizia-una-stagione-dei-mango-che-si-preannuncia-piu-breve-e-piu-intensa/",
       "source": "FreshPlaza IT",
-      "title": "Prévisions de baisse pour la campagne de mangues",
+      "title": "Prévisions à la baisse pour la campagne de mangues",
       "summary": "La saison des mangues débute dans les provinces de Malaga et Grenade avec des perspectives de récolte inférieure à l'année record 2025.",
       "origin_code": "ESP",
       "origin_label": "Espagne",
@@ -19,14 +19,31 @@
       "products": [
         "mango"
       ],
-      "age_hours": 2
+      "age_hours": 4
+    },
+    {
+      "id": "attention-9f85efee8b12928e",
+      "article_id": "1788336163_1",
+      "url": "https://www.freshplaza.it/article/9867676/l-incertezza-ferma-gli-acquisti-di-agrumi-in-campo-in-vista-della-stagione-2026-27/",
+      "source": "FreshPlaza IT",
+      "title": "Espagne : incertitude et suspension des achats d'agrumes sur",
+      "summary": "En Espagne, les achats d'agrumes en plein champ pour la campagne 2026/27 sont quasiment à l'arrêt.",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
+      "published_at": "2026-09-02T06:00:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
+      "products": [],
+      "age_hours": 4
     },
     {
       "id": "attention-51f056921cc3b468",
       "article_id": "1788330785_4",
       "url": "https://www.freshplaza.es/article/9868409/honduras-prepara-su-primer-envio-de-aguacate-por-via-aerea-con-destino-a-dubai/",
       "source": "FreshPlaza ES",
-      "title": "Le Honduras inaugure ses premières exportations d'avocats vers Dubaï",
+      "title": "Le Honduras lance ses premières exportations d'avocats vers Dubaï",
       "summary": "Le Honduras s'apprête à réaliser sa première expédition d'avocats vers le marché de Dubaï par voie aérienne.",
       "origin_code": null,
       "origin_label": null,
@@ -38,7 +55,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 17
+      "age_hours": 18
     },
     {
       "id": "attention-de780cb0a2cb6264",
@@ -57,33 +74,45 @@
       "products": [
         "mango"
       ],
-      "age_hours": 17
-    },
-    {
-      "id": "attention-1107355d0eb4944b",
-      "article_id": "1788271339_0",
-      "url": "https://www.freshplaza.com/article/9868312/avocado-frost-losses-assessed-across-new-zealand/",
-      "source": "FreshPlaza",
-      "title": "Pertes de récoltes d'avocats consécutives au gel en Nouvelle-Zélande",
-      "summary": "Les producteurs d'avocats de Nouvelle-Zélande évaluent les pertes suite au gel survenu les 5 et 6 août dans les régions de Northland et Bay of Plenty.",
-      "origin_code": "NZL",
-      "origin_label": "Nouvelle-Zelande",
-      "published_at": "2026-09-01T13:29:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 19
+      "age_hours": 18
     }
   ],
   "articles": [
     {
+      "id": "1788336163_2",
+      "timestamp": "2026-09-02T08:02:43.086567+00:00",
+      "title": "Le changement climatique accroît la volatilité du secteur des agrumes en Europe -- 01/09/2026 13:29",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le changement climatique accroît la volatilité du secteur des agrumes en Europe -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">Selon une étude de RaboResearch, le changement climatique augmente la volatilité de la production fruitière européenne, impactant particulièrement les agrumes. Les effets se manifestent par une instabilité des rendements, de la qualité des fruits et une modification des calendriers de récolte. <span class=\"news-reason\">Information stratégique sur les risques de production (qualité, rendement) chez les concurrents européens.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868223/climate-risks-increase-volatility-in-europe-s-fruit-sector/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Climate change increases volatility in the European citrus sector -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">According to a RaboResearch study, climate change is increasing the volatility of European fruit production, particularly impacting citrus fruits. The effects are manifested by instability in yields, fruit quality, and changes in harvest schedules. <span class=\"news-reason\">Strategic information on production risks (quality, yield) among European competitors.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868223/climate-risks-increase-volatility-in-europe-s-fruit-sector/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">שינויי האקלים מגבירים את התנודתיות במגזר פירות ההדר באירופה -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">על פי מחקר של RaboResearch, שינויי האקלים מגבירים את התנודתיות בייצור הפירות באירופה, ומשפיעים במיוחד על פירות ההדר. ההשפעות באות לידי ביטוי בחוסר יציבות ביבולים, באיכות הפירות ובשינוי בלוחות הזמנים של הקטיף. <span class=\"news-reason\">מידע אסטרטגי על סיכוני ייצור (איכות, יבול) אצל מתחרים אירופאים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868223/climate-risks-increase-volatility-in-europe-s-fruit-sector/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1788336163_1",
+      "timestamp": "2026-09-02T08:02:43.086567+00:00",
+      "title": "Espagne : incertitude et suspension des achats d&#x27;agrumes sur pied",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia",
+        "Sébastien"
+      ],
+      "products": [],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Espagne : incertitude et suspension des achats d&#x27;agrumes sur pied -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">En Espagne, les achats d&#x27;agrumes en plein champ pour la campagne 2026/27 sont quasiment à l&#x27;arrêt. Cette situation contraste avec les années précédentes et s&#x27;explique par les mauvais résultats de la saison passée et la pression concurrentielle accrue des pays tiers sur le marché européen. <span class=\"news-reason\">Alerte sur la stratégie d&#x27;approvisionnement d&#x27;un concurrent majeur impactant la saison à venir.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867676/l-incertezza-ferma-gli-acquisti-di-agrumi-in-campo-in-vista-della-stagione-2026-27/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Spain: uncertainty and suspension of standing citrus purchases -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">In Spain, field citrus purchases for the 2026/27 campaign are virtually at a standstill. This situation contrasts with previous years and is explained by the poor results of the past season and increased competitive pressure from third countries on the European market. <span class=\"news-reason\">Alert on the supply strategy of a major competitor impacting the upcoming season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867676/l-incertezza-ferma-gli-acquisti-di-agrumi-in-campo-in-vista-della-stagione-2026-27/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ספרד: חוסר ודאות והשעיית רכישות פירות הדר בשטח -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">בספרד, רכישות פירות הדר בשטח לעונת 2026/27 כמעט נעצרו לחלוטין. מצב זה עומד בניגוד לשנים קודמות ומוסבר על ידי התוצאות הגרועות של העונה שעברה והלחץ התחרותי הגובר מצד מדינות שלישיות בשוק האירופי. <span class=\"news-reason\">התראה על אסטרטגיית האספקה של מתחרה מרכזי המשפיעה על העונה הקרובה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867676/l-incertezza-ferma-gli-acquisti-di-agrumi-in-campo-in-vista-della-stagione-2026-27/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
+    },
+    {
       "id": "1788330785_4",
       "timestamp": "2026-09-02T06:33:05.461201+00:00",
-      "title": "Le Honduras inaugure ses premières exportations d&#x27;avocats vers Dubaï",
+      "title": "Le Honduras lance ses premières exportations d&#x27;avocats vers Dubaï",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -92,7 +121,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Honduras inaugure ses premières exportations d&#x27;avocats vers Dubaï -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">Le Honduras s&#x27;apprête à réaliser sa première expédition d&#x27;avocats vers le marché de Dubaï par voie aérienne. Cette opération est le fruit d&#x27;une alliance entre l&#x27;Association des producteurs d&#x27;avocats du Honduras (ASPAH) et la société Fresh Earth Produce pour diversifier les débouchés commerciaux. <span class=\"news-reason\">Ouverture de nouveaux marchés pour un produit Mehadrin par une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868409/honduras-prepara-su-primer-envio-de-aguacate-por-via-aerea-con-destino-a-dubai/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Honduras lance ses premières exportations d&#x27;avocats vers Dubaï -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">Le Honduras s&#x27;apprête à réaliser sa première expédition d&#x27;avocats vers le marché de Dubaï par voie aérienne. Cette opération est le fruit d&#x27;une alliance entre l&#x27;Association des producteurs d&#x27;avocats du Honduras (ASPAH) et la société Fresh Earth Produce pour diversifier les débouchés commerciaux. <span class=\"news-reason\">Ouverture de nouveaux marchés pour un produit Mehadrin par une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868409/honduras-prepara-su-primer-envio-de-aguacate-por-via-aerea-con-destino-a-dubai/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Honduras launches its first avocado exports to Dubai -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">Honduras is preparing to make its first avocado shipment to the Dubai market by air. This operation is the result of an alliance between the Avocado Producers Association of Honduras (ASPAH) and Fresh Earth Produce to diversify commercial outlets. <span class=\"news-reason\">Opening of new markets for a Mehadrin product by a competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868409/honduras-prepara-su-primer-envio-de-aguacate-por-via-aerea-con-destino-a-dubai/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">הונדורס משיקה את ייצוא האבוקדו הראשון שלה לדובאי -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">הונדורס נערכת לביצוע משלוח האבוקדו הראשון שלה לשוק בדובאי בדרך האוויר. פעילות זו היא תוצאה של ברית בין איגוד מגדלי האבוקדו של הונדורס (ASPAH) לבין חברת Fresh Earth Produce לגיוון אפיקי השיווק. <span class=\"news-reason\">פתיחת שווקים חדשים עבור מוצר מהדרין על ידי מקור מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868409/honduras-prepara-su-primer-envio-de-aguacate-por-via-aerea-con-destino-a-dubai/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -134,7 +163,7 @@
     {
       "id": "1788330785_0",
       "timestamp": "2026-09-02T06:33:05.461201+00:00",
-      "title": "Prévisions de baisse pour la campagne de mangues en Espagne",
+      "title": "Prévisions à la baisse pour la campagne de mangues en Espagne",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Jessica",
@@ -146,7 +175,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Prévisions de baisse pour la campagne de mangues en Espagne -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">La saison des mangues débute dans les provinces de Malaga et Grenade avec des perspectives de récolte inférieure à l&#x27;année record 2025. Cette baisse de production est attribuée à des conditions météorologiques hivernales. La campagne s&#x27;annonce plus brève et plus intense que la précédente. <span class=\"news-reason\">Détaille le début de campagne d&#x27;un produit Mehadrin chez un concurrent majeur avec des alertes sur les volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866950/in-spagna-inizia-una-stagione-dei-mango-che-si-preannuncia-piu-breve-e-piu-intensa/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Prévisions à la baisse pour la campagne de mangues en Espagne -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">La saison des mangues débute dans les provinces de Malaga et Grenade avec des perspectives de récolte inférieure à l&#x27;année record 2025. Cette baisse de production est attribuée à des conditions météorologiques hivernales. La campagne s&#x27;annonce plus brève et plus intense que la précédente. <span class=\"news-reason\">Détaille le début de campagne d&#x27;un produit Mehadrin chez un concurrent majeur avec des alertes sur les volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866950/in-spagna-inizia-una-stagione-dei-mango-che-si-preannuncia-piu-breve-e-piu-intensa/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Outlook for decline in Spain's mango season -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">The mango season begins in the provinces of Malaga and Granada with prospects of a lower harvest than the record year 2025. This production decline is attributed to winter weather conditions. The campaign is expected to be shorter and more intense than the previous one. <span class=\"news-reason\">Details the start of the season for a Mehadrin product at a major competitor with volume alerts.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866950/in-spagna-inizia-una-stagione-dei-mango-che-si-preannuncia-piu-breve-e-piu-intensa/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">תחזיות לירידה בעונת המנגו בספרד -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">עונת המנגו מתחילה במחוזות מלאגה וגרנדה עם תחזיות ליבול נמוך יותר משנת השיא 2025. ירידה זו בייצור מיוחסת לתנאי מזג האוויר בחורף. העונה צפויה להיות קצרה ואינטנסיבית יותר מקודמתה. <span class=\"news-reason\">מפרט את תחילת העונה של מוצר מהדרין אצל מתחרה מרכזי עם התראות על כמויות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866950/in-spagna-inizia-una-stagione-dei-mango-che-si-preannuncia-piu-breve-e-piu-intensa/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -206,7 +235,7 @@
     {
       "id": "1788325346_1",
       "timestamp": "2026-09-02T05:02:26.583921+00:00",
-      "title": "Baisse significative de la récolte de mangues à Almuñécar en 2026",
+      "title": "Chute significative de la récolte de mangues à Almuñécar en 2026",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -217,7 +246,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse significative de la récolte de mangues à Almuñécar en 2026 -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">La production de mangues dans la zone d&#x27;Almuñécar (Costa Tropical) est estimée entre 12 000 et 15 000 tonnes pour la campagne 2026. Ce volume est en retrait massif par rapport aux 36 000 tonnes produites lors des saisons précédentes, en raison de l&#x27;impact des tempêtes hivernales sur les vergers. <span class=\"news-reason\">Fournit des prévisions de volumes précises chez un concurrent direct (Espagne) pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868471/almunecar-preve-una-cosecha-de-mango-de-entre-12-000-y-15-000-toneladas-en-2026/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Chute significative de la récolte de mangues à Almuñécar en 2026 -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">La production de mangues dans la zone d&#x27;Almuñécar (Costa Tropical) est estimée entre 12 000 et 15 000 tonnes pour la campagne 2026. Ce volume est en retrait massif par rapport aux 36 000 tonnes produites lors des saisons précédentes, en raison de l&#x27;impact des tempêtes hivernales sur les vergers. <span class=\"news-reason\">Fournit des prévisions de volumes précises chez un concurrent direct (Espagne) pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868471/almunecar-preve-una-cosecha-de-mango-de-entre-12-000-y-15-000-toneladas-en-2026/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Significant decline in the mango harvest in Almuñécar in 2026 -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">Mango production in the Almuñécar area (Costa Tropical) is estimated at between 12,000 and 15,000 tons for the 2026 season. This volume is a massive drop compared to the 36,000 tons produced in previous seasons, due to the impact of winter storms on the orchards. <span class=\"news-reason\">Provides precise volume forecasts for a direct competitor (Spain) for a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868471/almunecar-preve-una-cosecha-de-mango-de-entre-12-000-y-15-000-toneladas-en-2026/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">נסיגה משמעותית ביבול המנגו באלמונייקאר בשנת 2026 -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">ייצור המנגו באזור אלמונייקאר (קוסטה טרופיקאל) מוערך בין 12,000 ל-15,000 טונות לעונת 2026. נפח זה נמצא בנסיגה מאסיבית לעומת 36,000 הטונות שיוצרו בעונות קודמות, עקב השפעת סערות החורף על המטעים. <span class=\"news-reason\">מספק תחזיות נפח מדויקות אצל מתחרה ישיר (ספרד) עבור מוצר של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868471/almunecar-preve-una-cosecha-de-mango-de-entre-12-000-y-15-000-toneladas-en-2026/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -397,7 +426,7 @@
     {
       "id": "1788238891_0",
       "timestamp": "2026-09-01T05:01:31.754158+00:00",
-      "title": "Baisse de 19 % des exportations d&#x27;oranges d&#x27;Afrique du Sud prévue pour 2026",
+      "title": "Afrique du Sud : recul de 19 % des exportations d&#x27;oranges prévu pour 2026",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -408,7 +437,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse de 19 % des exportations d&#x27;oranges d&#x27;Afrique du Sud prévue pour 2026 -- <span class=\"news-date\">01/09/2026 06:05</span></div><div class=\"news-body\">La saison 2026 s&#x27;annonce difficile pour les agrumiculteurs d&#x27;Afrique australe. Suite à une révision des estimations par le groupe de travail variétal, les prévisions d&#x27;exportation pour les oranges Valencia et Navel ont été ajustées à la baisse, avec une réduction totale estimée à 19 % par rapport aux prévisions initiales. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur la réduction des volumes d&#x27;exportation d&#x27;une origine concurrente majeure pour les oranges (Valencia et Navel), produit clé de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866071/nel-2026-si-stima-una-riduzione-fino-al-19-per-cento-per-le-esportazioni-di-arance-sudafricane/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique du Sud : recul de 19 % des exportations d&#x27;oranges prévu pour 2026 -- <span class=\"news-date\">01/09/2026 06:05</span></div><div class=\"news-body\">La saison 2026 s&#x27;annonce difficile pour les agrumiculteurs d&#x27;Afrique australe. Suite à une révision des estimations par le groupe de travail variétal, les prévisions d&#x27;exportation pour les oranges Valencia et Navel ont été ajustées à la baisse, avec une réduction totale estimée à 19 % par rapport aux prévisions initiales. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur la réduction des volumes d&#x27;exportation d&#x27;une origine concurrente majeure pour les oranges (Valencia et Navel), produit clé de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866071/nel-2026-si-stima-una-riduzione-fino-al-19-per-cento-per-le-esportazioni-di-arance-sudafricane/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">A 19% decrease in South African orange exports is projected for 2026. -- <span class=\"news-date\">01/09/2026 06:05</span></div><div class=\"news-body\">The 2026 season is shaping up to be difficult for citrus growers in Southern Africa. Following a revision of estimates by the varietal working group, export forecasts for Valencia and Navel oranges have been adjusted downwards, with an estimated total reduction of 19% compared to initial forecasts. <span class=\"news-reason\">The article provides precise figures on the reduction in export volumes from a major competing origin for oranges (Valencia and Navel), a key product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866071/nel-2026-si-stima-una-riduzione-fino-al-19-per-cento-per-le-esportazioni-di-arance-sudafricane/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">ירידה של 19% ביצוא התפוזים מדרום אפריקה צפויה בשנת 2026. -- <span class=\"news-date\">01/09/2026 06:05</span></div><div class=\"news-body\">עונת 2026 נראית מאתגרת עבור מגדלי ההדרים בדרום אפריקה. בעקבות עדכון ההערכות על ידי קבוצת העבודה הזנית, תחזיות היצוא עבור תפוזי ולנסיה ונאבל עודכנו כלפי מטה, עם הפחתה כוללת המוערכת ב-19% לעומת התחזיות הראשוניות. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על הפחתת כמויות היצוא ממקור מתחרה מרכזי לתפוזים (ולנסיה ונאבל), מוצר מפתח של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866071/nel-2026-si-stima-una-riduzione-fino-al-19-per-cento-per-le-esportazioni-di-arance-sudafricane/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -649,7 +678,7 @@
     {
       "id": "1788152535_1",
       "timestamp": "2026-08-31T05:02:15.942657+00:00",
-      "title": "Tunisie : Hausse de 13,3 % des exportations de dattes sur dix mois",
+      "title": "Tunisie : Progression de 13,3 % des exportations de dattes sur dix mois",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica"
@@ -660,7 +689,7 @@
       "origins": [
         "TUN"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tunisie : Hausse de 13,3 % des exportations de dattes sur dix mois -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">Les exportations tunisiennes de dattes ont atteint 144 100 tonnes au cours des dix premiers mois de la campagne 2025/2026. Ce volume marque une progression de 13,3 % par rapport aux 127 200 tonnes enregistrees durant la meme periode de la saison precedente, selon les donnees de l&#x27;Observatoire national de l&#x27;agriculture (Onagri). <span class=\"news-reason\">Donnees chiffrees precises sur les volumes d&#x27;exportation d&#x27;un concurrent direct sur le segment des dattes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867744/tunisia-export-di-datteri-in-aumento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tunisie : Progression de 13,3 % des exportations de dattes sur dix mois -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">Les exportations tunisiennes de dattes ont atteint 144 100 tonnes au cours des dix premiers mois de la campagne 2025/2026. Ce volume marque une progression de 13,3 % par rapport aux 127 200 tonnes enregistrees durant la meme periode de la saison precedente, selon les donnees de l&#x27;Observatoire national de l&#x27;agriculture (Onagri). <span class=\"news-reason\">Donnees chiffrees precises sur les volumes d&#x27;exportation d&#x27;un concurrent direct sur le segment des dattes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867744/tunisia-export-di-datteri-in-aumento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Tunisia: 13.3% increase in date exports over ten months -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">Tunisian date exports reached 144,100 tonnes during the first ten months of the 2025/2026 campaign. This volume marks a 13.3% increase compared to the 127,200 tonnes recorded during the same period of the previous season, according to data from the National Observatory of Agriculture (Onagri). <span class=\"news-reason\">Precise numerical data on export volumes from a direct competitor in the dates segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867744/tunisia-export-di-datteri-in-aumento/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">תוניסיה: עלייה של 13.3% בייצוא התמרים לאורך עשרה חודשים -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">ייצוא התמרים של תוניסיה הגיע ל-144,100 טון במהלך עשרת החודשים הראשונים של עונת 2025/2026. נפח זה מהווה עלייה של 13.3% לעומת 127,200 הטונות שנרשמו בתקופה המקבילה בעונה הקודמת, על פי נתוני המצפה הלאומי לחקלאות (Onagri). <span class=\"news-reason\">נתונים מספריים מדויקים על נפחי הייצוא של מתחרה ישיר במגזר התמרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867744/tunisia-export-di-datteri-in-aumento/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
