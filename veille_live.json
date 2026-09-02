@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-09-02T05:02:26.583921+00:00",
-  "article_count": 31,
+  "last_updated": "2026-09-02T06:33:05.461201+00:00",
+  "article_count": 35,
   "attention_points": [
     {
-      "id": "attention-b2e483bb916606c2",
-      "article_id": "1788325346_3",
-      "url": "https://www.freshplaza.it/article/9868349/al-via-la-raccolta-del-mango-in-basilicata-prospettive-di-crescita-per-superfici-e-calendario-produttivo/",
+      "id": "attention-62db0188073280f2",
+      "article_id": "1788330785_0",
+      "url": "https://www.freshplaza.it/article/9866950/in-spagna-inizia-una-stagione-dei-mango-che-si-preannuncia-piu-breve-e-piu-intensa/",
       "source": "FreshPlaza IT",
-      "title": "Début de la récolte de mangues en Basilicate",
-      "summary": "La récolte de mangues en Basilicate, Italie, doit débuter la semaine prochaine.",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
+      "title": "Prévisions de baisse pour la campagne de mangues",
+      "summary": "La saison des mangues débute dans les provinces de Malaga et Grenade avec des perspectives de récolte inférieure à l'année record 2025.",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
       "published_at": "2026-09-02T06:00:00+02:00",
       "published_at_source": "rss",
       "signal_type": "availability",
@@ -19,26 +19,45 @@
       "products": [
         "mango"
       ],
-      "age_hours": 1
+      "age_hours": 2
     },
     {
-      "id": "attention-d9f8f223e8fc9cf2",
-      "article_id": "1788325346_0",
-      "url": "https://www.freshplaza.es/article/9868484/chile-proyecta-exportar-667-000-toneladas-de-cerezas/",
+      "id": "attention-51f056921cc3b468",
+      "article_id": "1788330785_4",
+      "url": "https://www.freshplaza.es/article/9868409/honduras-prepara-su-primer-envio-de-aguacate-por-via-aerea-con-destino-a-dubai/",
       "source": "FreshPlaza ES",
-      "title": "L'UE enregistre un niveau record d'importations d'agrumes",
-      "summary": "L'Union européenne a atteint un volume record d'importations d'agrumes pour la saison en cours avec 1 572 564 tonnes.",
-      "origin_code": "CHL",
-      "origin_label": "Chili",
+      "title": "Le Honduras inaugure ses premières exportations d'avocats vers Dubaï",
+      "summary": "Le Honduras s'apprête à réaliser sa première expédition d'avocats vers le marché de Dubaï par voie aérienne.",
+      "origin_code": null,
+      "origin_label": null,
       "published_at": "2026-09-01T15:19:00+02:00",
       "published_at_source": "rss",
       "signal_type": "volume",
       "signal_label": "Volumes",
       "icon": "information",
       "products": [
-        "cherry"
+        "avocat"
       ],
-      "age_hours": 15
+      "age_hours": 17
+    },
+    {
+      "id": "attention-de780cb0a2cb6264",
+      "article_id": "1788330785_3",
+      "url": "https://www.freshplaza.es/article/9868128/la-inversion-en-vht-amplia-el-acceso-al-mercado-para-los-mangos-indios/",
+      "source": "FreshPlaza ES",
+      "title": "Investissements indiens dans le traitement thermique des mangues",
+      "summary": "L'exportateur indien Kay Bee Exports investit dans ses propres infrastructures de traitement thermique par la vapeur (VHT).",
+      "origin_code": "IND",
+      "origin_label": "Inde",
+      "published_at": "2026-09-01T15:19:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
+      "products": [
+        "mango"
+      ],
+      "age_hours": 17
     },
     {
       "id": "attention-1107355d0eb4944b",
@@ -57,27 +76,80 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 17
-    },
-    {
-      "id": "attention-7cc0429423990c86",
-      "article_id": "1788271339_1",
-      "url": "https://www.freshplaza.com/article/9868225/airport-delays-in-kenya-threaten-fresh-produce-exports/",
-      "source": "FreshPlaza",
-      "title": "Kenya : les retards aéroportuaires menacent les exportations",
-      "summary": "Une grève perlée des travailleurs de l'aviation à l'aéroport international Jomo Kenyatta (JKIA) au Kenya perturbe les exportations de produits frais.",
-      "origin_code": "KEN",
-      "origin_label": "Kenya",
-      "published_at": "2026-09-01T13:29:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [],
-      "age_hours": 17
+      "age_hours": 19
     }
   ],
   "articles": [
+    {
+      "id": "1788330785_4",
+      "timestamp": "2026-09-02T06:33:05.461201+00:00",
+      "title": "Le Honduras inaugure ses premières exportations d&#x27;avocats vers Dubaï",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Honduras inaugure ses premières exportations d&#x27;avocats vers Dubaï -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">Le Honduras s&#x27;apprête à réaliser sa première expédition d&#x27;avocats vers le marché de Dubaï par voie aérienne. Cette opération est le fruit d&#x27;une alliance entre l&#x27;Association des producteurs d&#x27;avocats du Honduras (ASPAH) et la société Fresh Earth Produce pour diversifier les débouchés commerciaux. <span class=\"news-reason\">Ouverture de nouveaux marchés pour un produit Mehadrin par une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868409/honduras-prepara-su-primer-envio-de-aguacate-por-via-aerea-con-destino-a-dubai/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Honduras launches its first avocado exports to Dubai -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">Honduras is preparing to make its first avocado shipment to the Dubai market by air. This operation is the result of an alliance between the Avocado Producers Association of Honduras (ASPAH) and Fresh Earth Produce to diversify commercial outlets. <span class=\"news-reason\">Opening of new markets for a Mehadrin product by a competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868409/honduras-prepara-su-primer-envio-de-aguacate-por-via-aerea-con-destino-a-dubai/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">הונדורס משיקה את ייצוא האבוקדו הראשון שלה לדובאי -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">הונדורס נערכת לביצוע משלוח האבוקדו הראשון שלה לשוק בדובאי בדרך האוויר. פעילות זו היא תוצאה של ברית בין איגוד מגדלי האבוקדו של הונדורס (ASPAH) לבין חברת Fresh Earth Produce לגיוון אפיקי השיווק. <span class=\"news-reason\">פתיחת שווקים חדשים עבור מוצר מהדרין על ידי מקור מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868409/honduras-prepara-su-primer-envio-de-aguacate-por-via-aerea-con-destino-a-dubai/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1788330785_3",
+      "timestamp": "2026-09-02T06:33:05.461201+00:00",
+      "title": "Investissements indiens dans le traitement thermique des mangues -- 01/09/2026 15:19",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [
+        "IND",
+        "CHN",
+        "NZL"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Investissements indiens dans le traitement thermique des mangues -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">L&#x27;exportateur indien Kay Bee Exports investit dans ses propres infrastructures de traitement thermique par la vapeur (VHT). Cet investissement vise à faciliter l&#x27;accès aux marchés internationaux ayant des exigences de quarantaine strictes, comme la Chine, le Japon et la Nouvelle-Zélande. <span class=\"news-reason\">Information stratégique sur l&#x27;expansion logistique d&#x27;un pays concurrent sur la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868128/la-inversion-en-vht-amplia-el-acceso-al-mercado-para-los-mangos-indios/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Indian investments in mango heat treatment -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">Indian exporter Kay Bee Exports is investing in its own Vapor Heat Treatment (VHT) infrastructure. This investment aims to facilitate access to international markets with strict quarantine requirements, such as China, Japan, and New Zealand. <span class=\"news-reason\">Strategic information on the logistical expansion of a competing country for mangoes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868128/la-inversion-en-vht-amplia-el-acceso-al-mercado-para-los-mangos-indios/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">השקעות הודיות בטיפול בחום למנגו -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">היצואנית ההודית Kay Bee Exports משקיעה בתשתיות משלה לטיפול בחום באמצעות אדים (VHT). השקעה זו נועדה להקל על הגישה לשווקים בינלאומיים עם דרישות הסגר מחמירות, כגון סין, יפן וניו זילנד. <span class=\"news-reason\">מידע אסטרטגי על התרחבות לוגיסטית של מדינה מתחרה במנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868128/la-inversion-en-vht-amplia-el-acceso-al-mercado-para-los-mangos-indios/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1788330785_2",
+      "timestamp": "2026-09-02T06:33:05.461201+00:00",
+      "title": "Fruits espagnols : recul des volumes et hausse des valeurs -- 01/09/2026 14:04",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "FRA",
+        "DEU"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Fruits espagnols : recul des volumes et hausse des valeurs -- <span class=\"news-date\">01/09/2026 14:04</span></div><div class=\"news-body\">Au premier semestre 2026, les exportations espagnoles de fruits et légumes vers l&#x27;UE (84 % du total) ont atteint 6,5 millions de tonnes, en baisse de 0,6 %. En revanche, la valeur des exportations a progressé de 6 % pour atteindre 11,6 milliards d&#x27;euros. L&#x27;Allemagne et la France restent les principaux marchés. <span class=\"news-reason\">Données chiffrées sur les exportations d&#x27;une origine concurrente majeure vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9868175/eu-accounted-for-84-of-spain-s-fresh-fruit-and-vegetable-export-volume-in-first-half-of-2026/\" target=\"_blank\">HortiDaily -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spanish fruit: decline in volumes and rise in values -- <span class=\"news-date\">01/09/2026 14:04</span></div><div class=\"news-body\">In the first half of 2026, Spanish fruit and vegetable exports to the EU (84% of the total) reached 6.5 million tonnes, down 0.6%. In contrast, the value of exports rose by 6% to reach 11.6 billion euros. Germany and France remain the main markets. <span class=\"news-reason\">Quantitative data on exports from a major competing origin to Europe.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9868175/eu-accounted-for-84-of-spain-s-fresh-fruit-and-vegetable-export-volume-in-first-half-of-2026/\" target=\"_blank\">HortiDaily -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">פירות ספרדיים: ירידה בכמויות ועלייה בערך -- <span class=\"news-date\">01/09/2026 14:04</span></div><div class=\"news-body\">במחצית הראשונה של 2026, ייצוא הפירות והירקות הספרדי לאיחוד האירופי (84% מהסך הכל) הגיע ל-6.5 מיליון טון, ירידה של 0.6%. לעומת זאת, ערך הייצוא עלה ב-6% והגיע ל-11.6 מיליארד אירו. גרמניה וצרפת נותרו השווקים העיקריים. <span class=\"news-reason\">נתונים מספריים על ייצוא ממקור מתחרה מרכזי לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9868175/eu-accounted-for-84-of-spain-s-fresh-fruit-and-vegetable-export-volume-in-first-half-of-2026/\" target=\"_blank\">HortiDaily -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1788330785_0",
+      "timestamp": "2026-09-02T06:33:05.461201+00:00",
+      "title": "Prévisions de baisse pour la campagne de mangues en Espagne",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Jessica",
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Prévisions de baisse pour la campagne de mangues en Espagne -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">La saison des mangues débute dans les provinces de Malaga et Grenade avec des perspectives de récolte inférieure à l&#x27;année record 2025. Cette baisse de production est attribuée à des conditions météorologiques hivernales. La campagne s&#x27;annonce plus brève et plus intense que la précédente. <span class=\"news-reason\">Détaille le début de campagne d&#x27;un produit Mehadrin chez un concurrent majeur avec des alertes sur les volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866950/in-spagna-inizia-una-stagione-dei-mango-che-si-preannuncia-piu-breve-e-piu-intensa/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Outlook for decline in Spain's mango season -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">The mango season begins in the provinces of Malaga and Granada with prospects of a lower harvest than the record year 2025. This production decline is attributed to winter weather conditions. The campaign is expected to be shorter and more intense than the previous one. <span class=\"news-reason\">Details the start of the season for a Mehadrin product at a major competitor with volume alerts.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866950/in-spagna-inizia-una-stagione-dei-mango-che-si-preannuncia-piu-breve-e-piu-intensa/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">תחזיות לירידה בעונת המנגו בספרד -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">עונת המנגו מתחילה במחוזות מלאגה וגרנדה עם תחזיות ליבול נמוך יותר משנת השיא 2025. ירידה זו בייצור מיוחסת לתנאי מזג האוויר בחורף. העונה צפויה להיות קצרה ואינטנסיבית יותר מקודמתה. <span class=\"news-reason\">מפרט את תחילת העונה של מוצר מהדרין אצל מתחרה מרכזי עם התראות על כמויות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866950/in-spagna-inizia-una-stagione-dei-mango-che-si-preannuncia-piu-breve-e-piu-intensa/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1788325346_4",
       "timestamp": "2026-09-02T05:02:26.583921+00:00",
@@ -100,7 +172,7 @@
     {
       "id": "1788325346_3",
       "timestamp": "2026-09-02T05:02:26.583921+00:00",
-      "title": "Début de la récolte de mangues en Basilicate",
+      "title": "Lancement de la campagne de récolte de mangues en Basilicate",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -111,14 +183,14 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Début de la récolte de mangues en Basilicate -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">La récolte de mangues en Basilicate, Italie, doit débuter la semaine prochaine. La région connaît une expansion des surfaces cultivées et du calendrier de production, marquant une transition vers des cultures exotiques de haute qualité sur le territoire italien. <span class=\"news-reason\">Informations sur l&#x27;émergence d&#x27;une production locale concurrente en Italie.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868349/al-via-la-raccolta-del-mango-in-basilicata-prospettive-di-crescita-per-superfici-e-calendario-produttivo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne de récolte de mangues en Basilicate -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">La récolte de mangues en Basilicate, Italie, doit débuter la semaine prochaine. La région connaît une expansion des surfaces cultivées et du calendrier de production, marquant une transition vers des cultures exotiques de haute qualité sur le territoire italien. <span class=\"news-reason\">Informations sur l&#x27;émergence d&#x27;une production locale concurrente en Italie.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868349/al-via-la-raccolta-del-mango-in-basilicata-prospettive-di-crescita-per-superfici-e-calendario-produttivo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Launch of the mango harvest in Basilicata -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">The mango harvest in Basilicata, Italy, is set to begin next week. The region is experiencing an expansion of cultivated areas and the production calendar, marking a transition to high-quality exotic crops on Italian territory. <span class=\"news-reason\">Information on the emergence of competing local production in Italy.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868349/al-via-la-raccolta-del-mango-in-basilicata-prospettive-di-crescita-per-superfici-e-calendario-produttivo/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השקת קטיף המנגו בבזיליקטה -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">קטיף המנגו בבזיליקטה, איטליה, צפוי להתחיל בשבוע הבא. האזור חווה התרחבות בשטחי הגידול ובלוח הזמנים של הייצור, מה שמסמן מעבר לגידולים אקזוטיים באיכות גבוהה בשטח איטליה. <span class=\"news-reason\">מידע על צמיחת ייצור מקומי מתחרה באיטליה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868349/al-via-la-raccolta-del-mango-in-basilicata-prospettive-di-crescita-for-superfici-e-calendario-produttivo/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1788325346_2",
       "timestamp": "2026-09-02T05:02:26.583921+00:00",
-      "title": "L&#x27;Équateur anticipe une baisse de 40 % de sa production de mangues",
+      "title": "L’Équateur prévoit une baisse de 40 % de sa production de mangues",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -127,7 +199,7 @@
         "mango"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;Équateur anticipe une baisse de 40 % de sa production de mangues -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">La saison d&#x27;exportation de mangues 2026-2027 en Équateur débute avec un premier envoi de 20 132 kg vers le Canada. La production totale pourrait chuter de 40 % selon les prévisions de la fondation Mango Ecuador, dans une campagne qui commence plus tôt que la période habituelle de mi-septembre. <span class=\"news-reason\">Alerte sur la disponibilité d&#x27;une origine concurrente avec des chiffres de baisse de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868472/ecuador-inicia-la-temporada-de-mango-con-una-produccion-que-podria-caer-un-40/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L’Équateur prévoit une baisse de 40 % de sa production de mangues -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">La saison d&#x27;exportation de mangues 2026-2027 en Équateur débute avec un premier envoi de 20 132 kg vers le Canada. La production totale pourrait chuter de 40 % selon les prévisions de la fondation Mango Ecuador, dans une campagne qui commence plus tôt que la période habituelle de mi-septembre. <span class=\"news-reason\">Alerte sur la disponibilité d&#x27;une origine concurrente avec des chiffres de baisse de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868472/ecuador-inicia-la-temporada-de-mango-con-una-produccion-que-podria-caer-un-40/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Ecuador forecasts a 40% drop in its mango production -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">The 2026-2027 mango export season in Ecuador begins with a first shipment of 20,132 kg to Canada. Total production could fall by 40% according to forecasts from the Mango Ecuador foundation, in a season starting earlier than the usual mid-September period. <span class=\"news-reason\">Alert on the availability of a competing origin with production decline figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868472/ecuador-inicia-la-temporada-de-mango-con-una-produccion-que-podria-caer-un-40/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">אקוודור צופה ירידה של 40% בייצור המנגו שלה -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">עונת יצוא המנגו 2026-2027 באקוודור מתחילה עם משלוח ראשון של 20,132 ק\"ג לקנדה. הייצור הכולל עלול לצנוח ב-40% לפי תחזיות קרן Mango Ecuador, בעונה שמתחילה מוקדם מהתקופה הרגילה של אמצע ספטמבר. <span class=\"news-reason\">התראה על זמינות ממקור מתחרה עם נתוני ירידה בייצור.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868472/ecuador-inicia-la-temporada-de-mango-con-una-produccion-que-podria-caer-un-40/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -325,7 +397,7 @@
     {
       "id": "1788238891_0",
       "timestamp": "2026-09-01T05:01:31.754158+00:00",
-      "title": "Baisse de 19 % des exportations d&#x27;oranges sud-africaines prévue pour 2026",
+      "title": "Baisse de 19 % des exportations d&#x27;oranges d&#x27;Afrique du Sud prévue pour 2026",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -336,7 +408,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse de 19 % des exportations d&#x27;oranges sud-africaines prévue pour 2026 -- <span class=\"news-date\">01/09/2026 06:05</span></div><div class=\"news-body\">La saison 2026 s&#x27;annonce difficile pour les agrumiculteurs d&#x27;Afrique australe. Suite à une révision des estimations par le groupe de travail variétal, les prévisions d&#x27;exportation pour les oranges Valencia et Navel ont été ajustées à la baisse, avec une réduction totale estimée à 19 % par rapport aux prévisions initiales. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur la réduction des volumes d&#x27;exportation d&#x27;une origine concurrente majeure pour les oranges (Valencia et Navel), produit clé de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866071/nel-2026-si-stima-una-riduzione-fino-al-19-per-cento-per-le-esportazioni-di-arance-sudafricane/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse de 19 % des exportations d&#x27;oranges d&#x27;Afrique du Sud prévue pour 2026 -- <span class=\"news-date\">01/09/2026 06:05</span></div><div class=\"news-body\">La saison 2026 s&#x27;annonce difficile pour les agrumiculteurs d&#x27;Afrique australe. Suite à une révision des estimations par le groupe de travail variétal, les prévisions d&#x27;exportation pour les oranges Valencia et Navel ont été ajustées à la baisse, avec une réduction totale estimée à 19 % par rapport aux prévisions initiales. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur la réduction des volumes d&#x27;exportation d&#x27;une origine concurrente majeure pour les oranges (Valencia et Navel), produit clé de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866071/nel-2026-si-stima-una-riduzione-fino-al-19-per-cento-per-le-esportazioni-di-arance-sudafricane/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">A 19% decrease in South African orange exports is projected for 2026. -- <span class=\"news-date\">01/09/2026 06:05</span></div><div class=\"news-body\">The 2026 season is shaping up to be difficult for citrus growers in Southern Africa. Following a revision of estimates by the varietal working group, export forecasts for Valencia and Navel oranges have been adjusted downwards, with an estimated total reduction of 19% compared to initial forecasts. <span class=\"news-reason\">The article provides precise figures on the reduction in export volumes from a major competing origin for oranges (Valencia and Navel), a key product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866071/nel-2026-si-stima-una-riduzione-fino-al-19-per-cento-per-le-esportazioni-di-arance-sudafricane/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">ירידה של 19% ביצוא התפוזים מדרום אפריקה צפויה בשנת 2026. -- <span class=\"news-date\">01/09/2026 06:05</span></div><div class=\"news-body\">עונת 2026 נראית מאתגרת עבור מגדלי ההדרים בדרום אפריקה. בעקבות עדכון ההערכות על ידי קבוצת העבודה הזנית, תחזיות היצוא עבור תפוזי ולנסיה ונאבל עודכנו כלפי מטה, עם הפחתה כוללת המוערכת ב-19% לעומת התחזיות הראשוניות. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על הפחתת כמויות היצוא ממקור מתחרה מרכזי לתפוזים (ולנסיה ונאבל), מוצר מפתח של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866071/nel-2026-si-stima-una-riduzione-fino-al-19-per-cento-per-le-esportazioni-di-arance-sudafricane/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
