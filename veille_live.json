@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-02T14:03:11.218916+00:00",
-  "article_count": 48,
+  "last_updated": "2026-09-02T17:03:53.400980+00:00",
+  "article_count": 49,
   "attention_points": [
     {
       "id": "attention-82e11bb22682296f",
@@ -19,7 +19,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 2
+      "age_hours": 5
     },
     {
       "id": "attention-e313c7035fd27b7b",
@@ -36,7 +36,26 @@
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [],
-      "age_hours": 2
+      "age_hours": 5
+    },
+    {
+      "id": "attention-084cecb668f2f5e6",
+      "article_id": "1788368633_0",
+      "url": "https://www.freshplaza.com/article/9868786/brazilian-orange-juice-export-revenue-falls-37-5-in-july/",
+      "source": "FreshPlaza",
+      "title": "Les revenus d'exportation du jus d'orange brésilien ont reculé",
+      "summary": "Le prix moyen recule fortement en début de saison.",
+      "origin_code": "BRA",
+      "origin_label": "Brésil",
+      "published_at": "2026-09-02T13:47:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "information",
+      "products": [
+        "orange"
+      ],
+      "age_hours": 5
     },
     {
       "id": "attention-7ef42d7e48831480",
@@ -56,29 +75,28 @@
         "melon",
         "watermelon"
       ],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-ad799d38d09ae38b",
-      "article_id": "1788352419_0",
-      "url": "https://www.freshplaza.com/article/9868756/egyptian-date-imports-pressure-israeli-growers/",
-      "source": "FreshPlaza",
-      "title": "Les producteurs israéliens de dattes sous la pression",
-      "summary": "La classification des produits importés impacte fortement la production nationale",
-      "origin_code": "ISR",
-      "origin_label": "Israël",
-      "published_at": "2026-09-02T13:47:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [
-        "date"
-      ],
-      "age_hours": 2
+      "age_hours": 5
     }
   ],
   "articles": [
+    {
+      "id": "1788368633_0",
+      "timestamp": "2026-09-02T17:03:53.400980+00:00",
+      "title": "Les revenus d&#x27;exportation du jus d&#x27;orange brésilien ont reculé de 37,5 % en juillet -- 02/09/2026 13:47",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "BRA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les revenus d&#x27;exportation du jus d&#x27;orange brésilien ont reculé de 37,5 % en juillet -- <span class=\"news-date\">02/09/2026 13:47</span></div><div class=\"news-body\">Au cours du premier mois de la saison 2026/27, les revenus brésiliens provenant des exportations de jus d&#x27;orange ont chuté de 37,5 % pour s&#x27;établir à 179,8 millions de dollars. Cette baisse intervient malgré une augmentation des volumes d&#x27;expédition, en raison d&#x27;un repli de 41,7 % du prix moyen à l&#x27;exportation qui s&#x27;établit à 2 390,75 dollars la tonne par rapport à juillet 2025. <span class=\"news-reason\">Données chiffrées sur les prix et revenus d&#x27;exportation d&#x27;une origine majeure pour le marché mondial des agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868786/brazilian-orange-juice-export-revenue-falls-37-5-in-july/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Brazilian orange juice export revenues fell by 37.5% in July -- <span class=\"news-date\">02/09/2026 13:47</span></div><div class=\"news-body\">During the first month of the 2026/27 season, Brazilian revenues from orange juice exports dropped by 37.5% to $179.8 million. This decline comes despite an increase in shipment volumes, due to a 41.7% drop in the average export price, which stood at $2,390.75 per ton compared to July 2025. <span class=\"news-reason\">Numerical data on export prices and revenues from a major source for the global citrus market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868786/brazilian-orange-juice-export-revenue-falls-37-5-in-july/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">הכנסות הייצוא של מיץ תפוזים ברזילאי ירדו ב-37.5% ביולי -- <span class=\"news-date\">02/09/2026 13:47</span></div><div class=\"news-body\">במהלך החודש הראשון של עונת 2026/27, הכנסות ברזיל מייצוא מיץ תפוזים צנחו ב-37.5% והסתכמו ב-179.8 מיליון דולר. ירידה זו מגיעה למרות עלייה בנפחי המשלוחים, בשל נסיגה של 41.7% במחיר הייצוא הממוצע שעמד על 2,390.75 דולר לטון בהשוואה ליולי 2025. <span class=\"news-reason\">נתונים מספריים על מחירי והכנסות ייצוא ממקור מרכזי בשוק ההדרים העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868786/brazilian-orange-juice-export-revenue-falls-37-5-in-july/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1788357791_0",
       "timestamp": "2026-09-02T14:03:11.218916+00:00",
@@ -256,7 +274,7 @@
     {
       "id": "1788347023_0",
       "timestamp": "2026-09-02T11:03:43.617049+00:00",
-      "title": "Le Ghana lance la production commerciale de mangues destinée à l&#x27;exportation",
+      "title": "Lancement de la production commerciale de mangues destinées à l&#x27;exportation au Ghana",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -265,7 +283,7 @@
         "mango"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Ghana lance la production commerciale de mangues destinée à l&#x27;exportation -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">La société MakolaHub a entamé sa première récolte commerciale de mangues issues de sa propre exploitation au Ghana, créée en 2021. Après avoir longtemps exporté via des petits producteurs indépendants, l&#x27;entreprise adopte un modèle de production directe pour mieux sécuriser ses volumes et sa qualité. <span class=\"news-reason\">Information sur l&#x27;expansion de production d&#x27;une origine concurrente pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868144/en-2021-decidimos-cambiar-de-enfoque-y-creamos-nuestra-propia-pequena-finca-de-mango-en-ghana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la production commerciale de mangues destinées à l&#x27;exportation au Ghana -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">La société MakolaHub a entamé sa première récolte commerciale de mangues issues de sa propre exploitation au Ghana, créée en 2021. Après avoir longtemps exporté via des petits producteurs indépendants, l&#x27;entreprise adopte un modèle de production directe pour mieux sécuriser ses volumes et sa qualité. <span class=\"news-reason\">Information sur l&#x27;expansion de production d&#x27;une origine concurrente pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868144/en-2021-decidimos-cambiar-de-enfoque-y-creamos-nuestra-propia-pequena-finca-de-mango-en-ghana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Ghana launches commercial mango production for export -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">MakolaHub has begun its first commercial harvest of mangoes from its own farm in Ghana, established in 2021. After long exporting via small independent growers, the company is adopting a direct production model to better secure its volumes and quality. <span class=\"news-reason\">Information on the production expansion of a competing origin for mangoes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868144/en-2021-decidimos-cambiar-de-enfoque-y-creamos-nuestra-propia-pequena-finca-de-mango-en-ghana/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מקורות מתחרים</div><div class=\"news-title\">גאנה משיקה ייצור מסחרי של מנגו המיועד לייצוא -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">חברת MakolaHub החלה בקטיף המסחרי הראשון של מנגו מהמטע שבבעלותה בגאנה, שהוקם בשנת 2021. לאחר תקופה ארוכה של ייצוא באמצעות מגדלים עצמאיים קטנים, החברה מאמצת מודל של ייצור ישיר כדי להבטיח בצורה טובה יותר את הכמויות ואת האיכות שלה. <span class=\"news-reason\">מידע על הרחבת הייצור של מקור מתחרה למנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868144/en-2021-decidimos-cambiar-de-enfoque-y-creamos-nuestra-propia-pequena-finca-de-mango-en-ghana/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -286,7 +304,7 @@
     {
       "id": "1788336163_1",
       "timestamp": "2026-09-02T08:02:43.086567+00:00",
-      "title": "Espagne : Incertitude et suspension des achats d&#x27;agrumes sur pied",
+      "title": "Espagne : incertitude et suspension des achats d&#x27;agrumes sur pied",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia",
@@ -296,7 +314,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Espagne : Incertitude et suspension des achats d&#x27;agrumes sur pied -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">En Espagne, les achats d&#x27;agrumes en plein champ pour la campagne 2026/27 sont quasiment à l&#x27;arrêt. Cette situation contraste avec les années précédentes et s&#x27;explique par les mauvais résultats de la saison passée et la pression concurrentielle accrue des pays tiers sur le marché européen. <span class=\"news-reason\">Alerte sur la stratégie d&#x27;approvisionnement d&#x27;un concurrent majeur impactant la saison à venir.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867676/l-incertezza-ferma-gli-acquisti-di-agrumi-in-campo-in-vista-della-stagione-2026-27/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Espagne : incertitude et suspension des achats d&#x27;agrumes sur pied -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">En Espagne, les achats d&#x27;agrumes en plein champ pour la campagne 2026/27 sont quasiment à l&#x27;arrêt. Cette situation contraste avec les années précédentes et s&#x27;explique par les mauvais résultats de la saison passée et la pression concurrentielle accrue des pays tiers sur le marché européen. <span class=\"news-reason\">Alerte sur la stratégie d&#x27;approvisionnement d&#x27;un concurrent majeur impactant la saison à venir.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867676/l-incertezza-ferma-gli-acquisti-di-agrumi-in-campo-in-vista-della-stagione-2026-27/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Spain: uncertainty and suspension of standing citrus purchases -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">In Spain, field citrus purchases for the 2026/27 campaign are virtually at a standstill. This situation contrasts with previous years and is explained by the poor results of the past season and increased competitive pressure from third countries on the European market. <span class=\"news-reason\">Alert on the supply strategy of a major competitor impacting the upcoming season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867676/l-incertezza-ferma-gli-acquisti-di-agrumi-in-campo-in-vista-della-stagione-2026-27/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ספרד: חוסר ודאות והשעיית רכישות פירות הדר בשטח -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">בספרד, רכישות פירות הדר בשטח לעונת 2026/27 כמעט נעצרו לחלוטין. מצב זה עומד בניגוד לשנים קודמות ומוסבר על ידי התוצאות הגרועות של העונה שעברה והלחץ התחרותי הגובר מצד מדינות שלישיות בשוק האירופי. <span class=\"news-reason\">התראה על אסטרטגיית האספקה של מתחרה מרכזי המשפיעה על העונה הקרובה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867676/l-incertezza-ferma-gli-acquisti-di-agrumi-in-campo-in-vista-della-stagione-2026-27/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -392,7 +410,7 @@
     {
       "id": "1788325346_3",
       "timestamp": "2026-09-02T05:02:26.583921+00:00",
-      "title": "Lancement de la campagne de récolte des mangues en Basilicate",
+      "title": "Lancement de la campagne de récolte de mangues en Basilicate",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -403,14 +421,14 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne de récolte des mangues en Basilicate -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">La récolte de mangues en Basilicate, Italie, doit débuter la semaine prochaine. La région connaît une expansion des surfaces cultivées et du calendrier de production, marquant une transition vers des cultures exotiques de haute qualité sur le territoire italien. <span class=\"news-reason\">Informations sur l&#x27;émergence d&#x27;une production locale concurrente en Italie.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868349/al-via-la-raccolta-del-mango-in-basilicata-prospettive-di-crescita-per-superfici-e-calendario-produttivo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne de récolte de mangues en Basilicate -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">La récolte de mangues en Basilicate, Italie, doit débuter la semaine prochaine. La région connaît une expansion des surfaces cultivées et du calendrier de production, marquant une transition vers des cultures exotiques de haute qualité sur le territoire italien. <span class=\"news-reason\">Informations sur l&#x27;émergence d&#x27;une production locale concurrente en Italie.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868349/al-via-la-raccolta-del-mango-in-basilicata-prospettive-di-crescita-per-superfici-e-calendario-produttivo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Launch of the mango harvest in Basilicata -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">The mango harvest in Basilicata, Italy, is set to begin next week. The region is experiencing an expansion of cultivated areas and the production calendar, marking a transition to high-quality exotic crops on Italian territory. <span class=\"news-reason\">Information on the emergence of competing local production in Italy.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868349/al-via-la-raccolta-del-mango-in-basilicata-prospettive-di-crescita-per-superfici-e-calendario-produttivo/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השקת קטיף המנגו בבזיליקטה -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">קטיף המנגו בבזיליקטה, איטליה, צפוי להתחיל בשבוע הבא. האזור חווה התרחבות בשטחי הגידול ובלוח הזמנים של הייצור, מה שמסמן מעבר לגידולים אקזוטיים באיכות גבוהה בשטח איטליה. <span class=\"news-reason\">מידע על צמיחת ייצור מקומי מתחרה באיטליה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868349/al-via-la-raccolta-del-mango-in-basilicata-prospettive-di-crescita-for-superfici-e-calendario-produttivo/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1788325346_2",
       "timestamp": "2026-09-02T05:02:26.583921+00:00",
-      "title": "L&#x27;Équateur anticipe une baisse de 40 % de sa production de mangues",
+      "title": "L&#x27;Équateur prévoit une baisse de 40 % de sa production de mangues",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -419,14 +437,14 @@
         "mango"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;Équateur anticipe une baisse de 40 % de sa production de mangues -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">La saison d&#x27;exportation de mangues 2026-2027 en Équateur débute avec un premier envoi de 20 132 kg vers le Canada. La production totale pourrait chuter de 40 % selon les prévisions de la fondation Mango Ecuador, dans une campagne qui commence plus tôt que la période habituelle de mi-septembre. <span class=\"news-reason\">Alerte sur la disponibilité d&#x27;une origine concurrente avec des chiffres de baisse de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868472/ecuador-inicia-la-temporada-de-mango-con-una-produccion-que-podria-caer-un-40/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;Équateur prévoit une baisse de 40 % de sa production de mangues -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">La saison d&#x27;exportation de mangues 2026-2027 en Équateur débute avec un premier envoi de 20 132 kg vers le Canada. La production totale pourrait chuter de 40 % selon les prévisions de la fondation Mango Ecuador, dans une campagne qui commence plus tôt que la période habituelle de mi-septembre. <span class=\"news-reason\">Alerte sur la disponibilité d&#x27;une origine concurrente avec des chiffres de baisse de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868472/ecuador-inicia-la-temporada-de-mango-con-una-produccion-que-podria-caer-un-40/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Ecuador forecasts a 40% drop in its mango production -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">The 2026-2027 mango export season in Ecuador begins with a first shipment of 20,132 kg to Canada. Total production could fall by 40% according to forecasts from the Mango Ecuador foundation, in a season starting earlier than the usual mid-September period. <span class=\"news-reason\">Alert on the availability of a competing origin with production decline figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868472/ecuador-inicia-la-temporada-de-mango-con-una-produccion-que-podria-caer-un-40/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">אקוודור צופה ירידה של 40% בייצור המנגו שלה -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">עונת יצוא המנגו 2026-2027 באקוודור מתחילה עם משלוח ראשון של 20,132 ק\"ג לקנדה. הייצור הכולל עלול לצנוח ב-40% לפי תחזיות קרן Mango Ecuador, בעונה שמתחילה מוקדם מהתקופה הרגילה של אמצע ספטמבר. <span class=\"news-reason\">התראה על זמינות ממקור מתחרה עם נתוני ירידה בייצור.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868472/ecuador-inicia-la-temporada-de-mango-con-una-produccion-que-podria-caer-un-40/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1788325346_1",
       "timestamp": "2026-09-02T05:02:26.583921+00:00",
-      "title": "Baisse significative de la production de mangues à Almuñécar en 2026",
+      "title": "Recul significatif de la production de mangues à Almuñécar en 2026",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -437,7 +455,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse significative de la production de mangues à Almuñécar en 2026 -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">La production de mangues dans la zone d&#x27;Almuñécar (Costa Tropical) est estimée entre 12 000 et 15 000 tonnes pour la campagne 2026. Ce volume est en retrait massif par rapport aux 36 000 tonnes produites lors des saisons précédentes, en raison de l&#x27;impact des tempêtes hivernales sur les vergers. <span class=\"news-reason\">Fournit des prévisions de volumes précises chez un concurrent direct (Espagne) pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868471/almunecar-preve-una-cosecha-de-mango-de-entre-12-000-y-15-000-toneladas-en-2026/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul significatif de la production de mangues à Almuñécar en 2026 -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">La production de mangues dans la zone d&#x27;Almuñécar (Costa Tropical) est estimée entre 12 000 et 15 000 tonnes pour la campagne 2026. Ce volume est en retrait massif par rapport aux 36 000 tonnes produites lors des saisons précédentes, en raison de l&#x27;impact des tempêtes hivernales sur les vergers. <span class=\"news-reason\">Fournit des prévisions de volumes précises chez un concurrent direct (Espagne) pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868471/almunecar-preve-una-cosecha-de-mango-de-entre-12-000-y-15-000-toneladas-en-2026/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Significant decline in the mango harvest in Almuñécar in 2026 -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">Mango production in the Almuñécar area (Costa Tropical) is estimated at between 12,000 and 15,000 tons for the 2026 season. This volume is a massive drop compared to the 36,000 tons produced in previous seasons, due to the impact of winter storms on the orchards. <span class=\"news-reason\">Provides precise volume forecasts for a direct competitor (Spain) for a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868471/almunecar-preve-una-cosecha-de-mango-de-entre-12-000-y-15-000-toneladas-en-2026/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">נסיגה משמעותית ביבול המנגו באלמונייקאר בשנת 2026 -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">ייצור המנגו באזור אלמונייקאר (קוסטה טרופיקאל) מוערך בין 12,000 ל-15,000 טונות לעונת 2026. נפח זה נמצא בנסיגה מאסיבית לעומת 36,000 הטונות שיוצרו בעונות קודמות, עקב השפעת סערות החורף על המטעים. <span class=\"news-reason\">מספק תחזיות נפח מדויקות אצל מתחרה ישיר (ספרד) עבור מוצר של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868471/almunecar-preve-una-cosecha-de-mango-de-entre-12-000-y-15-000-toneladas-en-2026/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -887,7 +905,7 @@
     {
       "id": "1788152535_0",
       "timestamp": "2026-08-31T05:02:15.942657+00:00",
-      "title": "Afrique du Sud : demande soutenue pour les oranges Valencia de petits calibres",
+      "title": "Afrique du Sud : demande soutenue pour les oranges Valencia de petit calibre",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -899,7 +917,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique du Sud : demande soutenue pour les oranges Valencia de petits calibres -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">En Afrique du Sud, la saison des agrumes dans la region du Cap se concentre sur les oranges Valencia de petits calibres, notamment les tailles 74, 88 et 105. La demande du marche est actuellement orientee vers ces petits fruits, ce qui complique l&#x27;ecoulement des calibres plus importants. Les producteurs locaux esperent egalement une reprise du marche pour les mandarines tardives. <span class=\"news-reason\">Contient des precisions sur les calibres (74, 88, 105) et les tendances de la demande pour les agrumes, produit coeur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique du Sud : demande soutenue pour les oranges Valencia de petit calibre -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">En Afrique du Sud, la saison des agrumes dans la region du Cap se concentre sur les oranges Valencia de petits calibres, notamment les tailles 74, 88 et 105. La demande du marche est actuellement orientee vers ces petits fruits, ce qui complique l&#x27;ecoulement des calibres plus importants. Les producteurs locaux esperent egalement une reprise du marche pour les mandarines tardives. <span class=\"news-reason\">Contient des precisions sur les calibres (74, 88, 105) et les tendances de la demande pour les agrumes, produit coeur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">South Africa: high demand for small-caliber Valencia oranges -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">In South Africa, the citrus season in the Cape region is focusing on small-caliber Valencia oranges, particularly sizes 74, 88, and 105. Market demand is currently oriented towards these small fruits, which complicates the movement of larger calibers. Local producers are also hoping for a market recovery for late mandarins. <span class=\"news-reason\">Contains details on calibers (74, 88, 105) and demand trends for citrus, Mehadrin&#x27;s core product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">דרום אפריקה: ביקוש חזק לתפוזי ולנסיה בגדלים קטנים -- <span class=\"news-date\">31/08/2026 06:00</span></div><div class=\"news-body\">בדרום אפריקה, עונת ההדרים באזור הכף מתמקדת בתפוזי ולנסיה בגדלים קטנים, במיוחד גדלים 74, 88 ו-105. הביקוש בשוק מכוון כעת לפירות הקטנים הללו, מה שמקשה על מכירת הגדלים הגדולים יותר. המגדלים המקומיים מקווים גם להתאוששות השוק עבור המנדרינות המאוחרות. <span class=\"news-reason\">מכיל פרטים מדויקים על הגדלים (74, 88, 105) ומגמות הביקוש להדרים, מוצר הליבה של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866911/richiesta-di-valencia-di-piccolo-calibro-speranze-di-ripresa-per-i-mandarini-tardivi/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     }
