@@ -1,10 +1,53 @@
 {
-  "last_generated": "2026-09-03T09:33:03.618020+00:00",
+  "last_generated": "2026-09-03T11:03:52.421763+00:00",
   "articles": [
+    {
+      "id": "1788433432_0",
+      "timestamp": "2026-09-03T11:03:52.421763+00:00",
+      "title": "Hégémonie des ports néerlandais dans l&#x27;importation d&#x27;agrumes en Europe -- 03/09/2026 12:10",
+      "title_hash": "hégémonie ports néerlandais lx27importation dx27agrumes europe",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "lemon",
+        "mandarine",
+        "orange",
+        "citrus_grapefruit",
+        "lime"
+      ],
+      "origins": [
+        "ESP",
+        "NLD"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Hégémonie des ports néerlandais dans l&#x27;importation d&#x27;agrumes en Europe -- <span class=\"news-date\">03/09/2026 12:10</span></div><div class=\"news-body\">Selon l&#x27;organisation espagnole Ailimpo, l&#x27;Union européenne a importé plus de 2,34 millions de tonnes d&#x27;agrumes (oranges, citrons, pomelos, mandarines et limes) au cours de la saison 2024/25. Les ports néerlandais ont joué un rôle central en traitant 1,32 million de tonnes, soit 57 % du volume total importé. <span class=\"news-reason\">Contient des volumes précis (2,34 millions de tonnes) sur les flux d&#x27;agrumes et de pomelos vers l&#x27;Union européenne.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9869214/spanjaarden-beklagen-nederlandse-fruitimporteurs-overschot-aan-citroenen-treft-europese-telers/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Hegemony of Dutch ports in citrus imports to Europe -- <span class=\"news-date\">03/09/2026 12:10</span></div><div class=\"news-body\">According to the Spanish organization Ailimpo, the European Union imported more than 2.34 million tons of citrus (oranges, lemons, grapefruit, mandarins and limes) during the 2024/25 season. Dutch ports played a central role, handling 1.32 million tons, or 57% of the total imported volume. <span class=\"news-reason\">Contains precise volumes (2.34 million tons) on citrus and grapefruit flows to the European Union.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9869214/spanjaarden-beklagen-nederlandse-fruitimporteurs-overschot-aan-citroenen-treft-europese-telers/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">הגמוניה של נמלי הולנד בייבוא פירות הדר לאירופה -- <span class=\"news-date\">03/09/2026 12:10</span></div><div class=\"news-body\">לפי הארגון הספרדי Ailimpo, האיחוד האירופי ייבא למעלה מ-2.34 מיליון טון פירות הדר (תפוזים, לימונים, פומלות, מנדרינות וליים) במהלך עונת 2024/25. הנמלים ההולנדיים מילאו תפקיד מרכזי כשטיפלו ב-1.32 מיליון טון, המהווים 57% מכלל נפח הייבוא. <span class=\"news-reason\">מכיל נתונים מדויקים (2.34 מיליון טון) על זרימת פירות הדר ופומלות לאיחוד האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9869214/spanjaarden-beklagen-nederlandse-fruitimporteurs-overschot-aan-citroenen-treft-europese-telers/\" target=\"_blank\">AGF.nl -- לקריאת הכתבה</a></div></div>",
+      "rss_metadata": {
+        "id": "rss-be110a48c9c9eb14",
+        "title": "Spanjaarden beklagen Nederlandse fruitimporteurs: \"Overschot aan citroenen treft Europese telers\"",
+        "summary": "Volgens Ailimpo, de Spaanse brancheorganisatie voor citroen en grapefruit, werd in 2024/25 meer dan 2,34 miljoen ton citrus (sinaasappelen, citroenen, grapefruit, mandarijnen en limes) ingevoerd in de Europese Unie. Daarvan liep 1,32 miljoen ton via Nederlandse havens. Dat is 57% van het totaal. \"Het…",
+        "url": "https://www.agf.nl/article/9869214/spanjaarden-beklagen-nederlandse-fruitimporteurs-overschot-aan-citroenen-treft-europese-telers/",
+        "source": "AGF.nl",
+        "published_at": "2026-09-03T12:10:00+02:00",
+        "language": "nl",
+        "products": [
+          "citrus_grapefruit",
+          "lime"
+        ],
+        "origins": []
+      },
+      "attention_enrichment": {
+        "title_fr": "Les ports néerlandais captent la majorité des agrumes importés",
+        "summary_fr": "Le port de Rotterdam concentre 57 % des 2,34 millions de tonnes d'agrumes importés."
+      },
+      "gemini_score": 9
+    },
     {
       "id": "1788427983_1",
       "timestamp": "2026-09-03T09:33:03.618020+00:00",
-      "title": "Italie : progression de 13 % de la consommation de fruits et légumes bio",
+      "title": "Italie : la consommation de fruits et légumes biologiques progresse de 13 %",
       "title_hash": "italie consommation fruits légumes bio progresse 13",
       "category": "PRIX &amp VOLUMES",
       "commercials": [],
@@ -12,7 +55,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Italie : progression de 13 % de la consommation de fruits et légumes bio -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">Le marché italien des fruits et légumes biologiques connaît un renouveau en 2025. Les achats des ménages ont atteint 594 000 tonnes, soit une hausse de 11 % par rapport à 2024, tandis que la consommation totale en volume a progressé de 13 %. <span class=\"news-reason\">Données chiffrées sur la croissance d&#x27;un marché européen majeur pour les produits frais, incluant les segments Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Italie : la consommation de fruits et légumes biologiques progresse de 13 % -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">Le marché italien des fruits et légumes biologiques connaît un renouveau en 2025. Les achats des ménages ont atteint 594 000 tonnes, soit une hausse de 11 % par rapport à 2024, tandis que la consommation totale en volume a progressé de 13 %. <span class=\"news-reason\">Données chiffrées sur la croissance d&#x27;un marché européen majeur pour les produits frais, incluant les segments Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Italy: consumption of organic fruits and vegetables grows by 13% -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">The Italian organic fruit and vegetable market is seeing a revival in 2025. Household purchases reached 594,000 tonnes, up 11% from 2024, while total volume consumption grew by 13%. <span class=\"news-reason\">Numerical data on the growth of a major European market for fresh produce, including Mehadrin segments.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">איטליה: צריכת הפירות והירקות האורגניים עולה ב-13% -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">שוק הפירות והירקות האורגניים באיטליה חווה התחדשות בשנת 2025. רכישות משקי הבית הגיעו ל-594,000 טון, עלייה של 11% לעומת 2024, בעוד שסך הצריכה במונחי נפח עלה ב-13%. <span class=\"news-reason\">נתונים מספריים על צמיחת שוק אירופי מרכזי לתוצרת טרייה, כולל מגזרי מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -416,7 +459,7 @@
     {
       "id": "1788357791_0",
       "timestamp": "2026-09-02T14:03:11.218916+00:00",
-      "title": "Record historique des importations d’agrumes au sein de l’Union européenne",
+      "title": "Record historique des importations d&#x27;agrumes au sein de l&#x27;Union européenne",
       "title_hash": "record historique importations dx27agrumes sein lx27union européenne",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
@@ -426,7 +469,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Record historique des importations d’agrumes au sein de l’Union européenne -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">L&#x27;Union européenne a enregistré un volume record d&#x27;importations d&#x27;agrumes pour la saison en cours, atteignant 1 572 564 tonnes. Selon un rapport du ministère espagnol de l&#x27;Agriculture, de la Pêche et de l&#x27;Alimentation (MAPA), il s&#x27;agit du chiffre le plus élevé jamais enregistré dans la série historique des données d&#x27;importation communautaires. <span class=\"news-reason\">Article fournissant des volumes précis (1,57 million de tonnes) sur les importations d&#x27;agrumes, produit pilier de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863929/l-ue-registra-un-record-storico-di-importazioni-di-agrumi-con-1-57-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Record historique des importations d&#x27;agrumes au sein de l&#x27;Union européenne -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">L&#x27;Union européenne a enregistré un volume record d&#x27;importations d&#x27;agrumes pour la saison en cours, atteignant 1 572 564 tonnes. Selon un rapport du ministère espagnol de l&#x27;Agriculture, de la Pêche et de l&#x27;Alimentation (MAPA), il s&#x27;agit du chiffre le plus élevé jamais enregistré dans la série historique des données d&#x27;importation communautaires. <span class=\"news-reason\">Article fournissant des volumes précis (1,57 million de tonnes) sur les importations d&#x27;agrumes, produit pilier de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863929/l-ue-registra-un-record-storico-di-importazioni-di-agrumi-con-1-57-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Historic record for citrus imports within the European Union -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">The European Union recorded a record volume of citrus imports for the current season, reaching 1,572,564 tons. According to a report by the Spanish Ministry of Agriculture, Fisheries and Food (MAPA), this is the highest figure ever recorded in the historical series of EU import data. <span class=\"news-reason\">Article providing precise volumes (1.57 million tons) on citrus imports, a core product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863929/l-ue-registra-un-record-storico-di-importazioni-di-agrumi-con-1-57-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים ונפחים</div><div class=\"news-title\">שיא היסטורי ביבוא פרי הדר לאיחוד האירופי -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">האיחוד האירופי רשם נפח שיא של יבוא פרי הדר לעונה הנוכחית, שהגיע ל-1,572,564 טונות. לפי דו\"ח של משרד החקלאות, הדיג והמזון הספרדי (MAPA), מדובר בנתון הגבוה ביותר שנרשם אי פעם בסדרת הנתונים ההיסטורית של יבוא הקהילה. <span class=\"news-reason\">מאמר המספק נתונים מדויקים (1.57 מיליון טונות) על יבוא פרי הדר, מוצר ליבה של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863929/l-ue-registra-un-record-storico-di-importazioni-di-agrumi-con-1-57-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -855,7 +898,7 @@
     {
       "id": "1788336163_1",
       "timestamp": "2026-09-02T08:02:43.086567+00:00",
-      "title": "Espagne : Incertitude et suspension des achats d&#x27;agrumes sur pied",
+      "title": "Espagne : incertitude et suspension des achats d&#x27;agrumes sur pied",
       "title_hash": "espagne incertitude suspension achats dx27agrumes pied",
       "category": "ALERTES SUPPLY",
       "commercials": [
@@ -866,7 +909,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Espagne : Incertitude et suspension des achats d&#x27;agrumes sur pied -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">En Espagne, les achats d&#x27;agrumes en plein champ pour la campagne 2026/27 sont quasiment à l&#x27;arrêt. Cette situation contraste avec les années précédentes et s&#x27;explique par les mauvais résultats de la saison passée et la pression concurrentielle accrue des pays tiers sur le marché européen. <span class=\"news-reason\">Alerte sur la stratégie d&#x27;approvisionnement d&#x27;un concurrent majeur impactant la saison à venir.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867676/l-incertezza-ferma-gli-acquisti-di-agrumi-in-campo-in-vista-della-stagione-2026-27/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Espagne : incertitude et suspension des achats d&#x27;agrumes sur pied -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">En Espagne, les achats d&#x27;agrumes en plein champ pour la campagne 2026/27 sont quasiment à l&#x27;arrêt. Cette situation contraste avec les années précédentes et s&#x27;explique par les mauvais résultats de la saison passée et la pression concurrentielle accrue des pays tiers sur le marché européen. <span class=\"news-reason\">Alerte sur la stratégie d&#x27;approvisionnement d&#x27;un concurrent majeur impactant la saison à venir.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867676/l-incertezza-ferma-gli-acquisti-di-agrumi-in-campo-in-vista-della-stagione-2026-27/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Spain: uncertainty and suspension of standing citrus purchases -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">In Spain, field citrus purchases for the 2026/27 campaign are virtually at a standstill. This situation contrasts with previous years and is explained by the poor results of the past season and increased competitive pressure from third countries on the European market. <span class=\"news-reason\">Alert on the supply strategy of a major competitor impacting the upcoming season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867676/l-incertezza-ferma-gli-acquisti-di-agrumi-in-campo-in-vista-della-stagione-2026-27/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ספרד: חוסר ודאות והשעיית רכישות פירות הדר בשטח -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">בספרד, רכישות פירות הדר בשטח לעונת 2026/27 כמעט נעצרו לחלוטין. מצב זה עומד בניגוד לשנים קודמות ומוסבר על ידי התוצאות הגרועות של העונה שעברה והלחץ התחרותי הגובר מצד מדינות שלישיות בשוק האירופי. <span class=\"news-reason\">התראה על אסטרטגיית האספקה של מתחרה מרכזי המשפיעה על העונה הקרובה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867676/l-incertezza-ferma-gli-acquisti-di-agrumi-in-campo-in-vista-della-stagione-2026-27/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -1004,7 +1047,7 @@
     {
       "id": "1788330785_0",
       "timestamp": "2026-09-02T06:33:05.461201+00:00",
-      "title": "Espagne : révision à la baisse des perspectives de la campagne de mangues",
+      "title": "Espagne : les perspectives de la campagne de mangues revues à la baisse",
       "title_hash": "perspectives baisse campagne mangues espagne",
       "category": "ALERTES SUPPLY",
       "commercials": [
@@ -1017,7 +1060,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Espagne : révision à la baisse des perspectives de la campagne de mangues -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">La saison des mangues débute dans les provinces de Malaga et Grenade avec des perspectives de récolte inférieure à l&#x27;année record 2025. Cette baisse de production est attribuée à des conditions météorologiques hivernales. La campagne s&#x27;annonce plus brève et plus intense que la précédente. <span class=\"news-reason\">Détaille le début de campagne d&#x27;un produit Mehadrin chez un concurrent majeur avec des alertes sur les volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866950/in-spagna-inizia-una-stagione-dei-mango-che-si-preannuncia-piu-breve-e-piu-intensa/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Espagne : les perspectives de la campagne de mangues revues à la baisse -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">La saison des mangues débute dans les provinces de Malaga et Grenade avec des perspectives de récolte inférieure à l&#x27;année record 2025. Cette baisse de production est attribuée à des conditions météorologiques hivernales. La campagne s&#x27;annonce plus brève et plus intense que la précédente. <span class=\"news-reason\">Détaille le début de campagne d&#x27;un produit Mehadrin chez un concurrent majeur avec des alertes sur les volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866950/in-spagna-inizia-una-stagione-dei-mango-che-si-preannuncia-piu-breve-e-piu-intensa/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Outlook for decline in Spain's mango season -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">The mango season begins in the provinces of Malaga and Granada with prospects of a lower harvest than the record year 2025. This production decline is attributed to winter weather conditions. The campaign is expected to be shorter and more intense than the previous one. <span class=\"news-reason\">Details the start of the season for a Mehadrin product at a major competitor with volume alerts.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866950/in-spagna-inizia-una-stagione-dei-mango-che-si-preannuncia-piu-breve-e-piu-intensa/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">תחזיות לירידה בעונת המנגו בספרד -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">עונת המנגו מתחילה במחוזות מלאגה וגרנדה עם תחזיות ליבול נמוך יותר משנת השיא 2025. ירידה זו בייצור מיוחסת לתנאי מזג האוויר בחורף. העונה צפויה להיות קצרה ואינטנסיבית יותר מקודמתה. <span class=\"news-reason\">מפרט את תחילת העונה של מוצר מהדרין אצל מתחרה מרכזי עם התראות על כמויות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866950/in-spagna-inizia-una-stagione-dei-mango-che-si-preannuncia-piu-breve-e-piu-intensa/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -1120,7 +1163,7 @@
     {
       "id": "1788325346_2",
       "timestamp": "2026-09-02T05:02:26.583921+00:00",
-      "title": "L’Équateur anticipe une baisse de 40 % de sa production de mangues",
+      "title": "L&#x27;Équateur anticipe une baisse de 40 % de sa production de mangues",
       "title_hash": "lx27équateur prévoit baisse 40 production mangues",
       "category": "ALERTES SUPPLY",
       "commercials": [
@@ -1130,7 +1173,7 @@
         "mango"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L’Équateur anticipe une baisse de 40 % de sa production de mangues -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">La saison d&#x27;exportation de mangues 2026-2027 en Équateur débute avec un premier envoi de 20 132 kg vers le Canada. La production totale pourrait chuter de 40 % selon les prévisions de la fondation Mango Ecuador, dans une campagne qui commence plus tôt que la période habituelle de mi-septembre. <span class=\"news-reason\">Alerte sur la disponibilité d&#x27;une origine concurrente avec des chiffres de baisse de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868472/ecuador-inicia-la-temporada-de-mango-con-una-produccion-que-podria-caer-un-40/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;Équateur anticipe une baisse de 40 % de sa production de mangues -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">La saison d&#x27;exportation de mangues 2026-2027 en Équateur débute avec un premier envoi de 20 132 kg vers le Canada. La production totale pourrait chuter de 40 % selon les prévisions de la fondation Mango Ecuador, dans une campagne qui commence plus tôt que la période habituelle de mi-septembre. <span class=\"news-reason\">Alerte sur la disponibilité d&#x27;une origine concurrente avec des chiffres de baisse de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868472/ecuador-inicia-la-temporada-de-mango-con-una-produccion-que-podria-caer-un-40/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Ecuador forecasts a 40% drop in its mango production -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">The 2026-2027 mango export season in Ecuador begins with a first shipment of 20,132 kg to Canada. Total production could fall by 40% according to forecasts from the Mango Ecuador foundation, in a season starting earlier than the usual mid-September period. <span class=\"news-reason\">Alert on the availability of a competing origin with production decline figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868472/ecuador-inicia-la-temporada-de-mango-con-una-produccion-que-podria-caer-un-40/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">אקוודור צופה ירידה של 40% בייצור המנגו שלה -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">עונת יצוא המנגו 2026-2027 באקוודור מתחילה עם משלוח ראשון של 20,132 ק\"ג לקנדה. הייצור הכולל עלול לצנוח ב-40% לפי תחזיות קרן Mango Ecuador, בעונה שמתחילה מוקדם מהתקופה הרגילה של אמצע ספטמבר. <span class=\"news-reason\">התראה על זמינות ממקור מתחרה עם נתוני ירידה בייצור.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868472/ecuador-inicia-la-temporada-de-mango-con-una-produccion-que-podria-caer-un-40/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -1960,46 +2003,30 @@
         "summary_fr": "Diversification des destinations malgré les risques logistiques croissants"
       },
       "gemini_score": 9
-    },
-    {
-      "id": "1788174151_0",
-      "timestamp": "2026-08-31T11:02:31.812703+00:00",
-      "title": "Le secteur des agrumes à Castellón paralysé par la concurrence sud-africaine -- 28/08/2026 13:28",
-      "title_hash": "secteur agrumes à castellón paralysé concurrence sudafricaine",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [
-        "ESP",
-        "ZAF"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le secteur des agrumes à Castellón paralysé par la concurrence sud-africaine -- <span class=\"news-date\">28/08/2026 13:28</span></div><div class=\"news-body\">Le secteur des agrumes à Castellón entame la saison 2026-2027 dans une impasse commerciale inédite. Les transactions sont au point mort en raison du manque d&#x27;intérêt des acheteurs, alors que les prévisions de récolte annoncent des volumes historiquement bas pour la deuxième année consécutive. Les producteurs pointent du doigt la pression des stocks d&#x27;Afrique du Sud sur le marché européen, bloquant le démarrage commercial de l&#x27;origine espagnole. <span class=\"news-reason\">Alerte majeure sur le début de campagne agrumes en Espagne avec un arrêt des transactions et des prévisions de récolte historiquement basses.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867346/citrus-trade-in-castellon-has-been-brought-to-a-standstill-by-pressure-from-south-african-fruit/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">The citrus sector in Castellón paralyzed by South African competition -- <span class=\"news-date\">08/28/2026 13:28</span></div><div class=\"news-body\">The citrus sector in Castellón begins the 2026-2027 season in an unprecedented commercial deadlock. Transactions are at a standstill due to the lack of interest from buyers, while harvest forecasts predict historically low volumes for the second consecutive year. Producers point to the pressure of South African stocks on the European market, blocking the commercial start of Spanish-origin produce. <span class=\"news-reason\">Major alert on the start of the citrus season in Spain with a halt in transactions and historically low harvest forecasts.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867346/citrus-trade-in-castellon-has-been-brought-to-a-standstill-by-pressure-from-south-african-fruit/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ענף ההדרים בקסטלון משותק בשל התחרות מדרום אפריקה -- <span class=\"news-date\">28/08/2026 13:28</span></div><div class=\"news-body\">ענף ההדרים בקסטלון מתחיל את עונת 2026-2027 במבוי סתום מסחרי חסר תקדים. העסקאות נמצאות בקיפאון בשל חוסר עניין מצד הקונים, בעוד שתחזיות היבול צופות כמויות נמוכות היסטורית זו השנה השנייה ברציפות. המגדלים מצביעים על הלחץ של מלאי הפירות מדרום אפריקה על השוק האירופי, החוסם את תחילת השיווק של התוצרת הספרדית. <span class=\"news-reason\">התראה משמעותית לגבי תחילת עונת ההדרים בספרד עם עצירת עסקאות ותחזיות יבול נמוכות היסטורית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9867346/citrus-trade-in-castellon-has-been-brought-to-a-standstill-by-pressure-from-south-african-fruit/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>",
-      "rss_metadata": {
-        "id": "rss-07a95b20d897fa98",
-        "title": "Citrus trade in Castellón has been brought to a standstill by pressure from South African fruit",
-        "summary": "The citrus sector in Castellón is beginning the 2026–2027 season with little interest from the trade in buying fruit. Growers describe this as unprecedented, especially as harvests are expected to hit record lows for the second consecutive year. \"Everything has come to a standstill. There's nothing. I've…",
-        "url": "https://www.freshplaza.com/article/9867346/citrus-trade-in-castellon-has-been-brought-to-a-standstill-by-pressure-from-south-african-fruit/",
-        "source": "FreshPlaza",
-        "published_at": "2026-08-28T13:28:00+02:00",
-        "language": "en",
-        "products": [],
-        "origins": [
-          "ZAF"
-        ]
-      },
-      "attention_enrichment": {
-        "title_fr": "Paralysie des ventes d'agrumes pour la nouvelle campagne",
-        "summary_fr": "Des récoltes historiquement basses et une forte pression concurrentielle bloquent le commerce."
-      },
-      "gemini_score": 8
     }
   ],
   "article_count": 54,
   "attention_points": [
+    {
+      "id": "attention-be110a48c9c9eb14",
+      "article_id": "1788433432_0",
+      "url": "https://www.agf.nl/article/9869214/spanjaarden-beklagen-nederlandse-fruitimporteurs-overschot-aan-citroenen-treft-europese-telers/",
+      "source": "AGF.nl",
+      "title": "Les ports néerlandais captent la majorité des agrumes importés",
+      "summary": "Selon l'organisation espagnole Ailimpo, l'Union européenne a importé plus de 2,34 millions de tonnes d'agrumes (oranges, citrons, pomelos, mandarines et limes) au cours de la saison 2024/25.",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
+      "published_at": "2026-09-03T12:10:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "information",
+      "products": [
+        "citrus_grapefruit",
+        "lime"
+      ],
+      "age_hours": 0
+    },
     {
       "id": "attention-a21175fdbfafca90",
       "article_id": "1788427983_0",
@@ -2017,24 +2044,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 1
-    },
-    {
-      "id": "attention-862ecda5f9741aee",
-      "article_id": "1788427983_1",
-      "url": "https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/",
-      "source": "FreshPlaza IT",
-      "title": "Italie : progression de 13 % de la consommation",
-      "summary": "Le marché italien des fruits et légumes biologiques connaît un renouveau en 2025.",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
-      "published_at": "2026-09-03T06:05:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "information",
-      "products": [],
-      "age_hours": 5
+      "age_hours": 2
     },
     {
       "id": "attention-c3d428dee51e44ff",
@@ -2053,7 +2063,7 @@
       "products": [
         "mango"
       ],
-      "age_hours": 5
+      "age_hours": 6
     },
     {
       "id": "attention-82e11bb22682296f",
@@ -2072,7 +2082,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 21
+      "age_hours": 23
     }
   ]
 }
