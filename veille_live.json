@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-04T12:34:23.303803+00:00",
-  "article_count": 53,
+  "last_updated": "2026-09-04T14:04:13.862869+00:00",
+  "article_count": 51,
   "attention_points": [
     {
       "id": "attention-f028a4c8ebc61234",
@@ -20,7 +20,7 @@
         "mandarine",
         "pomegranate"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-089f8318ba74e7f2",
@@ -39,7 +39,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 2
+      "age_hours": 3
     },
     {
       "id": "attention-cb670ade0f5f4002",
@@ -56,7 +56,7 @@
       "signal_label": "Volumes",
       "icon": "information",
       "products": [],
-      "age_hours": 2
+      "age_hours": 3
     },
     {
       "id": "attention-e967b0fc446076a8",
@@ -73,10 +73,28 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 8
+      "age_hours": 9
     }
   ],
   "articles": [
+    {
+      "id": "1788530653_0",
+      "timestamp": "2026-09-04T14:04:13.862869+00:00",
+      "title": "Saison des dattes Barhi en Égypte : défis logistiques et volumes constants -- 04/09/2026 06:05",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [
+        "date"
+      ],
+      "origins": [
+        "EGY"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Saison des dattes Barhi en Égypte : défis logistiques et volumes constants -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">La campagne des dattes Barhi en Égypte a atteint son apogée avec des volumes constants et une production en croissance. Cependant, le marché est marqué par une demande sensible aux prix et des difficultés majeures pour le transport aérien, jugé presque impraticable cette saison. <span class=\"news-reason\">Informations sur la campagne de dattes d&#x27;une origine concurrente et alertes logistiques sur le fret aérien.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868156/in-questa-stagione-il-trasporto-aereo-per-i-datteri-barhi-e-quasi-impraticabile/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Barhi date season in Egypt: logistical challenges and steady volumes -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">The Barhi date campaign in Egypt has reached its peak with steady volumes and growing production. However, the market is marked by price-sensitive demand and major difficulties for air transport, deemed almost impractical this season. <span class=\"news-reason\">Information on the date campaign from a competing origin and logistical alerts on air freight.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868156/in-questa-stagione-il-trasporto-aereo-per-i-datteri-barhi-e-quasi-impraticabile/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">עונת תמרי הברהי במצרים: אתגרים לוגיסטיים וכמויות יציבות -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">עונת תמרי הברהי במצרים הגיעה לשיאה עם כמויות יציבות וייצור גדל. עם זאת, השוק מתאפיין בביקוש רגיש למחיר ובקשיים משמעותיים בהובלה אווירית, שנחשבת לכמעט בלתי אפשרית העונה. <span class=\"news-reason\">מידע על עונת התמרים ממקור מתחרה והתראות לוגיסטיות לגבי הובלה אווירית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868156/in-questa-stagione-il-trasporto-aereo-per-i-datteri-barhi-e-quasi-impraticabile/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1788525263_1",
       "timestamp": "2026-09-04T12:34:23.303803+00:00",
@@ -231,7 +249,7 @@
     {
       "id": "1788449603_0",
       "timestamp": "2026-09-03T15:33:23.419286+00:00",
-      "title": "Égypte : 14 000 tonnes de patates douces exportées en une semaine -- 03/09/2026 06:05",
+      "title": "Égypte : exportation de 14 000 tonnes de patates douces en une semaine",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -242,7 +260,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Égypte : 14 000 tonnes de patates douces exportées en une semaine -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">Entre le 22 et le 28 août 2026, l&#x27;Égypte a exporté environ 14 000 tonnes de patates douces. Selon les données de la National Food Safety Authority (NFSA), ces volumes font partie d&#x27;un total de 172 000 tonnes de produits alimentaires expédiés durant cette semaine via 3 516 chargements, impliquant près de 1 300 entreprises. <span class=\"news-reason\">L&#x27;article fournit des volumes d&#x27;exportation précis pour la patate douce, un produit concurrent direct de Mehadrin, sur une période hebdomadaire récente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868152/le-esportazioni-egiziane-di-patate-dolci-raggiungono-14-000-tonnellate-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Égypte : exportation de 14 000 tonnes de patates douces en une semaine -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">Entre le 22 et le 28 août 2026, l&#x27;Égypte a exporté environ 14 000 tonnes de patates douces. Selon les données de la National Food Safety Authority (NFSA), ces volumes font partie d&#x27;un total de 172 000 tonnes de produits alimentaires expédiés durant cette semaine via 3 516 chargements, impliquant près de 1 300 entreprises. <span class=\"news-reason\">L&#x27;article fournit des volumes d&#x27;exportation précis pour la patate douce, un produit concurrent direct de Mehadrin, sur une période hebdomadaire récente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868152/le-esportazioni-egiziane-di-patate-dolci-raggiungono-14-000-tonnellate-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Egypt: 14,000 tons of sweet potatoes exported in one week -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">Between August 22 and 28, 2026, Egypt exported approximately 14,000 tons of sweet potatoes. According to data from the National Food Safety Authority (NFSA), these volumes are part of a total of 172,000 tons of food products shipped during this week via 3,516 shipments, involving nearly 1,300 companies. <span class=\"news-reason\">The article provides precise export volumes for sweet potatoes, a direct competitor product of Mehadrin, over a recent weekly period.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868152/le-esportazioni-egiziane-di-patate-dolci-raggiungono-14-000-tonnellate-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מצרים: 14,000 טונות של בטטות יוצאו בשבוע אחד -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">בין ה-22 ל-28 באוגוסט 2026, מצרים ייצאה כ-14,000 טונות של בטטות. על פי נתוני הרשות הלאומית לבטיחות מזון (NFSA), כמויות אלו הן חלק מסך של 172,000 טונות של מוצרי מזון שנשלחו במהלך שבוע זה באמצעות 3,516 משלוחים, בהם היו מעורבות כ-1,300 חברות. <span class=\"news-reason\">המאמר מספק כמויות ייצוא מדויקות עבור בטטה, מוצר המתחרה ישירות במהדרין, לאורך תקופה שבועית לאחרונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868152/le-esportazioni-egiziane-di-patate-dolci-raggiungono-14-000-tonnellate-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -345,14 +363,14 @@
     {
       "id": "1788427983_1",
       "timestamp": "2026-09-03T09:33:03.618020+00:00",
-      "title": "Italie : la consommation de fruits et légumes biologiques progresse de 13 %",
+      "title": "Italie : la consommation de fruits et légumes biologiques enregistre une hausse de 13 %",
       "category": "PRIX &amp VOLUMES",
       "commercials": [],
       "products": [],
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Italie : la consommation de fruits et légumes biologiques progresse de 13 % -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">Le marché italien des fruits et légumes biologiques connaît un renouveau en 2025. Les achats des ménages ont atteint 594 000 tonnes, soit une hausse de 11 % par rapport à 2024, tandis que la consommation totale en volume a progressé de 13 %. <span class=\"news-reason\">Données chiffrées sur la croissance d&#x27;un marché européen majeur pour les produits frais, incluant les segments Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Italie : la consommation de fruits et légumes biologiques enregistre une hausse de 13 % -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">Le marché italien des fruits et légumes biologiques connaît un renouveau en 2025. Les achats des ménages ont atteint 594 000 tonnes, soit une hausse de 11 % par rapport à 2024, tandis que la consommation totale en volume a progressé de 13 %. <span class=\"news-reason\">Données chiffrées sur la croissance d&#x27;un marché européen majeur pour les produits frais, incluant les segments Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Italy: consumption of organic fruits and vegetables grows by 13% -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">The Italian organic fruit and vegetable market is seeing a revival in 2025. Household purchases reached 594,000 tonnes, up 11% from 2024, while total volume consumption grew by 13%. <span class=\"news-reason\">Numerical data on the growth of a major European market for fresh produce, including Mehadrin segments.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">איטליה: צריכת הפירות והירקות האורגניים עולה ב-13% -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">שוק הפירות והירקות האורגניים באיטליה חווה התחדשות בשנת 2025. רכישות משקי הבית הגיעו ל-594,000 טון, עלייה של 11% לעומת 2024, בעוד שסך הצריכה במונחי נפח עלה ב-13%. <span class=\"news-reason\">נתונים מספריים על צמיחת שוק אירופי מרכזי לתוצרת טרייה, כולל מגזרי מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -410,7 +428,7 @@
     {
       "id": "1788422594_0",
       "timestamp": "2026-09-03T08:03:14.008429+00:00",
-      "title": "Nayarit : Pertes historiques pour la filière mangue mexicaine face aux aléas climatiques",
+      "title": "Nayarit : Pertes historiques pour la filière mexicaine de la mangue face aux aléas climatiques",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -421,7 +439,7 @@
       "origins": [
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Nayarit : Pertes historiques pour la filière mangue mexicaine face aux aléas climatiques -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">La saison des mangues au Mexique se termine avec des rendements bien inférieurs aux prévisions initiales. Les conditions météorologiques défavorables dans les régions de Nayarit et Sinaloa ont provoqué des pertes historiques, rendant la campagne plus difficile que prévu pour les exportateurs. <span class=\"news-reason\">Alerte sur la fin de campagne d&#x27;une origine concurrente majeure avec des pertes de volumes dues à la météo.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866970/il-mango-messicano-registra-perdite-storiche-a-nayarit-a-causa-dei-fattori-climatici/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Nayarit : Pertes historiques pour la filière mexicaine de la mangue face aux aléas climatiques -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">La saison des mangues au Mexique se termine avec des rendements bien inférieurs aux prévisions initiales. Les conditions météorologiques défavorables dans les régions de Nayarit et Sinaloa ont provoqué des pertes historiques, rendant la campagne plus difficile que prévu pour les exportateurs. <span class=\"news-reason\">Alerte sur la fin de campagne d&#x27;une origine concurrente majeure avec des pertes de volumes dues à la météo.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866970/il-mango-messicano-registra-perdite-storiche-a-nayarit-a-causa-dei-fattori-climatici/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Nayarit: historic losses for Mexican mangoes due to climatic conditions -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">The mango season in Mexico is ending with yields well below initial forecasts. Unfavorable weather conditions in the Nayarit and Sinaloa regions have caused historic losses, making the campaign more difficult than expected for exporters. <span class=\"news-reason\">Alert on the end of the campaign for a major competing origin with volume losses due to weather.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866970/il-mango-messicano-registra-perdite-storiche-a-nayarit-a-causa-dei-fattori-climatici/\" target=\"_blank\">FreshPlaza IT -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">נאיירית: הפסדים היסטוריים למנגו המקסיקני בשל תנאי האקלים -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">עונת המנגו במקסיקו מסתיימת עם יבולים נמוכים בהרבה מהתחזיות המקוריות. תנאי מזג אוויר קשים באזורי נאיירית וסינלואה גרמו להפסדים היסטוריים, והפכו את העונה למאתגרת מהצפוי עבור היצואנים. <span class=\"news-reason\">התראה על סיום עונה של מקור מתחרה מרכזי עם הפסדי כמויות עקב מזג האוויר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866970/il-mango-messicano-registra-perdite-storiche-a-nayarit-a-causa-dei-fattori-climatici/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -945,56 +963,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Kakuzi Plc lance un projet de serres pour sa diversification au Kenya -- <span class=\"news-date\">01/09/2026 14:15</span></div><div class=\"news-body\">L&#x27;entreprise Kakuzi Plc a commencé le développement d&#x27;un projet de serres de 12 hectares au Kenya. Cette initiative vise à intégrer les myrtilles comme troisième culture commerciale, aux côtés du macadamia et de l&#x27;avocat, afin de diversifier ses sources de revenus après des essais de culture concluants. <span class=\"news-reason\">Investissement majeur dans la production d&#x27;avocats par un concurrent important au Kenya.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9868482/12-hectare-blueberry-greenhouse-project-underway-in-kenya/\" target=\"_blank\">HortiDaily -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Kakuzi Plc launches a greenhouse project for its diversification in Kenya -- <span class=\"news-date\">01/09/2026 14:15</span></div><div class=\"news-body\">The company Kakuzi Plc has started the development of a 12-hectare greenhouse project in Kenya. This initiative aims to integrate blueberries as a third commercial crop, alongside macadamia and avocado, in order to diversify its revenue streams after successful cultivation trials. <span class=\"news-reason\">Major investment in avocado production by a significant competitor in Kenya.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9868482/12-hectare-blueberry-greenhouse-project-underway-in-kenya/\" target=\"_blank\">HortiDaily -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי חברות</div><div class=\"news-title\">Kakuzi Plc משיקה פרויקט חממות לגיוון הגידולים שלה בקניה -- <span class=\"news-date\">01/09/2026 14:15</span></div><div class=\"news-body\">חברת Kakuzi Plc החלה בפיתוח פרויקט חממות בשטח של 12 הקטאר בקניה. יוזמה זו שואפת לשלב אוכמניות כגידול מסחרי שלישי, לצד מקדמיה ואבוקדו, במטרה לגוון את מקורות ההכנסה שלה לאחר ניסויי גידול מוצלחים. <span class=\"news-reason\">השקעה משמעותית בייצור אבוקדו על ידי מתחרה חשוב בקניה.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9868482/12-hectare-blueberry-greenhouse-project-underway-in-kenya/\" target=\"_blank\">HortiDaily -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788271339_2",
-      "timestamp": "2026-09-01T14:02:19.410321+00:00",
-      "title": "Volumes abondants et récolte précoce pour la datte Medjool 2026-2027 -- 01/09/2026 13:29",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Jessica"
-      ],
-      "products": [
-        "date"
-      ],
-      "origins": [
-        "USA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Volumes abondants et récolte précoce pour la datte Medjool 2026-2027 -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">La campagne 2026-2027 des dattes Medjool aux États-Unis commence avec des perspectives positives. Grâce à des conditions météorologiques optimales dans la Bard Valley, la récolte a débuté tôt en août, affichant des volumes abondants et une qualité de fruit supérieure par rapport aux saisons précédentes. <span class=\"news-reason\">Informations de volume et de début de campagne sur un produit stratégique en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868199/ample-volume-marks-2026-27-medjool-date-crop/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Abundant volumes and early harvest for the 2026-2027 Medjool date -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">The 2026-2027 Medjool date campaign in the United States is starting with positive prospects. Thanks to optimal weather conditions in the Bard Valley, harvesting began early in August, showing abundant volumes and superior fruit quality compared to previous seasons. <span class=\"news-reason\">Volume and campaign start information for a strategic seasonal product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868199/ample-volume-marks-2026-27-medjool-date-crop/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">כמויות בשפע ויבול מוקדם לתמר מג'הול 2026-2027 -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">עונת 2026-2027 של תמר המג'הול בארצות הברית מתחילה עם תחזיות חיוביות. הודות לתנאי מזג אוויר אופטימליים בעמק בארד (Bard Valley), הקטיף החל מוקדם באוגוסט, עם כמויות בשפע ואיכות פרי מעולה בהשוואה לעונות קודמות. <span class=\"news-reason\">מידע על כמויות ותחילת העונה עבור מוצר אסטרטגי בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868199/ample-volume-marks-2026-27-medjool-date-crop/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788271339_1",
-      "timestamp": "2026-09-01T14:02:19.410321+00:00",
-      "title": "Kenya : les retards aéroportuaires menacent les exportations de produits frais -- 01/09/2026 13:29",
-      "category": "ALERTES SUPPLY",
-      "commercials": [],
-      "products": [],
-      "origins": [
-        "KEN"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Kenya : les retards aéroportuaires menacent les exportations de produits frais -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">Une grève perlée des travailleurs de l&#x27;aviation à l&#x27;aéroport international Jomo Kenyatta (JKIA) au Kenya perturbe les exportations de produits frais. Le Fresh Produce Consortium du Kenya avertit que ces retards menacent directement la qualité des cargaisons périssables, notamment les fruits et légumes, dont la valeur dépend d&#x27;une expédition rapide. <span class=\"news-reason\">Alerte logistique majeure impactant la disponibilité et la qualité des fruits d&#x27;une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868225/airport-delays-in-kenya-threaten-fresh-produce-exports/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Kenya: airport delays threaten fresh produce exports -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">A go-slow strike by aviation workers at Jomo Kenyatta International Airport (JKIA) in Kenya is disrupting fresh produce exports. The Fresh Produce Consortium of Kenya warns that these delays directly threaten the quality of perishable shipments, particularly fruits and vegetables, whose value depends on rapid shipping. <span class=\"news-reason\">Major logistics alert impacting the availability and quality of fruit from a competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868225/airport-delays-in-kenya-threaten-fresh-produce-exports/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">קניה: עיכובים בשדות התעופה מאיימים על יצוא התוצרת הטרייה -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">שביתת האטה של עובדי התעופה בנמל התעופה הבינלאומי ג'ומו קניאטה (JKIA) בקניה משבשת את יצוא התוצרת הטרייה. קונסורציום התוצרת הטרייה של קניה מזהיר כי עיכובים אלו מאיימים ישירות על איכות המטענים המתכלים, ובפרט פירות וירקות, שערכם תלוי במשלוח מהיר. <span class=\"news-reason\">התראת לוגיסטיקה משמעותית המשפיעה על הזמינות והאיכות של פירות ממקור מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868225/airport-delays-in-kenya-threaten-fresh-produce-exports/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788271339_0",
-      "timestamp": "2026-09-01T14:02:19.410321+00:00",
-      "title": "Pertes de récoltes d&#x27;avocats consécutives au gel en Nouvelle-Zélande -- 01/09/2026 13:29",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "NZL"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pertes de récoltes d&#x27;avocats consécutives au gel en Nouvelle-Zélande -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">Les producteurs d&#x27;avocats de Nouvelle-Zélande évaluent les pertes suite au gel survenu les 5 et 6 août dans les régions de Northland et Bay of Plenty. Les températures sont descendues jusqu&#x27;à -4°C, causant des dommages aux fruits et au feuillage. Certains vergers signalent des impacts significatifs sur le potentiel de récolte. <span class=\"news-reason\">Alerte supply sur un produit Mehadrin chez une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868312/avocado-frost-losses-assessed-across-new-zealand/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Avocado crop losses following frost in New Zealand -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">New Zealand avocado growers are assessing losses following frost on August 5 and 6 in the Northland and Bay of Plenty regions. Temperatures dropped as low as -4°C, causing damage to fruit and foliage. Some orchards report significant impacts on harvest potential. <span class=\"news-reason\">Supply alert on a Mehadrin product from a competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868312/avocado-frost-losses-assessed-across-new-zealand/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">אובדן יבול אבוקדו בעקבות קרה בניו זילנד -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">מגדלי האבוקדו בניו זילנד מעריכים את האבדות בעקבות הקרה שאירעה ב-5 וב-6 באוגוסט באזורי נורת'לנד וביי אוף פלנטי. הטמפרטורות ירדו ל-4 מעלות מתחת לאפס, מה שגרם לנזקים לפרי ולעלווה. מטעים מסוימים מדווחים על השפעות משמעותיות על פוטנציאל היבול. <span class=\"news-reason\">התראת אספקה על מוצר מהדרין ממקור מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868312/avocado-frost-losses-assessed-across-new-zealand/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
