@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-09-04T08:04:18.563852+00:00",
-  "article_count": 52,
+  "last_updated": "2026-09-04T11:04:39.207181+00:00",
+  "article_count": 54,
   "attention_points": [
+    {
+      "id": "attention-089f8318ba74e7f2",
+      "article_id": "1788519879_0",
+      "url": "https://www.agf.nl/article/9869583/na-opvallend-goede-zomervraag-naar-avocado-s-verwachten-we-ook-de-komende-weken-voldoende-beweging/",
+      "source": "AGF.nl",
+      "title": "Avocats : hausse précoce des cours et vigueur",
+      "summary": "Le marché de l'avocat a connu une dynamique inhabituelle cet été avec une remontée précoce des prix.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-09-04T12:08:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "price",
+      "signal_label": "Prix",
+      "icon": "information",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-cb670ade0f5f4002",
+      "article_id": "1788519879_2",
+      "url": "https://www.agf.nl/article/9869652/een-gelijk-speelveld-bestaat-niet-maar-waar-ontbreekt-het-het-meest/",
+      "source": "AGF.nl",
+      "title": "Les 10 principaux pays fournisseurs de fruits et légumes",
+      "summary": "Plus des deux tiers des fruits et légumes importés par l'UE proviennent de seulement dix pays tiers.",
+      "origin_code": "EGY",
+      "origin_label": "Égypte",
+      "published_at": "2026-09-04T12:08:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "information",
+      "products": [],
+      "age_hours": 0
+    },
     {
       "id": "attention-16a25814bddf0a9a",
       "article_id": "1788509058_1",
@@ -18,25 +54,6 @@
       "icon": "availability",
       "products": [
         "watermelon"
-      ],
-      "age_hours": 0
-    },
-    {
-      "id": "attention-d0aa0cc3912b4937",
-      "article_id": "1788498196_0",
-      "url": "https://www.freshplaza.it/article/9867302/il-consumo-di-avocado-in-europa-cresce-del-36-per-cento-in-cinque-anni-quanto-spazio-c-e-ancora-per-espandersi/",
-      "source": "FreshPlaza IT",
-      "title": "La consommation d'avocats en Europe a progressé de 36",
-      "summary": "La consommation d'avocats dans l'UE-27 a enregistré une hausse de 36 % entre 2020 et 2024.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-09-04T06:05:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "information",
-      "products": [
-        "avocat"
       ],
       "age_hours": 3
     },
@@ -55,29 +72,45 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 3
-    },
-    {
-      "id": "attention-28ef5c05e402599a",
-      "article_id": "1788454998_0",
-      "url": "https://www.freshfruitportal.com/news/2026/09/03/citrus-greening-br-spread/",
-      "source": "Fresh Fruit Portal",
-      "title": "Le verdissement des agrumes affecte près de la moitié",
-      "summary": "La maladie menace gravement la santé de la production mondiale",
-      "origin_code": "BRA",
-      "origin_label": "Brésil",
-      "published_at": "2026-09-03T12:00:42+00:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [
-        "orange"
-      ],
-      "age_hours": 20
+      "age_hours": 6
     }
   ],
   "articles": [
+    {
+      "id": "1788519879_2",
+      "timestamp": "2026-09-04T11:04:39.207181+00:00",
+      "title": "Les 10 principaux pays fournisseurs de fruits et légumes de l&#x27;Union européenne -- 04/09/2026 12:08",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "MAR",
+        "EGY",
+        "ZAF",
+        "PER",
+        "COL",
+        "CRI"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les 10 principaux pays fournisseurs de fruits et légumes de l&#x27;Union européenne -- <span class=\"news-date\">04/09/2026 12:08</span></div><div class=\"news-body\">Plus des deux tiers des fruits et légumes importés par l&#x27;UE proviennent de seulement dix pays tiers. L&#x27;Égypte domine ce classement avec 10 % des volumes, suivie par l&#x27;Équateur (9,5 %), le Costa Rica (9 %), le Maroc (8 %), la Colombie (8 %), l&#x27;Afrique du Sud (7 %) et le Pérou. <span class=\"news-reason\">Fournit des parts de marché précises pour les pays concurrents de Mehadrin (Égypte, Maroc, Afrique du Sud, Pérou) vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9869652/een-gelijk-speelveld-bestaat-niet-maar-waar-ontbreekt-het-het-meest/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">The top 10 fruit and vegetable supplying countries to the European Union -- <span class=\"news-date\">04/09/2026 12:08</span></div><div class=\"news-body\">More than two-thirds of the fruit and vegetables imported by the EU come from just ten third countries. Egypt dominates this ranking with 10% of volumes, followed by Ecuador (9.5%), Costa Rica (9%), Morocco (8%), Colombia (8%), South Africa (7%), and Peru. <span class=\"news-reason\">Provides precise market shares for Mehadrin's competing countries (Egypt, Morocco, South Africa, Peru) to Europe.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9869652/een-gelijk-speelveld-bestaat-niet-maar-waar-ontbreekt-het-het-meest/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">10 המדינות העיקריות המספקות פירות וירקות לאיחוד האירופי -- <span class=\"news-date\">04/09/2026 12:08</span></div><div class=\"news-body\">למעלה משני שלישים מהפירות והירקות המיובאים לאיחוד האירופי מגיעים מעשר מדינות שלישיות בלבד. מצרים מובילה את הדירוג הזה עם 10% מהכמויות, אחריה אקוודור (9.5%), קוסטה ריקה (9%), מרוקו (8%), קולומביה (8%), דרום אפריקה (7%) ופרו. <span class=\"news-reason\">מספק נתחי שוק מדויקים עבור המדינות המתחרות במהדרין (מצרים, מרוקו, דרום אפריקה, פרו) לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9869652/een-gelijk-speelveld-bestaat-niet-maar-waar-ontbreekt-het-het-meest/\" target=\"_blank\">AGF.nl -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1788519879_0",
+      "timestamp": "2026-09-04T11:04:39.207181+00:00",
+      "title": "Avocats : hausse précoce des cours et vigueur de la demande estivale en Europe -- 04/09/2026 12:08",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Avocats : hausse précoce des cours et vigueur de la demande estivale en Europe -- <span class=\"news-date\">04/09/2026 12:08</span></div><div class=\"news-body\">Le marché de l&#x27;avocat a connu une dynamique inhabituelle cet été avec une remontée précoce des prix. Contrairement aux saisons précédentes où les prix restaient bas plus longtemps, la demande a été particulièrement soutenue. Une tension est observée sur les calibres moyens et petits, dont la disponibilité reste limitée sur le marché européen. <span class=\"news-reason\">L&#x27;article fournit des informations cruciales sur les prix et la structure de la demande pour l&#x27;avocat, un produit phare de Mehadrin, en soulignant une pénurie de petits calibres.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9869583/na-opvallend-goede-zomervraag-naar-avocado-s-verwachten-we-ook-de-komende-weken-voldoende-beweging/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Avocados: early price increase and strong summer demand in Europe -- <span class=\"news-date\">04/09/2026 12:08</span></div><div class=\"news-body\">The avocado market experienced unusual dynamics this summer with an early rise in prices. Unlike previous seasons where prices remained low for longer, demand was particularly strong. Tension is observed in medium and small sizes, whose availability remains limited on the European market. <span class=\"news-reason\">The article provides crucial information on prices and the demand structure for avocados, a flagship product for Mehadrin, highlighting a shortage of small sizes.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9869583/na-opvallend-goede-zomervraag-naar-avocado-s-verwachten-we-ook-de-komende-weken-voldoende-beweging/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">אבוקדו: עלייה מוקדמת במחירים וביקוש קיצי חזק באירופה -- <span class=\"news-date\">04/09/2026 12:08</span></div><div class=\"news-body\">שוק האבוקדו חווה דינמיקה יוצאת דופן הקיץ עם עלייה מוקדמת במחירים. בניגוד לעונות קודמות שבהן המחירים נותרו נמוכים למשך זמן רב יותר, הביקוש היה חזק במיוחד. נצפה מחסור בגדלים בינוניים וקטנים, שזמינותם נותרת מוגבלת בשוק האירופי. <span class=\"news-reason\">המאמר מספק מידע חיוני על המחירים ומבנה הביקוש לאבוקדו, מוצר דגל של מהדרין, תוך הדגשת המחסור בגדלים קטנים.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9869583/na-opvallend-goede-zomervraag-naar-avocado-s-verwachten-we-ook-de-komende-weken-voldoende-beweging/\" target=\"_blank\">AGF.nl -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1788509058_3",
       "timestamp": "2026-09-04T08:04:18.563852+00:00",
@@ -95,7 +128,7 @@
     {
       "id": "1788509058_2",
       "timestamp": "2026-09-04T08:04:18.563852+00:00",
-      "title": "Italie : innovation et essais variétaux dans la production de melons à Foggia -- 04/09/2026 06:05",
+      "title": "Italie : innovations et essais variétaux dans la production de melons à Foggia",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Sébastien"
@@ -106,7 +139,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Italie : innovation et essais variétaux dans la production de melons à Foggia -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">L&#x27;événement Melone Experience s&#x27;est tenu dans la région de Foggia, pôle majeur de la culture du melon en Italie. Cette rencontre a permis de présenter les dernières innovations variétales et de réaliser des comparaisons techniques directement sur le terrain avec les producteurs et opérateurs du secteur. <span class=\"news-reason\">Information stratégique sur les développements variétaux d&#x27;un concurrent direct (Italie) sur le segment du melon.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869657/melone-experience-innovazione-varietale-e-confronto-tecnico-in-campo-nel-foggiano/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Italie : innovations et essais variétaux dans la production de melons à Foggia -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">L&#x27;événement Melone Experience s&#x27;est tenu dans la région de Foggia, pôle majeur de la culture du melon en Italie. Cette rencontre a permis de présenter les dernières innovations variétales et de réaliser des comparaisons techniques directement sur le terrain avec les producteurs et opérateurs du secteur. <span class=\"news-reason\">Information stratégique sur les développements variétaux d&#x27;un concurrent direct (Italie) sur le segment du melon.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869657/melone-experience-innovazione-varietale-e-confronto-tecnico-in-campo-nel-foggiano/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Italy: Innovation and varietal trials in melon production in Foggia -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">The Melone Experience event was held in the Foggia region, a major hub for melon cultivation in Italy. This meeting showcased the latest varietal innovations and allowed for technical comparisons directly in the field with producers and sector operators. <span class=\"news-reason\">Strategic information on varietal developments of a direct competitor (Italy) in the melon segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869657/melone-experience-innovazione-varietale-e-confronto-tecnico-in-campo-nel-foggiano/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות ומקורות</div><div class=\"news-title\">איטליה: חדשנות וניסויים זניים בייצור מלונים בפוג'ה -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">אירוע Melone Experience התקיים באזור פוג'ה, מוקד מרכזי לגידול מלונים באיטליה. מפגש זה איפשר להציג את החידושים הזניים האחרונים ולבצע השוואות טכניות ישירות בשטח עם המגדלים והגורמים הפועלים במגזר. <span class=\"news-reason\">מידע אסטרטגי על פיתוחים זניים של מתחרה ישיר (איטליה) בסגמנט המלונים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869657/melone-experience-innovazione-varietale-e-confronto-tecnico-in-campo-nel-foggiano/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -275,14 +308,14 @@
     {
       "id": "1788427983_1",
       "timestamp": "2026-09-03T09:33:03.618020+00:00",
-      "title": "Italie : progression de 13 % de la consommation de fruits et légumes biologiques",
+      "title": "Italie : la consommation de fruits et légumes biologiques enregistre une progression de 13 %",
       "category": "PRIX &amp VOLUMES",
       "commercials": [],
       "products": [],
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Italie : progression de 13 % de la consommation de fruits et légumes biologiques -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">Le marché italien des fruits et légumes biologiques connaît un renouveau en 2025. Les achats des ménages ont atteint 594 000 tonnes, soit une hausse de 11 % par rapport à 2024, tandis que la consommation totale en volume a progressé de 13 %. <span class=\"news-reason\">Données chiffrées sur la croissance d&#x27;un marché européen majeur pour les produits frais, incluant les segments Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Italie : la consommation de fruits et légumes biologiques enregistre une progression de 13 % -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">Le marché italien des fruits et légumes biologiques connaît un renouveau en 2025. Les achats des ménages ont atteint 594 000 tonnes, soit une hausse de 11 % par rapport à 2024, tandis que la consommation totale en volume a progressé de 13 %. <span class=\"news-reason\">Données chiffrées sur la croissance d&#x27;un marché européen majeur pour les produits frais, incluant les segments Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Italy: consumption of organic fruits and vegetables grows by 13% -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">The Italian organic fruit and vegetable market is seeing a revival in 2025. Household purchases reached 594,000 tonnes, up 11% from 2024, while total volume consumption grew by 13%. <span class=\"news-reason\">Numerical data on the growth of a major European market for fresh produce, including Mehadrin segments.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">איטליה: צריכת הפירות והירקות האורגניים עולה ב-13% -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">שוק הפירות והירקות האורגניים באיטליה חווה התחדשות בשנת 2025. רכישות משקי הבית הגיעו ל-594,000 טון, עלייה של 11% לעומת 2024, בעוד שסך הצריכה במונחי נפח עלה ב-13%. <span class=\"news-reason\">נתונים מספריים על צמיחת שוק אירופי מרכזי לתוצרת טרייה, כולל מגזרי מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -412,7 +445,7 @@
     {
       "id": "1788411783_1",
       "timestamp": "2026-09-03T05:03:03.376475+00:00",
-      "title": "L&#x27;Égypte consolide sa position sur le marché mondial de la grenade",
+      "title": "L’Égypte consolide sa position sur le marché mondial de la grenade",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -423,7 +456,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;Égypte consolide sa position sur le marché mondial de la grenade -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">L&#x27;Égypte consolide son statut de producteur majeur de grenades grâce à l&#x27;extension des surfaces de culture et à une période de récolte allongée. La demande internationale est en hausse, et l&#x27;augmentation des volumes exportés par les entreprises égyptiennes suit la croissance de la production nationale. <span class=\"news-reason\">Expansion de la production et de la période de récolte en Égypte, concurrent direct de Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867651/l-andamento-delle-esportazioni-e-rimasto-in-linea-con-l-aumento-della-produzione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’Égypte consolide sa position sur le marché mondial de la grenade -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">L&#x27;Égypte consolide son statut de producteur majeur de grenades grâce à l&#x27;extension des surfaces de culture et à une période de récolte allongée. La demande internationale est en hausse, et l&#x27;augmentation des volumes exportés par les entreprises égyptiennes suit la croissance de la production nationale. <span class=\"news-reason\">Expansion de la production et de la période de récolte en Égypte, concurrent direct de Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867651/l-andamento-delle-esportazioni-e-rimasto-in-linea-con-l-aumento-della-produzione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Egypt consolidates its position in the global pomegranate market -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">Egypt consolidates its status as a major producer of pomegranates thanks to the expansion of cultivation areas and an extended harvest period. International demand is rising, and the increase in export volumes by Egyptian companies is keeping pace with national production growth. <span class=\"news-reason\">Expansion of production and harvest period in Egypt, a direct competitor of Mehadrin during the season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867651/l-andamento-delle-esportazioni-e-rimasto-in-linea-con-l-aumento-della-produzione/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מצרים מבססת את מעמדה בשוק הרימונים העולמי -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">מצרים מבססת את מעמדה כיצרנית רימונים מרכזית הודות להרחבת שטחי הגידול ותקופת קטיף מוארכת. הביקוש הבינלאומי נמצא בעלייה, והגידול בהיקפי הייצוא של החברות המצריות עוקב אחר הצמיחה בייצור המקומי. <span class=\"news-reason\">התרחבות הייצור ותקופת הקטיף במצרים, מתחרה ישירה של מהדרין בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867651/l-andamento-delle-esportazioni-e-rimasto-in-linea-con-l-aumento-della-produzione/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
