@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-05T11:02:56.505368+00:00",
-  "article_count": 36,
+  "last_updated": "2026-09-05T14:02:14.896374+00:00",
+  "article_count": 29,
   "attention_points": [
     {
-      "id": "attention-c9296ea37eab5d1b",
-      "article_id": "1788606176_0",
-      "url": "https://cagor.net/revue-de-presse-agricole-05-09-2026/",
-      "source": "CAGOR",
-      "title": "Alerte sur le déficit hydrique majeur au Maroc",
-      "summary": "Le Maroc est identifié comme le pays d'Afrique le plus durement touché par le déficit hydrique.",
+      "id": "attention-ba586557d3ea5429",
+      "article_id": "1788616934_0",
+      "url": "https://www.agrimaroc.ma/alerte-meteo-chaleur-jusqua-46-c-et-risque-de-grele-dans-plusieurs-provinces-agricoles/",
+      "source": "AgriMaroc",
+      "title": "Alerte canicule et grêle sur les cultures marocaines",
+      "summary": "Températures jusqu'à 46 degrés et risques de grêle au Maroc",
       "origin_code": "MAR",
       "origin_label": "Maroc",
-      "published_at": "2026-09-05T10:04:11+00:00",
+      "published_at": "2026-09-05T13:07:04+00:00",
       "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
       "products": [
         "avocat"
       ],
@@ -39,7 +39,7 @@
         "mandarine",
         "pomegranate"
       ],
-      "age_hours": 23
+      "age_hours": 26
     },
     {
       "id": "attention-089f8318ba74e7f2",
@@ -58,7 +58,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 24
+      "age_hours": 27
     },
     {
       "id": "attention-cb670ade0f5f4002",
@@ -75,10 +75,29 @@
       "signal_label": "Volumes",
       "icon": "information",
       "products": [],
-      "age_hours": 24
+      "age_hours": 27
     }
   ],
   "articles": [
+    {
+      "id": "1788616934_0",
+      "timestamp": "2026-09-05T14:02:14.896374+00:00",
+      "title": "Canicule et risques de grêle sur les zones agricoles au Maroc -- 05/09/2026 13:07",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia",
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Canicule et risques de grêle sur les zones agricoles au Maroc -- <span class=\"news-date\">05/09/2026 13:07</span></div><div class=\"news-body\">Une vague de chaleur intense est prévue au Maroc entre samedi et mardi, avec des températures atteignant 46 °C dans les provinces du Sud. Parallèlement, des averses orageuses accompagnées de grêle et de fortes rafales de vent menacent plusieurs zones agricoles du Moyen Atlas, selon la Direction générale de la météorologie. <span class=\"news-reason\">Alerte météorologique immédiate impactant une origine concurrente majeure (Maroc) pour les agrumes et avocats.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/alerte-meteo-chaleur-jusqua-46-c-et-risque-de-grele-dans-plusieurs-provinces-agricoles/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Heatwave and hail risks in agricultural areas in Morocco -- <span class=\"news-date\">05/09/2026 13:07</span></div><div class=\"news-body\">An intense heatwave is expected in Morocco between Saturday and Tuesday, with temperatures reaching 46 °C in the southern provinces. At the same time, stormy showers accompanied by hail and strong gusts of wind threaten several agricultural areas of the Middle Atlas, according to the General Directorate of Meteorology. <span class=\"news-reason\">Immediate weather alert impacting a major competing origin (Morocco) for citrus fruits and avocados.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/alerte-meteo-chaleur-jusqua-46-c-et-risque-de-grele-dans-plusieurs-provinces-agricoles/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">גל חום וסכנת ברד באזורים חקלאיים במרוקו -- <span class=\"news-date\">05/09/2026 13:07</span></div><div class=\"news-body\">גל חום כבד צפוי במרוקו בין שבת לשלישי, עם טמפרטורות שיגיעו ל-46 מעלות צלזיוס במחוזות הדרומיים. במקביל, ממטרים סוערים מלווים בברד ומשבי רוח חזקים מאיימים על מספר אזורים חקלאיים באטלס התיכון, על פי המינהל הכללי למטאורולוגיה. <span class=\"news-reason\">התראה מטאורולוגית מיידית המשפיעה על מקור מתחרה מרכזי (מרוקו) עבור פירות הדר ואבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/alerte-meteo-chaleur-jusqua-46-c-et-risque-de-grele-dans-plusieurs-provinces-agricoles/\" target=\"_blank\">AgriMaroc -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1788606176_0",
       "timestamp": "2026-09-05T11:02:56.505368+00:00",
@@ -204,7 +223,7 @@
     {
       "id": "1788509058_2",
       "timestamp": "2026-09-04T08:04:18.563852+00:00",
-      "title": "Italie : innovations et expérimentations variétales au sein de la production de melons à Foggia",
+      "title": "Italie : innovations et expérimentations variétales dans la production de melons à Foggia",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Sébastien"
@@ -215,7 +234,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Italie : innovations et expérimentations variétales au sein de la production de melons à Foggia -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">L&#x27;événement Melone Experience s&#x27;est tenu dans la région de Foggia, pôle majeur de la culture du melon en Italie. Cette rencontre a permis de présenter les dernières innovations variétales et de réaliser des comparaisons techniques directement sur le terrain avec les producteurs et opérateurs du secteur. <span class=\"news-reason\">Information stratégique sur les développements variétaux d&#x27;un concurrent direct (Italie) sur le segment du melon.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869657/melone-experience-innovazione-varietale-e-confronto-tecnico-in-campo-nel-foggiano/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Italie : innovations et expérimentations variétales dans la production de melons à Foggia -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">L&#x27;événement Melone Experience s&#x27;est tenu dans la région de Foggia, pôle majeur de la culture du melon en Italie. Cette rencontre a permis de présenter les dernières innovations variétales et de réaliser des comparaisons techniques directement sur le terrain avec les producteurs et opérateurs du secteur. <span class=\"news-reason\">Information stratégique sur les développements variétaux d&#x27;un concurrent direct (Italie) sur le segment du melon.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869657/melone-experience-innovazione-varietale-e-confronto-tecnico-in-campo-nel-foggiano/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Italy: Innovation and varietal trials in melon production in Foggia -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">The Melone Experience event was held in the Foggia region, a major hub for melon cultivation in Italy. This meeting showcased the latest varietal innovations and allowed for technical comparisons directly in the field with producers and sector operators. <span class=\"news-reason\">Strategic information on varietal developments of a direct competitor (Italy) in the melon segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869657/melone-experience-innovazione-varietale-e-confronto-tecnico-in-campo-nel-foggiano/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות ומקורות</div><div class=\"news-title\">איטליה: חדשנות וניסויים זניים בייצור מלונים בפוג'ה -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">אירוע Melone Experience התקיים באזור פוג'ה, מוקד מרכזי לגידול מלונים באיטליה. מפגש זה איפשר להציג את החידושים הזניים האחרונים ולבצע השוואות טכניות ישירות בשטח עם המגדלים והגורמים הפועלים במגזר. <span class=\"news-reason\">מידע אסטרטגי על פיתוחים זניים של מתחרה ישיר (איטליה) בסגמנט המלונים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869657/melone-experience-innovazione-varietale-e-confronto-tecnico-in-campo-nel-foggiano/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -521,7 +540,7 @@
     {
       "id": "1788411783_1",
       "timestamp": "2026-09-03T05:03:03.376475+00:00",
-      "title": "L’Égypte consolide sa position sur le marché mondial de la grenade",
+      "title": "L’Égypte renforce sa position sur le marché mondial de la grenade",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -532,7 +551,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’Égypte consolide sa position sur le marché mondial de la grenade -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">L&#x27;Égypte consolide son statut de producteur majeur de grenades grâce à l&#x27;extension des surfaces de culture et à une période de récolte allongée. La demande internationale est en hausse, et l&#x27;augmentation des volumes exportés par les entreprises égyptiennes suit la croissance de la production nationale. <span class=\"news-reason\">Expansion de la production et de la période de récolte en Égypte, concurrent direct de Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867651/l-andamento-delle-esportazioni-e-rimasto-in-linea-con-l-aumento-della-produzione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’Égypte renforce sa position sur le marché mondial de la grenade -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">L&#x27;Égypte consolide son statut de producteur majeur de grenades grâce à l&#x27;extension des surfaces de culture et à une période de récolte allongée. La demande internationale est en hausse, et l&#x27;augmentation des volumes exportés par les entreprises égyptiennes suit la croissance de la production nationale. <span class=\"news-reason\">Expansion de la production et de la période de récolte en Égypte, concurrent direct de Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867651/l-andamento-delle-esportazioni-e-rimasto-in-linea-con-l-aumento-della-produzione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Egypt consolidates its position in the global pomegranate market -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">Egypt consolidates its status as a major producer of pomegranates thanks to the expansion of cultivation areas and an extended harvest period. International demand is rising, and the increase in export volumes by Egyptian companies is keeping pace with national production growth. <span class=\"news-reason\">Expansion of production and harvest period in Egypt, a direct competitor of Mehadrin during the season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867651/l-andamento-delle-esportazioni-e-rimasto-in-linea-con-l-aumento-della-produzione/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מצרים מבססת את מעמדה בשוק הרימונים העולמי -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">מצרים מבססת את מעמדה כיצרנית רימונים מרכזית הודות להרחבת שטחי הגידול ותקופת קטיף מוארכת. הביקוש הבינלאומי נמצא בעלייה, והגידול בהיקפי הייצוא של החברות המצריות עוקב אחר הצמיחה בייצור המקומי. <span class=\"news-reason\">התרחבות הייצור ותקופת הקטיף במצרים, מתחרה ישירה של מהדרין בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867651/l-andamento-delle-esportazioni-e-rimasto-in-linea-con-l-aumento-della-produzione/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -569,144 +588,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les revenus d&#x27;exportation du jus d&#x27;orange brésilien ont reculé de 37,5 % en juillet -- <span class=\"news-date\">02/09/2026 13:47</span></div><div class=\"news-body\">Au cours du premier mois de la saison 2026/27, les revenus brésiliens provenant des exportations de jus d&#x27;orange ont chuté de 37,5 % pour s&#x27;établir à 179,8 millions de dollars. Cette baisse intervient malgré une augmentation des volumes d&#x27;expédition, en raison d&#x27;un repli de 41,7 % du prix moyen à l&#x27;exportation qui s&#x27;établit à 2 390,75 dollars la tonne par rapport à juillet 2025. <span class=\"news-reason\">Données chiffrées sur les prix et revenus d&#x27;exportation d&#x27;une origine majeure pour le marché mondial des agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868786/brazilian-orange-juice-export-revenue-falls-37-5-in-july/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Brazilian orange juice export revenues fell by 37.5% in July -- <span class=\"news-date\">02/09/2026 13:47</span></div><div class=\"news-body\">During the first month of the 2026/27 season, Brazilian revenues from orange juice exports dropped by 37.5% to $179.8 million. This decline comes despite an increase in shipment volumes, due to a 41.7% drop in the average export price, which stood at $2,390.75 per ton compared to July 2025. <span class=\"news-reason\">Numerical data on export prices and revenues from a major source for the global citrus market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868786/brazilian-orange-juice-export-revenue-falls-37-5-in-july/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">הכנסות הייצוא של מיץ תפוזים ברזילאי ירדו ב-37.5% ביולי -- <span class=\"news-date\">02/09/2026 13:47</span></div><div class=\"news-body\">במהלך החודש הראשון של עונת 2026/27, הכנסות ברזיל מייצוא מיץ תפוזים צנחו ב-37.5% והסתכמו ב-179.8 מיליון דולר. ירידה זו מגיעה למרות עלייה בנפחי המשלוחים, בשל נסיגה של 41.7% במחיר הייצוא הממוצע שעמד על 2,390.75 דולר לטון בהשוואה ליולי 2025. <span class=\"news-reason\">נתונים מספריים על מחירי והכנסות ייצוא ממקור מרכזי בשוק ההדרים העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868786/brazilian-orange-juice-export-revenue-falls-37-5-in-july/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788357791_0",
-      "timestamp": "2026-09-02T14:03:11.218916+00:00",
-      "title": "Record historique des importations d&#x27;agrumes au sein de l&#x27;Union européenne",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [
-        "ESP"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Record historique des importations d&#x27;agrumes au sein de l&#x27;Union européenne -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">L&#x27;Union européenne a enregistré un volume record d&#x27;importations d&#x27;agrumes pour la saison en cours, atteignant 1 572 564 tonnes. Selon un rapport du ministère espagnol de l&#x27;Agriculture, de la Pêche et de l&#x27;Alimentation (MAPA), il s&#x27;agit du chiffre le plus élevé jamais enregistré dans la série historique des données d&#x27;importation communautaires. <span class=\"news-reason\">Article fournissant des volumes précis (1,57 million de tonnes) sur les importations d&#x27;agrumes, produit pilier de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863929/l-ue-registra-un-record-storico-di-importazioni-di-agrumi-con-1-57-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Historic record for citrus imports within the European Union -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">The European Union recorded a record volume of citrus imports for the current season, reaching 1,572,564 tons. According to a report by the Spanish Ministry of Agriculture, Fisheries and Food (MAPA), this is the highest figure ever recorded in the historical series of EU import data. <span class=\"news-reason\">Article providing precise volumes (1.57 million tons) on citrus imports, a core product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863929/l-ue-registra-un-record-storico-di-importazioni-di-agrumi-con-1-57-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים ונפחים</div><div class=\"news-title\">שיא היסטורי ביבוא פרי הדר לאיחוד האירופי -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">האיחוד האירופי רשם נפח שיא של יבוא פרי הדר לעונה הנוכחית, שהגיע ל-1,572,564 טונות. לפי דו\"ח של משרד החקלאות, הדיג והמזון הספרדי (MAPA), מדובר בנתון הגבוה ביותר שנרשם אי פעם בסדרת הנתונים ההיסטורית של יבוא הקהילה. <span class=\"news-reason\">מאמר המספק נתונים מדויקים (1.57 מיליון טונות) על יבוא פרי הדר, מוצר ליבה של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9863929/l-ue-registra-un-record-storico-di-importazioni-di-agrumi-con-1-57-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788352419_6",
-      "timestamp": "2026-09-02T12:33:39.106327+00:00",
-      "title": "Succès des programmes de pastèques à l&#x27;année dans la distribution -- 02/09/2026 13:47",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Sébastien"
-      ],
-      "products": [
-        "melon",
-        "watermelon"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Succès des programmes de pastèques à l&#x27;année dans la distribution -- <span class=\"news-date\">02/09/2026 13:47</span></div><div class=\"news-body\">Le fournisseur Melon 1 rapporte une saison record avec la livraison de 300 000 présentoirs personnalisés entre juillet et septembre. Cette étape reflète la croissance continue des programmes de pastèques disponibles tout au long de l&#x27;année chez les partenaires détaillants. <span class=\"news-reason\">Pertinent pour la stratégie de vente de pastèques et melons en dehors de la saison estivale.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868718/growth-in-year-round-watermelon-programs-reflected-in-retail-display-milestone/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Success of year-round watermelon programs in retail -- <span class=\"news-date\">02/09/2026 13:47</span></div><div class=\"news-body\">Supplier Melon 1 reports a record season with the delivery of 300,000 custom displays between July and September. This milestone reflects the continued growth of year-round watermelon programs at retail partners. <span class=\"news-reason\">Relevant for the sales strategy of watermelons and melons outside the summer season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868718/growth-in-year-round-watermelon-programs-reflected-in-retail-display-milestone/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות שיווק</div><div class=\"news-title\">הצלחה לתוכניות אבטיחים לאורך כל השנה בקמעונאות -- <span class=\"news-date\">02/09/2026 13:47</span></div><div class=\"news-body\">הספק Melon 1 מדווח על עונת שיא עם אספקה של 300,000 מעמדי תצוגה מותאמים אישית בין יולי לספטמבר. שלב זה משקף את הצמיחה המתמשכת של תוכניות האבטיחים הזמינות לאורך כל השנה אצל השותפים הקמעונאים. <span class=\"news-reason\">רלוונטי לאסטרטגיית המכירה של אבטיחים ומלונים מחוץ לעונת הקיץ.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868718/growth-in-year-round-watermelon-programs-reflected-in-retail-display-milestone/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788352419_5",
-      "timestamp": "2026-09-02T12:33:39.106327+00:00",
-      "title": "Stagnation des superficies agrumicoles en Californie -- 02/09/2026 12:00",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Stagnation des superficies agrumicoles en Californie -- <span class=\"news-date\">02/09/2026 12:00</span></div><div class=\"news-body\">Selon le dernier rapport de l&#x27;USDA-NASS, les surfaces plantées en agrumes en Californie sont restées quasiment statiques depuis 2022. La superficie totale n&#x27;a augmenté que de 200 acres au cours des quatre dernières années, signalant une stabilité de l&#x27;offre régionale. <span class=\"news-reason\">Info stratégique sur la capacité de production d&#x27;une origine concurrente majeure sur les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/02/ca-citrus-acreage/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Stagnation of citrus acreage in California -- <span class=\"news-date\">02/09/2026 12:00</span></div><div class=\"news-body\">According to the latest USDA-NASS report, citrus planted areas in California have remained almost static since 2022. Total acreage has increased by only 200 acres over the past four years, signaling regional supply stability. <span class=\"news-reason\">Strategic info on the production capacity of a major competing origin for citrus.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/02/ca-citrus-acreage/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">קיפאון בשטחי גידול ההדרים בקליפורניה -- <span class=\"news-date\">02/09/2026 12:00</span></div><div class=\"news-body\">לפי הדוח האחרון של ה-USDA-NASS, שטחי הנטיעות של פירות הדר בקליפורניה נותרו כמעט סטטיים מאז 2022. השטח הכולל גדל ב-200 אקר בלבד בארבע השנים האחרונות, מה שמעיד על יציבות בהיצע האזורי. <span class=\"news-reason\">מידע אסטרטגי על יכולת הייצור של מקור מתחרה מרכזי בתחום ההדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/02/ca-citrus-acreage/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788352419_4",
-      "timestamp": "2026-09-02T12:33:39.106327+00:00",
-      "title": "Sweet C et Jiajiayue concluent un partenariat stratégique pour la promotion des mandarines -- 01/09/2026 23:53",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "mandarine"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Sweet C et Jiajiayue concluent un partenariat stratégique pour la promotion des mandarines -- <span class=\"news-date\">01/09/2026 23:53</span></div><div class=\"news-body\">Un nouveau partenariat a été lancé entre la marque Sweet C et le groupe de distribution Jiajiayue avec l&#x27;événement « Mandarin Carnival » à Weihai. Cette alliance vise à renforcer la visibilité et la distribution des mandarines de qualité supérieure en rayon. <span class=\"news-reason\">Mouvement d&#x27;enseigne important concernant les mandarines, produit phare de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.producereport.com/article/sweet-c-jiajiayue-partnership-launched-mandarin-carnival-weihai\" target=\"_blank\">Produce Report -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Sweet C and Jiajiayue enter into a strategic partnership for mandarin promotion -- <span class=\"news-date\">01/09/2026 23:53</span></div><div class=\"news-body\">A new partnership has been launched between the Sweet C brand and the Jiajiayue distribution group with the \"Mandarin Carnival\" event in Weihai. This alliance aims to strengthen the visibility and distribution of premium quality mandarins on shelves. <span class=\"news-reason\">Important retail movement regarding mandarins, a flagship product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.producereport.com/article/sweet-c-jiajiayue-partnership-launched-mandarin-carnival-weihai\" target=\"_blank\">Produce Report -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות שיווק</div><div class=\"news-title\">Sweet C ו-Jiajiayue כורתות שותפות אסטרטגית לקידום מנדרינות -- <span class=\"news-date\">01/09/2026 23:53</span></div><div class=\"news-body\">שותפות חדשה הושקה בין המותג Sweet C לבין קבוצת הקמעונאות Jiajiayue עם אירוע \"Mandarin Carnival\" ב-Weihai. ברית זו נועדה לחזק את הנראות וההפצה של מנדרינות באיכות פרימיום על המדפים. <span class=\"news-reason\">מהלך קמעונאי חשוב בנוגע למנדרינות, מוצר הדגל של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.producereport.com/article/sweet-c-jiajiayue-partnership-launched-mandarin-carnival-weihai\" target=\"_blank\">Produce Report -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788352419_3",
-      "timestamp": "2026-09-02T12:33:39.106327+00:00",
-      "title": "Les USA allouent 57,5 millions de dollars à l&#x27;achat d&#x27;agrumes frais -- 02/09/2026 13:47",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "orange",
-        "citrus_grapefruit"
-      ],
-      "origins": [
-        "USA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les USA allouent 57,5 millions de dollars à l&#x27;achat d&#x27;agrumes frais -- <span class=\"news-date\">02/09/2026 13:47</span></div><div class=\"news-body\">L&#x27;USDA a annoncé un plan d&#x27;achat de 57,5 millions de dollars d&#x27;agrumes frais via le programme de passation de marchés Section 32. Ces achats incluent 20 millions de dollars d&#x27;oranges fraîches et 12,5 millions de dollars de pamplemousses frais, soutenant ainsi les cours sur le marché américain. <span class=\"news-reason\">Indicateur fort de la demande mondiale et des prix pour les oranges et pamplemousses.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868721/usda-announces-57-5-million-in-section-32-fresh-citrus-purchases/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">USA allocates $57.5 million for fresh citrus purchases -- <span class=\"news-date\">02/09/2026 13:47</span></div><div class=\"news-body\">The USDA announced a plan to purchase $57.5 million of fresh citrus through the Section 32 procurement program. These purchases include $20 million of fresh oranges and $12.5 million of fresh grapefruits, thereby supporting prices on the US market. <span class=\"news-reason\">Strong indicator of global demand and prices for oranges and grapefruits.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868721/usda-announces-57-5-million-in-section-32-fresh-citrus-purchases/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ארה\"ב מקצה 57.5 מיליון דולר לרכישת פירות הדר טריים -- <span class=\"news-date\">02/09/2026 13:47</span></div><div class=\"news-body\">ה-USDA הודיע על תוכנית רכישה של 57.5 מיליון דולר של פירות הדר טריים באמצעות תוכנית הרכש Section 32. רכישות אלו כוללות 20 מיליון דולר של תפוזים טריים ו-12.5 מיליון דולר של אשכוליות טריות, ובכך תומכות במחירים בשוק האמריקאי. <span class=\"news-reason\">אינדיקטור חזק לביקוש העולמי ולמחירים עבור תפוזים ואשכוליות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868721/usda-announces-57-5-million-in-section-32-fresh-citrus-purchases/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788352419_2",
-      "timestamp": "2026-09-02T12:33:39.106327+00:00",
-      "title": "L&#x27;Égypte prévoit une récolte de 2,1 millions de tonnes de dattes cette saison -- 02/09/2026 13:24",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Jessica"
-      ],
-      "products": [
-        "date"
-      ],
-      "origins": [
-        "EGY"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Égypte prévoit une récolte de 2,1 millions de tonnes de dattes cette saison -- <span class=\"news-date\">02/09/2026 13:24</span></div><div class=\"news-body\">La campagne égyptienne devrait afficher des volumes stables estimés à 2,1 millions de tonnes. Toutefois, des conditions météorologiques instables perturbent le calendrier de récolte habituel et impactent le calibre ainsi que la qualité des fruits dans certaines régions de production. <span class=\"news-reason\">Chiffres de production massifs chez un concurrent direct sur le segment des dattes Medjoul.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9868667/la-recolte-de-dattes-egyptienne-estimee-a-2-1-millions-de-tonnes-cette-saison/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Egypt forecasts a harvest of 2.1 million tons of dates this season -- <span class=\"news-date\">02/09/2026 13:24</span></div><div class=\"news-body\">The Egyptian campaign is expected to show stable volumes estimated at 2.1 million tons. However, unstable weather conditions are disrupting the usual harvest schedule and impacting the size and quality of the fruit in some production regions. <span class=\"news-reason\">Massive production figures from a direct competitor in the Medjool date segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9868667/la-recolte-de-dattes-egyptienne-estimee-a-2-1-millions-de-tonnes-cette-saison/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מצרים צופה יבול של 2.1 מיליון טון תמרים העונה -- <span class=\"news-date\">02/09/2026 13:24</span></div><div class=\"news-body\">עונת הגידול המצרית צפויה להציג כמויות יציבות המוערכות ב-2.1 מיליון טון. עם זאת, תנאי מזג אוויר בלתי יציבים משבשים את לוח הזמנים הרגיל של הקטיף ומשפיעים על הגודל ועל איכות הפרי באזורי גידול מסוימים. <span class=\"news-reason\">נתוני ייצור מאסיביים אצל מתחרה ישיר במקטע תמרי המג'הול.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9868667/la-recolte-de-dattes-egyptienne-estimee-a-2-1-millions-de-tonnes-cette-saison/\" target=\"_blank\">FreshPlaza FR -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788352419_1",
-      "timestamp": "2026-09-02T12:33:39.106327+00:00",
-      "title": "Congestion des importations et pressions sur les prix des avocats au sein de l&#x27;UE -- 02/09/2026 12:00",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "ZAF",
-        "PER"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Congestion des importations et pressions sur les prix des avocats au sein de l&#x27;UE -- <span class=\"news-date\">02/09/2026 12:00</span></div><div class=\"news-body\">Selon un rapport de Rabobank, le marché de l&#x27;avocat dans l&#x27;UE fait face à une congestion due au chevauchement des volumes en provenance du Pérou et de l&#x27;Afrique du Sud. Cet afflux massif durant la fenêtre de pic de production crée des pressions sur les prix, tout en ouvrant des opportunités stratégiques pour les mois d&#x27;hiver. <span class=\"news-reason\">Analyse de marché sur les volumes d&#x27;avocats en Europe, incluant des origines concurrentes majeures (Pérou, Afrique du Sud).</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/02/eu-avocado-market/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Import congestion and price pressures on avocados within the EU -- <span class=\"news-date\">02/09/2026 12:00</span></div><div class=\"news-body\">According to a Rabobank report, the EU avocado market is facing congestion due to overlapping volumes from Peru and South Africa. This massive influx during the peak production window is putting pressure on prices, while opening strategic opportunities for the winter months. <span class=\"news-reason\">Market analysis on avocado volumes in Europe, including major competing origins (Peru, South Africa).</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/02/eu-avocado-market/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">גודש ביבוא ולחצי מחירים על האבוקדו באיחוד האירופי -- <span class=\"news-date\">02/09/2026 12:00</span></div><div class=\"news-body\">לפי דוח של Rabobank, שוק האבוקדו באיחוד האירופי מתמודד עם גודש עקב חפיפה בכמויות המגיעות מפרו ומדרום אפריקה. זרימה מאסיבית זו במהלך חלון שיא הייצור יוצרת לחצים על המחירים, תוך פתיחת הזדמנויות אסטרטגיות לחודשי החורף. <span class=\"news-reason\">ניתוח שוק על כמויות האבוקדו באירופה, הכולל מקורות מתחרים עיקריים (פרו, דרום אפריקה).</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/02/eu-avocado-market/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788352419_0",
-      "timestamp": "2026-09-02T12:33:39.106327+00:00",
-      "title": "Les producteurs israéliens de dattes sous la pression de la concurrence égyptienne -- 02/09/2026 13:47",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Jessica"
-      ],
-      "products": [
-        "date"
-      ],
-      "origins": [
-        "ISR",
-        "EGY"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les producteurs israéliens de dattes sous la pression de la concurrence égyptienne -- <span class=\"news-date\">02/09/2026 13:47</span></div><div class=\"news-body\">Les producteurs de dattes israéliens subissent la concurrence croissante des importations égyptiennes alors que la récolte locale débute. Les dattes égyptiennes entrent sur le marché dénoyautées et congelées, une classification qui leur permet d&#x27;échapper à certaines restrictions imposées aux produits frais. Parallèlement, des limitations sur plusieurs marchés européens affectent les exportations en provenance de la vallée du Jourdain, malgré les prévisions d&#x27;une récolte plus importante que l&#x27;an dernier. <span class=\"news-reason\">Article crucial traitant de la concurrence directe entre les dattes d&#x27;Égypte et d&#x27;Israël sur le marché européen, avec des précisions sur les avantages réglementaires des produits congelés.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868756/egyptian-date-imports-pressure-israeli-growers/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Israeli date producers under pressure from Egyptian competition -- <span class=\"news-date\">02/09/2026 13:47</span></div><div class=\"news-body\">Israeli date producers are facing increasing competition from Egyptian imports as the local harvest begins. Egyptian dates are entering the market pitted and frozen, a classification that allows them to bypass certain restrictions imposed on fresh products. At the same time, limitations in several European markets are affecting exports from the Jordan Valley, despite forecasts of a larger harvest than last year. <span class=\"news-reason\">Crucial article dealing with direct competition between Egyptian and Israeli dates on the European market, with details on the regulatory advantages of frozen products.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868756/egyptian-date-imports-pressure-israeli-growers/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מגדלי התמרים הישראלים תחת לחץ מהתחרות המצרית -- <span class=\"news-date\">02/09/2026 13:47</span></div><div class=\"news-body\">מגדלי התמרים הישראלים חווים תחרות גוברת מצד היבוא המצרי עם תחילת הקטיף המקומי. התמרים המצריים נכנסים לשוק כשהם מגולענים וקפואים, סיווג המאפשר להם לחמוק מהגבלות מסוימות המוטלות על מוצרים טריים. במקביל, מגבלות במספר שווקים אירופיים משפיעות על הייצוא מבקעת הירדן, למרות תחזיות ליבול גדול יותר מהשנה שעברה. <span class=\"news-reason\">מאמר קריטי העוסק בתחרות הישירה בין תמרים ממצרים ומישראל בשוק האירופי, עם פירוט על היתרונות הרגולטוריים של מוצרים קפואים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868756/egyptian-date-imports-pressure-israeli-growers/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
