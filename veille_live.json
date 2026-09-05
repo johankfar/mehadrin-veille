@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-05T06:33:15.745334+00:00",
-  "article_count": 40,
+  "last_updated": "2026-09-05T09:32:21.795555+00:00",
+  "article_count": 38,
   "attention_points": [
     {
       "id": "attention-f028a4c8ebc61234",
@@ -20,7 +20,7 @@
         "mandarine",
         "pomegranate"
       ],
-      "age_hours": 18
+      "age_hours": 21
     },
     {
       "id": "attention-089f8318ba74e7f2",
@@ -39,7 +39,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 20
+      "age_hours": 23
     },
     {
       "id": "attention-cb670ade0f5f4002",
@@ -56,7 +56,7 @@
       "signal_label": "Volumes",
       "icon": "information",
       "products": [],
-      "age_hours": 20
+      "age_hours": 23
     },
     {
       "id": "attention-e967b0fc446076a8",
@@ -73,7 +73,7 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 26
+      "age_hours": 29
     }
   ],
   "articles": [
@@ -363,14 +363,14 @@
     {
       "id": "1788427983_1",
       "timestamp": "2026-09-03T09:33:03.618020+00:00",
-      "title": "Italie : la consommation de fruits et légumes biologiques en hausse de 13 %",
+      "title": "Italie : la consommation de fruits et légumes biologiques enregistre une progression de 13 %",
       "category": "PRIX &amp VOLUMES",
       "commercials": [],
       "products": [],
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Italie : la consommation de fruits et légumes biologiques en hausse de 13 % -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">Le marché italien des fruits et légumes biologiques connaît un renouveau en 2025. Les achats des ménages ont atteint 594 000 tonnes, soit une hausse de 11 % par rapport à 2024, tandis que la consommation totale en volume a progressé de 13 %. <span class=\"news-reason\">Données chiffrées sur la croissance d&#x27;un marché européen majeur pour les produits frais, incluant les segments Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Italie : la consommation de fruits et légumes biologiques enregistre une progression de 13 % -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">Le marché italien des fruits et légumes biologiques connaît un renouveau en 2025. Les achats des ménages ont atteint 594 000 tonnes, soit une hausse de 11 % par rapport à 2024, tandis que la consommation totale en volume a progressé de 13 %. <span class=\"news-reason\">Données chiffrées sur la croissance d&#x27;un marché européen majeur pour les produits frais, incluant les segments Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Italy: consumption of organic fruits and vegetables grows by 13% -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">The Italian organic fruit and vegetable market is seeing a revival in 2025. Household purchases reached 594,000 tonnes, up 11% from 2024, while total volume consumption grew by 13%. <span class=\"news-reason\">Numerical data on the growth of a major European market for fresh produce, including Mehadrin segments.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">איטליה: צריכת הפירות והירקות האורגניים עולה ב-13% -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">שוק הפירות והירקות האורגניים באיטליה חווה התחדשות בשנת 2025. רכישות משקי הבית הגיעו ל-594,000 טון, עלייה של 11% לעומת 2024, בעוד שסך הצריכה במונחי נפח עלה ב-13%. <span class=\"news-reason\">נתונים מספריים על צמיחת שוק אירופי מרכזי לתוצרת טרייה, כולל מגזרי מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -428,7 +428,7 @@
     {
       "id": "1788422594_0",
       "timestamp": "2026-09-03T08:03:14.008429+00:00",
-      "title": "Nayarit : Pertes historiques pour la filière mangue mexicaine face aux aléas climatiques",
+      "title": "Nayarit : Pertes historiques pour la filière mexicaine de la mangue face aux aléas climatiques",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -439,7 +439,7 @@
       "origins": [
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Nayarit : Pertes historiques pour la filière mangue mexicaine face aux aléas climatiques -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">La saison des mangues au Mexique se termine avec des rendements bien inférieurs aux prévisions initiales. Les conditions météorologiques défavorables dans les régions de Nayarit et Sinaloa ont provoqué des pertes historiques, rendant la campagne plus difficile que prévu pour les exportateurs. <span class=\"news-reason\">Alerte sur la fin de campagne d&#x27;une origine concurrente majeure avec des pertes de volumes dues à la météo.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866970/il-mango-messicano-registra-perdite-storiche-a-nayarit-a-causa-dei-fattori-climatici/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Nayarit : Pertes historiques pour la filière mexicaine de la mangue face aux aléas climatiques -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">La saison des mangues au Mexique se termine avec des rendements bien inférieurs aux prévisions initiales. Les conditions météorologiques défavorables dans les régions de Nayarit et Sinaloa ont provoqué des pertes historiques, rendant la campagne plus difficile que prévu pour les exportateurs. <span class=\"news-reason\">Alerte sur la fin de campagne d&#x27;une origine concurrente majeure avec des pertes de volumes dues à la météo.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866970/il-mango-messicano-registra-perdite-storiche-a-nayarit-a-causa-dei-fattori-climatici/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Nayarit: historic losses for Mexican mangoes due to climatic conditions -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">The mango season in Mexico is ending with yields well below initial forecasts. Unfavorable weather conditions in the Nayarit and Sinaloa regions have caused historic losses, making the campaign more difficult than expected for exporters. <span class=\"news-reason\">Alert on the end of the campaign for a major competing origin with volume losses due to weather.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866970/il-mango-messicano-registra-perdite-storiche-a-nayarit-a-causa-dei-fattori-climatici/\" target=\"_blank\">FreshPlaza IT -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">נאיירית: הפסדים היסטוריים למנגו המקסיקני בשל תנאי האקלים -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">עונת המנגו במקסיקו מסתיימת עם יבולים נמוכים בהרבה מהתחזיות המקוריות. תנאי מזג אוויר קשים באזורי נאיירית וסינלואה גרמו להפסדים היסטוריים, והפכו את העונה למאתגרת מהצפוי עבור היצואנים. <span class=\"news-reason\">התראה על סיום עונה של מקור מתחרה מרכזי עם הפסדי כמויות עקב מזג האוויר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866970/il-mango-messicano-registra-perdite-storiche-a-nayarit-a-causa-dei-fattori-climatici/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -690,7 +690,7 @@
     {
       "id": "1788347023_3",
       "timestamp": "2026-09-02T11:03:43.617049+00:00",
-      "title": "Pays-Bas : Stabilité des prix de la mangue dans le commerce de détail en ligne",
+      "title": "Pays-Bas : stabilité des prix de la mangue dans le commerce de détail en ligne",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -701,7 +701,7 @@
       "origins": [
         "NLD"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Pays-Bas : Stabilité des prix de la mangue dans le commerce de détail en ligne -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">Le suivi du commerce en ligne aux Pays-Bas pour la semaine 35 montre une stabilité des prix pour la mangue. Contrairement aux petits fruits rouges qui connaissent de fortes variations, le segment de la mangue reste inchangé sur cette période. <span class=\"news-reason\">Donnée sur l&#x27;évolution des prix de détail sur un marché d&#x27;importation majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868100/retail-online-olandese-fragole-piu-economiche-mirtilli-invece-piu-cari/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Pays-Bas : stabilité des prix de la mangue dans le commerce de détail en ligne -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">Le suivi du commerce en ligne aux Pays-Bas pour la semaine 35 montre une stabilité des prix pour la mangue. Contrairement aux petits fruits rouges qui connaissent de fortes variations, le segment de la mangue reste inchangé sur cette période. <span class=\"news-reason\">Donnée sur l&#x27;évolution des prix de détail sur un marché d&#x27;importation majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868100/retail-online-olandese-fragole-piu-economiche-mirtilli-invece-piu-cari/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Netherlands: stable mango prices in online retail -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">Monitoring of online trade in the Netherlands for week 35 shows price stability for mangoes. Unlike berries, which are experiencing sharp variations, the mango segment remains unchanged over this period. <span class=\"news-reason\">Data on retail price trends in a major import market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868100/retail-online-olandese-fragole-piu-economiche-mirtilli-invece-piu-cari/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">הולנד: יציבות במחירי המנגו בקמעונאות המקוונת -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">מעקב אחר המסחר המקוון בהולנד לשבוע 35 מראה יציבות במחירי המנגו. בניגוד לפירות יער שחווים תנודות חזקות, מגזר המנגו נותר ללא שינוי בתקופה זו. <span class=\"news-reason\">נתונים על התפתחות המחירים לצרכן בשוק יבוא מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868100/retail-online-olandese-fragole-piu-economiche-mirtilli-invece-piu-cari/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -738,37 +738,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la production commerciale de mangues destinées à l&#x27;exportation au Ghana -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">La société MakolaHub a entamé sa première récolte commerciale de mangues issues de sa propre exploitation au Ghana, créée en 2021. Après avoir longtemps exporté via des petits producteurs indépendants, l&#x27;entreprise adopte un modèle de production directe pour mieux sécuriser ses volumes et sa qualité. <span class=\"news-reason\">Information sur l&#x27;expansion de production d&#x27;une origine concurrente pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868144/en-2021-decidimos-cambiar-de-enfoque-y-creamos-nuestra-propia-pequena-finca-de-mango-en-ghana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Ghana launches commercial mango production for export -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">MakolaHub has begun its first commercial harvest of mangoes from its own farm in Ghana, established in 2021. After long exporting via small independent growers, the company is adopting a direct production model to better secure its volumes and quality. <span class=\"news-reason\">Information on the production expansion of a competing origin for mangoes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868144/en-2021-decidimos-cambiar-de-enfoque-y-creamos-nuestra-propia-pequena-finca-de-mango-en-ghana/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מקורות מתחרים</div><div class=\"news-title\">גאנה משיקה ייצור מסחרי של מנגו המיועד לייצוא -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">חברת MakolaHub החלה בקטיף המסחרי הראשון של מנגו מהמטע שבבעלותה בגאנה, שהוקם בשנת 2021. לאחר תקופה ארוכה של ייצוא באמצעות מגדלים עצמאיים קטנים, החברה מאמצת מודל של ייצור ישיר כדי להבטיח בצורה טובה יותר את הכמויות ואת האיכות שלה. <span class=\"news-reason\">מידע על הרחבת הייצור של מקור מתחרה למנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868144/en-2021-decidimos-cambiar-de-enfoque-y-creamos-nuestra-propia-pequena-finca-de-mango-en-ghana/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788336163_2",
-      "timestamp": "2026-09-02T08:02:43.086567+00:00",
-      "title": "Le changement climatique accroît la volatilité du secteur des agrumes en Europe -- 01/09/2026 13:29",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le changement climatique accroît la volatilité du secteur des agrumes en Europe -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">Selon une étude de RaboResearch, le changement climatique augmente la volatilité de la production fruitière européenne, impactant particulièrement les agrumes. Les effets se manifestent par une instabilité des rendements, de la qualité des fruits et une modification des calendriers de récolte. <span class=\"news-reason\">Information stratégique sur les risques de production (qualité, rendement) chez les concurrents européens.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868223/climate-risks-increase-volatility-in-europe-s-fruit-sector/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Climate change increases volatility in the European citrus sector -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">According to a RaboResearch study, climate change is increasing the volatility of European fruit production, particularly impacting citrus fruits. The effects are manifested by instability in yields, fruit quality, and changes in harvest schedules. <span class=\"news-reason\">Strategic information on production risks (quality, yield) among European competitors.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868223/climate-risks-increase-volatility-in-europe-s-fruit-sector/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">שינויי האקלים מגבירים את התנודתיות במגזר פירות ההדר באירופה -- <span class=\"news-date\">01/09/2026 13:29</span></div><div class=\"news-body\">על פי מחקר של RaboResearch, שינויי האקלים מגבירים את התנודתיות בייצור הפירות באירופה, ומשפיעים במיוחד על פירות ההדר. ההשפעות באות לידי ביטוי בחוסר יציבות ביבולים, באיכות הפירות ובשינוי בלוחות הזמנים של הקטיף. <span class=\"news-reason\">מידע אסטרטגי על סיכוני ייצור (איכות, יבול) אצל מתחרים אירופאים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868223/climate-risks-increase-volatility-in-europe-s-fruit-sector/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788336163_1",
-      "timestamp": "2026-09-02T08:02:43.086567+00:00",
-      "title": "Espagne : Incertitude et suspension des achats d&#x27;agrumes sur pied",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Nadia",
-        "Sébastien"
-      ],
-      "products": [],
-      "origins": [
-        "ESP"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Espagne : Incertitude et suspension des achats d&#x27;agrumes sur pied -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">En Espagne, les achats d&#x27;agrumes en plein champ pour la campagne 2026/27 sont quasiment à l&#x27;arrêt. Cette situation contraste avec les années précédentes et s&#x27;explique par les mauvais résultats de la saison passée et la pression concurrentielle accrue des pays tiers sur le marché européen. <span class=\"news-reason\">Alerte sur la stratégie d&#x27;approvisionnement d&#x27;un concurrent majeur impactant la saison à venir.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867676/l-incertezza-ferma-gli-acquisti-di-agrumi-in-campo-in-vista-della-stagione-2026-27/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Spain: uncertainty and suspension of standing citrus purchases -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">In Spain, field citrus purchases for the 2026/27 campaign are virtually at a standstill. This situation contrasts with previous years and is explained by the poor results of the past season and increased competitive pressure from third countries on the European market. <span class=\"news-reason\">Alert on the supply strategy of a major competitor impacting the upcoming season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867676/l-incertezza-ferma-gli-acquisti-di-agrumi-in-campo-in-vista-della-stagione-2026-27/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ספרד: חוסר ודאות והשעיית רכישות פירות הדר בשטח -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">בספרד, רכישות פירות הדר בשטח לעונת 2026/27 כמעט נעצרו לחלוטין. מצב זה עומד בניגוד לשנים קודמות ומוסבר על ידי התוצאות הגרועות של העונה שעברה והלחץ התחרותי הגובר מצד מדינות שלישיות בשוק האירופי. <span class=\"news-reason\">התראה על אסטרטגיית האספקה של מתחרה מרכזי המשפיעה על העונה הקרובה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867676/l-incertezza-ferma-gli-acquisti-di-agrumi-in-campo-in-vista-della-stagione-2026-27/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
