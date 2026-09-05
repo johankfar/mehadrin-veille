@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-05T09:32:21.795555+00:00",
-  "article_count": 38,
+  "last_updated": "2026-09-05T11:02:56.505368+00:00",
+  "article_count": 36,
   "attention_points": [
+    {
+      "id": "attention-c9296ea37eab5d1b",
+      "article_id": "1788606176_0",
+      "url": "https://cagor.net/revue-de-presse-agricole-05-09-2026/",
+      "source": "CAGOR",
+      "title": "Alerte sur le déficit hydrique majeur au Maroc",
+      "summary": "Le Maroc est identifié comme le pays d'Afrique le plus durement touché par le déficit hydrique.",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-09-05T10:04:11+00:00",
+      "published_at_source": "rss",
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 0
+    },
     {
       "id": "attention-f028a4c8ebc61234",
       "article_id": "1788525263_0",
@@ -20,7 +39,7 @@
         "mandarine",
         "pomegranate"
       ],
-      "age_hours": 21
+      "age_hours": 23
     },
     {
       "id": "attention-089f8318ba74e7f2",
@@ -39,7 +58,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 23
+      "age_hours": 24
     },
     {
       "id": "attention-cb670ade0f5f4002",
@@ -56,31 +75,33 @@
       "signal_label": "Volumes",
       "icon": "information",
       "products": [],
-      "age_hours": 23
-    },
-    {
-      "id": "attention-e967b0fc446076a8",
-      "article_id": "1788509058_3",
-      "url": "https://www.freshplaza.it/article/9869389/prezzi-bassi-ogni-giorno-e-un-ritorno-all-essenza-del-discount/",
-      "source": "FreshPlaza IT",
-      "title": "Italie : ALDI opère un recentrage stratégique sur",
-      "summary": "Huit ans après son implantation en Italie, ALDI entame une nouvelle phase stratégique.",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
-      "published_at": "2026-09-04T06:05:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "information",
-      "signal_label": "Information",
-      "icon": "information",
-      "products": [],
-      "age_hours": 29
+      "age_hours": 24
     }
   ],
   "articles": [
     {
+      "id": "1788606176_0",
+      "timestamp": "2026-09-05T11:02:56.505368+00:00",
+      "title": "Alerte sur le déficit hydrique majeur au Maroc -- 05/09/2026 10:04",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia",
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Alerte sur le déficit hydrique majeur au Maroc -- <span class=\"news-date\">05/09/2026 10:04</span></div><div class=\"news-body\">Le Maroc est identifié comme le pays d&#x27;Afrique le plus durement touché par le déficit hydrique. Cette situation de stress climatique sévère menace la gestion des ressources en eau pour les exploitations agricoles nationales et pourrait impacter la disponibilité des futures récoltes de fruits. <span class=\"news-reason\">Information critique sur le stress hydrique au Maroc, impactant une zone de production et d&#x27;origine clé pour les agrumes et avocats.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/revue-de-presse-agricole-05-09-2026/\" target=\"_blank\">CAGOR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Alert on the major water deficit in Morocco -- <span class=\"news-date\">05/09/2026 10:04</span></div><div class=\"news-body\">Morocco is identified as the African country hardest hit by the water deficit. This situation of severe climate stress threatens the management of water resources for national agricultural farms and could impact the availability of future fruit harvests. <span class=\"news-reason\">Critical information on water stress in Morocco, impacting a key production and origin area for citrus fruits and avocados.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/revue-de-presse-agricole-05-09-2026/\" target=\"_blank\">CAGOR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">התראה על מחסור חמור במים במרוקו -- <span class=\"news-date\">05/09/2026 10:04</span></div><div class=\"news-body\">מרוקו מזוהה כמדינה באפריקה שנפגעה בצורה הקשה ביותר מהמחסור במים. מצב זה של עקה אקלימית חמורה מאיים על ניהול משאבי המים עבור המשקים החקלאיים הלאומיים ועלול להשפיע על זמינות יבולי הפירות העתידיים. <span class=\"news-reason\">מידע קריטי על עקה הידרולוגית במרוקו, המשפיעה על אזור ייצור ומקור מרכזי להדרים ואבוקדו.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/revue-de-presse-agricole-05-09-2026/\" target=\"_blank\">CAGOR -- קראו את הכתבה</a></div></div>"
+    },
+    {
       "id": "1788530653_0",
       "timestamp": "2026-09-04T14:04:13.862869+00:00",
-      "title": "Saison des dattes Barhi en Égypte : stabilité des volumes et défis logistiques",
+      "title": "Saison de la datte Barhi en Égypte : stabilité des volumes et défis logistiques",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Jessica"
@@ -91,7 +112,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Saison des dattes Barhi en Égypte : stabilité des volumes et défis logistiques -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">La campagne des dattes Barhi en Égypte a atteint son apogée avec des volumes constants et une production en croissance. Cependant, le marché est marqué par une demande sensible aux prix et des difficultés majeures pour le transport aérien, jugé presque impraticable cette saison. <span class=\"news-reason\">Informations sur la campagne de dattes d&#x27;une origine concurrente et alertes logistiques sur le fret aérien.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868156/in-questa-stagione-il-trasporto-aereo-per-i-datteri-barhi-e-quasi-impraticabile/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Saison de la datte Barhi en Égypte : stabilité des volumes et défis logistiques -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">La campagne des dattes Barhi en Égypte a atteint son apogée avec des volumes constants et une production en croissance. Cependant, le marché est marqué par une demande sensible aux prix et des difficultés majeures pour le transport aérien, jugé presque impraticable cette saison. <span class=\"news-reason\">Informations sur la campagne de dattes d&#x27;une origine concurrente et alertes logistiques sur le fret aérien.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868156/in-questa-stagione-il-trasporto-aereo-per-i-datteri-barhi-e-quasi-impraticabile/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Barhi date season in Egypt: logistical challenges and steady volumes -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">The Barhi date campaign in Egypt has reached its peak with steady volumes and growing production. However, the market is marked by price-sensitive demand and major difficulties for air transport, deemed almost impractical this season. <span class=\"news-reason\">Information on the date campaign from a competing origin and logistical alerts on air freight.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868156/in-questa-stagione-il-trasporto-aereo-per-i-datteri-barhi-e-quasi-impraticabile/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">עונת תמרי הברהי במצרים: אתגרים לוגיסטיים וכמויות יציבות -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">עונת תמרי הברהי במצרים הגיעה לשיאה עם כמויות יציבות וייצור גדל. עם זאת, השוק מתאפיין בביקוש רגיש למחיר ובקשיים משמעותיים בהובלה אווירית, שנחשבת לכמעט בלתי אפשרית העונה. <span class=\"news-reason\">מידע על עונת התמרים ממקור מתחרה והתראות לוגיסטיות לגבי הובלה אווירית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868156/in-questa-stagione-il-trasporto-aereo-per-i-datteri-barhi-e-quasi-impraticabile/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -363,14 +384,14 @@
     {
       "id": "1788427983_1",
       "timestamp": "2026-09-03T09:33:03.618020+00:00",
-      "title": "Italie : la consommation de fruits et légumes biologiques enregistre une progression de 13 %",
+      "title": "Italie : la consommation de fruits et légumes biologiques en hausse de 13 %",
       "category": "PRIX &amp VOLUMES",
       "commercials": [],
       "products": [],
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Italie : la consommation de fruits et légumes biologiques enregistre une progression de 13 % -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">Le marché italien des fruits et légumes biologiques connaît un renouveau en 2025. Les achats des ménages ont atteint 594 000 tonnes, soit une hausse de 11 % par rapport à 2024, tandis que la consommation totale en volume a progressé de 13 %. <span class=\"news-reason\">Données chiffrées sur la croissance d&#x27;un marché européen majeur pour les produits frais, incluant les segments Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Italie : la consommation de fruits et légumes biologiques en hausse de 13 % -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">Le marché italien des fruits et légumes biologiques connaît un renouveau en 2025. Les achats des ménages ont atteint 594 000 tonnes, soit une hausse de 11 % par rapport à 2024, tandis que la consommation totale en volume a progressé de 13 %. <span class=\"news-reason\">Données chiffrées sur la croissance d&#x27;un marché européen majeur pour les produits frais, incluant les segments Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Italy: consumption of organic fruits and vegetables grows by 13% -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">The Italian organic fruit and vegetable market is seeing a revival in 2025. Household purchases reached 594,000 tonnes, up 11% from 2024, while total volume consumption grew by 13%. <span class=\"news-reason\">Numerical data on the growth of a major European market for fresh produce, including Mehadrin segments.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">איטליה: צריכת הפירות והירקות האורגניים עולה ב-13% -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">שוק הפירות והירקות האורגניים באיטליה חווה התחדשות בשנת 2025. רכישות משקי הבית הגיעו ל-594,000 טון, עלייה של 11% לעומת 2024, בעוד שסך הצריכה במונחי נפח עלה ב-13%. <span class=\"news-reason\">נתונים מספריים על צמיחת שוק אירופי מרכזי לתוצרת טרייה, כולל מגזרי מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869237/ortofrutta-biologica-nel-2025-crescita-dei-consumi-del-13-per-cento-in-volume/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -500,7 +521,7 @@
     {
       "id": "1788411783_1",
       "timestamp": "2026-09-03T05:03:03.376475+00:00",
-      "title": "L’Égypte consolide sa position sur le marché mondial de la grenade",
+      "title": "L’Égypte consolide son positionnement sur le marché mondial de la grenade",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -511,7 +532,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’Égypte consolide sa position sur le marché mondial de la grenade -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">L&#x27;Égypte consolide son statut de producteur majeur de grenades grâce à l&#x27;extension des surfaces de culture et à une période de récolte allongée. La demande internationale est en hausse, et l&#x27;augmentation des volumes exportés par les entreprises égyptiennes suit la croissance de la production nationale. <span class=\"news-reason\">Expansion de la production et de la période de récolte en Égypte, concurrent direct de Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867651/l-andamento-delle-esportazioni-e-rimasto-in-linea-con-l-aumento-della-produzione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’Égypte consolide son positionnement sur le marché mondial de la grenade -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">L&#x27;Égypte consolide son statut de producteur majeur de grenades grâce à l&#x27;extension des surfaces de culture et à une période de récolte allongée. La demande internationale est en hausse, et l&#x27;augmentation des volumes exportés par les entreprises égyptiennes suit la croissance de la production nationale. <span class=\"news-reason\">Expansion de la production et de la période de récolte en Égypte, concurrent direct de Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867651/l-andamento-delle-esportazioni-e-rimasto-in-linea-con-l-aumento-della-produzione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Egypt consolidates its position in the global pomegranate market -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">Egypt consolidates its status as a major producer of pomegranates thanks to the expansion of cultivation areas and an extended harvest period. International demand is rising, and the increase in export volumes by Egyptian companies is keeping pace with national production growth. <span class=\"news-reason\">Expansion of production and harvest period in Egypt, a direct competitor of Mehadrin during the season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867651/l-andamento-delle-esportazioni-e-rimasto-in-linea-con-l-aumento-della-produzione/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מצרים מבססת את מעמדה בשוק הרימונים העולמי -- <span class=\"news-date\">03/09/2026 06:05</span></div><div class=\"news-body\">מצרים מבססת את מעמדה כיצרנית רימונים מרכזית הודות להרחבת שטחי הגידול ותקופת קטיף מוארכת. הביקוש הבינלאומי נמצא בעלייה, והגידול בהיקפי הייצוא של החברות המצריות עוקב אחר הצמיחה בייצור המקומי. <span class=\"news-reason\">התרחבות הייצור ותקופת הקטיף במצרים, מתחרה ישירה של מהדרין בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9867651/l-andamento-delle-esportazioni-e-rimasto-in-linea-con-l-aumento-della-produzione/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -686,58 +707,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les producteurs israéliens de dattes sous la pression de la concurrence égyptienne -- <span class=\"news-date\">02/09/2026 13:47</span></div><div class=\"news-body\">Les producteurs de dattes israéliens subissent la concurrence croissante des importations égyptiennes alors que la récolte locale débute. Les dattes égyptiennes entrent sur le marché dénoyautées et congelées, une classification qui leur permet d&#x27;échapper à certaines restrictions imposées aux produits frais. Parallèlement, des limitations sur plusieurs marchés européens affectent les exportations en provenance de la vallée du Jourdain, malgré les prévisions d&#x27;une récolte plus importante que l&#x27;an dernier. <span class=\"news-reason\">Article crucial traitant de la concurrence directe entre les dattes d&#x27;Égypte et d&#x27;Israël sur le marché européen, avec des précisions sur les avantages réglementaires des produits congelés.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868756/egyptian-date-imports-pressure-israeli-growers/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Israeli date producers under pressure from Egyptian competition -- <span class=\"news-date\">02/09/2026 13:47</span></div><div class=\"news-body\">Israeli date producers are facing increasing competition from Egyptian imports as the local harvest begins. Egyptian dates are entering the market pitted and frozen, a classification that allows them to bypass certain restrictions imposed on fresh products. At the same time, limitations in several European markets are affecting exports from the Jordan Valley, despite forecasts of a larger harvest than last year. <span class=\"news-reason\">Crucial article dealing with direct competition between Egyptian and Israeli dates on the European market, with details on the regulatory advantages of frozen products.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868756/egyptian-date-imports-pressure-israeli-growers/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מגדלי התמרים הישראלים תחת לחץ מהתחרות המצרית -- <span class=\"news-date\">02/09/2026 13:47</span></div><div class=\"news-body\">מגדלי התמרים הישראלים חווים תחרות גוברת מצד היבוא המצרי עם תחילת הקטיף המקומי. התמרים המצריים נכנסים לשוק כשהם מגולענים וקפואים, סיווג המאפשר להם לחמוק מהגבלות מסוימות המוטלות על מוצרים טריים. במקביל, מגבלות במספר שווקים אירופיים משפיעות על הייצוא מבקעת הירדן, למרות תחזיות ליבול גדול יותר מהשנה שעברה. <span class=\"news-reason\">מאמר קריטי העוסק בתחרות הישירה בין תמרים ממצרים ומישראל בשוק האירופי, עם פירוט על היתרונות הרגולטוריים של מוצרים קפואים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9868756/egyptian-date-imports-pressure-israeli-growers/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788347023_3",
-      "timestamp": "2026-09-02T11:03:43.617049+00:00",
-      "title": "Pays-Bas : stabilité des prix de la mangue dans le commerce de détail en ligne",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "mango"
-      ],
-      "origins": [
-        "NLD"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Pays-Bas : stabilité des prix de la mangue dans le commerce de détail en ligne -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">Le suivi du commerce en ligne aux Pays-Bas pour la semaine 35 montre une stabilité des prix pour la mangue. Contrairement aux petits fruits rouges qui connaissent de fortes variations, le segment de la mangue reste inchangé sur cette période. <span class=\"news-reason\">Donnée sur l&#x27;évolution des prix de détail sur un marché d&#x27;importation majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868100/retail-online-olandese-fragole-piu-economiche-mirtilli-invece-piu-cari/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Netherlands: stable mango prices in online retail -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">Monitoring of online trade in the Netherlands for week 35 shows price stability for mangoes. Unlike berries, which are experiencing sharp variations, the mango segment remains unchanged over this period. <span class=\"news-reason\">Data on retail price trends in a major import market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868100/retail-online-olandese-fragole-piu-economiche-mirtilli-invece-piu-cari/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">הולנד: יציבות במחירי המנגו בקמעונאות המקוונת -- <span class=\"news-date\">02/09/2026 06:00</span></div><div class=\"news-body\">מעקב אחר המסחר המקוון בהולנד לשבוע 35 מראה יציבות במחירי המנגו. בניגוד לפירות יער שחווים תנודות חזקות, מגזר המנגו נותר ללא שינוי בתקופה זו. <span class=\"news-reason\">נתונים על התפתחות המחירים לצרכן בשוק יבוא מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868100/retail-online-olandese-fragole-piu-economiche-mirtilli-invece-piu-cari/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788347023_2",
-      "timestamp": "2026-09-02T11:03:43.617049+00:00",
-      "title": "L&#x27;Égypte exporte 14 000 tonnes de patates douces en une semaine -- 01/09/2026 12:27",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "sweet_potato"
-      ],
-      "origins": [
-        "EGY"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Égypte exporte 14 000 tonnes de patates douces en une semaine -- <span class=\"news-date\">01/09/2026 12:27</span></div><div class=\"news-body\">Entre le 22 et le 28 août 2026, l&#x27;Égypte a expédié environ 14 000 tonnes de patates douces vers les marchés internationaux. Ce volume s&#x27;inscrit dans un total de 172 000 tonnes de produits alimentaires exportés durant cette période par environ 1 300 entreprises égyptiennes. <span class=\"news-reason\">Volumes d&#x27;exportation hebdomadaires très élevés pour un produit stratégique en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9868154/les-exportations-egyptiennes-de-patates-douces-atteignent-14-000-tonnes-en-une-semaine/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Egypt exports 14,000 tonnes of sweet potatoes in one week -- <span class=\"news-date\">01/09/2026 12:27</span></div><div class=\"news-body\">Between August 22 and 28, 2026, Egypt shipped approximately 14,000 tonnes of sweet potatoes to international markets. This volume is part of a total of 172,000 tonnes of food products exported during this period by about 1,300 Egyptian companies. <span class=\"news-reason\">Very high weekly export volumes for a strategic seasonal product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9868154/les-exportations-egyptiennes-de-patates-douces-atteignent-14-000-tonnes-en-une-semaine/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מצרים מייצאת 14,000 טון בטטות בשבוע אחד -- <span class=\"news-date\">01/09/2026 12:27</span></div><div class=\"news-body\">בין ה-22 ל-28 באוגוסט 2026, מצרים שלחה כ-14,000 טון בטטות לשווקים הבינלאומיים. כמות זו היא חלק מתוך סך של 172,000 טון מוצרי מזון שיוצאו בתקופה זו על ידי כ-1,300 חברות מצריות. <span class=\"news-reason\">כמויות ייצוא שבועיות גבוהות מאוד עבור מוצר אסטרטגי בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9868154/les-exportations-egyptiennes-de-patates-douces-atteignent-14-000-tonnes-en-une-semaine/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788347023_0",
-      "timestamp": "2026-09-02T11:03:43.617049+00:00",
-      "title": "Lancement de la production commerciale de mangues destinées à l&#x27;exportation au Ghana",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "mango"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la production commerciale de mangues destinées à l&#x27;exportation au Ghana -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">La société MakolaHub a entamé sa première récolte commerciale de mangues issues de sa propre exploitation au Ghana, créée en 2021. Après avoir longtemps exporté via des petits producteurs indépendants, l&#x27;entreprise adopte un modèle de production directe pour mieux sécuriser ses volumes et sa qualité. <span class=\"news-reason\">Information sur l&#x27;expansion de production d&#x27;une origine concurrente pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868144/en-2021-decidimos-cambiar-de-enfoque-y-creamos-nuestra-propia-pequena-finca-de-mango-en-ghana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Ghana launches commercial mango production for export -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">MakolaHub has begun its first commercial harvest of mangoes from its own farm in Ghana, established in 2021. After long exporting via small independent growers, the company is adopting a direct production model to better secure its volumes and quality. <span class=\"news-reason\">Information on the production expansion of a competing origin for mangoes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868144/en-2021-decidimos-cambiar-de-enfoque-y-creamos-nuestra-propia-pequena-finca-de-mango-en-ghana/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מקורות מתחרים</div><div class=\"news-title\">גאנה משיקה ייצור מסחרי של מנגו המיועד לייצוא -- <span class=\"news-date\">01/09/2026 15:19</span></div><div class=\"news-body\">חברת MakolaHub החלה בקטיף המסחרי הראשון של מנגו מהמטע שבבעלותה בגאנה, שהוקם בשנת 2021. לאחר תקופה ארוכה של ייצוא באמצעות מגדלים עצמאיים קטנים, החברה מאמצת מודל של ייצור ישיר כדי להבטיח בצורה טובה יותר את הכמויות ואת האיכות שלה. <span class=\"news-reason\">מידע על הרחבת הייצור של מקור מתחרה למנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9868144/en-2021-decidimos-cambiar-de-enfoque-y-creamos-nuestra-propia-pequena-finca-de-mango-en-ghana/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
