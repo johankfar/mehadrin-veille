@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T08:02:12.637650+00:00",
-  "article_count": 17,
+  "last_updated": "2026-09-07T09:32:39.558329+00:00",
+  "article_count": 14,
   "attention_points": [
     {
       "id": "attention-5374cdc33edb761e",
@@ -19,7 +19,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-1ab283437af862d3",
@@ -36,7 +36,7 @@
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [],
-      "age_hours": 3
+      "age_hours": 5
     },
     {
       "id": "attention-ba586557d3ea5429",
@@ -55,7 +55,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 42
+      "age_hours": 44
     },
     {
       "id": "attention-e04a366a9810777b",
@@ -72,7 +72,7 @@
       "signal_label": "Alerte",
       "icon": "alert",
       "products": [],
-      "age_hours": 43
+      "age_hours": 44
     }
   ],
   "articles": [
@@ -234,7 +234,7 @@
     {
       "id": "1788530653_0",
       "timestamp": "2026-09-04T14:04:13.862869+00:00",
-      "title": "Saison de la datte Barhi en Égypte : volumes stables et défis logistiques",
+      "title": "Campagne de la datte Barhi en Égypte : stabilité des volumes et enjeux logistiques",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Jessica"
@@ -245,7 +245,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Saison de la datte Barhi en Égypte : volumes stables et défis logistiques -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">La campagne des dattes Barhi en Égypte a atteint son apogée avec des volumes constants et une production en croissance. Cependant, le marché est marqué par une demande sensible aux prix et des difficultés majeures pour le transport aérien, jugé presque impraticable cette saison. <span class=\"news-reason\">Informations sur la campagne de dattes d&#x27;une origine concurrente et alertes logistiques sur le fret aérien.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868156/in-questa-stagione-il-trasporto-aereo-per-i-datteri-barhi-e-quasi-impraticabile/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Campagne de la datte Barhi en Égypte : stabilité des volumes et enjeux logistiques -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">La campagne des dattes Barhi en Égypte a atteint son apogée avec des volumes constants et une production en croissance. Cependant, le marché est marqué par une demande sensible aux prix et des difficultés majeures pour le transport aérien, jugé presque impraticable cette saison. <span class=\"news-reason\">Informations sur la campagne de dattes d&#x27;une origine concurrente et alertes logistiques sur le fret aérien.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868156/in-questa-stagione-il-trasporto-aereo-per-i-datteri-barhi-e-quasi-impraticabile/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Barhi date season in Egypt: logistical challenges and steady volumes -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">The Barhi date campaign in Egypt has reached its peak with steady volumes and growing production. However, the market is marked by price-sensitive demand and major difficulties for air transport, deemed almost impractical this season. <span class=\"news-reason\">Information on the date campaign from a competing origin and logistical alerts on air freight.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868156/in-questa-stagione-il-trasporto-aereo-per-i-datteri-barhi-e-quasi-impraticabile/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">עונת תמרי הברהי במצרים: אתגרים לוגיסטיים וכמויות יציבות -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">עונת תמרי הברהי במצרים הגיעה לשיאה עם כמויות יציבות וייצור גדל. עם זאת, השוק מתאפיין בביקוש רגיש למחיר ובקשיים משמעותיים בהובלה אווירית, שנחשבת לכמעט בלתי אפשרית העונה. <span class=\"news-reason\">מידע על עונת התמרים ממקור מתחרה והתראות לוגיסטיות לגבי הובלה אווירית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868156/in-questa-stagione-il-trasporto-aereo-per-i-datteri-barhi-e-quasi-impraticabile/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -319,52 +319,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Avocats : hausse précoce des cours et vigueur de la demande estivale en Europe -- <span class=\"news-date\">04/09/2026 12:08</span></div><div class=\"news-body\">Le marché de l&#x27;avocat a connu une dynamique inhabituelle cet été avec une remontée précoce des prix. Contrairement aux saisons précédentes où les prix restaient bas plus longtemps, la demande a été particulièrement soutenue. Une tension est observée sur les calibres moyens et petits, dont la disponibilité reste limitée sur le marché européen. <span class=\"news-reason\">L&#x27;article fournit des informations cruciales sur les prix et la structure de la demande pour l&#x27;avocat, un produit phare de Mehadrin, en soulignant une pénurie de petits calibres.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9869583/na-opvallend-goede-zomervraag-naar-avocado-s-verwachten-we-ook-de-komende-weken-voldoende-beweging/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Avocados: early price increase and strong summer demand in Europe -- <span class=\"news-date\">04/09/2026 12:08</span></div><div class=\"news-body\">The avocado market experienced unusual dynamics this summer with an early rise in prices. Unlike previous seasons where prices remained low for longer, demand was particularly strong. Tension is observed in medium and small sizes, whose availability remains limited on the European market. <span class=\"news-reason\">The article provides crucial information on prices and the demand structure for avocados, a flagship product for Mehadrin, highlighting a shortage of small sizes.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9869583/na-opvallend-goede-zomervraag-naar-avocado-s-verwachten-we-ook-de-komende-weken-voldoende-beweging/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">אבוקדו: עלייה מוקדמת במחירים וביקוש קיצי חזק באירופה -- <span class=\"news-date\">04/09/2026 12:08</span></div><div class=\"news-body\">שוק האבוקדו חווה דינמיקה יוצאת דופן הקיץ עם עלייה מוקדמת במחירים. בניגוד לעונות קודמות שבהן המחירים נותרו נמוכים למשך זמן רב יותר, הביקוש היה חזק במיוחד. נצפה מחסור בגדלים בינוניים וקטנים, שזמינותם נותרת מוגבלת בשוק האירופי. <span class=\"news-reason\">המאמר מספק מידע חיוני על המחירים ומבנה הביקוש לאבוקדו, מוצר דגל של מהדרין, תוך הדגשת המחסור בגדלים קטנים.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9869583/na-opvallend-goede-zomervraag-naar-avocado-s-verwachten-we-ook-de-komende-weken-voldoende-beweging/\" target=\"_blank\">AGF.nl -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788509058_3",
-      "timestamp": "2026-09-04T08:04:18.563852+00:00",
-      "title": "Italie : ALDI opère un recentrage stratégique sur le modèle du discount traditionnel",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [],
-      "products": [],
-      "origins": [
-        "ITA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Italie : ALDI opère un recentrage stratégique sur le modèle du discount traditionnel -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">Huit ans après son implantation en Italie, ALDI entame une nouvelle phase stratégique. L&#x27;enseigne annonce un retour aux fondamentaux du modèle discount, axé sur l&#x27;essentiel et l&#x27;efficacité opérationnelle, afin de garantir des prix bas permanents aux consommateurs. <span class=\"news-reason\">Mouvement d&#x27;une enseigne de distribution majeure en Europe impactant les conditions de vente et le positionnement prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869389/prezzi-bassi-ogni-giorno-e-un-ritorno-all-essenza-del-discount/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Italy: ALDI shifts its strategy towards the traditional discount model -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">Eight years after its establishment in Italy, ALDI is entering a new strategic phase. The retailer announces a return to the fundamentals of the discount model, focused on essentials and operational efficiency, to guarantee permanent low prices for consumers. <span class=\"news-reason\">Movement by a major European retail chain impacting sales conditions and price positioning.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869389/prezzi-bassi-ogni-giorno-e-un-ritorno-all-essenza-del-discount/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות רשתות שיווק</div><div class=\"news-title\">איטליה: ALDI מכוונת מחדש את האסטרטגיה שלה לעבר מודל הדיסקאונט המסורתי -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">שמונה שנים לאחר כניסתה לאיטליה, ALDI מתחילה שלב אסטרטגי חדש. הרשת מכריזה על חזרה ליסודות מודל הדיסקאונט, המתמקד בעיקר וביעילות תפעולית, במטרה להבטיח מחירים נמוכים קבועים לצרכנים. <span class=\"news-reason\">מהלך של רשת קמעונאות גדולה באירופה המשפיע על תנאי המכירה ועל מיצוב המחירים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869389/prezzi-bassi-ogni-giorno-e-un-ritorno-all-essenza-del-discount/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788509058_2",
-      "timestamp": "2026-09-04T08:04:18.563852+00:00",
-      "title": "Italie : innovations et expérimentations variétales dans la production de melons à Foggia",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Sébastien"
-      ],
-      "products": [
-        "melon"
-      ],
-      "origins": [
-        "ITA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Italie : innovations et expérimentations variétales dans la production de melons à Foggia -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">L&#x27;événement Melone Experience s&#x27;est tenu dans la région de Foggia, pôle majeur de la culture du melon en Italie. Cette rencontre a permis de présenter les dernières innovations variétales et de réaliser des comparaisons techniques directement sur le terrain avec les producteurs et opérateurs du secteur. <span class=\"news-reason\">Information stratégique sur les développements variétaux d&#x27;un concurrent direct (Italie) sur le segment du melon.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869657/melone-experience-innovazione-varietale-e-confronto-tecnico-in-campo-nel-foggiano/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Italy: Innovation and varietal trials in melon production in Foggia -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">The Melone Experience event was held in the Foggia region, a major hub for melon cultivation in Italy. This meeting showcased the latest varietal innovations and allowed for technical comparisons directly in the field with producers and sector operators. <span class=\"news-reason\">Strategic information on varietal developments of a direct competitor (Italy) in the melon segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869657/melone-experience-innovazione-varietale-e-confronto-tecnico-in-campo-nel-foggiano/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות ומקורות</div><div class=\"news-title\">איטליה: חדשנות וניסויים זניים בייצור מלונים בפוג'ה -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">אירוע Melone Experience התקיים באזור פוג'ה, מוקד מרכזי לגידול מלונים באיטליה. מפגש זה איפשר להציג את החידושים הזניים האחרונים ולבצע השוואות טכניות ישירות בשטח עם המגדלים והגורמים הפועלים במגזר. <span class=\"news-reason\">מידע אסטרטגי על פיתוחים זניים של מתחרה ישיר (איטליה) בסגמנט המלונים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869657/melone-experience-innovazione-varietale-e-confronto-tecnico-in-campo-nel-foggiano/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788509058_1",
-      "timestamp": "2026-09-04T08:04:18.563852+00:00",
-      "title": "Ukraine : progression des prix des pastèques suite à la contraction de l&#x27;offre -- 04/09/2026 07:48",
-      "category": "ALERTES SUPPLY",
-      "commercials": [],
-      "products": [
-        "watermelon"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Ukraine : progression des prix des pastèques suite à la contraction de l&#x27;offre -- <span class=\"news-date\">04/09/2026 07:48</span></div><div class=\"news-body\">Les producteurs ukrainiens ont augmenté les prix de la pastèque cette semaine. Les analystes attribuent cette tendance à une réduction significative de l&#x27;offre en provenance des exploitations locales, provoquant une tension sur le marché intérieur. <span class=\"news-reason\">Information sur la hausse des prix d&#x27;un produit Mehadrin (pastèque) chez une origine concurrente pour le marché européen.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/trending/watermelon-prices-rise-in-ukraine/\" target=\"_blank\">EastFruit -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Ukraine: Watermelon prices rise following supply contraction -- <span class=\"news-date\">04/09/2026 07:48</span></div><div class=\"news-body\">Ukrainian producers increased watermelon prices this week. Analysts attribute this trend to a significant reduction in supply from local farms, causing tension in the domestic market. <span class=\"news-reason\">Information on price increases for a Mehadrin product (watermelon) from a competing origin for the European market.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/trending/watermelon-prices-rise-in-ukraine/\" target=\"_blank\">EastFruit -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">אוקראינה: עליית מחירי האבטיחים בעקבות צמצום ההיצע -- <span class=\"news-date\">04/09/2026 07:48</span></div><div class=\"news-body\">המגדלים האוקראינים העלו את מחירי האבטיח השבוע. אנליסטים מייחסים מגמה זו לירידה משמעותית בהיצע מהחוות המקומיות, דבר הגורם למתח בשוק המקומי. <span class=\"news-reason\">מידע על עליית מחירים של מוצר מהדרין (אבטיח) במקור מתחרה עבור השוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/trending/watermelon-prices-rise-in-ukraine/\" target=\"_blank\">EastFruit -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
