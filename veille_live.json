@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-09-07T05:02:27.074418+00:00",
-  "article_count": 13,
+  "last_updated": "2026-09-07T06:31:27.467846+00:00",
+  "article_count": 14,
   "attention_points": [
+    {
+      "id": "attention-9fe2ea33401c6cb2",
+      "article_id": "1788762687_1",
+      "url": "https://www.agrimaroc.ma/fruits-et-legumes-le-maroc-consolide-sa-position-de-premier-fournisseur-hors-ue-de-lespagne/",
+      "source": "AgriMaroc",
+      "title": "Le Maroc renforce la valeur de ses exportations",
+      "summary": "Au premier semestre 2026, les exportations marocaines de fruits et légumes vers l'Espagne ont atteint une valeur de 950 millions d'euros.",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
+      "published_at": "2026-09-07T06:00:56+00:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "information",
+      "products": [],
+      "age_hours": 0
+    },
     {
       "id": "attention-1ab283437af862d3",
       "article_id": "1788757347_2",
@@ -17,7 +34,7 @@
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-ba586557d3ea5429",
@@ -36,7 +53,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 39
+      "age_hours": 41
     },
     {
       "id": "attention-e04a366a9810777b",
@@ -53,29 +70,25 @@
       "signal_label": "Alerte",
       "icon": "alert",
       "products": [],
-      "age_hours": 40
-    },
-    {
-      "id": "attention-089f8318ba74e7f2",
-      "article_id": "1788519879_0",
-      "url": "https://www.agf.nl/article/9869583/na-opvallend-goede-zomervraag-naar-avocado-s-verwachten-we-ook-de-komende-weken-voldoende-beweging/",
-      "source": "AGF.nl",
-      "title": "Avocats : hausse précoce des cours et vigueur",
-      "summary": "Le marché de l'avocat a connu une dynamique inhabituelle cet été avec une remontée précoce des prix.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-09-04T12:08:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "price",
-      "signal_label": "Prix",
-      "icon": "information",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 66
+      "age_hours": 41
     }
   ],
   "articles": [
+    {
+      "id": "1788762687_1",
+      "timestamp": "2026-09-07T06:31:27.467846+00:00",
+      "title": "Le Maroc renforce la valeur de ses exportations de fruits et légumes vers l&#x27;Espagne -- 07/09/2026 06:00",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "ESP",
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le Maroc renforce la valeur de ses exportations de fruits et légumes vers l&#x27;Espagne -- <span class=\"news-date\">07/09/2026 06:00</span></div><div class=\"news-body\">Au premier semestre 2026, les exportations marocaines de fruits et légumes vers l&#x27;Espagne ont atteint une valeur de 950 millions d&#x27;euros. Bien que les volumes aient diminué de 7 %, la valeur globale des expéditions a progressé de 6 %, témoignant d&#x27;une augmentation significative du prix moyen des produits exportés depuis le Royaume vers le marché espagnol. <span class=\"news-reason\">Données chiffrées précises sur les flux d&#x27;exportation d&#x27;une origine concurrente clé vers le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/fruits-et-legumes-le-maroc-consolide-sa-position-de-premier-fournisseur-hors-ue-de-lespagne/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Morocco strengthens the value of its fruit and vegetable exports to Spain -- <span class=\"news-date\">07/09/2026 06:00</span></div><div class=\"news-body\">In the first half of 2026, Moroccan fruit and vegetable exports to Spain reached a value of 950 million euros. Although volumes decreased by 7%, the overall value of shipments rose by 6%, reflecting a significant increase in the average price of products exported from the Kingdom to the Spanish market. <span class=\"news-reason\">Precise numerical data on export flows from a key competing origin to the European market.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/fruits-et-legumes-le-maroc-consolide-sa-position-de-premier-fournisseur-hors-ue-de-lespagne/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מרוקו מחזקת את ערך יצוא הפירות והירקות שלה לספרד -- <span class=\"news-date\">07/09/2026 06:00</span></div><div class=\"news-body\">במחצית הראשונה של 2026, יצוא הפירות והירקות המרוקאי לספרד הגיע לערך של 950 מיליון אירו. למרות שהכמויות ירדו ב-7%, הערך הכולל של המשלוחים עלה ב-6%, מה שמעיד על עלייה משמעותית במחיר הממוצע של המוצרים המיוצאים מהממלכה לשוק הספרדי. <span class=\"news-reason\">נתונים מספריים מדויקים על זרמי היצוא ממקור מתחרה מרכזי לשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/fruits-et-legumes-le-maroc-consolide-sa-position-de-premier-fournisseur-hors-ue-de-lespagne/\" target=\"_blank\">AgriMaroc -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1788757347_2",
       "timestamp": "2026-09-07T05:02:27.074418+00:00",
@@ -165,7 +178,7 @@
     {
       "id": "1788530653_0",
       "timestamp": "2026-09-04T14:04:13.862869+00:00",
-      "title": "Saison de la datte Barhi en Égypte : stabilité des volumes et défis logistiques",
+      "title": "Saison de la datte Barhi en Égypte : volumes stables et défis logistiques",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Jessica"
@@ -176,7 +189,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Saison de la datte Barhi en Égypte : stabilité des volumes et défis logistiques -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">La campagne des dattes Barhi en Égypte a atteint son apogée avec des volumes constants et une production en croissance. Cependant, le marché est marqué par une demande sensible aux prix et des difficultés majeures pour le transport aérien, jugé presque impraticable cette saison. <span class=\"news-reason\">Informations sur la campagne de dattes d&#x27;une origine concurrente et alertes logistiques sur le fret aérien.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868156/in-questa-stagione-il-trasporto-aereo-per-i-datteri-barhi-e-quasi-impraticabile/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Saison de la datte Barhi en Égypte : volumes stables et défis logistiques -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">La campagne des dattes Barhi en Égypte a atteint son apogée avec des volumes constants et une production en croissance. Cependant, le marché est marqué par une demande sensible aux prix et des difficultés majeures pour le transport aérien, jugé presque impraticable cette saison. <span class=\"news-reason\">Informations sur la campagne de dattes d&#x27;une origine concurrente et alertes logistiques sur le fret aérien.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868156/in-questa-stagione-il-trasporto-aereo-per-i-datteri-barhi-e-quasi-impraticabile/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Barhi date season in Egypt: logistical challenges and steady volumes -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">The Barhi date campaign in Egypt has reached its peak with steady volumes and growing production. However, the market is marked by price-sensitive demand and major difficulties for air transport, deemed almost impractical this season. <span class=\"news-reason\">Information on the date campaign from a competing origin and logistical alerts on air freight.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868156/in-questa-stagione-il-trasporto-aereo-per-i-datteri-barhi-e-quasi-impraticabile/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">עונת תמרי הברהי במצרים: אתגרים לוגיסטיים וכמויות יציבות -- <span class=\"news-date\">04/09/2026 06:05</span></div><div class=\"news-body\">עונת תמרי הברהי במצרים הגיעה לשיאה עם כמויות יציבות וייצור גדל. עם זאת, השוק מתאפיין בביקוש רגיש למחיר ובקשיים משמעותיים בהובלה אווירית, שנחשבת לכמעט בלתי אפשרית העונה. <span class=\"news-reason\">מידע על עונת התמרים ממקור מתחרה והתראות לוגיסטיות לגבי הובלה אווירית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868156/in-questa-stagione-il-trasporto-aereo-per-i-datteri-barhi-e-quasi-impraticabile/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
