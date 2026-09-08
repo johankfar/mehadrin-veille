@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T05:02:33.197400+00:00",
-  "article_count": 21,
+  "last_updated": "2026-09-08T08:02:46.519374+00:00",
+  "article_count": 24,
   "attention_points": [
     {
       "id": "attention-04ec2b7021d4b840",
@@ -19,7 +19,26 @@
       "products": [
         "orange"
       ],
-      "age_hours": 0
+      "age_hours": 3
+    },
+    {
+      "id": "attention-79ca0d14cdcd37da",
+      "article_id": "1788854566_0",
+      "url": "https://www.freshplaza.es/article/9870520/guatemala-solo-exporta-mango-a-ee-uu/",
+      "source": "FreshPlaza ES",
+      "title": "Le Guatemala restreint ses exportations de mangues vers",
+      "summary": "Le Guatemala dispose de 10 000 hectares de mangues, mais n'en dédie que 3 000 à l'exportation, principalement vers les États-Unis.",
+      "origin_code": "USA",
+      "origin_label": "États-Unis",
+      "published_at": "2026-09-07T16:08:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "information",
+      "products": [
+        "mango"
+      ],
+      "age_hours": 17
     },
     {
       "id": "attention-9974bc7b843c6ce5",
@@ -38,7 +57,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 14
+      "age_hours": 17
     },
     {
       "id": "attention-d9d6729cf1a7807c",
@@ -57,27 +76,62 @@
       "products": [
         "pomegranate"
       ],
-      "age_hours": 17
-    },
-    {
-      "id": "attention-e7b23378d064a993",
-      "article_id": "1788784345_4",
-      "url": "https://www.freshplaza.fr/article/9869218/l-ue-doit-surveiller-les-importations-d-agrumes-transitant-par-les-pays-bas-afin-que-la-suroffre-ne-porte-pas-prejudice-aux-producteurs-europeens/",
-      "source": "FreshPlaza FR",
-      "title": "Appel à la surveillance des importations d'agrumes via",
-      "summary": "Les Pays-Bas sont devenus l'une des principales portes d'entrée pour les agrumes des pays tiers vers l'Union Européenne.",
-      "origin_code": "NLD",
-      "origin_label": "Pays-Bas",
-      "published_at": "2026-09-07T13:50:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "information",
-      "products": [],
-      "age_hours": 17
+      "age_hours": 20
     }
   ],
   "articles": [
+    {
+      "id": "1788854566_2",
+      "timestamp": "2026-09-08T08:02:46.519374+00:00",
+      "title": "Augmentation des coûts logistiques pour une exploitation d&#x27;avocats néo-zélandaise -- 07/09/2026 13:23",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "NZL"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Augmentation des coûts logistiques pour une exploitation d&#x27;avocats néo-zélandaise -- <span class=\"news-date\">07/09/2026 13:23</span></div><div class=\"news-body\">L&#x27;exploitation Opureora Orchard, située sur l&#x27;île de Matakana, fait face à des coûts de transport vers le continent représentant jusqu&#x27;à 20 % de ses charges opérationnelles. Le verger de 8 hectares comprend environ 800 avocatiers. <span class=\"news-reason\">Impact des frais de transport sur la rentabilité d&#x27;une origine concurrente pour l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9870243/ferry-transport-adds-costs-for-matakana-avocado-orchard/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Increased logistics costs for a New Zealand avocado farm -- <span class=\"news-date\">07/09/2026 13:23</span></div><div class=\"news-body\">Opureora Orchard, located on Matakana Island, faces transportation costs to the mainland representing up to 20% of its operational charges. The 8-hectare orchard includes approximately 800 avocado trees. <span class=\"news-reason\">Impact of transport costs on the profitability of a competing origin for avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9870243/ferry-transport-adds-costs-for-matakana-avocado-orchard/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עלייה בעלויות הלוגיסטיות עבור מטעי אבוקדו בניו זילנד -- <span class=\"news-date\">07/09/2026 13:23</span></div><div class=\"news-body\">החווה Opureora Orchard, הממוקמת באי מטקאנה, מתמודדת עם עלויות הובלה ליבשת המהוות עד 20% מהוצאות התפעול שלה. המטע המשתרע על פני 8 הקטאר כולל כ-800 עצי אבוקדו. <span class=\"news-reason\">השפעת עלויות ההובלה על הרווחיות של מקור מתחרה לאבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9870243/ferry-transport-adds-costs-for-matakana-avocado-orchard/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1788854566_1",
+      "timestamp": "2026-09-08T08:02:46.519374+00:00",
+      "title": "Première récolte de mangues premium Miyazaki au Vietnam -- 07/09/2026 13:23",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Première récolte de mangues premium Miyazaki au Vietnam -- <span class=\"news-date\">07/09/2026 13:23</span></div><div class=\"news-body\">Une exploitation de 20 000 mètres carrés située à Ho Chi Minh-Ville a réalisé sa première récolte de mangues Irwin, une variété japonaise premium dite Miyazaki. Cette production pionnière vise à acclimater des variétés de luxe aux conditions climatiques vietnamiennes. <span class=\"news-reason\">Information sur l&#x27;expansion de culture d&#x27;une variété de mangue haut de gamme chez un concurrent.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9870313/hcmc-farm-achieves-first-harvest-of-japan-s-irwin-miyazaki-mangoes/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">First harvest of premium Miyazaki mangoes in Vietnam -- <span class=\"news-date\">07/09/2026 13:23</span></div><div class=\"news-body\">A 20,000-square-meter farm located in Ho Chi Minh City has achieved its first harvest of Irwin mangoes, a premium Japanese variety known as Miyazaki. This pioneering production aims to acclimate luxury varieties to Vietnamese climatic conditions. <span class=\"news-reason\">Information on the cultivation expansion of a high-end mango variety from a competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9870313/hcmc-farm-achieves-first-harvest-of-japan-s-irwin-miyazaki-mangoes/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">קטיף ראשון של מנגו פרימיום מיאזאקי בווייטנאם -- <span class=\"news-date\">07/09/2026 13:23</span></div><div class=\"news-body\">חוה בשטח של 20,000 מטרים רבועים הממוקמת בהו צ'י מין סיטי ביצעה את הקטיף הראשון שלה של מנגו אירווין, זן יפני יוקרתי המכונה מיאזאקי. ייצור חלוצי זה נועד לאקלם זני יוקרה לתנאי האקלים של וייטנאם. <span class=\"news-reason\">מידע על הרחבת גידול של זן מנגו יוקרתי אצל מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9870313/hcmc-farm-achieves-first-harvest-of-japan-s-irwin-miyazaki-mangoes/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1788854566_0",
+      "timestamp": "2026-09-08T08:02:46.519374+00:00",
+      "title": "Le Guatemala restreint ses exportations de mangues vers le marché américain -- 07/09/2026 16:08",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le Guatemala restreint ses exportations de mangues vers le marché américain -- <span class=\"news-date\">07/09/2026 16:08</span></div><div class=\"news-body\">Le Guatemala dispose de 10 000 hectares de mangues, mais n&#x27;en dédie que 3 000 à l&#x27;exportation, principalement vers les États-Unis. Les 7 000 hectares restants approvisionnent le marché intérieur. Les zones exportatrices se concentrent sur le littoral du Pacifique dans la région de Retalhuleu. <span class=\"news-reason\">Données précises sur les surfaces et volumes d&#x27;une origine concurrente pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9870520/guatemala-solo-exporta-mango-a-ee-uu/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Guatemala restricts its mango exports to the US market -- <span class=\"news-date\">07/09/2026 16:08</span></div><div class=\"news-body\">Guatemala has 10,000 hectares of mangoes, but only dedicates 3,000 to exports, mainly to the United States. The remaining 7,000 hectares supply the domestic market. Export zones are concentrated on the Pacific coast in the Retalhuleu region. <span class=\"news-reason\">Precise data on surfaces and volumes from a competing origin for mangoes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9870520/guatemala-solo-exporta-mango-a-ee-uu/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">גואטמלה מגבילה את ייצוא המנגו שלה לשוק האמריקאי -- <span class=\"news-date\">07/09/2026 16:08</span></div><div class=\"news-body\">לגואטמלה יש 10,000 הקטאר של מנגו, אך היא מקדישה רק 3,000 מהם לייצוא, בעיקר לארצות הברית. 7,000 ההקטאר הנותרים מספקים את השוק המקומי. אזורי הייצוא מתרכזים בחוף האוקיינוס השקט באזור רטאלולהו (Retalhuleu). <span class=\"news-reason\">נתונים מדויקים על שטחים וכמויות של מקור מתחרה למנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9870520/guatemala-solo-exporta-mango-a-ee-uu/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1788843753_0",
       "timestamp": "2026-09-08T05:02:33.197400+00:00",
@@ -315,7 +369,7 @@
     {
       "id": "1788768132_0",
       "timestamp": "2026-09-07T08:02:12.637650+00:00",
-      "title": "Égypte : la production de dattes devrait atteindre 2,1 millions de tonnes pour cette saison",
+      "title": "Égypte : la production de dattes devrait s&#x27;élever à 2,1 millions de tonnes pour cette saison",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica"
@@ -326,7 +380,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Égypte : la production de dattes devrait atteindre 2,1 millions de tonnes pour cette saison -- <span class=\"news-date\">07/09/2026 06:10</span></div><div class=\"news-body\">La production de dattes en Égypte est estimée à 2,1 millions de tonnes pour la saison actuelle. Malgré des conditions météorologiques irrégulières qui perturbent le calendrier de récolte et impactent la qualité ou la taille des fruits dans certaines zones, les exportateurs s&#x27;attendent à des volumes globaux stables. <span class=\"news-reason\">Contient des chiffres de production massifs (2,1 millions de tonnes) pour un produit stratégique de Mehadrin (dattes) chez un concurrent direct (Égypte).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868663/in-questa-stagione-il-raccolto-di-datteri-egiziani-e-stimato-a-2-1-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Égypte : la production de dattes devrait s&#x27;élever à 2,1 millions de tonnes pour cette saison -- <span class=\"news-date\">07/09/2026 06:10</span></div><div class=\"news-body\">La production de dattes en Égypte est estimée à 2,1 millions de tonnes pour la saison actuelle. Malgré des conditions météorologiques irrégulières qui perturbent le calendrier de récolte et impactent la qualité ou la taille des fruits dans certaines zones, les exportateurs s&#x27;attendent à des volumes globaux stables. <span class=\"news-reason\">Contient des chiffres de production massifs (2,1 millions de tonnes) pour un produit stratégique de Mehadrin (dattes) chez un concurrent direct (Égypte).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868663/in-questa-stagione-il-raccolto-di-datteri-egiziani-e-stimato-a-2-1-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Egypt expects a harvest of 2.1 million tons of dates this season -- <span class=\"news-date\">07/09/2026 06:10</span></div><div class=\"news-body\">Date production in Egypt is estimated at 2.1 million tons for the current season. Despite irregular weather conditions disrupting the harvest schedule and affecting fruit quality or size in some areas, exporters expect stable overall volumes. <span class=\"news-reason\">Contains massive production figures (2.1 million tons) for a strategic Mehadrin product (dates) from a direct competitor (Egypt).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868663/in-questa-stagione-il-raccolto-di-datteri-egiziani-e-stimato-a-2-1-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מצרים צופה יבול של 2.1 מיליון טונות תמרים העונה -- <span class=\"news-date\">07/09/2026 06:10</span></div><div class=\"news-body\">ייצור התמרים במצרים מוערך ב-2.1 מיליון טונות לעונה הנוכחית. למרות תנאי מזג אוויר בלתי יציבים המשבשים את לוח הזמנים של הקטיף ומשפיעים על האיכות או גודל הפרי באזורים מסוימים, היצואנים מצפים לכמויות כוללות יציבות. <span class=\"news-reason\">מכיל נתוני ייצור מאסיביים (2.1 מיליון טונות) עבור מוצר אסטרטגי של מהדרין (תמרים) אצל מתחרה ישיר (מצרים).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868663/in-questa-stagione-il-raccolto-di-datteri-egiziani-e-stimato-a-2-1-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
