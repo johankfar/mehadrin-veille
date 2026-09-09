@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-09-08T18:33:25.434544+00:00",
-  "article_count": 34,
+  "last_updated": "2026-09-09T06:33:32.565355+00:00",
+  "article_count": 35,
   "attention_points": [
+    {
+      "id": "attention-169757a1c5b3f07e",
+      "article_id": "1788935612_0",
+      "url": "https://www.freshplaza.it/article/9869654/agrofarmaci-vietati-nell-ortofrutta-d-importazione-i-dati-che-smentiscono-i-luoghi-comuni/",
+      "source": "FreshPlaza IT",
+      "title": "Analyse des parts de marché des pays exportateurs",
+      "summary": "Plus des deux tiers des fruits et légumes importés par l'Union européenne proviennent de seulement dix pays tiers.",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-09-09T06:00:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [],
+      "age_hours": 2
+    },
     {
       "id": "attention-22a6169a1c73cca8",
       "article_id": "1788881591_2",
@@ -17,7 +34,7 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 4
+      "age_hours": 16
     },
     {
       "id": "attention-61e70a8d848ef2e2",
@@ -34,7 +51,7 @@
       "signal_label": "Alerte",
       "icon": "alert",
       "products": [],
-      "age_hours": 6
+      "age_hours": 18
     },
     {
       "id": "attention-514ae4f6d785c08d",
@@ -51,31 +68,29 @@
       "signal_label": "Météo",
       "icon": "weather",
       "products": [],
-      "age_hours": 7
-    },
-    {
-      "id": "attention-52a38211a9ec555d",
-      "article_id": "1788865383_0",
-      "url": "https://www.freshfruitportal.com/news/2026/09/08/usda-citrus-buy/",
-      "source": "Fresh Fruit Portal",
-      "title": "L'USDA va procéder à l'achat d'agrumes frais pour",
-      "summary": "Le Département de l'Agriculture des États-Unis (USDA) a annoncé l'achat de 57,5 millions de dollars d'agrumes frais.",
-      "origin_code": "USA",
-      "origin_label": "États-Unis",
-      "published_at": "2026-09-08T11:00:43+00:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "information",
-      "products": [
-        "mandarine",
-        "orange",
-        "citrus_grapefruit"
-      ],
-      "age_hours": 7
+      "age_hours": 19
     }
   ],
   "articles": [
+    {
+      "id": "1788935612_0",
+      "timestamp": "2026-09-09T06:33:32.565355+00:00",
+      "title": "Analyse des parts de marché des pays exportateurs de fruits à destination de l&#x27;UE",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "MAR",
+        "EGY",
+        "ZAF",
+        "PER",
+        "COL",
+        "TUR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Analyse des parts de marché des pays exportateurs de fruits à destination de l&#x27;UE -- <span class=\"news-date\">09/09/2026 06:00</span></div><div class=\"news-body\">Plus des deux tiers des fruits et légumes importés par l&#x27;Union européenne proviennent de seulement dix pays tiers. L&#x27;Égypte domine avec 10 % des parts de marché, suivie par le Maroc (8 %), la Colombie (8 %), l&#x27;Afrique du Sud (7 %), le Pérou (6 %) et la Turquie (5 %). Ces données confirment la forte concentration des flux d&#x27;approvisionnement vers le marché communautaire. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur les parts de marché des principales origines concurrentes de Mehadrin (Égypte, Maroc, Afrique du Sud, Pérou, Turquie) sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869654/agrofarmaci-vietati-nell-ortofrutta-d-importazione-i-dati-che-smentiscono-i-luoghi-comuni/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Analysis of market shares of fruit exporting countries to the EU -- <span class=\"news-date\">09/09/2026 06:00</span></div><div class=\"news-body\">More than two-thirds of fruits and vegetables imported by the European Union come from only ten third countries. Egypt dominates with 10% of market shares, followed by Morocco (8%), Colombia (8%), South Africa (7%), Peru (6%) and Turkey (5%). These data confirm the high concentration of supply flows to the community market. <span class=\"news-reason\">The article provides precise figures on the market shares of the main competing origins of Mehadrin (Egypt, Morocco, South Africa, Peru, Turkey) on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869654/agrofarmaci-vietati-nell-ortofrutta-d-importazione-i-dati-che-smentiscono-i-luoghi-comuni/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">ניתוח נתחי שוק של המדינות המייצאות פירות לאיחוד האירופי -- <span class=\"news-date\">09/09/2026 06:00</span></div><div class=\"news-body\">יותר משני שלישים מהפירות והירקות המיובאים לאיחוד האירופי מגיעים מעשר מדינות שלישיות בלבד. מצרים מובילה עם 10% מנתחי השוק, ואחריה מרוקו (8%), קולומביה (8%), דרום אפריקה (7%), פרו (6%) וטורקיה (5%). נתונים אלו מאשרים את הריכוזיות הגבוהה של זרמי האספקה לשוק הקהילתי. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על נתחי השוק של מקורות האספקה המתחרים העיקריים של מהדרין (מצרים, מרוקו, דרום אפריקה, פרו, טורקיה) בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869654/agrofarmaci-vietati-nell-ortofrutta-d-importazione-i-dati-che-smentiscono-i-luoghi-comuni/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1788892405_0",
       "timestamp": "2026-09-08T18:33:25.434544+00:00",
@@ -331,7 +346,7 @@
     {
       "id": "1788854566_0",
       "timestamp": "2026-09-08T08:02:46.519374+00:00",
-      "title": "Le Guatemala restreint ses exportations de mangues vers le marché américain",
+      "title": "Le Guatemala limite ses exportations de mangues vers le marché américain",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -342,7 +357,7 @@
       "origins": [
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le Guatemala restreint ses exportations de mangues vers le marché américain -- <span class=\"news-date\">07/09/2026 16:08</span></div><div class=\"news-body\">Le Guatemala dispose de 10 000 hectares de mangues, mais n&#x27;en dédie que 3 000 à l&#x27;exportation, principalement vers les États-Unis. Les 7 000 hectares restants approvisionnent le marché intérieur. Les zones exportatrices se concentrent sur le littoral du Pacifique dans la région de Retalhuleu. <span class=\"news-reason\">Données précises sur les surfaces et volumes d&#x27;une origine concurrente pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9870520/guatemala-solo-exporta-mango-a-ee-uu/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le Guatemala limite ses exportations de mangues vers le marché américain -- <span class=\"news-date\">07/09/2026 16:08</span></div><div class=\"news-body\">Le Guatemala dispose de 10 000 hectares de mangues, mais n&#x27;en dédie que 3 000 à l&#x27;exportation, principalement vers les États-Unis. Les 7 000 hectares restants approvisionnent le marché intérieur. Les zones exportatrices se concentrent sur le littoral du Pacifique dans la région de Retalhuleu. <span class=\"news-reason\">Données précises sur les surfaces et volumes d&#x27;une origine concurrente pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9870520/guatemala-solo-exporta-mango-a-ee-uu/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Guatemala restricts its mango exports to the US market -- <span class=\"news-date\">07/09/2026 16:08</span></div><div class=\"news-body\">Guatemala has 10,000 hectares of mangoes, but only dedicates 3,000 to exports, mainly to the United States. The remaining 7,000 hectares supply the domestic market. Export zones are concentrated on the Pacific coast in the Retalhuleu region. <span class=\"news-reason\">Precise data on surfaces and volumes from a competing origin for mangoes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9870520/guatemala-solo-exporta-mango-a-ee-uu/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">גואטמלה מגבילה את ייצוא המנגו שלה לשוק האמריקאי -- <span class=\"news-date\">07/09/2026 16:08</span></div><div class=\"news-body\">לגואטמלה יש 10,000 הקטאר של מנגו, אך היא מקדישה רק 3,000 מהם לייצוא, בעיקר לארצות הברית. 7,000 ההקטאר הנותרים מספקים את השוק המקומי. אזורי הייצוא מתרכזים בחוף האוקיינוס השקט באזור רטאלולהו (Retalhuleu). <span class=\"news-reason\">נתונים מדויקים על שטחים וכמויות של מקור מתחרה למנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9870520/guatemala-solo-exporta-mango-a-ee-uu/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -583,7 +598,7 @@
     {
       "id": "1788768132_0",
       "timestamp": "2026-09-07T08:02:12.637650+00:00",
-      "title": "Égypte : la production de dattes est estimée à 2,1 millions de tonnes pour cette saison",
+      "title": "Égypte : la production de dattes estimée à 2,1 millions de tonnes pour cette saison",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica"
@@ -594,7 +609,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Égypte : la production de dattes est estimée à 2,1 millions de tonnes pour cette saison -- <span class=\"news-date\">07/09/2026 06:10</span></div><div class=\"news-body\">La production de dattes en Égypte est estimée à 2,1 millions de tonnes pour la saison actuelle. Malgré des conditions météorologiques irrégulières qui perturbent le calendrier de récolte et impactent la qualité ou la taille des fruits dans certaines zones, les exportateurs s&#x27;attendent à des volumes globaux stables. <span class=\"news-reason\">Contient des chiffres de production massifs (2,1 millions de tonnes) pour un produit stratégique de Mehadrin (dattes) chez un concurrent direct (Égypte).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868663/in-questa-stagione-il-raccolto-di-datteri-egiziani-e-stimato-a-2-1-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Égypte : la production de dattes estimée à 2,1 millions de tonnes pour cette saison -- <span class=\"news-date\">07/09/2026 06:10</span></div><div class=\"news-body\">La production de dattes en Égypte est estimée à 2,1 millions de tonnes pour la saison actuelle. Malgré des conditions météorologiques irrégulières qui perturbent le calendrier de récolte et impactent la qualité ou la taille des fruits dans certaines zones, les exportateurs s&#x27;attendent à des volumes globaux stables. <span class=\"news-reason\">Contient des chiffres de production massifs (2,1 millions de tonnes) pour un produit stratégique de Mehadrin (dattes) chez un concurrent direct (Égypte).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868663/in-questa-stagione-il-raccolto-di-datteri-egiziani-e-stimato-a-2-1-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Egypt expects a harvest of 2.1 million tons of dates this season -- <span class=\"news-date\">07/09/2026 06:10</span></div><div class=\"news-body\">Date production in Egypt is estimated at 2.1 million tons for the current season. Despite irregular weather conditions disrupting the harvest schedule and affecting fruit quality or size in some areas, exporters expect stable overall volumes. <span class=\"news-reason\">Contains massive production figures (2.1 million tons) for a strategic Mehadrin product (dates) from a direct competitor (Egypt).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868663/in-questa-stagione-il-raccolto-di-datteri-egiziani-e-stimato-a-2-1-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מצרים צופה יבול של 2.1 מיליון טונות תמרים העונה -- <span class=\"news-date\">07/09/2026 06:10</span></div><div class=\"news-body\">ייצור התמרים במצרים מוערך ב-2.1 מיליון טונות לעונה הנוכחית. למרות תנאי מזג אוויר בלתי יציבים המשבשים את לוח הזמנים של הקטיף ומשפיעים על האיכות או גודל הפרי באזורים מסוימים, היצואנים מצפים לכמויות כוללות יציבות. <span class=\"news-reason\">מכיל נתוני ייצור מאסיביים (2.1 מיליון טונות) עבור מוצר אסטרטגי של מהדרין (תמרים) אצל מתחרה ישיר (מצרים).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868663/in-questa-stagione-il-raccolto-di-datteri-egiziani-e-stimato-a-2-1-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
