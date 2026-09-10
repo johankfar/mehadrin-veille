@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-09T15:34:52.660021+00:00",
-  "article_count": 47,
+  "article_count": 45,
   "attention_points": [
     {
       "id": "attention-09892c59eff90b45",
@@ -19,25 +19,6 @@
       "products": [
         "avocat",
         "mango"
-      ],
-      "age_hours": 1
-    },
-    {
-      "id": "attention-7c3110e28d4c55cd",
-      "article_id": "1788962626_1",
-      "url": "https://www.freshplaza.es/article/9871022/el-tipo-de-cambio-amenaza-la-viabilidad-de-las-exportaciones-fruticolas-colombianas/",
-      "source": "FreshPlaza ES",
-      "title": "La crise du taux de change menace la viabilité",
-      "summary": "La chute du taux de change fragilise l'exportation colombienne",
-      "origin_code": "COL",
-      "origin_label": "Colombie",
-      "published_at": "2026-09-09T15:49:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [
-        "avocat"
       ],
       "age_hours": 1
     },
@@ -76,6 +57,25 @@
       "icon": "availability",
       "products": [],
       "age_hours": 3
+    },
+    {
+      "id": "attention-0858259460533540",
+      "article_id": "1788962626_0",
+      "url": "https://www.freshplaza.com/article/9871124/european-restrictions-could-reshape-jordan-valley-date-trade/",
+      "source": "FreshPlaza",
+      "title": "Les restrictions européennes pourraient affecter le commerce des dattes",
+      "summary": "Les restrictions britanniques sur les dattes menacent les exportations",
+      "origin_code": "ISR",
+      "origin_label": "Israël",
+      "published_at": "2026-09-09T13:25:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
+      "products": [
+        "date"
+      ],
+      "age_hours": 4
     }
   ],
   "articles": [
@@ -171,7 +171,7 @@
     {
       "id": "1788962626_1",
       "timestamp": "2026-09-09T14:03:46.763340+00:00",
-      "title": "La crise du taux de change menace la viabilité des exportations de fruits en Colombie -- 09/09/2026 15:49",
+      "title": "La crise du taux de change compromet la viabilité des exportations de fruits en Colombie",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -183,7 +183,7 @@
         "COL",
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La crise du taux de change menace la viabilité des exportations de fruits en Colombie -- <span class=\"news-date\">09/09/2026 15:49</span></div><div class=\"news-body\">L&#x27;Association nationale du commerce extérieur de Colombie (ANALDEX) rapporte que quatre entreprises exportatrices de fruits ont cessé leurs activités cette année. Le secteur est fragilisé par un taux de change stagnant autour de 3 000 pesos colombiens pour un dollar américain, ce qui compromet la rentabilité des exportations de fruits frais. <span class=\"news-reason\">Alerte supply sur une origine concurrente majeure pour l&#x27;avocat ; mention de faillites d&#x27;entreprises exportatrices.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9871022/el-tipo-de-cambio-amenaza-la-viabilidad-de-las-exportaciones-fruticolas-colombianas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La crise du taux de change compromet la viabilité des exportations de fruits en Colombie -- <span class=\"news-date\">09/09/2026 15:49</span></div><div class=\"news-body\">L&#x27;Association nationale du commerce extérieur de Colombie (ANALDEX) rapporte que quatre entreprises exportatrices de fruits ont cessé leurs activités cette année. Le secteur est fragilisé par un taux de change stagnant autour de 3 000 pesos colombiens pour un dollar américain, ce qui compromet la rentabilité des exportations de fruits frais. <span class=\"news-reason\">Alerte supply sur une origine concurrente majeure pour l&#x27;avocat ; mention de faillites d&#x27;entreprises exportatrices.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9871022/el-tipo-de-cambio-amenaza-la-viabilidad-de-las-exportaciones-fruticolas-colombianas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Exchange rate crisis threatens the viability of fruit exports in Colombia -- <span class=\"news-date\">09/09/2026 15:49</span></div><div class=\"news-body\">The National Association of Foreign Trade of Colombia (ANALDEX) reports that four fruit exporting companies have ceased operations this year. The sector is weakened by a stagnant exchange rate around 3,000 Colombian pesos to one US dollar, which compromises the profitability of fresh fruit exports. <span class=\"news-reason\">Supply alert on a major competing origin for avocado; mention of bankruptcies of exporting companies.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9871022/el-tipo-de-cambio-amenaza-la-viabilidad-de-las-exportaciones-fruticolas-colombianas/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">משבר שער החליפין מאיים על כדאיות יצוא הפירות בקולומביה -- <span class=\"news-date\">09/09/2026 15:49</span></div><div class=\"news-body\">האיגוד הלאומי לסחר חוץ של קולומביה (ANALDEX) מדווח כי ארבע חברות לייצוא פירות הפסיקו את פעילותן השנה. המגזר נחלש עקב שער חליפין קפוא סביב 3,000 פסו קולומביאני לדולר אמריקאי אחד, מה שפוגע ברווחיות של יצוא פירות טריים. <span class=\"news-reason\">התראת אספקה על מקור מתחרה מרכזי לאבוקדו; אזכור של פשיטות רגל של חברות יצוא.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9871022/el-tipo-de-cambio-amenaza-la-viabilidad-de-las-exportaciones-fruticolas-colombianas/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -329,7 +329,7 @@
     {
       "id": "1788881591_2",
       "timestamp": "2026-09-08T15:33:11.883777+00:00",
-      "title": "Début de la transition saisonnière vers les agrumes sur le marché français en septembre",
+      "title": "Amorce de la transition saisonnière vers les agrumes sur le marché français en septembre",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -338,7 +338,7 @@
       "origins": [
         "FRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Début de la transition saisonnière vers les agrumes sur le marché français en septembre -- <span class=\"news-date\">08/09/2026 16:14</span></div><div class=\"news-body\">Après un mois d&#x27;août calme, le marché français retrouve de l&#x27;activité avec la rentrée scolaire. Bien que certaines variétés estivales persistent, les agrumes commencent à prendre progressivement le relais dans les linéaires des grandes surfaces, marquant le début de la transition vers les gammes d&#x27;automne. <span class=\"news-reason\">Informations sur l&#x27;évolution du marché cible (France) et la place des agrumes en rayon.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9869746/la-uva-y-los-citricos-ganan-protagonismo-en-francia-tras-un-agosto-tranquilo/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Amorce de la transition saisonnière vers les agrumes sur le marché français en septembre -- <span class=\"news-date\">08/09/2026 16:14</span></div><div class=\"news-body\">Après un mois d&#x27;août calme, le marché français retrouve de l&#x27;activité avec la rentrée scolaire. Bien que certaines variétés estivales persistent, les agrumes commencent à prendre progressivement le relais dans les linéaires des grandes surfaces, marquant le début de la transition vers les gammes d&#x27;automne. <span class=\"news-reason\">Informations sur l&#x27;évolution du marché cible (France) et la place des agrumes en rayon.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9869746/la-uva-y-los-citricos-ganan-protagonismo-en-francia-tras-un-agosto-tranquilo/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Seasonal transition to citrus fruits on the French market in September -- <span class=\"news-date\">08/09/2026 16:14</span></div><div class=\"news-body\">After a quiet August, the French market is regaining activity with the back-to-school season. Although some summer varieties persist, citrus fruits are gradually starting to take over the supermarket shelves, marking the beginning of the transition to autumn ranges. <span class=\"news-reason\">Information on the evolution of the target market (France) and the placement of citrus fruits on shelves.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9869746/la-uva-y-los-citricos-ganan-protagonismo-en-francia-tras-un-agosto-tranquilo/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מעבר עונתי לפירות הדר בשוק הצרפתי בספטמבר -- <span class=\"news-date\">08/09/2026 16:14</span></div><div class=\"news-body\">לאחר חודש אוגוסט שקט, השוק הצרפתי חוזר לפעילות עם החזרה ללימודים. למרות שחלק מהזנים הקיציים עדיין קיימים, פירות ההדר מתחילים לתפוס בהדרגה את מקומם על מדפי רשתות השיווק, דבר המסמן את תחילת המעבר למגוון הסתיו. <span class=\"news-reason\">מידע על התפתחות שוק היעד (צרפת) ומקומם של פירות ההדר על המדף.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9869746/la-uva-y-los-citricos-ganan-protagonismo-en-francia-tras-un-agosto-tranquilo/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -425,7 +425,7 @@
     {
       "id": "1788865383_2",
       "timestamp": "2026-09-08T11:03:03.206259+00:00",
-      "title": "Tensions sur l&#x27;approvisionnement en avocats durant l&#x27;accalmie estivale",
+      "title": "Tensions sur l’approvisionnement en avocats durant l’accalmie estivale",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -435,7 +435,7 @@
         "passionfruit"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Tensions sur l&#x27;approvisionnement en avocats durant l&#x27;accalmie estivale -- <span class=\"news-date\">08/09/2026 09:23</span></div><div class=\"news-body\">Malgré une période traditionnellement calme pour les fruits exotiques durant l&#x27;été, le marché de l&#x27;avocat fait face à des difficultés d&#x27;approvisionnement. Parallèlement, d&#x27;autres produits comme le fruit de la passion voient leurs ventes chuter après plusieurs mois de stabilité. <span class=\"news-reason\">Alerte sur la disponibilité de l&#x27;avocat sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9870572/sommerflaute-bei-passionsfruchten-angebotsprobleme-bei-avocados/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Tensions sur l’approvisionnement en avocats durant l’accalmie estivale -- <span class=\"news-date\">08/09/2026 09:23</span></div><div class=\"news-body\">Malgré une période traditionnellement calme pour les fruits exotiques durant l&#x27;été, le marché de l&#x27;avocat fait face à des difficultés d&#x27;approvisionnement. Parallèlement, d&#x27;autres produits comme le fruit de la passion voient leurs ventes chuter après plusieurs mois de stabilité. <span class=\"news-reason\">Alerte sur la disponibilité de l&#x27;avocat sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9870572/sommerflaute-bei-passionsfruchten-angebotsprobleme-bei-avocados/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Supply pressures on avocados during the summer lull -- <span class=\"news-date\">08/09/2026 09:23</span></div><div class=\"news-body\">Despite a traditionally calm period for exotic fruits during the summer, the avocado market is facing supply difficulties. At the same time, other products such as passion fruit are seeing their sales drop after several months of stability. <span class=\"news-reason\">Alert on avocado availability on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9870572/sommerflaute-bei-passionsfruchten-angebotsprobleme-bei-avocados/\" target=\"_blank\">FreshPlaza DE -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מתחים באספקת האבוקדו במהלך הרגיעה של הקיץ -- <span class=\"news-date\">08/09/2026 09:23</span></div><div class=\"news-body\">למרות תקופה שקטה מסורתית עבור פירות אקזוטיים במהלך הקיץ, שוק האבוקדו מתמודד עם קשיי אספקה. במקביל, מוצרים אחרים כמו פסיפלורה חווים ירידה במכירות לאחר מספר חודשים של יציבות. <span class=\"news-reason\">התראה על זמינות האבוקדו בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9870572/sommerflaute-bei-passionsfruchten-angebotsprobleme-bei-avocados/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
@@ -801,7 +801,7 @@
     {
       "id": "1788768132_1",
       "timestamp": "2026-09-07T08:02:12.637650+00:00",
-      "title": "Clémentines de Corse : hausse des volumes et défis de l&#x27;irrigation",
+      "title": "Clémentines de Corse : hausse des volumes et enjeux de l&#x27;irrigation",
       "category": "ALERTES SUPPLY",
       "commercials": [],
       "products": [
@@ -810,14 +810,14 @@
       "origins": [
         "FRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Clémentines de Corse : hausse des volumes et défis de l&#x27;irrigation -- <span class=\"news-date\">07/09/2026 09:03</span></div><div class=\"news-body\">Les premières estimations pour la campagne 2026 de la clémentine de Corse indiquent un retour aux volumes d&#x27;il y a deux ans avec des calibres satisfaisants. Cependant, la pérennité de l&#x27;approvisionnement en eau reste une source d&#x27;incertitude majeure pour sécuriser la récolte. <span class=\"news-reason\">Alerte sur la disponibilité (eau) pour un produit phare (clémentine) sur le marché français.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9870171/mehr-korsische-clementinen-erwartet-aber-die-wasserversorgung-bleibt-ein-problem/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Clémentines de Corse : hausse des volumes et enjeux de l&#x27;irrigation -- <span class=\"news-date\">07/09/2026 09:03</span></div><div class=\"news-body\">Les premières estimations pour la campagne 2026 de la clémentine de Corse indiquent un retour aux volumes d&#x27;il y a deux ans avec des calibres satisfaisants. Cependant, la pérennité de l&#x27;approvisionnement en eau reste une source d&#x27;incertitude majeure pour sécuriser la récolte. <span class=\"news-reason\">Alerte sur la disponibilité (eau) pour un produit phare (clémentine) sur le marché français.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9870171/mehr-korsische-clementinen-erwartet-aber-die-wasserversorgung-bleibt-ein-problem/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Corsican Clementines: volume increase and irrigation concerns -- <span class=\"news-date\">07/09/2026 09:03</span></div><div class=\"news-body\">Initial estimates for the 2026 Corsican clementine season indicate a return to volumes from two years ago with satisfactory sizes. However, the sustainability of the water supply remains a major source of uncertainty for securing the harvest. <span class=\"news-reason\">Alert on availability (water) for a flagship product (clementine) on the French market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9870171/mehr-korsische-clementinen-erwartet-aber-die-wasserversorgung-bleibt-ein-problem/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">קלמנטינות מקורסיקה: עלייה בכמויות וחששות הקשורים להשקיה -- <span class=\"news-date\">07/09/2026 09:03</span></div><div class=\"news-body\">ההערכות הראשוניות לקמפיין 2026 של הקלמנטינה מקורסיקה מצביעות על חזרה לכמויות של לפני שנתיים עם גדלים משביעי רצון. עם זאת, המשכיות אספקת המים נותרת מקור לאי-ודאות מרכזי להבטחת היבול. <span class=\"news-reason\">התראה על זמינות (מים) עבור מוצר דגל (קלמנטינה) בשוק הצרפתי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9870171/mehr-korsische-clementinen-erwartet-aber-die-wasserversorgung-bleibt-ein-problem/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1788768132_0",
       "timestamp": "2026-09-07T08:02:12.637650+00:00",
-      "title": "Égypte : la production de dattes estimée à 2,1 millions de tonnes pour la saison en cours",
+      "title": "Égypte : la production de dattes est estimée à 2,1 millions de tonnes pour la saison en cours",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica"
@@ -828,7 +828,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Égypte : la production de dattes estimée à 2,1 millions de tonnes pour la saison en cours -- <span class=\"news-date\">07/09/2026 06:10</span></div><div class=\"news-body\">La production de dattes en Égypte est estimée à 2,1 millions de tonnes pour la saison actuelle. Malgré des conditions météorologiques irrégulières qui perturbent le calendrier de récolte et impactent la qualité ou la taille des fruits dans certaines zones, les exportateurs s&#x27;attendent à des volumes globaux stables. <span class=\"news-reason\">Contient des chiffres de production massifs (2,1 millions de tonnes) pour un produit stratégique de Mehadrin (dattes) chez un concurrent direct (Égypte).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868663/in-questa-stagione-il-raccolto-di-datteri-egiziani-e-stimato-a-2-1-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Égypte : la production de dattes est estimée à 2,1 millions de tonnes pour la saison en cours -- <span class=\"news-date\">07/09/2026 06:10</span></div><div class=\"news-body\">La production de dattes en Égypte est estimée à 2,1 millions de tonnes pour la saison actuelle. Malgré des conditions météorologiques irrégulières qui perturbent le calendrier de récolte et impactent la qualité ou la taille des fruits dans certaines zones, les exportateurs s&#x27;attendent à des volumes globaux stables. <span class=\"news-reason\">Contient des chiffres de production massifs (2,1 millions de tonnes) pour un produit stratégique de Mehadrin (dattes) chez un concurrent direct (Égypte).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868663/in-questa-stagione-il-raccolto-di-datteri-egiziani-e-stimato-a-2-1-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Egypt expects a harvest of 2.1 million tons of dates this season -- <span class=\"news-date\">07/09/2026 06:10</span></div><div class=\"news-body\">Date production in Egypt is estimated at 2.1 million tons for the current season. Despite irregular weather conditions disrupting the harvest schedule and affecting fruit quality or size in some areas, exporters expect stable overall volumes. <span class=\"news-reason\">Contains massive production figures (2.1 million tons) for a strategic Mehadrin product (dates) from a direct competitor (Egypt).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868663/in-questa-stagione-il-raccolto-di-datteri-egiziani-e-stimato-a-2-1-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מצרים צופה יבול של 2.1 מיליון טונות תמרים העונה -- <span class=\"news-date\">07/09/2026 06:10</span></div><div class=\"news-body\">ייצור התמרים במצרים מוערך ב-2.1 מיליון טונות לעונה הנוכחית. למרות תנאי מזג אוויר בלתי יציבים המשבשים את לוח הזמנים של הקטיף ומשפיעים על האיכות או גודל הפרי באזורים מסוימים, היצואנים מצפים לכמויות כוללות יציבות. <span class=\"news-reason\">מכיל נתוני ייצור מאסיביים (2.1 מיליון טונות) עבור מוצר אסטרטגי של מהדרין (תמרים) אצל מתחרה ישיר (מצרים).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868663/in-questa-stagione-il-raccolto-di-datteri-egiziani-e-stimato-a-2-1-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -846,40 +846,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le Maroc renforce la valeur de ses exportations de fruits et légumes vers l&#x27;Espagne -- <span class=\"news-date\">07/09/2026 06:00</span></div><div class=\"news-body\">Au premier semestre 2026, les exportations marocaines de fruits et légumes vers l&#x27;Espagne ont atteint une valeur de 950 millions d&#x27;euros. Bien que les volumes aient diminué de 7 %, la valeur globale des expéditions a progressé de 6 %, témoignant d&#x27;une augmentation significative du prix moyen des produits exportés depuis le Royaume vers le marché espagnol. <span class=\"news-reason\">Données chiffrées précises sur les flux d&#x27;exportation d&#x27;une origine concurrente clé vers le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/fruits-et-legumes-le-maroc-consolide-sa-position-de-premier-fournisseur-hors-ue-de-lespagne/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Morocco strengthens the value of its fruit and vegetable exports to Spain -- <span class=\"news-date\">07/09/2026 06:00</span></div><div class=\"news-body\">In the first half of 2026, Moroccan fruit and vegetable exports to Spain reached a value of 950 million euros. Although volumes decreased by 7%, the overall value of shipments rose by 6%, reflecting a significant increase in the average price of products exported from the Kingdom to the Spanish market. <span class=\"news-reason\">Precise numerical data on export flows from a key competing origin to the European market.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/fruits-et-legumes-le-maroc-consolide-sa-position-de-premier-fournisseur-hors-ue-de-lespagne/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מרוקו מחזקת את ערך יצוא הפירות והירקות שלה לספרד -- <span class=\"news-date\">07/09/2026 06:00</span></div><div class=\"news-body\">במחצית הראשונה של 2026, יצוא הפירות והירקות המרוקאי לספרד הגיע לערך של 950 מיליון אירו. למרות שהכמויות ירדו ב-7%, הערך הכולל של המשלוחים עלה ב-6%, מה שמעיד על עלייה משמעותית במחיר הממוצע של המוצרים המיוצאים מהממלכה לשוק הספרדי. <span class=\"news-reason\">נתונים מספריים מדויקים על זרמי היצוא ממקור מתחרה מרכזי לשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/fruits-et-legumes-le-maroc-consolide-sa-position-de-premier-fournisseur-hors-ue-de-lespagne/\" target=\"_blank\">AgriMaroc -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788757347_2",
-      "timestamp": "2026-09-07T05:02:27.074418+00:00",
-      "title": "Grèce : perspectives de récolte favorables pour la campagne agrumicole",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [
-        "GRC"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Grèce : perspectives de récolte favorables pour la campagne agrumicole -- <span class=\"news-date\">07/09/2026 06:10</span></div><div class=\"news-body\">Les premières indications pour la nouvelle campagne d&#x27;agrumes en Grèce laissent présager une récolte satisfaisante. Bien que les conditions puissent encore évoluer, les exportateurs grecs se montrent prudemment optimistes quant à la stabilité des volumes pour cette saison. <span class=\"news-reason\">État de la production chez un concurrent européen sur les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868613/la-campagna-degli-agrumi-greca-sara-stabile-e-focalizzata-sull-innovazione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Citrus campaign in Greece: satisfactory harvest forecasts -- <span class=\"news-date\">07/09/2026 06:10</span></div><div class=\"news-body\">Early indications for the new citrus campaign in Greece suggest a satisfactory harvest. Although conditions may still evolve, Greek exporters are cautiously optimistic about the stability of volumes for this season. <span class=\"news-reason\">Production status for a European competitor in citrus.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868613/la-campagna-degli-agrumi-greca-sara-stabile-e-focalizzata-sull-innovazione/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">עונת ההדרים ביוון: תחזיות יבול משביעות רצון -- <span class=\"news-date\">07/09/2026 06:10</span></div><div class=\"news-body\">האינדיקציות הראשונות לעונת ההדרים החדשה ביוון מרמזות על יבול משביע רצון. למרות שהתנאים עשויים עוד להשתנות, היצואנים היוונים מפגינים אופטימיות זהירה לגבי יציבות הכמויות העונה. <span class=\"news-reason\">מצב הייצור אצל מתחרה אירופי בתחום ההדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868613/la-campagna-degli-agrumi-greca-sara-stabile-e-focalizzata-sull-innovazione/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788757347_1",
-      "timestamp": "2026-09-07T05:02:27.074418+00:00",
-      "title": "Maroc : Préparatifs de la prochaine campagne de l&#x27;avocat dans la région de Larache",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Maroc : Préparatifs de la prochaine campagne de l&#x27;avocat dans la région de Larache -- <span class=\"news-date\">07/09/2026 06:10</span></div><div class=\"news-body\">Les préparatifs pour la prochaine campagne d&#x27;avocats s&#x27;intensifient dans la région de Larache, au nord du Maroc. Les producteurs signalent des conditions climatiques favorables et poursuivent leurs investissements dans le secteur pour assurer le bon déroulement de la saison à venir. <span class=\"news-reason\">Information sur la préparation de campagne chez un concurrent majeur sur l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869157/marocco-larache-si-prepara-per-la-prossima-stagione-di-avocado-e-piccoli-frutti/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Morocco prepares its next avocado campaign in the Larache region -- <span class=\"news-date\">07/09/2026 06:10</span></div><div class=\"news-body\">Preparations for the next avocado campaign are intensifying in the Larache region, in northern Morocco. Producers report favorable climatic conditions and are continuing their investments in the sector to ensure the smooth running of the upcoming season. <span class=\"news-reason\">Information on campaign preparation for a major competitor in avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869157/marocco-larache-si-prepara-per-la-prossima-stagione-di-avocado-e-piccoli-frutti/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">מרוקו מכינה את עונת האבוקדו הבאה שלה באזור לראש -- <span class=\"news-date\">07/09/2026 06:10</span></div><div class=\"news-body\">ההכנות לעונת האבוקדו הבאה מתגברות באזור לראש שבצפון מרוקו. המגדלים מדווחים על תנאי אקלים נוחים וממשיכים בהשקעותיהם במגזר כדי להבטיח את התנהלותה התקינה של העונה הקרובה. <span class=\"news-reason\">מידע על הכנת העונה אצל מתחרה מרכזי בתחום האבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869157/marocco-larache-si-prepara-per-la-prossima-stagione-di-avocado-e-piccoli-frutti/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
