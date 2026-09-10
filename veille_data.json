@@ -1,10 +1,45 @@
 {
-  "last_generated": "2026-09-10T09:32:51.207090+00:00",
+  "last_generated": "2026-09-10T11:02:45.598385+00:00",
   "articles": [
+    {
+      "id": "1789038165_0",
+      "timestamp": "2026-09-10T11:02:45.598385+00:00",
+      "title": "Mission Produce enregistre une hausse de 38 % des volumes d&#x27;avocats au troisième trimestre 2026 -- 10/09/2026 12:08",
+      "title_hash": "mission produce enregistre hausse 38 volumes dx27avocats troisième trimestre",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Mission Produce enregistre une hausse de 38 % des volumes d&#x27;avocats au troisième trimestre 2026 -- <span class=\"news-date\">10/09/2026 12:08</span></div><div class=\"news-body\">Mission Produce a enregistré un chiffre d&#x27;affaires de 450 millions de dollars au troisième trimestre 2026, soit une augmentation de 26 % sur un an. Le volume d&#x27;avocats commercialisés a progressé de 38 %, principalement grâce à l&#x27;acquisition de Calavo, malgré une baisse du prix de vente unitaire de 9 %. <span class=\"news-reason\">Contient des données précises de volumes et de prix sur l&#x27;avocat, un produit stratégique de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9871478/omzet-mission-produce-stijgt-in-derde-kwartaal-met-26-procent-naar-450-miljoen-dollar/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Mission Produce records a 38% increase in avocado volumes in the third quarter of 2026 -- <span class=\"news-date\">10/09/2026 12:08</span></div><div class=\"news-body\">Mission Produce recorded revenue of $450 million in the third quarter of 2026, a 26% increase year-over-year. The volume of avocados marketed grew by 38%, mainly due to the acquisition of Calavo, despite a 9% decrease in the unit selling price. <span class=\"news-reason\">Contains precise volume and price data for avocado, a strategic product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9871478/omzet-mission-produce-stijgt-in-derde-kwartaal-met-26-procent-naar-450-miljoen-dollar/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים ונפחים</div><div class=\"news-title\">Mission Produce רושמת עלייה של 38% בנפחי האבוקדו ברבעון השלישי של 2026 -- <span class=\"news-date\">10/09/2026 12:08</span></div><div class=\"news-body\">Mission Produce רשמה הכנסות של 450 מיליון דולר ברבעון השלישי של 2026, עלייה של 26% לעומת אשתקד. נפח האבוקדו ששווק גדל ב-38%, בעיקר הודות לרכישת Calavo, למרות ירידה של 9% במחיר המכירה ליחידה. <span class=\"news-reason\">מכיל נתונים מדויקים על נפחים ומחירים של אבוקדו, מוצר אסטרטגי של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9871478/omzet-mission-produce-stijgt-in-derde-kwartaal-met-26-procent-naar-450-miljoen-dollar/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>",
+      "rss_metadata": {
+        "id": "rss-745a932d54a3e778",
+        "title": "Omzet Mission Produce stijgt in derde kwartaal met 26 procent naar 450 miljoen dollar",
+        "summary": "Mission Produce rapporteerde in het derde kwartaal van boekjaar 2026 een omzet van 450 miljoen dollar, een stijging van 26 procent ten opzichte van dezelfde periode vorig jaar. Het avocadovolume nam met 38 procent toe, terwijl de verkoopprijs per avocado met 9 procent daalde. De hogere volumes waren het…",
+        "url": "https://www.agf.nl/article/9871478/omzet-mission-produce-stijgt-in-derde-kwartaal-met-26-procent-naar-450-miljoen-dollar/",
+        "source": "AGF.nl",
+        "published_at": "2026-09-10T12:08:00+02:00",
+        "language": "nl",
+        "products": [
+          "avocat"
+        ],
+        "origins": []
+      },
+      "attention_enrichment": {
+        "title_fr": "Forte hausse des volumes et repli des prix",
+        "summary_fr": "Augmentation majeure des quantités distribuées malgré une baisse des valeurs marchandes"
+      },
+      "gemini_score": 9
+    },
     {
       "id": "1789032771_0",
       "timestamp": "2026-09-10T09:32:51.207090+00:00",
-      "title": "Les risques climatiques exacerbent la volatilité de la production d&#x27;agrumes en Europe",
+      "title": "Les risques climatiques accentuent la volatilité de la production d&#x27;agrumes en Europe",
       "title_hash": "risques climatiques accentuent volatilité production dx27agrumes europe",
       "category": "ALERTES SUPPLY",
       "commercials": [
@@ -12,7 +47,7 @@
       ],
       "products": [],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Les risques climatiques exacerbent la volatilité de la production d&#x27;agrumes en Europe -- <span class=\"news-date\">10/09/2026 06:05</span></div><div class=\"news-body\">Selon une analyse de RaboResearch, le changement climatique accroît l&#x27;instabilité de la production fruitière en Europe. Les rendements, la qualité des fruits et les calendriers de récolte subissent des perturbations significatives. Les agrumes sont spécifiquement identifiés comme l&#x27;une des catégories subissant cette volatilité accrue selon les conditions de culture régionales. <span class=\"news-reason\">Information sur les menaces climatiques impactant la qualité et les rendements des agrumes en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868656/i-rischi-climatici-aumentano-la-volatilita-nel-settore-frutticolo-europeo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Les risques climatiques accentuent la volatilité de la production d&#x27;agrumes en Europe -- <span class=\"news-date\">10/09/2026 06:05</span></div><div class=\"news-body\">Selon une analyse de RaboResearch, le changement climatique accroît l&#x27;instabilité de la production fruitière en Europe. Les rendements, la qualité des fruits et les calendriers de récolte subissent des perturbations significatives. Les agrumes sont spécifiquement identifiés comme l&#x27;une des catégories subissant cette volatilité accrue selon les conditions de culture régionales. <span class=\"news-reason\">Information sur les menaces climatiques impactant la qualité et les rendements des agrumes en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868656/i-rischi-climatici-aumentano-la-volatilita-nel-settore-frutticolo-europeo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Climate risks increase the volatility of citrus production in Europe -- <span class=\"news-date\">10/09/2026 06:05</span></div><div class=\"news-body\">According to an analysis by RaboResearch, climate change is increasing the instability of fruit production in Europe. Yields, fruit quality, and harvest schedules are undergoing significant disruptions. Citrus fruits are specifically identified as one of the categories experiencing this increased volatility depending on regional growing conditions. <span class=\"news-reason\">Information on climate threats impacting the quality and yields of citrus in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868656/i-rischi-climatici-aumentano-la-volatilita-nel-settore-frutticolo-europeo/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סיכוני האקלים מגבירים את התנודתיות בייצור ההדרים באירופה -- <span class=\"news-date\">10/09/2026 06:05</span></div><div class=\"news-body\">לפי ניתוח של RaboResearch, שינוי האקלים מגביר את אי-היציבות בייצור הפירות באירופה. היבולים, איכות הפירות ולוחות הזמנים של הקטיף סובלים משיבושים משמעותיים. פירות הדר מזוהים ספציפית כאחת הקטגוריות החוות תנודתיות מוגברת זו בהתאם לתנאי הגידול האזוריים. <span class=\"news-reason\">מידע על איומי אקלים המשפיעים על האיכות והיבולים של פירות הדר באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868656/i-rischi-climatici-aumentano-la-volatilita-nel-settore-frutticolo-europeo/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -260,7 +295,7 @@
     {
       "id": "1788962626_1",
       "timestamp": "2026-09-09T14:03:46.763340+00:00",
-      "title": "La crise de change menace la viabilité des exportations de fruits en Colombie",
+      "title": "La crise des changes compromet la viabilité des exportations de fruits en Colombie.",
       "title_hash": "crise taux change menace viabilité exportations fruits colombie",
       "category": "ALERTES SUPPLY",
       "commercials": [
@@ -273,7 +308,7 @@
         "COL",
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La crise de change menace la viabilité des exportations de fruits en Colombie -- <span class=\"news-date\">09/09/2026 15:49</span></div><div class=\"news-body\">L&#x27;Association nationale du commerce extérieur de Colombie (ANALDEX) rapporte que quatre entreprises exportatrices de fruits ont cessé leurs activités cette année. Le secteur est fragilisé par un taux de change stagnant autour de 3 000 pesos colombiens pour un dollar américain, ce qui compromet la rentabilité des exportations de fruits frais. <span class=\"news-reason\">Alerte supply sur une origine concurrente majeure pour l&#x27;avocat ; mention de faillites d&#x27;entreprises exportatrices.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9871022/el-tipo-de-cambio-amenaza-la-viabilidad-de-las-exportaciones-fruticolas-colombianas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La crise des changes compromet la viabilité des exportations de fruits en Colombie. -- <span class=\"news-date\">09/09/2026 15:49</span></div><div class=\"news-body\">L&#x27;Association nationale du commerce extérieur de Colombie (ANALDEX) rapporte que quatre entreprises exportatrices de fruits ont cessé leurs activités cette année. Le secteur est fragilisé par un taux de change stagnant autour de 3 000 pesos colombiens pour un dollar américain, ce qui compromet la rentabilité des exportations de fruits frais. <span class=\"news-reason\">Alerte supply sur une origine concurrente majeure pour l&#x27;avocat ; mention de faillites d&#x27;entreprises exportatrices.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9871022/el-tipo-de-cambio-amenaza-la-viabilidad-de-las-exportaciones-fruticolas-colombianas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Exchange rate crisis threatens the viability of fruit exports in Colombia -- <span class=\"news-date\">09/09/2026 15:49</span></div><div class=\"news-body\">The National Association of Foreign Trade of Colombia (ANALDEX) reports that four fruit exporting companies have ceased operations this year. The sector is weakened by a stagnant exchange rate around 3,000 Colombian pesos to one US dollar, which compromises the profitability of fresh fruit exports. <span class=\"news-reason\">Supply alert on a major competing origin for avocado; mention of bankruptcies of exporting companies.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9871022/el-tipo-de-cambio-amenaza-la-viabilidad-de-las-exportaciones-fruticolas-colombianas/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">משבר שער החליפין מאיים על כדאיות יצוא הפירות בקולומביה -- <span class=\"news-date\">09/09/2026 15:49</span></div><div class=\"news-body\">האיגוד הלאומי לסחר חוץ של קולומביה (ANALDEX) מדווח כי ארבע חברות לייצוא פירות הפסיקו את פעילותן השנה. המגזר נחלש עקב שער חליפין קפוא סביב 3,000 פסו קולומביאני לדולר אמריקאי אחד, מה שפוגע ברווחיות של יצוא פירות טריים. <span class=\"news-reason\">התראת אספקה על מקור מתחרה מרכזי לאבוקדו; אזכור של פשיטות רגל של חברות יצוא.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9871022/el-tipo-de-cambio-amenaza-la-viabilidad-de-las-exportaciones-fruticolas-colombianas/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -959,7 +994,7 @@
     {
       "id": "1788860051_1",
       "timestamp": "2026-09-08T09:34:11.603930+00:00",
-      "title": "Lancement de la campagne de récolte des grenades et des mandarines Satsuma à Valence",
+      "title": "Coup d&#x27;envoi de la campagne de récolte des grenades et des mandarines Satsuma à Valence",
       "title_hash": "lancement récolte grenades mandarines satsuma à valence",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
@@ -973,7 +1008,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne de récolte des grenades et des mandarines Satsuma à Valence -- <span class=\"news-date\">08/09/2026 06:05</span></div><div class=\"news-body\">La campagne a débuté dans la province de Valence avec la récolte des premières grenades biologiques ultra-précoces de la variété Iliana. Parallèlement, les préparatifs sont en cours pour le lancement de la saison des agrumes avec les premiers mandarins précoces de type Satsuma (variété Okitsu). <span class=\"news-reason\">Début de campagne pour des produits concurrents directs (grenades ultra-précoces et mandarines Satsuma) en Espagne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869565/tracciabilita-qualita-e-origine-fondamentali-per-mantenere-una-clientela-fidelizzata-in-un-mercato-biologico-in-evoluzione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Coup d&#x27;envoi de la campagne de récolte des grenades et des mandarines Satsuma à Valence -- <span class=\"news-date\">08/09/2026 06:05</span></div><div class=\"news-body\">La campagne a débuté dans la province de Valence avec la récolte des premières grenades biologiques ultra-précoces de la variété Iliana. Parallèlement, les préparatifs sont en cours pour le lancement de la saison des agrumes avec les premiers mandarins précoces de type Satsuma (variété Okitsu). <span class=\"news-reason\">Début de campagne pour des produits concurrents directs (grenades ultra-précoces et mandarines Satsuma) en Espagne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869565/tracciabilita-qualita-e-origine-fondamentali-per-mantenere-una-clientela-fidelizzata-in-un-mercato-biologico-in-evoluzione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Launch of the pomegranate and Satsuma mandarin harvest in Valencia -- <span class=\"news-date\">08/09/2026 06:05</span></div><div class=\"news-body\">The campaign has begun in the province of Valencia with the harvest of the first ultra-early organic pomegranates of the Iliana variety. Simultaneously, preparations are underway for the launch of the citrus season with the first early Satsuma-type mandarins (Okitsu variety). <span class=\"news-reason\">Start of the campaign for direct competing products (ultra-early pomegranates and Satsuma mandarins) in Spain.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869565/tracciabilita-qualita-e-origine-fondamentali-per-mantenere-una-clientela-fidelizzata-in-un-mercato-biologico-in-evoluzione/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השקת קטיף הרימונים ומנדרינות הסאטסומה בוולנסיה -- <span class=\"news-date\">08/09/2026 06:05</span></div><div class=\"news-body\">העונה החלה במחוז ולנסיה עם קטיף הרימונים האורגניים הראשונים המקדימים מאוד מזן איליאנה. במקביל, נמשכות ההכנות להשקת עונת ההדרים עם המנדרינות המוקדמות הראשונות מסוג סאטסומה (זן אוקיטסו). <span class=\"news-reason\">תחילת העונה עבור מוצרים מתחרים ישירים (רימונים מוקדמים מאוד ומנדרינות סאטסומה) בספרד.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869565/tracciabilita-qualita-e-origine-fondamentali-per-mantenere-una-clientela-fidelizzata-in-un-mercato-biologico-in-evoluzione/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -1577,8 +1612,27 @@
       "gemini_score": 10
     }
   ],
-  "article_count": 43,
+  "article_count": 44,
   "attention_points": [
+    {
+      "id": "attention-745a932d54a3e778",
+      "article_id": "1789038165_0",
+      "url": "https://www.agf.nl/article/9871478/omzet-mission-produce-stijgt-in-derde-kwartaal-met-26-procent-naar-450-miljoen-dollar/",
+      "source": "AGF.nl",
+      "title": "Mission Produce enregistre une hausse de 38 %",
+      "summary": "Mission Produce a enregistré un chiffre d'affaires de 450 millions de dollars au troisième trimestre 2026, soit une augmentation de 26 % sur un an.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-09-10T12:08:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "information",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 0
+    },
     {
       "id": "attention-90ff112300e34abe",
       "article_id": "1789027374_0",
@@ -1596,46 +1650,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-09892c59eff90b45",
-      "article_id": "1788962626_2",
-      "url": "https://www.freshplaza.es/article/9871344/ecuador-eleva-las-exportaciones-de-arandano-mango-maracuya-y-aguacate/",
-      "source": "FreshPlaza ES",
-      "title": "Croissance des exportations d'avocats et de mangues de l'Équateur",
-      "summary": "Selon le ministère du Développement Économique, les exportations équatoriennes d'avocats et de mangues affichent une croissance significative durant le premier semestre 2026.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-09-09T15:49:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "information",
-      "products": [
-        "avocat",
-        "mango"
-      ],
-      "age_hours": 19
-    },
-    {
-      "id": "attention-7c3110e28d4c55cd",
-      "article_id": "1788962626_1",
-      "url": "https://www.freshplaza.es/article/9871022/el-tipo-de-cambio-amenaza-la-viabilidad-de-las-exportaciones-fruticolas-colombianas/",
-      "source": "FreshPlaza ES",
-      "title": "La crise de change menace la viabilité des exportations",
-      "summary": "La chute du taux de change fragilise l'exportation colombienne",
-      "origin_code": "COL",
-      "origin_label": "Colombie",
-      "published_at": "2026-09-09T15:49:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 19
+      "age_hours": 3
     },
     {
       "id": "attention-09527aced02e111d",
@@ -1654,7 +1669,24 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 21
+      "age_hours": 22
+    },
+    {
+      "id": "attention-d43ca339e443f2fd",
+      "article_id": "1788957214_2",
+      "url": "https://www.freshplaza.fr/article/9871037/la-campagne-des-agrumes-valenciens-demarre-avec-des-prix-stables-legerement-inferieurs-a-ceux-de-2025/",
+      "source": "FreshPlaza FR",
+      "title": "Premier bulletin de prix pour les agrumes saisonniers",
+      "summary": "La Commission des Prix des Agrumes du Consulat de la Lonja de Valence a publié son premier bulletin pour la campagne 2026/2027.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-09-09T13:50:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [],
+      "age_hours": 23
     }
   ]
 }
