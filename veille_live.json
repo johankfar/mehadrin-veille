@@ -1,25 +1,23 @@
 {
-  "last_updated": "2026-09-11T05:03:09.577734+00:00",
-  "article_count": 34,
+  "last_updated": "2026-09-11T11:01:52.627801+00:00",
+  "article_count": 29,
   "attention_points": [
     {
-      "id": "attention-09312b116c295eb0",
-      "article_id": "1789102989_0",
-      "url": "https://www.freshplaza.it/article/9871816/dop-economy-e-valore-delle-igp-quale-futuro/",
-      "source": "FreshPlaza IT",
-      "title": "Lancement de la récolte des oranges sanguines de Sicile",
-      "summary": "La campagne des oranges sanguines en Sicile devrait débuter dans environ trois mois.",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
-      "published_at": "2026-09-11T06:05:00+02:00",
+      "id": "attention-bdbfab58f22b12b7",
+      "article_id": "1789124512_0",
+      "url": "https://www.agrimaroc.ma/agrumes-ce-qui-se-joue-dans-les-dernieres-semaines-avant-la-cueillette/",
+      "source": "AgriMaroc",
+      "title": "Hausse de 25 % de la production marocaine d'agrumes",
+      "summary": "La campagne nationale d'agrumes 2025-2026 s'est conclue avec une production estimée à 1,9 million de tonnes, marquant une progression de 25 % par rapport à la saison précédente.",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-09-11T09:09:49+00:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
-      "products": [
-        "orange"
-      ],
-      "age_hours": 0
+      "products": [],
+      "age_hours": 1
     },
     {
       "id": "attention-a6e74136d909e40f",
@@ -38,7 +36,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 17
+      "age_hours": 23
     },
     {
       "id": "attention-ff691f51134cd9f2",
@@ -55,7 +53,7 @@
       "signal_label": "Météo",
       "icon": "weather",
       "products": [],
-      "age_hours": 17
+      "age_hours": 23
     },
     {
       "id": "attention-09527aced02e111d",
@@ -74,10 +72,26 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 40
+      "age_hours": 46
     }
   ],
   "articles": [
+    {
+      "id": "1789124512_0",
+      "timestamp": "2026-09-11T11:01:52.627801+00:00",
+      "title": "Hausse de 25 % de la production marocaine d&#x27;agrumes -- 11/09/2026 09:09",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Hausse de 25 % de la production marocaine d&#x27;agrumes -- <span class=\"news-date\">11/09/2026 09:09</span></div><div class=\"news-body\">La campagne nationale d&#x27;agrumes 2025-2026 s&#x27;est conclue avec une production estimée à 1,9 million de tonnes, marquant une progression de 25 % par rapport à la saison précédente. Pour la campagne 2026-2027 qui débute, les producteurs se concentrent désormais sur les critères qualitatifs tels que le calibre, la teneur en jus et la coloration pour répondre aux exigences des marchés d&#x27;exportation. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur les volumes de production d&#x27;un concurrent direct (Maroc) pour une catégorie clé de Mehadrin (agrumes).</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/agrumes-ce-qui-se-joue-dans-les-dernieres-semaines-avant-la-cueillette/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">25% increase in Moroccan citrus production -- <span class=\"news-date\">11/09/2026 09:09</span></div><div class=\"news-body\">The 2025-2026 national citrus season concluded with an estimated production of 1.9 million tons, marking a 25% increase compared to the previous season. For the upcoming 2026-2027 season, producers are now focusing on quality criteria such as size, juice content, and color to meet the requirements of export markets. <span class=\"news-reason\">The article provides precise figures on production volumes for a direct competitor (Morocco) for a key Mehadrin category (citrus).</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/agrumes-ce-qui-se-joue-dans-les-dernieres-semaines-avant-la-cueillette/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עלייה של 25% בייצור ההדרים במרוקו -- <span class=\"news-date\">11/09/2026 09:09</span></div><div class=\"news-body\">עונת ההדרים הלאומית 2025-2026 הסתיימה עם ייצור מוערך של 1.9 מיליון טון, המהווה עלייה של 25% לעומת העונה הקודמת. לקראת עונת 2026-2027 שמתחילה כעת, המגדלים מתמקדים בקריטריונים איכותיים כגון גודל הפרי, אחוז המיץ והצבע כדי לעמוד בדרישות שוקי הייצוא. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על כמויות הייצור של מתחרה ישיר (מרוקו) עבור קטגוריית מפתח של מהדרין (הדרים).</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/agrumes-ce-qui-se-joue-dans-les-dernieres-semaines-avant-la-cueillette/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1789102989_1",
       "timestamp": "2026-09-11T05:03:09.577734+00:00",
@@ -95,7 +109,7 @@
     {
       "id": "1789102989_0",
       "timestamp": "2026-09-11T05:03:09.577734+00:00",
-      "title": "Lancement de la récolte des oranges sanguines de Sicile d’ici 90 jours",
+      "title": "Lancement de la récolte des oranges sanguines de Sicile d&#x27;ici 90 jours",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -106,7 +120,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la récolte des oranges sanguines de Sicile d’ici 90 jours -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">La campagne des oranges sanguines en Sicile devrait débuter dans environ trois mois. Selon le président du consortium, Gerardo Diana, les producteurs sont préparés à affronter les défis climatiques et les températures élevées actuelles en s&#x27;appuyant sur l&#x27;expérience des saisons précédentes. <span class=\"news-reason\">Information sur le calendrier de production d&#x27;une origine concurrente clé pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871816/dop-economy-e-valore-delle-igp-quale-futuro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la récolte des oranges sanguines de Sicile d&#x27;ici 90 jours -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">La campagne des oranges sanguines en Sicile devrait débuter dans environ trois mois. Selon le président du consortium, Gerardo Diana, les producteurs sont préparés à affronter les défis climatiques et les températures élevées actuelles en s&#x27;appuyant sur l&#x27;expérience des saisons précédentes. <span class=\"news-reason\">Information sur le calendrier de production d&#x27;une origine concurrente clé pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871816/dop-economy-e-valore-delle-igp-quale-futuro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Launch of the Sicilian blood orange harvest within 90 days -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">The blood orange campaign in Sicily is expected to begin in about three months. According to the consortium president, Gerardo Diana, producers are prepared to face climate challenges and current high temperatures by drawing on the experience of previous seasons. <span class=\"news-reason\">Information on the production schedule of a key competing origin for citrus fruits.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871816/dop-economy-e-valore-delle-igp-quale-futuro/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">תחילת קטיף תפוזי הדם מסיציליה בעוד 90 יום -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">עונת תפוזי הדם בסיציליה צפויה להיפתח בעוד כשלושה חודשים. לפי נשיא הקונסורציום, ג'ררדו דיאנה, המגדלים ערוכים להתמודד עם אתגרי האקלים והטמפרטורות הגבוהות הנוכחיות תוך התבססות על ניסיון מעונות קודמות. <span class=\"news-reason\">מידע על לוח הזמנים של הייצור של מקור מתחרה מרכזי להדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871816/dop-economy-e-valore-delle-igp-quale-futuro/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -181,14 +195,14 @@
     {
       "id": "1789032771_0",
       "timestamp": "2026-09-10T09:32:51.207090+00:00",
-      "title": "Les risques climatiques exacerbent la volatilité de la production d&#x27;agrumes en Europe",
+      "title": "Les risques climatiques accentuent la volatilité de la production d&#x27;agrumes en Europe",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
       ],
       "products": [],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Les risques climatiques exacerbent la volatilité de la production d&#x27;agrumes en Europe -- <span class=\"news-date\">10/09/2026 06:05</span></div><div class=\"news-body\">Selon une analyse de RaboResearch, le changement climatique accroît l&#x27;instabilité de la production fruitière en Europe. Les rendements, la qualité des fruits et les calendriers de récolte subissent des perturbations significatives. Les agrumes sont spécifiquement identifiés comme l&#x27;une des catégories subissant cette volatilité accrue selon les conditions de culture régionales. <span class=\"news-reason\">Information sur les menaces climatiques impactant la qualité et les rendements des agrumes en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868656/i-rischi-climatici-aumentano-la-volatilita-nel-settore-frutticolo-europeo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Les risques climatiques accentuent la volatilité de la production d&#x27;agrumes en Europe -- <span class=\"news-date\">10/09/2026 06:05</span></div><div class=\"news-body\">Selon une analyse de RaboResearch, le changement climatique accroît l&#x27;instabilité de la production fruitière en Europe. Les rendements, la qualité des fruits et les calendriers de récolte subissent des perturbations significatives. Les agrumes sont spécifiquement identifiés comme l&#x27;une des catégories subissant cette volatilité accrue selon les conditions de culture régionales. <span class=\"news-reason\">Information sur les menaces climatiques impactant la qualité et les rendements des agrumes en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868656/i-rischi-climatici-aumentano-la-volatilita-nel-settore-frutticolo-europeo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Climate risks increase the volatility of citrus production in Europe -- <span class=\"news-date\">10/09/2026 06:05</span></div><div class=\"news-body\">According to an analysis by RaboResearch, climate change is increasing the instability of fruit production in Europe. Yields, fruit quality, and harvest schedules are undergoing significant disruptions. Citrus fruits are specifically identified as one of the categories experiencing this increased volatility depending on regional growing conditions. <span class=\"news-reason\">Information on climate threats impacting the quality and yields of citrus in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868656/i-rischi-climatici-aumentano-la-volatilita-nel-settore-frutticolo-europeo/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סיכוני האקלים מגבירים את התנודתיות בייצור ההדרים באירופה -- <span class=\"news-date\">10/09/2026 06:05</span></div><div class=\"news-body\">לפי ניתוח של RaboResearch, שינוי האקלים מגביר את אי-היציבות בייצור הפירות באירופה. היבולים, איכות הפירות ולוחות הזמנים של הקטיף סובלים משיבושים משמעותיים. פירות הדר מזוהים ספציפית כאחת הקטגוריות החוות תנודתיות מוגברת זו בהתאם לתנאי הגידול האזוריים. <span class=\"news-reason\">מידע על איומי אקלים המשפיעים על האיכות והיבולים של פירות הדר באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868656/i-rischi-climatici-aumentano-la-volatilita-nel-settore-frutticolo-europeo/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -303,7 +317,7 @@
     {
       "id": "1788962626_1",
       "timestamp": "2026-09-09T14:03:46.763340+00:00",
-      "title": "La crise monétaire compromet la viabilité des exportations de fruits en Colombie.",
+      "title": "La crise monétaire compromet la viabilité des exportations de fruits en Colombie",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -315,7 +329,7 @@
         "COL",
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La crise monétaire compromet la viabilité des exportations de fruits en Colombie. -- <span class=\"news-date\">09/09/2026 15:49</span></div><div class=\"news-body\">L&#x27;Association nationale du commerce extérieur de Colombie (ANALDEX) rapporte que quatre entreprises exportatrices de fruits ont cessé leurs activités cette année. Le secteur est fragilisé par un taux de change stagnant autour de 3 000 pesos colombiens pour un dollar américain, ce qui compromet la rentabilité des exportations de fruits frais. <span class=\"news-reason\">Alerte supply sur une origine concurrente majeure pour l&#x27;avocat ; mention de faillites d&#x27;entreprises exportatrices.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9871022/el-tipo-de-cambio-amenaza-la-viabilidad-de-las-exportaciones-fruticolas-colombianas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La crise monétaire compromet la viabilité des exportations de fruits en Colombie -- <span class=\"news-date\">09/09/2026 15:49</span></div><div class=\"news-body\">L&#x27;Association nationale du commerce extérieur de Colombie (ANALDEX) rapporte que quatre entreprises exportatrices de fruits ont cessé leurs activités cette année. Le secteur est fragilisé par un taux de change stagnant autour de 3 000 pesos colombiens pour un dollar américain, ce qui compromet la rentabilité des exportations de fruits frais. <span class=\"news-reason\">Alerte supply sur une origine concurrente majeure pour l&#x27;avocat ; mention de faillites d&#x27;entreprises exportatrices.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9871022/el-tipo-de-cambio-amenaza-la-viabilidad-de-las-exportaciones-fruticolas-colombianas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Exchange rate crisis threatens the viability of fruit exports in Colombia -- <span class=\"news-date\">09/09/2026 15:49</span></div><div class=\"news-body\">The National Association of Foreign Trade of Colombia (ANALDEX) reports that four fruit exporting companies have ceased operations this year. The sector is weakened by a stagnant exchange rate around 3,000 Colombian pesos to one US dollar, which compromises the profitability of fresh fruit exports. <span class=\"news-reason\">Supply alert on a major competing origin for avocado; mention of bankruptcies of exporting companies.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9871022/el-tipo-de-cambio-amenaza-la-viabilidad-de-las-exportaciones-fruticolas-colombianas/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">משבר שער החליפין מאיים על כדאיות יצוא הפירות בקולומביה -- <span class=\"news-date\">09/09/2026 15:49</span></div><div class=\"news-body\">האיגוד הלאומי לסחר חוץ של קולומביה (ANALDEX) מדווח כי ארבע חברות לייצוא פירות הפסיקו את פעילותן השנה. המגזר נחלש עקב שער חליפין קפוא סביב 3,000 פסו קולומביאני לדולר אמריקאי אחד, מה שפוגע ברווחיות של יצוא פירות טריים. <span class=\"news-reason\">התראת אספקה על מקור מתחרה מרכזי לאבוקדו; אזכור של פשיטות רגל של חברות יצוא.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9871022/el-tipo-de-cambio-amenaza-la-viabilidad-de-las-exportaciones-fruticolas-colombianas/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -553,112 +567,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le changement climatique fragilise la production fruitière en Europe -- <span class=\"news-date\">08/09/2026 13:13</span></div><div class=\"news-body\">Une étude de RaboResearch indique que le changement climatique accroît la volatilité de la production fruitière européenne, affectant les rendements, la qualité et les calendriers de récolte. Les filières d&#x27;agrumes sont particulièrement exposées à ces perturbations climatiques régionales. <span class=\"news-reason\">Analyse sur la volatilité des rendements et de la qualité des agrumes en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9868660/fruits-europeens-le-changement-climatique-redistribue-les-cartes-de-la-production/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Climate change weakens fruit production in Europe -- <span class=\"news-date\">08/09/2026 13:13</span></div><div class=\"news-body\">A study by RaboResearch indicates that climate change is increasing the volatility of European fruit production, affecting yields, quality, and harvest schedules. The citrus sectors are particularly exposed to these regional climate disruptions. <span class=\"news-reason\">Analysis of the volatility of citrus yields and quality in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9868660/fruits-europeens-le-changement-climatique-redistribue-les-cartes-de-la-production/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">שינויי האקלים מחלישים את ייצור הפירות באירופה -- <span class=\"news-date\">08/09/2026 13:13</span></div><div class=\"news-body\">מחקר של RaboResearch מצביע על כך ששינויי האקלים מגבירים את התנודתיות בייצור הפירות באירופה, ומשפיעים על היבולים, האיכות ולוחות הזמנים של הקטיף. ענפי ההדרים חשופים במיוחד לשיבושי אקלים אזוריים אלו. <span class=\"news-reason\">ניתוח על התנודתיות ביבולים ובאיכות ההדרים באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9868660/fruits-europeens-le-changement-climatique-redistribue-les-cartes-de-la-production/\" target=\"_blank\">FreshPlaza FR -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788865383_2",
-      "timestamp": "2026-09-08T11:03:03.206259+00:00",
-      "title": "Tensions sur l&#x27;approvisionnement en avocats durant l&#x27;accalmie estivale",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat",
-        "passionfruit"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Tensions sur l&#x27;approvisionnement en avocats durant l&#x27;accalmie estivale -- <span class=\"news-date\">08/09/2026 09:23</span></div><div class=\"news-body\">Malgré une période traditionnellement calme pour les fruits exotiques durant l&#x27;été, le marché de l&#x27;avocat fait face à des difficultés d&#x27;approvisionnement. Parallèlement, d&#x27;autres produits comme le fruit de la passion voient leurs ventes chuter après plusieurs mois de stabilité. <span class=\"news-reason\">Alerte sur la disponibilité de l&#x27;avocat sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9870572/sommerflaute-bei-passionsfruchten-angebotsprobleme-bei-avocados/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Supply pressures on avocados during the summer lull -- <span class=\"news-date\">08/09/2026 09:23</span></div><div class=\"news-body\">Despite a traditionally calm period for exotic fruits during the summer, the avocado market is facing supply difficulties. At the same time, other products such as passion fruit are seeing their sales drop after several months of stability. <span class=\"news-reason\">Alert on avocado availability on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9870572/sommerflaute-bei-passionsfruchten-angebotsprobleme-bei-avocados/\" target=\"_blank\">FreshPlaza DE -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מתחים באספקת האבוקדו במהלך הרגיעה של הקיץ -- <span class=\"news-date\">08/09/2026 09:23</span></div><div class=\"news-body\">למרות תקופה שקטה מסורתית עבור פירות אקזוטיים במהלך הקיץ, שוק האבוקדו מתמודד עם קשיי אספקה. במקביל, מוצרים אחרים כמו פסיפלורה חווים ירידה במכירות לאחר מספר חודשים של יציבות. <span class=\"news-reason\">התראה על זמינות האבוקדו בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9870572/sommerflaute-bei-passionsfruchten-angebotsprobleme-bei-avocados/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788865383_1",
-      "timestamp": "2026-09-08T11:03:03.206259+00:00",
-      "title": "Nouvelle révision à la baisse des exportations d&#x27;agrumes sud-africains -- 08/09/2026 11:00",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [
-        "ZAF",
-        "IRN"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Nouvelle révision à la baisse des exportations d&#x27;agrumes sud-africains -- <span class=\"news-date\">08/09/2026 11:00</span></div><div class=\"news-body\">Pour la deuxième fois cette saison, l&#x27;industrie sud-africaine a revu à la baisse ses projections d&#x27;exportation d&#x27;agrumes. Ce retrait est causé par des perturbations liées au conflit en Iran, des intempéries sévères et des retards persistants dans les ports. <span class=\"news-reason\">Alerte sur les volumes d&#x27;une origine concurrente majeure pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/08/sa-citrus-estimate-3/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">New downward revision of South African citrus exports -- <span class=\"news-date\">08/09/2026 11:00</span></div><div class=\"news-body\">For the second time this season, the South African industry has revised its citrus export projections downward. This reduction is caused by disruptions related to the conflict in Iran, severe weather, and persistent delays at ports. <span class=\"news-reason\">Alert on volumes from a major competing origin for citrus.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/08/sa-citrus-estimate-3/\" target=\"_blank\">Fresh Fruit Portal -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">עדכון נוסף כלפי מטה של תחזיות ייצוא פירות ההדר מדרום אפריקה -- <span class=\"news-date\">08/09/2026 11:00</span></div><div class=\"news-body\">בפעם השנייה העונה, הענף בדרום אפריקה עדכן כלפי מטה את תחזיות ייצוא פירות ההדר. הפחתה זו נובעת משיבושים הקשורים לסכסוך באיראן, תנאי מזג אוויר קשים ועיכובים מתמשכים בנמלים. <span class=\"news-reason\">התראה על כמויות ממקור תחרותי מרכזי עבור פירות הדר.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/08/sa-citrus-estimate-3/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788865383_0",
-      "timestamp": "2026-09-08T11:03:03.206259+00:00",
-      "title": "L&#x27;USDA va procéder à l&#x27;achat d&#x27;agrumes frais pour un montant de 57,5 millions de dollars -- 08/09/2026 11:00",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "mandarine",
-        "orange",
-        "citrus_grapefruit"
-      ],
-      "origins": [
-        "USA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;USDA va procéder à l&#x27;achat d&#x27;agrumes frais pour un montant de 57,5 millions de dollars -- <span class=\"news-date\">08/09/2026 11:00</span></div><div class=\"news-body\">Le Département de l&#x27;Agriculture des États-Unis (USDA) a annoncé l&#x27;achat de 57,5 millions de dollars d&#x27;agrumes frais. Ce montant se décompose en 20 millions de dollars pour les oranges, 12,5 millions pour les pamplemousses et 25 millions pour les mandarines. <span class=\"news-reason\">Contient des chiffres précis sur les volumes d&#x27;achat d&#x27;oranges, mandarines et pamplemousses (produits Mehadrin).</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/08/usda-citrus-buy/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">The USDA will proceed with the purchase of fresh citrus for a total of $57.5 million -- <span class=\"news-date\">08/09/2026 11:00</span></div><div class=\"news-body\">The United States Department of Agriculture (USDA) has announced the purchase of $57.5 million of fresh citrus. This amount is broken down into $20 million for oranges, $12.5 million for grapefruits, and $25 million for mandarins. <span class=\"news-reason\">Contains specific figures on purchase volumes for oranges, mandarins, and grapefruits (Mehadrin products).</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/08/usda-citrus-buy/\" target=\"_blank\">Fresh Fruit Portal -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">משרד החקלאות האמריקאי (USDA) יבצע רכישת פירות הדר טריים בשווי 57.5 מיליון דולר -- <span class=\"news-date\">08/09/2026 11:00</span></div><div class=\"news-body\">מחלקת החקלאות של ארצות הברית (USDA) הודיעה על רכישת פירות הדר טריים בסך 57.5 מיליון דולר. סכום זה מתחלק ל-20 מיליון דולר עבור תפוזים, 12.5 מיליון עבור אשכוליות ו-25 מיליון עבור מנדרינות. <span class=\"news-reason\">מכיל נתונים מדויקים על כמויות הרכישה של תפוזים, מנדרינות ואשכוליות (מוצרי מהדרין).</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/08/usda-citrus-buy/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788860051_2",
-      "timestamp": "2026-09-08T09:34:11.603930+00:00",
-      "title": "Hausse significative des cours de l&#x27;avocat et déficit de petits calibres cet été",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "ITA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Hausse significative des cours de l&#x27;avocat et déficit de petits calibres cet été -- <span class=\"news-date\">08/09/2026 06:05</span></div><div class=\"news-body\">Le marché de l&#x27;avocat a connu une hausse précoce des prix cet été. Les calibres moyens et petits ont été particulièrement rares sur le marché italien, entraînant des cotations élevées. Cette tendance de ventes soutenues devrait se maintenir dans les prochaines semaines. <span class=\"news-reason\">Information sur des tensions de marché spécifiques (pénurie de calibres moyens et petits) impactant les prix sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869679/boom-dell-avocado-in-estate-previste-vendite-ancora-sostenute-nelle-prossime-settimane/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Significant rise in avocado prices and shortage of small sizes this summer -- <span class=\"news-date\">08/09/2026 06:05</span></div><div class=\"news-body\">The avocado market experienced an early price increase this summer. Medium and small sizes were particularly rare on the Italian market, leading to high quotations. This trend of sustained sales is expected to continue in the coming weeks. <span class=\"news-reason\">Information on specific market tensions (shortage of medium and small sizes) impacting prices on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869679/boom-dell-avocado-in-estate-previste-vendite-ancora-sostenute-nelle-prossime-settimane/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">עלייה משמעותית במחירי האבוקדו ומחסור בגדלים קטנים הקיץ -- <span class=\"news-date\">08/09/2026 06:05</span></div><div class=\"news-body\">שוק האבוקדו חווה עליית מחירים מוקדמת הקיץ. הגדלים הבינוניים והקטנים היו נדירים במיוחד בשוק האיטלקי, מה שהוביל למחירים גבוהים. מגמה זו של מכירות חזקות צפויה להימשך בשבועות הקרובים. <span class=\"news-reason\">מידע על מתחים ספציפיים בשוק (מחסור בגדלים בינוניים וקטנים) המשפיעים על המחירים בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869679/boom-dell-avocado-in-estate-previste-vendite-ancora-sostenute-nelle-prossime-settimane/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788860051_1",
-      "timestamp": "2026-09-08T09:34:11.603930+00:00",
-      "title": "Lancement de la campagne de récolte des grenades et des mandarines Satsuma à Valence",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Jessica",
-        "Nadia"
-      ],
-      "products": [
-        "mandarine",
-        "pomegranate"
-      ],
-      "origins": [
-        "ESP"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne de récolte des grenades et des mandarines Satsuma à Valence -- <span class=\"news-date\">08/09/2026 06:05</span></div><div class=\"news-body\">La campagne a débuté dans la province de Valence avec la récolte des premières grenades biologiques ultra-précoces de la variété Iliana. Parallèlement, les préparatifs sont en cours pour le lancement de la saison des agrumes avec les premiers mandarins précoces de type Satsuma (variété Okitsu). <span class=\"news-reason\">Début de campagne pour des produits concurrents directs (grenades ultra-précoces et mandarines Satsuma) en Espagne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869565/tracciabilita-qualita-e-origine-fondamentali-per-mantenere-una-clientela-fidelizzata-in-un-mercato-biologico-in-evoluzione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Launch of the pomegranate and Satsuma mandarin harvest in Valencia -- <span class=\"news-date\">08/09/2026 06:05</span></div><div class=\"news-body\">The campaign has begun in the province of Valencia with the harvest of the first ultra-early organic pomegranates of the Iliana variety. Simultaneously, preparations are underway for the launch of the citrus season with the first early Satsuma-type mandarins (Okitsu variety). <span class=\"news-reason\">Start of the campaign for direct competing products (ultra-early pomegranates and Satsuma mandarins) in Spain.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869565/tracciabilita-qualita-e-origine-fondamentali-per-mantenere-una-clientela-fidelizzata-in-un-mercato-biologico-in-evoluzione/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השקת קטיף הרימונים ומנדרינות הסאטסומה בוולנסיה -- <span class=\"news-date\">08/09/2026 06:05</span></div><div class=\"news-body\">העונה החלה במחוז ולנסיה עם קטיף הרימונים האורגניים הראשונים המקדימים מאוד מזן איליאנה. במקביל, נמשכות ההכנות להשקת עונת ההדרים עם המנדרינות המוקדמות הראשונות מסוג סאטסומה (זן אוקיטסו). <span class=\"news-reason\">תחילת העונה עבור מוצרים מתחרים ישירים (רימונים מוקדמים מאוד ומנדרינות סאטסומה) בספרד.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869565/tracciabilita-qualita-e-origine-fondamentali-per-mantenere-una-clientela-fidelizzata-in-un-mercato-biologico-in-evoluzione/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788860051_0",
-      "timestamp": "2026-09-08T09:34:11.603930+00:00",
-      "title": "Le Maroc accueillera son premier Salon international agro-industriel en 2027 -- 07/09/2026 09:44",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [],
-      "products": [],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Le Maroc accueillera son premier Salon international agro-industriel en 2027 -- <span class=\"news-date\">07/09/2026 09:44</span></div><div class=\"news-body\">La Fédération nationale de l’agroalimentaire (FENAGRI) s&#x27;associe à Messe Düsseldorf pour lancer &#x27;Morocco Food World&#x27; à Rabat au second semestre 2027. Ce premier salon international vise à structurer l&#x27;écosystème agro-industriel marocain et à favoriser les partenariats commerciaux mondiaux. <span class=\"news-reason\">Information stratégique sur le développement de l&#x27;écosystème agro-industriel dans une origine clé de production et d&#x27;exportation pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/le-maroc-accueillera-son-premier-salon-international-de-lecosysteme-agro-industriel-en-2027/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Morocco will host its first International Agro-industrial Trade Fair in 2027 -- <span class=\"news-date\">07/09/2026 09:44</span></div><div class=\"news-body\">The National Food Federation (FENAGRI) is partnering with Messe Düsseldorf to launch &#x27;Morocco Food World&#x27; in Rabat in the second half of 2027. This first international trade fair aims to structure the Moroccan agro-industrial ecosystem and promote global commercial partnerships. <span class=\"news-reason\">Strategic information on the development of the agro-industrial ecosystem in a key production and export origin for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/le-maroc-accueillera-son-premier-salon-international-de-lecosysteme-agro-industriel-en-2027/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">פעילות רשתות שיווק</div><div class=\"news-title\">מרוקו תארח את התערוכה האגרו-תעשייתית הבינלאומית הראשונה שלה בשנת 2027 -- <span class=\"news-date\">07/09/2026 09:44</span></div><div class=\"news-body\">הפדרציה הלאומית לאגרו-תעשייה (FENAGRI) משתפת פעולה עם Messe Düsseldorf להשקת 'Morocco Food World' ברבאט במחצית השנייה של 2027. תערוכה בינלאומית ראשונה זו נועדה להבנות את האקו-סיסטם האגרו-תעשייתי המרוקאי ולעודד שותפויות מסחריות עולמיות. <span class=\"news-reason\">מידע אסטרטגי על פיתוח האקו-סיסטם האגרו-תעשייתי במקור ייצור וייצוא מרכזי עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/le-maroc-accueillera-son-premier-salon-international-de-lecosysteme-agro-industriel-en-2027/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
