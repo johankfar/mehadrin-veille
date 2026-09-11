@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-09-10T14:03:05.421974+00:00",
-  "article_count": 36,
+  "last_updated": "2026-09-11T05:03:09.577734+00:00",
+  "article_count": 37,
   "attention_points": [
     {
-      "id": "attention-8cd76030c1b5dda9",
-      "article_id": "1789043593_1",
-      "url": "https://www.freshplaza.com/article/9871809/extended-orange-export-campaign-in-egypt/",
-      "source": "FreshPlaza",
-      "title": "Prolongation exceptionnelle de la campagne d'exportation d'oranges en Égypte",
-      "summary": "La saison se poursuit tardivement malgré des calibres hétérogènes.",
-      "origin_code": "EGY",
-      "origin_label": "Égypte",
-      "published_at": "2026-09-10T13:41:00+02:00",
+      "id": "attention-09312b116c295eb0",
+      "article_id": "1789102989_0",
+      "url": "https://www.freshplaza.it/article/9871816/dop-economy-e-valore-delle-igp-quale-futuro/",
+      "source": "FreshPlaza IT",
+      "title": "Début de la récolte des oranges sanguines de Sicile",
+      "summary": "La campagne des oranges sanguines en Sicile devrait débuter dans environ trois mois.",
+      "origin_code": "ITA",
+      "origin_label": "Italie",
+      "published_at": "2026-09-11T06:05:00+02:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
@@ -19,7 +19,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 2
+      "age_hours": 0
     },
     {
       "id": "attention-a6e74136d909e40f",
@@ -38,26 +38,24 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 2
+      "age_hours": 17
     },
     {
-      "id": "attention-90ff112300e34abe",
-      "article_id": "1789027374_0",
-      "url": "https://www.agrimaroc.ma/meteo-baisse-des-temperatures-ce-jeudi-risque-dorage-dans-le-sud-de-loriental/",
-      "source": "AgriMaroc",
-      "title": "Risque d'orages et baisse généralisée des températures",
-      "summary": "Baisse thermique et instabilité orageuse dans les zones agricoles.",
-      "origin_code": "MAR",
-      "origin_label": "Maroc",
-      "published_at": "2026-09-10T07:10:24+00:00",
+      "id": "attention-ff691f51134cd9f2",
+      "article_id": "1789102989_1",
+      "url": "https://www.freshplaza.com/article/9871655/agriculture-faces-higher-fire-risk-in-south-africa-under-el-nino/",
+      "source": "FreshPlaza",
+      "title": "Accroissement des risques d'incendie pour le secteur agricole",
+      "summary": "La municipalité du district d'Overberg, dans le Cap Occidental, se prépare à une hausse des risques d'incendie et de pénurie d'eau suite au développement du phénomène El Niño.",
+      "origin_code": "ZAF",
+      "origin_label": "Afrique du Sud",
+      "published_at": "2026-09-10T13:41:00+02:00",
       "published_at_source": "rss",
       "signal_type": "weather",
       "signal_label": "Météo",
       "icon": "weather",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 6
+      "products": [],
+      "age_hours": 17
     },
     {
       "id": "attention-09527aced02e111d",
@@ -76,10 +74,42 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 25
+      "age_hours": 40
     }
   ],
   "articles": [
+    {
+      "id": "1789102989_1",
+      "timestamp": "2026-09-11T05:03:09.577734+00:00",
+      "title": "Accroissement des risques d&#x27;incendie pour le secteur agricole en Afrique du Sud -- 10/09/2026 13:41",
+      "category": "ALERTES SUPPLY",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "ZAF"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Accroissement des risques d&#x27;incendie pour le secteur agricole en Afrique du Sud -- <span class=\"news-date\">10/09/2026 13:41</span></div><div class=\"news-body\">La municipalité du district d&#x27;Overberg, dans le Cap Occidental, se prépare à une hausse des risques d&#x27;incendie et de pénurie d&#x27;eau suite au développement du phénomène El Niño. La saison précédente a été marquée par sept incendies majeurs ayant ravagé 25 000 hectares sur une ligne de 240 km, menaçant la stabilité de la production agricole régionale. <span class=\"news-reason\">Alerte climatique majeure (El Niño) menaçant les zones de production d&#x27;une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9871655/agriculture-faces-higher-fire-risk-in-south-africa-under-el-nino/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Increased fire risks for the agricultural sector in South Africa -- <span class=\"news-date\">10/09/2026 13:41</span></div><div class=\"news-body\">The Overberg District Municipality in the Western Cape is preparing for an increase in fire risks and water shortages following the development of the El Niño phenomenon. The previous season was marked by seven major fires that destroyed 25,000 hectares along a 240 km line, threatening the stability of regional agricultural production. <span class=\"news-reason\">Major climate alert (El Niño) threatening production areas of a competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9871655/agriculture-faces-higher-fire-risk-in-south-africa-under-el-nino/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">עלייה בסיכוני שריפות במגזר החקלאי בדרום אפריקה -- <span class=\"news-date\">10/09/2026 13:41</span></div><div class=\"news-body\">עיריית מחוז אוברברג, שבכף המערבי, נערכת לעלייה בסיכוני השריפות ובמחסור במים בעקבות התפתחות תופעת אל-ניניו. העונה הקודמת התאפיינה בשבע שריפות גדולות שכילו 25,000 הקטרים לאורך קו של 240 ק\"מ, ואיימו על יציבות הייצור החקלאי האזורי. <span class=\"news-reason\">התראת אקלים חמורה (אל-ניניו) המאיימת על אזורי הייצור של מקור מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9871655/agriculture-faces-higher-fire-risk-in-south-africa-under-el-nino/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1789102989_0",
+      "timestamp": "2026-09-11T05:03:09.577734+00:00",
+      "title": "Début de la récolte des oranges sanguines de Sicile d&#x27;ici 90 jours",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "ITA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Début de la récolte des oranges sanguines de Sicile d&#x27;ici 90 jours -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">La campagne des oranges sanguines en Sicile devrait débuter dans environ trois mois. Selon le président du consortium, Gerardo Diana, les producteurs sont préparés à affronter les défis climatiques et les températures élevées actuelles en s&#x27;appuyant sur l&#x27;expérience des saisons précédentes. <span class=\"news-reason\">Information sur le calendrier de production d&#x27;une origine concurrente clé pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871816/dop-economy-e-valore-delle-igp-quale-futuro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Launch of the Sicilian blood orange harvest within 90 days -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">The blood orange campaign in Sicily is expected to begin in about three months. According to the consortium president, Gerardo Diana, producers are prepared to face climate challenges and current high temperatures by drawing on the experience of previous seasons. <span class=\"news-reason\">Information on the production schedule of a key competing origin for citrus fruits.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871816/dop-economy-e-valore-delle-igp-quale-futuro/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">תחילת קטיף תפוזי הדם מסיציליה בעוד 90 יום -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">עונת תפוזי הדם בסיציליה צפויה להיפתח בעוד כשלושה חודשים. לפי נשיא הקונסורציום, ג'ררדו דיאנה, המגדלים ערוכים להתמודד עם אתגרי האקלים והטמפרטורות הגבוהות הנוכחיות תוך התבססות על ניסיון מעונות קודמות. <span class=\"news-reason\">מידע על לוח הזמנים של הייצור של מקור מתחרה מרכזי להדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871816/dop-economy-e-valore-delle-igp-quale-futuro/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1789048985_0",
       "timestamp": "2026-09-10T14:03:05.421974+00:00",
@@ -396,7 +426,7 @@
     {
       "id": "1788935612_0",
       "timestamp": "2026-09-09T06:33:32.565355+00:00",
-      "title": "Analyse des parts de marché des pays exportateurs de fruits vers l&#x27;UE",
+      "title": "Analyse des parts de marché des pays exportateurs de fruits à destination de l&#x27;UE",
       "category": "PRIX &amp VOLUMES",
       "commercials": [],
       "products": [],
@@ -408,7 +438,7 @@
         "COL",
         "TUR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Analyse des parts de marché des pays exportateurs de fruits vers l&#x27;UE -- <span class=\"news-date\">09/09/2026 06:00</span></div><div class=\"news-body\">Plus des deux tiers des fruits et légumes importés par l&#x27;Union européenne proviennent de seulement dix pays tiers. L&#x27;Égypte domine avec 10 % des parts de marché, suivie par le Maroc (8 %), la Colombie (8 %), l&#x27;Afrique du Sud (7 %), le Pérou (6 %) et la Turquie (5 %). Ces données confirment la forte concentration des flux d&#x27;approvisionnement vers le marché communautaire. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur les parts de marché des principales origines concurrentes de Mehadrin (Égypte, Maroc, Afrique du Sud, Pérou, Turquie) sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869654/agrofarmaci-vietati-nell-ortofrutta-d-importazione-i-dati-che-smentiscono-i-luoghi-comuni/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Analyse des parts de marché des pays exportateurs de fruits à destination de l&#x27;UE -- <span class=\"news-date\">09/09/2026 06:00</span></div><div class=\"news-body\">Plus des deux tiers des fruits et légumes importés par l&#x27;Union européenne proviennent de seulement dix pays tiers. L&#x27;Égypte domine avec 10 % des parts de marché, suivie par le Maroc (8 %), la Colombie (8 %), l&#x27;Afrique du Sud (7 %), le Pérou (6 %) et la Turquie (5 %). Ces données confirment la forte concentration des flux d&#x27;approvisionnement vers le marché communautaire. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur les parts de marché des principales origines concurrentes de Mehadrin (Égypte, Maroc, Afrique du Sud, Pérou, Turquie) sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869654/agrofarmaci-vietati-nell-ortofrutta-d-importazione-i-dati-che-smentiscono-i-luoghi-comuni/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Analysis of market shares of fruit exporting countries to the EU -- <span class=\"news-date\">09/09/2026 06:00</span></div><div class=\"news-body\">More than two-thirds of fruits and vegetables imported by the European Union come from only ten third countries. Egypt dominates with 10% of market shares, followed by Morocco (8%), Colombia (8%), South Africa (7%), Peru (6%) and Turkey (5%). These data confirm the high concentration of supply flows to the community market. <span class=\"news-reason\">The article provides precise figures on the market shares of the main competing origins of Mehadrin (Egypt, Morocco, South Africa, Peru, Turkey) on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869654/agrofarmaci-vietati-nell-ortofrutta-d-importazione-i-dati-che-smentiscono-i-luoghi-comuni/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">ניתוח נתחי שוק של המדינות המייצאות פירות לאיחוד האירופי -- <span class=\"news-date\">09/09/2026 06:00</span></div><div class=\"news-body\">יותר משני שלישים מהפירות והירקות המיובאים לאיחוד האירופי מגיעים מעשר מדינות שלישיות בלבד. מצרים מובילה עם 10% מנתחי השוק, ואחריה מרוקו (8%), קולומביה (8%), דרום אפריקה (7%), פרו (6%) וטורקיה (5%). נתונים אלו מאשרים את הריכוזיות הגבוהה של זרמי האספקה לשוק הקהילתי. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על נתחי השוק של מקורות האספקה המתחרים העיקריים של מהדרין (מצרים, מרוקו, דרום אפריקה, פרו, טורקיה) בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9869654/agrofarmaci-vietati-nell-ortofrutta-d-importazione-i-dati-che-smentiscono-i-luoghi-comuni/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -681,24 +711,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Restrictions sur les exportations de mangues du Guatemala vers le marché américain -- <span class=\"news-date\">07/09/2026 16:08</span></div><div class=\"news-body\">Le Guatemala dispose de 10 000 hectares de mangues, mais n&#x27;en dédie que 3 000 à l&#x27;exportation, principalement vers les États-Unis. Les 7 000 hectares restants approvisionnent le marché intérieur. Les zones exportatrices se concentrent sur le littoral du Pacifique dans la région de Retalhuleu. <span class=\"news-reason\">Données précises sur les surfaces et volumes d&#x27;une origine concurrente pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9870520/guatemala-solo-exporta-mango-a-ee-uu/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Guatemala restricts its mango exports to the US market -- <span class=\"news-date\">07/09/2026 16:08</span></div><div class=\"news-body\">Guatemala has 10,000 hectares of mangoes, but only dedicates 3,000 to exports, mainly to the United States. The remaining 7,000 hectares supply the domestic market. Export zones are concentrated on the Pacific coast in the Retalhuleu region. <span class=\"news-reason\">Precise data on surfaces and volumes from a competing origin for mangoes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9870520/guatemala-solo-exporta-mango-a-ee-uu/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">גואטמלה מגבילה את ייצוא המנגו שלה לשוק האמריקאי -- <span class=\"news-date\">07/09/2026 16:08</span></div><div class=\"news-body\">לגואטמלה יש 10,000 הקטאר של מנגו, אך היא מקדישה רק 3,000 מהם לייצוא, בעיקר לארצות הברית. 7,000 ההקטאר הנותרים מספקים את השוק המקומי. אזורי הייצוא מתרכזים בחוף האוקיינוס השקט באזור רטאלולהו (Retalhuleu). <span class=\"news-reason\">נתונים מדויקים על שטחים וכמויות של מקור מתחרה למנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9870520/guatemala-solo-exporta-mango-a-ee-uu/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1788843753_0",
-      "timestamp": "2026-09-08T05:02:33.197400+00:00",
-      "title": "Analyse de la consommation d&#x27;oranges des ménages italiens",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "orange"
-      ],
-      "origins": [
-        "ITA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Analyse de la consommation d&#x27;oranges des ménages italiens -- <span class=\"news-date\">08/09/2026 06:05</span></div><div class=\"news-body\">Selon les données du panel YouGov Shopper portant sur 18 000 familles, 71 % des foyers italiens ont acheté des oranges au cours de l&#x27;année se terminant en juillet 2026. L&#x27;orange demeure un produit central dans les habitudes de consommation en Italie, bien que les analystes conseillent aux opérateurs de surveiller l&#x27;évolution des tendances d&#x27;achat. <span class=\"news-reason\">Fournit des données statistiques sur la pénétration du marché des oranges dans un marché européen clé.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9870662/le-arance-vengono-acquistate-dal-71-per-cento-delle-famiglie-italiane/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Analysis of orange consumption within Italian households -- <span class=\"news-date\">08/09/2026 06:05</span></div><div class=\"news-body\">According to data from the YouGov Shopper panel covering 18,000 families, 71% of Italian households purchased oranges during the year ending in July 2026. Oranges remain a central product in Italian consumption habits, although analysts advise operators to monitor the evolution of purchasing trends. <span class=\"news-reason\">Provides statistical data on the market penetration of oranges in a key European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9870662/le-arance-vengono-acquistate-dal-71-per-cento-delle-famiglie-italiane/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">ניתוח צריכת תפוזים בקרב משקי בית איטלקיים -- <span class=\"news-date\">08/09/2026 06:05</span></div><div class=\"news-body\">לפי נתוני פאנל YouGov Shopper המקיף 18,000 משפחות, 71% ממשקי הבית האיטלקיים רכשו תפוזים במהלך השנה שהסתיימה ביולי 2026. התפוז נותר מוצר מרכזי בהרגלי הצריכה באיטליה, אם כי אנליסטים ממליצים לגורמים בענף לעקוב אחר התפתחות מגמות הרכישה. <span class=\"news-reason\">מספק נתונים סטטיסטיים על חדירת שוק התפוזים בשוק אירופי מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9870662/le-arance-vengono-acquistate-dal-71-per-cento-delle-famiglie-italiane/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
