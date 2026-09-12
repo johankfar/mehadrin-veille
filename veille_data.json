@@ -1,10 +1,82 @@
 {
-  "last_generated": "2026-09-12T08:02:22.722511+00:00",
+  "last_generated": "2026-09-12T09:32:24.445802+00:00",
   "articles": [
+    {
+      "id": "1789205544_1",
+      "timestamp": "2026-09-12T09:32:24.445802+00:00",
+      "title": "Croatie : la récolte de mandarines confrontée aux petits calibres -- 11/09/2026 13:44",
+      "title_hash": "croatie récolte mandarines confrontée petits calibres",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Croatie : la récolte de mandarines confrontée aux petits calibres -- <span class=\"news-date\">11/09/2026 13:44</span></div><div class=\"news-body\">Dans la vallée de la Neretva en Croatie, la récolte de mandarines doit débuter d&#x27;ici deux à trois semaines. Bien que le volume global soit jugé moyen, la production est marquée par une prédominance de petits calibres due à un été sec et à une forte pression des ravageurs. <span class=\"news-reason\">Problème de calibre et de pression parasitaire chez un concurrent européen sur la mandarine.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9872290/croatian-mandarin-harvest-faces-smaller-fruit-and-pest-pressure/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Croatia: mandarin harvest faces small sizes -- <span class=\"news-date\">11/09/2026 13:44</span></div><div class=\"news-body\">In the Neretva valley in Croatia, the mandarin harvest is due to start within two to three weeks. Although the overall volume is considered average, production is marked by a predominance of small sizes due to a dry summer and high pest pressure. <span class=\"news-reason\">Sizing issue and pest pressure for a European competitor in mandarins.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9872290/croatian-mandarin-harvest-faces-smaller-fruit-and-pest-pressure/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">קרואטיה: יבול המנדרינות מתמודד עם גדלים קטנים -- <span class=\"news-date\">11/09/2026 13:44</span></div><div class=\"news-body\">בעמק נרטבה שבקרואטיה, קטיף המנדרינות אמור להתחיל בעוד שבועיים עד שלושה שבועות. למרות שהנפח הכולל נחשב לממוצע, הייצור מתאפיין ברוב של גדלים קטנים עקב קיץ יבש ולחץ כבד של מזיקים. <span class=\"news-reason\">בעיית גודל ולחץ מזיקים אצל מתחרה אירופאי במנדרינות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9872290/croatian-mandarin-harvest-faces-smaller-fruit-and-pest-pressure/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>",
+      "rss_metadata": {
+        "id": "rss-b68a539eeb0aecfc",
+        "title": "Croatian mandarin harvest faces smaller fruit and pest pressure",
+        "summary": "Croatia's Neretva Valley is preparing for the start of the mandarin harvest, with picking expected to begin within the next two to three weeks. Growers expect an average overall crop, although weather conditions and pest pressure have affected the season. A dry spring and summer, combined with prolonged…",
+        "url": "https://www.freshplaza.com/article/9872290/croatian-mandarin-harvest-faces-smaller-fruit-and-pest-pressure/",
+        "source": "FreshPlaza",
+        "published_at": "2026-09-11T13:44:00+02:00",
+        "language": "en",
+        "products": [
+          "mandarine"
+        ],
+        "origins": []
+      },
+      "attention_enrichment": {
+        "title_fr": "Prédominance de petits calibres pour les mandarines croates",
+        "summary_fr": "La sécheresse et les ravageurs impactent la taille des fruits croates."
+      },
+      "gemini_score": 7
+    },
+    {
+      "id": "1789205544_0",
+      "timestamp": "2026-09-12T09:32:24.445802+00:00",
+      "title": "La qualité pèse sur les exportations de mandarines du Cap Occidental -- 11/09/2026 13:27",
+      "title_hash": "qualité pèse exportations mandarines cap occidental",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "ZAF"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La qualité pèse sur les exportations de mandarines du Cap Occidental -- <span class=\"news-date\">11/09/2026 13:27</span></div><div class=\"news-body\">La récolte de mandarines en Afrique du Sud, particulièrement dans la province du Cap Occidental, subit des pertes importantes. L&#x27;apparition fréquente de taches de Peteca sur les fruits limite considérablement le volume de produits répondant aux standards d&#x27;exportation pour cette saison. <span class=\"news-reason\">Alerte sur la qualité d&#x27;une origine concurrente pour les mandarines (produit Mehadrin).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9872222/quality-reduces-western-cape-mandarin-export-crop/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Quality weighs on Western Cape mandarin exports -- <span class=\"news-date\">11/09/2026 13:27</span></div><div class=\"news-body\">The mandarin harvest in South Africa, particularly in the Western Cape province, is suffering significant losses. The frequent appearance of Peteca spots on the fruit is considerably limiting the volume of products meeting export standards for this season. <span class=\"news-reason\">Quality alert for a competing origin for mandarins (Mehadrin product).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9872222/quality-reduces-western-cape-mandarin-export-crop/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">האיכות מעיבה על יצוא המנדרינות מהכף המערבי -- <span class=\"news-date\">11/09/2026 13:27</span></div><div class=\"news-body\">יבול המנדרינות בדרום אפריקה, במיוחד במחוז הכף המערבי, סופג הפסדים משמעותיים. הופעה תכופה של כתמי פטקה על הפירות מגבילה במידה ניכרת את כמות המוצרים העומדים בתקני הייצוא לעונה זו. <span class=\"news-reason\">התרעת איכות ממקור מתחרה למנדרינות (מוצר מהדרין).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9872222/quality-reduces-western-cape-mandarin-export-crop/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>",
+      "rss_metadata": {
+        "id": "rss-3168e2ae118847ef",
+        "title": "Quality reduces Western Cape mandarin export crop",
+        "summary": "It has not been an easy citrus harvest, observes Okkie Burger, an independent citrus consultant with many years of experience in Citrusdal and the Boland, giving him a bird's-eye view of the province's citrus production challenges, of which there was no shortage. \"Many instances of Peteca spots developed…",
+        "url": "https://www.freshplaza.com/article/9872222/quality-reduces-western-cape-mandarin-export-crop/",
+        "source": "FreshPlaza",
+        "published_at": "2026-09-11T13:27:00+02:00",
+        "language": "en",
+        "products": [
+          "mandarine"
+        ],
+        "origins": []
+      },
+      "attention_enrichment": {
+        "title_fr": "Mandarines sud-africaines pénalisées par des problèmes qualitatifs",
+        "summary_fr": "L'apparition de taches de Peteca réduit les volumes de mandarines exportables."
+      },
+      "gemini_score": 7
+    },
     {
       "id": "1789200142_0",
       "timestamp": "2026-09-12T08:02:22.722511+00:00",
-      "title": "L&#x27;Union européenne représente 84 % des exportations espagnoles de fruits et légumes",
+      "title": "L’Union européenne absorbe 84 % des exportations espagnoles de fruits et légumes",
       "title_hash": "lx27union européenne représente 84 exportations espagnoles fruits légumes",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
@@ -18,7 +90,7 @@
         "FRA",
         "DEU"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Union européenne représente 84 % des exportations espagnoles de fruits et légumes -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">Au premier semestre 2026, les exportations espagnoles de fruits et légumes frais ont totalisé 6,5 millions de tonnes, marquant une légère baisse de 0,6 % en volume. L&#x27;Union européenne demeure la destination quasi exclusive avec 84 % des volumes expédiés, l&#x27;Allemagne, la France et le Royaume-Uni restant les principaux marchés importateurs. <span class=\"news-reason\">Contient des volumes précis (6,5 millions de tonnes) et des pourcentages sur les exportations d&#x27;une origine concurrente majeure pour les agrumes et avocats.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868176/l-ue-ha-rappresentato-l-84-per-cento-del-volume-delle-esportazioni-spagnole-di-frutta-e-verdura-fresca/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L’Union européenne absorbe 84 % des exportations espagnoles de fruits et légumes -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">Au premier semestre 2026, les exportations espagnoles de fruits et légumes frais ont totalisé 6,5 millions de tonnes, marquant une légère baisse de 0,6 % en volume. L&#x27;Union européenne demeure la destination quasi exclusive avec 84 % des volumes expédiés, l&#x27;Allemagne, la France et le Royaume-Uni restant les principaux marchés importateurs. <span class=\"news-reason\">Contient des volumes précis (6,5 millions de tonnes) et des pourcentages sur les exportations d&#x27;une origine concurrente majeure pour les agrumes et avocats.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868176/l-ue-ha-rappresentato-l-84-per-cento-del-volume-delle-esportazioni-spagnole-di-frutta-e-verdura-fresca/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">The European Union accounts for 84% of Spanish fruit and vegetable exports -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">In the first half of 2026, Spanish fresh fruit and vegetable exports totaled 6.5 million tons, marking a slight decrease of 0.6% in volume. The European Union remains the almost exclusive destination with 84% of the shipped volumes, with Germany, France, and the United Kingdom remaining the main importing markets. <span class=\"news-reason\">Contains precise volumes (6.5 million tons) and percentages on exports from a major competing origin for citrus and avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868176/l-ue-ha-rappresentato-l-84-per-cento-del-volume-delle-esportazioni-spagnole-di-frutta-e-verdura-fresca/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">האיחוד האירופי מהווה 84% מיצוא הפירות והירקות של ספרד -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">במחצית הראשונה של שנת 2026, יצוא הפירות והירקות הטריים של ספרד הסתכם ב-6.5 מיליון טונות, המצביע על ירידה קלה של 0.6% בנפח. האיחוד האירופי נותר היעד הכמעט בלעדי עם 84% מהנפחים שנשלחו, כאשר גרמניה, צרפת ובריטניה נותרו שוקי היבוא העיקריים. <span class=\"news-reason\">מכיל נתונים מדויקים (6.5 מיליון טונות) ואחוזים על היצוא של מקור מתחרה עיקרי עבור פירות הדר ואבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868176/l-ue-ha-rappresentato-l-84-per-cento-del-volume-delle-esportazioni-spagnole-di-frutta-e-verdura-fresca/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -372,7 +444,7 @@
     {
       "id": "1789102989_0",
       "timestamp": "2026-09-11T05:03:09.577734+00:00",
-      "title": "Lancement de la campagne de récolte des oranges sanguines de Sicile dans 90 jours",
+      "title": "Lancement de la campagne de récolte des oranges sanguines de Sicile d&#x27;ici 90 jours",
       "title_hash": "lancement récolte oranges sanguines sicile dx27ici 90 jours",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
@@ -384,7 +456,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne de récolte des oranges sanguines de Sicile dans 90 jours -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">La campagne des oranges sanguines en Sicile devrait débuter dans environ trois mois. Selon le président du consortium, Gerardo Diana, les producteurs sont préparés à affronter les défis climatiques et les températures élevées actuelles en s&#x27;appuyant sur l&#x27;expérience des saisons précédentes. <span class=\"news-reason\">Information sur le calendrier de production d&#x27;une origine concurrente clé pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871816/dop-economy-e-valore-delle-igp-quale-futuro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne de récolte des oranges sanguines de Sicile d&#x27;ici 90 jours -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">La campagne des oranges sanguines en Sicile devrait débuter dans environ trois mois. Selon le président du consortium, Gerardo Diana, les producteurs sont préparés à affronter les défis climatiques et les températures élevées actuelles en s&#x27;appuyant sur l&#x27;expérience des saisons précédentes. <span class=\"news-reason\">Information sur le calendrier de production d&#x27;une origine concurrente clé pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871816/dop-economy-e-valore-delle-igp-quale-futuro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Launch of the Sicilian blood orange harvest within 90 days -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">The blood orange campaign in Sicily is expected to begin in about three months. According to the consortium president, Gerardo Diana, producers are prepared to face climate challenges and current high temperatures by drawing on the experience of previous seasons. <span class=\"news-reason\">Information on the production schedule of a key competing origin for citrus fruits.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871816/dop-economy-e-valore-delle-igp-quale-futuro/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">תחילת קטיף תפוזי הדם מסיציליה בעוד 90 יום -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">עונת תפוזי הדם בסיציליה צפויה להיפתח בעוד כשלושה חודשים. לפי נשיא הקונסורציום, ג'ררדו דיאנה, המגדלים ערוכים להתמודד עם אתגרי האקלים והטמפרטורות הגבוהות הנוכחיות תוך התבססות על ניסיון מעונות קודמות. <span class=\"news-reason\">מידע על לוח הזמנים של הייצור של מקור מתחרה מרכזי להדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871816/dop-economy-e-valore-delle-igp-quale-futuro/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -1074,7 +1146,7 @@
       "gemini_score": 4
     }
   ],
-  "article_count": 29,
+  "article_count": 31,
   "attention_points": [
     {
       "id": "attention-d8ca320092320f62",
@@ -1091,7 +1163,7 @@
       "signal_label": "Volumes",
       "icon": "information",
       "products": [],
-      "age_hours": 18
+      "age_hours": 19
     },
     {
       "id": "attention-569c36bae7b2326a",
@@ -1110,7 +1182,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 20
+      "age_hours": 21
     },
     {
       "id": "attention-9156ca18727cbf14",
@@ -1129,7 +1201,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 24
+      "age_hours": 25
     },
     {
       "id": "attention-b5d29510cc0845cb",
@@ -1146,7 +1218,7 @@
       "signal_label": "Météo",
       "icon": "weather",
       "products": [],
-      "age_hours": 35
+      "age_hours": 37
     }
   ]
 }
