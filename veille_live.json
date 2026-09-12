@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-12T09:32:24.445802+00:00",
-  "article_count": 31,
+  "last_updated": "2026-09-12T11:02:19.008703+00:00",
+  "article_count": 32,
   "attention_points": [
     {
       "id": "attention-d8ca320092320f62",
@@ -17,7 +17,7 @@
       "signal_label": "Volumes",
       "icon": "information",
       "products": [],
-      "age_hours": 19
+      "age_hours": 21
     },
     {
       "id": "attention-569c36bae7b2326a",
@@ -36,7 +36,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 21
+      "age_hours": 23
     },
     {
       "id": "attention-9156ca18727cbf14",
@@ -55,7 +55,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 25
+      "age_hours": 27
     },
     {
       "id": "attention-b5d29510cc0845cb",
@@ -72,10 +72,24 @@
       "signal_label": "Météo",
       "icon": "weather",
       "products": [],
-      "age_hours": 37
+      "age_hours": 38
     }
   ],
   "articles": [
+    {
+      "id": "1789210939_0",
+      "timestamp": "2026-09-12T11:02:19.008703+00:00",
+      "title": "Lancement de la récolte des agrumes en Floride prévu pour la fin septembre -- 11/09/2026 13:27",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Lancement de la récolte des agrumes en Floride prévu pour la fin septembre -- <span class=\"news-date\">11/09/2026 13:27</span></div><div class=\"news-body\">La récolte d&#x27;agrumes frais en Floride devrait débuter entre la fin du mois de septembre et le début du mois d&#x27;octobre 2026. Ce démarrage suit une amélioration des conditions météorologiques après un retard de la saison des pluies. Environ 90 % de la production d&#x27;agrumes de l&#x27;État est destinée à l&#x27;industrie de la transformation. <span class=\"news-reason\">Information factuelle sur le calendrier de récolte et la répartition de production d&#x27;une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9872095/florida-citrus-harvest-set-to-start-by-early-october/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Florida citrus harvest launch scheduled for late September -- <span class=\"news-date\">11/09/2026 13:27</span></div><div class=\"news-body\">The fresh citrus harvest in Florida is expected to begin between late September and early October 2026. This start follows an improvement in weather conditions after a delay in the rainy season. Approximately 90% of the state&#x27;s citrus production is intended for the processing industry. <span class=\"news-reason\">Factual information on the harvest schedule and production distribution of a competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9872095/florida-citrus-harvest-set-to-start-by-early-october/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">תחילת קטיף ההדרים בפלורידה צפויה לסוף ספטמבר -- <span class=\"news-date\">11/09/2026 13:27</span></div><div class=\"news-body\">קטיף ההדרים הטריים בפלורידה צפוי להתחיל בין סוף חודש ספטמבר לתחילת חודש אוקטובר 2026. התחלה זו מגיעה בעקבות שיפור בתנאי מזג האוויר לאחר עיכוב בעונת הגשמים. כ-90% מייצור ההדרים במדינה מיועד לתעשיית העיבוד. <span class=\"news-reason\">מידע עובדתי על לוח הזמנים של הקטיף וחלוקת הייצור של מקור מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9872095/florida-citrus-harvest-set-to-start-by-early-october/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1789205544_1",
       "timestamp": "2026-09-12T09:32:24.445802+00:00",
@@ -113,7 +127,7 @@
     {
       "id": "1789200142_0",
       "timestamp": "2026-09-12T08:02:22.722511+00:00",
-      "title": "L’Union européenne absorbe 84 % des exportations espagnoles de fruits et légumes",
+      "title": "L&#x27;Union européenne concentre 84 % des exportations espagnoles de fruits et légumes",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia",
@@ -126,7 +140,7 @@
         "FRA",
         "DEU"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L’Union européenne absorbe 84 % des exportations espagnoles de fruits et légumes -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">Au premier semestre 2026, les exportations espagnoles de fruits et légumes frais ont totalisé 6,5 millions de tonnes, marquant une légère baisse de 0,6 % en volume. L&#x27;Union européenne demeure la destination quasi exclusive avec 84 % des volumes expédiés, l&#x27;Allemagne, la France et le Royaume-Uni restant les principaux marchés importateurs. <span class=\"news-reason\">Contient des volumes précis (6,5 millions de tonnes) et des pourcentages sur les exportations d&#x27;une origine concurrente majeure pour les agrumes et avocats.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868176/l-ue-ha-rappresentato-l-84-per-cento-del-volume-delle-esportazioni-spagnole-di-frutta-e-verdura-fresca/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Union européenne concentre 84 % des exportations espagnoles de fruits et légumes -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">Au premier semestre 2026, les exportations espagnoles de fruits et légumes frais ont totalisé 6,5 millions de tonnes, marquant une légère baisse de 0,6 % en volume. L&#x27;Union européenne demeure la destination quasi exclusive avec 84 % des volumes expédiés, l&#x27;Allemagne, la France et le Royaume-Uni restant les principaux marchés importateurs. <span class=\"news-reason\">Contient des volumes précis (6,5 millions de tonnes) et des pourcentages sur les exportations d&#x27;une origine concurrente majeure pour les agrumes et avocats.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868176/l-ue-ha-rappresentato-l-84-per-cento-del-volume-delle-esportazioni-spagnole-di-frutta-e-verdura-fresca/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">The European Union accounts for 84% of Spanish fruit and vegetable exports -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">In the first half of 2026, Spanish fresh fruit and vegetable exports totaled 6.5 million tons, marking a slight decrease of 0.6% in volume. The European Union remains the almost exclusive destination with 84% of the shipped volumes, with Germany, France, and the United Kingdom remaining the main importing markets. <span class=\"news-reason\">Contains precise volumes (6.5 million tons) and percentages on exports from a major competing origin for citrus and avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868176/l-ue-ha-rappresentato-l-84-per-cento-del-volume-delle-esportazioni-spagnole-di-frutta-e-verdura-fresca/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">האיחוד האירופי מהווה 84% מיצוא הפירות והירקות של ספרד -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">במחצית הראשונה של שנת 2026, יצוא הפירות והירקות הטריים של ספרד הסתכם ב-6.5 מיליון טונות, המצביע על ירידה קלה של 0.6% בנפח. האיחוד האירופי נותר היעד הכמעט בלעדי עם 84% מהנפחים שנשלחו, כאשר גרמניה, צרפת ובריטניה נותרו שוקי היבוא העיקריים. <span class=\"news-reason\">מכיל נתונים מדויקים (6.5 מיליון טונות) ואחוזים על היצוא של מקור מתחרה עיקרי עבור פירות הדר ואבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868176/l-ue-ha-rappresentato-l-84-per-cento-del-volume-delle-esportazioni-spagnole-di-frutta-e-verdura-fresca/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -282,7 +296,7 @@
     {
       "id": "1789102989_0",
       "timestamp": "2026-09-11T05:03:09.577734+00:00",
-      "title": "Lancement de la campagne de récolte des oranges sanguines de Sicile d&#x27;ici 90 jours",
+      "title": "Lancement de la campagne de récolte des oranges sanguines de Sicile dans 90 jours",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -293,7 +307,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne de récolte des oranges sanguines de Sicile d&#x27;ici 90 jours -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">La campagne des oranges sanguines en Sicile devrait débuter dans environ trois mois. Selon le président du consortium, Gerardo Diana, les producteurs sont préparés à affronter les défis climatiques et les températures élevées actuelles en s&#x27;appuyant sur l&#x27;expérience des saisons précédentes. <span class=\"news-reason\">Information sur le calendrier de production d&#x27;une origine concurrente clé pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871816/dop-economy-e-valore-delle-igp-quale-futuro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne de récolte des oranges sanguines de Sicile dans 90 jours -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">La campagne des oranges sanguines en Sicile devrait débuter dans environ trois mois. Selon le président du consortium, Gerardo Diana, les producteurs sont préparés à affronter les défis climatiques et les températures élevées actuelles en s&#x27;appuyant sur l&#x27;expérience des saisons précédentes. <span class=\"news-reason\">Information sur le calendrier de production d&#x27;une origine concurrente clé pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871816/dop-economy-e-valore-delle-igp-quale-futuro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Launch of the Sicilian blood orange harvest within 90 days -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">The blood orange campaign in Sicily is expected to begin in about three months. According to the consortium president, Gerardo Diana, producers are prepared to face climate challenges and current high temperatures by drawing on the experience of previous seasons. <span class=\"news-reason\">Information on the production schedule of a key competing origin for citrus fruits.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871816/dop-economy-e-valore-delle-igp-quale-futuro/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">תחילת קטיף תפוזי הדם מסיציליה בעוד 90 יום -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">עונת תפוזי הדם בסיציליה צפויה להיפתח בעוד כשלושה חודשים. לפי נשיא הקונסורציום, ג'ררדו דיאנה, המגדלים ערוכים להתמודד עם אתגרי האקלים והטמפרטורות הגבוהות הנוכחיות תוך התבססות על ניסיון מעונות קודמות. <span class=\"news-reason\">מידע על לוח הזמנים של הייצור של מקור מתחרה מרכזי להדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871816/dop-economy-e-valore-delle-igp-quale-futuro/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
