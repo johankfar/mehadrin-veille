@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T09:32:24.925016+00:00",
+  "last_updated": "2026-09-14T11:01:57.978909+00:00",
   "article_count": 23,
   "attention_points": [
     {
@@ -17,7 +17,26 @@
       "signal_label": "Prix",
       "icon": "information",
       "products": [],
-      "age_hours": 0
+      "age_hours": 1
+    },
+    {
+      "id": "attention-be4cd4d1ed710cd7",
+      "article_id": "1789383717_0",
+      "url": "https://www.freshplaza.de/article/9872347/aufschwung-im-avocado-anbau-hangt-von-der-disziplin-zu-beginn-der-saison-ab/",
+      "source": "FreshPlaza DE",
+      "title": "Vers un équilibre de l'offre hivernale d'avocats",
+      "summary": "La saison hivernale 2026/27 pour les avocats en Europe pourrait présenter un équilibre inhabituel de l'offre.",
+      "origin_code": "ISR",
+      "origin_label": "Israël",
+      "published_at": "2026-09-14T10:20:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 2
     },
     {
       "id": "attention-d8ca320092320f62",
@@ -34,7 +53,7 @@
       "signal_label": "Volumes",
       "icon": "information",
       "products": [],
-      "age_hours": 67
+      "age_hours": 69
     },
     {
       "id": "attention-37a71f6b821226fc",
@@ -53,29 +72,32 @@
       "products": [
         "pomegranate"
       ],
-      "age_hours": 68
-    },
-    {
-      "id": "attention-1416659aed4e1ecf",
-      "article_id": "1789227127_0",
-      "url": "https://www.cga.co.za/week-37-from-the-desk-of-the-ceo-2/",
-      "source": "CGA",
-      "title": "Rapport hebdomadaire de la CGA sur les agrumes d'Afrique",
-      "summary": "L'Association des Producteurs d'Agrumes (CGA) a publié son point pour la semaine 37, incluant des données sur les volumes emballés et expédiés, ainsi que des informations sur la Citrus Academy.",
-      "origin_code": "ZAF",
-      "origin_label": "Afrique du Sud",
-      "published_at": "2026-09-11T12:02:27+00:00",
-      "published_at_source": "rss",
-      "signal_type": "information",
-      "signal_label": "Information",
-      "icon": "information",
-      "products": [
-        "orange"
-      ],
       "age_hours": 69
     }
   ],
   "articles": [
+    {
+      "id": "1789383717_0",
+      "timestamp": "2026-09-14T11:01:57.978909+00:00",
+      "title": "Perspectives d&#x27;équilibre de l&#x27;offre pour la campagne d&#x27;avocats Hass 2026/27",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ESP",
+        "MAR",
+        "ISR",
+        "COL",
+        "CHL"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Perspectives d&#x27;équilibre de l&#x27;offre pour la campagne d&#x27;avocats Hass 2026/27 -- <span class=\"news-date\">14/09/2026 10:20</span></div><div class=\"news-body\">La saison hivernale 2026/27 pour les avocats en Europe pourrait présenter un équilibre inhabituel de l&#x27;offre. Le Chili, le Maroc, Israël, la Colombie et l&#x27;Espagne prévoient tous d&#x27;atteindre des volumes d&#x27;exportation importants pour la variété Hass durant le pic de la saison hivernale. Pour le Maroc, la réussite de cette campagne dépendra de la discipline observée par les exportateurs dès le début de la saison. <span class=\"news-reason\">L&#x27;article fournit des perspectives stratégiques sur la campagne hivernale de l&#x27;avocat Hass, citant explicitement Israël et ses principaux concurrents.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9872347/aufschwung-im-avocado-anbau-hangt-von-der-disziplin-zu-beginn-der-saison-ab/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Prospects for a supply balance for the 2026/27 Hass avocado season -- <span class=\"news-date\">14/09/2026 10:20</span></div><div class=\"news-body\">The 2026/27 winter season for avocados in Europe could present an unusual supply balance. Chile, Morocco, Israel, Colombia and Spain all plan to reach significant export volumes for the Hass variety during the peak of the winter season. For Morocco, the success of this campaign will depend on the discipline shown by exporters from the start of the season. <span class=\"news-reason\">The article provides strategic perspectives on the Hass avocado winter campaign, explicitly citing Israel and its main competitors.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9872347/aufschwung-im-avocado-anbau-hangt-von-der-disziplin-zu-beginn-der-saison-ab/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">תחזיות לאיזון היצע עבור עונת אבוקדו האס 2026/27 -- <span class=\"news-date\">14/09/2026 10:20</span></div><div class=\"news-body\">עונת החורף 2026/27 עבור אבוקדו באירופה עשויה להציג איזון היצע בלתי רגיל. צ'ילה, מרוקו, ישראל, קולומביה וספרד מתכננות כולן להגיע לנפחי ייצוא משמעותיים עבור זן ההאס במהלך שיא עונת החורף. עבור מרוקו, הצלחת העונה תלויה במשמעת שיפגינו היצואנים כבר מתחילת העונה. <span class=\"news-reason\">המאמר מספק תחזיות אסטרטגיות על עונת החורף של אבוקדו האס, תוך ציון מפורש של ישראל ומתחרותיה העיקריות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9872347/aufschwung-im-avocado-anbau-hangt-von-der-disziplin-zu-beginn-der-saison-ab/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1789378344_1",
       "timestamp": "2026-09-14T09:32:24.925016+00:00",
@@ -309,7 +331,7 @@
     {
       "id": "1789200142_0",
       "timestamp": "2026-09-12T08:02:22.722511+00:00",
-      "title": "L’Union européenne absorbe 84 % des exportations espagnoles de fruits et légumes",
+      "title": "L&#x27;Union européenne absorbe 84 % des exportations espagnoles de fruits et légumes",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia",
@@ -322,7 +344,7 @@
         "FRA",
         "DEU"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L’Union européenne absorbe 84 % des exportations espagnoles de fruits et légumes -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">Au premier semestre 2026, les exportations espagnoles de fruits et légumes frais ont totalisé 6,5 millions de tonnes, marquant une légère baisse de 0,6 % en volume. L&#x27;Union européenne demeure la destination quasi exclusive avec 84 % des volumes expédiés, l&#x27;Allemagne, la France et le Royaume-Uni restant les principaux marchés importateurs. <span class=\"news-reason\">Contient des volumes précis (6,5 millions de tonnes) et des pourcentages sur les exportations d&#x27;une origine concurrente majeure pour les agrumes et avocats.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868176/l-ue-ha-rappresentato-l-84-per-cento-del-volume-delle-esportazioni-spagnole-di-frutta-e-verdura-fresca/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Union européenne absorbe 84 % des exportations espagnoles de fruits et légumes -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">Au premier semestre 2026, les exportations espagnoles de fruits et légumes frais ont totalisé 6,5 millions de tonnes, marquant une légère baisse de 0,6 % en volume. L&#x27;Union européenne demeure la destination quasi exclusive avec 84 % des volumes expédiés, l&#x27;Allemagne, la France et le Royaume-Uni restant les principaux marchés importateurs. <span class=\"news-reason\">Contient des volumes précis (6,5 millions de tonnes) et des pourcentages sur les exportations d&#x27;une origine concurrente majeure pour les agrumes et avocats.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868176/l-ue-ha-rappresentato-l-84-per-cento-del-volume-delle-esportazioni-spagnole-di-frutta-e-verdura-fresca/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">The European Union accounts for 84% of Spanish fruit and vegetable exports -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">In the first half of 2026, Spanish fresh fruit and vegetable exports totaled 6.5 million tons, marking a slight decrease of 0.6% in volume. The European Union remains the almost exclusive destination with 84% of the shipped volumes, with Germany, France, and the United Kingdom remaining the main importing markets. <span class=\"news-reason\">Contains precise volumes (6.5 million tons) and percentages on exports from a major competing origin for citrus and avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868176/l-ue-ha-rappresentato-l-84-per-cento-del-volume-delle-esportazioni-spagnole-di-frutta-e-verdura-fresca/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">האיחוד האירופי מהווה 84% מיצוא הפירות והירקות של ספרד -- <span class=\"news-date\">11/09/2026 06:05</span></div><div class=\"news-body\">במחצית הראשונה של שנת 2026, יצוא הפירות והירקות הטריים של ספרד הסתכם ב-6.5 מיליון טונות, המצביע על ירידה קלה של 0.6% בנפח. האיחוד האירופי נותר היעד הכמעט בלעדי עם 84% מהנפחים שנשלחו, כאשר גרמניה, צרפת ובריטניה נותרו שוקי היבוא העיקריים. <span class=\"news-reason\">מכיל נתונים מדויקים (6.5 מיליון טונות) ואחוזים על היצוא של מקור מתחרה עיקרי עבור פירות הדר ואבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9868176/l-ue-ha-rappresentato-l-84-per-cento-del-volume-delle-esportazioni-spagnole-di-frutta-e-verdura-fresca/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -444,22 +466,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Prévisions d&#x27;un approvisionnement équilibré en avocats Hass pour la saison hivernale en Europe -- <span class=\"news-date\">11/09/2026 13:27</span></div><div class=\"news-body\">La saison hivernale 2026/27 de l&#x27;avocat pourrait bénéficier d&#x27;un approvisionnement inhabituellement équilibré sur le marché européen. Des volumes d&#x27;exportation significatifs de Hass sont attendus en provenance du Chili, du Maroc, d&#x27;Israël, de la Colombie et de l&#x27;Espagne durant la fenêtre principale. Pour le Maroc, cette campagne est perçue comme celle de la reprise grâce à des conditions favorables. <span class=\"news-reason\">Analyse de la campagne hivernale de l&#x27;avocat Hass incluant Israël et ses concurrents directs (Maroc, Espagne, Colombie, Chili).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9872265/morocco-s-avocado-recovery-rests-on-early-season-discipline/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Forecasts for a balanced supply of Hass avocados for the winter season in Europe -- <span class=\"news-date\">11/09/2026 13:27</span></div><div class=\"news-body\">The 2026/27 winter avocado season could benefit from an unusually balanced supply on the European market. Significant Hass export volumes are expected from Chile, Morocco, Israel, Colombia, and Spain during the main window. For Morocco, this campaign is seen as a recovery one thanks to favorable conditions. <span class=\"news-reason\">Analysis of the Hass avocado winter campaign including Israel and its direct competitors (Morocco, Spain, Colombia, Chile).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9872265/morocco-s-avocado-recovery-rests-on-early-season-discipline/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">תחזיות לאספקה מאוזנת של אבוקדו האס לעונת החורף באירופה -- <span class=\"news-date\">11/09/2026 13:27</span></div><div class=\"news-body\">עונת החורף 2026/27 של האבוקדו עשויה ליהנות מאספקה מאוזנת באופן חריג בשוק האירופי. כמויות ייצוא משמעותיות של האס צפויות מצ'ילה, מרוקו, ישראל, קולומביה וספרד במהלך חלון הזמן העיקרי. עבור מרוקו, קמפיין זה נתפס כקמפיין התאוששות בזכות תנאים נוחים. <span class=\"news-reason\">ניתוח קמפיין החורף של אבוקדו האס הכולל את ישראל ומתחריה הישירים (מרוקו, ספרד, קולומביה, צ'ילה).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9872265/morocco-s-avocado-recovery-rests-on-early-season-discipline/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1789124512_0",
-      "timestamp": "2026-09-11T11:01:52.627801+00:00",
-      "title": "Hausse de 25 % de la production marocaine d&#x27;agrumes -- 11/09/2026 09:09",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Hausse de 25 % de la production marocaine d&#x27;agrumes -- <span class=\"news-date\">11/09/2026 09:09</span></div><div class=\"news-body\">La campagne nationale d&#x27;agrumes 2025-2026 s&#x27;est conclue avec une production estimée à 1,9 million de tonnes, marquant une progression de 25 % par rapport à la saison précédente. Pour la campagne 2026-2027 qui débute, les producteurs se concentrent désormais sur les critères qualitatifs tels que le calibre, la teneur en jus et la coloration pour répondre aux exigences des marchés d&#x27;exportation. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur les volumes de production d&#x27;un concurrent direct (Maroc) pour une catégorie clé de Mehadrin (agrumes).</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/agrumes-ce-qui-se-joue-dans-les-dernieres-semaines-avant-la-cueillette/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">25% increase in Moroccan citrus production -- <span class=\"news-date\">11/09/2026 09:09</span></div><div class=\"news-body\">The 2025-2026 national citrus season concluded with an estimated production of 1.9 million tons, marking a 25% increase compared to the previous season. For the upcoming 2026-2027 season, producers are now focusing on quality criteria such as size, juice content, and color to meet the requirements of export markets. <span class=\"news-reason\">The article provides precise figures on production volumes for a direct competitor (Morocco) for a key Mehadrin category (citrus).</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/agrumes-ce-qui-se-joue-dans-les-dernieres-semaines-avant-la-cueillette/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עלייה של 25% בייצור ההדרים במרוקו -- <span class=\"news-date\">11/09/2026 09:09</span></div><div class=\"news-body\">עונת ההדרים הלאומית 2025-2026 הסתיימה עם ייצור מוערך של 1.9 מיליון טון, המהווה עלייה של 25% לעומת העונה הקודמת. לקראת עונת 2026-2027 שמתחילה כעת, המגדלים מתמקדים בקריטריונים איכותיים כגון גודל הפרי, אחוז המיץ והצבע כדי לעמוד בדרישות שוקי הייצוא. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על כמויות הייצור של מתחרה ישיר (מרוקו) עבור קטגוריית מפתח של מהדרין (הדרים).</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/agrumes-ce-qui-se-joue-dans-les-dernieres-semaines-avant-la-cueillette/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
