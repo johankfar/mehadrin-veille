@@ -1,13 +1,50 @@
 {
-  "last_updated": "2026-09-16T18:33:54.589041+00:00",
-  "article_count": 43,
+  "last_updated": "2026-09-17T05:03:43.581968+00:00",
+  "article_count": 45,
   "attention_points": [
+    {
+      "id": "attention-ad7212d6f8167e4f",
+      "article_id": "1789621423_0",
+      "url": "https://www.freshplaza.it/article/9873292/la-domanda-di-arance-e-piuttosto-buona-al-momento/",
+      "source": "FreshPlaza IT",
+      "title": "Maintien d'une demande soutenue pour les oranges sud-africaines sur",
+      "summary": "Les flux d'exportation vers les zones de consommation restent actifs",
+      "origin_code": "ZAF",
+      "origin_label": "Afrique du Sud",
+      "published_at": "2026-09-17T06:05:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
+      "products": [
+        "orange",
+        "butternut"
+      ],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-d04c87975eed48bb",
+      "article_id": "1789621423_1",
+      "url": "https://www.agrimaroc.ma/a-agadir-morocco-foodex-prepare-les-exportateurs-aux-nouvelles-exigences-europeennes/",
+      "source": "AgriMaroc",
+      "title": "Le Maroc prépare ses exportateurs aux nouvelles exigences européennes",
+      "summary": "Morocco Foodex a organisé une réunion à Agadir le 15 septembre avec les principaux acteurs marocains de la filière fruits et légumes.",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-09-16T14:30:20+00:00",
+      "published_at_source": "rss",
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
+      "products": [],
+      "age_hours": 14
+    },
     {
       "id": "attention-7704faf3eeda8208",
       "article_id": "1789572845_0",
       "url": "https://www.freshplaza.es/article/9873416/el-nino-ha-afectado-en-gran-medida-nuestra-produccion/",
       "source": "FreshPlaza ES",
-      "title": "Incidence d’El Niño sur la production de mandarines",
+      "title": "Impact d’El Niño sur la production de mandarines",
       "summary": "L'entreprise péruvienne Prive rapporte que le phénomène climatique El Niño a fortement impacté sa production.",
       "origin_code": "PER",
       "origin_label": "Pérou",
@@ -20,27 +57,7 @@
         "mandarine",
         "mango"
       ],
-      "age_hours": 5
-    },
-    {
-      "id": "attention-d857e77fc99bc843",
-      "article_id": "1789578248_0",
-      "url": "https://www.freshplaza.es/article/9873597/las-competiciones-de-la-acb-contaran-con-aguacates-y-mangos-espanoles/",
-      "source": "FreshPlaza ES",
-      "title": "Partenariat sportif pour la promotion des avocats",
-      "summary": "L'organisation interprofessionnelle Intertropic, représentant la filière de l'avocat et de la mangue en Espagne, a conclu un accord de parrainage avec l'acb (ligue de basketball).",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-09-16T15:29:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "information",
-      "signal_label": "Information",
-      "icon": "information",
-      "products": [
-        "avocat",
-        "mango"
-      ],
-      "age_hours": 5
+      "age_hours": 15
     },
     {
       "id": "attention-c26dc052a9a0c240",
@@ -59,29 +76,56 @@
       "products": [
         "melon"
       ],
-      "age_hours": 7
-    },
-    {
-      "id": "attention-cf92c40230d1e44a",
-      "article_id": "1789567408_0",
-      "url": "https://www.freshplaza.com/article/9873393/i-wish-we-had-had-twice-as-much-organic-hass-as-we-did-last-season/",
-      "source": "FreshPlaza",
-      "title": "Importante chute de fruits dans les vergers d'avocats",
-      "summary": "Une chute intense de fruits réduit l'offre d'avocats crétois.",
-      "origin_code": "GRC",
-      "origin_label": "Grèce",
-      "published_at": "2026-09-16T13:19:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 7
+      "age_hours": 17
     }
   ],
   "articles": [
+    {
+      "id": "1789621423_2",
+      "timestamp": "2026-09-17T05:03:43.581968+00:00",
+      "title": "Forte présence marocaine annoncée au salon Fruit Attraction 2026 -- 15/09/2026 08:00",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Forte présence marocaine annoncée au salon Fruit Attraction 2026 -- <span class=\"news-date\">15/09/2026 08:00</span></div><div class=\"news-body\">Plus de 30 entreprises et organismes marocains sont officiellement inscrits pour l&#x27;édition 2026 du salon Fruit Attraction à Madrid, qui se déroulera du 6 au 8 octobre. Cette délégation regroupe des producteurs et exportateurs cherchant à renforcer leur positionnement sur le marché international. <span class=\"news-reason\">Présence commerciale massive d&#x27;un concurrent direct (Maroc) sur un événement majeur du secteur en Europe, avec des chiffres précis d&#x27;exposants.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/fruit-attraction-2026-plus-de-30-entreprises-et-acteurs-marocains-annonces-a-madrid/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Strong Moroccan presence announced at Fruit Attraction 2026 -- <span class=\"news-date\">15/09/2026 08:00</span></div><div class=\"news-body\">More than 30 Moroccan companies and organizations are officially registered for the 2026 edition of the Fruit Attraction trade fair in Madrid, which will take place from October 6 to 8. This delegation brings together producers and exporters seeking to strengthen their positioning on the international market. <span class=\"news-reason\">Massive commercial presence of a direct competitor (Morocco) at a major industry event in Europe, with precise exhibitor figures.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/fruit-attraction-2026-plus-de-30-entreprises-et-acteurs-marocains-annonces-a-madrid/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">נוכחות מרוקאית חזקה הוכרזה בתערוכת Fruit Attraction 2026 -- <span class=\"news-date\">15/09/2026 08:00</span></div><div class=\"news-body\">למעלה מ-30 חברות וארגונים מרוקאים רשומים רשמית למהדורת 2026 של תערוכת Fruit Attraction במדריד, שתתקיים בין ה-6 ל-8 באוקטובר. משלחת זו מאגדת יצרנים ויצואנים המבקשים לחזק את מיצובם בשוק הבינלאומי. <span class=\"news-reason\">נוכחות מסחרית מסיבית של מתחרה ישיר (מרוקו) באירוע מרכזי בענף באירופה, עם נתונים מדויקים של מציגים.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/fruit-attraction-2026-plus-de-30-entreprises-et-acteurs-marocains-annonces-a-madrid/\" target=\"_blank\">AgriMaroc -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1789621423_1",
+      "timestamp": "2026-09-17T05:03:43.581968+00:00",
+      "title": "Le Maroc prépare ses exportateurs aux nouvelles exigences européennes -- 16/09/2026 14:30",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Maroc prépare ses exportateurs aux nouvelles exigences européennes -- <span class=\"news-date\">16/09/2026 14:30</span></div><div class=\"news-body\">Morocco Foodex a organisé une réunion à Agadir le 15 septembre avec les principaux acteurs marocains de la filière fruits et légumes. Cette rencontre visait à anticiper les transformations réglementaires et économiques sur les marchés européen et britannique afin de sécuriser les futures campagnes d&#x27;exportation. <span class=\"news-reason\">Information stratégique sur l&#x27;adaptation d&#x27;un concurrent direct (Maroc) aux réglementations du marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/a-agadir-morocco-foodex-prepare-les-exportateurs-aux-nouvelles-exigences-europeennes/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Morocco prepares its exporters for new European requirements -- <span class=\"news-date\">16/09/2026 14:30</span></div><div class=\"news-body\">Morocco Foodex organized a meeting in Agadir on September 15 with the main Moroccan players in the fruit and vegetable sector. This meeting aimed to anticipate regulatory and economic transformations in the European and British markets in order to secure future export campaigns. <span class=\"news-reason\">Strategic information on the adaptation of a direct competitor (Morocco) to European market regulations.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/a-agadir-morocco-foodex-prepare-les-exportateurs-aux-nouvelles-exigences-europeennes/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מרוקו מכינה את היצואנים שלה לדרישות האירופיות החדשות -- <span class=\"news-date\">16/09/2026 14:30</span></div><div class=\"news-body\">Morocco Foodex ארגנה פגישה באגאדיר ב-15 בספטמבר עם השחקנים המרכזיים במרוקו בענף הפירות והירקות. מפגש זה נועד לצפות מראש את השינויים הרגולטוריים והכלכליים בשווקים האירופיים והבריטיים במטרה להבטיח את עונות הייצוא העתידיות. <span class=\"news-reason\">מידע אסטרטגי על הסתגלותו של מתחרה ישיר (מרוקו) לתקנות השוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/a-agadir-morocco-foodex-prepare-les-exportateurs-aux-nouvelles-exigences-europeennes/\" target=\"_blank\">AgriMaroc -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1789621423_0",
+      "timestamp": "2026-09-17T05:03:43.581968+00:00",
+      "title": "Maintien d&#x27;une demande soutenue pour les oranges sud-africaines sur les marchés européens",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "ZAF"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Maintien d&#x27;une demande soutenue pour les oranges sud-africaines sur les marchés européens -- <span class=\"news-date\">17/09/2026 06:05</span></div><div class=\"news-body\">L&#x27;exportateur sud-africain Fresh Union Exports signale une demande mondiale actuellement positive pour les oranges. L&#x27;entreprise poursuit ses expéditions vers plusieurs destinations clés, notamment l&#x27;Union européenne et le Royaume-Uni, pour répondre aux besoins de consommation de la saison. <span class=\"news-reason\">Information sur la dynamique du marché des agrumes en provenance d&#x27;une origine concurrente majeure (Afrique du Sud) vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873292/la-domanda-di-arance-e-piuttosto-buona-al-momento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Sustained demand for South African oranges continues on European markets -- <span class=\"news-date\">17/09/2026 06:05</span></div><div class=\"news-body\">South African exporter Fresh Union Exports reports currently positive global demand for oranges. The company continues its shipments to several key destinations, including the European Union and the United Kingdom, to meet the season&#x27;s consumption needs. <span class=\"news-reason\">Information on the dynamics of the citrus market from a major competing origin (South Africa) to Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873292/la-domanda-di-arance-e-piuttosto-buona-al-momento/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">שמירה על ביקוש יציב לתפוזים מדרום אפריקה בשווקים האירופיים -- <span class=\"news-date\">17/09/2026 06:05</span></div><div class=\"news-body\">היצואנית הדרום אפריקאית Fresh Union Exports מדווחת על ביקוש עולמי חיובי כעת לתפוזים. החברה ממשיכה את המשלוחים למספר יעדים מרכזיים, כולל האיחוד האירופי ובריטניה, כדי לענות על צורכי הצריכה של העונה. <span class=\"news-reason\">מידע על דינמיקת שוק פרי ההדר ממקור תחרותי מרכזי (דרום אפריקה) לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873292/la-domanda-di-arance-e-piuttosto-buona-al-momento/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1789583634_0",
       "timestamp": "2026-09-16T18:33:54.589041+00:00",
@@ -139,7 +183,7 @@
     {
       "id": "1789578248_0",
       "timestamp": "2026-09-16T17:04:08.275150+00:00",
-      "title": "Partenariat sportif pour la promotion des avocats et des mangues d’Espagne",
+      "title": "Partenariat sportif pour la promotion des avocats et des mangues d&#x27;Espagne",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -151,7 +195,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Partenariat sportif pour la promotion des avocats et des mangues d’Espagne -- <span class=\"news-date\">16/09/2026 15:29</span></div><div class=\"news-body\">L&#x27;organisation interprofessionnelle Intertropic, représentant la filière de l&#x27;avocat et de la mangue en Espagne, a conclu un accord de parrainage avec l&#x27;acb (ligue de basketball). À travers la marque « Aguacate y Mango de España by Intertropic », l&#x27;organisation devient fournisseur officiel des compétitions pour renforcer la visibilité de ces deux fruits produits localement. <span class=\"news-reason\">Information sur la stratégie de promotion d&#x27;une origine concurrente sur des produits Mehadrin (avocat/mangue).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873597/las-competiciones-de-la-acb-contaran-con-aguacates-y-mangos-espanoles/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Partenariat sportif pour la promotion des avocats et des mangues d&#x27;Espagne -- <span class=\"news-date\">16/09/2026 15:29</span></div><div class=\"news-body\">L&#x27;organisation interprofessionnelle Intertropic, représentant la filière de l&#x27;avocat et de la mangue en Espagne, a conclu un accord de parrainage avec l&#x27;acb (ligue de basketball). À travers la marque « Aguacate y Mango de España by Intertropic », l&#x27;organisation devient fournisseur officiel des compétitions pour renforcer la visibilité de ces deux fruits produits localement. <span class=\"news-reason\">Information sur la stratégie de promotion d&#x27;une origine concurrente sur des produits Mehadrin (avocat/mangue).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873597/las-competiciones-de-la-acb-contaran-con-aguacates-y-mangos-espanoles/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Sports partnership for the promotion of Spanish avocados and mangoes -- <span class=\"news-date\">16/09/2026 15:29</span></div><div class=\"news-body\">The Intertropic interprofessional organization, representing the avocado and mango sector in Spain, has concluded a sponsorship agreement with the acb (basketball league). Through the brand \"Aguacate y Mango de España by Intertropic\", the organization becomes the official supplier for the competitions to strengthen the visibility of these two locally produced fruits. <span class=\"news-reason\">Information on the promotion strategy of a competing origin for Mehadrin products (avocado/mango).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873597/las-competiciones-de-la-acb-contaran-con-aguacates-y-mangos-espanoles/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">שותפות ספורט לקידום אבוקדו ומנגו מספרד -- <span class=\"news-date\">16/09/2026 15:29</span></div><div class=\"news-body\">הארגון הבין-מקצועי Intertropic, המייצג את ענף האבוקדו והמנגו בספרד, חתם על הסכם חסות עם ה-acb (ליגת הכדורסל). באמצעות המותג « Aguacate y Mango de España by Intertropic », הארגון הופך לספק הרשמי של התחרויות כדי לחזק את הנראות של שני הפירות המיוצרים מקומית. <span class=\"news-reason\">מידע על אסטרטגיית הקידום של מקור מתחרה עבור מוצרי מהדרין (אבוקדו/מנגו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873597/las-competiciones-de-la-acb-contaran-con-aguacates-y-mangos-espanoles/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -192,7 +236,7 @@
     {
       "id": "1789572845_0",
       "timestamp": "2026-09-16T15:34:05.435510+00:00",
-      "title": "Incidence d’El Niño sur la production de mandarines et de grenades au Pérou",
+      "title": "Impact d’El Niño sur la production de mandarines et de grenades au Pérou",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Jessica",
@@ -207,7 +251,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Incidence d’El Niño sur la production de mandarines et de grenades au Pérou -- <span class=\"news-date\">16/09/2026 15:29</span></div><div class=\"news-body\">L&#x27;entreprise péruvienne Prive rapporte que le phénomène climatique El Niño a fortement impacté sa production. La société exporte une gamme incluant des mandarines, des grenades et des avocats. La campagne actuelle est marquée par ces défis climatiques qui réduisent la disponibilité des volumes exportables depuis cette origine du sud. <span class=\"news-reason\">Informations sur l&#x27;impact climatique affectant la production et la disponibilité de produits Mehadrin (mandarines, grenades, avocats) chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873416/el-nino-ha-afectado-en-gran-medida-nuestra-produccion/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact d’El Niño sur la production de mandarines et de grenades au Pérou -- <span class=\"news-date\">16/09/2026 15:29</span></div><div class=\"news-body\">L&#x27;entreprise péruvienne Prive rapporte que le phénomène climatique El Niño a fortement impacté sa production. La société exporte une gamme incluant des mandarines, des grenades et des avocats. La campagne actuelle est marquée par ces défis climatiques qui réduisent la disponibilité des volumes exportables depuis cette origine du sud. <span class=\"news-reason\">Informations sur l&#x27;impact climatique affectant la production et la disponibilité de produits Mehadrin (mandarines, grenades, avocats) chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873416/el-nino-ha-afectado-en-gran-medida-nuestra-produccion/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Impact of El Niño on mandarin and pomegranate production in Peru -- <span class=\"news-date\">16/09/2026 15:29</span></div><div class=\"news-body\">The Peruvian company Prive reports that the El Niño climate phenomenon has heavily impacted its production. The company exports a range including mandarins, pomegranates, and avocados. The current campaign is marked by these climate challenges which reduce the availability of exportable volumes from this southern origin. <span class=\"news-reason\">Information on the climate impact affecting the production and availability of Mehadrin products (mandarins, pomegranates, avocados) at a major competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873416/el-nino-ha-afectado-en-gran-medida-nuestra-produccion/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השפעת אל ניניו על ייצור מנדרינות ורימונים בפרו -- <span class=\"news-date\">16/09/2026 15:29</span></div><div class=\"news-body\">חברת Prive הפרואנית מדווחת כי תופעת האקלים אל ניניו השפיעה קשות על הייצור שלה. החברה מייצאת מגוון הכולל מנדרינות, רימונים ואבוקדו. העונה הנוכחית מתאפיינת באתגרי אקלים אלו, המפחיתים את זמינות הכמויות הניתנות לייצוא ממקור דרומי זה. <span class=\"news-reason\">מידע על השפעת האקלים על הייצור והזמינות של מוצרי מהדרין (מנדרינות, רימונים, אבוקדו) אצל מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873416/el-nino-ha-afectado-en-gran-medida-nuestra-produccion/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -302,7 +346,7 @@
     {
       "id": "1789551211_0",
       "timestamp": "2026-09-16T09:33:31.154720+00:00",
-      "title": "Fin de la campagne de l&#x27;avocat dans le sud du Pérou et transition vers le Chili",
+      "title": "Clôture de la campagne de l&#x27;avocat dans le sud du Pérou et transition vers le Chili",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -314,14 +358,14 @@
         "PER",
         "CHL"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Fin de la campagne de l&#x27;avocat dans le sud du Pérou et transition vers le Chili -- <span class=\"news-date\">16/09/2026 10:18</span></div><div class=\"news-body\">La saison des avocats dans le sud du Pérou touche à sa fin avec des résultats jugés satisfaisants par les producteurs. Il reste environ 100 000 kilogrammes à exporter avant la clôture définitive de la campagne locale. Les opérateurs se préparent désormais à basculer sur la saison de production au Chili. <span class=\"news-reason\">Information critique sur la fin de disponibilité d&#x27;une origine concurrente majeure (Pérou) avec des volumes précis restants.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9873334/avocado-erzeuger-im-suden-perus-sind-mit-der-vergangenen-saison-zufrieden/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Clôture de la campagne de l&#x27;avocat dans le sud du Pérou et transition vers le Chili -- <span class=\"news-date\">16/09/2026 10:18</span></div><div class=\"news-body\">La saison des avocats dans le sud du Pérou touche à sa fin avec des résultats jugés satisfaisants par les producteurs. Il reste environ 100 000 kilogrammes à exporter avant la clôture définitive de la campagne locale. Les opérateurs se préparent désormais à basculer sur la saison de production au Chili. <span class=\"news-reason\">Information critique sur la fin de disponibilité d&#x27;une origine concurrente majeure (Pérou) avec des volumes précis restants.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9873334/avocado-erzeuger-im-suden-perus-sind-mit-der-vergangenen-saison-zufrieden/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">End of the avocado season in southern Peru and transition to Chile -- <span class=\"news-date\">16/09/2026 10:18</span></div><div class=\"news-body\">The avocado season in southern Peru is coming to an end with results considered satisfactory by producers. Approximately 100,000 kilograms remain to be exported before the final closure of the local campaign. Operators are now preparing to switch to the production season in Chile. <span class=\"news-reason\">Critical information on the end of availability from a major competing origin (Peru) with precise remaining volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9873334/avocado-erzeuger-im-suden-perus-sind-mit-der-vergangenen-saison-zufrieden/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיום עונת האבוקדו בדרום פרו ומעבר לצ'ילה -- <span class=\"news-date\">16/09/2026 10:18</span></div><div class=\"news-body\">עונת האבוקדו בדרום פרו מגיעה לסיומה עם תוצאות שנחשבות למשביעות רצון על ידי המגדלים. נותרו כ-100,000 קילוגרמים לייצוא לפני הסגירה הסופית של העונה המקומית. המפעילים מתכוננים כעת לעבור לעונת הייצור בצ'ילה. <span class=\"news-reason\">מידע קריטי על סיום הזמינות של מקור מתחרה מרכזי (פרו) עם כמויות מדויקות שנותרו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9873334/avocado-erzeuger-im-suden-perus-sind-mit-der-vergangenen-saison-zufrieden/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1789545828_0",
       "timestamp": "2026-09-16T08:03:48.605616+00:00",
-      "title": "Pérou : une baisse de 60 % de la production de mangues est attendue",
+      "title": "Pérou : baisse de 60 % de la production de mangues prévue",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -332,7 +376,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Pérou : une baisse de 60 % de la production de mangues est attendue -- <span class=\"news-date\">15/09/2026 15:35</span></div><div class=\"news-body\">Les projections pour la prochaine campagne de mangues au Pérou (2026-2027) indiquent une baisse de production nationale d&#x27;environ 60 % par rapport à l&#x27;année précédente. Cette situation est principalement due aux effets climatiques du phénomène El Niño. Les régions de Motupe, Olmos et Piura sont identifiées comme les zones les plus touchées, avec des répercussions majeures sur les volumes exportables attendus entre décembre et février. <span class=\"news-reason\">Annonce d&#x27;une réduction massive des volumes chez un concurrent majeur (Pérou) pour la prochaine campagne suite à El Niño.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873191/se-preve-una-caida-del-60-en-la-produccion-de-mango-peruano-por-el-nino/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Pérou : baisse de 60 % de la production de mangues prévue -- <span class=\"news-date\">15/09/2026 15:35</span></div><div class=\"news-body\">Les projections pour la prochaine campagne de mangues au Pérou (2026-2027) indiquent une baisse de production nationale d&#x27;environ 60 % par rapport à l&#x27;année précédente. Cette situation est principalement due aux effets climatiques du phénomène El Niño. Les régions de Motupe, Olmos et Piura sont identifiées comme les zones les plus touchées, avec des répercussions majeures sur les volumes exportables attendus entre décembre et février. <span class=\"news-reason\">Annonce d&#x27;une réduction massive des volumes chez un concurrent majeur (Pérou) pour la prochaine campagne suite à El Niño.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873191/se-preve-una-caida-del-60-en-la-produccion-de-mango-peruano-por-el-nino/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Mango production in Peru is expected to fall by 60% -- <span class=\"news-date\">15/09/2026 15:35</span></div><div class=\"news-body\">Projections for the next mango season in Peru (2026-2027) indicate a drop in national production of approximately 60% compared to the previous year. This situation is mainly due to the climatic effects of the El Niño phenomenon. The regions of Motupe, Olmos, and Piura have been identified as the most affected areas, with major repercussions on exportable volumes expected between December and February. <span class=\"news-reason\">Announcement of a massive reduction in volumes from a major competitor (Peru) for the next season following El Niño.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873191/se-preve-una-caida-del-60-en-la-produccion-de-mango-peruano-por-el-nino/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ייצור המנגו בפרו צפוי לצנוח ב-60% -- <span class=\"news-date\">15/09/2026 15:35</span></div><div class=\"news-body\">התחזיות לעונת המנגו הקרובה בפרו (2026-2027) מצביעות על ירידה בייצור הלאומי של כ-60% בהשוואה לשנה הקודמת. מצב זה נובע בעיקר מהשפעות האקלים של תופעת אל ניניו. האזורים מוטופה, אולמוס ופיורה מזוהים כאזורים שנפגעו בצורה הקשה ביותר, עם השלכות משמעותיות על היקפי הייצוא הצפויים בין דצמבר לפברואר. <span class=\"news-reason\">הודעה על הפחתה מאסיבית בכמויות אצל מתחרה מרכזי (פרו) לעונה הקרובה בעקבות אל ניניו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873191/se-preve-una-caida-del-60-en-la-produccion-de-mango-peruano-por-el-nino/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -574,7 +618,7 @@
     {
       "id": "1789475588_1",
       "timestamp": "2026-09-15T12:33:08.434047+00:00",
-      "title": "Recul de 21 % des superficies agrumicoles en Floride pour la campagne 2026/27",
+      "title": "Floride : recul de 21 % des superficies agrumicoles pour la campagne 2026/27",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -583,7 +627,7 @@
         "orange"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul de 21 % des superficies agrumicoles en Floride pour la campagne 2026/27 -- <span class=\"news-date\">15/09/2026 06:05</span></div><div class=\"news-body\">Selon l&#x27;USDA, la superficie commerciale consacrée aux agrumes en Floride a diminué de près de 21 % l&#x27;année dernière. Au début de la campagne 2026/27, cette réduction impacte significativement le potentiel de production d&#x27;oranges dans la région. <span class=\"news-reason\">Données chiffrées de l&#x27;USDA sur la réduction drastique des surfaces d&#x27;agrumes (oranges).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871489/in-calo-del-21-per-cento-la-superficie-agrumicola-della-florida-in-vista-della-nuova-stagione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Floride : recul de 21 % des superficies agrumicoles pour la campagne 2026/27 -- <span class=\"news-date\">15/09/2026 06:05</span></div><div class=\"news-body\">Selon l&#x27;USDA, la superficie commerciale consacrée aux agrumes en Floride a diminué de près de 21 % l&#x27;année dernière. Au début de la campagne 2026/27, cette réduction impacte significativement le potentiel de production d&#x27;oranges dans la région. <span class=\"news-reason\">Données chiffrées de l&#x27;USDA sur la réduction drastique des surfaces d&#x27;agrumes (oranges).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871489/in-calo-del-21-per-cento-la-superficie-agrumicola-della-florida-in-vista-della-nuova-stagione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">21% decline in Florida citrus acreage for the 2026/27 season -- <span class=\"news-date\">15/09/2026 06:05</span></div><div class=\"news-body\">According to the USDA, commercial citrus acreage in Florida decreased by nearly 21% last year. At the start of the 2026/27 season, this reduction significantly impacts the orange production potential in the region. <span class=\"news-reason\">USDA numerical data on the drastic reduction of citrus acreage (oranges).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871489/in-calo-del-21-per-cento-la-superficie-agrumicola-della-florida-in-vista-della-nuova-stagione/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 21% בשטחי ההדרים בפלורידה לעונת 2026/27 -- <span class=\"news-date\">15/09/2026 06:05</span></div><div class=\"news-body\">לפי ה-USDA, השטח המסחרי המוקדש להדרים בפלורידה הצטמצם בכמעט 21% בשנה שעברה. בתחילת עונת 2026/27, צמצום זה משפיע באופן משמעותי על פוטנציאל ייצור התפוזים באזור. <span class=\"news-reason\">נתונים מספריים של ה-USDA על הפחתה דרסטית בשטחי ההדרים (תפוזים).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871489/in-calo-del-21-per-cento-la-superficie-agrumicola-della-florida-in-vista-della-nuova-stagione/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -607,7 +651,7 @@
     {
       "id": "1789470164_0",
       "timestamp": "2026-09-15T11:02:44.085195+00:00",
-      "title": "Culture de melons Charentais sous serre pour le marché régional en Allemagne",
+      "title": "Production de melons Charentais sous serre pour le marché régional en Allemagne",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Sébastien"
@@ -618,14 +662,14 @@
       "origins": [
         "DEU"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Culture de melons Charentais sous serre pour le marché régional en Allemagne -- <span class=\"news-date\">15/09/2026 10:11</span></div><div class=\"news-body\">Une exploitation située dans le Rheingau, en Allemagne, cultive des melons Charentais sous serre pour proposer une alternative régionale aux importations. Les plants, qui atteignent trois mètres de hauteur, portent des fruits arrivant à maturité. Cette initiative mise sur la proximité pour garantir la fraîcheur et compenser la fragilité intrinsèque de cette variété face aux transports longs. <span class=\"news-reason\">Information sur une nouvelle production concurrente de melons sur un marché cible de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/external/9873023/empfindlichkeit-der-charentais-melone-kann-ein-vorteil-fur-eine-regionale-vermarktung-sein/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Production de melons Charentais sous serre pour le marché régional en Allemagne -- <span class=\"news-date\">15/09/2026 10:11</span></div><div class=\"news-body\">Une exploitation située dans le Rheingau, en Allemagne, cultive des melons Charentais sous serre pour proposer une alternative régionale aux importations. Les plants, qui atteignent trois mètres de hauteur, portent des fruits arrivant à maturité. Cette initiative mise sur la proximité pour garantir la fraîcheur et compenser la fragilité intrinsèque de cette variété face aux transports longs. <span class=\"news-reason\">Information sur une nouvelle production concurrente de melons sur un marché cible de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/external/9873023/empfindlichkeit-der-charentais-melone-kann-ein-vorteil-fur-eine-regionale-vermarktung-sein/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Cultivation of Charentais melons in greenhouses for the regional market in Germany -- <span class=\"news-date\">15/09/2026 10:11</span></div><div class=\"news-body\">A farm located in Rheingau, Germany, cultivates Charentais melons in greenhouses to offer a regional alternative to imports. The plants, which reach three meters in height, bear fruit that is reaching maturity. This initiative relies on proximity to ensure freshness and compensate for the intrinsic fragility of this variety during long transport. <span class=\"news-reason\">Information on new competing melon production in one of Mehadrin's target markets.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/external/9873023/empfindlichkeit-der-charentais-melone-kann-ein-vorteil-fur-eine-regionale-vermarktung-sein/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">גידול מלון שארנטה בחממות עבור השוק האזורי בגרמניה -- <span class=\"news-date\">15/09/2026 10:11</span></div><div class=\"news-body\">משק הממוקם בריינגאו, גרמניה, מגדל מלון שארנטה בחממות כדי להציע חלופה אזורית לייבוא. הצמחים, המגיעים לגובה של שלושה מטרים, נושאים פירות המגיעים להבשלה. יוזמה זו מסתמכת על הקרבה כדי להבטיח טריות ולפצות על הרגישות המובנית של זן זה בהובלות ארוכות. <span class=\"news-reason\">מידע על ייצור מלונים מתחרה חדש בשוק יעד של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/external/9873023/empfindlichkeit-der-charentais-melone-kann-ein-vorteil-fur-eine-regionale-vermarktung-sein/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1789448554_1",
       "timestamp": "2026-09-15T05:02:34.657871+00:00",
-      "title": "Baisse des exportations espagnoles de pastèques vers l’UE au profit du Maroc",
+      "title": "Recul des exportations espagnoles de pastèques vers l’UE au profit du Maroc",
       "category": "PRIX &amp VOLUMES",
       "commercials": [],
       "products": [
@@ -635,21 +679,21 @@
         "ESP",
         "MAR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse des exportations espagnoles de pastèques vers l’UE au profit du Maroc -- <span class=\"news-date\">15/09/2026 06:05</span></div><div class=\"news-body\">Un rapport de Hortoinfo indique qu&#x27;au premier semestre 2026, l&#x27;Espagne a assuré 21,45 % des approvisionnements en pastèques de l&#x27;Union européenne. Toutefois, les volumes vendus par l&#x27;Espagne ont diminué de 44,30 % par rapport à 2017, une part de marché captée progressivement par l&#x27;origine marocaine. <span class=\"news-reason\">Contient des données chiffrées précises sur la perte de parts de marché d&#x27;un pays concurrent sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866114/la-spagna-resta-il-fornitore-principale-di-angurie-all-ue-ma-sta-perdendo-terreno-a-favore-del-marocco/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul des exportations espagnoles de pastèques vers l’UE au profit du Maroc -- <span class=\"news-date\">15/09/2026 06:05</span></div><div class=\"news-body\">Un rapport de Hortoinfo indique qu&#x27;au premier semestre 2026, l&#x27;Espagne a assuré 21,45 % des approvisionnements en pastèques de l&#x27;Union européenne. Toutefois, les volumes vendus par l&#x27;Espagne ont diminué de 44,30 % par rapport à 2017, une part de marché captée progressivement par l&#x27;origine marocaine. <span class=\"news-reason\">Contient des données chiffrées précises sur la perte de parts de marché d&#x27;un pays concurrent sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866114/la-spagna-resta-il-fornitore-principale-di-angurie-all-ue-ma-sta-perdendo-terreno-a-favore-del-marocco/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decrease in Spanish watermelon exports to the EU in favor of Morocco -- <span class=\"news-date\">15/09/2026 06:05</span></div><div class=\"news-body\">A Hortoinfo report indicates that in the first half of 2026, Spain accounted for 21.45% of European Union watermelon supplies. However, the volumes sold by Spain decreased by 44.30% compared to 2017, a market share gradually captured by Moroccan origin. <span class=\"news-reason\">Contains precise figures on the loss of market share by a competitor country for a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866114/la-spagna-resta-il-fornitore-principale-di-angurie-all-ue-ma-sta-perdendo-terreno-a-favore-del-marocco/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים ונפחים</div><div class=\"news-title\">ירידה בייצוא האבטיחים הספרדי לאיחוד האירופי לטובת מרוקו -- <span class=\"news-date\">15/09/2026 06:05</span></div><div class=\"news-body\">דו\"ח של Hortoinfo מציין כי במחצית הראשונה של 2026, ספרד סיפקה 21.45% מאספקת האבטיחים לאיחוד האירופי. עם זאת, הכמויות שנמכרו על ידי ספרד ירדו ב-44.30% לעומת 2017, נתח שוק שנתפס בהדרגה על ידי המקור המרוקאי. <span class=\"news-reason\">מכיל נתונים מספריים מדויקים על אובדן נתח שוק של מדינה מתחרה במוצר של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9866114/la-spagna-resta-il-fornitore-principale-di-angurie-all-ue-ma-sta-perdendo-terreno-a-favore-del-marocco/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1789448554_0",
       "timestamp": "2026-09-15T05:02:34.657871+00:00",
-      "title": "Lancement de la campagne des agrumes de Valence : des prix inférieurs à ceux de 2025",
+      "title": "Lancement de la campagne des agrumes à Valence : des prix inférieurs à ceux de 2025",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
       ],
       "products": [],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Lancement de la campagne des agrumes de Valence : des prix inférieurs à ceux de 2025 -- <span class=\"news-date\">15/09/2026 06:05</span></div><div class=\"news-body\">Selon le premier bulletin de la Mesa de Precios de Cítricos de Valence pour la saison 2026/27, le marché des agrumes démarre avec des prix inférieurs à ceux enregistrés en 2025. L&#x27;association AVA-ASAJA rapporte des ventes ralenties et une prudence marquée de la part des acheteurs lors de cette phase initiale de fixation des prix à l&#x27;origine. <span class=\"news-reason\">Fournit les premières cotations officielles de la saison pour les agrumes espagnols, concurrents directs de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871034/il-settore-agrumicolo-valenciano-apre-la-stagione-con-vendite-rallentate-e-prezzi-inferiori-a-quelli-del-2025/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Lancement de la campagne des agrumes à Valence : des prix inférieurs à ceux de 2025 -- <span class=\"news-date\">15/09/2026 06:05</span></div><div class=\"news-body\">Selon le premier bulletin de la Mesa de Precios de Cítricos de Valence pour la saison 2026/27, le marché des agrumes démarre avec des prix inférieurs à ceux enregistrés en 2025. L&#x27;association AVA-ASAJA rapporte des ventes ralenties et une prudence marquée de la part des acheteurs lors de cette phase initiale de fixation des prix à l&#x27;origine. <span class=\"news-reason\">Fournit les premières cotations officielles de la saison pour les agrumes espagnols, concurrents directs de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871034/il-settore-agrumicolo-valenciano-apre-la-stagione-con-vendite-rallentate-e-prezzi-inferiori-a-quelli-del-2025/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Opening of the Valencia citrus season with prices lower than 2025 -- <span class=\"news-date\">15/09/2026 06:05</span></div><div class=\"news-body\">According to the first bulletin of the Valencia Citrus Price Board for the 2026/27 season, the citrus market is starting with prices lower than those recorded in 2025. The AVA-ASAJA association reports slowed sales and marked caution from buyers during this initial phase of setting prices at origin. <span class=\"news-reason\">Provides the first official price quotes of the season for Spanish citrus, direct competitors of Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871034/il-settore-agrumicolo-valenciano-apre-la-stagione-con-vendite-rallentate-e-prezzi-inferiori-a-quelli-del-2025/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים ונפחים</div><div class=\"news-title\">פתיחת עונת פירות ההדר של ולנסיה עם מחירים נמוכים מ-2025 -- <span class=\"news-date\">15/09/2026 06:05</span></div><div class=\"news-body\">לפי הידיעון הראשון של ה-Mesa de Precios de Cítricos של ולנסיה לעונת 2026/27, שוק פירות ההדר מתחיל עם מחירים נמוכים מאלה שנרשמו בשנת 2025. איגוד AVA-ASAJA מדווח על האטה במכירות וזהירות ניכרת מצד הקונים בשלב ראשוני זה של קביעת המחירים במקור. <span class=\"news-reason\">מספק את הציטוטים הרשמיים הראשונים של העונה עבור פירות הדר ספרדיים, המתחרים הישירים של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9871034/il-settore-agrumicolo-valenciano-apre-la-stagione-con-vendite-rallentate-e-prezzi-inferiori-a-quelli-del-2025/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -825,26 +869,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le Maroc s&#x27;impose comme premier fournisseur non-européen de l&#x27;Espagne au premier semestre 2026 -- <span class=\"news-date\">14/09/2026 09:17</span></div><div class=\"news-body\">Au cours du premier semestre 2026, le marché espagnol des fruits et légumes a enregistré une croissance notable de ses importations, atteignant un volume de 2,5 millions selon les premières données. Le Maroc confirme sa position de leader parmi les fournisseurs hors Union européenne, renforçant sa dynamique commerciale vers la péninsule. <span class=\"news-reason\">Données sur la croissance des volumes d&#x27;exportation d&#x27;une origine concurrente majeure vers un marché européen clé.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/le-maroc-premier-fournisseur-non-europeen-de-fruits-et-legumes-pour-lespagne-au-premier-semestre-2026/\" target=\"_blank\">CAGOR -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Morocco emerges as Spain&#x27;s leading non-European supplier in the first half of 2026 -- <span class=\"news-date\">14/09/2026 09:17</span></div><div class=\"news-body\">During the first half of 2026, the Spanish fruit and vegetable market recorded notable growth in its imports, reaching a volume of 2.5 million according to initial data. Morocco confirms its leading position among non-European Union suppliers, strengthening its commercial dynamics towards the peninsula. <span class=\"news-reason\">Data on export volume growth from a major competing origin to a key European market.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/le-maroc-premier-fournisseur-non-europeen-de-fruits-et-legumes-pour-lespagne-au-premier-semestre-2026/\" target=\"_blank\">CAGOR -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מרוקו מבססת את מעמדה כספקית הלא-אירופית המובילה של ספרד במחצית הראשונה של 2026 -- <span class=\"news-date\">14/09/2026 09:17</span></div><div class=\"news-body\">במהלך המחצית הראשונה של 2026, שוק הפירות והירקות הספרדי רשם צמיחה בולטת ביבוא, שהגיע לנפח של 2.5 מיליון על פי נתונים ראשוניים. מרוקו מאשרת את מעמדה כמובילה בקרב הספקיות מחוץ לאיחוד האירופי, ומחזקת את הדינמיקה המסחרית שלה כלפי חצי האי. <span class=\"news-reason\">נתונים על צמיחת נפחי היצוא של מקור מתחרה מרכזי לשוק אירופי מרכזי.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/le-maroc-premier-fournisseur-non-europeen-de-fruits-et-legumes-pour-lespagne-au-premier-semestre-2026/\" target=\"_blank\">CAGOR -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1789362189_0",
-      "timestamp": "2026-09-14T05:03:09.590665+00:00",
-      "title": "Darling Group oriente sa stratégie vers la vente au détail et les produits mûris en Chine -- 11/09/2026 13:27",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Nadia",
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "CHN",
-        "NZL"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Darling Group oriente sa stratégie vers la vente au détail et les produits mûris en Chine -- <span class=\"news-date\">11/09/2026 13:27</span></div><div class=\"news-body\">Darling Group, acteur clé des avocats de Nouvelle-Zélande et des agrumes australiens, modifie son approche du marché chinois en privilégiant les partenariats directs avec la grande distribution au détriment de la vente en gros. Cette évolution répond à une demande croissante pour des fruits de gros calibre et des produits &#x27;prêts à consommer&#x27; (mûris), marquant une transformation structurelle de la valorisation des produits frais dans la région. <span class=\"news-reason\">Information stratégique sur un concurrent majeur (Darling Group) adoptant le mûri et le retail pour l&#x27;avocat et les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9872179/larger-fruit-ready-to-eat-offers-signal-change-in-china-s-avocado-market/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Darling Group shifts its strategy towards retail and ripened products in China -- <span class=\"news-date\">11/09/2026 13:27</span></div><div class=\"news-body\">Darling Group, a key player in New Zealand avocados and Australian citrus, is changing its approach to the Chinese market by favoring direct partnerships with major retailers over wholesale. This evolution responds to a growing demand for large-caliber fruit and 'ready-to-eat' (ripened) products, marking a structural transformation in the valuation of fresh produce in the region. <span class=\"news-reason\">Strategic information on a major competitor (Darling Group) adopting ripening and retail for avocados and citrus.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9872179/larger-fruit-ready-to-eat-offers-signal-change-in-china-s-avocado-market/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות רשתות שיווק</div><div class=\"news-title\">קבוצת דרלינג מכוונת את האסטרטגיה שלה לקמעונאות ולמוצרים שעברו הבשלה בסין -- <span class=\"news-date\">11/09/2026 13:27</span></div><div class=\"news-body\">קבוצת דרלינג (Darling Group), שחקנית מפתח בתחום האבוקדו מניו זילנד ופירות ההדר מאוסטרליה, משנה את הגישה שלה לשוק הסיני על ידי העדפת שותפויות ישירות עם רשתות השיווק הגדולות על פני המכירה הסיטונאית. התפתחות זו עונה על דרישה גוברת לפירות בגודל גדול ולמוצרים &#x27;מוכנים לאכילה&#x27; (שעברו הבשלה), ומסמנת טרנספורמציה מבנית בערך של התוצרת הטרייה באזור. <span class=\"news-reason\">מידע אסטרטגי על מתחרה מרכזי (Darling Group) המאמץ את נושא ההבשלה והמכירה הקמעונאית עבור אבוקדו ופירות הדר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9872179/larger-fruit-ready-to-eat-offers-signal-change-in-china-s-avocado-market/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
