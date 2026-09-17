@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-17T15:33:48.388386+00:00",
-  "article_count": 40,
+  "last_updated": "2026-09-17T18:34:41.373999+00:00",
+  "article_count": 41,
   "attention_points": [
+    {
+      "id": "attention-34968e3107901a1b",
+      "article_id": "1789670081_0",
+      "url": "https://www.freshplaza.es/article/9874182/no-deberia-haber-prisas-por-cosechar-mango-habiendo-una-produccion-un-40-menor/",
+      "source": "FreshPlaza ES",
+      "title": "Espagne : chute de 40 % de la production",
+      "summary": "La campagne espagnole de mangues commence avec une récolte prévisionnelle en baisse de 40 % par rapport aux volumes normaux.",
+      "origin_code": "BRA",
+      "origin_label": "Brésil",
+      "published_at": "2026-09-17T15:57:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "mango"
+      ],
+      "age_hours": 4
+    },
     {
       "id": "attention-3560a9c077881914",
       "article_id": "1789659228_0",
@@ -19,7 +38,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 1
+      "age_hours": 4
     },
     {
       "id": "attention-db2ad8baf31b498c",
@@ -38,7 +57,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 3
+      "age_hours": 6
     },
     {
       "id": "attention-9cebd248d38b3d8a",
@@ -57,29 +76,28 @@
       "products": [
         "pomegranate"
       ],
-      "age_hours": 4
-    },
-    {
-      "id": "attention-c8607abf4864c492",
-      "article_id": "1789632223_0",
-      "url": "https://www.freshplaza.de/article/9873832/sudafrika-beendet-valencia-orangenexporte-2026-in-die-eu/",
-      "source": "FreshPlaza DE",
-      "title": "L'Afrique du Sud suspend ses exportations d'oranges Valencia vers",
-      "summary": "La Citrus Growers' Association (CGA) et le Fresh Produce Exporters' Forum (FPEF) ont officialisé la clôture des exportations d'oranges Valencia vers le marché européen pour la saison 2026.",
-      "origin_code": "ISR",
-      "origin_label": "Israël",
-      "published_at": "2026-09-17T09:22:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [
-        "orange"
-      ],
-      "age_hours": 8
+      "age_hours": 7
     }
   ],
   "articles": [
+    {
+      "id": "1789670081_0",
+      "timestamp": "2026-09-17T18:34:41.373999+00:00",
+      "title": "Espagne : chute de 40 % de la production de mangues -- 17/09/2026 15:57",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : chute de 40 % de la production de mangues -- <span class=\"news-date\">17/09/2026 15:57</span></div><div class=\"news-body\">La campagne espagnole de mangues commence avec une récolte prévisionnelle en baisse de 40 % par rapport aux volumes normaux. Cette réduction de l&#x27;offre locale sur la Costa Tropical s&#x27;accompagne d&#x27;une forte concurrence des exportations brésiliennes qui pèsent sur le marché européen. <span class=\"news-reason\">Information stratégique sur la baisse drastique de l&#x27;offre d&#x27;une origine concurrente majeure en début de saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9874182/no-deberia-haber-prisas-por-cosechar-mango-habiendo-una-produccion-un-40-menor/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: 40% drop in mango production -- <span class=\"news-date\">17/09/2026 15:57</span></div><div class=\"news-body\">The Spanish mango campaign begins with a forecast harvest down 40% compared to normal volumes. This reduction in local supply on the Costa Tropical is accompanied by strong competition from Brazilian exports weighing on the European market. <span class=\"news-reason\">Strategic information on the drastic drop in supply from a major competing origin at the start of the season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9874182/no-deberia-haber-prisas-por-cosechar-mango-habiendo-una-produccion-un-40-menor/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד: ירידה של 40% בייצור המנגו -- <span class=\"news-date\">17/09/2026 15:57</span></div><div class=\"news-body\">עונת המנגו הספרדית מתחילה עם תחזית יבול נמוכה ב-40% בהשוואה לכמויות הרגילות. צמצום זה בהיצע המקומי בקוסטה טרופיקל מלווה בתחרות עזה מצד הייצוא הברזילאי המכביד על השוק האירופי. <span class=\"news-reason\">מידע אסטרטגי על ירידה דרסטית בהיצע ממקור תחרותי מרכזי בתחילת העונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9874182/no-deberia-haber-prisas-por-cosechar-mango-habiendo-una-produccion-un-40-menor/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1789659228_0",
       "timestamp": "2026-09-17T15:33:48.388386+00:00",
@@ -456,7 +474,7 @@
     {
       "id": "1789545828_0",
       "timestamp": "2026-09-16T08:03:48.605616+00:00",
-      "title": "Pérou : la production de mangues devrait chuter de 60 %",
+      "title": "Pérou : une baisse de 60 % de la production de mangues est attendue",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -467,7 +485,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Pérou : la production de mangues devrait chuter de 60 % -- <span class=\"news-date\">15/09/2026 15:35</span></div><div class=\"news-body\">Les projections pour la prochaine campagne de mangues au Pérou (2026-2027) indiquent une baisse de production nationale d&#x27;environ 60 % par rapport à l&#x27;année précédente. Cette situation est principalement due aux effets climatiques du phénomène El Niño. Les régions de Motupe, Olmos et Piura sont identifiées comme les zones les plus touchées, avec des répercussions majeures sur les volumes exportables attendus entre décembre et février. <span class=\"news-reason\">Annonce d&#x27;une réduction massive des volumes chez un concurrent majeur (Pérou) pour la prochaine campagne suite à El Niño.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873191/se-preve-una-caida-del-60-en-la-produccion-de-mango-peruano-por-el-nino/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Pérou : une baisse de 60 % de la production de mangues est attendue -- <span class=\"news-date\">15/09/2026 15:35</span></div><div class=\"news-body\">Les projections pour la prochaine campagne de mangues au Pérou (2026-2027) indiquent une baisse de production nationale d&#x27;environ 60 % par rapport à l&#x27;année précédente. Cette situation est principalement due aux effets climatiques du phénomène El Niño. Les régions de Motupe, Olmos et Piura sont identifiées comme les zones les plus touchées, avec des répercussions majeures sur les volumes exportables attendus entre décembre et février. <span class=\"news-reason\">Annonce d&#x27;une réduction massive des volumes chez un concurrent majeur (Pérou) pour la prochaine campagne suite à El Niño.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873191/se-preve-una-caida-del-60-en-la-produccion-de-mango-peruano-por-el-nino/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Mango production in Peru is expected to fall by 60% -- <span class=\"news-date\">15/09/2026 15:35</span></div><div class=\"news-body\">Projections for the next mango season in Peru (2026-2027) indicate a drop in national production of approximately 60% compared to the previous year. This situation is mainly due to the climatic effects of the El Niño phenomenon. The regions of Motupe, Olmos, and Piura have been identified as the most affected areas, with major repercussions on exportable volumes expected between December and February. <span class=\"news-reason\">Announcement of a massive reduction in volumes from a major competitor (Peru) for the next season following El Niño.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873191/se-preve-una-caida-del-60-en-la-produccion-de-mango-peruano-por-el-nino/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ייצור המנגו בפרו צפוי לצנוח ב-60% -- <span class=\"news-date\">15/09/2026 15:35</span></div><div class=\"news-body\">התחזיות לעונת המנגו הקרובה בפרו (2026-2027) מצביעות על ירידה בייצור הלאומי של כ-60% בהשוואה לשנה הקודמת. מצב זה נובע בעיקר מהשפעות האקלים של תופעת אל ניניו. האזורים מוטופה, אולמוס ופיורה מזוהים כאזורים שנפגעו בצורה הקשה ביותר, עם השלכות משמעותיות על היקפי הייצוא הצפויים בין דצמבר לפברואר. <span class=\"news-reason\">הודעה על הפחתה מאסיבית בכמויות אצל מתחרה מרכזי (פרו) לעונה הקרובה בעקבות אל ניניו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873191/se-preve-una-caida-del-60-en-la-produccion-de-mango-peruano-por-el-nino/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
