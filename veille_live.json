@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-19T08:04:05.580389+00:00",
+  "last_updated": "2026-09-19T09:33:09.617587+00:00",
   "article_count": 44,
   "attention_points": [
+    {
+      "id": "attention-5c20a9988f49b0bc",
+      "article_id": "1789810389_0",
+      "url": "https://www.freshplaza.fr/article/9874299/il-ne-faudrait-pas-se-precipiter-pour-recolter-les-mangues-alors-que-la-production-a-baisse-de-40/",
+      "source": "FreshPlaza FR",
+      "title": "Forte baisse de récolte et pression concurrentielle internationale",
+      "summary": "La production diminue alors que l'offre mondiale reste très soutenue",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
+      "published_at": "2026-09-18T13:47:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "mango"
+      ],
+      "age_hours": 21
+    },
     {
       "id": "attention-97c4434fccb9e992",
       "article_id": "1789740234_1",
@@ -19,24 +38,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 20
-    },
-    {
-      "id": "attention-6e28ee81302cbea2",
-      "article_id": "1789805045_2",
-      "url": "https://www.cga.co.za/week-38-from-the-desk-of-the-ceo-2/",
-      "source": "CGA",
-      "title": "Bilan de fin de campagne pour les agrumes sud-africains",
-      "summary": "L'Association des Producteurs d'Agrumes (CGA) a fait le point sur la fin de saison dans son rapport de la semaine 38.",
-      "origin_code": "ZAF",
-      "origin_label": "Afrique du Sud",
-      "published_at": "2026-09-18T11:37:15+00:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [],
-      "age_hours": 20
+      "age_hours": 21
     },
     {
       "id": "attention-d39d0598d9a65e22",
@@ -55,7 +57,7 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 20
+      "age_hours": 21
     },
     {
       "id": "attention-21e7bd5f9b1de692",
@@ -74,10 +76,67 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 24
+      "age_hours": 25
     }
   ],
   "articles": [
+    {
+      "id": "1789810389_2",
+      "timestamp": "2026-09-19T09:33:09.617587+00:00",
+      "title": "L&#x27;exportateur d&#x27;avocats Karakuta projette une introduction en bourse -- 18/09/2026 13:36",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "KEN"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">L&#x27;exportateur d&#x27;avocats Karakuta projette une introduction en bourse -- <span class=\"news-date\">18/09/2026 13:36</span></div><div class=\"news-body\">La société kényane Karakuta Fresh Produce prépare son introduction à la bourse de Nairobi (NSE). L&#x27;exportateur d&#x27;avocats a déclaré une augmentation de 350 % de son chiffre d&#x27;affaires annuel entre 2024 et 2025. L&#x27;entreprise a également étendu ses surfaces de production pour atteindre plus de 73 hectares de cultures à Juja. <span class=\"news-reason\">Informations sur l&#x27;expansion rapide et la stratégie financière d&#x27;un concurrent kényan sur le segment de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9874439/kenyan-avocado-exporter-pursues-nairobi-stock-exchange-listing/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Avocado exporter Karakuta plans an IPO -- <span class=\"news-date\">18/09/2026 13:36</span></div><div class=\"news-body\">The Kenyan company Karakuta Fresh Produce is preparing for its listing on the Nairobi Securities Exchange (NSE). The avocado exporter reported a 350% increase in its annual turnover between 2024 and 2025. The company has also expanded its production areas to reach over 73 hectares of crops in Juja. <span class=\"news-reason\">Information on the rapid expansion and financial strategy of a Kenyan competitor in the avocado segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9874439/kenyan-avocado-exporter-pursues-nairobi-stock-exchange-listing/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכים בענף הקמעונאות</div><div class=\"news-title\">יצואנית האבוקדו קראקוטה מתכננת הנפקה בבורסה -- <span class=\"news-date\">18/09/2026 13:36</span></div><div class=\"news-body\">החברה הקנייתית Karakuta Fresh Produce נערכת להנפקתה בבורסה של ניירובי (NSE). יצואנית האבוקדו דיווחה על עלייה של 350% במחזור המכירות השנתי שלה בין השנים 2024 ל-2025. החברה גם הרחיבה את שטחי הגידול שלה ליותר מ-73 הקטר של גידולים בג'וג'ה. <span class=\"news-reason\">מידע על ההתרחבות המהירה והאסטרטגיה הפיננסית של מתחרה קנייתי במקטע האבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9874439/kenyan-avocado-exporter-pursues-nairobi-stock-exchange-listing/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1789810389_1",
+      "timestamp": "2026-09-19T09:33:09.617587+00:00",
+      "title": "La production de mangues au Pérou devrait enregistrer une baisse de 60 %",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [
+        "PER"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La production de mangues au Pérou devrait enregistrer une baisse de 60 % -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">Selon l&#x27;expert Milton Calle, la production de mangues au Pérou pour la saison 2026/27 devrait chuter de 60 % par rapport à la campagne précédente. Ce déclin massif est attribué aux effets climatiques d&#x27;El Niño, impactant particulièrement les zones de production de Motupe, Olmos et Piura, ce qui réduira considérablement l&#x27;offre disponible pour l&#x27;exportation. <span class=\"news-reason\">Alerte majeure sur les volumes d&#x27;une origine concurrente clé pour le marché européen de la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873341/previsto-un-calo-del-60-per-cento-nella-produzione-del-mango-peruviano-a-causa-di-el-nino/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Mango production in Peru expected to drop by 60% -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">According to expert Milton Calle, mango production in Peru for the 2026/27 season is expected to drop by 60% compared to the previous campaign. This massive decline is attributed to the climate effects of El Niño, particularly impacting the production areas of Motupe, Olmos, and Piura, which will significantly reduce the supply available for export. <span class=\"news-reason\">Major alert on volumes from a key competing origin for the European mango market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873341/previsto-un-calo-del-60-per-cento-nella-produzione-del-mango-peruviano-a-causa-di-el-nino/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ייצור המנגו בפרו צפוי לרדת ב-60% -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">לדברי המומחה מילטון קאלה, ייצור המנגו בפרו לעונת 2026/27 צפוי לרדת ב-60% בהשוואה לעונה הקודמת. ירידה מאסיבית זו מיוחסת להשפעות האקלימיות של אל ניניו, המשפיעות במיוחד על אזורי הגידול מוטופה, אולמוס ופיורה, דבר שיצמצם משמעותית את ההיצע הזמין לייצוא. <span class=\"news-reason\">התראה משמעותית לגבי הכמויות ממקור תחרותי מרכזי עבור שוק המנגו האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873341/previsto-un-calo-del-60-per-cento-nella-produzione-del-mango-peruviano-a-causa-di-el-nino/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1789810389_0",
+      "timestamp": "2026-09-19T09:33:09.617587+00:00",
+      "title": "Baisse de 40 % de la récolte de mangues en Espagne et début des grenades -- 18/09/2026 13:47",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Jessica",
+        "Ophélie"
+      ],
+      "products": [
+        "mango",
+        "pomegranate"
+      ],
+      "origins": [
+        "ESP",
+        "BRA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse de 40 % de la récolte de mangues en Espagne et début des grenades -- <span class=\"news-date\">18/09/2026 13:47</span></div><div class=\"news-body\">La campagne espagnole de mangues commence avec une production en baisse de 40 % par rapport à l&#x27;année dernière. Le secteur fait face à une forte concurrence de l&#x27;offre brésilienne sur le marché européen. En parallèle, la saison de la grenade débute sur la Costa Tropical de Grenade, avec des perspectives de commercialisation croissantes sur les marchés internationaux. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur la baisse de production d&#x27;un concurrent (Espagne) et mentionne le début de saison de la grenade, produit phare de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9874299/il-ne-faudrait-pas-se-precipiter-pour-recolter-les-mangues-alors-que-la-production-a-baisse-de-40/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">40% drop in the Spanish mango harvest and start of pomegranates -- <span class=\"news-date\">18/09/2026 13:47</span></div><div class=\"news-body\">The Spanish mango campaign begins with production down by 40% compared to last year. The sector faces strong competition from Brazilian supply on the European market. In parallel, the pomegranate season is starting on the Costa Tropical of Granada, with growing marketing prospects on international markets. <span class=\"news-reason\">The article provides precise figures on the production drop of a competitor (Spain) and mentions the start of the pomegranate season, a flagship product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9874299/il-ne-faudrait-pas-se-precipiter-pour-recolter-les-mangues-alors-que-la-production-a-baisse-de-40/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 40% ביבול המנגו בספרד ותחילת עונת הרימונים -- <span class=\"news-date\">18/09/2026 13:47</span></div><div class=\"news-body\">עונת המנגו הספרדית מתחילה עם ירידה של 40% בייצור בהשוואה לשנה שעברה. המגזר מתמודד עם תחרות עזה מצד ההיצע הברזילאי בשוק האירופי. במקביל, עונת הרימונים מתחילה בקוסטה טרופיקל שבגרנדה, עם תחזיות שיווק גדלות בשווקים הבינלאומיים. <span class=\"news-reason\">הכתבה מספקת נתונים מדויקים על הירידה בייצור של מתחרה (ספרד) ומציינת את תחילת עונת הרימונים, מוצר דגל של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9874299/il-ne-faudrait-pas-se-precipiter-pour-recolter-les-mangues-alors-que-la-production-a-baisse-de-40/\" target=\"_blank\">FreshPlaza FR -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1789805045_2",
       "timestamp": "2026-09-19T08:04:05.580389+00:00",
@@ -464,7 +523,7 @@
     {
       "id": "1789670081_0",
       "timestamp": "2026-09-17T18:34:41.373999+00:00",
-      "title": "Espagne : la production de mangues accuse une baisse de 40 %",
+      "title": "Espagne : la production de mangues chute de 40 %",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -475,7 +534,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production de mangues accuse une baisse de 40 % -- <span class=\"news-date\">17/09/2026 15:57</span></div><div class=\"news-body\">La campagne espagnole de mangues commence avec une récolte prévisionnelle en baisse de 40 % par rapport aux volumes normaux. Cette réduction de l&#x27;offre locale sur la Costa Tropical s&#x27;accompagne d&#x27;une forte concurrence des exportations brésiliennes qui pèsent sur le marché européen. <span class=\"news-reason\">Information stratégique sur la baisse drastique de l&#x27;offre d&#x27;une origine concurrente majeure en début de saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9874182/no-deberia-haber-prisas-por-cosechar-mango-habiendo-una-produccion-un-40-menor/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production de mangues chute de 40 % -- <span class=\"news-date\">17/09/2026 15:57</span></div><div class=\"news-body\">La campagne espagnole de mangues commence avec une récolte prévisionnelle en baisse de 40 % par rapport aux volumes normaux. Cette réduction de l&#x27;offre locale sur la Costa Tropical s&#x27;accompagne d&#x27;une forte concurrence des exportations brésiliennes qui pèsent sur le marché européen. <span class=\"news-reason\">Information stratégique sur la baisse drastique de l&#x27;offre d&#x27;une origine concurrente majeure en début de saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9874182/no-deberia-haber-prisas-por-cosechar-mango-habiendo-una-produccion-un-40-menor/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: 40% drop in mango production -- <span class=\"news-date\">17/09/2026 15:57</span></div><div class=\"news-body\">The Spanish mango campaign begins with a forecast harvest down 40% compared to normal volumes. This reduction in local supply on the Costa Tropical is accompanied by strong competition from Brazilian exports weighing on the European market. <span class=\"news-reason\">Strategic information on the drastic drop in supply from a major competing origin at the start of the season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9874182/no-deberia-haber-prisas-por-cosechar-mango-habiendo-una-produccion-un-40-menor/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד: ירידה של 40% בייצור המנגו -- <span class=\"news-date\">17/09/2026 15:57</span></div><div class=\"news-body\">עונת המנגו הספרדית מתחילה עם תחזית יבול נמוכה ב-40% בהשוואה לכמויות הרגילות. צמצום זה בהיצע המקומי בקוסטה טרופיקל מלווה בתחרות עזה מצד הייצוא הברזילאי המכביד על השוק האירופי. <span class=\"news-reason\">מידע אסטרטגי על ירידה דרסטית בהיצע ממקור תחרותי מרכזי בתחילת העונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9874182/no-deberia-haber-prisas-por-cosechar-mango-habiendo-una-produccion-un-40-menor/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -601,7 +660,7 @@
     {
       "id": "1789621423_0",
       "timestamp": "2026-09-17T05:03:43.581968+00:00",
-      "title": "La demande d&#x27;oranges sud-africaines demeure soutenue sur les marchés européens",
+      "title": "La demande d’oranges sud-africaines demeure soutenue sur les marchés européens",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -612,7 +671,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La demande d&#x27;oranges sud-africaines demeure soutenue sur les marchés européens -- <span class=\"news-date\">17/09/2026 06:05</span></div><div class=\"news-body\">L&#x27;exportateur sud-africain Fresh Union Exports signale une demande mondiale actuellement positive pour les oranges. L&#x27;entreprise poursuit ses expéditions vers plusieurs destinations clés, notamment l&#x27;Union européenne et le Royaume-Uni, pour répondre aux besoins de consommation de la saison. <span class=\"news-reason\">Information sur la dynamique du marché des agrumes en provenance d&#x27;une origine concurrente majeure (Afrique du Sud) vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873292/la-domanda-di-arance-e-piuttosto-buona-al-momento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La demande d’oranges sud-africaines demeure soutenue sur les marchés européens -- <span class=\"news-date\">17/09/2026 06:05</span></div><div class=\"news-body\">L&#x27;exportateur sud-africain Fresh Union Exports signale une demande mondiale actuellement positive pour les oranges. L&#x27;entreprise poursuit ses expéditions vers plusieurs destinations clés, notamment l&#x27;Union européenne et le Royaume-Uni, pour répondre aux besoins de consommation de la saison. <span class=\"news-reason\">Information sur la dynamique du marché des agrumes en provenance d&#x27;une origine concurrente majeure (Afrique du Sud) vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873292/la-domanda-di-arance-e-piuttosto-buona-al-momento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Sustained demand for South African oranges continues on European markets -- <span class=\"news-date\">17/09/2026 06:05</span></div><div class=\"news-body\">South African exporter Fresh Union Exports reports currently positive global demand for oranges. The company continues its shipments to several key destinations, including the European Union and the United Kingdom, to meet the season&#x27;s consumption needs. <span class=\"news-reason\">Information on the dynamics of the citrus market from a major competing origin (South Africa) to Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873292/la-domanda-di-arance-e-piuttosto-buona-al-momento/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">שמירה על ביקוש יציב לתפוזים מדרום אפריקה בשווקים האירופיים -- <span class=\"news-date\">17/09/2026 06:05</span></div><div class=\"news-body\">היצואנית הדרום אפריקאית Fresh Union Exports מדווחת על ביקוש עולמי חיובי כעת לתפוזים. החברה ממשיכה את המשלוחים למספר יעדים מרכזיים, כולל האיחוד האירופי ובריטניה, כדי לענות על צורכי הצריכה של העונה. <span class=\"news-reason\">מידע על דינמיקת שוק פרי ההדר ממקור תחרותי מרכזי (דרום אפריקה) לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873292/la-domanda-di-arance-e-piuttosto-buona-al-momento/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -798,59 +857,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Inauguration d&#x27;une station de conditionnement d&#x27;avocats de 15 000 m² en Afrique du Sud -- <span class=\"news-date\">16/09/2026 13:19</span></div><div class=\"news-body\">L&#x27;entreprise Emseni Farming a inauguré une nouvelle station de conditionnement à Kranskop, dans le KwaZulu-Natal. L&#x27;installation de 15 000 m² est dédiée aux avocats et aux poivrons, incluant une chambre froide de 7 000 m² capable de gérer différents régimes de température pour le refroidissement progressif. <span class=\"news-reason\">Information sur l&#x27;expansion des capacités de conditionnement d&#x27;un concurrent majeur (Afrique du Sud) sur l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9873751/south-african-avocado-grower-opens-15-000-m2-packhouse/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Inauguration of a 15,000 m² avocado packing station in South Africa -- <span class=\"news-date\">16/09/2026 13:19</span></div><div class=\"news-body\">The company Emseni Farming has inaugurated a new packing station in Kranskop, KwaZulu-Natal. The 15,000 m² facility is dedicated to avocados and peppers, including a 7,000 m² cold room capable of managing different temperature regimes for progressive cooling. <span class=\"news-reason\">Information on the expansion of packing capacities of a major competitor (South Africa) for avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9873751/south-african-avocado-grower-opens-15-000-m2-packhouse/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תנועות רשתות</div><div class=\"news-title\">חניכת תחנת אריזה לאבוקדו בשטח של 15,000 מ\"ר בדרום אפריקה -- <span class=\"news-date\">16/09/2026 13:19</span></div><div class=\"news-body\">חברת Emseni Farming חנכה תחנת אריזה חדשה בקרנסקופ, בקוואזולו-נטאל. המתקן בשטח של 15,000 מ\"ר מיועד לאבוקדו ופלפלים, וכולל חדר קירור בשטח של 7,000 מ\"ר המסוגל לנהל משטרי טמפרטורה שונים לקירור הדרגתי. <span class=\"news-reason\">מידע על הרחבת יכולות האריזה של מתחרה מרכזי (דרום אפריקה) בתחום האבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9873751/south-african-avocado-grower-opens-15-000-m2-packhouse/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1789551211_2",
-      "timestamp": "2026-09-16T09:33:31.154720+00:00",
-      "title": "Intensification de la sévérité du verdissement des agrumes au Brésil en 2026 -- 15/09/2026 13:35",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [
-        "BRA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Intensification de la sévérité du verdissement des agrumes au Brésil en 2026 -- <span class=\"news-date\">15/09/2026 13:35</span></div><div class=\"news-body\">Selon l&#x27;enquête annuelle de Fundecitrus, la sévérité du verdissement des agrumes (HLB) s&#x27;est accentuée au Brésil en 2026. Le taux de sévérité moyen est passé de 22,7 % à 27 % dans l&#x27;ensemble des vergers, et atteint même 31 % dans les vergers en production. Bien que l&#x27;incidence progresse plus lentement, la dégradation de l&#x27;état des arbres menace les rendements. <span class=\"news-reason\">Alerte sanitaire majeure sur la production d&#x27;agrumes au Brésil, impactant potentiellement l&#x27;offre mondiale.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9873014/citrus-greening-severity-rises-to-27-in-brazil/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Intensification of citrus greening severity in Brazil in 2026 -- <span class=\"news-date\">15/09/2026 13:35</span></div><div class=\"news-body\">According to Fundecitrus' annual survey, the severity of citrus greening (HLB) has increased in Brazil in 2026. The average severity rate rose from 22.7% to 27% across all orchards, even reaching 31% in production orchards. Although the incidence is progressing more slowly, the degradation of the trees' condition threatens yields. <span class=\"news-reason\">Major health alert on citrus production in Brazil, potentially impacting global supply.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9873014/citrus-greening-severity-rises-to-27-in-brazil/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">החרפת חומרת מחלת ההדרים (גרינינג) בברזיל בשנת 2026 -- <span class=\"news-date\">15/09/2026 13:35</span></div><div class=\"news-body\">לפי הסקר השנתי של Fundecitrus, חומרת מחלת ההדרים (HLB) החמירה בברזיל בשנת 2026. שיעור החומרה הממוצע עלה מ-22.7% ל-27% בכלל המטעים, ואף מגיע ל-31% במטעים המניבים. למרות שקצב התפשטות המחלה איטי יותר, ההידרדרות במצב העצים מאיימת על היבולים. <span class=\"news-reason\">התראת בריאות צמחית משמעותית על ייצור ההדרים בברזיל, העשויה להשפיע על ההיצע העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9873014/citrus-greening-severity-rises-to-27-in-brazil/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1789551211_1",
-      "timestamp": "2026-09-16T09:33:31.154720+00:00",
-      "title": "Démarrage de la saison de la patate douce portugaise avec une qualité prometteuse -- 15/09/2026 13:43",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "sweet_potato"
-      ],
-      "origins": [
-        "PRT"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Démarrage de la saison de la patate douce portugaise avec une qualité prometteuse -- <span class=\"news-date\">15/09/2026 13:43</span></div><div class=\"news-body\">La campagne portugaise de patate douce a débuté sous des auspices favorables grâce à des conditions météorologiques propices durant la culture. L&#x27;exportateur Frutas Classe signale un démarrage encourageant avec des perspectives de qualité élevées pour les premiers lots récoltés. <span class=\"news-reason\">Début de campagne d&#x27;une origine concurrente (Portugal) sur un produit phare de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9872343/la-saison-de-la-patate-douce-portugaise-demarre-avec-des-perspectives-de-qualite-encourageantes/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Start of the Portuguese sweet potato season with promising quality -- <span class=\"news-date\">15/09/2026 13:43</span></div><div class=\"news-body\">The Portuguese sweet potato season has started under favorable auspices thanks to conducive weather conditions during cultivation. The exporter Frutas Classe reports an encouraging start with high quality prospects for the first harvested batches. <span class=\"news-reason\">Start of the campaign from a competing origin (Portugal) for a flagship Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9872343/la-saison-de-la-patate-douce-portugaise-demarre-avec-des-perspectives-de-qualite-encourageantes/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">תחילת עונת הבטטה הפורטוגלית עם איכות מבטיחה -- <span class=\"news-date\">15/09/2026 13:43</span></div><div class=\"news-body\">עונת הבטטה הפורטוגלית החלה בסימנים חיוביים הודות לתנאי מזג אוויר נוחים במהלך הגידול. היצואנית Frutas Classe מדווחת על התחלה מעודדת עם צפי לאיכות גבוהה עבור המשלוחים הראשונים שנקטפו. <span class=\"news-reason\">תחילת עונה של מקור מתחרה (פורטוגל) עבור מוצר דגל של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9872343/la-saison-de-la-patate-douce-portugaise-demarre-avec-des-perspectives-de-qualite-encourageantes/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1789551211_0",
-      "timestamp": "2026-09-16T09:33:31.154720+00:00",
-      "title": "Clôture de la campagne de l&#x27;avocat dans le sud du Pérou et transition vers le Chili",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "PER",
-        "CHL"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Clôture de la campagne de l&#x27;avocat dans le sud du Pérou et transition vers le Chili -- <span class=\"news-date\">16/09/2026 10:18</span></div><div class=\"news-body\">La saison des avocats dans le sud du Pérou touche à sa fin avec des résultats jugés satisfaisants par les producteurs. Il reste environ 100 000 kilogrammes à exporter avant la clôture définitive de la campagne locale. Les opérateurs se préparent désormais à basculer sur la saison de production au Chili. <span class=\"news-reason\">Information critique sur la fin de disponibilité d&#x27;une origine concurrente majeure (Pérou) avec des volumes précis restants.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9873334/avocado-erzeuger-im-suden-perus-sind-mit-der-vergangenen-saison-zufrieden/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">End of the avocado season in southern Peru and transition to Chile -- <span class=\"news-date\">16/09/2026 10:18</span></div><div class=\"news-body\">The avocado season in southern Peru is coming to an end with results considered satisfactory by producers. Approximately 100,000 kilograms remain to be exported before the final closure of the local campaign. Operators are now preparing to switch to the production season in Chile. <span class=\"news-reason\">Critical information on the end of availability from a major competing origin (Peru) with precise remaining volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9873334/avocado-erzeuger-im-suden-perus-sind-mit-der-vergangenen-saison-zufrieden/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיום עונת האבוקדו בדרום פרו ומעבר לצ'ילה -- <span class=\"news-date\">16/09/2026 10:18</span></div><div class=\"news-body\">עונת האבוקדו בדרום פרו מגיעה לסיומה עם תוצאות שנחשבות למשביעות רצון על ידי המגדלים. נותרו כ-100,000 קילוגרמים לייצוא לפני הסגירה הסופית של העונה המקומית. המפעילים מתכוננים כעת לעבור לעונת הייצור בצ'ילה. <span class=\"news-reason\">מידע קריטי על סיום הזמינות של מקור מתחרה מרכזי (פרו) עם כמויות מדויקות שנותרו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9873334/avocado-erzeuger-im-suden-perus-sind-mit-der-vergangenen-saison-zufrieden/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
