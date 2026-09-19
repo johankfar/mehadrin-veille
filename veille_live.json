@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-09-19T09:33:09.617587+00:00",
-  "article_count": 44,
+  "last_updated": "2026-09-19T11:03:12.874694+00:00",
+  "article_count": 47,
   "attention_points": [
+    {
+      "id": "attention-5aa8f3e13c67cf6d",
+      "article_id": "1789815792_0",
+      "url": "https://citrusindustry.net/2026/09/18/water-education-succession-among-california-citrus-issues/",
+      "source": "Citrus Industry",
+      "title": "Californie : l'industrie des agrumes face aux défis hydriques",
+      "summary": "Stress hydrique et chaleur intense affectant les vergers",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-09-18T14:00:00+00:00",
+      "published_at_source": "rss",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
+      "products": [],
+      "age_hours": 21
+    },
     {
       "id": "attention-5c20a9988f49b0bc",
       "article_id": "1789810389_0",
@@ -19,7 +36,7 @@
       "products": [
         "mango"
       ],
-      "age_hours": 21
+      "age_hours": 23
     },
     {
       "id": "attention-97c4434fccb9e992",
@@ -38,7 +55,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 21
+      "age_hours": 23
     },
     {
       "id": "attention-d39d0598d9a65e22",
@@ -57,29 +74,62 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 21
-    },
-    {
-      "id": "attention-21e7bd5f9b1de692",
-      "article_id": "1789729511_1",
-      "url": "https://www.freshplaza.de/article/9873697/ich-wunschte-wir-hatten-in-der-letzten-saison-doppelt-so-viele-bio-hass-gehabt/",
-      "source": "FreshPlaza DE",
-      "title": "Grèce : Importante chute de fruits dans les vergers",
-      "summary": "Les vergers d'avocats Bio Hass en Crète subissent actuellement une chute de fruits intense et prolongée en raison des conditions climatiques.",
-      "origin_code": "GRC",
-      "origin_label": "Grèce",
-      "published_at": "2026-09-18T09:45:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 25
+      "age_hours": 23
     }
   ],
   "articles": [
+    {
+      "id": "1789815792_2",
+      "timestamp": "2026-09-19T11:03:12.874694+00:00",
+      "title": "Croissance de la production de dattes au Mexique et aux États-Unis -- 18/09/2026 13:45",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [
+        "date"
+      ],
+      "origins": [
+        "MEX",
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Croissance de la production de dattes au Mexique et aux États-Unis -- <span class=\"news-date\">18/09/2026 13:45</span></div><div class=\"news-body\">Le marché des dattes se consolide en Amérique du Nord grâce à une hausse de la production au Mexique et aux États-Unis, portée par une demande croissante pour les aliments naturels. <span class=\"news-reason\">Expansion de la production de dattes chez des concurrents internationaux (Mehadrin vend des dattes Medjoul).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9873803/la-production-de-dattes-augmente-au-mexique-et-aux-etats-unis-tandis-que-la-consommation-progresse-en-amerique-du-nord/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Growth in date production in Mexico and the United States -- <span class=\"news-date\">18/09/2026 13:45</span></div><div class=\"news-body\">The date market is consolidating in North America thanks to increased production in Mexico and the United States, driven by growing demand for natural foods. <span class=\"news-reason\">Expansion of date production among international competitors (Mehadrin sells Medjool dates).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9873803/la-production-de-dattes-augmente-au-mexique-et-aux-etats-unis-tandis-que-la-consommation-progresse-en-amerique-du-nord/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">צמיחה בייצור התמרים במקסיקו ובארצות הברית -- <span class=\"news-date\">18/09/2026 13:45</span></div><div class=\"news-body\">שוק התמרים מתייצב בצפון אמריקה הודות לעלייה בייצור במקסיקו ובארצות הברית, המונעת מביקוש גובר למזון טבעי. <span class=\"news-reason\">הרחבת ייצור התמרים אצל מתחרים בינלאומיים (מהדרין מוכרת תמרי מג'הול).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9873803/la-production-de-dattes-augmente-au-mexique-et-au-etats-unis-tandis-que-la-consommation-progresse-en-amerique-du-nord/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1789815792_1",
+      "timestamp": "2026-09-19T11:03:12.874694+00:00",
+      "title": "Maroc : des stocks d&#x27;eau au plus haut pour la nouvelle campagne agricole -- 18/09/2026 10:05",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia",
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Maroc : des stocks d&#x27;eau au plus haut pour la nouvelle campagne agricole -- <span class=\"news-date\">18/09/2026 10:05</span></div><div class=\"news-body\">Le Maroc commence sa nouvelle saison agricole avec des niveaux de réserves d&#x27;eau records, sécurisant ainsi l&#x27;irrigation pour les cultures d&#x27;exportation telles que les agrumes et les avocats. <span class=\"news-reason\">Indicateur de production favorable pour un concurrent direct (agrumes et avocats) grâce à des réserves d&#x27;eau optimales.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/revue-de-presse-agricole-18-09-2026/\" target=\"_blank\">CAGOR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Morocco: water stocks at their highest for the new agricultural campaign -- <span class=\"news-date\">18/09/2026 10:05</span></div><div class=\"news-body\">Morocco begins its new agricultural season with record water reserve levels, thus securing irrigation for export crops such as citrus fruits and avocados. <span class=\"news-reason\">Favorable production indicator for a direct competitor (citrus and avocados) thanks to optimal water reserves.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/revue-de-presse-agricole-18-09-2026/\" target=\"_blank\">CAGOR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מרוקו: מאגרי מים בשיא לקראת העונה החקלאית החדשה -- <span class=\"news-date\">18/09/2026 10:05</span></div><div class=\"news-body\">מרוקו מתחילה את העונה החקלאית החדשה עם רמות שיא של עתודות מים, מה שמבטיח את ההשקיה לגידולי ייצוא כמו הדרים ואבוקדו. <span class=\"news-reason\">מחוון ייצור חיובי עבור מתחרה ישיר (הדרים ואבוקדו) הודות לעתודות מים אופטימליות.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/revue-de-presse-agricole-18-09-2026/\" target=\"_blank\">CAGOR -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1789815792_0",
+      "timestamp": "2026-09-19T11:03:12.874694+00:00",
+      "title": "Californie : l&#x27;industrie des agrumes face aux défis hydriques -- 18/09/2026 14:00",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Californie : l&#x27;industrie des agrumes face aux défis hydriques -- <span class=\"news-date\">18/09/2026 14:00</span></div><div class=\"news-body\">Les producteurs d&#x27;agrumes en Californie s&#x27;inquiètent de la disponibilité de l&#x27;eau et de l&#x27;impact des vagues de chaleur intense qui stressent les arbres, menaçant potentiellement les rendements futurs. <span class=\"news-reason\">Information sur les contraintes de production (eau, chaleur) chez un concurrent majeur en agrumes.</span></div><div class=\"news-source\"><a href=\"https://citrusindustry.net/2026/09/18/water-education-succession-among-california-citrus-issues/\" target=\"_blank\">Citrus Industry -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">California: citrus industry faces water challenges -- <span class=\"news-date\">18/09/2026 14:00</span></div><div class=\"news-body\">Citrus growers in California are concerned about water availability and the impact of intense heatwaves stressing trees, potentially threatening future yields. <span class=\"news-reason\">Information on production constraints (water, heat) at a major citrus competitor.</span></div><div class=\"news-source\"><a href=\"https://citrusindustry.net/2026/09/18/water-education-succession-among-california-citrus-issues/\" target=\"_blank\">Citrus Industry -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">קליפורניה: תעשיית ההדרים מתמודדת עם אתגרי מים -- <span class=\"news-date\">18/09/2026 14:00</span></div><div class=\"news-body\">מגדלי ההדרים בקליפורניה מודאגים מזמינות המים ומהשפעת גלי החום הקיצוניים המפעילים לחץ על העצים, מה שעלול לאיים על היבולים העתידיים. <span class=\"news-reason\">מידע על מגבלות ייצור (מים, חום) אצל מתחרה מרכזי בענף ההדרים.</span></div><div class=\"news-source\"><a href=\"https://citrusindustry.net/2026/09/18/water-education-succession-among-california-citrus-issues/\" target=\"_blank\">Citrus Industry -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1789810389_2",
       "timestamp": "2026-09-19T09:33:09.617587+00:00",
@@ -101,7 +151,7 @@
     {
       "id": "1789810389_1",
       "timestamp": "2026-09-19T09:33:09.617587+00:00",
-      "title": "La production de mangues au Pérou devrait enregistrer une baisse de 60 %",
+      "title": "Pérou : la production de mangues devrait reculer de 60 %",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -112,7 +162,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La production de mangues au Pérou devrait enregistrer une baisse de 60 % -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">Selon l&#x27;expert Milton Calle, la production de mangues au Pérou pour la saison 2026/27 devrait chuter de 60 % par rapport à la campagne précédente. Ce déclin massif est attribué aux effets climatiques d&#x27;El Niño, impactant particulièrement les zones de production de Motupe, Olmos et Piura, ce qui réduira considérablement l&#x27;offre disponible pour l&#x27;exportation. <span class=\"news-reason\">Alerte majeure sur les volumes d&#x27;une origine concurrente clé pour le marché européen de la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873341/previsto-un-calo-del-60-per-cento-nella-produzione-del-mango-peruviano-a-causa-di-el-nino/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Pérou : la production de mangues devrait reculer de 60 % -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">Selon l&#x27;expert Milton Calle, la production de mangues au Pérou pour la saison 2026/27 devrait chuter de 60 % par rapport à la campagne précédente. Ce déclin massif est attribué aux effets climatiques d&#x27;El Niño, impactant particulièrement les zones de production de Motupe, Olmos et Piura, ce qui réduira considérablement l&#x27;offre disponible pour l&#x27;exportation. <span class=\"news-reason\">Alerte majeure sur les volumes d&#x27;une origine concurrente clé pour le marché européen de la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873341/previsto-un-calo-del-60-per-cento-nella-produzione-del-mango-peruviano-a-causa-di-el-nino/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Mango production in Peru expected to drop by 60% -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">According to expert Milton Calle, mango production in Peru for the 2026/27 season is expected to drop by 60% compared to the previous campaign. This massive decline is attributed to the climate effects of El Niño, particularly impacting the production areas of Motupe, Olmos, and Piura, which will significantly reduce the supply available for export. <span class=\"news-reason\">Major alert on volumes from a key competing origin for the European mango market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873341/previsto-un-calo-del-60-per-cento-nella-produzione-del-mango-peruviano-a-causa-di-el-nino/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ייצור המנגו בפרו צפוי לרדת ב-60% -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">לדברי המומחה מילטון קאלה, ייצור המנגו בפרו לעונת 2026/27 צפוי לרדת ב-60% בהשוואה לעונה הקודמת. ירידה מאסיבית זו מיוחסת להשפעות האקלימיות של אל ניניו, המשפיעות במיוחד על אזורי הגידול מוטופה, אולמוס ופיורה, דבר שיצמצם משמעותית את ההיצע הזמין לייצוא. <span class=\"news-reason\">התראה משמעותית לגבי הכמויות ממקור תחרותי מרכזי עבור שוק המנגו האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873341/previsto-un-calo-del-60-per-cento-nella-produzione-del-mango-peruviano-a-causa-di-el-nino/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -523,7 +573,7 @@
     {
       "id": "1789670081_0",
       "timestamp": "2026-09-17T18:34:41.373999+00:00",
-      "title": "Espagne : la production de mangues chute de 40 %",
+      "title": "Espagne : la production de mangues enregistre une baisse de 40 %",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -534,7 +584,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production de mangues chute de 40 % -- <span class=\"news-date\">17/09/2026 15:57</span></div><div class=\"news-body\">La campagne espagnole de mangues commence avec une récolte prévisionnelle en baisse de 40 % par rapport aux volumes normaux. Cette réduction de l&#x27;offre locale sur la Costa Tropical s&#x27;accompagne d&#x27;une forte concurrence des exportations brésiliennes qui pèsent sur le marché européen. <span class=\"news-reason\">Information stratégique sur la baisse drastique de l&#x27;offre d&#x27;une origine concurrente majeure en début de saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9874182/no-deberia-haber-prisas-por-cosechar-mango-habiendo-una-produccion-un-40-menor/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production de mangues enregistre une baisse de 40 % -- <span class=\"news-date\">17/09/2026 15:57</span></div><div class=\"news-body\">La campagne espagnole de mangues commence avec une récolte prévisionnelle en baisse de 40 % par rapport aux volumes normaux. Cette réduction de l&#x27;offre locale sur la Costa Tropical s&#x27;accompagne d&#x27;une forte concurrence des exportations brésiliennes qui pèsent sur le marché européen. <span class=\"news-reason\">Information stratégique sur la baisse drastique de l&#x27;offre d&#x27;une origine concurrente majeure en début de saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9874182/no-deberia-haber-prisas-por-cosechar-mango-habiendo-una-produccion-un-40-menor/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: 40% drop in mango production -- <span class=\"news-date\">17/09/2026 15:57</span></div><div class=\"news-body\">The Spanish mango campaign begins with a forecast harvest down 40% compared to normal volumes. This reduction in local supply on the Costa Tropical is accompanied by strong competition from Brazilian exports weighing on the European market. <span class=\"news-reason\">Strategic information on the drastic drop in supply from a major competing origin at the start of the season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9874182/no-deberia-haber-prisas-por-cosechar-mango-habiendo-una-produccion-un-40-menor/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד: ירידה של 40% בייצור המנגו -- <span class=\"news-date\">17/09/2026 15:57</span></div><div class=\"news-body\">עונת המנגו הספרדית מתחילה עם תחזית יבול נמוכה ב-40% בהשוואה לכמויות הרגילות. צמצום זה בהיצע המקומי בקוסטה טרופיקל מלווה בתחרות עזה מצד הייצוא הברזילאי המכביד על השוק האירופי. <span class=\"news-reason\">מידע אסטרטגי על ירידה דרסטית בהיצע ממקור תחרותי מרכזי בתחילת העונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9874182/no-deberia-haber-prisas-por-cosechar-mango-habiendo-una-produccion-un-40-menor/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -660,7 +710,7 @@
     {
       "id": "1789621423_0",
       "timestamp": "2026-09-17T05:03:43.581968+00:00",
-      "title": "La demande d’oranges sud-africaines demeure soutenue sur les marchés européens",
+      "title": "Maintien d&#x27;une demande soutenue pour les oranges sud-africaines sur les marchés européens",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -671,7 +721,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La demande d’oranges sud-africaines demeure soutenue sur les marchés européens -- <span class=\"news-date\">17/09/2026 06:05</span></div><div class=\"news-body\">L&#x27;exportateur sud-africain Fresh Union Exports signale une demande mondiale actuellement positive pour les oranges. L&#x27;entreprise poursuit ses expéditions vers plusieurs destinations clés, notamment l&#x27;Union européenne et le Royaume-Uni, pour répondre aux besoins de consommation de la saison. <span class=\"news-reason\">Information sur la dynamique du marché des agrumes en provenance d&#x27;une origine concurrente majeure (Afrique du Sud) vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873292/la-domanda-di-arance-e-piuttosto-buona-al-momento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Maintien d&#x27;une demande soutenue pour les oranges sud-africaines sur les marchés européens -- <span class=\"news-date\">17/09/2026 06:05</span></div><div class=\"news-body\">L&#x27;exportateur sud-africain Fresh Union Exports signale une demande mondiale actuellement positive pour les oranges. L&#x27;entreprise poursuit ses expéditions vers plusieurs destinations clés, notamment l&#x27;Union européenne et le Royaume-Uni, pour répondre aux besoins de consommation de la saison. <span class=\"news-reason\">Information sur la dynamique du marché des agrumes en provenance d&#x27;une origine concurrente majeure (Afrique du Sud) vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873292/la-domanda-di-arance-e-piuttosto-buona-al-momento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Sustained demand for South African oranges continues on European markets -- <span class=\"news-date\">17/09/2026 06:05</span></div><div class=\"news-body\">South African exporter Fresh Union Exports reports currently positive global demand for oranges. The company continues its shipments to several key destinations, including the European Union and the United Kingdom, to meet the season&#x27;s consumption needs. <span class=\"news-reason\">Information on the dynamics of the citrus market from a major competing origin (South Africa) to Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873292/la-domanda-di-arance-e-piuttosto-buona-al-momento/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">שמירה על ביקוש יציב לתפוזים מדרום אפריקה בשווקים האירופיים -- <span class=\"news-date\">17/09/2026 06:05</span></div><div class=\"news-body\">היצואנית הדרום אפריקאית Fresh Union Exports מדווחת על ביקוש עולמי חיובי כעת לתפוזים. החברה ממשיכה את המשלוחים למספר יעדים מרכזיים, כולל האיחוד האירופי ובריטניה, כדי לענות על צורכי הצריכה של העונה. <span class=\"news-reason\">מידע על דינמיקת שוק פרי ההדר ממקור תחרותי מרכזי (דרום אפריקה) לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873292/la-domanda-di-arance-e-piuttosto-buona-al-momento/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
