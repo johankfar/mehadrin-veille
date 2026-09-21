@@ -1,32 +1,32 @@
 {
-  "last_updated": "2026-09-19T18:32:45.046281+00:00",
-  "article_count": 42,
+  "last_updated": "2026-09-21T05:02:07.507516+00:00",
+  "article_count": 35,
   "attention_points": [
     {
-      "id": "attention-415e7ddadc7904ca",
-      "article_id": "1789821202_0",
-      "url": "https://www.freshplaza.es/article/9873696/ojala-tuvieramos-el-doble-de-hass-ecologico-que-la-temporada-pasada/",
-      "source": "FreshPlaza ES",
-      "title": "Gestion de la charge de récolte des vergers d'avocatiers",
-      "summary": "La production d'avocats se stabilise après une chute de fruits",
-      "origin_code": "GRC",
-      "origin_label": "Grèce",
-      "published_at": "2026-09-18T17:02:00+02:00",
+      "id": "attention-9d1bc57310007d59",
+      "article_id": "1789966927_1",
+      "url": "https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/",
+      "source": "FreshPlaza IT",
+      "title": "Prix à la production record pour l'orange blonde",
+      "summary": "À l'approche de la nouvelle saison, l'orange blonde de Ribera DOP (Sicile) enregistre les prix à la production les plus élevés au monde selon Paolo Parlapiano.",
+      "origin_code": "ITA",
+      "origin_label": "Italie",
+      "published_at": "2026-09-21T06:34:00+02:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [
-        "avocat"
+        "orange"
       ],
-      "age_hours": 27
+      "age_hours": 0
     },
     {
       "id": "attention-808f124688d1f0b2",
       "article_id": "1789821202_2",
       "url": "https://www.freshplaza.es/article/9874669/el-congreso-del-aguacate-se-celebrara-como-antesala-de-fruit-attraction/",
       "source": "FreshPlaza ES",
-      "title": "Madrid accueillera le Congrès de l'Avocat 2026 en amont",
+      "title": "Madrid accueillera le Congrès de l'Avocat 2026 en prélude",
       "summary": "Des experts se réunissent pour discuter du marché de l'avocat",
       "origin_code": null,
       "origin_label": null,
@@ -38,7 +38,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 27
+      "age_hours": 62
     },
     {
       "id": "attention-5aa8f3e13c67cf6d",
@@ -55,7 +55,7 @@
       "signal_label": "Météo",
       "icon": "weather",
       "products": [],
-      "age_hours": 28
+      "age_hours": 63
     },
     {
       "id": "attention-97c4434fccb9e992",
@@ -74,10 +74,47 @@
       "products": [
         "orange"
       ],
-      "age_hours": 30
+      "age_hours": 65
     }
   ],
   "articles": [
+    {
+      "id": "1789966927_1",
+      "timestamp": "2026-09-21T05:02:07.507516+00:00",
+      "title": "Prix à la production record pour l&#x27;orange blonde de Ribera DOP",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "ITA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prix à la production record pour l&#x27;orange blonde de Ribera DOP -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">À l&#x27;approche de la nouvelle saison, l&#x27;orange blonde de Ribera DOP (Sicile) enregistre les prix à la production les plus élevés au monde selon Paolo Parlapiano. Bien que positionné sur un marché de niche, le produit gagne en visibilité commerciale grâce à sa certification DOP. <span class=\"news-reason\">Information sur les prix et le positionnement d&#x27;une origine concurrente (Sicile) pour les oranges, un produit cœur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Record producer prices for the Ribera DOP blonde orange -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">As the new season approaches, the Ribera DOP blonde orange (Sicily) is recording the highest producer prices in the world according to Paolo Parlapiano. Although positioned in a niche market, the product is gaining commercial visibility thanks to its DOP certification. <span class=\"news-reason\">Information on the prices and positioning of a competing origin (Sicily) for oranges, a core product of Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מחירי יצרן שוברים שיאים עבור תפוז הבלונד מריברה DOP -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">לקראת העונה החדשה, תפוז הבלונד מריברה DOP (סיציליה) רושם את מחירי היצרן הגבוהים בעולם לפי פאולו פארלאפיאנו. למרות מיקומו בשוק נישה, המוצר זוכה לנראות מסחרית בזכות הסמכת ה-DOP שלו. <span class=\"news-reason\">מידע על מחירים ומיצוב של מקור מתחרה (סיציליה) עבור תפוזים, מוצר ליבה של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>"
+    },
+    {
+      "id": "1789966927_0",
+      "timestamp": "2026-09-21T05:02:07.507516+00:00",
+      "title": "Promotion de l&#x27;avocat Hass du Pérou sur le marché italien",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ITA",
+        "PER"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Promotion de l&#x27;avocat Hass du Pérou sur le marché italien -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">Dole Italia, en collaboration avec PromPerú, a organisé des activités promotionnelles en magasin les 18 et 19 septembre pour faire découvrir l&#x27;avocat Hass du Pérou aux consommateurs italiens. L&#x27;initiative visait à sensibiliser sur les caractéristiques gustatives et le degré de maturité optimal du fruit. <span class=\"news-reason\">L&#x27;article traite d&#x27;une campagne de promotion en magasin pour l&#x27;avocat Hass péruvien, un produit et une origine concurrents directs de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874827/un-weekend-alla-scoperta-dell-avocado-hass-del-peru/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Promotion of Peruvian Hass avocado on the Italian market -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">Dole Italia, in collaboration with PromPerú, organized in-store promotional activities on September 18 and 19 to introduce Peruvian Hass avocados to Italian consumers. The initiative aimed to raise awareness about the taste characteristics and optimal ripeness of the fruit. <span class=\"news-reason\">The article discusses an in-store promotion campaign for Peruvian Hass avocados, a product and origin that are direct competitors of Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874827/un-weekend-alla-scoperta-dell-avocado-hass-del-peru/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">קידום מכירות של אבוקדו האס מפרו בשוק האיטלקי -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">חברת דול איטליה (Dole Italia), בשיתוף פעולה עם PromPerú, ארגנה פעילויות קידום מכירות בחנויות ב-18 וב-19 בספטמבר כדי להציג את אבוקדו האס מפרו לצרכנים האיטלקים. היוזמה נועדה להעלות את המודעות למאפייני הטעם ולדרגת הבשלות האופטימלית של הפרי. <span class=\"news-reason\">הכתבה עוסקת בקמפיין קידום מכירות בחנויות עבור אבוקדו האס הפרואני, מוצר ומקור המהווים מתחרים ישירים של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874827/un-weekend-alla-scoperta-dell-avocado-hass-del-peru/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>"
+    },
     {
       "id": "1789826610_3",
       "timestamp": "2026-09-19T14:03:30.490383+00:00",
@@ -115,7 +152,7 @@
     {
       "id": "1789821202_2",
       "timestamp": "2026-09-19T12:33:22.579088+00:00",
-      "title": "Madrid accueillera le Congrès de l&#x27;Avocat 2026 en amont de Fruit Attraction",
+      "title": "Madrid accueillera le Congrès de l&#x27;Avocat 2026 en prélude à Fruit Attraction",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Ophélie"
@@ -124,7 +161,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Madrid accueillera le Congrès de l&#x27;Avocat 2026 en amont de Fruit Attraction -- <span class=\"news-date\">18/09/2026 17:02</span></div><div class=\"news-body\">La World Avocado Organization (WAO) organise le Congrès de l&#x27;Avocat 2026 le 5 octobre à Madrid. Cet événement rassemblera les principaux experts et acteurs de la filière pour discuter des enjeux du secteur en amont du salon Fruit Attraction. <span class=\"news-reason\">Événement stratégique majeur pour la filière mondiale de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9874669/el-congreso-del-aguacate-se-celebrara-como-antesala-de-fruit-attraction/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Madrid accueillera le Congrès de l&#x27;Avocat 2026 en prélude à Fruit Attraction -- <span class=\"news-date\">18/09/2026 17:02</span></div><div class=\"news-body\">La World Avocado Organization (WAO) organise le Congrès de l&#x27;Avocat 2026 le 5 octobre à Madrid. Cet événement rassemblera les principaux experts et acteurs de la filière pour discuter des enjeux du secteur en amont du salon Fruit Attraction. <span class=\"news-reason\">Événement stratégique majeur pour la filière mondiale de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9874669/el-congreso-del-aguacate-se-celebrara-como-antesala-de-fruit-attraction/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Madrid will host the 2026 Avocado Congress ahead of Fruit Attraction -- <span class=\"news-date\">18/09/2026 17:02</span></div><div class=\"news-body\">The World Avocado Organization (WAO) is organizing the 2026 Avocado Congress on October 5 in Madrid. This event will bring together key experts and industry players to discuss the sector's challenges ahead of the Fruit Attraction trade show. <span class=\"news-reason\">Major strategic event for the global avocado industry.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9874669/el-congreso-del-aguacate-se-celebrara-como-antesala-de-fruit-attraction/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">שינויים ברשתות השיווק</div><div class=\"news-title\">מדריד תארח את קונגרס האבוקדו 2026 לקראת תערוכת Fruit Attraction -- <span class=\"news-date\">18/09/2026 17:02</span></div><div class=\"news-body\">ארגון האבוקדו העולמי (WAO) מארגן את קונגרס האבוקדו 2026 ב-5 באוקטובר במדריד. אירוע זה יפגיש מומחים ושחקנים מרכזיים בענף כדי לדון באתגרי המגזר לקראת תערוכת Fruit Attraction. <span class=\"news-reason\">אירוע אסטרטגי מרכזי עבור ענף האבוקדו העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9874669/el-congreso-del-aguacate-se-celebrara-como-antesala-de-fruit-attraction/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -622,7 +659,7 @@
     {
       "id": "1789707851_1",
       "timestamp": "2026-09-18T05:04:11.092070+00:00",
-      "title": "Espagne : la production d&#x27;agrumes estimée à 5,74 millions de tonnes",
+      "title": "Espagne : la production d&#x27;agrumes est estimée à 5,74 millions de tonnes",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -631,14 +668,14 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production d&#x27;agrumes estimée à 5,74 millions de tonnes -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">Selon les premières estimations du ministère espagnol de l&#x27;Agriculture, la production d&#x27;agrumes pour la saison 2026/27 devrait atteindre 5 744 841 tonnes. Ce volume représente une légère augmentation de 1,1 % par rapport à la campagne précédente. La nouvelle saison a officiellement débuté le 1er septembre dans les principales régions productrices. <span class=\"news-reason\">Prévisions de récolte détaillées pour un concurrent majeur sur le segment des agrumes avec données chiffrées précises.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873348/la-prima-stima-per-il-raccolto-spagnolo-di-agrumi-2026-27-e-di-5-74-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production d&#x27;agrumes est estimée à 5,74 millions de tonnes -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">Selon les premières estimations du ministère espagnol de l&#x27;Agriculture, la production d&#x27;agrumes pour la saison 2026/27 devrait atteindre 5 744 841 tonnes. Ce volume représente une légère augmentation de 1,1 % par rapport à la campagne précédente. La nouvelle saison a officiellement débuté le 1er septembre dans les principales régions productrices. <span class=\"news-reason\">Prévisions de récolte détaillées pour un concurrent majeur sur le segment des agrumes avec données chiffrées précises.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873348/la-prima-stima-per-il-raccolto-spagnolo-di-agrumi-2026-27-e-di-5-74-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: citrus production estimated at 5.74 million tons -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">According to initial estimates from the Spanish Ministry of Agriculture, citrus production for the 2026/27 season is expected to reach 5,744,841 tons. This volume represents a slight increase of 1.1% compared to the previous campaign. The new season officially began on September 1st in the main producing regions. <span class=\"news-reason\">Detailed harvest forecasts for a major competitor in the citrus segment with precise quantified data.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873348/la-prima-stima-per-il-raccolto-spagnolo-di-agrumi-2026-27-e-di-5-74-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד: ייצור פירות ההדר מוערך ב-5.74 מיליון טונות -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">על פי הערכות ראשוניות של משרד החקלאות הספרדי, ייצור פירות ההדר לעונת 2026/27 צפוי להגיע ל-5,744,841 טונות. נפח זה מייצג עלייה קלה של 1.1% לעומת העונה הקודמת. העונה החדשה החלה רשמית ב-1 בספטמבר באזורי הגידול העיקריים. <span class=\"news-reason\">תחזיות יבול מפורטות עבור מתחרה מרכזי במגזר פירות ההדר עם נתונים מספריים מדויקים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873348/la-prima-stima-per-il-raccolto-spagnolo-di-agrumi-2026-27-e-di-5-74-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1789707851_0",
       "timestamp": "2026-09-18T05:04:11.092070+00:00",
-      "title": "Clôture de la campagne de l&#x27;avocat au Pérou",
+      "title": "Fin de la campagne de l&#x27;avocat au Pérou",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -650,164 +687,9 @@
         "PER",
         "CHL"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Clôture de la campagne de l&#x27;avocat au Pérou -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">La campagne d&#x27;exportation d&#x27;avocats péruviens touche à sa fin avec des résultats globaux en croissance. L&#x27;exportateur Inka Select Fruit indique qu&#x27;il ne reste qu&#x27;environ 100 tonnes de fruits à expédier avant la clôture définitive de la saison. Le marché entame désormais sa transition vers l&#x27;offre en provenance du Chili pour assurer la continuité des approvisionnements. <span class=\"news-reason\">Information factuelle sur la fin de campagne d&#x27;un concurrent direct avec volumes restants chiffrés.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873333/il-peru-conclude-la-stagione-dell-avocado-in-crescita-e-inaugura-quella-dell-uva-con-prezzi-solidi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Fin de la campagne de l&#x27;avocat au Pérou -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">La campagne d&#x27;exportation d&#x27;avocats péruviens touche à sa fin avec des résultats globaux en croissance. L&#x27;exportateur Inka Select Fruit indique qu&#x27;il ne reste qu&#x27;environ 100 tonnes de fruits à expédier avant la clôture définitive de la saison. Le marché entame désormais sa transition vers l&#x27;offre en provenance du Chili pour assurer la continuité des approvisionnements. <span class=\"news-reason\">Information factuelle sur la fin de campagne d&#x27;un concurrent direct avec volumes restants chiffrés.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873333/il-peru-conclude-la-stagione-dell-avocado-in-crescita-e-inaugura-quella-dell-uva-con-prezzi-solidi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">End of the avocado campaign in Peru -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">The Peruvian avocado export campaign is drawing to a close with overall results showing growth. Exporter Inka Select Fruit indicates that only about 100 tons of fruit remain to be shipped before the final close of the season. The market is now beginning its transition to supply from Chile to ensure continuity of supplies. <span class=\"news-reason\">Factual information on the end of a direct competitor&#x27;s campaign with quantified remaining volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873333/il-peru-conclude-la-stagione-dell-avocado-in-crescita-e-inaugura-quella-dell-uva-con-prezzi-solidi/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיום עונת האבוקדו בפרו -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">עונת ייצוא האבוקדו הפרואני מגיעה לסיומה עם תוצאות כלליות בצמיחה. היצואן Inka Select Fruit מציין כי נותרו כ-100 טונות פרי בלבד למשלוח לפני הסגירה הסופית של העונה. השוק מתחיל כעת את המעבר להיצע מצ'ילה כדי להבטיח את רציפות האספקה. <span class=\"news-reason\">מידע עובדתי על סיום עונה של מתחרה ישיר עם נתוני כמויות שנותרו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873333/il-peru-conclude-la-stagione-dell-avocado-in-crescita-e-inaugura-quella-dell-uva-con-prezzi-solidi/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1789670081_0",
-      "timestamp": "2026-09-17T18:34:41.373999+00:00",
-      "title": "Espagne : la production de mangues chute de 40 %",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "mango"
-      ],
-      "origins": [
-        "ESP"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production de mangues chute de 40 % -- <span class=\"news-date\">17/09/2026 15:57</span></div><div class=\"news-body\">La campagne espagnole de mangues commence avec une récolte prévisionnelle en baisse de 40 % par rapport aux volumes normaux. Cette réduction de l&#x27;offre locale sur la Costa Tropical s&#x27;accompagne d&#x27;une forte concurrence des exportations brésiliennes qui pèsent sur le marché européen. <span class=\"news-reason\">Information stratégique sur la baisse drastique de l&#x27;offre d&#x27;une origine concurrente majeure en début de saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9874182/no-deberia-haber-prisas-por-cosechar-mango-habiendo-una-produccion-un-40-menor/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: 40% drop in mango production -- <span class=\"news-date\">17/09/2026 15:57</span></div><div class=\"news-body\">The Spanish mango campaign begins with a forecast harvest down 40% compared to normal volumes. This reduction in local supply on the Costa Tropical is accompanied by strong competition from Brazilian exports weighing on the European market. <span class=\"news-reason\">Strategic information on the drastic drop in supply from a major competing origin at the start of the season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9874182/no-deberia-haber-prisas-por-cosechar-mango-habiendo-una-produccion-un-40-menor/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד: ירידה של 40% בייצור המנגו -- <span class=\"news-date\">17/09/2026 15:57</span></div><div class=\"news-body\">עונת המנגו הספרדית מתחילה עם תחזית יבול נמוכה ב-40% בהשוואה לכמויות הרגילות. צמצום זה בהיצע המקומי בקוסטה טרופיקל מלווה בתחרות עזה מצד הייצוא הברזילאי המכביד על השוק האירופי. <span class=\"news-reason\">מידע אסטרטגי על ירידה דרסטית בהיצע ממקור תחרותי מרכזי בתחילת העונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9874182/no-deberia-haber-prisas-por-cosechar-mango-habiendo-una-produccion-un-40-menor/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1789659228_0",
-      "timestamp": "2026-09-17T15:33:48.388386+00:00",
-      "title": "Le marché italien de l&#x27;orange dominé par les importations d&#x27;outre-mer",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "orange"
-      ],
-      "origins": [
-        "ITA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le marché italien de l&#x27;orange dominé par les importations d&#x27;outre-mer -- <span class=\"news-date\">17/09/2026 15:57</span></div><div class=\"news-body\">Le marché italien de l&#x27;orange traverse une phase de transition vers sa propre production nationale, mais l&#x27;offre reste pour l&#x27;instant largement dominée par les importations d&#x27;outre-mer. Les opérateurs locaux rapportent que les prix sont actuellement stables et favorables à la consommation, en attendant les premières récoltes italiennes. <span class=\"news-reason\">Information sur la transition du marché italien des agrumes (produit Mehadrin) et état de la concurrence internationale.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873719/el-producto-de-ultramar-sigue-dominando-el-mercado-italiano-de-la-naranja-con-precios-favorables-para-el-consumo/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">The Italian orange market dominated by overseas imports -- <span class=\"news-date\">17/09/2026 15:57</span></div><div class=\"news-body\">The Italian orange market is undergoing a transition phase towards its own national production, but for now the supply remains largely dominated by overseas imports. Local operators report that prices are currently stable and favorable for consumption, while waiting for the first Italian harvests. <span class=\"news-reason\">Information on the transition of the Italian citrus market (Mehadrin product) and the state of international competition.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873719/el-producto-de-ultramar-sigue-dominando-el-mercado-italiano-de-la-naranja-con-precios-favorables-para-el-consumo/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">שוק התפוזים האיטלקי נשלט על ידי יבוא מעבר לים -- <span class=\"news-date\">17/09/2026 15:57</span></div><div class=\"news-body\">שוק התפוזים האיטלקי נמצא בשלב של מעבר לייצור המקומי שלו, אך ההיצע נותר כרגע נשלט במידה רבה על ידי יבוא מעבר לים. מפעילים מקומיים מדווחים כי המחירים כיום יציבים ונוחים לצריכה, בהמתנה ליבולים האיטלקיים הראשונים. <span class=\"news-reason\">מידע על המעבר בשוק ההדרים האיטלקי (מוצר מהדרין) ומצב התחרות הבינלאומית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873719/el-producto-de-ultramar-sigue-dominando-el-mercado-italiano-de-la-naranja-con-precios-favorables-para-el-consumo/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1789653838_0",
-      "timestamp": "2026-09-17T14:03:58.905998+00:00",
-      "title": "Adoption de la certification B Corp par le groupe marocain Delassus -- 17/09/2026 12:05",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Nadia",
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Adoption de la certification B Corp par le groupe marocain Delassus -- <span class=\"news-date\">17/09/2026 12:05</span></div><div class=\"news-body\">Le groupe Delassus, l&#x27;un des principaux exportateurs marocains de fruits, a obtenu la certification B Corp en juin 2026. Cette certification internationale évalue l&#x27;impact social et environnemental des entreprises. Delassus rejoint ainsi une communauté restreinte d&#x27;acteurs agricoles marocains certifiés, aux côtés de Duroc et Centrale Danone Maroc. <span class=\"news-reason\">Information stratégique sur un concurrent majeur de Mehadrin (agrumes/avocats) au Maroc.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/b-corp-pourquoi-cette-certification-commence-a-compter-dans-lagriculture-marocaine/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">BRAND MOVEMENTS</div><div class=\"news-title\">Adoption of B Corp certification by the Moroccan group Delassus -- <span class=\"news-date\">17/09/2026 12:05</span></div><div class=\"news-body\">The Delassus Group, one of the leading Moroccan fruit exporters, obtained B Corp certification in June 2026. This international certification evaluates the social and environmental impact of companies. Delassus thus joins a restricted community of certified Moroccan agricultural players, alongside Duroc and Centrale Danone Maroc. <span class=\"news-reason\">Strategic information on a major competitor of Mehadrin (citrus/avocados) in Morocco.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/b-corp-pourquoi-cette-certification-commence-a-compter-dans-lagriculture-marocaine/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות מותגים</div><div class=\"news-title\">אימוץ הסמכת B Corp על ידי הקבוצה המרוקאית Delassus -- <span class=\"news-date\">17/09/2026 12:05</span></div><div class=\"news-body\">קבוצת Delassus, אחת מיצואניות הפירות המובילות במרוקו, קיבלה את הסמכת B Corp ביוני 2026. הסמכה בינלאומית זו מעריכה את ההשפעה החברתית והסביבתית של חברות. בכך מצטרפת Delassus לקהילה מצומצמת של גורמים חקלאיים מרוקאים מוסמכים, לצד Duroc ו-Centrale Danone Maroc. <span class=\"news-reason\">מידע אסטרטגי על מתחרה מרכזי של מהדרין (הדרים/אבוקדו) במרוקו.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/b-corp-pourquoi-cette-certification-commence-a-compter-dans-lagriculture-marocaine/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1789648456_0",
-      "timestamp": "2026-09-17T12:34:16.391332+00:00",
-      "title": "Effondrement de 50 à 70 % du prix des grenades afghanes -- 17/09/2026 13:23",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Jessica"
-      ],
-      "products": [
-        "pomegranate"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Effondrement de 50 à 70 % du prix des grenades afghanes -- <span class=\"news-date\">17/09/2026 13:23</span></div><div class=\"news-body\">Dans la province de Kandahar, en Afghanistan, les prix des grenades ont chuté de 50 à 70 % à la suite de la fermeture des routes commerciales avec le Pakistan. Ce blocage logistique au poste-frontière de Spin Boldak empêche l&#x27;exportation des fruits vers les marchés internationaux, provoquant une saturation de l&#x27;offre locale et une baisse drastique des cours pour les producteurs. <span class=\"news-reason\">Article contenant des chiffres précis sur l&#x27;évolution des prix d&#x27;un produit Mehadrin actuellement en saison (grenade).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9873951/afghan-grape-and-pomegranate-prices-fall-50-70-after-border-closures/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">50 to 70% collapse in the price of Afghan pomegranates -- <span class=\"news-date\">17/09/2026 13:23</span></div><div class=\"news-body\">In the Kandahar province of Afghanistan, pomegranate prices have plummeted by 50 to 70% following the closure of trade routes with Pakistan. This logistical blockage at the Spin Boldak border crossing prevents fruit exports to international markets, causing a saturation of local supply and a drastic drop in prices for producers. <span class=\"news-reason\">Article containing precise figures on the price evolution of a Mehadrin product currently in season (pomegranate).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9873951/afghan-grape-and-pomegranate-prices-fall-50-70-after-border-closures/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">צניחה של 50 עד 70 אחוזים במחירי הרימונים האפגניים -- <span class=\"news-date\">17/09/2026 13:23</span></div><div class=\"news-body\">במחוז קנדהאר שבאפגניסטן, מחירי הרימונים צנחו ב-50 עד 70 אחוזים בעקבות סגירת נתיבי המסחר עם פקיסטן. החסימה הלוגיסטית במעבר הגבול ספין בולדק מונעת את ייצוא הפירות לשווקים הבינלאומיים, מה שגורם לרוויה של ההיצע המקומי ולירידה דרסטית במחירים עבור המגדלים. <span class=\"news-reason\">כתבה המכילה נתונים מדויקים על התפתחות המחירים של מוצר מהדרין הנמצא כעת בעונה (רימון).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9873951/afghan-grape-and-pomegranate-prices-fall-50-70-after-border-closures/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1789643026_0",
-      "timestamp": "2026-09-17T11:03:46.474158+00:00",
-      "title": "Le Maroc entame la campagne agricole avec ses meilleures réserves d&#x27;eau depuis dix ans -- 17/09/2026 10:04",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Nadia",
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le Maroc entame la campagne agricole avec ses meilleures réserves d&#x27;eau depuis dix ans -- <span class=\"news-date\">17/09/2026 10:04</span></div><div class=\"news-body\">Au démarrage de la nouvelle campagne agricole 2026/2027, le Maroc affiche un niveau de réserves en eau record. Il s&#x27;agit du niveau le plus élevé constaté au cours des dix dernières années, ce qui favorise les perspectives de production pour les cultures d&#x27;exportation après plusieurs années de stress hydrique. <span class=\"news-reason\">Information stratégique sur les ressources hydriques du Maroc, sécurisant les capacités de production et d&#x27;exportation pour les agrumes et les avocats.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/revue-de-presse-agricole-17-09-2026/\" target=\"_blank\">CAGOR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Morocco begins the agricultural campaign with its best water reserves in ten years -- <span class=\"news-date\">17/09/2026 10:04</span></div><div class=\"news-body\">At the start of the new 2026/2027 agricultural campaign, Morocco shows a record level of water reserves. This is the highest level observed in the last ten years, which favors production prospects for export crops after several years of water stress. <span class=\"news-reason\">Strategic information on Morocco's water resources, securing production and export capacities for citrus fruits and avocados.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/revue-de-presse-agricole-17-09-2026/\" target=\"_blank\">CAGOR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מרוקו פותחת את העונה החקלאית עם עתודות המים הטובות ביותר שלה מזה עשר שנים -- <span class=\"news-date\">17/09/2026 10:04</span></div><div class=\"news-body\">עם תחילת העונה החקלאית החדשה 2026/2027, מרוקו מציגה רמת שיא של עתודות מים. זוהי הרמה הגבוהה ביותר שנרשמה במהלך עשר השנים האחרונות, מה שמשפר את תחזיות הייצור עבור גידולי הייצוא לאחר מספר שנים של עקת מים. <span class=\"news-reason\">מידע אסטרטגי על משאבי המים של מרוקו, המבטיח את יכולות הייצור והייצוא עבור פירות הדר ואבוקדו.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/revue-de-presse-agricole-17-09-2026/\" target=\"_blank\">CAGOR -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1789632223_0",
-      "timestamp": "2026-09-17T08:03:43.719572+00:00",
-      "title": "L&#x27;Afrique du Sud suspend ses exportations d&#x27;oranges Valencia vers l&#x27;UE",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "orange"
-      ],
-      "origins": [
-        "ISR",
-        "ZAF"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;Afrique du Sud suspend ses exportations d&#x27;oranges Valencia vers l&#x27;UE -- <span class=\"news-date\">17/09/2026 09:22</span></div><div class=\"news-body\">La Citrus Growers&#x27; Association (CGA) et le Fresh Produce Exporters&#x27; Forum (FPEF) ont officialisé la clôture des exportations d&#x27;oranges Valencia vers le marché européen pour la saison 2026. Cette décision entraîne l&#x27;arrêt des inspections dans les stations de conditionnement pour les fruits destinés à l&#x27;Europe, marquant la fin de la présence sud-africaine sur ce segment. <span class=\"news-reason\">Information stratégique sur la fin de campagne d&#x27;une origine concurrente majeure, impactant l&#x27;offre de début de saison israélienne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9873832/sudafrika-beendet-valencia-orangenexporte-2026-in-die-eu/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">South Africa suspends Valencia orange exports to the EU -- <span class=\"news-date\">17/09/2026 09:22</span></div><div class=\"news-body\">The Citrus Growers&#x27; Association (CGA) and the Fresh Produce Exporters&#x27; Forum (FPEF) have formalized the closure of Valencia orange exports to the European market for the 2026 season. This decision leads to the cessation of inspections at packing stations for fruit destined for Europe, marking the end of the South African presence in this segment. <span class=\"news-reason\">Strategic information on the end of the season for a major competing origin, impacting the early-season Israeli supply.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9873832/sudafrika-beendet-valencia-orangenexporte-2026-in-die-eu/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">דרום אפריקה משעה את יצוא תפוזי הוולנסיה לאיחוד האירופי -- <span class=\"news-date\">17/09/2026 09:22</span></div><div class=\"news-body\">איגוד מגדלי ההדרים (CGA) ופורום יצואני התוצרת הטרייה (FPEF) הכריזו רשמית על סיום יצוא תפוזי הוולנסיה לשוק האירופי לעונת 2026. החלטה זו מביאה להפסקת הבדיקות בתחנות האריזה עבור פירות המיועדים לאירופה, ומסמנת את סיום הנוכחות הדרום אפריקאית במגזר זה. <span class=\"news-reason\">מידע אסטרטגי על סיום העונה של מקור מתחרה עיקרי, המשפיע על ההיצע בתחילת העונה הישראלית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9873832/sudafrika-beendet-valencia-orangenexporte-2026-in-die-eu/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1789621423_2",
-      "timestamp": "2026-09-17T05:03:43.581968+00:00",
-      "title": "Forte présence marocaine annoncée au salon Fruit Attraction 2026 -- 15/09/2026 08:00",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [],
-      "products": [],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Forte présence marocaine annoncée au salon Fruit Attraction 2026 -- <span class=\"news-date\">15/09/2026 08:00</span></div><div class=\"news-body\">Plus de 30 entreprises et organismes marocains sont officiellement inscrits pour l&#x27;édition 2026 du salon Fruit Attraction à Madrid, qui se déroulera du 6 au 8 octobre. Cette délégation regroupe des producteurs et exportateurs cherchant à renforcer leur positionnement sur le marché international. <span class=\"news-reason\">Présence commerciale massive d&#x27;un concurrent direct (Maroc) sur un événement majeur du secteur en Europe, avec des chiffres précis d&#x27;exposants.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/fruit-attraction-2026-plus-de-30-entreprises-et-acteurs-marocains-annonces-a-madrid/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Strong Moroccan presence announced at Fruit Attraction 2026 -- <span class=\"news-date\">15/09/2026 08:00</span></div><div class=\"news-body\">More than 30 Moroccan companies and organizations are officially registered for the 2026 edition of the Fruit Attraction trade fair in Madrid, which will take place from October 6 to 8. This delegation brings together producers and exporters seeking to strengthen their positioning on the international market. <span class=\"news-reason\">Massive commercial presence of a direct competitor (Morocco) at a major industry event in Europe, with precise exhibitor figures.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/fruit-attraction-2026-plus-de-30-entreprises-et-acteurs-marocains-annonces-a-madrid/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">נוכחות מרוקאית חזקה הוכרזה בתערוכת Fruit Attraction 2026 -- <span class=\"news-date\">15/09/2026 08:00</span></div><div class=\"news-body\">למעלה מ-30 חברות וארגונים מרוקאים רשומים רשמית למהדורת 2026 של תערוכת Fruit Attraction במדריד, שתתקיים בין ה-6 ל-8 באוקטובר. משלחת זו מאגדת יצרנים ויצואנים המבקשים לחזק את מיצובם בשוק הבינלאומי. <span class=\"news-reason\">נוכחות מסחרית מסיבית של מתחרה ישיר (מרוקו) באירוע מרכזי בענף באירופה, עם נתונים מדויקים של מציגים.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/fruit-attraction-2026-plus-de-30-entreprises-et-acteurs-marocains-annonces-a-madrid/\" target=\"_blank\">AgriMaroc -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1789621423_1",
-      "timestamp": "2026-09-17T05:03:43.581968+00:00",
-      "title": "Le Maroc prépare ses exportateurs aux nouvelles exigences européennes -- 16/09/2026 14:30",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [],
-      "products": [],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Maroc prépare ses exportateurs aux nouvelles exigences européennes -- <span class=\"news-date\">16/09/2026 14:30</span></div><div class=\"news-body\">Morocco Foodex a organisé une réunion à Agadir le 15 septembre avec les principaux acteurs marocains de la filière fruits et légumes. Cette rencontre visait à anticiper les transformations réglementaires et économiques sur les marchés européen et britannique afin de sécuriser les futures campagnes d&#x27;exportation. <span class=\"news-reason\">Information stratégique sur l&#x27;adaptation d&#x27;un concurrent direct (Maroc) aux réglementations du marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/a-agadir-morocco-foodex-prepare-les-exportateurs-aux-nouvelles-exigences-europeennes/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Morocco prepares its exporters for new European requirements -- <span class=\"news-date\">16/09/2026 14:30</span></div><div class=\"news-body\">Morocco Foodex organized a meeting in Agadir on September 15 with the main Moroccan players in the fruit and vegetable sector. This meeting aimed to anticipate regulatory and economic transformations in the European and British markets in order to secure future export campaigns. <span class=\"news-reason\">Strategic information on the adaptation of a direct competitor (Morocco) to European market regulations.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/a-agadir-morocco-foodex-prepare-les-exportateurs-aux-nouvelles-exigences-europeennes/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מרוקו מכינה את היצואנים שלה לדרישות האירופיות החדשות -- <span class=\"news-date\">16/09/2026 14:30</span></div><div class=\"news-body\">Morocco Foodex ארגנה פגישה באגאדיר ב-15 בספטמבר עם השחקנים המרכזיים במרוקו בענף הפירות והירקות. מפגש זה נועד לצפות מראש את השינויים הרגולטוריים והכלכליים בשווקים האירופיים והבריטיים במטרה להבטיח את עונות הייצוא העתידיות. <span class=\"news-reason\">מידע אסטרטגי על הסתגלותו של מתחרה ישיר (מרוקו) לתקנות השוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/a-agadir-morocco-foodex-prepare-les-exportateurs-aux-nouvelles-exigences-europeennes/\" target=\"_blank\">AgriMaroc -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1789621423_0",
-      "timestamp": "2026-09-17T05:03:43.581968+00:00",
-      "title": "Maintien d&#x27;une demande soutenue pour les oranges sud-africaines sur les marchés européens",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "orange"
-      ],
-      "origins": [
-        "ZAF"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Maintien d&#x27;une demande soutenue pour les oranges sud-africaines sur les marchés européens -- <span class=\"news-date\">17/09/2026 06:05</span></div><div class=\"news-body\">L&#x27;exportateur sud-africain Fresh Union Exports signale une demande mondiale actuellement positive pour les oranges. L&#x27;entreprise poursuit ses expéditions vers plusieurs destinations clés, notamment l&#x27;Union européenne et le Royaume-Uni, pour répondre aux besoins de consommation de la saison. <span class=\"news-reason\">Information sur la dynamique du marché des agrumes en provenance d&#x27;une origine concurrente majeure (Afrique du Sud) vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873292/la-domanda-di-arance-e-piuttosto-buona-al-momento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Sustained demand for South African oranges continues on European markets -- <span class=\"news-date\">17/09/2026 06:05</span></div><div class=\"news-body\">South African exporter Fresh Union Exports reports currently positive global demand for oranges. The company continues its shipments to several key destinations, including the European Union and the United Kingdom, to meet the season&#x27;s consumption needs. <span class=\"news-reason\">Information on the dynamics of the citrus market from a major competing origin (South Africa) to Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873292/la-domanda-di-arance-e-piuttosto-buona-al-momento/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">שמירה על ביקוש יציב לתפוזים מדרום אפריקה בשווקים האירופיים -- <span class=\"news-date\">17/09/2026 06:05</span></div><div class=\"news-body\">היצואנית הדרום אפריקאית Fresh Union Exports מדווחת על ביקוש עולמי חיובי כעת לתפוזים. החברה ממשיכה את המשלוחים למספר יעדים מרכזיים, כולל האיחוד האירופי ובריטניה, כדי לענות על צורכי הצריכה של העונה. <span class=\"news-reason\">מידע על דינמיקת שוק פרי ההדר ממקור תחרותי מרכזי (דרום אפריקה) לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873292/la-domanda-di-arance-e-piuttosto-buona-al-momento/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
