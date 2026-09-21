@@ -1,10 +1,50 @@
 {
-  "last_generated": "2026-09-21T05:02:07.507516+00:00",
+  "last_generated": "2026-09-21T06:31:39.294140+00:00",
   "articles": [
+    {
+      "id": "1789972299_0",
+      "timestamp": "2026-09-21T06:31:39.294140+00:00",
+      "title": "Alerte météo au Maroc : orages et grêle menacent les cultures -- 21/09/2026 02:04",
+      "title_hash": "alerte météo maroc orages grêle menacent cultures",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia",
+        "Ophélie",
+        "Sébastien"
+      ],
+      "products": [
+        "avocat",
+        "orange"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Alerte météo au Maroc : orages et grêle menacent les cultures -- <span class=\"news-date\">21/09/2026 02:04</span></div><div class=\"news-body\">La Direction générale de la météorologie (DGM) a émis un bulletin d&#x27;alerte de niveau orange pour plusieurs provinces du Maroc entre le dimanche 20 et le mardi 22 septembre 2026. Les prévisions annoncent des averses orageuses localement accompagnées de grêle, de fortes rafales de vent et des températures élevées. <span class=\"news-reason\">Alerte météorologique critique dans une origine concurrente majeure (Maroc) pouvant impacter la qualité et la disponibilité des agrumes et avocats.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/alerte-meteo-orages-grele-chaleur-et-fortes-rafales-dans-plusieurs-provinces/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Weather alert in Morocco: thunderstorms and hail threaten crops -- <span class=\"news-date\">21/09/2026 02:04</span></div><div class=\"news-body\">The General Directorate of Meteorology (DGM) has issued an orange level alert bulletin for several provinces of Morocco between Sunday, September 20 and Tuesday, September 22, 2026. The forecast predicts stormy showers locally accompanied by hail, strong wind gusts, and high temperatures. <span class=\"news-reason\">Critical meteorological alert in a major competing origin (Morocco) that could impact the quality and availability of citrus fruits and avocados.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/alerte-meteo-orages-grele-chaleur-et-fortes-rafales-dans-plusieurs-provinces/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">התראת מזג אוויר במרוקו: סופות רעמים וברד מאיימים על הגידולים -- <span class=\"news-date\">21/09/2026 02:04</span></div><div class=\"news-body\">השירות המטאורולוגי הלאומי (DGM) פרסם הודעת אזהרה בדרגה כתומה עבור מספר מחוזות במרוקו בין יום ראשון ה-20 ליום שלישי ה-22 בספטמבר 2026. התחזיות צופות ממטרים מלווים בסופות רעמים וברד מקומי, משבי רוח חזקים וטמפרטורות גבוהות. <span class=\"news-reason\">התראת מזג אוויר קריטית במקור ייצור מתחרה מרכזי (מרוקו) שעלולה להשפיע על האיכות והזמינות של פירות הדר ואבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/alerte-meteo-orages-grele-chaleur-et-fortes-rafales-dans-plusieurs-provinces/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>",
+      "rss_metadata": {
+        "id": "rss-8273d4a30f8bbfa4",
+        "title": "Alerte météo : orages, grêle, chaleur et fortes rafales dans plusieurs provinces",
+        "summary": "La Direction générale de la météorologie (DGM) prévoit des averses orageuses, un temps chaud et de fortes rafales de vent dans plusieurs provinces du Royaume entre dimanche 20 et mardi 22 septembre 2026. Ces phénomènes font l’objet d’un bulletin d’alerte de niveau orange. Des averses orageuses accompagnées localement de grêle et de rafales sous orages […]",
+        "url": "https://www.agrimaroc.ma/alerte-meteo-orages-grele-chaleur-et-fortes-rafales-dans-plusieurs-provinces/",
+        "source": "AgriMaroc",
+        "published_at": "2026-09-21T02:04:16+00:00",
+        "language": "fr",
+        "products": [
+          "orange"
+        ],
+        "origins": []
+      },
+      "attention_enrichment": {
+        "title_fr": "Alerte météo orange au Maroc : orages et grêle",
+        "summary_fr": "Fortes pluies et grêle prévues au Maroc jusqu'au 22 septembre."
+      },
+      "gemini_score": 7
+    },
     {
       "id": "1789966927_1",
       "timestamp": "2026-09-21T05:02:07.507516+00:00",
-      "title": "Prix à la production record pour l&#x27;orange blonde de Ribera DOP",
+      "title": "Prix record à la production pour l&#x27;orange blonde de Ribera DOP",
       "title_hash": "prix à production records lx27orange blonde ribera dop",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
@@ -16,7 +56,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prix à la production record pour l&#x27;orange blonde de Ribera DOP -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">À l&#x27;approche de la nouvelle saison, l&#x27;orange blonde de Ribera DOP (Sicile) enregistre les prix à la production les plus élevés au monde selon Paolo Parlapiano. Bien que positionné sur un marché de niche, le produit gagne en visibilité commerciale grâce à sa certification DOP. <span class=\"news-reason\">Information sur les prix et le positionnement d&#x27;une origine concurrente (Sicile) pour les oranges, un produit cœur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prix record à la production pour l&#x27;orange blonde de Ribera DOP -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">À l&#x27;approche de la nouvelle saison, l&#x27;orange blonde de Ribera DOP (Sicile) enregistre les prix à la production les plus élevés au monde selon Paolo Parlapiano. Bien que positionné sur un marché de niche, le produit gagne en visibilité commerciale grâce à sa certification DOP. <span class=\"news-reason\">Information sur les prix et le positionnement d&#x27;une origine concurrente (Sicile) pour les oranges, un produit cœur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Record producer prices for the Ribera DOP blonde orange -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">As the new season approaches, the Ribera DOP blonde orange (Sicily) is recording the highest producer prices in the world according to Paolo Parlapiano. Although positioned in a niche market, the product is gaining commercial visibility thanks to its DOP certification. <span class=\"news-reason\">Information on the prices and positioning of a competing origin (Sicily) for oranges, a core product of Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מחירי יצרן שוברים שיאים עבור תפוז הבלונד מריברה DOP -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">לקראת העונה החדשה, תפוז הבלונד מריברה DOP (סיציליה) רושם את מחירי היצרן הגבוהים בעולם לפי פאולו פארלאפיאנו. למרות מיקומו בשוק נישה, המוצר זוכה לנראות מסחרית בזכות הסמכת ה-DOP שלו. <span class=\"news-reason\">מידע על מחירים ומיצוב של מקור מתחרה (סיציליה) עבור תפוזים, מוצר ליבה של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>",
       "rss_metadata": {
@@ -226,7 +266,7 @@
     {
       "id": "1789821202_0",
       "timestamp": "2026-09-19T12:33:22.579088+00:00",
-      "title": "Gestion de la charge de récolte des vergers d&#x27;avocatiers Hass en Crète pour une production équilibrée",
+      "title": "Gestion de la charge fruitière des vergers d&#x27;avocatiers Hass en Crète pour une production équilibrée",
       "title_hash": "réduction charge vergers dx27avocats hass crète saison équilibrée",
       "category": "ALERTES SUPPLY",
       "commercials": [
@@ -238,7 +278,7 @@
       "origins": [
         "GRC"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Gestion de la charge de récolte des vergers d&#x27;avocatiers Hass en Crète pour une production équilibrée -- <span class=\"news-date\">18/09/2026 17:02</span></div><div class=\"news-body\">En Crète, les vergers d&#x27;avocats Hass subissent actuellement une chute de fruits intense et prolongée. Ce phénomène, bien qu&#x27;important, permet de ramener la production à des volumes commercialement plus gérables après une phase de nouaison initialement très abondante. <span class=\"news-reason\">Alerte sur la production d&#x27;une origine concurrente directe (Grèce) pour l&#x27;avocat Hass.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873696/ojala-tuvieramos-el-doble-de-hass-ecologico-que-la-temporada-pasada/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Gestion de la charge fruitière des vergers d&#x27;avocatiers Hass en Crète pour une production équilibrée -- <span class=\"news-date\">18/09/2026 17:02</span></div><div class=\"news-body\">En Crète, les vergers d&#x27;avocats Hass subissent actuellement une chute de fruits intense et prolongée. Ce phénomène, bien qu&#x27;important, permet de ramener la production à des volumes commercialement plus gérables après une phase de nouaison initialement très abondante. <span class=\"news-reason\">Alerte sur la production d&#x27;une origine concurrente directe (Grèce) pour l&#x27;avocat Hass.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873696/ojala-tuvieramos-el-doble-de-hass-ecologico-que-la-temporada-pasada/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Reducing the load in Hass avocado orchards in Crete for a balanced season -- <span class=\"news-date\">18/09/2026 17:02</span></div><div class=\"news-body\">In Crete, Hass avocado orchards are currently experiencing an intense and prolonged fruit drop. This phenomenon, although significant, allows production to return to commercially manageable volumes after an initially very abundant fruit set phase. <span class=\"news-reason\">Alert on the production of a direct competing origin (Greece) for Hass avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873696/ojala-tuvieramos-el-doble-de-hass-ecologico-que-la-temporada-pasada/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">הפחתת עומס במטעי אבוקדו האס בכרתים לעונה מאוזנת -- <span class=\"news-date\">18/09/2026 17:02</span></div><div class=\"news-body\">בכרתים, מטעי אבוקדו האס חווים כעת נשירה עזה ומתמשכת של פירות. תופעה זו, למרות חשיבותה, מאפשרת להחזיר את הייצור לנפחים נוחים יותר לניהול מסחרי לאחר שלב חנטה שופע במיוחד בתחילה. <span class=\"news-reason\">התראה על ייצור ממקור מתחרה ישיר (יוון) עבור אבוקדו האס.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9873696/ojala-tuvieramos-el-doble-de-hass-ecologico-que-la-temporada-pasada/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -412,7 +452,7 @@
     {
       "id": "1789810389_1",
       "timestamp": "2026-09-19T09:33:09.617587+00:00",
-      "title": "Pérou : baisse de 60 % de la production de mangues anticipée",
+      "title": "Pérou : la production de mangues devrait reculer de 60 %",
       "title_hash": "production mangues pérou devrait chuter 60",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
@@ -424,7 +464,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Pérou : baisse de 60 % de la production de mangues anticipée -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">Selon l&#x27;expert Milton Calle, la production de mangues au Pérou pour la saison 2026/27 devrait chuter de 60 % par rapport à la campagne précédente. Ce déclin massif est attribué aux effets climatiques d&#x27;El Niño, impactant particulièrement les zones de production de Motupe, Olmos et Piura, ce qui réduira considérablement l&#x27;offre disponible pour l&#x27;exportation. <span class=\"news-reason\">Alerte majeure sur les volumes d&#x27;une origine concurrente clé pour le marché européen de la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873341/previsto-un-calo-del-60-per-cento-nella-produzione-del-mango-peruviano-a-causa-di-el-nino/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Pérou : la production de mangues devrait reculer de 60 % -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">Selon l&#x27;expert Milton Calle, la production de mangues au Pérou pour la saison 2026/27 devrait chuter de 60 % par rapport à la campagne précédente. Ce déclin massif est attribué aux effets climatiques d&#x27;El Niño, impactant particulièrement les zones de production de Motupe, Olmos et Piura, ce qui réduira considérablement l&#x27;offre disponible pour l&#x27;exportation. <span class=\"news-reason\">Alerte majeure sur les volumes d&#x27;une origine concurrente clé pour le marché européen de la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873341/previsto-un-calo-del-60-per-cento-nella-produzione-del-mango-peruviano-a-causa-di-el-nino/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Mango production in Peru expected to drop by 60% -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">According to expert Milton Calle, mango production in Peru for the 2026/27 season is expected to drop by 60% compared to the previous campaign. This massive decline is attributed to the climate effects of El Niño, particularly impacting the production areas of Motupe, Olmos, and Piura, which will significantly reduce the supply available for export. <span class=\"news-reason\">Major alert on volumes from a key competing origin for the European mango market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873341/previsto-un-calo-del-60-per-cento-nella-produzione-del-mango-peruviano-a-causa-di-el-nino/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ייצור המנגו בפרו צפוי לרדת ב-60% -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">לדברי המומחה מילטון קאלה, ייצור המנגו בפרו לעונת 2026/27 צפוי לרדת ב-60% בהשוואה לעונה הקודמת. ירידה מאסיבית זו מיוחסת להשפעות האקלימיות של אל ניניו, המשפיעות במיוחד על אזורי הגידול מוטופה, אולמוס ופיורה, דבר שיצמצם משמעותית את ההיצע הזמין לייצוא. <span class=\"news-reason\">התראה משמעותית לגבי הכמויות ממקור תחרותי מרכזי עבור שוק המנגו האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873341/previsto-un-calo-del-60-per-cento-nella-produzione-del-mango-peruviano-a-causa-di-el-nino/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -1236,89 +1276,16 @@
         "summary_fr": "La récolte espagnole de pomelos atteindra 114 000 tonnes"
       },
       "gemini_score": 10
-    },
-    {
-      "id": "1789707851_1",
-      "timestamp": "2026-09-18T05:04:11.092070+00:00",
-      "title": "Espagne : la production d&#x27;agrumes est estimée à 5,74 millions de tonnes",
-      "title_hash": "espagne production dx27agrumes estimée à 574 millions tonnes",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [
-        "ESP"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production d&#x27;agrumes est estimée à 5,74 millions de tonnes -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">Selon les premières estimations du ministère espagnol de l&#x27;Agriculture, la production d&#x27;agrumes pour la saison 2026/27 devrait atteindre 5 744 841 tonnes. Ce volume représente une légère augmentation de 1,1 % par rapport à la campagne précédente. La nouvelle saison a officiellement débuté le 1er septembre dans les principales régions productrices. <span class=\"news-reason\">Prévisions de récolte détaillées pour un concurrent majeur sur le segment des agrumes avec données chiffrées précises.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873348/la-prima-stima-per-il-raccolto-spagnolo-di-agrumi-2026-27-e-di-5-74-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: citrus production estimated at 5.74 million tons -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">According to initial estimates from the Spanish Ministry of Agriculture, citrus production for the 2026/27 season is expected to reach 5,744,841 tons. This volume represents a slight increase of 1.1% compared to the previous campaign. The new season officially began on September 1st in the main producing regions. <span class=\"news-reason\">Detailed harvest forecasts for a major competitor in the citrus segment with precise quantified data.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873348/la-prima-stima-per-il-raccolto-spagnolo-di-agrumi-2026-27-e-di-5-74-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד: ייצור פירות ההדר מוערך ב-5.74 מיליון טונות -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">על פי הערכות ראשוניות של משרד החקלאות הספרדי, ייצור פירות ההדר לעונת 2026/27 צפוי להגיע ל-5,744,841 טונות. נפח זה מייצג עלייה קלה של 1.1% לעומת העונה הקודמת. העונה החדשה החלה רשמית ב-1 בספטמבר באזורי הגידול העיקריים. <span class=\"news-reason\">תחזיות יבול מפורטות עבור מתחרה מרכזי במגזר פירות ההדר עם נתונים מספריים מדויקים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873348/la-prima-stima-per-il-raccolto-spagnolo-di-agrumi-2026-27-e-di-5-74-milioni-di-tonnellate/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>",
-      "rss_metadata": {
-        "id": "rss-547729e281cb214c",
-        "title": "La prima stima per il raccolto spagnolo di agrumi 2026/27 è di 5,74 milioni di tonnellate",
-        "summary": "Secondo la prima previsione del Ministero dell'agricoltura, pesca e alimentazione, basata sui dati provenienti dalle principali comunità autonome produttrici di agrumi, la Spagna produrrà 5.744.841 tonnellate di agrumi nella stagione 2026/27, iniziata il 1° settembre. La stima indica un aumento dell'1,1%…",
-        "url": "https://www.freshplaza.it/article/9873348/la-prima-stima-per-il-raccolto-spagnolo-di-agrumi-2026-27-e-di-5-74-milioni-di-tonnellate/",
-        "source": "FreshPlaza IT",
-        "published_at": "2026-09-18T06:05:00+02:00",
-        "language": "it",
-        "products": [],
-        "origins": []
-      },
-      "attention_enrichment": {
-        "title_fr": "Hausse prévue de la production d'agrumes",
-        "summary_fr": "Volumes attendus en légère progression cette saison"
-      },
-      "gemini_score": 10
-    },
-    {
-      "id": "1789707851_0",
-      "timestamp": "2026-09-18T05:04:11.092070+00:00",
-      "title": "Fin de la campagne de l&#x27;avocat au Pérou",
-      "title_hash": "fin campagne avocats pérou",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "PER",
-        "CHL"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Fin de la campagne de l&#x27;avocat au Pérou -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">La campagne d&#x27;exportation d&#x27;avocats péruviens touche à sa fin avec des résultats globaux en croissance. L&#x27;exportateur Inka Select Fruit indique qu&#x27;il ne reste qu&#x27;environ 100 tonnes de fruits à expédier avant la clôture définitive de la saison. Le marché entame désormais sa transition vers l&#x27;offre en provenance du Chili pour assurer la continuité des approvisionnements. <span class=\"news-reason\">Information factuelle sur la fin de campagne d&#x27;un concurrent direct avec volumes restants chiffrés.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873333/il-peru-conclude-la-stagione-dell-avocado-in-crescita-e-inaugura-quella-dell-uva-con-prezzi-solidi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">End of the avocado campaign in Peru -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">The Peruvian avocado export campaign is drawing to a close with overall results showing growth. Exporter Inka Select Fruit indicates that only about 100 tons of fruit remain to be shipped before the final close of the season. The market is now beginning its transition to supply from Chile to ensure continuity of supplies. <span class=\"news-reason\">Factual information on the end of a direct competitor&#x27;s campaign with quantified remaining volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873333/il-peru-conclude-la-stagione-dell-avocado-in-crescita-e-inaugura-quella-dell-uva-con-prezzi-solidi/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיום עונת האבוקדו בפרו -- <span class=\"news-date\">18/09/2026 06:05</span></div><div class=\"news-body\">עונת ייצוא האבוקדו הפרואני מגיעה לסיומה עם תוצאות כלליות בצמיחה. היצואן Inka Select Fruit מציין כי נותרו כ-100 טונות פרי בלבד למשלוח לפני הסגירה הסופית של העונה. השוק מתחיל כעת את המעבר להיצע מצ'ילה כדי להבטיח את רציפות האספקה. <span class=\"news-reason\">מידע עובדתי על סיום עונה של מתחרה ישיר עם נתוני כמויות שנותרו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873333/il-peru-conclude-la-stagione-dell-avocado-in-crescita-e-inaugura-quella-dell-uva-con-prezzi-solidi/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>",
-      "rss_metadata": {
-        "id": "rss-86ceb319590b9c8d",
-        "title": "Il Perù conclude la stagione dell'avocado in crescita e inaugura quella dell'uva con prezzi solidi",
-        "summary": "La campagna dell'avocado peruviano sta entrando nella fase finale con buoni risultati. \"Siamo nell'ultima fase della campagna. Ci restano circa 100 tonnellate, ma stiamo già concludendo e iniziando con il prodotto dal Cile\", spiega Miguel Ángel Obando Villamar, direttore generale di Inka Select Fruit,…",
-        "url": "https://www.freshplaza.it/article/9873333/il-peru-conclude-la-stagione-dell-avocado-in-crescita-e-inaugura-quella-dell-uva-con-prezzi-solidi/",
-        "source": "FreshPlaza IT",
-        "published_at": "2026-09-18T06:05:00+02:00",
-        "language": "it",
-        "products": [
-          "avocat"
-        ],
-        "origins": [
-          "PER"
-        ]
-      },
-      "attention_enrichment": {
-        "title_fr": "Clôture prochaine de la campagne des avocats",
-        "summary_fr": "Phase finale des expéditions avant changement d'origine"
-      },
-      "gemini_score": 8
     }
   ],
-  "article_count": 35,
+  "article_count": 34,
   "attention_points": [
     {
       "id": "attention-9d1bc57310007d59",
       "article_id": "1789966927_1",
       "url": "https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/",
       "source": "FreshPlaza IT",
-      "title": "Prix à la production record pour l'orange blonde",
+      "title": "Prix record à la production pour l'orange blonde",
       "summary": "À l'approche de la nouvelle saison, l'orange blonde de Ribera DOP (Sicile) enregistre les prix à la production les plus élevés au monde selon Paolo Parlapiano.",
       "origin_code": "ITA",
       "origin_label": "Italie",
@@ -1330,7 +1297,26 @@
       "products": [
         "orange"
       ],
-      "age_hours": 0
+      "age_hours": 1
+    },
+    {
+      "id": "attention-8273d4a30f8bbfa4",
+      "article_id": "1789972299_0",
+      "url": "https://www.agrimaroc.ma/alerte-meteo-orages-grele-chaleur-et-fortes-rafales-dans-plusieurs-provinces/",
+      "source": "AgriMaroc",
+      "title": "Alerte météo au Maroc : orages et grêle menacent",
+      "summary": "La Direction générale de la météorologie (DGM) a émis un bulletin d'alerte de niveau orange pour plusieurs provinces du Maroc entre le dimanche 20 et le mardi 22 septembre 2026.",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-09-21T02:04:16+00:00",
+      "published_at_source": "rss",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
+      "products": [
+        "orange"
+      ],
+      "age_hours": 4
     },
     {
       "id": "attention-808f124688d1f0b2",
@@ -1349,23 +1335,6 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 62
-    },
-    {
-      "id": "attention-5aa8f3e13c67cf6d",
-      "article_id": "1789815792_0",
-      "url": "https://citrusindustry.net/2026/09/18/water-education-succession-among-california-citrus-issues/",
-      "source": "Citrus Industry",
-      "title": "Californie : l'industrie des agrumes face aux défis hydriques",
-      "summary": "Stress hydrique et chaleur intense affectant les vergers",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-09-18T14:00:00+00:00",
-      "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [],
       "age_hours": 63
     },
     {
@@ -1385,7 +1354,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 65
+      "age_hours": 66
     }
   ]
 }
