@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-09-22T14:02:54.655516+00:00",
-  "article_count": 26,
+  "last_updated": "2026-09-22T15:33:38.259133+00:00",
+  "article_count": 31,
   "attention_points": [
+    {
+      "id": "attention-9a4f510123096657",
+      "article_id": "1790091218_3",
+      "url": "https://www.freshplaza.es/article/9875334/el-mercado-es-actualmente-muy-favorable-para-las-variedades-de-naranjas-de-mesa/",
+      "source": "FreshPlaza ES",
+      "title": "Perspectives favorables pour le marché de l'orange de table",
+      "summary": "Le marché des oranges de table connaît une réactivation depuis début septembre après un mois d'août difficile marqué par la concurrence des fruits d'été.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-09-22T16:16:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
+      "products": [
+        "orange"
+      ],
+      "age_hours": 1
+    },
+    {
+      "id": "attention-e7bcf95dfc8b04e7",
+      "article_id": "1790091218_1",
+      "url": "https://www.freshplaza.es/article/9875270/ecuador-y-peru-preven-fuertes-caidas-de-volumen-de-mango-por-las-condiciones-meteorologicas/",
+      "source": "FreshPlaza ES",
+      "title": "Baisse significative des volumes de mangues attendue en Équateur",
+      "summary": "La saison d'automne du mango s'annonce marquée par une offre limitée et des prix élevés.",
+      "origin_code": "PER",
+      "origin_label": "Pérou",
+      "published_at": "2026-09-22T16:16:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "information",
+      "products": [
+        "mango"
+      ],
+      "age_hours": 1
+    },
     {
       "id": "attention-296426b8a6d469a2",
       "article_id": "1790080369_3",
@@ -19,24 +57,7 @@
       "products": [
         "citrus_grapefruit"
       ],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-e41573122dfec189",
-      "article_id": "1790080369_2",
-      "url": "https://www.freshplaza.com/article/9875385/algarve-citrus-growers-face-lower-returns-as-imports-increase/",
-      "source": "FreshPlaza",
-      "title": "Algarve : les producteurs d'agrumes sous pression face",
-      "summary": "La saison 2025/26 d'agrumes au Portugal s'achève le 30 septembre avec des résultats financiers inférieurs aux prévisions pour les producteurs de l'Algarve.",
-      "origin_code": "EGY",
-      "origin_label": "Égypte",
-      "published_at": "2026-09-22T13:31:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "information",
-      "products": [],
-      "age_hours": 2
+      "age_hours": 3
     },
     {
       "id": "attention-063a5345860dd37c",
@@ -55,27 +76,95 @@
       "products": [
         "orange"
       ],
-      "age_hours": 9
-    },
-    {
-      "id": "attention-9a8da5fa6fff73f6",
-      "article_id": "1789993962_1",
-      "url": "https://www.freshplaza.fr/article/9874716/agrumes-les-fortes-pluies-dans-le-cap-oriental-provoquent-une-fin-de-recolte-catastrophique/",
-      "source": "FreshPlaza FR",
-      "title": "Récolte d'agrumes sud-africaine compromise par des pluies torrentielles",
-      "summary": "Des pluies incessantes perturbent gravement la fin de la récolte d'agrumes dans la région du Cap-Oriental en Afrique du Sud.",
-      "origin_code": "ZAF",
-      "origin_label": "Afrique du Sud",
-      "published_at": "2026-09-21T13:37:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [],
-      "age_hours": 26
+      "age_hours": 11
     }
   ],
   "articles": [
+    {
+      "id": "1790091218_5",
+      "timestamp": "2026-09-22T15:33:38.259133+00:00",
+      "title": "L&#x27;Afrique du Sud prête à pallier les pénuries sur le marché de l&#x27;orange -- 22/09/2026 12:04",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "ZAF"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;Afrique du Sud prête à pallier les pénuries sur le marché de l&#x27;orange -- <span class=\"news-date\">22/09/2026 12:04</span></div><div class=\"news-body\">Les exportateurs sud-africains, dont Fresh Union Exports, se positionnent pour combler les déficits d&#x27;approvisionnement sur le marché mondial des agrumes. Le pays cible prioritairement l&#x27;Europe, le Royaume-Uni et le Moyen-Orient pour ses expéditions. <span class=\"news-reason\">Positionnement stratégique d&#x27;un concurrent majeur sur le segment des agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9873291/zuid-afrika-kan-gat-op-de-sinaasappelmarkt-opvullen/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">South Africa ready to address shortages in the orange market -- <span class=\"news-date\">22/09/2026 12:04</span></div><div class=\"news-body\">South African exporters, including Fresh Union Exports, are positioning themselves to fill supply gaps in the global citrus market. The country is primarily targeting Europe, the United Kingdom, and the Middle East for its shipments. <span class=\"news-reason\">Strategic positioning of a major competitor in the citrus segment.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9873291/zuid-afrika-kan-gat-op-de-sinaasappelmarkt-opvullen/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">דרום אפריקה מוכנה למלא את המחסור בשוק התפוזים -- <span class=\"news-date\">22/09/2026 12:04</span></div><div class=\"news-body\">יצואנים דרום אפריקאים, כולל Fresh Union Exports, ממצבים את עצמם כדי למלא את פערי האספקה בשוק ההדרים העולמי. המדינה מכוונת בעדיפות ראשונה לאירופה, לבריטניה ולמזרח התיכון עבור משלוחיה. <span class=\"news-reason\">מיצוב אסטרטגי של מתחרה מרכזי במגזר פירות ההדר.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9873291/zuid-afrika-kan-gat-op-de-sinaasappelmarkt-opvullen/\" target=\"_blank\">AGF.nl -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790091218_4",
+      "timestamp": "2026-09-22T15:33:38.259133+00:00",
+      "title": "Forte progression des cours des mangues importées par fret aérien",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Forte progression des cours des mangues importées par fret aérien -- <span class=\"news-date\">22/09/2026 06:05</span></div><div class=\"news-body\">La situation géopolitique actuelle provoque une hausse drastique des prix des mangues transportées par avion sur les marchés de gros. Le segment haut de gamme subit l&#x27;impact direct de l&#x27;augmentation du coût de la vie et des frais logistiques. <span class=\"news-reason\">Information sur les tendances de prix des produits exotiques haut de gamme.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873730/in-alcuni-casi-i-prezzi-dei-mango-spediti-per-via-aerea-sono-drasticamente-aumentati/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Sharp increase in prices for air-imported mangoes -- <span class=\"news-date\">22/09/2026 06:05</span></div><div class=\"news-body\">The current geopolitical situation is causing a drastic rise in prices for air-shipped mangoes on wholesale markets. The high-end segment is feeling the direct impact of the rising cost of living and logistical costs. <span class=\"news-reason\">Information on price trends for high-end exotic products.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873730/in-alcuni-casi-i-prezzi-dei-mango-spediti-per-via-aerea-sono-drasticamente-aumentati/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">עלייה חדה במחירי המנגו המיובא בטיסה -- <span class=\"news-date\">22/09/2026 06:05</span></div><div class=\"news-body\">המצב הגיאופוליטי הנוכחי גורם לעלייה דרסטית במחירי המנגו המובלים באוויר בשווקים הסיטונאיים. מגזר היוקרה סופג את ההשפעה הישירה של עליית יוקר המחיה והוצאות הלוגיסטיקה. <span class=\"news-reason\">מידע על מגמות מחירים עבור מוצרים אקזוטיים ברמת פרימיום.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873730/in-alcuni-casi-i-prezzi-dei-mango-spediti-per-via-aerea-sono-drasticamente-aumentati/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790091218_3",
+      "timestamp": "2026-09-22T15:33:38.259133+00:00",
+      "title": "Perspectives favorables pour le marché de l&#x27;orange de table en septembre",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Perspectives favorables pour le marché de l&#x27;orange de table en septembre -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">Le marché des oranges de table connaît une réactivation depuis début septembre après un mois d&#x27;août difficile marqué par la concurrence des fruits d&#x27;été. Le contexte actuel est jugé très favorable pour les variétés de bouche avec une demande en hausse. <span class=\"news-reason\">Analyse de la demande et du positionnement du marché des agrumes en début de saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875334/el-mercado-es-actualmente-muy-favorable-para-las-variedades-de-naranjas-de-mesa/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Favorable outlook for the table orange market in September -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">The table orange market has seen a resurgence since early September after a difficult August marked by competition from summer fruits. The current context is considered very favorable for dessert varieties with rising demand. <span class=\"news-reason\">Analysis of demand and market positioning for citrus fruits at the start of the season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875334/el-mercado-es-actualmente-muy-favorable-para-las-variedades-de-naranjas-de-mesa/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">תחזיות חיוביות לשוק תפוזי המאכל בספטמבר -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">שוק תפוזי המאכל חווה התעוררות מאז תחילת ספטמבר לאחר חודש אוגוסט קשה שהתאפיין בתחרות מצד פירות הקיץ. ההקשר הנוכחי נחשב לחיובי מאוד עבור זני המאכל עם עלייה בביקוש. <span class=\"news-reason\">ניתוח הביקוש ומיצוב שוק פירות ההדר בתחילת העונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875334/el-mercado-es-actualmente-muy-favorable-para-las-variedades-de-naranjas-de-mesa/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790091218_2",
+      "timestamp": "2026-09-22T15:33:38.259133+00:00",
+      "title": "Le Togo enregistre une production de 35 569 tonnes de mangues -- 22/09/2026 13:31",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le Togo enregistre une production de 35 569 tonnes de mangues -- <span class=\"news-date\">22/09/2026 13:31</span></div><div class=\"news-body\">La récolte de mangues au Togo a atteint 35 569 tonnes en 2025, en hausse par rapport aux 34 450 tonnes de 2024, mais reste inférieure au record de 40 300 tonnes de 2023. La région Centrale domine la production avec environ 17 300 tonnes récoltées. <span class=\"news-reason\">Données chiffrées précises sur la production d&#x27;une origine concurrente pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9875386/togo-mango-exports-rise-as-harvest-reaches-35-569-tons/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Togo records production of 35,569 tons of mangoes -- <span class=\"news-date\">22/09/2026 13:31</span></div><div class=\"news-body\">The mango harvest in Togo reached 35,569 tons in 2025, up from 34,450 tons in 2024, but remains lower than the record of 40,300 tons in 2023. The Central region dominates production with approximately 17,300 tons harvested. <span class=\"news-reason\">Precise numerical data on the production of a competing origin for mangoes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9875386/togo-mango-exports-rise-as-harvest-reaches-35-569-tons/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">טוגו רושמת ייצור של 35,569 טון מנגו -- <span class=\"news-date\">22/09/2026 13:31</span></div><div class=\"news-body\">יבול המנגו בטוגו הגיע ל-35,569 טון בשנת 2025, עלייה לעומת 34,450 טון בשנת 2024, אך נותר נמוך מהשיא של 40,300 טון בשנת 2023. האזור המרכזי מוביל בייצור עם כ-17,300 טון שנקטפו. <span class=\"news-reason\">נתונים מספריים מדויקים על הייצור ממקור מתחרה למנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9875386/togo-mango-exports-rise-as-harvest-reaches-35-569-tons/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790091218_1",
+      "timestamp": "2026-09-22T15:33:38.259133+00:00",
+      "title": "Baisse significative des volumes de mangues attendue en Équateur et au Pérou",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [
+        "PER",
+        "BRA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Baisse significative des volumes de mangues attendue en Équateur et au Pérou -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">La saison d&#x27;automne du mango s&#x27;annonce marquée par une offre limitée et des prix élevés. Des chutes importantes de volumes sont prévues en Équateur et au Pérou en raison des conditions météorologiques. Actuellement, le Brésil expédie des volumes restreints, maintenant les cours à un niveau élevé. <span class=\"news-reason\">Alerte supply majeure sur la mangue avec impact direct sur les prix du marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875270/ecuador-y-peru-preven-fuertes-caidas-de-volumen-de-mango-por-las-condiciones-meteorologicas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Significant drop in mango volumes expected in Ecuador and Peru -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">The autumn mango season is expected to be marked by limited supply and high prices. Significant volume drops are predicted in Ecuador and Peru due to weather conditions. Currently, Brazil is shipping limited volumes, keeping prices at a high level. <span class=\"news-reason\">Major supply alert on mangoes with a direct impact on market prices.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875270/ecuador-y-peru-preven-fuertes-caidas-de-volumen-de-mango-por-las-condiciones-meteorologicas/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ירידה משמעותית בכמויות המנגו צפויה באקוודור ובפרו -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">עונת הסתיו של המנגו צפויה להתאפיין בהיצע מוגבל ובמחירים גבוהים. צניחה משמעותית בכמויות צפויה באקוודור ובפרו עקב תנאי מזג האוויר. כיום, ברזיל שולחת כמויות מצומצמות, דבר השומר על רמת מחירים גבוהה. <span class=\"news-reason\">התרעת אספקה משמעותית על המנגו עם השפעה ישירה על מחירי השוק.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875270/ecuador-y-peru-preven-fuertes-caidas-de-volumen-de-mango-por-las-condiciones-meteorologicas/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1790085774_1",
       "timestamp": "2026-09-22T14:02:54.655516+00:00",
@@ -326,7 +415,7 @@
     {
       "id": "1789999343_1",
       "timestamp": "2026-09-21T14:02:23.898599+00:00",
-      "title": "Impact des coûts de transport sur les exportations d&#x27;agrumes sud-africains",
+      "title": "Incidence des coûts de transport sur les exportations d&#x27;agrumes sud-africains",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -335,7 +424,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact des coûts de transport sur les exportations d&#x27;agrumes sud-africains -- <span class=\"news-date\">21/09/2026 10:01</span></div><div class=\"news-body\">Selon Charles Rossouw de la Citrus Growers&#x27; Association, le principal défi de la saison pour les agrumes sud-africains n&#x27;est pas le volume exporté mais l&#x27;explosion des coûts de transport. Contrairement à l&#x27;idée d&#x27;un marché inondé, les prix de vente ont été corrects, mais la rentabilité est lourdement grevée par les frais logistiques vers les marchés d&#x27;exportation. <span class=\"news-reason\">Analyse de la rentabilité et des freins logistiques pour un concurrent majeur sur le segment des agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9874240/nicht-der-markt-sondern-die-transportkosten-machen-den-sudafrikanischen-zitrusfruchten-zu-schaffen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Incidence des coûts de transport sur les exportations d&#x27;agrumes sud-africains -- <span class=\"news-date\">21/09/2026 10:01</span></div><div class=\"news-body\">Selon Charles Rossouw de la Citrus Growers&#x27; Association, le principal défi de la saison pour les agrumes sud-africains n&#x27;est pas le volume exporté mais l&#x27;explosion des coûts de transport. Contrairement à l&#x27;idée d&#x27;un marché inondé, les prix de vente ont été corrects, mais la rentabilité est lourdement grevée par les frais logistiques vers les marchés d&#x27;exportation. <span class=\"news-reason\">Analyse de la rentabilité et des freins logistiques pour un concurrent majeur sur le segment des agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9874240/nicht-der-markt-sondern-die-transportkosten-machen-den-sudafrikanischen-zitrusfruchten-zu-schaffen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">The impact of transport costs on South African citrus exports -- <span class=\"news-date\">21/09/2026 10:01</span></div><div class=\"news-body\">According to Charles Rossouw of the Citrus Growers&#x27; Association, the main challenge of the season for South African citrus is not the exported volume but the explosion in transport costs. Contrary to the idea of a flooded market, selling prices have been decent, but profitability is heavily burdened by logistics costs to export markets. <span class=\"news-reason\">Analysis of profitability and logistical constraints for a major competitor in the citrus segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9874240/nicht-der-markt-sondern-die-transportkosten-machen-den-sudafrikanischen-zitrusfruchten-zu-schaffen/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות שרשרת אספקה</div><div class=\"news-title\">השפעת עלויות ההובלה על יצוא ההדרים מדרום אפריקה -- <span class=\"news-date\">21/09/2026 10:01</span></div><div class=\"news-body\">לפי צ'ארלס רוסו מהתאחדות מגדלי ההדרים (Citrus Growers' Association), האתגר העיקרי של העונה עבור ההדרים מדרום אפריקה אינו כמות היצוא אלא הזינוק בעלויות ההובלה. בניגוד לתפיסה של שוק מוצף, מחירי המכירה היו תקינים, אך הרווחיות נפגעה קשות מהוצאות הלוגיסטיקה לשווקי היצוא. <span class=\"news-reason\">ניתוח הרווחיות והחסמים הלוגיסטיים עבור מתחרה מרכזי במגזר ההדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9874240/nicht-der-markt-sondern-die-transportkosten-machen-den-sudafrikanischen-zitrusfruchten-zu-schaffen/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -499,7 +588,7 @@
     {
       "id": "1789966927_1",
       "timestamp": "2026-09-21T05:02:07.507516+00:00",
-      "title": "Prix records à la production pour l’orange blonde de Ribera DOP",
+      "title": "Prix record à la production pour l’orange blonde de Ribera DOP",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -510,7 +599,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prix records à la production pour l’orange blonde de Ribera DOP -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">À l&#x27;approche de la nouvelle saison, l&#x27;orange blonde de Ribera DOP (Sicile) enregistre les prix à la production les plus élevés au monde selon Paolo Parlapiano. Bien que positionné sur un marché de niche, le produit gagne en visibilité commerciale grâce à sa certification DOP. <span class=\"news-reason\">Information sur les prix et le positionnement d&#x27;une origine concurrente (Sicile) pour les oranges, un produit cœur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prix record à la production pour l’orange blonde de Ribera DOP -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">À l&#x27;approche de la nouvelle saison, l&#x27;orange blonde de Ribera DOP (Sicile) enregistre les prix à la production les plus élevés au monde selon Paolo Parlapiano. Bien que positionné sur un marché de niche, le produit gagne en visibilité commerciale grâce à sa certification DOP. <span class=\"news-reason\">Information sur les prix et le positionnement d&#x27;une origine concurrente (Sicile) pour les oranges, un produit cœur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Record producer prices for the Ribera DOP blonde orange -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">As the new season approaches, the Ribera DOP blonde orange (Sicily) is recording the highest producer prices in the world according to Paolo Parlapiano. Although positioned in a niche market, the product is gaining commercial visibility thanks to its DOP certification. <span class=\"news-reason\">Information on the prices and positioning of a competing origin (Sicily) for oranges, a core product of Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מחירי יצרן שוברים שיאים עבור תפוז הבלונד מריברה DOP -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">לקראת העונה החדשה, תפוז הבלונד מריברה DOP (סיציליה) רושם את מחירי היצרן הגבוהים בעולם לפי פאולו פארלאפיאנו. למרות מיקומו בשוק נישה, המוצר זוכה לנראות מסחרית בזכות הסמכת ה-DOP שלו. <span class=\"news-reason\">מידע על מחירים ומיצוב של מקור מתחרה (סיציליה) עבור תפוזים, מוצר ליבה של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>"
     },
