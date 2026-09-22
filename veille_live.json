@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-21T15:33:53.912586+00:00",
-  "article_count": 28,
+  "last_updated": "2026-09-22T05:02:52.852435+00:00",
+  "article_count": 32,
   "attention_points": [
+    {
+      "id": "attention-063a5345860dd37c",
+      "article_id": "1790053372_0",
+      "url": "https://www.freshplaza.it/article/9873830/il-sudafrica-chiude-le-esportazioni-di-arance-valencia-2026-verso-l-ue/",
+      "source": "FreshPlaza IT",
+      "title": "L'Afrique du Sud suspend ses exportations d'oranges Valencia vers",
+      "summary": "L'Association des producteurs d'agrumes d'Afrique du Sud (CGA) et le Fresh Produce Exporters' Forum (FPEF) ont annoncé la clôture officielle de la saison d'exportation 2026 des oranges Valencia vers le marché.",
+      "origin_code": "ZAF",
+      "origin_label": "Afrique du Sud",
+      "published_at": "2026-09-22T06:05:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
+      "products": [
+        "orange"
+      ],
+      "age_hours": 0
+    },
     {
       "id": "attention-541d62f79a08cf19",
       "article_id": "1789999343_2",
@@ -19,7 +38,7 @@
       "products": [
         "mango"
       ],
-      "age_hours": 3
+      "age_hours": 17
     },
     {
       "id": "attention-280b68ef29660ea5",
@@ -38,7 +57,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 3
+      "age_hours": 17
     },
     {
       "id": "attention-9a8da5fa6fff73f6",
@@ -55,29 +74,79 @@
       "signal_label": "Météo",
       "icon": "weather",
       "products": [],
-      "age_hours": 3
-    },
-    {
-      "id": "attention-af75e6e6d0b0c459",
-      "article_id": "1789999343_0",
-      "url": "https://www.freshplaza.com/article/9874684/unusual-situation-in-the-avocado-market/",
-      "source": "FreshPlaza",
-      "title": "Marché de l'avocat : une situation atypique marquée par",
-      "summary": "Le marché bénéficie de prix fermes malgré une baisse saisonnière de la demande.",
-      "origin_code": "COL",
-      "origin_label": "Colombie",
-      "published_at": "2026-09-21T13:22:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "price",
-      "signal_label": "Prix",
-      "icon": "information",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 4
+      "age_hours": 17
     }
   ],
   "articles": [
+    {
+      "id": "1790053372_3",
+      "timestamp": "2026-09-22T05:02:52.852435+00:00",
+      "title": "Diversification et présence massive des exportateurs égyptiens à Madrid -- 21/09/2026 13:29",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "EGY"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Diversification et présence massive des exportateurs égyptiens à Madrid -- <span class=\"news-date\">21/09/2026 13:29</span></div><div class=\"news-body\">Près de cent entreprises égyptiennes participeront au salon Fruit Attraction à Madrid cette année, dont 67 regroupées dans le pavillon national. La stratégie égyptienne pour cette édition repose sur une diversification accrue des produits d&#x27;exportation. <span class=\"news-reason\">Informations sur la stratégie commerciale et l&#x27;expansion d&#x27;une origine concurrente majeure (Egypte).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9875083/alongside-traditional-export-lines-we-are-seeing-real-diversification-this-year/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Diversification and massive presence of Egyptian exporters in Madrid -- <span class=\"news-date\">21/09/2026 13:29</span></div><div class=\"news-body\">Nearly one hundred Egyptian companies will participate in the Fruit Attraction trade fair in Madrid this year, including 67 grouped in the national pavilion. Egypt's strategy for this edition is based on increased diversification of export products. <span class=\"news-reason\">Information on the commercial strategy and expansion of a major competing origin (Egypt).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9875083/alongside-traditional-export-lines-we-are-seeing-real-diversification-this-year/\" target=\"_blank\">FreshPlaza -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות בין מקורות</div><div class=\"news-title\">גיוון ונוכחות מאסיבית של יצואנים מצריים במדריד -- <span class=\"news-date\">21/09/2026 13:29</span></div><div class=\"news-body\">קרוב למאה חברות מצריות ישתתפו השנה בתערוכת Fruit Attraction במדריד, מתוכן 67 המרוכזות בביתן הלאומי. האסטרטגיה המצרית למהדורה זו מבוססת על גיוון מוגבר של מוצרי היצוא. <span class=\"news-reason\">מידע על האסטרטגיה המסחרית וההתרחבות של מקור מתחרה מרכזי (מצרים).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9875083/alongside-traditional-export-lines-we-are-seeing-real-diversification-this-year/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790053372_2",
+      "timestamp": "2026-09-22T05:02:52.852435+00:00",
+      "title": "Détection d&#x27;un coléoptère ravageur dans les vergers d&#x27;avocats à Grenade",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Jessica",
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Détection d&#x27;un coléoptère ravageur dans les vergers d&#x27;avocats à Grenade -- <span class=\"news-date\">21/09/2026 15:36</span></div><div class=\"news-body\">Les techniciens de la santé végétale d&#x27;Andalousie ont identifié pour la première fois en Europe continentale la présence du Pagiocerus frontalis, un coléoptère foreur, dans des exploitations d&#x27;avocats de la Costa Tropical à Grenade. <span class=\"news-reason\">Alerte sur un nouveau risque phytosanitaire menaçant la production d&#x27;avocats en Espagne (origine concurrente).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875126/detectado-en-granada-el-primer-establecimiento-europeo-de-pagiocerus-frontalis-en-aguacate/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Detection of a pest beetle in avocado orchards in Granada -- <span class=\"news-date\">21/09/2026 15:36</span></div><div class=\"news-body\">Plant health technicians in Andalusia have identified for the first time in mainland Europe the presence of Pagiocerus frontalis, a boring beetle, in avocado farms on the Costa Tropical in Granada. <span class=\"news-reason\">Alert on a new phytosanitary risk threatening avocado production in Spain (competing origin).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875126/detectado-en-granada-el-primer-establecimiento-europeo-de-pagiocerus-frontalis-en-aguacate/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">זיהוי חיפושית מזיקה במטעי אבוקדו בגרנדה -- <span class=\"news-date\">21/09/2026 15:36</span></div><div class=\"news-body\">טכנאי בריאות הצומח של אנדלוסיה זיהו לראשונה ביבשת אירופה את נוכחותה של Pagiocerus frontalis, חיפושית נוברת, במטעי אבוקדו בקוסטה טרופיקל בגרנדה. <span class=\"news-reason\">התראה על סיכון פיטוסניטרי חדש המאיים על ייצור האבוקדו בספרד (מקור מתחרה).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875126/detectado-en-granada-el-primer-establecimiento-europeo-de-pagiocerus-frontalis-en-aguacate/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790053372_1",
+      "timestamp": "2026-09-22T05:02:52.852435+00:00",
+      "title": "Recrudescence des alertes aux pesticides pour les fruits importés au sein de l&#x27;UE -- 21/09/2026 07:05",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "ITA",
+        "ESP",
+        "MAR",
+        "EGY",
+        "TUR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recrudescence des alertes aux pesticides pour les fruits importés au sein de l&#x27;UE -- <span class=\"news-date\">21/09/2026 07:05</span></div><div class=\"news-body\">Au cours de la campagne, 622 cas d&#x27;excès de résidus de pesticides ont été détectés dans l&#x27;UE sur les fruits et légumes. La Turquie est le pays le plus concerné avec 108 alertes, suivie de l&#x27;Égypte avec 95 alertes. L&#x27;Italie en totalise 25, l&#x27;Espagne 23 et le Maroc 8. <span class=\"news-reason\">Chiffres précis sur les alertes sanitaires affectant des origines concurrentes (Egypte, Turquie, Maroc).</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/durante-la-campana-se-han-detectado-en-la-ue-622-casos-de-exceso-de-pesticidas-en-frutas-y-hortalizas/\" target=\"_blank\">Hortoinfo -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Increase in pesticide alerts for fruits imported into the EU -- <span class=\"news-date\">21/09/2026 07:05</span></div><div class=\"news-body\">During the campaign, 622 cases of excessive pesticide residues were detected in the EU on fruits and vegetables. Turkey is the most affected country with 108 alerts, followed by Egypt with 95 alerts. Italy totals 25, Spain 23, and Morocco 8. <span class=\"news-reason\">Precise figures on health alerts affecting competing origins (Egypt, Turkey, Morocco).</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/durante-la-campana-se-han-detectado-en-la-ue-622-casos-de-exceso-de-pesticidas-en-frutas-y-hortalizas/\" target=\"_blank\">Hortoinfo -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עלייה בהתראות על חומרי הדברה בפירות המיובאים לאיחוד האירופי -- <span class=\"news-date\">21/09/2026 07:05</span></div><div class=\"news-body\">במהלך העונה, זוהו 622 מקרים של שאריות חומרי הדברה עודפות באיחוד האירופי בפירות וירקות. טורקיה היא המדינה המושפעת ביותר עם 108 התראות, ואחריה מצרים עם 95 התראות. איטליה רשמה 25, ספרד 23 ומרוקו 8. <span class=\"news-reason\">נתונים מדויקים על התראות בריאותיות המשפיעות על מקורות מתחרים (מצרים, טורקיה, מרוקו).</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/durante-la-campana-se-han-detectado-en-la-ue-622-casos-de-exceso-de-pesticidas-en-frutas-y-hortalizas/\" target=\"_blank\">Hortoinfo -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790053372_0",
+      "timestamp": "2026-09-22T05:02:52.852435+00:00",
+      "title": "L&#x27;Afrique du Sud suspend ses exportations d&#x27;oranges Valencia vers l&#x27;UE",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "ZAF"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;Afrique du Sud suspend ses exportations d&#x27;oranges Valencia vers l&#x27;UE -- <span class=\"news-date\">22/09/2026 06:05</span></div><div class=\"news-body\">L&#x27;Association des producteurs d&#x27;agrumes d&#x27;Afrique du Sud (CGA) et le Fresh Produce Exporters&#x27; Forum (FPEF) ont annoncé la clôture officielle de la saison d&#x27;exportation 2026 des oranges Valencia vers le marché de l&#x27;Union européenne. <span class=\"news-reason\">Annonce officielle de la fin de campagne d&#x27;exportation d&#x27;un concurrent majeur pour les agrumes vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873830/il-sudafrica-chiude-le-esportazioni-di-arance-valencia-2026-verso-l-ue/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">South Africa suspends its Valencia orange exports to the EU -- <span class=\"news-date\">22/09/2026 06:05</span></div><div class=\"news-body\">The Citrus Growers' Association of South Africa (CGA) and the Fresh Produce Exporters' Forum (FPEF) have announced the official closure of the 2026 Valencia orange export season to the European Union market. <span class=\"news-reason\">Official announcement of the end of the export campaign of a major citrus competitor to Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873830/il-sudafrica-chiude-le-esportazioni-di-arance-valencia-2026-verso-l-ue/\" target=\"_blank\">FreshPlaza IT -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">דרום אפריקה משעה את יצוא תפוזי הוולנסיה שלה לאיחוד האירופי -- <span class=\"news-date\">22/09/2026 06:05</span></div><div class=\"news-body\">איגוד מגדלי ההדרים של דרום אפריקה (CGA) ופורום יצואני התוצרת הטרייה (FPEF) הודיעו על הסגירה הרשמית של עונת היצוא 2026 של תפוזי וולנסיה לשוק האיחוד האירופי. <span class=\"news-reason\">הודעה רשמית על סיום עונת היצוא של מתחרה מרכזי בהדרים לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9873830/il-sudafrica-chiude-le-esportazioni-di-arance-valencia-2026-verso-l-ue/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1790004833_1",
       "timestamp": "2026-09-21T15:33:53.912586+00:00",
@@ -306,7 +375,7 @@
     {
       "id": "1789966927_1",
       "timestamp": "2026-09-21T05:02:07.507516+00:00",
-      "title": "Prix à la production record pour l&#x27;orange blonde de Ribera DOP",
+      "title": "Prix à la production records pour l&#x27;orange blonde de Ribera DOP",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -317,7 +386,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prix à la production record pour l&#x27;orange blonde de Ribera DOP -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">À l&#x27;approche de la nouvelle saison, l&#x27;orange blonde de Ribera DOP (Sicile) enregistre les prix à la production les plus élevés au monde selon Paolo Parlapiano. Bien que positionné sur un marché de niche, le produit gagne en visibilité commerciale grâce à sa certification DOP. <span class=\"news-reason\">Information sur les prix et le positionnement d&#x27;une origine concurrente (Sicile) pour les oranges, un produit cœur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prix à la production records pour l&#x27;orange blonde de Ribera DOP -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">À l&#x27;approche de la nouvelle saison, l&#x27;orange blonde de Ribera DOP (Sicile) enregistre les prix à la production les plus élevés au monde selon Paolo Parlapiano. Bien que positionné sur un marché de niche, le produit gagne en visibilité commerciale grâce à sa certification DOP. <span class=\"news-reason\">Information sur les prix et le positionnement d&#x27;une origine concurrente (Sicile) pour les oranges, un produit cœur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Record producer prices for the Ribera DOP blonde orange -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">As the new season approaches, the Ribera DOP blonde orange (Sicily) is recording the highest producer prices in the world according to Paolo Parlapiano. Although positioned in a niche market, the product is gaining commercial visibility thanks to its DOP certification. <span class=\"news-reason\">Information on the prices and positioning of a competing origin (Sicily) for oranges, a core product of Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מחירי יצרן שוברים שיאים עבור תפוז הבלונד מריברה DOP -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">לקראת העונה החדשה, תפוז הבלונד מריברה DOP (סיציליה) רושם את מחירי היצרן הגבוהים בעולם לפי פאולו פארלאפיאנו. למרות מיקומו בשוק נישה, המוצר זוכה לנראות מסחרית בזכות הסמכת ה-DOP שלו. <span class=\"news-reason\">מידע על מחירים ומיצוב של מקור מתחרה (סיציליה) עבור תפוזים, מוצר ליבה של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>"
     },
