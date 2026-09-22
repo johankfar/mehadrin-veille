@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-22T12:32:49.566529+00:00",
-  "article_count": 28,
+  "last_updated": "2026-09-22T14:02:54.655516+00:00",
+  "article_count": 26,
   "attention_points": [
     {
       "id": "attention-296426b8a6d469a2",
@@ -19,7 +19,7 @@
       "products": [
         "citrus_grapefruit"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-e41573122dfec189",
@@ -36,7 +36,7 @@
       "signal_label": "Volumes",
       "icon": "information",
       "products": [],
-      "age_hours": 1
+      "age_hours": 2
     },
     {
       "id": "attention-063a5345860dd37c",
@@ -55,7 +55,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 8
+      "age_hours": 9
     },
     {
       "id": "attention-9a8da5fa6fff73f6",
@@ -72,10 +72,28 @@
       "signal_label": "Météo",
       "icon": "weather",
       "products": [],
-      "age_hours": 24
+      "age_hours": 26
     }
   ],
   "articles": [
+    {
+      "id": "1790085774_1",
+      "timestamp": "2026-09-22T14:02:54.655516+00:00",
+      "title": "Maroc : la production d&#x27;avocats devrait s&#x27;élever à 180 000 tonnes pour la nouvelle saison -- 22/09/2026 13:31",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Maroc : la production d&#x27;avocats devrait s&#x27;élever à 180 000 tonnes pour la nouvelle saison -- <span class=\"news-date\">22/09/2026 13:31</span></div><div class=\"news-body\">Après une campagne précédente en retrait, les producteurs marocains d&#x27;avocats prévoient une reprise significative de la production nationale. Le volume total pour la saison 2025/26 est estimé à environ 180 000 tonnes selon les premières observations de terrain. <span class=\"news-reason\">Prévisions de volumes de production pour une origine concurrente directe de Mehadrin sur l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9875551/moroccan-production-should-come-in-at-around-180-000-tonnes/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Morocco: avocado production expected to reach 180,000 tons for the new season -- <span class=\"news-date\">22/09/2026 13:31</span></div><div class=\"news-body\">After a previous season in decline, Moroccan avocado producers anticipate a significant recovery in national production. The total volume for the 2025/26 season is estimated at around 180,000 tons according to initial field observations. <span class=\"news-reason\">Production volume forecasts for a direct competing origin of Mehadrin for avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9875551/moroccan-production-should-come-in-at-around-180-000-tonnes/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">מרוקו: ייצור האבוקדו צפוי להסתכם ב-180 000 טונות בעונה החדשה -- <span class=\"news-date\">22/09/2026 13:31</span></div><div class=\"news-body\">לאחר עונה קודמת חלשה, מגדלי האבוקדו במרוקו צופים התאוששות משמעותית בייצור הלאומי. הנפח הכולל לעונת 2025/26 מוערך בכ-180 000 טונות על פי תצפיות שטח ראשוניות. <span class=\"news-reason\">תחזיות לנפחי ייצור עבור מקור מתחרה ישיר של מהדרין באבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9875551/moroccan-production-should-come-in-at-around-180-000-tonnes/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1790080369_3",
       "timestamp": "2026-09-22T12:32:49.566529+00:00",
@@ -111,24 +129,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Algarve : les producteurs d&#x27;agrumes sous pression face aux importations égyptiennes -- <span class=\"news-date\">22/09/2026 13:31</span></div><div class=\"news-body\">La saison 2025/26 d&#x27;agrumes au Portugal s&#x27;achève le 30 septembre avec des résultats financiers inférieurs aux prévisions pour les producteurs de l&#x27;Algarve. Cette baisse de rentabilité est attribuée à la hausse des coûts de production et à un afflux massif d&#x27;importations en provenance d&#x27;Égypte et d&#x27;Afrique du Sud, provoquant une compression des prix sur le marché. <span class=\"news-reason\">Analyse de la concurrence directe Égypte/Afrique du Sud sur le marché européen des agrumes en fin de saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9875385/algarve-citrus-growers-face-lower-returns-as-imports-increase/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Algarve: citrus growers under pressure from Egyptian imports -- <span class=\"news-date\">22/09/2026 13:31</span></div><div class=\"news-body\">The 2025/26 citrus season in Portugal ends on September 30 with financial results below expectations for Algarve growers. This decline in profitability is attributed to rising production costs and a massive influx of imports from Egypt and South Africa, causing price compression in the market. <span class=\"news-reason\">Analysis of direct competition from Egypt/South Africa on the European citrus market at the end of the season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9875385/algarve-citrus-growers-face-lower-returns-as-imports-increase/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">אלגרבה: מגדלי ההדרים תחת לחץ מול הייבוא המצרי -- <span class=\"news-date\">22/09/2026 13:31</span></div><div class=\"news-body\">עונת ההדרים 2025/26 בפורטוגל מסתיימת ב-30 בספטמבר עם תוצאות כספיות נמוכות מהתחזיות עבור מגדלי אלגרבה. ירידה זו ברווחיות מיוחסת לעלייה בעלויות הייצור ולזרימה מאסיבית של ייבוא ממצרים ומדרום אפריקה, מה שגורם ללחיצת מחירים בשוק. <span class=\"news-reason\">ניתוח התחרות הישירה ממצרים ומדרום אפריקה בשוק ההדרים האירופי בסוף העונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9875385/algarve-citrus-growers-face-lower-returns-as-imports-increase/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1790080369_1",
-      "timestamp": "2026-09-22T12:32:49.566529+00:00",
-      "title": "Augmentation des alertes aux pesticides dans l&#x27;UE : la Turquie et l&#x27;Égypte en tête -- 21/09/2026 07:05",
-      "category": "ALERTES SUPPLY",
-      "commercials": [],
-      "products": [],
-      "origins": [
-        "ITA",
-        "ESP",
-        "MAR",
-        "EGY",
-        "TUR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Augmentation des alertes aux pesticides dans l&#x27;UE : la Turquie et l&#x27;Égypte en tête -- <span class=\"news-date\">21/09/2026 07:05</span></div><div class=\"news-body\">L&#x27;Union européenne a enregistré 622 cas de dépassement des limites de pesticides sur les fruits et légumes au cours de la campagne. La Turquie arrive en tête des pays générateurs d&#x27;alertes avec 108 signalements, suivie de près par l&#x27;Égypte avec 95 cas. Le Maroc totalise 8 alertes, tandis que l&#x27;Espagne en compte 23 et l&#x27;Italie 25. <span class=\"news-reason\">Problèmes de qualité et alertes sanitaires chez des concurrents directs (Égypte, Turquie, Maroc) sur des segments produits Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/durante-la-campana-se-han-detectado-en-la-ue-622-casos-de-exceso-de-pesticidas-en-frutas-y-hortalizas/\" target=\"_blank\">Hortoinfo -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Increase in pesticide alerts in the EU: Turkey and Egypt leading -- <span class=\"news-date\">21/09/2026 07:05</span></div><div class=\"news-body\">The European Union recorded 622 cases of exceeding pesticide limits on fruits and vegetables during the season. Turkey leads the list of alert-generating countries with 108 reports, followed closely by Egypt with 95 cases. Morocco totals 8 alerts, while Spain has 23 and Italy 25. <span class=\"news-reason\">Quality issues and health alerts at direct competitors (Egypt, Turkey, Morocco) on Mehadrin product segments.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/durante-la-campana-se-han-detectado-en-la-ue-622-casos-de-exceso-de-pesticidas-en-frutas-y-hortalizas/\" target=\"_blank\">Hortoinfo -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות שרשרת אספקה</div><div class=\"news-title\">עלייה בהתראות על חומרי הדברה באיחוד האירופי: טורקיה ומצרים בראש -- <span class=\"news-date\">21/09/2026 07:05</span></div><div class=\"news-body\">האיחוד האירופי רשם 622 מקרים של חריגה מגבולות חומרי ההדברה בפירות וירקות במהלך העונה. טורקיה מובילה את רשימת המדינות המייצרות התראות עם 108 דיווחים, ואחריה צמודה מצרים עם 95 מקרים. מרוקו רשמה סך הכל 8 התראות, בעוד ספרד רשמה 23 ואיטליה 25. <span class=\"news-reason\">בעיות איכות והתראות בריאותיות אצל מתחרים ישירים (מצרים, טורקיה, מרוקו) במקטעי מוצרי מהדרין.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/durante-la-campana-se-han-detectado-en-la-ue-622-casos-de-exceso-de-pesticidas-en-frutas-hortalizas/\" target=\"_blank\">Hortoinfo -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1790074940_2",
@@ -499,7 +499,7 @@
     {
       "id": "1789966927_1",
       "timestamp": "2026-09-21T05:02:07.507516+00:00",
-      "title": "Prix à la production records pour l’orange blonde de Ribera DOP",
+      "title": "Prix records à la production pour l’orange blonde de Ribera DOP",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -510,7 +510,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prix à la production records pour l’orange blonde de Ribera DOP -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">À l&#x27;approche de la nouvelle saison, l&#x27;orange blonde de Ribera DOP (Sicile) enregistre les prix à la production les plus élevés au monde selon Paolo Parlapiano. Bien que positionné sur un marché de niche, le produit gagne en visibilité commerciale grâce à sa certification DOP. <span class=\"news-reason\">Information sur les prix et le positionnement d&#x27;une origine concurrente (Sicile) pour les oranges, un produit cœur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prix records à la production pour l’orange blonde de Ribera DOP -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">À l&#x27;approche de la nouvelle saison, l&#x27;orange blonde de Ribera DOP (Sicile) enregistre les prix à la production les plus élevés au monde selon Paolo Parlapiano. Bien que positionné sur un marché de niche, le produit gagne en visibilité commerciale grâce à sa certification DOP. <span class=\"news-reason\">Information sur les prix et le positionnement d&#x27;une origine concurrente (Sicile) pour les oranges, un produit cœur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Record producer prices for the Ribera DOP blonde orange -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">As the new season approaches, the Ribera DOP blonde orange (Sicily) is recording the highest producer prices in the world according to Paolo Parlapiano. Although positioned in a niche market, the product is gaining commercial visibility thanks to its DOP certification. <span class=\"news-reason\">Information on the prices and positioning of a competing origin (Sicily) for oranges, a core product of Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מחירי יצרן שוברים שיאים עבור תפוז הבלונד מריברה DOP -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">לקראת העונה החדשה, תפוז הבלונד מריברה DOP (סיציליה) רושם את מחירי היצרן הגבוהים בעולם לפי פאולו פארלאפיאנו. למרות מיקומו בשוק נישה, המוצר זוכה לנראות מסחרית בזכות הסמכת ה-DOP שלו. <span class=\"news-reason\">מידע על מחירים ומיצוב של מקור מתחרה (סיציליה) עבור תפוזים, מוצר ליבה של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874199/prospettive-in-vista-della-prossima-stagione-dell-arancia-bionda-di-ribera-dop/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>"
     },
@@ -532,40 +532,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Promotion de l&#x27;avocat Hass du Pérou sur le marché italien -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">Dole Italia, en collaboration avec PromPerú, a organisé des activités promotionnelles en magasin les 18 et 19 septembre pour faire découvrir l&#x27;avocat Hass du Pérou aux consommateurs italiens. L&#x27;initiative visait à sensibiliser sur les caractéristiques gustatives et le degré de maturité optimal du fruit. <span class=\"news-reason\">L&#x27;article traite d&#x27;une campagne de promotion en magasin pour l&#x27;avocat Hass péruvien, un produit et une origine concurrents directs de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874827/un-weekend-alla-scoperta-dell-avocado-hass-del-peru/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Promotion of Peruvian Hass avocado on the Italian market -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">Dole Italia, in collaboration with PromPerú, organized in-store promotional activities on September 18 and 19 to introduce Peruvian Hass avocados to Italian consumers. The initiative aimed to raise awareness about the taste characteristics and optimal ripeness of the fruit. <span class=\"news-reason\">The article discusses an in-store promotion campaign for Peruvian Hass avocados, a product and origin that are direct competitors of Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874827/un-weekend-alla-scoperta-dell-avocado-hass-del-peru/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">קידום מכירות של אבוקדו האס מפרו בשוק האיטלקי -- <span class=\"news-date\">21/09/2026 06:34</span></div><div class=\"news-body\">חברת דול איטליה (Dole Italia), בשיתוף פעולה עם PromPerú, ארגנה פעילויות קידום מכירות בחנויות ב-18 וב-19 בספטמבר כדי להציג את אבוקדו האס מפרו לצרכנים האיטלקים. היוזמה נועדה להעלות את המודעות למאפייני הטעם ולדרגת הבשלות האופטימלית של הפרי. <span class=\"news-reason\">הכתבה עוסקת בקמפיין קידום מכירות בחנויות עבור אבוקדו האס הפרואני, מוצר ומקור המהווים מתחרים ישירים של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874827/un-weekend-alla-scoperta-dell-avocado-hass-del-peru/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>"
-    },
-    {
-      "id": "1789826610_3",
-      "timestamp": "2026-09-19T14:03:30.490383+00:00",
-      "title": "Part croissante des importations d&#x27;oranges hors Europe -- 18/09/2026 13:36",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "orange"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Part croissante des importations d&#x27;oranges hors Europe -- <span class=\"news-date\">18/09/2026 13:36</span></div><div class=\"news-body\">Les fournisseurs d&#x27;outre-mer représentent désormais 34,2 % des importations européennes d&#x27;oranges, avec un rôle accru entre juillet et octobre. Sur la période 2021-2025, les volumes provenant de fournisseurs européens sont passés de 2,17 millions de tonnes à 2,07 millions de tonnes, marquant un recul de l&#x27;offre régionale au profit de l&#x27;importation. <span class=\"news-reason\">Données chiffrées précises sur les volumes d&#x27;importations d&#x27;oranges en Europe et la part de marché des origines tierces.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9874373/overseas-suppliers-account-for-34-2-of-european-orange-imports/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Growing share of orange imports from outside Europe -- <span class=\"news-date\">18/09/2026 13:36</span></div><div class=\"news-body\">Overseas suppliers now account for 34.2% of European orange imports, with an increased role between July and October. Over the 2021-2025 period, volumes from European suppliers dropped from 2.17 million tons to 2.07 million tons, marking a decline in regional supply in favor of imports. <span class=\"news-reason\">Precise figures on orange import volumes in Europe and the market share of third-party origins.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9874373/overseas-suppliers-account-for-34-2-of-european-orange-imports/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">חלק הולך וגדל של יבוא תפוזים מחוץ לאירופה -- <span class=\"news-date\">18/09/2026 13:36</span></div><div class=\"news-body\">ספקים מעבר לים מהווים כעת 34.2% מיבוא התפוזים לאירופה, עם תפקיד מוגבר בין יולי לאוקטובר. בתקופה שבין 2021 ל-2025, הכמויות המגיעות מספקים אירופאים ירדו מ-2.17 מיליון טון ל-2.07 מיליון טון, מה שמסמן נסיגה של ההיצע האזורי לטובת היבוא. <span class=\"news-reason\">נתונים מספריים מדויקים על כמויות יבוא התפוזים לאירופה ונתח השוק של מקורות צד שלישי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9874373/overseas-suppliers-account-for-34-2-of-european-orange-imports/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1789826610_1",
-      "timestamp": "2026-09-19T14:03:30.490383+00:00",
-      "title": "État du marché mondial de l&#x27;orange : phase de transition saisonnière -- 18/09/2026 13:45",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "orange"
-      ],
-      "origins": [
-        "ZAF"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">État du marché mondial de l&#x27;orange : phase de transition saisonnière -- <span class=\"news-date\">18/09/2026 13:45</span></div><div class=\"news-body\">Le marché mondial de l&#x27;orange est en phase de transition. Les campagnes de l&#x27;hémisphère Sud, notamment en Afrique du Sud, touchent à leur fin, tandis que les origines méditerranéennes et du Nord préparent le démarrage de leurs nouvelles saisons. L&#x27;offre sud-africaine reste présente mais diminue progressivement sur le marché européen. <span class=\"news-reason\">Analyse de la transition entre l&#x27;hémisphère Sud et l&#x27;hémisphère Nord pour les oranges, produit stratégique pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9874278/marche-mondial-l-orange/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">State of the global orange market: seasonal transition phase -- <span class=\"news-date\">18/09/2026 13:45</span></div><div class=\"news-body\">The global orange market is in a transition phase. Campaigns in the Southern Hemisphere, notably in South Africa, are coming to an end, while Mediterranean and Northern origins are preparing for the start of their new seasons. South African supply remains present but is gradually decreasing on the European market. <span class=\"news-reason\">Analysis of the transition between the Southern Hemisphere and the Northern Hemisphere for oranges, a strategic product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9874278/marche-mondial-l-orange/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מצב שוק התפוזים העולמי: שלב מעבר עונתי -- <span class=\"news-date\">18/09/2026 13:45</span></div><div class=\"news-body\">שוק התפוזים העולמי נמצא בשלב של מעבר. העונות בחצי הכדור הדרומי, במיוחד בדרום אפריקה, מגיעות לסיומן, בעוד שהמקורות הים-תיכוניים והצפוניים נערכים לתחילת העונות החדשות שלהם. ההיצע מדרום אפריקה נותר נוכח אך הולך ופוחת בהדרגה בשוק האירופי. <span class=\"news-reason\">ניתוח המעבר בין חצי הכדור הדרומי לחצי הכדור הצפוני עבור תפוזים, מוצר אסטרטגי עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9874278/marche-mondial-l-orange/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
