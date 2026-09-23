@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-09-23T05:03:14.619249+00:00",
-  "article_count": 39,
+  "last_updated": "2026-09-23T06:33:34.599567+00:00",
+  "article_count": 45,
   "attention_points": [
     {
-      "id": "attention-4d1cbb6127d9de68",
-      "article_id": "1790139794_4",
-      "url": "https://www.freshplaza.it/article/9874718/il-modo-migliore-per-ricostruire-la-fiducia-nel-mercato-dell-avocado-e-puntare-sui-programmi-anticipati/",
-      "source": "FreshPlaza IT",
-      "title": "Regain de confiance sur le marché marocain de l'avocat",
-      "summary": "Après une campagne 2025/26 difficile, les exportateurs marocains anticipent une saison de reprise.",
-      "origin_code": "MAR",
-      "origin_label": "Maroc",
-      "published_at": "2026-09-23T06:00:00+02:00",
+      "id": "attention-709026c982122970",
+      "article_id": "1790145214_1",
+      "url": "https://www.freshplaza.cn/article/9874753/jin-guan-niu-you-guo-jian-chan-qi-jie-ge-reng-bao-chi-jian-ting/",
+      "source": "FreshPlaza CN",
+      "title": "Augmentation des prix de l'avocat en Australie en raison",
+      "summary": "Les prix de l'avocat augmentent de 25 % à 30 % en trois semaines",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-09-23T07:34:00+02:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
@@ -19,14 +19,14 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 1
+      "age_hours": 0
     },
     {
       "id": "attention-971e6d64a82eb3ff",
       "article_id": "1790139794_2",
       "url": "https://www.freshplaza.it/article/9874725/la-nuova-varieta-marocchina-sweetcott-ottiene-la-protezione-ue-fino-al-2056/",
       "source": "FreshPlaza IT",
-      "title": "La nouvelle variété de mandarine SweetCott bénéficie d’une protection",
+      "title": "La nouvelle variété de mandarine SweetCott bénéficie d'une protection",
       "summary": "La variété de mandarine SweetCott, développée par Les Domaines au Maroc, a reçu une protection officielle de l'Union européenne le 7 septembre 2026.",
       "origin_code": "MAR",
       "origin_label": "Maroc",
@@ -38,14 +38,33 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 1
+      "age_hours": 2
+    },
+    {
+      "id": "attention-319296fc375cbfd7",
+      "article_id": "1790145214_3",
+      "url": "https://www.freshplaza.es/article/9875231/las-cosechas-de-mandarina-en-croacia-podrian-caer-entre-un-30-y-un-40-tras-la-sequia/",
+      "source": "FreshPlaza ES",
+      "title": "Impact de la sécheresse sur la récolte de mandarines",
+      "summary": "Dans la vallée de la Neretva, les producteurs de mandarines anticipent une chute de la production de 30 % à 40 %.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-09-22T16:16:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
+      "products": [
+        "mandarine"
+      ],
+      "age_hours": 16
     },
     {
       "id": "attention-e7bcf95dfc8b04e7",
       "article_id": "1790091218_1",
       "url": "https://www.freshplaza.es/article/9875270/ecuador-y-peru-preven-fuertes-caidas-de-volumen-de-mango-por-las-condiciones-meteorologicas/",
       "source": "FreshPlaza ES",
-      "title": "Baisse significative des volumes de mangues attendue en Équateur",
+      "title": "Recul significatif des volumes de mangues attendu en Équateur",
       "summary": "La saison d'automne du mango s'annonce marquée par une offre limitée et des prix élevés.",
       "origin_code": "PER",
       "origin_label": "Pérou",
@@ -57,30 +76,109 @@
       "products": [
         "mango"
       ],
-      "age_hours": 14
-    },
-    {
-      "id": "attention-d985698ee0de7cc7",
-      "article_id": "1790102007_1",
-      "url": "https://www.agf.nl/article/9875282/zonnebrand-op-avocado-s-in-valencia/",
-      "source": "AGF.nl",
-      "title": "Dégâts causés par les brûlures solaires sur les avocats",
-      "summary": "L'organisation agricole espagnole La Unió Llauradora alerte sur des dommages étendus causés par le soleil sur les avocats dans la Communauté valencienne.",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-09-22T12:04:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [
-        "avocat",
-        "orange"
-      ],
-      "age_hours": 18
+      "age_hours": 16
     }
   ],
   "articles": [
+    {
+      "id": "1790145214_6",
+      "timestamp": "2026-09-23T06:33:34.599567+00:00",
+      "title": "L&#x27;Égypte accroît sa représentation commerciale au salon Fruit Attraction -- 22/09/2026 13:49",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "EGY"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;Égypte accroît sa représentation commerciale au salon Fruit Attraction -- <span class=\"news-date\">22/09/2026 13:49</span></div><div class=\"news-body\">Une centaine d&#x27;entreprises égyptiennes exposeront à Fruit Attraction à Madrid, dont 67 au sein du pavillon national. Cette délégation, organisée par le Conseil d&#x27;exportation agricole, vise à diversifier les marchés et promouvoir la montée en gamme des produits égyptiens. <span class=\"news-reason\">Positionnement commercial d&#x27;un concurrent direct sur les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9875223/diversification-et-montee-en-gamme-l-egypte-mise-sur-fruit-attraction-pour-conquerir-de-nouveaux-marches/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Egypt increases its commercial representation at the Fruit Attraction fair -- <span class=\"news-date\">22/09/2026 13:49</span></div><div class=\"news-body\">About a hundred Egyptian companies will exhibit at Fruit Attraction in Madrid, including 67 within the national pavilion. This delegation, organized by the Agricultural Export Council, aims to diversify markets and promote the upscaling of Egyptian products. <span class=\"news-reason\">Commercial positioning of a direct competitor on citrus fruits.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9875223/diversification-et-montee-en-gamme-l-egypte-mise-sur-fruit-attraction-pour-conquerir-de-new-marches/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">מצרים מגדילה את הייצוג המסחרי שלה בתערוכת Fruit Attraction -- <span class=\"news-date\">22/09/2026 13:49</span></div><div class=\"news-body\">כמאה חברות מצריות יציגו בתערוכת Fruit Attraction במדריד, מתוכן 67 בביתן הלאומי. משלחת זו, שאורגנה על ידי המועצה לייצוא חקלאי, שואפת לגוון את השווקים ולקדם את העלאת רמת המוצרים המצריים. <span class=\"news-reason\">מיצוב מסחרי של מתחרה ישיר בהדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9875223/diversification-et-montee-en-gamme-l-egypte-mise-sur-fruit-attraction-pour-conquerir-de-nouveaux-marches/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790145214_5",
+      "timestamp": "2026-09-23T06:33:34.599567+00:00",
+      "title": "L&#x27;Éthiopie prévoit une expansion massive de ses surfaces de culture d&#x27;avocats.",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Éthiopie prévoit une expansion massive de ses surfaces de culture d&#x27;avocats. -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">Le ministère de l&#x27;Agriculture éthiopien a lancé un plan de développement sur 15 ans visant à porter la superficie dédiée à l&#x27;avocat de 104 000 à 192 000 hectares d&#x27;ici 2040, afin de s&#x27;imposer parmi les principaux exportateurs mondiaux. <span class=\"news-reason\">Stratégie d&#x27;expansion à long terme d&#x27;une origine concurrente avec chiffres de surface.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875252/etiopia-quiere-llegar-a-192-000-hectareas-de-aguacate-para-2040/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Ethiopia plans massive expansion of its avocado cultivation areas. -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">The Ethiopian Ministry of Agriculture has launched a 15-year development plan aimed at increasing the area dedicated to avocados from 104,000 to 192,000 hectares by 2040, in order to become one of the world&#x27;s leading exporters. <span class=\"news-reason\">Long-term expansion strategy of a competing origin with surface figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875252/etiopia-quiere-llegar-a-192-000-hectareas-de-aguacate-para-2040/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">אתיופיה מתכננת הרחבה מאסיבית של שטחי גידול האבוקדו שלה -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">משרד החקלאות האתיופי השיק תוכנית פיתוח ל-15 שנים שמטרתה להגדיל את השטח המוקדש לאבוקדו מ-104,000 ל-192,000 הקטרים עד שנת 2040, במטרה להתבסס בין יצואניות האבוקדו המובילות בעולם. <span class=\"news-reason\">אסטרטגיית התרחבות לטווח ארוך של מקור מתחרה עם נתוני שטחים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875252/etiopia-quiere-llegar-a-192-000-hectareas-de-aguacate-para-2040/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790145214_4",
+      "timestamp": "2026-09-23T06:33:34.599567+00:00",
+      "title": "Analyse des alertes relatives aux résidus de pesticides au sein de l&#x27;Union Européenne -- 21/09/2026 07:05",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "ITA",
+        "MAR",
+        "EGY",
+        "TUR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Analyse des alertes relatives aux résidus de pesticides au sein de l&#x27;Union Européenne -- <span class=\"news-date\">21/09/2026 07:05</span></div><div class=\"news-body\">Au cours de la campagne, 622 cas de dépassement des limites de pesticides ont été détectés dans l&#x27;UE pour les fruits et légumes. La Turquie arrive en tête avec 108 alertes, suivie par l&#x27;Égypte avec 95 cas. L&#x27;Italie en dénombre 25 et le Maroc 8. <span class=\"news-reason\">Données comparatives sur la qualité et la conformité des origines concurrentes (Égypte, Turquie).</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/durante-la-campana-se-han-detectado-en-la-ue-622-casos-de-exceso-de-pesticidas-en-frutas-y-hortalizas/\" target=\"_blank\">Hortoinfo -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Analysis of alerts regarding pesticide residues within the European Union -- <span class=\"news-date\">21/09/2026 07:05</span></div><div class=\"news-body\">During the campaign, 622 cases of exceeding pesticide limits were detected in the EU for fruits and vegetables. Turkey leads with 108 alerts, followed by Egypt with 95 cases. Italy recorded 25 and Morocco 8. <span class=\"news-reason\">Comparative data on the quality and compliance of competing origins (Egypt, Turkey).</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/durante-la-campana-se-han-detectado-en-la-ue-622-casos-de-exceso-de-pesticidas-en-frutas-y-hortalizas/\" target=\"_blank\">Hortoinfo -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ניתוח התראות בנוגע לשאריות חומרי הדברה באיחוד האירופי -- <span class=\"news-date\">21/09/2026 07:05</span></div><div class=\"news-body\">במהלך העונה, זוהו באיחוד האירופי 622 מקרים של חריגה ממגבלות חומרי ההדברה בפירות וירקות. טורקיה מובילה עם 108 התראות, ואחריה מצרים עם 95 מקרים. באיטליה נספרו 25 מקרים ובמרוקו 8. <span class=\"news-reason\">נתונים השוואתיים על איכות ועמידה בתקנים של מקורות מתחרים (מצרים, טורקיה).</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/durante-la-campana-se-han-detectado-en-la-ue-622-casos-de-exceso-de-pesticidas-en-frutas-y-hortalizas/\" target=\"_blank\">Hortoinfo -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790145214_3",
+      "timestamp": "2026-09-23T06:33:34.599567+00:00",
+      "title": "Impact de la sécheresse sur la récolte de mandarines en Croatie",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact de la sécheresse sur la récolte de mandarines en Croatie -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">Dans la vallée de la Neretva, les producteurs de mandarines anticipent une chute de la production de 30 % à 40 %. Cette baisse est la conséquence de plusieurs mois de sécheresse, de températures extrêmes et de dégâts causés par les brûlures solaires sur les fruits. <span class=\"news-reason\">Alerte supply avec chiffres de baisse de production (30-40%) sur un produit stratégique.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875231/las-cosechas-de-mandarina-en-croacia-podrian-caer-entre-un-30-y-un-40-tras-la-sequia/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Mandarin harvest in Croatia affected by drought -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">In the Neretva Valley, mandarin producers anticipate a drop in production of 30% to 40%. This decline is the result of several months of drought, extreme temperatures, and damage caused by sunburn on the fruit. <span class=\"news-reason\">Supply alert with production drop figures (30-40%) on a strategic product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875231/las-cosechas-de-mandarina-en-croacia-podrian-caer-entre-un-30-y-un-40-tras-la-sequia/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">יבול המנדרינות בקרואטיה נפגע מהבצורת -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">בעמק נרטבה, מגדלי המנדרינות צופים ירידה בייצור של 30% עד 40%. ירידה זו היא תוצאה של חודשים ארוכים של בצורת, טמפרטורות קיצוניות ונזקים שנגרמו מכוויות שמש על הפירות. <span class=\"news-reason\">התראת אספקה עם נתוני ירידה בייצור (30-40%) במוצר אסטרטגי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875231/las-cosechas-de-mandarina-en-croacia-podrian-caer-entre-un-30-y-un-40-tras-la-sequia/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790145214_2",
+      "timestamp": "2026-09-23T06:33:34.599567+00:00",
+      "title": "Fin anticipée des exportations d&#x27;oranges Valencia sud-africaines vers l&#x27;Europe -- 22/09/2026 11:00",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "ZAF"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Fin anticipée des exportations d&#x27;oranges Valencia sud-africaines vers l&#x27;Europe -- <span class=\"news-date\">22/09/2026 11:00</span></div><div class=\"news-body\">L&#x27;Afrique du Sud clôture ses exportations d&#x27;oranges Valencia vers l&#x27;Europe. Pour les provinces du Cap Occidental et du Cap Nord, la date finale pour les inspections de produits destinés à l&#x27;exportation est fixée au 27 septembre 2026. <span class=\"news-reason\">Alerte de fin de campagne pour une origine concurrente majeure sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/22/sa-valencia-exports/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Early end of South African Valencia orange exports to Europe -- <span class=\"news-date\">22/09/2026 11:00</span></div><div class=\"news-body\">South Africa is closing its Valencia orange exports to Europe. For the Western Cape and Northern Cape provinces, the final date for product inspections for export is set for September 27, 2026. <span class=\"news-reason\">End-of-season alert for a major competing origin on a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/22/sa-valencia-exports/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סיום מוקדם של יצוא תפוזי ולנסיה מדרום אפריקה לאירופה -- <span class=\"news-date\">22/09/2026 11:00</span></div><div class=\"news-body\">דרום אפריקה מסיימת את יצוא תפוזי הוולנסיה שלה לאירופה. עבור מחוזות הכף המערבי והכף הצפוני, המועד האחרון לבדיקות מוצרים המיועדים לייצוא נקבע ל-27 בספטמבר 2026. <span class=\"news-reason\">התראת סיום עונה עבור מקור מתחרה מרכזי במוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/22/sa-valencia-exports/\" target=\"_blank\">Fresh Fruit Portal -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790145214_1",
+      "timestamp": "2026-09-23T06:33:34.599567+00:00",
+      "title": "Augmentation des prix de l&#x27;avocat en Australie en raison d&#x27;une production limitée -- 23/09/2026 07:34",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Augmentation des prix de l&#x27;avocat en Australie en raison d&#x27;une production limitée -- <span class=\"news-date\">23/09/2026 07:34</span></div><div class=\"news-body\">En Australie-Occidentale, la baisse de la production d&#x27;avocats a provoqué une envolée des prix. En seulement trois semaines, les tarifs ont progressé de 25 % à 30 % alors que l&#x27;offre nationale se raréfie. <span class=\"news-reason\">Contient des chiffres précis sur l&#x27;augmentation des prix (25-30%) d&#x27;un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.cn/article/9874753/jin-guan-niu-you-guo-jian-chan-qi-jie-ge-reng-bao-chi-jian-ting/\" target=\"_blank\">FreshPlaza CN -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Avocado price increase in Australia due to limited production -- <span class=\"news-date\">23/09/2026 07:34</span></div><div class=\"news-body\">In Western Australia, the decline in avocado production has caused prices to soar. In just three weeks, rates increased by 25% to 30% as national supply becomes scarce. <span class=\"news-reason\">Contains precise figures on the price increase (25-30%) of a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.cn/article/9874753/jin-guan-niu-you-guo-jian-chan-qi-jie-ge-reng-bao-chi-jian-ting/\" target=\"_blank\">FreshPlaza CN -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עליית מחירי האבוקדו באוסטרליה בשל ייצור מוגבל -- <span class=\"news-date\">23/09/2026 07:34</span></div><div class=\"news-body\">במערב אוסטרליה, הירידה בייצור האבוקדו גרמה לזינוק במחירים. בתוך שלושה שבועות בלבד, המחירים עלו ב-25% עד 30% בעוד ההיצע הלאומי הולך ומתמעט. <span class=\"news-reason\">מכיל נתונים מדויקים על עליית המחירים (25-30%) של מוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.cn/article/9874753/jin-guan-niu-you-guo-jian-chan-qi-jie-ge-reng-bao-chi-jian-ting/\" target=\"_blank\">FreshPlaza CN -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1790139794_4",
       "timestamp": "2026-09-23T05:03:14.619249+00:00",
@@ -102,7 +200,7 @@
     {
       "id": "1790139794_2",
       "timestamp": "2026-09-23T05:03:14.619249+00:00",
-      "title": "La nouvelle variété de mandarine SweetCott bénéficie d’une protection de l’UE jusqu’en 2056",
+      "title": "La nouvelle variété de mandarine SweetCott bénéficie d&#x27;une protection de l&#x27;UE jusqu&#x27;en 2056",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -113,7 +211,7 @@
       "origins": [
         "MAR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La nouvelle variété de mandarine SweetCott bénéficie d’une protection de l’UE jusqu’en 2056 -- <span class=\"news-date\">23/09/2026 06:00</span></div><div class=\"news-body\">La variété de mandarine SweetCott, développée par Les Domaines au Maroc, a reçu une protection officielle de l&#x27;Union européenne le 7 septembre 2026. Ce titre de protection garantit l&#x27;exclusivité de cette variété d&#x27;agrumes jusqu&#x27;au 31 décembre 2056. <span class=\"news-reason\">Information stratégique sur une nouvelle variété concurrente de mandarine (agrumes).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874725/la-nuova-varieta-marocchina-sweetcott-ottiene-la-protezione-ue-fino-al-2056/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La nouvelle variété de mandarine SweetCott bénéficie d&#x27;une protection de l&#x27;UE jusqu&#x27;en 2056 -- <span class=\"news-date\">23/09/2026 06:00</span></div><div class=\"news-body\">La variété de mandarine SweetCott, développée par Les Domaines au Maroc, a reçu une protection officielle de l&#x27;Union européenne le 7 septembre 2026. Ce titre de protection garantit l&#x27;exclusivité de cette variété d&#x27;agrumes jusqu&#x27;au 31 décembre 2056. <span class=\"news-reason\">Information stratégique sur une nouvelle variété concurrente de mandarine (agrumes).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874725/la-nuova-varieta-marocchina-sweetcott-ottiene-la-protezione-ue-fino-al-2056/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">The new SweetCott mandarin variety benefits from EU protection until 2056 -- <span class=\"news-date\">23/09/2026 06:00</span></div><div class=\"news-body\">The SweetCott mandarin variety, developed by Les Domaines in Morocco, received official European Union protection on September 7, 2026. This protection title guarantees exclusivity for this citrus variety until December 31, 2056. <span class=\"news-reason\">Strategic information on a new competing mandarin (citrus) variety.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874725/la-nuova-varieta-marocchina-sweetcott-ottiene-la-protezione-ue-fino-al-2056/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות בין מקורות</div><div class=\"news-title\">זן המנדרינה החדש SweetCott נהנה מהגנה של האיחוד האירופי עד שנת 2056 -- <span class=\"news-date\">23/09/2026 06:00</span></div><div class=\"news-body\" dir=\"rtl\">זן המנדרינה SweetCott, שפותח על ידי Les Domaines במרוקו, קיבל הגנה רשמית מהאיחוד האירופי ב-7 בספטמבר 2026. תואר הגנה זה מבטיח את הבלעדיות של זן הדרים זה עד ה-31 בדצמבר 2056. <span class=\"news-reason\">מידע אסטרטגי על זן מנדרינה מתחרה חדש (הדרים).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874725/la-nuova-varieta-marocchina-sweetcott-ottiene-la-protezione-ue-fino-al-2056/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -188,7 +286,7 @@
     {
       "id": "1790096593_2",
       "timestamp": "2026-09-22T17:03:13.020540+00:00",
-      "title": "Maintien des prix élevés sur le marché de l&#x27;avocat malgré une demande modérée",
+      "title": "Persistance des prix élevés sur le marché de l’avocat en dépit d’une demande modérée",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -197,7 +295,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Maintien des prix élevés sur le marché de l&#x27;avocat malgré une demande modérée -- <span class=\"news-date\">22/09/2026 06:05</span></div><div class=\"news-body\">Le marché de l&#x27;avocat traverse une phase atypique avec des prix de vente très fermes, bien que la demande globale soit en recul par rapport au mois d&#x27;août. Joel Pascual, de Cartama Europe, confirme que les cours actuels restent très favorables pour cette période de l&#x27;année. <span class=\"news-reason\">Données sur les tendances de prix actuelles pour un produit stratégique de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874685/una-situazione-atipica-sul-mercato-dell-avocado/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Persistance des prix élevés sur le marché de l’avocat en dépit d’une demande modérée -- <span class=\"news-date\">22/09/2026 06:05</span></div><div class=\"news-body\">Le marché de l&#x27;avocat traverse une phase atypique avec des prix de vente très fermes, bien que la demande globale soit en recul par rapport au mois d&#x27;août. Joel Pascual, de Cartama Europe, confirme que les cours actuels restent très favorables pour cette période de l&#x27;année. <span class=\"news-reason\">Données sur les tendances de prix actuelles pour un produit stratégique de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874685/una-situazione-atipica-sul-mercato-dell-avocado/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">High prices maintained on the avocado market despite moderate demand -- <span class=\"news-date\">22/09/2026 06:05</span></div><div class=\"news-body\">The avocado market is going through an atypical phase with very firm sales prices, although overall demand is down compared to August. Joel Pascual, from Cartama Europe, confirms that current prices remain very favorable for this time of year. <span class=\"news-reason\">Data on current price trends for a strategic Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874685/una-situazione-atipica-sul-mercato-dell-avocado/\" target=\"_blank\">FreshPlaza IT -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">שמירה על מחירים גבוהים בשוק האבוקדו למרות ביקוש מתון -- <span class=\"news-date\">22/09/2026 06:05</span></div><div class=\"news-body\">שוק האבוקדו עובר שלב לא טיפוסי עם מחירי מכירה יציבים מאוד, למרות שהביקוש העולמי נמצא בירידה בהשוואה לחודש אוגוסט. חואל פסקואל, מ-Cartama Europe, מאשר כי המחירים הנוכחיים נותרים נוחים מאוד לתקופה זו של השנה. <span class=\"news-reason\">נתונים על מגמות מחירים נוכחיות עבור מוצר אסטרטגי של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874685/una-situazione-atipica-sul-mercato-dell-avocado/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -288,7 +386,7 @@
     {
       "id": "1790091218_1",
       "timestamp": "2026-09-22T15:33:38.259133+00:00",
-      "title": "Baisse significative des volumes de mangues attendue en Équateur et au Pérou",
+      "title": "Recul significatif des volumes de mangues attendu en Équateur et au Pérou",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -300,7 +398,7 @@
         "PER",
         "BRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Baisse significative des volumes de mangues attendue en Équateur et au Pérou -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">La saison d&#x27;automne du mango s&#x27;annonce marquée par une offre limitée et des prix élevés. Des chutes importantes de volumes sont prévues en Équateur et au Pérou en raison des conditions météorologiques. Actuellement, le Brésil expédie des volumes restreints, maintenant les cours à un niveau élevé. <span class=\"news-reason\">Alerte supply majeure sur la mangue avec impact direct sur les prix du marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875270/ecuador-y-peru-preven-fuertes-caidas-de-volumen-de-mango-por-las-condiciones-meteorologicas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Recul significatif des volumes de mangues attendu en Équateur et au Pérou -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">La saison d&#x27;automne du mango s&#x27;annonce marquée par une offre limitée et des prix élevés. Des chutes importantes de volumes sont prévues en Équateur et au Pérou en raison des conditions météorologiques. Actuellement, le Brésil expédie des volumes restreints, maintenant les cours à un niveau élevé. <span class=\"news-reason\">Alerte supply majeure sur la mangue avec impact direct sur les prix du marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875270/ecuador-y-peru-preven-fuertes-caidas-de-volumen-de-mango-por-las-condiciones-meteorologicas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Significant drop in mango volumes expected in Ecuador and Peru -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">The autumn mango season is expected to be marked by limited supply and high prices. Significant volume drops are predicted in Ecuador and Peru due to weather conditions. Currently, Brazil is shipping limited volumes, keeping prices at a high level. <span class=\"news-reason\">Major supply alert on mangoes with a direct impact on market prices.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875270/ecuador-y-peru-preven-fuertes-caidas-de-volumen-de-mango-por-las-condiciones-meteorologicas/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ירידה משמעותית בכמויות המנגו צפויה באקוודור ובפרו -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">עונת הסתיו של המנגו צפויה להתאפיין בהיצע מוגבל ובמחירים גבוהים. צניחה משמעותית בכמויות צפויה באקוודור ובפרו עקב תנאי מזג האוויר. כיום, ברזיל שולחת כמויות מצומצמות, דבר השומר על רמת מחירים גבוהה. <span class=\"news-reason\">התרעת אספקה משמעותית על המנגו עם השפעה ישירה על מחירי השוק.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875270/ecuador-y-peru-preven-fuertes-caidas-de-volumen-de-mango-por-las-condiciones-meteorologicas/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
