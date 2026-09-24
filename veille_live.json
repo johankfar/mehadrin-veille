@@ -1,17 +1,36 @@
 {
-  "last_updated": "2026-09-24T09:34:27.826852+00:00",
-  "article_count": 65,
+  "last_updated": "2026-09-24T11:04:51.918105+00:00",
+  "article_count": 69,
   "attention_points": [
     {
-      "id": "attention-823f3cfd9eb92713",
-      "article_id": "1790242467_0",
-      "url": "https://cagor.net/morocco-foodex-prepare-les-exportateurs-marocains-aux-defis-de-la-durabilite-sur-les-marches-europeens/",
-      "source": "CAGOR",
-      "title": "Le Maroc prépare ses exportateurs aux normes de durabilité",
-      "summary": "Morocco Foodex mobilise les exportateurs d'Agadir face aux exigences environnementales.",
-      "origin_code": "MAR",
-      "origin_label": "Maroc",
-      "published_at": "2026-09-24T09:17:41+00:00",
+      "id": "attention-170d358bb7cc5423",
+      "article_id": "1790247891_1",
+      "url": "https://www.freshfruitportal.com/news/2026/09/24/brazil-orange-projection/",
+      "source": "Fresh Fruit Portal",
+      "title": "Révision à la hausse de la production d'oranges",
+      "summary": "Un poids de fruit supérieur augmente les projections initiales",
+      "origin_code": "BRA",
+      "origin_label": "Brésil",
+      "published_at": "2026-09-24T11:00:48+00:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "orange"
+      ],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-505fe98e83627065",
+      "article_id": "1790247891_2",
+      "url": "https://www.agf.nl/article/9876244/mrl-overschrijding-op-importcitrus-in-spaanse-supermarkten/",
+      "source": "AGF.nl",
+      "title": "Dépassement des limites de résidus sur les agrumes importés",
+      "summary": "Des analyses effectuées sur des agrumes vendus dans des supermarchés espagnols ont révélé des dépassements des limites maximales de résidus (LMR) de pesticides.",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
+      "published_at": "2026-09-24T12:06:00+02:00",
       "published_at_source": "rss",
       "signal_type": "alert",
       "signal_label": "Alerte",
@@ -36,14 +55,14 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-e690ad0ebbfe1911",
       "article_id": "1790226284_1",
       "url": "https://www.freshplaza.it/article/9874735/nel-2027-il-super-el-nino-potrebbe-creare-una-stagione-degli-avocado-piuttosto-diversa-da-quella-di-quest-anno/",
       "source": "FreshPlaza IT",
-      "title": "L’avocat sud-africain achève sa campagne 2026 face aux défis",
+      "title": "L'avocat d'Afrique du Sud conclut sa campagne 2026 face",
       "summary": "Le producteur ZZ2 a chargé ses derniers volumes d'avocats de la saison 2026 vers l'Union européenne et le Royaume-Uni.",
       "origin_code": "ZAF",
       "origin_label": "Afrique du Sud",
@@ -55,27 +74,74 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 5
-    },
-    {
-      "id": "attention-9cf7ec80ac2b4ddb",
-      "article_id": "1790172301_5",
-      "url": "https://www.freshplaza.com/article/9875800/florida-citrus-to-bring-fresh-optimism-to-orlando/",
-      "source": "FreshPlaza",
-      "title": "Perspectives de redressement pour les agrumes de Floride",
-      "summary": "Le Florida Department of Citrus affiche un optimisme prudent pour la prochaine saison.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-09-23T13:36:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [],
-      "age_hours": 21
+      "age_hours": 6
     }
   ],
   "articles": [
+    {
+      "id": "1790247891_4",
+      "timestamp": "2026-09-24T11:04:51.918105+00:00",
+      "title": "Ratification d&#x27;un accord commercial entre le Pérou et l&#x27;Indonésie -- 23/09/2026 12:20",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "PER"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Ratification d&#x27;un accord commercial entre le Pérou et l&#x27;Indonésie -- <span class=\"news-date\">23/09/2026 12:20</span></div><div class=\"news-body\">Le gouvernement péruvien a ratifié l&#x27;Accord de Partenariat Économique Global (CEPA) avec l&#x27;Indonésie. Cet accord vise à supprimer les droits de douane pour les exportations agricoles péruviennes, renforçant la compétitivité du pays sur les marchés asiatiques. <span class=\"news-reason\">Expansion commerciale d&#x27;une origine concurrente (Pérou) ouvrant de nouveaux débouchés pour ses exportations agricoles.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9874359/peru-indonesia-trade-deal-opens-duty-free-access-for-agricultural-exports/\" target=\"_blank\">HortiDaily -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Ratification of a trade agreement between Peru and Indonesia -- <span class=\"news-date\">23/09/2026 12:20</span></div><div class=\"news-body\">The Peruvian government has ratified the Comprehensive Economic Partnership Agreement (CEPA) with Indonesia. This agreement aims to eliminate tariffs for Peruvian agricultural exports, strengthening the country's competitiveness in Asian markets. <span class=\"news-reason\">Commercial expansion of a competing origin (Peru) opening new markets for its agricultural exports.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9874359/peru-indonesia-trade-deal-opens-duty-free-access-for-agricultural-exports/\" target=\"_blank\">HortiDaily -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">אישור הסכם סחר בין פרו לאינדונזיה -- <span class=\"news-date\">23/09/2026 12:20</span></div><div class=\"news-body\">ממשלת פרו אישרה את הסכם השותפות הכלכלית המקיפה (CEPA) עם אינדונזיה. הסכם זה נועד לבטל את המכסים על ייצוא חקלאי מפרו, ובכך לחזק את התחרותיות של המדינה בשווקים האסיאתיים. <span class=\"news-reason\">התרחבות מסחרית של מקור מתחרה (פרו) הפותחת שווקים חדשים לייצוא החקלאי שלה.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9874359/peru-indonesia-trade-deal-opens-duty-free-access-for-agricultural-exports/\" target=\"_blank\">HortiDaily -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790247891_3",
+      "timestamp": "2026-09-24T11:04:51.918105+00:00",
+      "title": "L&#x27;Ouzbékistan examine le modèle égyptien d&#x27;exportation de fruits -- 23/09/2026 12:20",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "EGY"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;Ouzbékistan examine le modèle égyptien d&#x27;exportation de fruits -- <span class=\"news-date\">23/09/2026 12:20</span></div><div class=\"news-body\">Une délégation d&#x27;entrepreneurs ouzbeks a visité la société agricole égyptienne Belco pour étudier son modèle de production et d&#x27;exportation. L&#x27;étude a porté sur les processus de culture, de tri, de conditionnement et la préparation logistique pour les marchés internationaux. <span class=\"news-reason\">Observation d&#x27;une stratégie de développement des capacités d&#x27;exportation d&#x27;une origine concurrente (Égypte) sur les agrumes et légumes.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9874441/uzbek-growers-study-egyptian-fruit-and-vegetable-export-model/\" target=\"_blank\">HortiDaily -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Uzbekistan examines Egyptian fruit export model -- <span class=\"news-date\">23/09/2026 12:20</span></div><div class=\"news-body\">A delegation of Uzbek entrepreneurs visited the Egyptian agricultural company Belco to study its production and export model. The study focused on cultivation, sorting, and packaging processes, as well as logistical preparation for international markets. <span class=\"news-reason\">Observation of a strategy to develop export capacities of a competing origin (Egypt) for citrus and vegetables.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9874441/uzbek-growers-study-egyptian-fruit-and-vegetable-export-model/\" target=\"_blank\">HortiDaily -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">אוזבקיסטן בוחנת את מודל ייצוא הפירות המצרי -- <span class=\"news-date\">23/09/2026 12:20</span></div><div class=\"news-body\">משלחת של יזמים אוזבקים ביקרה בחברה החקלאית המצרית Belco כדי ללמוד את מודל הייצור והייצוא שלה. המחקר התמקד בתהליכי הגידול, המיון, האריזה וההכנה הלוגיסטית לשווקים הבינלאומיים. <span class=\"news-reason\">תצפית על אסטרטגיית פיתוח יכולות ייצוא של מקור מתחרה (מצרים) בתחום ההדרים והירקות.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9874441/uzbek-growers-study-egyptian-fruit-and-vegetable-export-model/\" target=\"_blank\">HortiDaily -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790247891_2",
+      "timestamp": "2026-09-24T11:04:51.918105+00:00",
+      "title": "Dépassement des limites de résidus sur les agrumes importés en Espagne -- 24/09/2026 12:06",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Dépassement des limites de résidus sur les agrumes importés en Espagne -- <span class=\"news-date\">24/09/2026 12:06</span></div><div class=\"news-body\">Des analyses effectuées sur des agrumes vendus dans des supermarchés espagnols ont révélé des dépassements des limites maximales de résidus (LMR) de pesticides. L&#x27;organisation La Unió souligne l&#x27;écart entre les normes strictes imposées aux producteurs européens et celles appliquées aux fruits importés. <span class=\"news-reason\">Alerte qualité et phytosanitaire sur un produit Mehadrin (agrumes) en Europe, constituant un argument commercial.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9876244/mrl-overschrijding-op-importcitrus-in-spaanse-supermarkten/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Exceeding residue limits on imported citrus in Spain -- <span class=\"news-date\">24/09/2026 12:06</span></div><div class=\"news-body\">Tests carried out on citrus fruits sold in Spanish supermarkets have revealed exceedances of maximum residue levels (MRLs) for pesticides. The organization La Unió highlights the gap between the strict standards imposed on European producers and those applied to imported fruit. <span class=\"news-reason\">Quality and phytosanitary alert on a Mehadrin product (citrus) in Europe, serving as a commercial argument.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9876244/mrl-overschrijding-op-importcitrus-in-spaanse-supermarkten/\" target=\"_blank\">AGF.nl -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">חריגה מרמות השאריות בהדרים מיובאים בספרד -- <span class=\"news-date\">24/09/2026 12:06</span></div><div class=\"news-body\">בדיקות שנערכו בהדרים שנמכרו בסופרמרקטים בספרד חשפו חריגות מהרמות המרביות של שאריות חומרי הדברה (MRL). ארגון La Unió מדגיש את הפער בין התקנים המחמירים המוטלים על יצרנים אירופאים לבין אלה החלים על פירות מיובאים. <span class=\"news-reason\">התראת איכות ופיטוסניטריה על מוצר מהדרין (הדרים) באירופה, המהווה טיעון מסחרי.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9876244/mrl-overschrijding-op-importcitrus-in-spaanse-supermarkten/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790247891_1",
+      "timestamp": "2026-09-24T11:04:51.918105+00:00",
+      "title": "Révision à la hausse de la production d&#x27;oranges au Brésil -- 24/09/2026 11:00",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "BRA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Révision à la hausse de la production d&#x27;oranges au Brésil -- <span class=\"news-date\">24/09/2026 11:00</span></div><div class=\"news-body\">Les projections de production d&#x27;oranges pour la ceinture agrumicole de São Paulo et du Minas Gerais ont été revues à la hausse. Cette mise à jour s&#x27;explique par un poids des fruits plus important que prévu pour la campagne en cours. <span class=\"news-reason\">Information sur la disponibilité future des oranges (produit Mehadrin) chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/24/brazil-orange-projection/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Upward revision of orange production in Brazil -- <span class=\"news-date\">24/09/2026 11:00</span></div><div class=\"news-body\">Orange production projections for the São Paulo and Minas Gerais citrus belt have been revised upwards. This update is due to higher-than-expected fruit weight for the current season. <span class=\"news-reason\">Information on the future availability of oranges (Mehadrin product) from a major competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/24/brazil-orange-projection/\" target=\"_blank\">Fresh Fruit Portal -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">עדכון כלפי מעלה של תחזית ייצור התפוזים בברזיל -- <span class=\"news-date\">24/09/2026 11:00</span></div><div class=\"news-body\">תחזיות ייצור התפוזים עבור חגורת ההדרים של סאו פאולו ומינאס ז'ראיס עודכנו כלפי מעלה. עדכון זה מוסבר במשקל פרי גבוה מהצפוי בעונה הנוכחית. <span class=\"news-reason\">מידע על זמינות עתידית של תפוזים (מוצר מהדרין) אצל מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/24/brazil-orange-projection/\" target=\"_blank\">Fresh Fruit Portal -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1790242467_2",
       "timestamp": "2026-09-24T09:34:27.826852+00:00",
@@ -165,7 +231,7 @@
     {
       "id": "1790226284_1",
       "timestamp": "2026-09-24T05:04:44.738587+00:00",
-      "title": "L’avocat sud-africain achève sa campagne 2026 face aux défis climatiques de 2027",
+      "title": "L&#x27;avocat d&#x27;Afrique du Sud conclut sa campagne 2026 face aux enjeux climatiques de 2027",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -176,7 +242,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L’avocat sud-africain achève sa campagne 2026 face aux défis climatiques de 2027 -- <span class=\"news-date\">24/09/2026 06:05</span></div><div class=\"news-body\">Le producteur ZZ2 a chargé ses derniers volumes d&#x27;avocats de la saison 2026 vers l&#x27;Union européenne et le Royaume-Uni. Le secteur anticipe déjà des perturbations majeures pour la saison 2027 en raison des prévisions d&#x27;un épisode &#x27;super&#x27; El Niño qui pourrait modifier considérablement les conditions de récolte. <span class=\"news-reason\">Info sur la fin de campagne d&#x27;un concurrent direct et alertes sur les risques de production futurs (El Niño).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874735/nel-2027-il-super-el-nino-potrebbe-creare-una-stagione-degli-avocado-piuttosto-diversa-da-quella-di-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;avocat d&#x27;Afrique du Sud conclut sa campagne 2026 face aux enjeux climatiques de 2027 -- <span class=\"news-date\">24/09/2026 06:05</span></div><div class=\"news-body\">Le producteur ZZ2 a chargé ses derniers volumes d&#x27;avocats de la saison 2026 vers l&#x27;Union européenne et le Royaume-Uni. Le secteur anticipe déjà des perturbations majeures pour la saison 2027 en raison des prévisions d&#x27;un épisode &#x27;super&#x27; El Niño qui pourrait modifier considérablement les conditions de récolte. <span class=\"news-reason\">Info sur la fin de campagne d&#x27;un concurrent direct et alertes sur les risques de production futurs (El Niño).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874735/nel-2027-il-super-el-nino-potrebbe-creare-una-stagione-degli-avocado-piuttosto-diversa-da-quella-di-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">South African avocado closes its 2026 campaign in the face of 2027 climate threats -- <span class=\"news-date\">24/09/2026 06:05</span></div><div class=\"news-body\">Producer ZZ2 has loaded its last avocado volumes of the 2026 season for the European Union and the United Kingdom. The sector is already anticipating major disruptions for the 2027 season due to forecasts of a &#x27;super&#x27; El Niño event that could significantly alter harvesting conditions. <span class=\"news-reason\">Information on the end of a direct competitor&#x27;s campaign and alerts on future production risks (El Niño).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874735/nel-2027-il-super-el-nino-potrebbe-creare-una-stagione-degli-avocado-piuttosto-diversa-da-quella-di-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">האבוקדו הדרום אפריקאי חותם את עונת 2026 מול איומי האקלים של 2027 -- <span class=\"news-date\">24/09/2026 06:05</span></div><div class=\"news-body\">היצרן ZZ2 שלח את כמויות האבוקדו האחרונות שלו לעונת 2026 המיועדות לאיחוד האירופי ולבריטניה. הענף כבר צופה שיבושים משמעותיים בעונת 2027 בשל תחזיות לאירוע \"סופר\" אל ניניו שעלול לשנות במידה ניכרת את תנאי הקטיף. <span class=\"news-reason\">מידע על סיום עונה של מתחרה ישיר והתראות על סיכוני ייצור עתידיים (אל ניניו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874735/nel-2027-il-super-el-nino-potrebbe-creare-una-stagione-degli-avocado-piuttosto-diversa-da-quella-di-quest-anno/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -407,7 +473,7 @@
     {
       "id": "1790156055_3",
       "timestamp": "2026-09-23T09:34:15.277227+00:00",
-      "title": "Clôture de la campagne de mini-pastèques belges face à la pression espagnole",
+      "title": "Clôture de la campagne des mini-pastèques belges face à la pression espagnole",
       "category": "ALERTES SUPPLY",
       "commercials": [],
       "products": [
@@ -416,7 +482,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Clôture de la campagne de mini-pastèques belges face à la pression espagnole -- <span class=\"news-date\">23/09/2026 11:15</span></div><div class=\"news-body\">Les dernières livraisons de mini-pastèques belges de la saison ont eu lieu la semaine dernière. Bien que le produit s&#x27;implante localement, il subit une concurrence croissante de la part de l&#x27;origine Espagne. <span class=\"news-reason\">Informations sur la fin de campagne d&#x27;un concurrent européen sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9875649/belgische-mini-wassermelonen-etablieren-sich-zunehmend-doch-konkorrenz-aus-spanien-steigt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Clôture de la campagne des mini-pastèques belges face à la pression espagnole -- <span class=\"news-date\">23/09/2026 11:15</span></div><div class=\"news-body\">Les dernières livraisons de mini-pastèques belges de la saison ont eu lieu la semaine dernière. Bien que le produit s&#x27;implante localement, il subit une concurrence croissante de la part de l&#x27;origine Espagne. <span class=\"news-reason\">Informations sur la fin de campagne d&#x27;un concurrent européen sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9875649/belgische-mini-wassermelonen-etablieren-sich-zunehmend-doch-konkorrenz-aus-spanien-steigt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">End of season for Belgian mini-watermelons under Spanish pressure -- <span class=\"news-date\">23/09/2026 11:15</span></div><div class=\"news-body\">The final deliveries of Belgian mini-watermelons for the season took place last week. Although the product is establishing itself locally, it is facing increasing competition from Spanish origin. <span class=\"news-reason\">Information on the end of the campaign for a European competitor on a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9875649/belgische-mini-wassermelonen-etablieren-sich-zunehmend-doch-konkorrenz-aus-spanien-steigt/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סיום העונה עבור מיני-אבטיחים בלגיים תחת הלחץ הספרדי -- <span class=\"news-date\">23/09/2026 11:15</span></div><div class=\"news-body\">המשלוחים האחרונים של מיני-אבטיחים בלגיים לעונה התקיימו בשבוע שעבר. למרות שהמוצר מתבסס מקומית, הוא חווה תחרות גוברת מצד המקור הספרדי. <span class=\"news-reason\">מידע על סיום עונה של מתחרה אירופי על מוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9875649/belgische-mini-wassermelonen-etablieren-sich-zunehmend-doch-konkorrenz-aus-spanien-steigt/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -528,7 +594,7 @@
     {
       "id": "1790145214_5",
       "timestamp": "2026-09-23T06:33:34.599567+00:00",
-      "title": "L&#x27;Éthiopie prévoit une expansion massive de ses surfaces de culture d&#x27;avocats.",
+      "title": "L&#x27;Éthiopie prévoit une extension massive de ses surfaces de culture d&#x27;avocats.",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -537,7 +603,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Éthiopie prévoit une expansion massive de ses surfaces de culture d&#x27;avocats. -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">Le ministère de l&#x27;Agriculture éthiopien a lancé un plan de développement sur 15 ans visant à porter la superficie dédiée à l&#x27;avocat de 104 000 à 192 000 hectares d&#x27;ici 2040, afin de s&#x27;imposer parmi les principaux exportateurs mondiaux. <span class=\"news-reason\">Stratégie d&#x27;expansion à long terme d&#x27;une origine concurrente avec chiffres de surface.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875252/etiopia-quiere-llegar-a-192-000-hectareas-de-aguacate-para-2040/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Éthiopie prévoit une extension massive de ses surfaces de culture d&#x27;avocats. -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">Le ministère de l&#x27;Agriculture éthiopien a lancé un plan de développement sur 15 ans visant à porter la superficie dédiée à l&#x27;avocat de 104 000 à 192 000 hectares d&#x27;ici 2040, afin de s&#x27;imposer parmi les principaux exportateurs mondiaux. <span class=\"news-reason\">Stratégie d&#x27;expansion à long terme d&#x27;une origine concurrente avec chiffres de surface.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875252/etiopia-quiere-llegar-a-192-000-hectareas-de-aguacate-para-2040/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Ethiopia plans massive expansion of its avocado cultivation areas. -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">The Ethiopian Ministry of Agriculture has launched a 15-year development plan aimed at increasing the area dedicated to avocados from 104,000 to 192,000 hectares by 2040, in order to become one of the world&#x27;s leading exporters. <span class=\"news-reason\">Long-term expansion strategy of a competing origin with surface figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875252/etiopia-quiere-llegar-a-192-000-hectareas-de-aguacate-para-2040/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">אתיופיה מתכננת הרחבה מאסיבית של שטחי גידול האבוקדו שלה -- <span class=\"news-date\">22/09/2026 16:16</span></div><div class=\"news-body\">משרד החקלאות האתיופי השיק תוכנית פיתוח ל-15 שנים שמטרתה להגדיל את השטח המוקדש לאבוקדו מ-104,000 ל-192,000 הקטרים עד שנת 2040, במטרה להתבסס בין יצואניות האבוקדו המובילות בעולם. <span class=\"news-reason\">אסטרטגיית התרחבות לטווח ארוך של מקור מתחרה עם נתוני שטחים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9875252/etiopia-quiere-llegar-a-192-000-hectareas-de-aguacate-para-2040/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
