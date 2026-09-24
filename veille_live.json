@@ -1,13 +1,49 @@
 {
-  "last_updated": "2026-09-24T06:34:51.760180+00:00",
-  "article_count": 63,
+  "last_updated": "2026-09-24T09:34:27.826852+00:00",
+  "article_count": 65,
   "attention_points": [
+    {
+      "id": "attention-823f3cfd9eb92713",
+      "article_id": "1790242467_0",
+      "url": "https://cagor.net/morocco-foodex-prepare-les-exportateurs-marocains-aux-defis-de-la-durabilite-sur-les-marches-europeens/",
+      "source": "CAGOR",
+      "title": "Le Maroc prépare ses exportateurs aux normes de durabilité",
+      "summary": "Morocco Foodex mobilise les exportateurs d'Agadir face aux exigences environnementales.",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-09-24T09:17:41+00:00",
+      "published_at_source": "rss",
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
+      "products": [],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-09679bb700a17f0c",
+      "article_id": "1790242467_1",
+      "url": "https://www.freshplaza.de/article/9876509/hohe-bedeutung-von-frischem-obst-und-gemuse-im-einkaufswagen-der-verbraucher/",
+      "source": "FreshPlaza DE",
+      "title": "Consommation en Allemagne : l'avocat plébiscité par les Millennials",
+      "summary": "Une étude sur les habitudes de consommation montre que l'avocat est désormais un produit de base bien établi chez les jeunes consommateurs allemands (Millennials), contrairement aux tranches d'âge plus anciennes où sa.",
+      "origin_code": "DEU",
+      "origin_label": "Allemagne",
+      "published_at": "2026-09-24T11:02:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 0
+    },
     {
       "id": "attention-e690ad0ebbfe1911",
       "article_id": "1790226284_1",
       "url": "https://www.freshplaza.it/article/9874735/nel-2027-il-super-el-nino-potrebbe-creare-una-stagione-degli-avocado-piuttosto-diversa-da-quella-di-quest-anno/",
       "source": "FreshPlaza IT",
-      "title": "L'avocat sud-africain clôture sa campagne 2026 face aux enjeux",
+      "title": "L’avocat sud-africain achève sa campagne 2026 face aux défis",
       "summary": "Le producteur ZZ2 a chargé ses derniers volumes d'avocats de la saison 2026 vers l'Union européenne et le Royaume-Uni.",
       "origin_code": "ZAF",
       "origin_label": "Afrique du Sud",
@@ -19,26 +55,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-6de330ad79902013",
-      "article_id": "1790172301_4",
-      "url": "https://www.freshplaza.es/article/9876033/la-mandarina-orri-repite-como-premiada-en-el-superior-taste-award/",
-      "source": "FreshPlaza ES",
-      "title": "La mandarine Orri primée pour son excellence gustative",
-      "summary": "La mandarine Orri a reçu pour la quatrième année consécutive le Superior Taste Award à Bruxelles.",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-09-23T15:41:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "information",
-      "signal_label": "Information",
-      "icon": "information",
-      "products": [
-        "mandarine"
-      ],
-      "age_hours": 16
+      "age_hours": 5
     },
     {
       "id": "attention-9cf7ec80ac2b4ddb",
@@ -55,29 +72,62 @@
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [],
-      "age_hours": 18
-    },
-    {
-      "id": "attention-ba8eaf7d18adf48c",
-      "article_id": "1790183105_2",
-      "url": "https://www.freshplaza.com/article/9875882/chile-s-fruit-exports-rise-4-4-in-2026/",
-      "source": "FreshPlaza",
-      "title": "Hausse de 4,4 % des exportations de fruits chiliens",
-      "summary": "Les exportations de fruits du Chili ont atteint 9,95 milliards de dollars FOB pour la saison clôturée en août 2026, soit une hausse de 4,4 %.",
-      "origin_code": "CHL",
-      "origin_label": "Chili",
-      "published_at": "2026-09-23T13:30:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "information",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 19
+      "age_hours": 21
     }
   ],
   "articles": [
+    {
+      "id": "1790242467_2",
+      "timestamp": "2026-09-24T09:34:27.826852+00:00",
+      "title": "Négociations en vue d&#x27;un accord de libre-échange entre le Chili et le Maroc",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia",
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MAR",
+        "CHL"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Négociations en vue d&#x27;un accord de libre-échange entre le Chili et le Maroc -- <span class=\"news-date\">23/09/2026 15:41</span></div><div class=\"news-body\">Le Chili et le Maroc ont signé à New York les termes de référence pour débuter les négociations d&#x27;un traité de libre-échange. Cet accord vise à faciliter les échanges commerciaux agricoles entre ces deux puissances exportatrices de fruits. <span class=\"news-reason\">Alliance stratégique entre deux origines concurrentes majeures de Mehadrin (Agrumes et Avocats).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9876012/chile-y-marruecos-firman-terminos-de-referencia-para-negociar-un-tlc/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Negotiations toward a free trade agreement between Chile and Morocco -- <span class=\"news-date\">23/09/2026 15:41</span></div><div class=\"news-body\">Chile and Morocco signed the terms of reference in New York to begin negotiations for a free trade agreement. This agreement aims to facilitate agricultural trade between these two fruit-exporting powers. <span class=\"news-reason\">Strategic alliance between two major competing origins for Mehadrin (Citrus and Avocados).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9876012/chile-y-marruecos-firman-terminos-de-referencia-para-negociar-un-tlc/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">משא ומתן לקראת הסכם סחר חופשי בין צ'ילה למרוקו -- <span class=\"news-date\">23/09/2026 15:41</span></div><div class=\"news-body\">צ'ילה ומרוקו חתמו בניו יורק על תנאי ההתייחסות לתחילת המשא ומתן על הסכם סחר חופשי. הסכם זה נועד להקל על הסחר החקלאי בין שתי מעצמות יצוא פירות אלו. <span class=\"news-reason\">ברית אסטרטגית בין שני מקורות מתחרים מרכזיים של מהדרין (הדרים ואבוקדו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9876012/chile-y-marruecos-firman-terminos-de-referencia-para-negociar-un-tlc/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790242467_1",
+      "timestamp": "2026-09-24T09:34:27.826852+00:00",
+      "title": "Consommation en Allemagne : l&#x27;avocat plébiscité par les Millennials",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "DEU"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Consommation en Allemagne : l&#x27;avocat plébiscité par les Millennials -- <span class=\"news-date\">24/09/2026 11:02</span></div><div class=\"news-body\">Une étude sur les habitudes de consommation montre que l&#x27;avocat est désormais un produit de base bien établi chez les jeunes consommateurs allemands (Millennials), contrairement aux tranches d&#x27;âge plus anciennes où sa pénétration est moindre. L&#x27;enseigne Edeka est citée pour son expertise dans le rayon fruits et légumes. <span class=\"news-reason\">Informations sur les tendances de consommation d&#x27;un produit Mehadrin phare sur un marché stratégique (Allemagne).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876509/hohe-bedeutung-von-frischem-obst-und-gemuse-im-einkaufswagen-der-verbraucher/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Consumption in Germany: avocado favored by Millennials -- <span class=\"news-date\">24/09/2026 11:02</span></div><div class=\"news-body\">A study on consumption habits shows that avocado is now a well-established staple product among young German consumers (Millennials), unlike older age groups where its penetration is lower. The Edeka chain is cited for its expertise in the fruit and vegetable department. <span class=\"news-reason\">Information on the consumption trends of a flagship Mehadrin product in a strategic market (Germany).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876509/hohe-bedeutung-von-frischem-obst-und-gemuse-im-einkaufswagen-der-verbraucher/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות רשתות שיווק</div><div class=\"news-title\">צריכה בגרמניה: האבוקדו פופולרי במיוחד בקרב דור המילניום -- <span class=\"news-date\">24/09/2026 11:02</span></div><div class=\"news-body\">מחקר על הרגלי צריכה מראה שהאבוקדו הפך למוצר צריכה בסיסי מבוסס היטב בקרב צרכנים גרמנים צעירים (דור המילניום), בניגוד לקבוצות גיל מבוגרות יותר שבהן חדירתו נמוכה יותר. רשת Edeka מוזכרת בשל מומחיותה במחלקת הפירות והירקות. <span class=\"news-reason\">מידע על מגמות צריכה של מוצר דגל של מהדרין בשוק אסטרטגי (גרמניה).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876509/hohe-bedeutung-von-frischem-obst-und-gemuse-im-einkaufswagen-der-verbraucher/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790242467_0",
+      "timestamp": "2026-09-24T09:34:27.826852+00:00",
+      "title": "Le Maroc prépare ses exportateurs aux normes de durabilité européennes -- 24/09/2026 09:17",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Maroc prépare ses exportateurs aux normes de durabilité européennes -- <span class=\"news-date\">24/09/2026 09:17</span></div><div class=\"news-body\">Morocco Foodex a organisé une rencontre stratégique à Agadir pour sensibiliser les acteurs de la filière fruits et légumes aux nouvelles exigences de durabilité du marché européen. L&#x27;objectif est d&#x27;aider les exportateurs marocains à anticiper les réglementations de l&#x27;UE pour maintenir leur accès au marché. <span class=\"news-reason\">Concerne la stratégie de mise en conformité réglementaire d&#x27;une origine concurrente majeure (Maroc) vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/morocco-foodex-prepare-les-exportateurs-marocains-aux-defis-de-la-durabilite-sur-les-marches-europeens/\" target=\"_blank\">CAGOR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Morocco prepares its exporters for European sustainability standards -- <span class=\"news-date\">24/09/2026 09:17</span></div><div class=\"news-body\">Morocco Foodex organized a strategic meeting in Agadir to raise awareness among fruit and vegetable sector stakeholders about the new sustainability requirements of the European market. The goal is to help Moroccan exporters anticipate EU regulations to maintain their market access. <span class=\"news-reason\">Concerns the regulatory compliance strategy of a major competing origin (Morocco) towards Europe.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/morocco-foodex-prepare-les-exportateurs-marocains-aux-defis-de-la-durabilite-sur-les-marches-europeens/\" target=\"_blank\">CAGOR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מרוקו מכינה את היצואנים שלה לתקני הקיימות האירופיים -- <span class=\"news-date\">24/09/2026 09:17</span></div><div class=\"news-body\">Morocco Foodex ארגן מפגש אסטרטגי באגאדיר כדי להעלות את המודעות בקרב העוסקים בענף הפירות והירקות לדרישות הקיימות החדשות של השוק האירופי. המטרה היא לסייע ליצואנים המרוקאים להיערך לתקנות האיחוד האירופי כדי לשמר את הגישה שלהם לשוק. <span class=\"news-reason\">נוגע לאסטרטגיית העמידה ברגולציה של מקור מתחרה מרכזי (מרוקו) לאירופה.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/morocco-foodex-prepare-les-exportateurs-marocains-aux-defis-de-la-durabilite-sur-les-marches-europeens/\" target=\"_blank\">CAGOR -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1790231691_1",
       "timestamp": "2026-09-24T06:34:51.760180+00:00",
@@ -115,7 +165,7 @@
     {
       "id": "1790226284_1",
       "timestamp": "2026-09-24T05:04:44.738587+00:00",
-      "title": "L&#x27;avocat sud-africain clôture sa campagne 2026 face aux enjeux climatiques de 2027",
+      "title": "L’avocat sud-africain achève sa campagne 2026 face aux défis climatiques de 2027",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -126,7 +176,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;avocat sud-africain clôture sa campagne 2026 face aux enjeux climatiques de 2027 -- <span class=\"news-date\">24/09/2026 06:05</span></div><div class=\"news-body\">Le producteur ZZ2 a chargé ses derniers volumes d&#x27;avocats de la saison 2026 vers l&#x27;Union européenne et le Royaume-Uni. Le secteur anticipe déjà des perturbations majeures pour la saison 2027 en raison des prévisions d&#x27;un épisode &#x27;super&#x27; El Niño qui pourrait modifier considérablement les conditions de récolte. <span class=\"news-reason\">Info sur la fin de campagne d&#x27;un concurrent direct et alertes sur les risques de production futurs (El Niño).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874735/nel-2027-il-super-el-nino-potrebbe-creare-una-stagione-degli-avocado-piuttosto-diversa-da-quella-di-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L’avocat sud-africain achève sa campagne 2026 face aux défis climatiques de 2027 -- <span class=\"news-date\">24/09/2026 06:05</span></div><div class=\"news-body\">Le producteur ZZ2 a chargé ses derniers volumes d&#x27;avocats de la saison 2026 vers l&#x27;Union européenne et le Royaume-Uni. Le secteur anticipe déjà des perturbations majeures pour la saison 2027 en raison des prévisions d&#x27;un épisode &#x27;super&#x27; El Niño qui pourrait modifier considérablement les conditions de récolte. <span class=\"news-reason\">Info sur la fin de campagne d&#x27;un concurrent direct et alertes sur les risques de production futurs (El Niño).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874735/nel-2027-il-super-el-nino-potrebbe-creare-una-stagione-degli-avocado-piuttosto-diversa-da-quella-di-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">South African avocado closes its 2026 campaign in the face of 2027 climate threats -- <span class=\"news-date\">24/09/2026 06:05</span></div><div class=\"news-body\">Producer ZZ2 has loaded its last avocado volumes of the 2026 season for the European Union and the United Kingdom. The sector is already anticipating major disruptions for the 2027 season due to forecasts of a &#x27;super&#x27; El Niño event that could significantly alter harvesting conditions. <span class=\"news-reason\">Information on the end of a direct competitor&#x27;s campaign and alerts on future production risks (El Niño).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874735/nel-2027-il-super-el-nino-potrebbe-creare-una-stagione-degli-avocado-piuttosto-diversa-da-quella-di-quest-anno/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">האבוקדו הדרום אפריקאי חותם את עונת 2026 מול איומי האקלים של 2027 -- <span class=\"news-date\">24/09/2026 06:05</span></div><div class=\"news-body\">היצרן ZZ2 שלח את כמויות האבוקדו האחרונות שלו לעונת 2026 המיועדות לאיחוד האירופי ולבריטניה. הענף כבר צופה שיבושים משמעותיים בעונת 2027 בשל תחזיות לאירוע \"סופר\" אל ניניו שעלול לשנות במידה ניכרת את תנאי הקטיף. <span class=\"news-reason\">מידע על סיום עונה של מתחרה ישיר והתראות על סיכוני ייצור עתידיים (אל ניניו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874735/nel-2027-il-super-el-nino-potrebbe-creare-una-stagione-degli-avocado-piuttosto-diversa-da-quella-di-quest-anno/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -166,7 +216,7 @@
     {
       "id": "1790172301_4",
       "timestamp": "2026-09-23T14:05:01.207447+00:00",
-      "title": "La mandarine Orri primée pour son excellence gustative",
+      "title": "La mandarine Orri récompensée pour son excellence gustative",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -177,7 +227,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La mandarine Orri primée pour son excellence gustative -- <span class=\"news-date\">23/09/2026 15:41</span></div><div class=\"news-body\">La mandarine Orri a reçu pour la quatrième année consécutive le Superior Taste Award à Bruxelles. Cette distinction souligne la compétitivité gustative de la variété espagnole sur le marché international. <span class=\"news-reason\">Information sur le positionnement qualitatif d&#x27;une variété phare de Mehadrin chez un concurrent.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9876033/la-mandarina-orri-repite-como-premiada-en-el-superior-taste-award/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La mandarine Orri récompensée pour son excellence gustative -- <span class=\"news-date\">23/09/2026 15:41</span></div><div class=\"news-body\">La mandarine Orri a reçu pour la quatrième année consécutive le Superior Taste Award à Bruxelles. Cette distinction souligne la compétitivité gustative de la variété espagnole sur le marché international. <span class=\"news-reason\">Information sur le positionnement qualitatif d&#x27;une variété phare de Mehadrin chez un concurrent.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9876033/la-mandarina-orri-repite-como-premiada-en-el-superior-taste-award/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Orri mandarin awarded for its flavor quality -- <span class=\"news-date\">23/09/2026 15:41</span></div><div class=\"news-body\">The Orri mandarin has received the Superior Taste Award in Brussels for the fourth consecutive year. This distinction highlights the flavor competitiveness of the Spanish variety on the international market. <span class=\"news-reason\">Information on the qualitative positioning of a flagship variety of Mehadrin at a competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9876033/la-mandarina-orri-repite-como-premiada-en-el-superior-taste-award/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">מנדרינת אורי זכתה בפרס על איכות הטעם שלה -- <span class=\"news-date\">23/09/2026 15:41</span></div><div class=\"news-body\">מנדרינת אורי זכתה זו השנה הרביעית ברציפות בפרס Superior Taste Award בבריסל. הצטיינות זו מדגישה את התחרותיות מבחינת טעם של הזן הספרדי בשוק הבינלאומי. <span class=\"news-reason\">מידע על המיצוב האיכותי של זן הדגל של מהדרין אצל מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9876033/la-mandarina-orri-repite-como-premiada-en-el-superior-taste-award/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -357,7 +407,7 @@
     {
       "id": "1790156055_3",
       "timestamp": "2026-09-23T09:34:15.277227+00:00",
-      "title": "Clôture de la campagne des mini-pastèques belges face à la pression espagnole",
+      "title": "Clôture de la campagne de mini-pastèques belges face à la pression espagnole",
       "category": "ALERTES SUPPLY",
       "commercials": [],
       "products": [
@@ -366,7 +416,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Clôture de la campagne des mini-pastèques belges face à la pression espagnole -- <span class=\"news-date\">23/09/2026 11:15</span></div><div class=\"news-body\">Les dernières livraisons de mini-pastèques belges de la saison ont eu lieu la semaine dernière. Bien que le produit s&#x27;implante localement, il subit une concurrence croissante de la part de l&#x27;origine Espagne. <span class=\"news-reason\">Informations sur la fin de campagne d&#x27;un concurrent européen sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9875649/belgische-mini-wassermelonen-etablieren-sich-zunehmend-doch-konkorrenz-aus-spanien-steigt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Clôture de la campagne de mini-pastèques belges face à la pression espagnole -- <span class=\"news-date\">23/09/2026 11:15</span></div><div class=\"news-body\">Les dernières livraisons de mini-pastèques belges de la saison ont eu lieu la semaine dernière. Bien que le produit s&#x27;implante localement, il subit une concurrence croissante de la part de l&#x27;origine Espagne. <span class=\"news-reason\">Informations sur la fin de campagne d&#x27;un concurrent européen sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9875649/belgische-mini-wassermelonen-etablieren-sich-zunehmend-doch-konkorrenz-aus-spanien-steigt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">End of season for Belgian mini-watermelons under Spanish pressure -- <span class=\"news-date\">23/09/2026 11:15</span></div><div class=\"news-body\">The final deliveries of Belgian mini-watermelons for the season took place last week. Although the product is establishing itself locally, it is facing increasing competition from Spanish origin. <span class=\"news-reason\">Information on the end of the campaign for a European competitor on a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9875649/belgische-mini-wassermelonen-etablieren-sich-zunehmend-doch-konkorrenz-aus-spanien-steigt/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סיום העונה עבור מיני-אבטיחים בלגיים תחת הלחץ הספרדי -- <span class=\"news-date\">23/09/2026 11:15</span></div><div class=\"news-body\">המשלוחים האחרונים של מיני-אבטיחים בלגיים לעונה התקיימו בשבוע שעבר. למרות שהמוצר מתבסס מקומית, הוא חווה תחרות גוברת מצד המקור הספרדי. <span class=\"news-reason\">מידע על סיום עונה של מתחרה אירופי על מוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9875649/belgische-mini-wassermelonen-etablieren-sich-zunehmend-doch-konkorrenz-aus-spanien-steigt/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -544,7 +594,7 @@
     {
       "id": "1790139794_4",
       "timestamp": "2026-09-23T05:03:14.619249+00:00",
-      "title": "Consolidation de la confiance sur le marché marocain de l&#x27;avocat pour la saison 2026/27",
+      "title": "Renforcement de la confiance sur le marché marocain de l&#x27;avocat pour la saison 2026/27",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -555,7 +605,7 @@
       "origins": [
         "MAR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Consolidation de la confiance sur le marché marocain de l&#x27;avocat pour la saison 2026/27 -- <span class=\"news-date\">23/09/2026 06:00</span></div><div class=\"news-body\">Après une campagne 2025/26 difficile, les exportateurs marocains anticipent une saison de reprise. Les premières observations sur le terrain indiquent une amélioration significative des volumes et des calibres des fruits, incitant les opérateurs à privilégier des programmes commerciaux anticipés. <span class=\"news-reason\">Informations qualitatives sur la nouvelle campagne d&#x27;avocats d&#x27;un concurrent direct.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874718/il-modo-migliore-per-ricostruire-la-fiducia-nel-mercato-dell-avocado-e-puntare-sui-programmi-anticipati/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Renforcement de la confiance sur le marché marocain de l&#x27;avocat pour la saison 2026/27 -- <span class=\"news-date\">23/09/2026 06:00</span></div><div class=\"news-body\">Après une campagne 2025/26 difficile, les exportateurs marocains anticipent une saison de reprise. Les premières observations sur le terrain indiquent une amélioration significative des volumes et des calibres des fruits, incitant les opérateurs à privilégier des programmes commerciaux anticipés. <span class=\"news-reason\">Informations qualitatives sur la nouvelle campagne d&#x27;avocats d&#x27;un concurrent direct.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874718/il-modo-migliore-per-ricostruire-la-fiducia-nel-mercato-dell-avocado-e-puntare-sui-programmi-anticipati/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Regained confidence in the Moroccan avocado market for the 2026/27 season -- <span class=\"news-date\">23/09/2026 06:00</span></div><div class=\"news-body\">After a difficult 2025/26 campaign, Moroccan exporters are anticipating a recovery season. Initial field observations indicate a significant improvement in fruit volumes and sizes, prompting operators to prioritize early commercial programs. <span class=\"news-reason\">Qualitative information on the new avocado campaign of a direct competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874718/il-modo-migliore-per-ricostruire-la-fiducia-nel-mercato-dell-avocado-e-puntare-sui-programmi-anticipati/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות בין מקורות</div><div class=\"news-title\">התחזקות האמון בשוק האבוקדו המרוקאי לקראת עונת 2026/27 -- <span class=\"news-date\">23/09/2026 06:00</span></div><div class=\"news-body\" dir=\"rtl\">לאחר עונת 2025/26 קשה, היצואנים המרוקאים צופים עונת התאוששות. תצפיות ראשונות בשטח מעידות על שיפור משמעותי בכמויות ובגדלי הפירות, מה שמניע את המפעילים להעדיף תוכניות מסחריות מוקדמות. <span class=\"news-reason\">מידע איכותי על עונת האבוקדו החדשה של מתחרה ישיר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9874718/il-modo-migliore-per-ricostruire-la-fiducia-nel-mercato-dell-avocado-e-puntare-sui-programmi-anticipati/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -1144,24 +1194,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le marché des oranges de bouche affiche un fort dynamisme en septembre -- <span class=\"news-date\">21/09/2026 13:37</span></div><div class=\"news-body\">Après un mois d&#x27;août atone marqué par la concurrence des fruits d&#x27;été, le marché des oranges de bouche connaît un redynamisme depuis le début du mois de septembre. Les opérateurs constatent une demande accrue et un contexte de marché nettement plus favorable pour les agrumes en ce début de campagne. <span class=\"news-reason\">Article sur un produit Mehadrin en pleine saison (orange) avec des informations de marché actuelles pour le mois de septembre.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9875110/le-marche-est-actuellement-tres-porteur-sur-les-varietes-d-oranges-de-bouche/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">The dessert orange market shows strong dynamism in September -- <span class=\"news-date\">21/09/2026 13:37</span></div><div class=\"news-body\">After a sluggish August marked by competition from summer fruits, the dessert orange market has seen a resurgence since the beginning of September. Operators are noting increased demand and a significantly more favorable market context for citrus at the start of the campaign. <span class=\"news-reason\">Article about a Mehadrin product in peak season (orange) with current market information for the month of September.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9875110/le-marche-est-actuellement-tres-porteur-sur-les-varietes-d-oranges-de-bouche/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">שוק תפוזי המאכל מציג דינמיות חזקה בספטמבר -- <span class=\"news-date\">21/09/2026 13:37</span></div><div class=\"news-body\">לאחר חודש אוגוסט חלש המאופיין בתחרות מצד פירות הקיץ, שוק תפוזי המאכל חווה התעוררות מחודשת מאז תחילת ספטמבר. הגורמים בשוק מדווחים על ביקוש מוגבר וסביבת שוק נוחה משמעותית עבור פירות הדר בתחילת העונה. <span class=\"news-reason\">כתבה על מוצר מהדרין בשיא העונה (תפוז) עם מידע שוק עדכני לחודש ספטמבר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9875110/le-marche-est-actuellement-tres-porteur-sur-les-varietes-d-oranges-de-bouche/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1789983174_0",
-      "timestamp": "2026-09-21T09:32:54.683836+00:00",
-      "title": "Perspectives de redressement de la filière marocaine de l’avocat pour la campagne 2026/27",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Perspectives de redressement de la filière marocaine de l’avocat pour la campagne 2026/27 -- <span class=\"news-date\">21/09/2026 10:01</span></div><div class=\"news-body\">Après une saison 2025/26 difficile, la filière marocaine de l&#x27;avocat prévoit une campagne de reprise. Les premières données de terrain indiquent une amélioration notable des rendements ainsi que de la taille des fruits par rapport à l&#x27;année précédente. <span class=\"news-reason\">Information sur la reprise de production (rendements et calibres) chez un concurrent direct sur l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9874720/der-beste-weg-das-vertrauen-im-avocadomarkt-wiederherzustellen-sind-fruhzeitige-programme/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Recovery prospects for Moroccan avocados for the 2026/27 season -- <span class=\"news-date\">21/09/2026 10:01</span></div><div class=\"news-body\">After a difficult 2025/26 season, the Moroccan avocado sector is planning a recovery campaign. Initial field data indicate a notable improvement in yields as well as fruit size compared to the previous year. <span class=\"news-reason\">Information on the production recovery (yields and sizes) for a direct competitor in avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9874720/der-beste-weg-das-vertrauen-im-avocadomarkt-wiederherzustellen-sind-fruhzeitige-programme/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">תחזיות להתאוששות האבוקדו המרוקאי לעונת 2026/27 -- <span class=\"news-date\">21/09/2026 10:01</span></div><div class=\"news-body\">לאחר עונת 2025/26 קשה, ענף האבוקדו המרוקאי צופה עונת התאוששות. הנתונים הראשוניים מהשטח מצביעים על שיפור ניכר ביבולים וכן בגודל הפירות בהשוואה לשנה הקודמת. <span class=\"news-reason\">מידע על התאוששות הייצור (יבולים וגדלים) אצל מתחרה ישיר בתחום האבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9874720/der-beste-weg-das-vertrauen-im-avocadomarkt-wiederherzustellen-sind-fruhzeitige-programme/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
