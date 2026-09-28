@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-28T12:34:02.512135+00:00",
-  "article_count": 22,
+  "last_updated": "2026-09-28T14:04:03.901607+00:00",
+  "article_count": 19,
   "attention_points": [
     {
       "id": "attention-2fb7cc588be6af74",
@@ -19,7 +19,7 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-bb0e20f48a4c327d",
@@ -38,7 +38,7 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-fe1add112d434507",
@@ -57,7 +57,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-379712bcf33902eb",
@@ -74,10 +74,42 @@
       "signal_label": "Météo",
       "icon": "weather",
       "products": [],
-      "age_hours": 72
+      "age_hours": 74
     }
   ],
   "articles": [
+    {
+      "id": "1790604243_1",
+      "timestamp": "2026-09-28T14:04:03.901607+00:00",
+      "title": "Bilan de la saison française de pastèques : 120 000 tonnes vendues -- 28/09/2026 13:36",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [],
+      "products": [
+        "watermelon"
+      ],
+      "origins": [
+        "FRA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Bilan de la saison française de pastèques : 120 000 tonnes vendues -- <span class=\"news-date\">28/09/2026 13:36</span></div><div class=\"news-body\">La campagne 2026 de pastèques en France s&#x27;achève sur un bilan positif pour Anecoop France, qui a atteint son objectif de vente de 120 000 tonnes. La demande a été si soutenue que des volumes supplémentaires auraient pu être écoulés si la disponibilité avait été plus importante face aux besoins du marché. <span class=\"news-reason\">Bilan de campagne chiffré sur un produit Mehadrin avec données de volume.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9877256/the-2026-french-watermelon-season-set-to-see-record-consumption/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Review of the French watermelon season: 120,000 tons sold -- <span class=\"news-date\">28/09/2026 13:36</span></div><div class=\"news-body\">The 2026 watermelon season in France concludes on a positive note for Anecoop France, which reached its sales target of 120,000 tons. Demand was so strong that additional volumes could have been sold if availability had been greater to meet market needs. <span class=\"news-reason\">Numerical season review for a Mehadrin product with volume data.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9877256/the-2026-french-watermelon-season-set-to-see-record-consumption/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיכום עונת האבטיחים הצרפתית: 120,000 טון נמכרו -- <span class=\"news-date\">28/09/2026 13:36</span></div><div class=\"news-body\">עונת האבטיחים לשנת 2026 בצרפת מסתיימת בסיכום חיובי עבור Anecoop France, שהשיגה את יעד המכירות שלה שעמד על 120,000 טון. הביקוש היה כה גבוה עד שניתן היה למכור כמויות נוספות אילו הזמינות הייתה גבוהה יותר אל מול צרכי השוק. <span class=\"news-reason\">סיכום עונה כמותי על מוצר מהדרין עם נתוני נפח.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9877256/the-2026-french-watermelon-season-set-to-see-record-consumption/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790604243_0",
+      "timestamp": "2026-09-28T14:04:03.901607+00:00",
+      "title": "Les prévisions de récolte d&#x27;avocats en Californie confirment un volume de 330 millions de livres -- 28/09/2026 11:00",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les prévisions de récolte d&#x27;avocats en Californie confirment un volume de 330 millions de livres -- <span class=\"news-date\">28/09/2026 11:00</span></div><div class=\"news-body\">La production californienne d&#x27;avocats devrait atteindre 330 millions de livres cette saison. Des conditions de croissance favorables, incluant des précipitations opportunes, ont permis d&#x27;obtenir des calibres de fruits optimaux et un excellent état sanitaire des vergers, répondant à une demande du marché en accélération. <span class=\"news-reason\">Données chiffrées précises sur une origine concurrente majeure pour l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/28/california-avocado-26/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">California avocado harvest forecasts confirm a volume of 330 million pounds -- <span class=\"news-date\">28/09/2026 11:00</span></div><div class=\"news-body\">California avocado production is expected to reach 330 million pounds this season. Favorable growing conditions, including timely rainfall, have resulted in optimal fruit sizes and excellent orchard health, meeting accelerating market demand. <span class=\"news-reason\">Precise figures on a major competing origin for avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/28/california-avocado-26/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">תחזיות יבול האבוקדו בקליפורניה מאשרות נפח של 330 מיליון פאונד -- <span class=\"news-date\">28/09/2026 11:00</span></div><div class=\"news-body\">ייצור האבוקדו בקליפורניה צפוי להגיע ל-330 מיליון פאונד העונה. תנאי גידול נוחים, הכוללים משקעים בעיתם, אפשרו להשיג גדלי פרי אופטימליים ומצב בריאותי מצוין של המטעים, תוך מענה לביקוש בשוק שנמצא בהאצה. <span class=\"news-reason\">נתונים מספריים מדויקים על מקור מתחרה מרכזי לאבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/28/california-avocado-26/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1790598842_4",
       "timestamp": "2026-09-28T12:34:02.512135+00:00",
@@ -200,7 +232,7 @@
     {
       "id": "1790587966_0",
       "timestamp": "2026-09-28T09:32:46.457082+00:00",
-      "title": "L&#x27;avocat mexicain prospecte de nouveaux marchés face aux taxes américaines",
+      "title": "L’avocat mexicain explore de nouveaux marchés face aux taxes américaines",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -212,7 +244,7 @@
         "MEX",
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;avocat mexicain prospecte de nouveaux marchés face aux taxes américaines -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">L&#x27;imposition de nouveaux droits de douane par le gouvernement américain exerce une forte pression sur les prix et les volumes de vente des avocats mexicains aux États-Unis. Bien que ce marché absorbe traditionnellement la quasi-totalité de leur production, les exportateurs mexicains sont désormais contraints de rechercher activement de nouveaux débouchés internationaux pour écouler leurs volumes. <span class=\"news-reason\">Information sur la stratégie d&#x27;exportation d&#x27;un concurrent majeur suite à des pressions tarifaires aux États-Unis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876128/gli-avocado-messicani-sono-in-cerca-di-nuovi-mercati-di-vendita/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’avocat mexicain explore de nouveaux marchés face aux taxes américaines -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">L&#x27;imposition de nouveaux droits de douane par le gouvernement américain exerce une forte pression sur les prix et les volumes de vente des avocats mexicains aux États-Unis. Bien que ce marché absorbe traditionnellement la quasi-totalité de leur production, les exportateurs mexicains sont désormais contraints de rechercher activement de nouveaux débouchés internationaux pour écouler leurs volumes. <span class=\"news-reason\">Information sur la stratégie d&#x27;exportation d&#x27;un concurrent majeur suite à des pressions tarifaires aux États-Unis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876128/gli-avocado-messicani-sono-in-cerca-di-nuovi-mercati-di-vendita/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Mexican avocados explore new markets in the face of US taxes -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">The imposition of new tariffs by the US government is putting strong pressure on the prices and sales volumes of Mexican avocados in the United States. Although this market traditionally absorbs almost all of their production, Mexican exporters are now forced to actively seek new international outlets to sell their volumes. <span class=\"news-reason\">Information on the export strategy of a major competitor following tariff pressures in the United States.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876128/gli-avocado-messicani-sono-in-cerca-di-nuovi-mercati-di-vendita/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">אבוקדו מקסיקני בוחן שווקים חדשים מול המכסים האמריקאיים -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">הטלת מכסי מגן חדשים מצד הממשל האמריקאי מפעילה לחץ כבד על המחירים ועל היקפי המכירות של אבוקדו מקסיקני בארצות הברית. למרות ששוק זה קולט באופן מסורתי כמעט את כל התוצרת שלהם, היצואנים המקסיקנים נאלצים כעת לחפש באופן פעיל אפיקים בינלאומיים חדשים לשיווק תוצרתם. <span class=\"news-reason\">מידע על אסטרטגיית הייצוא של מתחרה מרכזי בעקבות לחצי מכסים בארצות הברית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876128/gli-avocado-messicani-sono-in-cerca-di-nuovi-mercati-di-vendita/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -237,7 +269,7 @@
     {
       "id": "1790582530_1",
       "timestamp": "2026-09-28T08:02:10.289137+00:00",
-      "title": "Prix à la production records pour l&#x27;orange de Ribera DOP en Sicile",
+      "title": "Prix records à la production pour l&#x27;orange de Ribera DOP en Sicile",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -248,7 +280,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prix à la production records pour l&#x27;orange de Ribera DOP en Sicile -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">L&#x27;entreprise Parlapiano Fruit rapporte obtenir les prix à la production les plus élevés au monde pour ses oranges de Ribera sous appellation d&#x27;origine protégée (g.U.). Le produit se maintient sur un segment de niche performant et approvisionne les principales chaînes de supermarchés en Italie. <span class=\"news-reason\">Cotations de prix à la production pour les oranges, produit cœur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876733/sizilianische-g-u-orange-erzielt-den-weltweit-hochsten-erzeugerpreis/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prix records à la production pour l&#x27;orange de Ribera DOP en Sicile -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">L&#x27;entreprise Parlapiano Fruit rapporte obtenir les prix à la production les plus élevés au monde pour ses oranges de Ribera sous appellation d&#x27;origine protégée (g.U.). Le produit se maintient sur un segment de niche performant et approvisionne les principales chaînes de supermarchés en Italie. <span class=\"news-reason\">Cotations de prix à la production pour les oranges, produit cœur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876733/sizilianische-g-u-orange-erzielt-den-weltweit-hochsten-erzeugerpreis/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Record production prices for Ribera PDO oranges in Sicily -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">The company Parlapiano Fruit reports obtaining the highest production prices in the world for its Ribera oranges under protected designation of origin (PDO). The product maintains itself in a high-performing niche segment and supplies the main supermarket chains in Italy. <span class=\"news-reason\">Production price quotes for oranges, a core product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876733/sizilianische-g-u-orange-erzielt-den-weltweit-hochsten-erzeugerpreis/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מחירי יצרן שוברי שיאים עבור תפוז ריברה DOP בסיציליה -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">חברת Parlapiano Fruit מדווחת על השגת מחירי היצרן הגבוהים בעולם עבור תפוזי הריברה שלה תחת כינוי מקור מוגן (g.U.). המוצר שומר על מעמדו בסגמנט נישה מצליח ומספק את רשתות הסופרמרקטים העיקריות באיטליה. <span class=\"news-reason\">ציטוטי מחירי יצרן עבור תפוזים, מוצר ליבה של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876733/sizilianische-g-u-orange-erzielt-den-weltweit-hochsten-erzeugerpreis/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
@@ -303,7 +335,7 @@
     {
       "id": "1790577179_0",
       "timestamp": "2026-09-28T06:32:59.542892+00:00",
-      "title": "Obtention du brevet européen pour la Perrina, première clémentine tardive issue de la recherche italienne.",
+      "title": "Délivrance du brevet européen pour la Perrina, première clémentine tardive issue de la recherche italienne",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -314,7 +346,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Obtention du brevet européen pour la Perrina, première clémentine tardive issue de la recherche italienne. -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">Un chercheur privé italien a obtenu un certificat de protection communautaire pour Perrina, devenant le premier acteur privé du pays à détenir un brevet européen pour une innovation variétale en agrumes. Cette nouvelle clémentine tardive a été développée après une phase expérimentale rigoureuse. <span class=\"news-reason\">Information sur une nouvelle variété concurrente de clémentine tardive brevetée pour le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876830/concesso-il-brevetto-comunitario-per-la-prima-clementine-tardiva-da-ricerca-privata-italiana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Délivrance du brevet européen pour la Perrina, première clémentine tardive issue de la recherche italienne -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">Un chercheur privé italien a obtenu un certificat de protection communautaire pour Perrina, devenant le premier acteur privé du pays à détenir un brevet européen pour une innovation variétale en agrumes. Cette nouvelle clémentine tardive a été développée après une phase expérimentale rigoureuse. <span class=\"news-reason\">Information sur une nouvelle variété concurrente de clémentine tardive brevetée pour le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876830/concesso-il-brevetto-comunitario-per-la-prima-clementine-tardiva-da-ricerca-privata-italiana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGINS COMPETITION</div><div class=\"news-title\">European patent for Perrina, the first late clementine from Italian research -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">A private Italian researcher has obtained a Community protection certificate for Perrina, becoming the country's first private actor to hold a European patent for a citrus variety innovation. This new late clementine was developed after a rigorous experimental phase. <span class=\"news-reason\">Information on a new competing late clementine variety patented for the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876830/concesso-il-brevetto-comunitario-per-la-prima-clementine-tardiva-da-ricerca-privata-italiana/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקור</div><div class=\"news-title\">פטנט אירופי עבור Perrina, הקלמנטינה המאוחרת הראשונה ממחקר איטלקי -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\" dir=\"rtl\">חוקר פרטי איטלקי קיבל תעודת הגנה קהילתית עבור Perrina, והפך לגורם הפרטי הראשון במדינה שמחזיק בפטנט אירופי על חידוש זני בהדרים. קלמנטינה מאוחרת חדשה זו פותחה לאחר שלב ניסיוני קפדני. <span class=\"news-reason\">מידע על זן חדש ומתחרה של קלמנטינה מאוחרת המוגנת בפטנט לשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876830/concesso-il-brevetto-comunitario-per-la-prima-clementine-tardiva-da-ricerca-privata-italiana/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -373,93 +405,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Maroc : préparation du lancement de la récolte des agrumes -- <span class=\"news-date\">25/09/2026 07:11</span></div><div class=\"news-body\">À l&#x27;approche des premières cueillettes au Maroc, les producteurs définissent les dates de récolte des clémentines et des oranges en se basant sur la teneur en jus et l&#x27;équilibre entre sucres et acidité. Cette méthode remplace la simple observation de la couleur de l&#x27;écorce pour garantir la qualité commerciale des fruits dès le début de la saison. <span class=\"news-reason\">Information opérationnelle sur le début imminent de la campagne agrumicole au Maroc (concurrent majeur), précisant les critères de maturité pour les clémentines et oranges.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/agrumes-comment-decider-de-la-date-de-recolte-sans-se-fier-uniquement-a-la-couleur/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Morocco: preparation for the launch of the citrus harvest -- <span class=\"news-date\">25/09/2026 07:11</span></div><div class=\"news-body\">As the first harvests approach in Morocco, producers are defining harvest dates for clementines and oranges based on juice content and the balance between sugars and acidity. This method replaces the simple observation of peel color to guarantee the commercial quality of the fruit from the start of the season. <span class=\"news-reason\">Operational information on the imminent start of the citrus campaign in Morocco (major competitor), specifying maturity criteria for clementines and oranges.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/agrumes-comment-decider-de-la-date-de-recolte-sans-se-fier-uniquement-a-la-couleur/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מרוקו: הכנות לקראת תחילת קטיף ההדרים -- <span class=\"news-date\">25/09/2026 07:11</span></div><div class=\"news-body\">עם התקרבות הקטיף הראשון במרוקו, המגדלים קובעים את מועדי הקטיף של הקלמנטינות והתפוזים בהתבסס על תכולת המיץ והאיזון בין סוכרים לחומציות. שיטה זו מחליפה את התצפית הפשוטה על צבע הקליפה כדי להבטיח את האיכות המסחרית של הפירות כבר מתחילת העונה. <span class=\"news-reason\">מידע תפעולי על תחילתה הקרובה של עונת ההדרים במרוקו (מתחרה מרכזית), המפרט את קריטריוני הבשלות לקלמנטינות ותפוזים.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/agrumes-comment-decider-de-la-date-de-recolte-sans-se-fier-uniquement-a-la-couleur/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1790345151_4",
-      "timestamp": "2026-09-25T14:05:51.934622+00:00",
-      "title": "Lancement de la nouvelle campagne de commercialisation de la mandarine extra-précoce US Early Pride",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "mandarine"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la nouvelle campagne de commercialisation de la mandarine extra-précoce US Early Pride -- <span class=\"news-date\">25/09/2026 06:05</span></div><div class=\"news-body\">La mandarine extra-précoce US Early Pride, commercialisée sous la marque Earlyna, débute sa campagne 2026/27 avec des volumes commerciaux importants. Cette saison est marquée par l&#x27;implémentation d&#x27;un nouveau système d&#x27;identification et de traçabilité géré par le titulaire de la variété, EVAM. <span class=\"news-reason\">Informations sur le début de campagne d&#x27;une variété de mandarine concurrente avec des volumes significatifs.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9875728/prima-campagna-commerciale-con-il-sistema-di-identificazione-e-tracciabilita/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">New marketing phase for the US Early Pride extra-early mandarin -- <span class=\"news-date\">25/09/2026 06:05</span></div><div class=\"news-body\">The US Early Pride extra-early mandarin, marketed under the Earlyna brand, begins its 2026/27 campaign with significant commercial volumes. This season is marked by the implementation of a new identification and traceability system managed by the variety owner, EVAM. <span class=\"news-reason\">Information on the start of the campaign for a competing mandarin variety with significant volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9875728/prima-campagna-commerciale-con-il-sistema-di-identificazione-e-tracciabilita/\" target=\"_blank\">FreshPlaza IT -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">שלב שיווק חדש למנדרינה המוקדמת מאוד US Early Pride -- <span class=\"news-date\">25/09/2026 06:05</span></div><div class=\"news-body\">המנדרינה המוקדמת מאוד US Early Pride, המשווקת תחת המותג Earlyna, מתחילה את עונת 2026/27 עם כמויות מסחריות משמעותיות. עונה זו מתאפיינת בהטמעת מערכת זיהוי ועקיבות חדשה המנוהלת על ידי בעלת הזן, EVAM. <span class=\"news-reason\">מידע על תחילת העונה של זן מנדרינה מתחרה עם כמויות משמעותיות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9875728/prima-campagna-commerciale-con-il-sistema-di-identificazione-e-tracciabilita/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1790345151_3",
-      "timestamp": "2026-09-25T14:05:51.934622+00:00",
-      "title": "Campagne de promotion de la grenade espagnole DOP Mollar de Elche en France et en Italie",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Jessica"
-      ],
-      "products": [],
-      "origins": [
-        "FRA",
-        "ITA",
-        "ESP"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Campagne de promotion de la grenade espagnole DOP Mollar de Elche en France et en Italie -- <span class=\"news-date\">25/09/2026 15:46</span></div><div class=\"news-body\">La Denominación de Origen Protegida (DOP) Granada Mollar de Elche a annoncé sa participation, dès 2027, à un projet européen de promotion internationale. Ce programme cible prioritairement la France et l&#x27;Italie, considérés comme des marchés clés pour l&#x27;expansion de la grenade espagnole. <span class=\"news-reason\">Détaille une stratégie de promotion internationale d&#x27;un concurrent direct sur un produit en saison pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877092/la-dop-granada-mollar-de-elche-lanza-proyecto-europeo-de-promocion-en-francia-e-italia/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Promotion of Spanish PDO Mollar de Elche pomegranate in France and Italy -- <span class=\"news-date\">25/09/2026 15:46</span></div><div class=\"news-body\">The Protected Designation of Origin (PDO) Granada Mollar de Elche has announced its participation, starting in 2027, in a European international promotion project. This program primarily targets France and Italy, considered key markets for the expansion of Spanish pomegranate. <span class=\"news-reason\">Details an international promotion strategy for a direct competitor on a product in season for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877092/la-dop-granada-mollar-de-elche-lanza-proyecto-europeo-de-promocion-en-francia-e-italia/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">קידום הרימון הספרדי DOP Mollar de Elche בצרפת ובאיטליה -- <span class=\"news-date\">25/09/2026 15:46</span></div><div class=\"news-body\">הכינוי המוגן למקור (DOP) של הרימון Mollar de Elche הודיע על השתתפותו, החל משנת 2027, בפרויקט אירופי לקידום בינלאומי. תוכנית זו מתמקדת בצרפת ובאיטליה כיעדים מועדפים, הנחשבות לשווקי מפתח להתרחבות הרימון הספרדי. <span class=\"news-reason\">מפרט אסטרטגיית קידום בינלאומית של מתחרה ישיר עבור מוצר הנמצא בעונה עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877092/la-dop-granada-mollar-de-elche-lanza-proyecto-europeo-de-promocion-en-francia-e-italia/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1790345151_2",
-      "timestamp": "2026-09-25T14:05:51.934622+00:00",
-      "title": "L&#x27;égyptien Queen Fresh lance sa campagne d&#x27;exportation de patates douces vers l&#x27;Europe -- 25/09/2026 14:22",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "sweet_potato"
-      ],
-      "origins": [
-        "EGY"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;égyptien Queen Fresh lance sa campagne d&#x27;exportation de patates douces vers l&#x27;Europe -- <span class=\"news-date\">25/09/2026 14:22</span></div><div class=\"news-body\">Le producteur-exportateur égyptien Queen Fresh Produce a lancé sa campagne de patate douce 2026. Sa station de conditionnement à Sadat City est opérationnelle depuis le 1er août et dispose désormais de tous les agréments nécessaires pour exporter vers les marchés de l&#x27;Union européenne et du Royaume-Uni. <span class=\"news-reason\">Annonce le début de la campagne d&#x27;un concurrent direct (Égypte) avec l&#x27;obtention d&#x27;agréments pour le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9876679/nous-sommes-bien-positionnes-pour-repondre-aux-besoins-evolutifs-de-nos-clients/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Egyptian Queen Fresh launches its sweet potato export campaign to Europe -- <span class=\"news-date\">25/09/2026 14:22</span></div><div class=\"news-body\">Egyptian producer-exporter Queen Fresh Produce has launched its 2026 sweet potato campaign. Its packing station in Sadat City has been operational since August 1st and now has all the necessary approvals to export to European Union and UK markets. <span class=\"news-reason\">Announces the start of a competitor&#x27;s campaign (Egypt) with the obtaining of approvals for the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9876679/nous-sommes-bien-positionnes-pour-repondre-aux-besoins-evolutifs-de-nos-clients/\" target=\"_blank\">FreshPlaza FR -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">Queen Fresh המצרית משיקה את עונת ייצוא הבטטות לאירופה -- <span class=\"news-date\">25/09/2026 14:22</span></div><div class=\"news-body\">יצרנית-יצואנית הבטטות המצרית Queen Fresh Produce השיקה את עונת הבטטות לשנת 2026. תחנת האריזה שלה ב-Sadat City פעילה מאז ה-1 באוגוסט וכעת היא בעלת כל האישורים הנדרשים לייצוא לשווקי האיחוד האירופי ובריטניה. <span class=\"news-reason\">מכריז על תחילת העונה של מתחרה ישיר (מצרים) עם קבלת אישורים לשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9876679/nous-sommes-bien-positionnes-pour-repondre-aux-besoins-evolutifs-de-nos-clients/\" target=\"_blank\">FreshPlaza FR -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1790345151_1",
-      "timestamp": "2026-09-25T14:05:51.934622+00:00",
-      "title": "La production d’avocats en Californie se maintient au-delà de 136 000 tonnes",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La production d’avocats en Californie se maintient au-delà de 136 000 tonnes -- <span class=\"news-date\">25/09/2026 15:46</span></div><div class=\"news-body\">La saison de l&#x27;avocat californien affiche des résultats solides avec une récolte d&#x27;environ 149,7 millions de kg (330 millions de livres), alignée sur les prévisions. La production maintient une stabilité supérieure à 136 000 tonnes sur les trois dernières campagnes, soutenue par une demande constante. <span class=\"news-reason\">Fournit des chiffres précis sur les volumes de production d&#x27;une origine majeure, servant d&#x27;indicateur pour le marché mondial de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9876217/el-aguacate-californiano-encadena-tres-campanas-con-mas-de-136-000-toneladas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">California avocado production remains above 136,000 tonnes -- <span class=\"news-date\">25/09/2026 15:46</span></div><div class=\"news-body\">The California avocado season shows solid results with a harvest of approximately 149.7 million kg (330 million pounds), aligned with forecasts. Production maintains stability above 136,000 tonnes over the last three seasons, supported by constant demand. <span class=\"news-reason\">Provides precise figures on production volumes from a major origin, serving as an indicator for the global avocado market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9876217/el-aguacate-californiano-encadena-tres-campanas-con-mas-de-136-000-toneladas/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ייצור האבוקדו בקליפורניה שומר על יציבות מעל 136,000 טון -- <span class=\"news-date\">25/09/2026 15:46</span></div><div class=\"news-body\">עונת האבוקדו הקליפורני מציגה תוצאות איתנות עם יבול של כ-149.7 מיליון ק\"ג (330 מיליון פאונד), בהתאם לתחזיות. הייצור שומר על יציבות מעל 136,000 טון בשלוש העונות האחרונות, בתמיכת ביקוש קבוע. <span class=\"news-reason\">מספק נתונים מדויקים על היקפי הייצור של מקור מרכזי, המשמש כמדד לשוק האבוקדו העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9876217/el-aguacate-californiano-encadena-tres-campanas-con-mas-de-136-000-toneladas/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1790345151_0",
-      "timestamp": "2026-09-25T14:05:51.934622+00:00",
-      "title": "La mangue espagnole Osteen sous la pression de l&#x27;offre brésilienne",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "mango"
-      ],
-      "origins": [
-        "ESP",
-        "BRA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La mangue espagnole Osteen sous la pression de l&#x27;offre brésilienne -- <span class=\"news-date\">25/09/2026 15:46</span></div><div class=\"news-body\">La campagne de mangue espagnole, principalement située à Malaga, atteint son milieu de saison pour la variété Osteen, qui représente 70 % de la production nationale. Les exportateurs signalent une concurrence accrue du Brésil, dont la suroffre et les prix bas déplacent l&#x27;origine espagnole sur plusieurs marchés européens. <span class=\"news-reason\">Contient des informations sur la concurrence directe entre l&#x27;Espagne et le Brésil, avec des précisions sur les parts de marché et l&#x27;impact sur les prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877114/la-sobreoferta-y-los-bajos-precios-del-mango-brasileno-nos-han-desplazado-en-ciertos-mercados/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spanish Osteen mango under pressure from Brazilian supply -- <span class=\"news-date\">25/09/2026 15:46</span></div><div class=\"news-body\">The Spanish mango season, mainly located in Malaga, is reaching its mid-season for the Osteen variety, which accounts for 70% of national production. Exporters report increased competition from Brazil, whose oversupply and low prices are displacing Spanish origin in several European markets. <span class=\"news-reason\">Contains information on direct competition between Spain and Brazil, with details on market shares and the impact on prices.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877114/la-sobreoferta-y-los-bajos-precios-del-mango-brasileno-nos-han-desplazado-en-ciertos-mercados/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">המנגו הספרדי מסוג Osteen תחת לחץ מול ההיצע הברזילאי -- <span class=\"news-date\">25/09/2026 15:46</span></div><div class=\"news-body\">עונת המנגו הספרדי, המרוכזת בעיקר במלאגה, מגיעה לאמצע העונה עבור זן ה-Osteen, המהווה 70% מהייצור הלאומי. היצואנים מדווחים על תחרות גוברת מצד ברזיל, שהיצע היתר והמחירים הנמוכים שלה דוחקים את המקור הספרדי ממספר שווקים אירופיים. <span class=\"news-reason\">מכיל מידע על תחרות ישירה בין ספרד לברזיל, עם פירוט על נתחי שוק והשפעה על המחירים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877114/la-sobreoferta-y-los-bajos-precios-del-mango-brasileno-nos-han-desplazado-en-ciertos-mercados/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
