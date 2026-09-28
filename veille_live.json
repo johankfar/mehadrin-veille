@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-28T08:02:10.289137+00:00",
-  "article_count": 23,
+  "last_updated": "2026-09-28T09:32:46.457082+00:00",
+  "article_count": 21,
   "attention_points": [
     {
       "id": "attention-39749ef6d6a1cdbb",
       "article_id": "1790582530_1",
       "url": "https://www.freshplaza.de/article/9876733/sizilianische-g-u-orange-erzielt-den-weltweit-hochsten-erzeugerpreis/",
       "source": "FreshPlaza DE",
-      "title": "Prix de production records pour l'orange de Ribera DOP",
+      "title": "Prix à la production records pour l'orange de Ribera",
       "summary": "L'entreprise Parlapiano Fruit rapporte obtenir les prix à la production les plus élevés au monde pour ses oranges de Ribera sous appellation d'origine protégée (g.U.).",
       "origin_code": "ITA",
       "origin_label": "Italie",
@@ -19,7 +19,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 0
+      "age_hours": 1
     },
     {
       "id": "attention-2ecea51a080be17b",
@@ -38,7 +38,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 4
+      "age_hours": 5
     },
     {
       "id": "attention-379712bcf33902eb",
@@ -55,14 +55,14 @@
       "signal_label": "Météo",
       "icon": "weather",
       "products": [],
-      "age_hours": 68
+      "age_hours": 69
     },
     {
       "id": "attention-17d32e5704477458",
       "article_id": "1790339690_4",
       "url": "https://www.freshplaza.de/article/9876138/geopolitische-herausforderungen-bieten-chancen-fur-die-logistik/",
       "source": "FreshPlaza DE",
-      "title": "Forte progression des importations d'avocats et de mangues",
+      "title": "Forte croissance des importations d'avocats et de mangues",
       "summary": "À Rotterdam, le prestataire logistique LBP signale la fin de la période estivale calme avec l'arrivée de volumes importants d'avocats et de mangues dans ses entrepôts frigorifiques.",
       "origin_code": "NLD",
       "origin_label": "Pays-Bas",
@@ -75,10 +75,29 @@
         "avocat",
         "mango"
       ],
-      "age_hours": 71
+      "age_hours": 73
     }
   ],
   "articles": [
+    {
+      "id": "1790587966_0",
+      "timestamp": "2026-09-28T09:32:46.457082+00:00",
+      "title": "L’avocat mexicain explore de nouveaux marchés face aux taxes américaines",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MEX",
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’avocat mexicain explore de nouveaux marchés face aux taxes américaines -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">L&#x27;imposition de nouveaux droits de douane par le gouvernement américain exerce une forte pression sur les prix et les volumes de vente des avocats mexicains aux États-Unis. Bien que ce marché absorbe traditionnellement la quasi-totalité de leur production, les exportateurs mexicains sont désormais contraints de rechercher activement de nouveaux débouchés internationaux pour écouler leurs volumes. <span class=\"news-reason\">Information sur la stratégie d&#x27;exportation d&#x27;un concurrent majeur suite à des pressions tarifaires aux États-Unis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876128/gli-avocado-messicani-sono-in-cerca-di-nuovi-mercati-di-vendita/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Mexican avocados explore new markets in the face of US taxes -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">The imposition of new tariffs by the US government is putting strong pressure on the prices and sales volumes of Mexican avocados in the United States. Although this market traditionally absorbs almost all of their production, Mexican exporters are now forced to actively seek new international outlets to sell their volumes. <span class=\"news-reason\">Information on the export strategy of a major competitor following tariff pressures in the United States.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876128/gli-avocado-messicani-sono-in-cerca-di-nuovi-mercati-di-vendita/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">אבוקדו מקסיקני בוחן שווקים חדשים מול המכסים האמריקאיים -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">הטלת מכסי מגן חדשים מצד הממשל האמריקאי מפעילה לחץ כבד על המחירים ועל היקפי המכירות של אבוקדו מקסיקני בארצות הברית. למרות ששוק זה קולט באופן מסורתי כמעט את כל התוצרת שלהם, היצואנים המקסיקנים נאלצים כעת לחפש באופן פעיל אפיקים בינלאומיים חדשים לשיווק תוצרתם. <span class=\"news-reason\">מידע על אסטרטגיית הייצוא של מתחרה מרכזי בעקבות לחצי מכסים בארצות הברית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876128/gli-avocado-messicani-sono-in-cerca-di-nuovi-mercati-di-vendita/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1790582530_2",
       "timestamp": "2026-09-28T08:02:10.289137+00:00",
@@ -100,7 +119,7 @@
     {
       "id": "1790582530_1",
       "timestamp": "2026-09-28T08:02:10.289137+00:00",
-      "title": "Prix de production records pour l&#x27;orange de Ribera DOP en Sicile",
+      "title": "Prix à la production records pour l&#x27;orange de Ribera DOP en Sicile",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -111,14 +130,14 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prix de production records pour l&#x27;orange de Ribera DOP en Sicile -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">L&#x27;entreprise Parlapiano Fruit rapporte obtenir les prix à la production les plus élevés au monde pour ses oranges de Ribera sous appellation d&#x27;origine protégée (g.U.). Le produit se maintient sur un segment de niche performant et approvisionne les principales chaînes de supermarchés en Italie. <span class=\"news-reason\">Cotations de prix à la production pour les oranges, produit cœur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876733/sizilianische-g-u-orange-erzielt-den-weltweit-hochsten-erzeugerpreis/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prix à la production records pour l&#x27;orange de Ribera DOP en Sicile -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">L&#x27;entreprise Parlapiano Fruit rapporte obtenir les prix à la production les plus élevés au monde pour ses oranges de Ribera sous appellation d&#x27;origine protégée (g.U.). Le produit se maintient sur un segment de niche performant et approvisionne les principales chaînes de supermarchés en Italie. <span class=\"news-reason\">Cotations de prix à la production pour les oranges, produit cœur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876733/sizilianische-g-u-orange-erzielt-den-weltweit-hochsten-erzeugerpreis/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Record production prices for Ribera PDO oranges in Sicily -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">The company Parlapiano Fruit reports obtaining the highest production prices in the world for its Ribera oranges under protected designation of origin (PDO). The product maintains itself in a high-performing niche segment and supplies the main supermarket chains in Italy. <span class=\"news-reason\">Production price quotes for oranges, a core product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876733/sizilianische-g-u-orange-erzielt-den-weltweit-hochsten-erzeugerpreis/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מחירי יצרן שוברי שיאים עבור תפוז ריברה DOP בסיציליה -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">חברת Parlapiano Fruit מדווחת על השגת מחירי היצרן הגבוהים בעולם עבור תפוזי הריברה שלה תחת כינוי מקור מוגן (g.U.). המוצר שומר על מעמדו בסגמנט נישה מצליח ומספק את רשתות הסופרמרקטים העיקריות באיטליה. <span class=\"news-reason\">ציטוטי מחירי יצרן עבור תפוזים, מוצר ליבה של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876733/sizilianische-g-u-orange-erzielt-den-weltweit-hochsten-erzeugerpreis/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1790582530_0",
       "timestamp": "2026-09-28T08:02:10.289137+00:00",
-      "title": "Le marché de la mangue sous pression face à une offre excédentaire -- 28/09/2026 09:51",
+      "title": "Le marché de la mangue sous tension face à une offre excédentaire",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -127,7 +146,7 @@
         "mango"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le marché de la mangue sous pression face à une offre excédentaire -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">Le marché de la mangue traverse une période difficile avec un surplus de fruits face à une demande insuffisante. Cette situation entraîne des prix programmés se situant entre 5,50 € et 6,00 €. La qualité de certains lots pèse également sur les cours actuels. <span class=\"news-reason\">Informations précises sur les prix de marché et l&#x27;équilibre offre/demande pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876649/der-absatz-von-mangos-gestaltet-sich-derzeit-etwas-schwierig/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le marché de la mangue sous tension face à une offre excédentaire -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">Le marché de la mangue traverse une période difficile avec un surplus de fruits face à une demande insuffisante. Cette situation entraîne des prix programmés se situant entre 5,50 € et 6,00 €. La qualité de certains lots pèse également sur les cours actuels. <span class=\"news-reason\">Informations précises sur les prix de marché et l&#x27;équilibre offre/demande pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876649/der-absatz-von-mangos-gestaltet-sich-derzeit-etwas-schwierig/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">The mango market under pressure facing oversupply -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">The mango market is going through a difficult period with a surplus of fruit facing insufficient demand. This situation leads to programmed prices ranging between €5.50 and €6.00. The quality of certain batches is also weighing on current prices. <span class=\"news-reason\">Precise information on market prices and the supply/demand balance for a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876649/der-absatz-von-mangos-gestaltet-sich-derzeit-etwas-schwierig/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">שוק המנגו תחת לחץ בשל היצע עודף -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">שוק המנגו חווה תקופה קשה עם עודף פירות אל מול ביקוש לא מספק. מצב זה מוביל למחירים מתוכננים הנעים בין 5.50 אירו ל-6.00 אירו. איכותם של משלוחים מסוימים מעיבה גם היא על המחירים הנוכחיים. <span class=\"news-reason\">מידע מדויק על מחירי השוק ומאזן ההיצע/ביקוש עבור מוצר של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876649/der-absatz-von-mangos-gestaltet-sich-derzeit-etwas-schwierig/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
@@ -166,7 +185,7 @@
     {
       "id": "1790577179_0",
       "timestamp": "2026-09-28T06:32:59.542892+00:00",
-      "title": "Brevet européen pour la Perrina, première clémentine tardive issue de la recherche italienne",
+      "title": "Obtention d&#x27;un brevet européen pour la Perrina, première clémentine tardive issue de la recherche italienne.",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -177,7 +196,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Brevet européen pour la Perrina, première clémentine tardive issue de la recherche italienne -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">Un chercheur privé italien a obtenu un certificat de protection communautaire pour Perrina, devenant le premier acteur privé du pays à détenir un brevet européen pour une innovation variétale en agrumes. Cette nouvelle clémentine tardive a été développée après une phase expérimentale rigoureuse. <span class=\"news-reason\">Information sur une nouvelle variété concurrente de clémentine tardive brevetée pour le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876830/concesso-il-brevetto-comunitario-per-la-prima-clementine-tardiva-da-ricerca-privata-italiana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Obtention d&#x27;un brevet européen pour la Perrina, première clémentine tardive issue de la recherche italienne. -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">Un chercheur privé italien a obtenu un certificat de protection communautaire pour Perrina, devenant le premier acteur privé du pays à détenir un brevet européen pour une innovation variétale en agrumes. Cette nouvelle clémentine tardive a été développée après une phase expérimentale rigoureuse. <span class=\"news-reason\">Information sur une nouvelle variété concurrente de clémentine tardive brevetée pour le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876830/concesso-il-brevetto-comunitario-per-la-prima-clementine-tardiva-da-ricerca-privata-italiana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGINS COMPETITION</div><div class=\"news-title\">European patent for Perrina, the first late clementine from Italian research -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">A private Italian researcher has obtained a Community protection certificate for Perrina, becoming the country's first private actor to hold a European patent for a citrus variety innovation. This new late clementine was developed after a rigorous experimental phase. <span class=\"news-reason\">Information on a new competing late clementine variety patented for the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876830/concesso-il-brevetto-comunitario-per-la-prima-clementine-tardiva-da-ricerca-privata-italiana/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקור</div><div class=\"news-title\">פטנט אירופי עבור Perrina, הקלמנטינה המאוחרת הראשונה ממחקר איטלקי -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\" dir=\"rtl\">חוקר פרטי איטלקי קיבל תעודת הגנה קהילתית עבור Perrina, והפך לגורם הפרטי הראשון במדינה שמחזיק בפטנט אירופי על חידוש זני בהדרים. קלמנטינה מאוחרת חדשה זו פותחה לאחר שלב ניסיוני קפדני. <span class=\"news-reason\">מידע על זן חדש ומתחרה של קלמנטינה מאוחרת המוגנת בפטנט לשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876830/concesso-il-brevetto-comunitario-per-la-prima-clementine-tardiva-da-ricerca-privata-italiana/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -327,7 +346,7 @@
     {
       "id": "1790339690_4",
       "timestamp": "2026-09-25T12:34:50.632485+00:00",
-      "title": "Forte progression des importations d&#x27;avocats et de mangues aux Pays-Bas",
+      "title": "Forte croissance des importations d&#x27;avocats et de mangues aux Pays-Bas",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -339,7 +358,7 @@
       "origins": [
         "NLD"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Forte progression des importations d&#x27;avocats et de mangues aux Pays-Bas -- <span class=\"news-date\">25/09/2026 10:08</span></div><div class=\"news-body\">À Rotterdam, le prestataire logistique LBP signale la fin de la période estivale calme avec l&#x27;arrivée de volumes importants d&#x27;avocats et de mangues dans ses entrepôts frigorifiques. Malgré les défis géopolitiques affectant les flux maritimes, la saison d&#x27;importation automnale s&#x27;intensifie pour ces produits exotiques. <span class=\"news-reason\">Information logistique sur l&#x27;augmentation des flux de produits Mehadrin vers le hub européen de Rotterdam.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876138/geopolitische-herausforderungen-bieten-chancen-fur-die-logistik/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Forte croissance des importations d&#x27;avocats et de mangues aux Pays-Bas -- <span class=\"news-date\">25/09/2026 10:08</span></div><div class=\"news-body\">À Rotterdam, le prestataire logistique LBP signale la fin de la période estivale calme avec l&#x27;arrivée de volumes importants d&#x27;avocats et de mangues dans ses entrepôts frigorifiques. Malgré les défis géopolitiques affectant les flux maritimes, la saison d&#x27;importation automnale s&#x27;intensifie pour ces produits exotiques. <span class=\"news-reason\">Information logistique sur l&#x27;augmentation des flux de produits Mehadrin vers le hub européen de Rotterdam.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876138/geopolitische-herausforderungen-bieten-chancen-fur-die-logistik/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Massive influx of imported avocados and mangoes to the Netherlands -- <span class=\"news-date\">25/09/2026 10:08</span></div><div class=\"news-body\">In Rotterdam, logistics provider LBP reports the end of the quiet summer period with the arrival of significant volumes of avocados and mangoes at its cold storage facilities. Despite geopolitical challenges affecting maritime flows, the autumn import season is intensifying for these exotic products. <span class=\"news-reason\">Logistical information on the increase in flows of Mehadrin products towards the European hub of Rotterdam.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876138/geopolitische-herausforderungen-bieten-chancen-fur-die-logistik/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקור</div><div class=\"news-title\">זרימה מאסיבית של אבוקדו ומנגו מיובאים להולנד -- <span class=\"news-date\">25/09/2026 10:08</span></div><div class=\"news-body\">ברוטרדם, ספק הלוגיסטיקה LBP מדווח על סיום תקופת הקיץ השקטה עם הגעת כמויות גדולות של אבוקדו ומנגו למחסני הקירור שלו. למרות האתגרים הגיאופוליטיים המשפיעים על תנועת האוניות, עונת היבוא הסתווית מתגברת עבור מוצרים אקזוטיים אלה. <span class=\"news-reason\">מידע לוגיסטי על עלייה בזרימת מוצרי מהדרין למרכז הלוגיסטי האירופי ברוטרדם.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876138/geopolitische-herausforderungen-bieten-chancen-fur-die-logistik/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -432,55 +451,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;Égypte et le Maroc s&#x27;imposent face à l&#x27;Amérique latine sur le marché européen -- <span class=\"news-date\">24/09/2026 13:33</span></div><div class=\"news-body\">Les importations de fruits en provenance d&#x27;Égypte et du Maroc progressent sur le marché européen au détriment des fournisseurs d&#x27;Amérique latine. Le centre logistique LBP Rotterdam observe des arrivages massifs d&#x27;avocats pour la saison d&#x27;automne. Cette tendance marque un changement structurel dans l&#x27;approvisionnement des hubs de distribution néerlandais en faveur des origines méditerranéennes. <span class=\"news-reason\">Analyse du positionnement concurrentiel des origines Mehadrin (Égypte, Maroc) sur le marché de l&#x27;avocat en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/africa/article/9876135/imports-from-countries-such-as-egypt-and-morocco-are-gaining-ground-at-the-expense-of-latin-america/\" target=\"_blank\">FreshPlaza Africa -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Egypt and Morocco gain ground against Latin America on the European market -- <span class=\"news-date\">24/09/2026 13:33</span></div><div class=\"news-body\">Fruit imports from Egypt and Morocco are gaining ground on the European market at the expense of Latin American suppliers. The LBP Rotterdam logistics center is seeing massive arrivals of avocados for the autumn season. This trend marks a structural shift in the sourcing of Dutch distribution hubs in favor of Mediterranean origins. <span class=\"news-reason\">Analysis of the competitive positioning of Mehadrin origins (Egypt, Morocco) on the European avocado market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/africa/article/9876135/imports-from-countries-such-as-egypt-and-morocco-are-gaining-ground-at-the-expense-of-latin-america/\" target=\"_blank\">FreshPlaza Africa -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מצרים ומרוקו מבססות את מעמדן מול אמריקה הלטינית בשוק האירופי -- <span class=\"news-date\">24/09/2026 13:33</span></div><div class=\"news-body\">יבוא הפירות ממצרים וממרוקו גדל בשוק האירופי על חשבון הספקים מאמריקה הלטינית. המרכז הלוגיסטי LBP רוטרדם מדווח על הגעת משלוחי אבוקדו גדולים לעונת הסתיו. מגמה זו מסמנת שינוי מבני באספקה למרכזי ההפצה ההולנדיים לטובת מקורות מאגן הים התיכון. <span class=\"news-reason\">ניתוח המיצוב התחרותי של מקורות מהדרין (מצרים, מרוקו) בשוק האבוקדו באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/africa/article/9876135/imports-from-countries-such-as-egypt-and-morocco-are-gaining-ground-at-the-expense-of-latin-america/\" target=\"_blank\">FreshPlaza Africa -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1790328898_1",
-      "timestamp": "2026-09-25T09:34:58.681007+00:00",
-      "title": "L&#x27;avocat mexicain à la conquête de nouveaux marchés mondiaux -- 24/09/2026 13:33",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "MEX",
-        "USA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;avocat mexicain à la conquête de nouveaux marchés mondiaux -- <span class=\"news-date\">24/09/2026 13:33</span></div><div class=\"news-body\">Les exportateurs mexicains d&#x27;avocats subissent une pression sur les prix en raison de nouvelles taxes douanières imposées par les États-Unis. Cette situation contraint l&#x27;origine mexicaine à diversifier ses débouchés et à rechercher activement de nouveaux marchés à l&#x27;échelle mondiale. <span class=\"news-reason\">Changement de stratégie d&#x27;une origine concurrente majeure impactant potentiellement les flux vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/africa/article/9876126/mexican-avocados-look-for-new-markets/\" target=\"_blank\">FreshPlaza Africa -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Mexican avocados conquering new global markets -- <span class=\"news-date\">24/09/2026 13:33</span></div><div class=\"news-body\">Mexican avocado exporters are facing price pressure due to new customs duties imposed by the United States. This situation is forcing the Mexican origin to diversify its outlets and actively seek new markets globally. <span class=\"news-reason\">Strategy change from a major competing origin potentially impacting flows to Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/africa/article/9876126/mexican-avocados-look-for-new-markets/\" target=\"_blank\">FreshPlaza Africa -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">האבוקדו המקסיקני בדרך לכיבוש שווקים עולמיים חדשים -- <span class=\"news-date\">24/09/2026 13:33</span></div><div class=\"news-body\">יצואני האבוקדו המקסיקנים חווים לחץ על המחירים בשל מיסי מכס חדשים שהוטלו על ידי ארצות הברית. מצב זה מאלץ את המקור המקסיקני לגוון את יעדי השיווק שלו ולחפש באופן פעיל שווקים חדשים ברחבי העולם. <span class=\"news-reason\">שינוי באסטרטגיה של מקור מתחרה מרכזי העלול להשפיע על תזרימי הסחורות לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/africa/article/9876126/mexican-avocados-look-for-new-markets/\" target=\"_blank\">FreshPlaza Africa -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1790328898_0",
-      "timestamp": "2026-09-25T09:34:58.681007+00:00",
-      "title": "Forte demande pour les agrumes australiens malgré une légère baisse de production -- 25/09/2026 08:22",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Forte demande pour les agrumes australiens malgré une légère baisse de production -- <span class=\"news-date\">25/09/2026 08:22</span></div><div class=\"news-body\">La saison des agrumes en Australie-Méridionale a débuté sous des conditions météorologiques humides, entraînant une légère baisse des rendements globaux. Malgré cela, la qualité gustative des fruits est rapportée comme excellente, maintenant une demande forte sur les marchés d&#x27;exportation. <span class=\"news-reason\">Information sur les rendements et la qualité des agrumes chez une origine concurrente suite à des aléas climatiques.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.cn/article/9876199/pin-pai-zhi-ming-du-you-zhu-yu-bao-chi-nan-ao-da-li-ya-gan-ju-chong-zhi-zhe-de-qiang-jing-xu-qiu/\" target=\"_blank\">FreshPlaza CN -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Strong demand for Australian citrus despite a slight drop in production -- <span class=\"news-date\">25/09/2026 08:22</span></div><div class=\"news-body\">The citrus season in South Australia began under wet weather conditions, leading to a slight decrease in overall yields. Despite this, the eating quality of the fruit is reported as excellent, maintaining strong demand in export markets. <span class=\"news-reason\">Information on citrus yields and quality from a competing origin following weather events.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.cn/article/9876199/pin-pai-zhi-ming-du-you-zhu-yu-bao-chi-nan-ao-da-li-ya-gan-ju-chong-zhi-zhe-de-qiang-jing-xu-qiu/\" target=\"_blank\">FreshPlaza CN -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ביקוש חזק להדרים אוסטרליים למרות ירידה קלה בייצור -- <span class=\"news-date\">25/09/2026 08:22</span></div><div class=\"news-body\">עונת ההדרים בדרום אוסטרליה החלה בתנאי מזג אוויר גשומים, מה שהוביל לירידה קלה ביבולים הכוללים. למרות זאת, איכות הטעם של הפירות מדווחת כמצוינת, דבר השומר על ביקוש חזק בשוקי הייצוא. <span class=\"news-reason\">מידע על יבולים ואיכות ההדרים במקור מתחרה בעקבות פגעי מזג האוויר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.cn/article/9876199/pin-pai-zhi-ming-du-you-zhu-yu-bao-chi-nan-ao-da-li-ya-gan-ju-chong-zhi-zhe-de-qiang-jing-xu-qiu/\" target=\"_blank\">FreshPlaza CN -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1790323528_0",
-      "timestamp": "2026-09-25T08:05:28.035383+00:00",
-      "title": "Plaidoyer pour un renforcement des contrôles sur les agrumes importés en Europe -- 24/09/2026 13:33",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [
-        "ESP"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Plaidoyer pour un renforcement des contrôles sur les agrumes importés en Europe -- <span class=\"news-date\">24/09/2026 13:33</span></div><div class=\"news-body\">L&#x27;organisation La Unió Llauradora a réalisé des tests sur des agrumes importés vendus dans les supermarchés de Valence. Les résultats indiquent que 10 des 12 échantillons analysés, soit 83 %, contenaient des résidus de produits phytosanitaires. L&#x27;organisation souligne l&#x27;écart entre les exigences imposées aux producteurs européens et celles appliquées aux pays tiers, et appelle à une réglementation plus stricte des importations. <span class=\"news-reason\">L&#x27;article traite de la pression réglementaire sur les agrumes importés de pays tiers sur le marché espagnol et européen, avec des chiffres sur les résidus détectés.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9876245/la-unio-llauradora-urges-stricter-regulation-of-imported-citrus-fruits-after-detecting-multiple-residues/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Advocacy for strengthening controls on citrus fruits imported into Europe -- <span class=\"news-date\">24/09/2026 13:33</span></div><div class=\"news-body\">The organization La Unió Llauradora conducted tests on imported citrus fruits sold in supermarkets in Valencia. The results indicate that 10 out of the 12 samples analyzed, or 83%, contained residues of plant protection products. The organization highlights the gap between the requirements imposed on European producers and those applied to third countries, and calls for stricter regulation of imports. <span class=\"news-reason\">The article deals with regulatory pressure on citrus fruits imported from third countries into the Spanish and European markets, with figures on the residues detected.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9876245/la-unio-llauradora-urges-stricter-regulation-of-imported-citrus-fruits-after-detecting-multiple-residues/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">קריאה לחיזוק הפיקוח על פרי הדר מיובא לאירופה -- <span class=\"news-date\">24/09/2026 13:33</span></div><div class=\"news-body\">ארגון La Unió Llauradora ביצע בדיקות על פרי הדר מיובא שנמכר בסופרמרקטים בוולנסיה. התוצאות מצביעות על כך ש-10 מתוך 12 דגימות שנותחו, כלומר 83%, הכילו שאריות של חומרי הדברה. הארגון מדגיש את הפער בין הדרישות המוטלות על המגדלים האירופים לבין אלו המוחלות על מדינות שלישיות, וקורא לרגולציה מחמירה יותר על היבוא. <span class=\"news-reason\">המאמר עוסק בלחץ הרגולטורי על פרי הדר המיובא ממדינות שלישיות לשוק הספרדי והאירופי, עם נתונים על השאריות שהתגלו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9876245/la-unio-llauradora-urges-stricter-regulation-of-imported-citrus-fruits-after-detecting-multiple-residues/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
