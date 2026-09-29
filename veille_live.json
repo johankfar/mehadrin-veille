@@ -26,29 +26,10 @@
       "article_id": "1790609616_2",
       "url": "https://www.freshplaza.es/article/9877184/el-sector-egipcio-de-la-batata-busca-mayor-disciplina-en-precios-y-pesticidas/",
       "source": "FreshPlaza ES",
-      "title": "Égypte : renforcement de la régulation des prix",
+      "title": "Égypte : renforcement de la réglementation des prix",
       "summary": "Les exportateurs égyptiens s'organisent pour stabiliser les prix et la qualité.",
       "origin_code": "EGY",
       "origin_label": "Égypte",
-      "published_at": "2026-09-28T16:15:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "price",
-      "signal_label": "Prix",
-      "icon": "information",
-      "products": [
-        "sweet_potato"
-      ],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-ad9549516b4b91f3",
-      "article_id": "1790609616_1",
-      "url": "https://www.freshplaza.es/article/9876120/la-campana-de-la-batata-norteamericana-arranca-con-precios-poco-competitivos-para-la-exportacion-a-europa/",
-      "source": "FreshPlaza ES",
-      "title": "Érosion de la compétitivité des patates douces américaines sur",
-      "summary": "La campagne de patates douces en Amérique du Nord a débuté, mais les prix sur le marché américain sont actuellement jugés trop élevés pour permettre une exportation compétitive vers l'Europe.",
-      "origin_code": "NLD",
-      "origin_label": "Pays-Bas",
       "published_at": "2026-09-28T16:15:00+02:00",
       "published_at_source": "rss",
       "signal_type": "alert",
@@ -75,6 +56,25 @@
       "icon": "information",
       "products": [
         "mandarine"
+      ],
+      "age_hours": 5
+    },
+    {
+      "id": "attention-fe1add112d434507",
+      "article_id": "1790598842_3",
+      "url": "https://www.freshplaza.com/article/9877577/india-s-citrus-market-enters-a-new-season-as-domestic-oranges-arrive/",
+      "source": "FreshPlaza",
+      "title": "Transition entre agrumes locaux et importations saisonnières",
+      "summary": "Le marché des agrumes en Inde entame sa transition avec l'arrivée progressive des oranges domestiques.",
+      "origin_code": "ZAF",
+      "origin_label": "Afrique du Sud",
+      "published_at": "2026-09-28T13:49:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "orange"
       ],
       "age_hours": 5
     }
@@ -135,7 +135,7 @@
     {
       "id": "1790609616_2",
       "timestamp": "2026-09-28T15:33:36.069795+00:00",
-      "title": "Égypte : renforcement de la régulation des prix et de la qualité des patates douces",
+      "title": "Égypte : renforcement de la réglementation des prix et de la qualité des patates douces",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -146,7 +146,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Égypte : renforcement de la régulation des prix et de la qualité des patates douces -- <span class=\"news-date\">28/09/2026 16:15</span></div><div class=\"news-body\">Le secteur égyptien de la patate douce cherche à instaurer une plus grande discipline au sein de sa filière d&#x27;exportation pour la campagne en cours. Lors d&#x27;une réunion organisée par Agro Green, les acteurs du secteur ont insisté sur la nécessité de réguler les prix, de respecter strictement les normes phytosanitaires relatives aux pesticides et de mieux suivre l&#x27;évolution des conditions du marché international. <span class=\"news-reason\">Informations stratégiques sur la structuration d&#x27;un concurrent direct (Égypte) sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877184/el-sector-egipcio-de-la-batata-busca-mayor-disciplina-en-precios-y-pesticidas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Égypte : renforcement de la réglementation des prix et de la qualité des patates douces -- <span class=\"news-date\">28/09/2026 16:15</span></div><div class=\"news-body\">Le secteur égyptien de la patate douce cherche à instaurer une plus grande discipline au sein de sa filière d&#x27;exportation pour la campagne en cours. Lors d&#x27;une réunion organisée par Agro Green, les acteurs du secteur ont insisté sur la nécessité de réguler les prix, de respecter strictement les normes phytosanitaires relatives aux pesticides et de mieux suivre l&#x27;évolution des conditions du marché international. <span class=\"news-reason\">Informations stratégiques sur la structuration d&#x27;un concurrent direct (Égypte) sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877184/el-sector-egipcio-de-la-batata-busca-mayor-disciplina-en-precios-y-pesticidas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Egypt strengthens oversight of sweet potato prices and quality -- <span class=\"news-date\">28/09/2026 16:15</span></div><div class=\"news-body\">The Egyptian sweet potato sector is seeking to establish greater discipline within its export industry for the current campaign. During a meeting organized by Agro Green, sector stakeholders emphasized the need to regulate prices, strictly comply with phytosanitary standards regarding pesticides, and better monitor developments in international market conditions. <span class=\"news-reason\">Strategic information on the structuring of a direct competitor (Egypt) for a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877184/el-sector-egipcio-de-la-batata-busca-mayor-disciplina-en-precios-y-pesticidas/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">מצרים מחזקת את הפיקוח על המחירים והאיכות של הבטטות -- <span class=\"news-date\">28/09/2026 16:15</span></div><div class=\"news-body\">מגזר הבטטות המצרי מבקש להנהיג משמעת רבה יותר בתוך ענף היצוא שלו לעונה הנוכחית. במהלך פגישה שארגנה Agro Green, השחקנים במגזר הדגישו את הצורך בוויסות מחירים, בהקפדה יתרה על תקנים פיטוסניטריים הנוגעים לחומרי הדברה ובמעקב טוב יותר אחר השינויים בתנאי השוק הבינלאומי. <span class=\"news-reason\">מידע אסטרטגי על המבנה של מתחרה ישיר (מצרים) במוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877184/el-sector-egipcio-de-la-batata-busca-mayor-disciplina-en-precios-y-pesticidas/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -321,7 +321,7 @@
     {
       "id": "1790593477_0",
       "timestamp": "2026-09-28T11:04:37.362469+00:00",
-      "title": "Augmentation des approvisionnements en provenance d&#x27;Égypte et du Maroc vers l&#x27;Europe",
+      "title": "Hausse des approvisionnements en provenance d&#x27;Égypte et du Maroc vers l&#x27;Europe",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -334,7 +334,7 @@
         "EGY",
         "NLD"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Augmentation des approvisionnements en provenance d&#x27;Égypte et du Maroc vers l&#x27;Europe -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">Le logisticien néerlandais LBP Rotterdam observe une intensification des flux d&#x27;avocats en provenance d&#x27;Égypte et du Maroc pour la saison automnale. Ces origines renforcent leur présence sur le marché européen au détriment des exportations sud-américaines habituelles, avec des volumes significatifs transitant par les infrastructures de Maasdijk. <span class=\"news-reason\">Analyse du positionnement des origines concurrentes (Maroc, Égypte) sur le hub logistique de Rotterdam pour l&#x27;automne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876136/la-fornitura-da-paesi-come-egitto-e-marocco-sta-guadagnando-terreno-rispetto-a-quella-sudamericana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Hausse des approvisionnements en provenance d&#x27;Égypte et du Maroc vers l&#x27;Europe -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">Le logisticien néerlandais LBP Rotterdam observe une intensification des flux d&#x27;avocats en provenance d&#x27;Égypte et du Maroc pour la saison automnale. Ces origines renforcent leur présence sur le marché européen au détriment des exportations sud-américaines habituelles, avec des volumes significatifs transitant par les infrastructures de Maasdijk. <span class=\"news-reason\">Analyse du positionnement des origines concurrentes (Maroc, Égypte) sur le hub logistique de Rotterdam pour l&#x27;automne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876136/la-fornitura-da-paesi-come-egitto-e-marocco-sta-guadagnando-terreno-rispetto-a-quella-sudamericana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Supplies from Egypt and Morocco are gaining ground in Europe -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">Dutch logistics provider LBP Rotterdam is observing an intensification of avocado flows from Egypt and Morocco for the autumn season. These origins are strengthening their presence on the European market at the expense of the usual South American exports, with significant volumes passing through the Maasdijk infrastructure. <span class=\"news-reason\">Analysis of the positioning of competing origins (Morocco, Egypt) on the Rotterdam logistics hub for the autumn.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876136/la-fornitura-da-paesi-come-egitto-e-marocco-sta-guadagnando-terreno-rispetto-a-quella-sudamericana/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">האספקה ממצרים וממרוקו מתרחבת באירופה -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">חברת הלוגיסטיקה ההולנדית LBP Rotterdam מבחינה בהתגברות זרמי האבוקדו ממצרים וממרוקו לעונת הסתיו. מקורות אלו מחזקים את נוכחותם בשוק האירופי על חשבון הייצוא הדרום-אמריקאי הרגיל, עם נפחים משמעותיים העוברים דרך תשתיות מאסדייק (Maasdijk). <span class=\"news-reason\">ניתוח המיצוב של המקורות המתחרים (מרוקו, מצרים) במרכז הלוגיסטי של רוטרדם לסתיו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876136/la-fornitura-da-paesi-come-egitto-e-marocco-sta-guadagnando-terreno-rispetto-a-quella-sudamericana/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -360,7 +360,7 @@
     {
       "id": "1790582530_2",
       "timestamp": "2026-09-28T08:02:10.289137+00:00",
-      "title": "Maroc : la production d&#x27;avocats estimée à 180 000 tonnes pour la saison",
+      "title": "Maroc : la production d&#x27;avocats est estimée à 180 000 tonnes pour la saison",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -371,14 +371,14 @@
       "origins": [
         "MAR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Maroc : la production d&#x27;avocats estimée à 180 000 tonnes pour la saison -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">Après une saison de baisse, la production marocaine d&#x27;avocats devrait connaître une forte reprise. Selon l&#x27;exportateur Ahmed Bouljid, le volume total est estimé à environ 180 000 tonnes pour cette campagne, bien que les opérateurs restent prudents avant la confirmation finale des récoltes. <span class=\"news-reason\">Volumes de production d&#x27;une origine concurrente directe sur l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9875682/la-produzione-marocchina-dovrebbe-arrivare-a-circa-180mila-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Maroc : la production d&#x27;avocats est estimée à 180 000 tonnes pour la saison -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">Après une saison de baisse, la production marocaine d&#x27;avocats devrait connaître une forte reprise. Selon l&#x27;exportateur Ahmed Bouljid, le volume total est estimé à environ 180 000 tonnes pour cette campagne, bien que les opérateurs restent prudents avant la confirmation finale des récoltes. <span class=\"news-reason\">Volumes de production d&#x27;une origine concurrente directe sur l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9875682/la-produzione-marocchina-dovrebbe-arrivare-a-circa-180mila-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Morocco: avocado production is estimated at 180,000 tonnes for the season -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">After a season of decline, Moroccan avocado production is expected to see a strong recovery. According to exporter Ahmed Bouljid, the total volume is estimated at approximately 180,000 tonnes for this campaign, although operators remain cautious before the final harvest confirmation. <span class=\"news-reason\">Production volumes from a direct competing origin for avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9875682/la-produzione-marocchina-dovrebbe-arrivare-a-circa-180mila-tonnellate/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מרוקו: ייצור האבוקדו מוערך ב-180,000 טון לעונה -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">לאחר עונה של ירידה, ייצור האבוקדו במרוקו צפוי לחוות התאוששות חזקה. לפי היצואן אחמד בולג'יד, הנפח הכולל מוערך בכ-180,000 טון לעונה זו, אם כי המפעילים נותרים זהירים לפני האישור הסופי של היבולים. <span class=\"news-reason\">נפחי ייצור של מקור מתחרה ישיר באבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9875682/la-produzione-marocchina-dovrebbe-arrivare-a-circa-180mila-tonnellate/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1790582530_1",
       "timestamp": "2026-09-28T08:02:10.289137+00:00",
-      "title": "Prix à la production record pour l&#x27;orange de Ribera DOP en Sicile",
+      "title": "Prix à la production records pour l&#x27;orange de Ribera DOP en Sicile",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -389,7 +389,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prix à la production record pour l&#x27;orange de Ribera DOP en Sicile -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">L&#x27;entreprise Parlapiano Fruit rapporte obtenir les prix à la production les plus élevés au monde pour ses oranges de Ribera sous appellation d&#x27;origine protégée (g.U.). Le produit se maintient sur un segment de niche performant et approvisionne les principales chaînes de supermarchés en Italie. <span class=\"news-reason\">Cotations de prix à la production pour les oranges, produit cœur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876733/sizilianische-g-u-orange-erzielt-den-weltweit-hochsten-erzeugerpreis/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prix à la production records pour l&#x27;orange de Ribera DOP en Sicile -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">L&#x27;entreprise Parlapiano Fruit rapporte obtenir les prix à la production les plus élevés au monde pour ses oranges de Ribera sous appellation d&#x27;origine protégée (g.U.). Le produit se maintient sur un segment de niche performant et approvisionne les principales chaînes de supermarchés en Italie. <span class=\"news-reason\">Cotations de prix à la production pour les oranges, produit cœur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876733/sizilianische-g-u-orange-erzielt-den-weltweit-hochsten-erzeugerpreis/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Record production prices for Ribera PDO oranges in Sicily -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">The company Parlapiano Fruit reports obtaining the highest production prices in the world for its Ribera oranges under protected designation of origin (PDO). The product maintains itself in a high-performing niche segment and supplies the main supermarket chains in Italy. <span class=\"news-reason\">Production price quotes for oranges, a core product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876733/sizilianische-g-u-orange-erzielt-den-weltweit-hochsten-erzeugerpreis/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מחירי יצרן שוברי שיאים עבור תפוז ריברה DOP בסיציליה -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">חברת Parlapiano Fruit מדווחת על השגת מחירי היצרן הגבוהים בעולם עבור תפוזי הריברה שלה תחת כינוי מקור מוגן (g.U.). המוצר שומר על מעמדו בסגמנט נישה מצליח ומספק את רשתות הסופרמרקטים העיקריות באיטליה. <span class=\"news-reason\">ציטוטי מחירי יצרן עבור תפוזים, מוצר ליבה של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876733/sizilianische-g-u-orange-erzielt-den-weltweit-hochsten-erzeugerpreis/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
@@ -444,7 +444,7 @@
     {
       "id": "1790577179_0",
       "timestamp": "2026-09-28T06:32:59.542892+00:00",
-      "title": "Délivrance du brevet européen pour la Perrina, première clémentine tardive issue de la recherche italienne",
+      "title": "Obtention du brevet européen pour la Perrina, première clémentine tardive issue de la recherche italienne",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -455,7 +455,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Délivrance du brevet européen pour la Perrina, première clémentine tardive issue de la recherche italienne -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">Un chercheur privé italien a obtenu un certificat de protection communautaire pour Perrina, devenant le premier acteur privé du pays à détenir un brevet européen pour une innovation variétale en agrumes. Cette nouvelle clémentine tardive a été développée après une phase expérimentale rigoureuse. <span class=\"news-reason\">Information sur une nouvelle variété concurrente de clémentine tardive brevetée pour le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876830/concesso-il-brevetto-comunitario-per-la-prima-clementine-tardiva-da-ricerca-privata-italiana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Obtention du brevet européen pour la Perrina, première clémentine tardive issue de la recherche italienne -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">Un chercheur privé italien a obtenu un certificat de protection communautaire pour Perrina, devenant le premier acteur privé du pays à détenir un brevet européen pour une innovation variétale en agrumes. Cette nouvelle clémentine tardive a été développée après une phase expérimentale rigoureuse. <span class=\"news-reason\">Information sur une nouvelle variété concurrente de clémentine tardive brevetée pour le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876830/concesso-il-brevetto-comunitario-per-la-prima-clementine-tardiva-da-ricerca-privata-italiana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGINS COMPETITION</div><div class=\"news-title\">European patent for Perrina, the first late clementine from Italian research -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">A private Italian researcher has obtained a Community protection certificate for Perrina, becoming the country's first private actor to hold a European patent for a citrus variety innovation. This new late clementine was developed after a rigorous experimental phase. <span class=\"news-reason\">Information on a new competing late clementine variety patented for the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876830/concesso-il-brevetto-comunitario-per-la-prima-clementine-tardiva-da-ricerca-privata-italiana/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקור</div><div class=\"news-title\">פטנט אירופי עבור Perrina, הקלמנטינה המאוחרת הראשונה ממחקר איטלקי -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\" dir=\"rtl\">חוקר פרטי איטלקי קיבל תעודת הגנה קהילתית עבור Perrina, והפך לגורם הפרטי הראשון במדינה שמחזיק בפטנט אירופי על חידוש זני בהדרים. קלמנטינה מאוחרת חדשה זו פותחה לאחר שלב ניסיוני קפדני. <span class=\"news-reason\">מידע על זן חדש ומתחרה של קלמנטינה מאוחרת המוגנת בפטנט לשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876830/concesso-il-brevetto-comunitario-per-la-prima-clementine-tardiva-da-ricerca-privata-italiana/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
