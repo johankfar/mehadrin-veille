@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-30T12:33:54.060125+00:00",
-  "article_count": 42,
+  "last_updated": "2026-09-30T14:03:47.519811+00:00",
+  "article_count": 44,
   "attention_points": [
     {
       "id": "attention-3a1fbb122f806cf2",
@@ -19,7 +19,7 @@
       "products": [
         "melon"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-6b29a9ed83e2cca0",
@@ -38,18 +38,18 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
-      "id": "attention-0eefc174380acc9e",
-      "article_id": "1790766245_0",
-      "url": "https://www.freshfruitportal.com/news/2026/09/30/italys-avocado/",
-      "source": "Fresh Fruit Portal",
-      "title": "Italie : croissance de la consommation d'avocats et expansion",
-      "summary": "La consommation d'avocats par habitant en Italie a atteint 2,5 livres en 2025.",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
-      "published_at": "2026-09-30T11:00:06+00:00",
+      "id": "attention-5b75fb3093e5dd36",
+      "article_id": "1790777027_1",
+      "url": "https://www.freshplaza.com/article/9878122/mexico-s-avocado-advantage-lies-in-anticipating-the-crop/",
+      "source": "FreshPlaza",
+      "title": "Le Mexique domine le marché de l'avocat tandis que",
+      "summary": "Une origine dominante prend le relais sur le marché.",
+      "origin_code": "PER",
+      "origin_label": "Pérou",
+      "published_at": "2026-09-30T13:37:00+02:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
@@ -57,7 +57,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 1
+      "age_hours": 2
     },
     {
       "id": "attention-ffb4b27b89cdbe85",
@@ -76,10 +76,47 @@
       "products": [
         "sweet_potato"
       ],
-      "age_hours": 22
+      "age_hours": 24
     }
   ],
   "articles": [
+    {
+      "id": "1790777027_1",
+      "timestamp": "2026-09-30T14:03:47.519811+00:00",
+      "title": "Le Mexique domine le marché de l&#x27;avocat tandis que le Pérou achève sa campagne -- 30/09/2026 13:37",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "PER",
+        "MEX"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Mexique domine le marché de l&#x27;avocat tandis que le Pérou achève sa campagne -- <span class=\"news-date\">30/09/2026 13:37</span></div><div class=\"news-body\">Avec la fin des saisons en Californie et au Pérou, le Mexique redevient la source d&#x27;approvisionnement dominante sur le marché. L&#x27;industrie mise sur une meilleure anticipation des récoltes pour cette nouvelle saison afin de stabiliser les flux, malgré des attentes de volumes positifs pour cette origine. <span class=\"news-reason\">Information sur la transition des origines concurrentes (fin de saison Pérou) impactant l&#x27;offre mondiale d&#x27;avocats.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9878122/mexico-s-avocado-advantage-lies-in-anticipating-the-crop/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Mexico dominates the avocado market as Peru completes its campaign -- <span class=\"news-date\">30/09/2026 13:37</span></div><div class=\"news-body\">With the end of the seasons in California and Peru, Mexico is once again becoming the dominant source of supply in the market. The industry is banking on better harvest anticipation for this new season to stabilize flows, despite expectations of positive volumes for this origin. <span class=\"news-reason\">Information on the transition of competing origins (end of Peru season) impacting global avocado supply.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9878122/mexico-s-avocado-advantage-lies-in-anticipating-the-crop/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות בין מקורות</div><div class=\"news-title\">מקסיקו שולטת בשוק האבוקדו בעוד שפרו מסיימת את העונה שלה -- <span class=\"news-date\">30/09/2026 13:37</span></div><div class=\"news-body\">עם סיום העונות בקליפורניה ובפרו, מקסיקו חוזרת להיות מקור האספקה הדומיננטי בשוק. התעשייה בונה על צפייה טובה יותר של היבולים לעונה החדשה במטרה לייצב את התזרימים, למרות ציפיות לנפחים חיוביים ממקור זה. <span class=\"news-reason\">מידע על המעבר בין מקורות מתחרים (סיום העונה בפרו) המשפיע על היצע האבוקדו העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9878122/mexico-s-avocado-advantage-lies-in-anticipating-the-crop/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790777027_0",
+      "timestamp": "2026-09-30T14:03:47.519811+00:00",
+      "title": "Recul de 1,9 % des exportations péruviennes d&#x27;avocats Hass pour la saison -- 30/09/2026 13:37",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "PER"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul de 1,9 % des exportations péruviennes d&#x27;avocats Hass pour la saison -- <span class=\"news-date\">30/09/2026 13:37</span></div><div class=\"news-body\">Selon les estimations de ProHass basées sur les données de la semaine 38, le volume d&#x27;exportation d&#x27;avocats Hass du Pérou devrait être inférieur de 1,9 % à celui de la saison précédente. Alors que l&#x27;association prévoyait initialement une croissance de 6 % en début d&#x27;année, les conditions météorologiques défavorables ont contraint les opérateurs à revoir leurs prévisions à la baisse. <span class=\"news-reason\">Article contenant des chiffres précis sur les volumes d&#x27;exportation d&#x27;une origine concurrente majeure pour l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9878205/peruvian-hass-avocado-exports-will-be-1-9-lower-than-last-season/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">1.9% decline in Peruvian Hass avocado exports for the season -- <span class=\"news-date\">30/09/2026 13:37</span></div><div class=\"news-body\">According to ProHass estimates based on week 38 data, the export volume of Hass avocados from Peru is expected to be 1.9% lower than that of the previous season. While the association initially projected 6% growth at the beginning of the year, unfavorable weather conditions have forced operators to revise their forecasts downwards. <span class=\"news-reason\">Article containing precise figures on export volumes from a major competing origin for avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9878205/peruvian-hass-avocado-exports-will-be-1-9-lower-than-last-season/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">ירידה של 1.9% בייצוא האבוקדו מזן האס מפרו העונה -- <span class=\"news-date\">30/09/2026 13:37</span></div><div class=\"news-body\">לפי הערכות של ProHass המבוססות על נתוני שבוע 38, נפח הייצוא של אבוקדו האס מפרו צפוי להיות נמוך ב-1.9% לעומת העונה הקודמת. בעוד שהאיגוד צפה תחילה צמיחה של 6% בתחילת השנה, תנאי מזג האוויר הבלתי נוחים אילצו את המפעילים לעדכן את תחזיותיהם כלפי מטה. <span class=\"news-reason\">מאמר המכיל נתונים מדויקים על נפחי הייצוא של מקור מתחרה מרכזי לאבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9878205/peruvian-hass-avocado-exports-will-be-1-9-lower-than-last-season/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1790771634_3",
       "timestamp": "2026-09-30T12:33:54.060125+00:00",
@@ -171,14 +208,14 @@
     {
       "id": "1790760845_1",
       "timestamp": "2026-09-30T09:34:05.665084+00:00",
-      "title": "Succès commercial de la pastèque midi sans pépins Dark Star en Europe",
+      "title": "Performance commerciale de la pastèque midi sans pépins Dark Star en Europe",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [],
       "products": [
         "watermelon"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Succès commercial de la pastèque midi sans pépins Dark Star en Europe -- <span class=\"news-date\">30/09/2026 10:42</span></div><div class=\"news-body\">Le consortium Dolce Passione rapporte des résultats positifs pour la campagne de production et de commercialisation de la pastèque midi sans pépins à peau noire, sous la marque Dark Star. Cette variété, inscrite au catalogue européen, est désormais cultivée et distribuée dans douze pays, bénéficiant d&#x27;une demande soutenue pour son format compact et sa qualité. <span class=\"news-reason\">Suivi d&#x27;une variété concurrente innovante (pastèque) sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9878173/kernlose-midi-wassermelone-dark-star-uberzeugt-in-zwolf-landern/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Performance commerciale de la pastèque midi sans pépins Dark Star en Europe -- <span class=\"news-date\">30/09/2026 10:42</span></div><div class=\"news-body\">Le consortium Dolce Passione rapporte des résultats positifs pour la campagne de production et de commercialisation de la pastèque midi sans pépins à peau noire, sous la marque Dark Star. Cette variété, inscrite au catalogue européen, est désormais cultivée et distribuée dans douze pays, bénéficiant d&#x27;une demande soutenue pour son format compact et sa qualité. <span class=\"news-reason\">Suivi d&#x27;une variété concurrente innovante (pastèque) sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9878173/kernlose-midi-wassermelone-dark-star-uberzeugt-in-zwolf-landern/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Commercial success for Dark Star seedless midi watermelon in Europe -- <span class=\"news-date\">30/09/2026 10:42</span></div><div class=\"news-body\">The Dolce Passione consortium reports positive results for the production and marketing campaign of the black-skinned seedless midi watermelon under the Dark Star brand. This variety, listed in the European catalogue, is now grown and distributed in twelve countries, benefiting from steady demand for its compact format and quality. <span class=\"news-reason\">Monitoring of an innovative competing variety (watermelon) on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9878173/kernlose-midi-wassermelone-dark-star-uberzeugt-in-zwolf-landern/\" target=\"_blank\">FreshPlaza DE -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות ומקורות</div><div class=\"news-title\">הצלחה מסחרית לאבטיח מידי ללא גרעינים Dark Star באירופה -- <span class=\"news-date\">30/09/2026 10:42</span></div><div class=\"news-body\">קונסורציום Dolce Passione מדווח על תוצאות חיוביות עבור עונת הייצור והשיווק של אבטיח המידי ללא גרעינים בעל קליפה שחורה, תחת המותג Dark Star. זן זה, הרשום בקטלוג האירופי, מעובד ומופץ כיום ב-12 מדינות, ונהנה מביקוש יציב בזכות המבנה הקומפקטי ואיכותו. <span class=\"news-reason\">מעקב אחר זן מתחרה חדשני (אבטיח) בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9878173/kernlose-midi-wassermelone-dark-star-uberzeugt-in-zwolf-landern/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -237,7 +274,7 @@
     {
       "id": "1790744639_3",
       "timestamp": "2026-09-30T05:03:59.405409+00:00",
-      "title": "L’Éthiopie ambitionne de développer une production commerciale de dattes à grande échelle.",
+      "title": "L’Éthiopie ambitionne le développement d’une production commerciale de dattes à grande échelle",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -246,7 +283,7 @@
         "date"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’Éthiopie ambitionne de développer une production commerciale de dattes à grande échelle. -- <span class=\"news-date\">30/09/2026 06:00</span></div><div class=\"news-body\">L&#x27;Ethiopie met en œuvre un plan decennal pour developper sa production commerciale de dattes. Actuellement importateur net, le pays vise a generer des excedents pour les marches internationaux et regionaux. <span class=\"news-reason\">Strategie d&#x27;expansion d&#x27;une origine concurrente sur le marche de la datte.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9875785/l-etiopia-punta-a-incrementare-la-produzione-di-datteri-e-a-potenziare-le-esportazioni/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’Éthiopie ambitionne le développement d’une production commerciale de dattes à grande échelle -- <span class=\"news-date\">30/09/2026 06:00</span></div><div class=\"news-body\">L&#x27;Ethiopie met en œuvre un plan decennal pour developper sa production commerciale de dattes. Actuellement importateur net, le pays vise a generer des excedents pour les marches internationaux et regionaux. <span class=\"news-reason\">Strategie d&#x27;expansion d&#x27;une origine concurrente sur le marche de la datte.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9875785/l-etiopia-punta-a-incrementare-la-produzione-di-datteri-e-a-potenziare-le-esportazioni/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Ethiopia plans large-scale commercial date production -- <span class=\"news-date\">30/09/2026 06:00</span></div><div class=\"news-body\">Ethiopia is implementing a ten-year plan to develop its commercial date production. Currently a net importer, the country aims to generate surpluses for international and regional markets. <span class=\"news-reason\">Expansion strategy of a competing origin in the date market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9875785/l-etiopia-punta-a-incrementare-la-produzione-di-datteri-e-a-potenziare-le-esportazioni/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">אתיופיה מתכננת ייצור מסחרי של תמרים בקנה מידה גדול -- <span class=\"news-date\">30/09/2026 06:00</span></div><div class=\"news-body\">אתיופיה מיישמת תוכנית עשור לפיתוח ייצור התמרים המסחרי שלה. כיום יבואנית נטו, המדינה שואפת לייצר עודפים לשווקים הבינלאומיים והאזוריים. <span class=\"news-reason\">אסטרטגיית התרחבות של מקור מתחרה בשוק התמרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9875785/l-etiopia-punta-a-incrementare-la-produzione-di-datteri-e-a-potenziare-le-esportazioni/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -443,7 +480,7 @@
     {
       "id": "1790609616_2",
       "timestamp": "2026-09-28T15:33:36.069795+00:00",
-      "title": "Égypte : Renforcement de l&#x27;encadrement des prix et des normes de qualité pour les patates douces",
+      "title": "Égypte : Renforcement de la régulation des prix et des normes de qualité pour les patates douces",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -454,7 +491,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Égypte : Renforcement de l&#x27;encadrement des prix et des normes de qualité pour les patates douces -- <span class=\"news-date\">28/09/2026 16:15</span></div><div class=\"news-body\">Le secteur égyptien de la patate douce cherche à instaurer une plus grande discipline au sein de sa filière d&#x27;exportation pour la campagne en cours. Lors d&#x27;une réunion organisée par Agro Green, les acteurs du secteur ont insisté sur la nécessité de réguler les prix, de respecter strictement les normes phytosanitaires relatives aux pesticides et de mieux suivre l&#x27;évolution des conditions du marché international. <span class=\"news-reason\">Informations stratégiques sur la structuration d&#x27;un concurrent direct (Égypte) sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877184/el-sector-egipcio-de-la-batata-busca-mayor-disciplina-en-precios-y-pesticidas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Égypte : Renforcement de la régulation des prix et des normes de qualité pour les patates douces -- <span class=\"news-date\">28/09/2026 16:15</span></div><div class=\"news-body\">Le secteur égyptien de la patate douce cherche à instaurer une plus grande discipline au sein de sa filière d&#x27;exportation pour la campagne en cours. Lors d&#x27;une réunion organisée par Agro Green, les acteurs du secteur ont insisté sur la nécessité de réguler les prix, de respecter strictement les normes phytosanitaires relatives aux pesticides et de mieux suivre l&#x27;évolution des conditions du marché international. <span class=\"news-reason\">Informations stratégiques sur la structuration d&#x27;un concurrent direct (Égypte) sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877184/el-sector-egipcio-de-la-batata-busca-mayor-disciplina-en-precios-y-pesticidas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Egypt strengthens oversight of sweet potato prices and quality -- <span class=\"news-date\">28/09/2026 16:15</span></div><div class=\"news-body\">The Egyptian sweet potato sector is seeking to establish greater discipline within its export industry for the current campaign. During a meeting organized by Agro Green, sector stakeholders emphasized the need to regulate prices, strictly comply with phytosanitary standards regarding pesticides, and better monitor developments in international market conditions. <span class=\"news-reason\">Strategic information on the structuring of a direct competitor (Egypt) for a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877184/el-sector-egipcio-de-la-batata-busca-mayor-disciplina-en-precios-y-pesticidas/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">מצרים מחזקת את הפיקוח על המחירים והאיכות של הבטטות -- <span class=\"news-date\">28/09/2026 16:15</span></div><div class=\"news-body\">מגזר הבטטות המצרי מבקש להנהיג משמעת רבה יותר בתוך ענף היצוא שלו לעונה הנוכחית. במהלך פגישה שארגנה Agro Green, השחקנים במגזר הדגישו את הצורך בוויסות מחירים, בהקפדה יתרה על תקנים פיטוסניטריים הנוגעים לחומרי הדברה ובמעקב טוב יותר אחר השינויים בתנאי השוק הבינלאומי. <span class=\"news-reason\">מידע אסטרטגי על המבנה של מתחרה ישיר (מצרים) במוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877184/el-sector-egipcio-de-la-batata-busca-mayor-disciplina-en-precios-y-pesticidas/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -649,7 +686,7 @@
     {
       "id": "1790587966_0",
       "timestamp": "2026-09-28T09:32:46.457082+00:00",
-      "title": "L&#x27;industrie mexicaine de l&#x27;avocat diversifie ses débouchés face aux tarifs douaniers américains",
+      "title": "L&#x27;industrie mexicaine de l&#x27;avocat diversifie ses débouchés face aux droits de douane américains",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -661,7 +698,7 @@
         "MEX",
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;industrie mexicaine de l&#x27;avocat diversifie ses débouchés face aux tarifs douaniers américains -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">L&#x27;imposition de nouveaux droits de douane par le gouvernement américain exerce une forte pression sur les prix et les volumes de vente des avocats mexicains aux États-Unis. Bien que ce marché absorbe traditionnellement la quasi-totalité de leur production, les exportateurs mexicains sont désormais contraints de rechercher activement de nouveaux débouchés internationaux pour écouler leurs volumes. <span class=\"news-reason\">Information sur la stratégie d&#x27;exportation d&#x27;un concurrent majeur suite à des pressions tarifaires aux États-Unis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876128/gli-avocado-messicani-sono-in-cerca-di-nuovi-mercati-di-vendita/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;industrie mexicaine de l&#x27;avocat diversifie ses débouchés face aux droits de douane américains -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">L&#x27;imposition de nouveaux droits de douane par le gouvernement américain exerce une forte pression sur les prix et les volumes de vente des avocats mexicains aux États-Unis. Bien que ce marché absorbe traditionnellement la quasi-totalité de leur production, les exportateurs mexicains sont désormais contraints de rechercher activement de nouveaux débouchés internationaux pour écouler leurs volumes. <span class=\"news-reason\">Information sur la stratégie d&#x27;exportation d&#x27;un concurrent majeur suite à des pressions tarifaires aux États-Unis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876128/gli-avocado-messicani-sono-in-cerca-di-nuovi-mercati-di-vendita/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Mexican avocados explore new markets in the face of US taxes -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">The imposition of new tariffs by the US government is putting strong pressure on the prices and sales volumes of Mexican avocados in the United States. Although this market traditionally absorbs almost all of their production, Mexican exporters are now forced to actively seek new international outlets to sell their volumes. <span class=\"news-reason\">Information on the export strategy of a major competitor following tariff pressures in the United States.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876128/gli-avocado-messicani-sono-in-cerca-di-nuovi-mercati-di-vendita/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">אבוקדו מקסיקני בוחן שווקים חדשים מול המכסים האמריקאיים -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">הטלת מכסי מגן חדשים מצד הממשל האמריקאי מפעילה לחץ כבד על המחירים ועל היקפי המכירות של אבוקדו מקסיקני בארצות הברית. למרות ששוק זה קולט באופן מסורתי כמעט את כל התוצרת שלהם, היצואנים המקסיקנים נאלצים כעת לחפש באופן פעיל אפיקים בינלאומיים חדשים לשיווק תוצרתם. <span class=\"news-reason\">מידע על אסטרטגיית הייצוא של מתחרה מרכזי בעקבות לחצי מכסים בארצות הברית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876128/gli-avocado-messicani-sono-in-cerca-di-nuovi-mercati-di-vendita/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -686,7 +723,7 @@
     {
       "id": "1790582530_1",
       "timestamp": "2026-09-28T08:02:10.289137+00:00",
-      "title": "Prix à la production record pour l&#x27;orange de Ribera DOP en Sicile",
+      "title": "Prix record à la production pour l&#x27;orange de Ribera DOP en Sicile",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -697,14 +734,14 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prix à la production record pour l&#x27;orange de Ribera DOP en Sicile -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">L&#x27;entreprise Parlapiano Fruit rapporte obtenir les prix à la production les plus élevés au monde pour ses oranges de Ribera sous appellation d&#x27;origine protégée (g.U.). Le produit se maintient sur un segment de niche performant et approvisionne les principales chaînes de supermarchés en Italie. <span class=\"news-reason\">Cotations de prix à la production pour les oranges, produit cœur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876733/sizilianische-g-u-orange-erzielt-den-weltweit-hochsten-erzeugerpreis/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prix record à la production pour l&#x27;orange de Ribera DOP en Sicile -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">L&#x27;entreprise Parlapiano Fruit rapporte obtenir les prix à la production les plus élevés au monde pour ses oranges de Ribera sous appellation d&#x27;origine protégée (g.U.). Le produit se maintient sur un segment de niche performant et approvisionne les principales chaînes de supermarchés en Italie. <span class=\"news-reason\">Cotations de prix à la production pour les oranges, produit cœur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876733/sizilianische-g-u-orange-erzielt-den-weltweit-hochsten-erzeugerpreis/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Record production prices for Ribera PDO oranges in Sicily -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">The company Parlapiano Fruit reports obtaining the highest production prices in the world for its Ribera oranges under protected designation of origin (PDO). The product maintains itself in a high-performing niche segment and supplies the main supermarket chains in Italy. <span class=\"news-reason\">Production price quotes for oranges, a core product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876733/sizilianische-g-u-orange-erzielt-den-weltweit-hochsten-erzeugerpreis/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מחירי יצרן שוברי שיאים עבור תפוז ריברה DOP בסיציליה -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">חברת Parlapiano Fruit מדווחת על השגת מחירי היצרן הגבוהים בעולם עבור תפוזי הריברה שלה תחת כינוי מקור מוגן (g.U.). המוצר שומר על מעמדו בסגמנט נישה מצליח ומספק את רשתות הסופרמרקטים העיקריות באיטליה. <span class=\"news-reason\">ציטוטי מחירי יצרן עבור תפוזים, מוצר ליבה של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876733/sizilianische-g-u-orange-erzielt-den-weltweit-hochsten-erzeugerpreis/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1790582530_0",
       "timestamp": "2026-09-28T08:02:10.289137+00:00",
-      "title": "Le marché de la mangue sous tension face à une offre excédentaire",
+      "title": "Tensions sur le marché de la mangue face à une offre excédentaire",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -713,7 +750,7 @@
         "mango"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le marché de la mangue sous tension face à une offre excédentaire -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">Le marché de la mangue traverse une période difficile avec un surplus de fruits face à une demande insuffisante. Cette situation entraîne des prix programmés se situant entre 5,50 € et 6,00 €. La qualité de certains lots pèse également sur les cours actuels. <span class=\"news-reason\">Informations précises sur les prix de marché et l&#x27;équilibre offre/demande pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876649/der-absatz-von-mangos-gestaltet-sich-derzeit-etwas-schwierig/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tensions sur le marché de la mangue face à une offre excédentaire -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">Le marché de la mangue traverse une période difficile avec un surplus de fruits face à une demande insuffisante. Cette situation entraîne des prix programmés se situant entre 5,50 € et 6,00 €. La qualité de certains lots pèse également sur les cours actuels. <span class=\"news-reason\">Informations précises sur les prix de marché et l&#x27;équilibre offre/demande pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876649/der-absatz-von-mangos-gestaltet-sich-derzeit-etwas-schwierig/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">The mango market under pressure facing oversupply -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">The mango market is going through a difficult period with a surplus of fruit facing insufficient demand. This situation leads to programmed prices ranging between €5.50 and €6.00. The quality of certain batches is also weighing on current prices. <span class=\"news-reason\">Precise information on market prices and the supply/demand balance for a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876649/der-absatz-von-mangos-gestaltet-sich-derzeit-etwas-schwierig/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">שוק המנגו תחת לחץ בשל היצע עודף -- <span class=\"news-date\">28/09/2026 09:51</span></div><div class=\"news-body\">שוק המנגו חווה תקופה קשה עם עודף פירות אל מול ביקוש לא מספק. מצב זה מוביל למחירים מתוכננים הנעים בין 5.50 אירו ל-6.00 אירו. איכותם של משלוחים מסוימים מעיבה גם היא על המחירים הנוכחיים. <span class=\"news-reason\">מידע מדויק על מחירי השוק ומאזן ההיצע/ביקוש עבור מוצר של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876649/der-absatz-von-mangos-gestaltet-sich-derzeit-etwas-schwierig/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
@@ -752,7 +789,7 @@
     {
       "id": "1790577179_0",
       "timestamp": "2026-09-28T06:32:59.542892+00:00",
-      "title": "Octroi du brevet européen pour la Perrina, première clémentine tardive issue de la recherche italienne",
+      "title": "Délivrance du brevet européen pour la Perrina, première clémentine tardive issue de la recherche italienne",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -763,14 +800,14 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Octroi du brevet européen pour la Perrina, première clémentine tardive issue de la recherche italienne -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">Un chercheur privé italien a obtenu un certificat de protection communautaire pour Perrina, devenant le premier acteur privé du pays à détenir un brevet européen pour une innovation variétale en agrumes. Cette nouvelle clémentine tardive a été développée après une phase expérimentale rigoureuse. <span class=\"news-reason\">Information sur une nouvelle variété concurrente de clémentine tardive brevetée pour le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876830/concesso-il-brevetto-comunitario-per-la-prima-clementine-tardiva-da-ricerca-privata-italiana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Délivrance du brevet européen pour la Perrina, première clémentine tardive issue de la recherche italienne -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">Un chercheur privé italien a obtenu un certificat de protection communautaire pour Perrina, devenant le premier acteur privé du pays à détenir un brevet européen pour une innovation variétale en agrumes. Cette nouvelle clémentine tardive a été développée après une phase expérimentale rigoureuse. <span class=\"news-reason\">Information sur une nouvelle variété concurrente de clémentine tardive brevetée pour le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876830/concesso-il-brevetto-comunitario-per-la-prima-clementine-tardiva-da-ricerca-privata-italiana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGINS COMPETITION</div><div class=\"news-title\">European patent for Perrina, the first late clementine from Italian research -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">A private Italian researcher has obtained a Community protection certificate for Perrina, becoming the country's first private actor to hold a European patent for a citrus variety innovation. This new late clementine was developed after a rigorous experimental phase. <span class=\"news-reason\">Information on a new competing late clementine variety patented for the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876830/concesso-il-brevetto-comunitario-per-la-prima-clementine-tardiva-da-ricerca-privata-italiana/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקור</div><div class=\"news-title\">פטנט אירופי עבור Perrina, הקלמנטינה המאוחרת הראשונה ממחקר איטלקי -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\" dir=\"rtl\">חוקר פרטי איטלקי קיבל תעודת הגנה קהילתית עבור Perrina, והפך לגורם הפרטי הראשון במדינה שמחזיק בפטנט אירופי על חידוש זני בהדרים. קלמנטינה מאוחרת חדשה זו פותחה לאחר שלב ניסיוני קפדני. <span class=\"news-reason\">מידע על זן חדש ומתחרה של קלמנטינה מאוחרת המוגנת בפטנט לשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9876830/concesso-il-brevetto-comunitario-per-la-prima-clementine-tardiva-da-ricerca-privata-italiana/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1790571845_1",
       "timestamp": "2026-09-28T05:04:05.313943+00:00",
-      "title": "La filière mangue bénéficie du retard des campagnes au Pérou et en Équateur",
+      "title": "La filière mangue tire parti du retard des campagnes au Pérou et en Équateur",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -782,14 +819,14 @@
         "PER",
         "BRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La filière mangue bénéficie du retard des campagnes au Pérou et en Équateur -- <span class=\"news-date\">25/09/2026 10:08</span></div><div class=\"news-body\">L&#x27;entreprise Sebastião da Manga, qui exploite environ 800 hectares au Brésil, signale que la filière bénéficie actuellement d&#x27;un retard de production au Pérou et en Équateur. Cette situation de sous-approvisionnement temporaire favorise les exportations brésiliennes vers l&#x27;Europe après une accalmie estivale. <span class=\"news-reason\">Alerte supply majeure sur un concurrent direct (Pérou/Équateur) favorisant les flux d&#x27;autres origines.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876271/mangobranche-profitiert-von-der-verspateten-saison-in-peru-und-ecuador/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La filière mangue tire parti du retard des campagnes au Pérou et en Équateur -- <span class=\"news-date\">25/09/2026 10:08</span></div><div class=\"news-body\">L&#x27;entreprise Sebastião da Manga, qui exploite environ 800 hectares au Brésil, signale que la filière bénéficie actuellement d&#x27;un retard de production au Pérou et en Équateur. Cette situation de sous-approvisionnement temporaire favorise les exportations brésiliennes vers l&#x27;Europe après une accalmie estivale. <span class=\"news-reason\">Alerte supply majeure sur un concurrent direct (Pérou/Équateur) favorisant les flux d&#x27;autres origines.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876271/mangobranche-profitiert-von-der-verspateten-saison-in-peru-und-ecuador/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">The mango industry benefits from the delayed season in Peru and Ecuador -- <span class=\"news-date\">25/09/2026 10:08</span></div><div class=\"news-body\">The company Sebastião da Manga, which operates about 800 hectares in Brazil, reports that the industry is currently benefiting from a production delay in Peru and Ecuador. This situation of temporary undersupply favors Brazilian exports to Europe after a summer lull. <span class=\"news-reason\">Major supply alert on a direct competitor (Peru/Ecuador) favoring flows from other origins.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876271/mangobranche-profitiert-von-der-verspateten-saison-in-peru-und-ecuador/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ענף המנגו נהנה מהעיכוב בעונה בפרו ובאקוודור -- <span class=\"news-date\">25/09/2026 10:08</span></div><div class=\"news-body\">חברת Sebastião da Manga, המעבדת כ-800 הקטר בברזיל, מדווחת כי הענף נהנה כעת מעיכוב בייצור בפרו ובאקוודור. מצב זה של תת-אספקה זמנית מעודד את הייצוא הברזילאי לאירופה לאחר רגיעה בקיץ. <span class=\"news-reason\">התראת אספקה משמעותית לגבי מתחרה ישיר (פרו/אקוודור) המקדמת זרימה ממקורות אחרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9876271/mangobranche-profitiert-von-der-verspateten-saison-in-peru-und-ecuador/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1790571845_0",
       "timestamp": "2026-09-28T05:04:05.313943+00:00",
-      "title": "L&#x27;avocat s&#x27;impose comme produit de grande consommation en Italie",
+      "title": "L’avocat s’impose comme produit de grande consommation en Italie",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -800,7 +837,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;avocat s&#x27;impose comme produit de grande consommation en Italie -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">Selon les données du panel YouGov Shopper portant sur 18 000 familles, l&#x27;avocat n&#x27;est plus considéré comme un fruit exotique de niche en Italie mais comme un produit de consommation courante. La croissance est particulièrement marquée pour l&#x27;année se terminant en juillet 2026, confirmant l&#x27;ascesa structurelle de ce fruit dans les habitudes d&#x27;achat des ménages italiens. <span class=\"news-reason\">Information de marché pertinente sur un produit Mehadrin dans un pays cible, confirmant une tendance structurelle.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9877285/l-avocado-diventa-un-bene-di-consumo-consolidato-nelle-tavole-italiane/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’avocat s’impose comme produit de grande consommation en Italie -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">Selon les données du panel YouGov Shopper portant sur 18 000 familles, l&#x27;avocat n&#x27;est plus considéré comme un fruit exotique de niche en Italie mais comme un produit de consommation courante. La croissance est particulièrement marquée pour l&#x27;année se terminant en juillet 2026, confirmant l&#x27;ascesa structurelle de ce fruit dans les habitudes d&#x27;achat des ménages italiens. <span class=\"news-reason\">Information de marché pertinente sur un produit Mehadrin dans un pays cible, confirmant une tendance structurelle.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9877285/l-avocado-diventa-un-bene-di-consumo-consolidato-nelle-tavole-italiane/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Avocado establishes itself as a staple product in Italy -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">According to data from the YouGov Shopper panel covering 18,000 families, avocado is no longer considered a niche exotic fruit in Italy but as a staple product. Growth is particularly marked for the year ending in July 2026, confirming the structural rise of this fruit in the purchasing habits of Italian households. <span class=\"news-reason\">Relevant market information on a Mehadrin product in a target country, confirming a structural trend.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9877285/l-avocado-diventa-un-bene-di-consumo-consolidato-nelle-tavole-italiane/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">האבוקדו מתבסס כמוצר צריכה נפוץ באיטליה -- <span class=\"news-date\">28/09/2026 06:00</span></div><div class=\"news-body\">לפי נתוני פאנל YouGov Shopper המקיף 18,000 משפחות, האבוקדו כבר אינו נחשב לפרי אקזוטי נישתי באיטליה אלא למוצר צריכה נפוץ. הצמיחה בולטת במיוחד בשנה שהסתיימה ביולי 2026, מה שמאשר את העלייה המבנית של פרי זה בהרגלי הקנייה של משקי הבית האיטלקיים. <span class=\"news-reason\">מידע שוק רלוונטי על מוצר מהדרין במדינת יעד, המאשר מגמה מבנית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9877285/l-avocado-diventa-un-bene-di-consumo-consolidato-nelle-tavole-italiane/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     }
