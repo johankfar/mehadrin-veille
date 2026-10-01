@@ -1,7 +1,46 @@
 {
-  "last_updated": "2026-10-01T12:33:23.923745+00:00",
-  "article_count": 42,
+  "last_updated": "2026-10-01T14:04:01.383786+00:00",
+  "article_count": 45,
   "attention_points": [
+    {
+      "id": "attention-705f7569ab8b5811",
+      "article_id": "1790863441_4",
+      "url": "https://citrusindustry.net/2026/10/01/florida-citrus-producers-vote-market-order-continuance/",
+      "source": "Citrus Industry",
+      "title": "Vote crucial pour la filière des agrumes",
+      "summary": "Les producteurs décident du maintien des réglementations de commercialisation",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-10-01T12:00:00+00:00",
+      "published_at_source": "rss",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
+      "products": [
+        "orange",
+        "citrus_grapefruit"
+      ],
+      "age_hours": 2
+    },
+    {
+      "id": "attention-2662960b92687668",
+      "article_id": "1790863441_3",
+      "url": "https://www.freshplaza.com/article/9878172/midi-watermelons-exported-from-iceland-to-the-arabian-peninsula/",
+      "source": "FreshPlaza",
+      "title": "Exportation des pastèques italiennes Dolce Passion vers le Moyen-Orient",
+      "summary": "Le consortium italien Dolce Passion rapporte une campagne positive pour sa pastèque 'midi' sans pépins à peau noire (variété Dark Star).",
+      "origin_code": "ITA",
+      "origin_label": "Italie",
+      "published_at": "2026-10-01T13:38:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "information",
+      "products": [
+        "watermelon"
+      ],
+      "age_hours": 2
+    },
     {
       "id": "attention-3ed35ea28bfaa890",
       "article_id": "1790858003_2",
@@ -19,7 +58,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 1
+      "age_hours": 2
     },
     {
       "id": "attention-97b6cee5ed23aea9",
@@ -38,46 +77,101 @@
       "products": [
         "mango"
       ],
-      "age_hours": 1
-    },
-    {
-      "id": "attention-98996b73259b8927",
-      "article_id": "1790858003_0",
-      "url": "https://www.agf.nl/article/9878511/spaanse-citrusoogst-van-start-met-grotere-oogst-navelina-s/",
-      "source": "AGF.nl",
-      "title": "Lancement de la récolte d'agrumes en Espagne : hausse",
-      "summary": "La campagne espagnole des agrumes démarre plus tardivement cette année par rapport aux saisons précédentes.",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-10-01T12:12:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-122ca9addcc1522f",
-      "article_id": "1790782483_1",
-      "url": "https://www.freshplaza.fr/article/9878535/cette-saison-2026-aura-ete-marquee-par-une-forte-progression-des-volumes/",
-      "source": "FreshPlaza FR",
-      "title": "Progression des volumes pour la campagne de melon",
-      "summary": "Bilan commercial positif pour la saison écoulée",
-      "origin_code": "FRA",
-      "origin_label": "France",
-      "published_at": "2026-09-30T13:55:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "information",
-      "products": [
-        "melon"
-      ],
-      "age_hours": 24
+      "age_hours": 3
     }
   ],
   "articles": [
+    {
+      "id": "1790863441_5",
+      "timestamp": "2026-10-01T14:04:01.383786+00:00",
+      "title": "L&#x27;Autorité portuaire sud-africaine devient une entité indépendante -- 01/10/2026 13:22",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia",
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ZAF"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;Autorité portuaire sud-africaine devient une entité indépendante -- <span class=\"news-date\">01/10/2026 13:22</span></div><div class=\"news-body\">Le gouvernement sud-africain a approuvé la transformation de la Transnet National Ports Authority (TNPA) en une société autonome, séparée du groupe Transnet. Cette réforme structurelle vise à améliorer l&#x27;efficacité logistique et la gestion des ports du pays. <span class=\"news-reason\">Réforme logistique majeure dans un pays exportateur concurrent direct de Mehadrin (agrumes/avocats).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9878770/cabinet-approves-transnet-national-ports-authority-as-independent-entity/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">South African Port Authority becomes an independent entity -- <span class=\"news-date\">01/10/2026 13:22</span></div><div class=\"news-body\">The South African government has approved the transformation of the Transnet National Ports Authority (TNPA) into an autonomous company, separate from the Transnet group. This structural reform aims to improve logistics efficiency and the management of the country's ports. <span class=\"news-reason\">Major logistics reform in a competing exporting country directly rivaling Mehadrin (citrus/avocados).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9878770/cabinet-approves-transnet-national-ports-authority-as-independent-entity/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">רשות הנמלים של דרום אפריקה הופכת לישות עצמאית -- <span class=\"news-date\">01/10/2026 13:22</span></div><div class=\"news-body\">ממשלת דרום אפריקה אישרה את הפיכת רשות הנמלים הלאומית (TNPA) לחברה אוטונומית, נפרדת מקבוצת Transnet. רפורמה מבנית זו נועדה לשפר את היעילות הלוגיסטית ואת ניהול הנמלים במדינה. <span class=\"news-reason\">רפורמה לוגיסטית משמעותית במדינה מייצאת שהיא מתחרה ישירה של מהדרין (הדרים/אבוקדו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9878770/cabinet-approves-transnet-national-ports-authority-as-independent-entity/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790863441_4",
+      "timestamp": "2026-10-01T14:04:01.383786+00:00",
+      "title": "Référendum sur l&#x27;ordonnance de commercialisation des agrumes de Floride -- 01/10/2026 12:00",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine",
+        "orange",
+        "citrus_grapefruit"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Référendum sur l&#x27;ordonnance de commercialisation des agrumes de Floride -- <span class=\"news-date\">01/10/2026 12:00</span></div><div class=\"news-body\">Les producteurs d&#x27;agrumes de Floride voteront du 19 octobre au 9 novembre sur le maintien de l&#x27;ordre marketing fédéral. Ce règlement encadre la manipulation et la commercialisation des oranges, pamplemousses et mandarines produits dans l&#x27;État sous la supervision de l&#x27;USDA. <span class=\"news-reason\">Information générale sur la régulation d&#x27;une origine concurrente pour les agrumes (oranges, pamplemousses).</span></div><div class=\"news-source\"><a href=\"https://citrusindustry.net/2026/10/01/florida-citrus-producers-vote-market-order-continuance/\" target=\"_blank\">Citrus Industry -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Referendum on the Florida Citrus Marketing Order -- <span class=\"news-date\">01/10/2026 12:00</span></div><div class=\"news-body\">Florida citrus growers will vote from October 19 to November 9 on whether to continue the federal marketing order. This regulation governs the handling and marketing of oranges, grapefruits, and tangerines produced in the state under USDA supervision. <span class=\"news-reason\">General information on the regulation of a competing origin for citrus (oranges, grapefruits).</span></div><div class=\"news-source\"><a href=\"https://citrusindustry.net/2026/10/01/florida-citrus-producers-vote-market-order-continuance/\" target=\"_blank\">Citrus Industry -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">משאל עם על צו שיווק ההדרים של פלורידה -- <span class=\"news-date\">01/10/2026 12:00</span></div><div class=\"news-body\">מגדלי ההדרים בפלורידה יצביעו בין ה-19 באוקטובר ל-9 בנובמבר על המשך צו השיווק הפדרלי. תקנה זו מסדירה את הטיפול והשיווק של תפוזים, אשכוליות ומנדרינות המיוצרים במדינה תחת פיקוח ה-USDA. <span class=\"news-reason\">מידע כללי על רגולציה של מקור מתחרה עבור הדרים (תפוזים, אשכוליות).</span></div><div class=\"news-source\"><a href=\"https://citrusindustry.net/2026/10/01/florida-citrus-producers-vote-market-order-continuance/\" target=\"_blank\">Citrus Industry -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790863441_3",
+      "timestamp": "2026-10-01T14:04:01.383786+00:00",
+      "title": "Exportation des pastèques italiennes Dolce Passion vers le Moyen-Orient -- 01/10/2026 13:38",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [],
+      "products": [
+        "watermelon"
+      ],
+      "origins": [
+        "ITA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Exportation des pastèques italiennes Dolce Passion vers le Moyen-Orient -- <span class=\"news-date\">01/10/2026 13:38</span></div><div class=\"news-body\">Le consortium italien Dolce Passion rapporte une campagne positive pour sa pastèque &#x27;midi&#x27; sans pépins à peau noire (variété Dark Star). La production est actuellement exportée vers la péninsule arabique, confirmant le développement commercial de ce segment spécifique à l&#x27;international. <span class=\"news-reason\">Info marché sur la pastèque, produit Mehadrin, concernant une variété spécifique concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9878172/midi-watermelons-exported-from-iceland-to-the-arabian-peninsula/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Export of Italian Dolce Passion watermelons to the Middle East -- <span class=\"news-date\">01/10/2026 13:38</span></div><div class=\"news-body\">The Italian Dolce Passion consortium reports a positive season for its seedless black-skinned 'midi' watermelon (Dark Star variety). Production is currently being exported to the Arabian Peninsula, confirming the commercial development of this specific segment internationally. <span class=\"news-reason\">Market info on watermelon, a Mehadrin product, concerning a specific competing variety.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9878172/midi-watermelons-exported-from-iceland-to-the-arabian-peninsula/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">ייצוא אבטיחי Dolce Passion האיטלקיים למזרח התיכון -- <span class=\"news-date\">01/10/2026 13:38</span></div><div class=\"news-body\">קונסורציום Dolce Passion האיטלקי מדווח על עונה חיובית עבור אבטיח ה-&#x27;midi&#x27; ללא גרעינים בעל קליפה שחורה (זן Dark Star). הייצור מיוצא כעת לחצי האי הערבי, מה שמאשר את הפיתוח המסחרי של מגזר ספציפי זה ברמה הבינלאומית. <span class=\"news-reason\">מידע שוק על אבטיח, מוצר של מהדרין, בנוגע לזן ספציפי מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9878172/midi-watermelons-exported-from-iceland-to-the-arabian-peninsula/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790863441_2",
+      "timestamp": "2026-10-01T14:04:01.383786+00:00",
+      "title": "Le Kenya prospecte le marché américain pour ses mangues biologiques -- 01/10/2026 13:22",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [
+        "USA",
+        "KEN"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Kenya prospecte le marché américain pour ses mangues biologiques -- <span class=\"news-date\">01/10/2026 13:22</span></div><div class=\"news-body\">Le gouvernement du comté de Makueni au Kenya intensifie ses efforts pour ouvrir le marché des États-Unis aux producteurs locaux de mangues biologiques. Des démarches sont en cours pour établir des partenariats directs avec des acheteurs américains afin de diversifier les débouchés de l&#x27;origine. <span class=\"news-reason\">Information sur la stratégie d&#x27;exportation d&#x27;une origine concurrente pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9878787/kenya-seeks-u-s-market-access-for-organic-mangoes/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Kenya explores the US market for its organic mangoes -- <span class=\"news-date\">01/10/2026 13:22</span></div><div class=\"news-body\">The Makueni County government in Kenya is intensifying its efforts to open the United States market to local organic mango producers. Steps are underway to establish direct partnerships with American buyers to diversify the origin's outlets. <span class=\"news-reason\">Information on the export strategy of a competing origin for mangoes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9878787/kenya-seeks-u-s-market-access-for-organic-mangoes/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">קניה בוחנת את השוק האמריקאי עבור המנגו האורגני שלה -- <span class=\"news-date\">01/10/2026 13:22</span></div><div class=\"news-body\">ממשלת מחוז מאקווני בקניה מגבירה את מאמציה לפתוח את שוק ארצות הברית עבור מגדלי מנגו אורגני מקומיים. צעדים ננקטים ליצירת שותפויות ישירות עם קונים אמריקאים במטרה לגוון את ערוצי השיווק של מקור זה. <span class=\"news-reason\">מידע על אסטרטגיית הייצוא של מקור מתחרה עבור מנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9878787/kenya-seeks-u-s-market-access-for-organic-mangoes/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1790863441_1",
+      "timestamp": "2026-10-01T14:04:01.383786+00:00",
+      "title": "Recul des cours de l&#x27;avocat brésilien face à la concurrence péruvienne",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "PER",
+        "BRA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul des cours de l&#x27;avocat brésilien face à la concurrence péruvienne -- <span class=\"news-date\">30/09/2026 16:17</span></div><div class=\"news-body\">L&#x27;entreprise brésilienne Jaguacy a exporté 639 conteneurs d&#x27;avocats en 2026, contre 260 en 2025. Malgré cette forte hausse des volumes, les prix ont chuté depuis le mois de mai en raison de la pression exercée par l&#x27;offre péruvienne. La saison devrait se clôturer avec un total d&#x27;environ 670 conteneurs. <span class=\"news-reason\">Chiffres précis d&#x27;exportation (conteneurs) et analyse de l&#x27;impact des prix sur le marché de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9878323/los-precios-del-aguacate-brasileno-caen-desde-mayo-por-la-presion-de-la-oferta-peruana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Drop in Brazilian avocado prices due to Peruvian competition -- <span class=\"news-date\">30/09/2026 16:17</span></div><div class=\"news-body\">The Brazilian company Jaguacy exported 639 containers of avocados in 2026, compared to 260 in 2025. Despite this sharp increase in volumes, prices have fallen since May due to pressure from Peruvian supply. The season is expected to close with a total of approximately 670 containers. <span class=\"news-reason\">Precise export figures (containers) and analysis of price impact on the avocado market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9878323/los-precios-del-aguacate-brasileno-caen-desde-mayo-por-la-presion-de-la-oferta-peruana/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה במחירי האבוקדו הברזילאי מול התחרות הפרואנית -- <span class=\"news-date\">30/09/2026 16:17</span></div><div class=\"news-body\">החברה הברזילאית Jaguacy ייצאה 639 מכולות אבוקדו בשנת 2026, לעומת 260 בשנת 2025. למרות עלייה חדה זו בכמויות, המחירים צנחו מאז חודש מאי בשל הלחץ שהפעיל ההיצע הפרואני. העונה צפויה להסתיים עם סך של כ-670 מכולות. <span class=\"news-reason\">נתוני ייצוא מדויקים (מכולות) וניתוח השפעת המחירים על שוק האבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9878323/los-precios-del-aguacate-brasileno-caen-desde-mayo-por-la-presion-de-la-oferta-peruana/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1790858003_2",
       "timestamp": "2026-10-01T12:33:23.923745+00:00",
@@ -238,7 +332,7 @@
     {
       "id": "1790787863_2",
       "timestamp": "2026-09-30T17:04:23.592859+00:00",
-      "title": "Hausse de 22 % de la demande de mangues premium aux USA",
+      "title": "La demande de mangues premium enregistre une croissance de 22 % aux USA",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -249,7 +343,7 @@
       "origins": [
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Hausse de 22 % de la demande de mangues premium aux USA -- <span class=\"news-date\">30/09/2026 16:17</span></div><div class=\"news-body\">Aux Etats-Unis, la demande pour les mangues premium (biologique, gros calibres et varietes speciales comme Keitt et Calypso) a progresse de 22 % depuis 2023, surpassant la demande pour les varietes standards. <span class=\"news-reason\">Indicateur de tendance de marche mondiale sur un produit Mehadrin avec chiffres precis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9878130/la-demanda-de-mangos-premium-en-ee-uu-ha-crecido-un-22-desde-2023/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La demande de mangues premium enregistre une croissance de 22 % aux USA -- <span class=\"news-date\">30/09/2026 16:17</span></div><div class=\"news-body\">Aux Etats-Unis, la demande pour les mangues premium (biologique, gros calibres et varietes speciales comme Keitt et Calypso) a progresse de 22 % depuis 2023, surpassant la demande pour les varietes standards. <span class=\"news-reason\">Indicateur de tendance de marche mondiale sur un produit Mehadrin avec chiffres precis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9878130/la-demanda-de-mangos-premium-en-ee-uu-ha-crecido-un-22-desde-2023/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Demand for premium mangoes in the USA grows by 22% -- <span class=\"news-date\">30/09/2026 16:17</span></div><div class=\"news-body\">In the United States, demand for premium mangoes (organic, large sizes, and special varieties like Keitt and Calypso) has grown by 22% since 2023, surpassing demand for standard varieties. <span class=\"news-reason\">Global market trend indicator on a Mehadrin product with precise figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9878130/la-demanda-de-mangos-premium-en-ee-uu-ha-crecido-un-22-desde-2023/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">הביקוש למנגו פרימיום בארה\"ב עולה ב-22% -- <span class=\"news-date\">30/09/2026 16:17</span></div><div class=\"news-body\">בארצות הברית, הביקוש למנגו פרימיום (אורגני, גדלים גדולים וזנים מיוחדים כמו קייט וקליפסו) עלה ב-22% מאז 2023, ועקף את הביקוש לזנים הסטנדרטיים. <span class=\"news-reason\">אינדיקטור למגמת שוק עולמית במוצר של מהדרין עם נתונים מדויקים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9878130/la-demanda-de-mangos-premium-en-ee-uu-ha-crecido-un-22-desde-2023/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -724,7 +818,7 @@
     {
       "id": "1790609616_2",
       "timestamp": "2026-09-28T15:33:36.069795+00:00",
-      "title": "Égypte : renforcement de la régulation des prix et des normes de qualité des patates douces",
+      "title": "Égypte : renforcement de l&#x27;encadrement des prix et des normes de qualité des patates douces",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -735,7 +829,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Égypte : renforcement de la régulation des prix et des normes de qualité des patates douces -- <span class=\"news-date\">28/09/2026 16:15</span></div><div class=\"news-body\">Le secteur égyptien de la patate douce cherche à instaurer une plus grande discipline au sein de sa filière d&#x27;exportation pour la campagne en cours. Lors d&#x27;une réunion organisée par Agro Green, les acteurs du secteur ont insisté sur la nécessité de réguler les prix, de respecter strictement les normes phytosanitaires relatives aux pesticides et de mieux suivre l&#x27;évolution des conditions du marché international. <span class=\"news-reason\">Informations stratégiques sur la structuration d&#x27;un concurrent direct (Égypte) sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877184/el-sector-egipcio-de-la-batata-busca-mayor-disciplina-en-precios-y-pesticidas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Égypte : renforcement de l&#x27;encadrement des prix et des normes de qualité des patates douces -- <span class=\"news-date\">28/09/2026 16:15</span></div><div class=\"news-body\">Le secteur égyptien de la patate douce cherche à instaurer une plus grande discipline au sein de sa filière d&#x27;exportation pour la campagne en cours. Lors d&#x27;une réunion organisée par Agro Green, les acteurs du secteur ont insisté sur la nécessité de réguler les prix, de respecter strictement les normes phytosanitaires relatives aux pesticides et de mieux suivre l&#x27;évolution des conditions du marché international. <span class=\"news-reason\">Informations stratégiques sur la structuration d&#x27;un concurrent direct (Égypte) sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877184/el-sector-egipcio-de-la-batata-busca-mayor-disciplina-en-precios-y-pesticidas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Egypt strengthens oversight of sweet potato prices and quality -- <span class=\"news-date\">28/09/2026 16:15</span></div><div class=\"news-body\">The Egyptian sweet potato sector is seeking to establish greater discipline within its export industry for the current campaign. During a meeting organized by Agro Green, sector stakeholders emphasized the need to regulate prices, strictly comply with phytosanitary standards regarding pesticides, and better monitor developments in international market conditions. <span class=\"news-reason\">Strategic information on the structuring of a direct competitor (Egypt) for a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877184/el-sector-egipcio-de-la-batata-busca-mayor-disciplina-en-precios-y-pesticidas/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">מצרים מחזקת את הפיקוח על המחירים והאיכות של הבטטות -- <span class=\"news-date\">28/09/2026 16:15</span></div><div class=\"news-body\">מגזר הבטטות המצרי מבקש להנהיג משמעת רבה יותר בתוך ענף היצוא שלו לעונה הנוכחית. במהלך פגישה שארגנה Agro Green, השחקנים במגזר הדגישו את הצורך בוויסות מחירים, בהקפדה יתרה על תקנים פיטוסניטריים הנוגעים לחומרי הדברה ובמעקב טוב יותר אחר השינויים בתנאי השוק הבינלאומי. <span class=\"news-reason\">מידע אסטרטגי על המבנה של מתחרה ישיר (מצרים) במוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877184/el-sector-egipcio-de-la-batata-busca-mayor-disciplina-en-precios-y-pesticidas/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -775,38 +869,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Léger repli des exportations d&#x27;avocats Hass du Pérou pour la campagne 2026 -- <span class=\"news-date\">28/09/2026 16:15</span></div><div class=\"news-body\">Selon les données de ProHass arrêtées à la semaine 38, les exportations péruviennes d&#x27;avocats Hass pour la saison 2026 devraient enregistrer une légère baisse de 1,9 % par rapport à l&#x27;année précédente. Bien que le secteur ait entamé l&#x27;année avec des prévisions de croissance plus importantes, les volumes finaux devraient finalement se stabiliser à un niveau très proche de ceux de la campagne passée. <span class=\"news-reason\">Contient des chiffres précis sur les volumes d&#x27;exportation d&#x27;un produit Mehadrin (avocats) par un concurrent majeur (Pérou).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877609/se-preve-que-peru-cierre-la-campana-2026-de-palta-hass-con-una-ligera-caida-en-volumen/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Slight decline in Peruvian Hass avocado exports for the 2026 season -- <span class=\"news-date\">28/09/2026 16:15</span></div><div class=\"news-body\">According to ProHass data as of week 38, Peruvian Hass avocado exports for the 2026 season are expected to record a slight decrease of 1.9% compared to the previous year. Although the sector began the year with higher growth forecasts, final volumes are ultimately expected to stabilize at a level very close to those of the previous campaign. <span class=\"news-reason\">Contains precise figures on the export volumes of a Mehadrin product (avocados) by a major competitor (Peru).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877609/se-preve-que-peru-cierre-la-campana-2026-de-palta-hass-con-una-ligera-caida-en-volumen/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה קלה ביצוא אבוקדו האס מפרו לעונת 2026 -- <span class=\"news-date\">28/09/2026 16:15</span></div><div class=\"news-body\">על פי נתוני ProHass נכון לשבוע 38, יצוא אבוקדו האס מפרו לעונת 2026 צפוי לרשום ירידה קלה של 1.9% בהשוואה לשנה הקודמת. למרות שהמגזר החל את השנה עם תחזיות צמיחה משמעותיות יותר, הכמויות הסופיות צפויות להתייצב בסופו של דבר ברמה קרובה מאוד לאלו של העונה שעברה. <span class=\"news-reason\">מכיל נתונים מדויקים על כמויות היצוא של מוצר מהדרין (אבוקדו) על ידי מתחרה מרכזי (פרו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9877609/se-preve-que-peru-cierre-la-campana-2026-de-palta-hass-con-una-ligera-caida-en-volumen/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1790604243_1",
-      "timestamp": "2026-09-28T14:04:03.901607+00:00",
-      "title": "Bilan de la saison française de pastèques : 120 000 tonnes vendues -- 28/09/2026 13:36",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [],
-      "products": [
-        "watermelon"
-      ],
-      "origins": [
-        "FRA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Bilan de la saison française de pastèques : 120 000 tonnes vendues -- <span class=\"news-date\">28/09/2026 13:36</span></div><div class=\"news-body\">La campagne 2026 de pastèques en France s&#x27;achève sur un bilan positif pour Anecoop France, qui a atteint son objectif de vente de 120 000 tonnes. La demande a été si soutenue que des volumes supplémentaires auraient pu être écoulés si la disponibilité avait été plus importante face aux besoins du marché. <span class=\"news-reason\">Bilan de campagne chiffré sur un produit Mehadrin avec données de volume.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9877256/the-2026-french-watermelon-season-set-to-see-record-consumption/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Review of the French watermelon season: 120,000 tons sold -- <span class=\"news-date\">28/09/2026 13:36</span></div><div class=\"news-body\">The 2026 watermelon season in France concludes on a positive note for Anecoop France, which reached its sales target of 120,000 tons. Demand was so strong that additional volumes could have been sold if availability had been greater to meet market needs. <span class=\"news-reason\">Numerical season review for a Mehadrin product with volume data.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9877256/the-2026-french-watermelon-season-set-to-see-record-consumption/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיכום עונת האבטיחים הצרפתית: 120,000 טון נמכרו -- <span class=\"news-date\">28/09/2026 13:36</span></div><div class=\"news-body\">עונת האבטיחים לשנת 2026 בצרפת מסתיימת בסיכום חיובי עבור Anecoop France, שהשיגה את יעד המכירות שלה שעמד על 120,000 טון. הביקוש היה כה גבוה עד שניתן היה למכור כמויות נוספות אילו הזמינות הייתה גבוהה יותר אל מול צרכי השוק. <span class=\"news-reason\">סיכום עונה כמותי על מוצר מהדרין עם נתוני נפח.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9877256/the-2026-french-watermelon-season-set-to-see-record-consumption/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1790604243_0",
-      "timestamp": "2026-09-28T14:04:03.901607+00:00",
-      "title": "Les prévisions de récolte d&#x27;avocats en Californie confirment un volume de 330 millions de livres -- 28/09/2026 11:00",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les prévisions de récolte d&#x27;avocats en Californie confirment un volume de 330 millions de livres -- <span class=\"news-date\">28/09/2026 11:00</span></div><div class=\"news-body\">La production californienne d&#x27;avocats devrait atteindre 330 millions de livres cette saison. Des conditions de croissance favorables, incluant des précipitations opportunes, ont permis d&#x27;obtenir des calibres de fruits optimaux et un excellent état sanitaire des vergers, répondant à une demande du marché en accélération. <span class=\"news-reason\">Données chiffrées précises sur une origine concurrente majeure pour l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/28/california-avocado-26/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">California avocado harvest forecasts confirm a volume of 330 million pounds -- <span class=\"news-date\">28/09/2026 11:00</span></div><div class=\"news-body\">California avocado production is expected to reach 330 million pounds this season. Favorable growing conditions, including timely rainfall, have resulted in optimal fruit sizes and excellent orchard health, meeting accelerating market demand. <span class=\"news-reason\">Precise figures on a major competing origin for avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/28/california-avocado-26/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">תחזיות יבול האבוקדו בקליפורניה מאשרות נפח של 330 מיליון פאונד -- <span class=\"news-date\">28/09/2026 11:00</span></div><div class=\"news-body\">ייצור האבוקדו בקליפורניה צפוי להגיע ל-330 מיליון פאונד העונה. תנאי גידול נוחים, הכוללים משקעים בעיתם, אפשרו להשיג גדלי פרי אופטימליים ומצב בריאותי מצוין של המטעים, תוך מענה לביקוש בשוק שנמצא בהאצה. <span class=\"news-reason\">נתונים מספריים מדויקים על מקור מתחרה מרכזי לאבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/09/28/california-avocado-26/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
