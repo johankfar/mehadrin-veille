@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T05:03:30.766203+00:00",
-  "article_count": 48,
+  "last_updated": "2026-10-02T06:33:45.257681+00:00",
+  "article_count": 49,
   "attention_points": [
     {
       "id": "attention-e3dc947210e3ef26",
@@ -19,7 +19,7 @@
       "products": [
         "date"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-18446166b1d1f356",
@@ -38,7 +38,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 14
+      "age_hours": 16
     },
     {
       "id": "attention-705f7569ab8b5811",
@@ -58,7 +58,7 @@
         "orange",
         "citrus_grapefruit"
       ],
-      "age_hours": 17
+      "age_hours": 18
     },
     {
       "id": "attention-3ed35ea28bfaa890",
@@ -77,10 +77,24 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 17
+      "age_hours": 19
     }
   ],
   "articles": [
+    {
+      "id": "1790922825_2",
+      "timestamp": "2026-10-02T06:33:45.257681+00:00",
+      "title": "Perspectives de hausse de la production d&#x27;agrumes en Andalousie pour 2026/27",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Perspectives de hausse de la production d&#x27;agrumes en Andalousie pour 2026/27 -- <span class=\"news-date\">02/10/2026 06:05</span></div><div class=\"news-body\">Le ministère de l&#x27;Agriculture d&#x27;Andalousie estime la production d&#x27;agrumes à 2,11 millions de tonnes pour la campagne 2026/27 sur une surface de 89 274 hectares. Cela représente une augmentation de 12,7 % par rapport à la saison précédente. <span class=\"news-reason\">Contient des prévisions de volumes détaillées et des pourcentages de croissance pour un concurrent majeur sur les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878187/l-andalusia-stima-una-produzione-di-2-11-milioni-di-tonnellate-di-agrumi-nella-campagna-2026-27/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Forecasted increase in citrus production in Andalusia for 2026/27 -- <span class=\"news-date\">02/10/2026 06:05</span></div><div class=\"news-body\">The Andalusian Ministry of Agriculture estimates citrus production at 2.11 million tons for the 2026/27 campaign across an area of 89,274 hectares. This represents a 12.7% increase compared to the previous season. <span class=\"news-reason\">Contains detailed volume forecasts and growth percentages for a major citrus competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878187/l-andalusia-stima-una-produzione-di-2-11-milioni-di-tonnellate-di-agrumi-nella-campagna-2026-27/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">תחזיות לעלייה בייצור הדרים באנדלוסיה לעונת 2026/27 -- <span class=\"news-date\">02/10/2026 06:05</span></div><div class=\"news-body\">משרד החקלאות של אנדלוסיה מעריך את ייצור ההדרים ב-2.11 מיליון טונות לעונת 2026/27 על פני שטח של 89,274 הקטר. נתון זה מייצג עלייה של 12.7% לעומת העונה הקודמת. <span class=\"news-reason\">מכיל תחזיות נפח מפורטות ואחוזי צמיחה עבור מתחרה מרכזי בתחום ההדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878187/l-andalusia-stima-una-produzione-di-2-11-milioni-di-tonnellate-di-agrumi-nella-campagna-2026-27/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1790917410_2",
       "timestamp": "2026-10-02T05:03:30.766203+00:00",
@@ -169,7 +183,7 @@
     {
       "id": "1790874243_1",
       "timestamp": "2026-10-01T17:04:03.482912+00:00",
-      "title": "Bilan favorable et croissance des volumes pour la campagne 2026 du melon de Cavaillon",
+      "title": "Performance positive et croissance des volumes pour la campagne 2026 du melon de Cavaillon",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Sébastien"
@@ -180,7 +194,7 @@
       "origins": [
         "FRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Bilan favorable et croissance des volumes pour la campagne 2026 du melon de Cavaillon -- <span class=\"news-date\">01/10/2026 09:53</span></div><div class=\"news-body\">La campagne 2026 du melon de Cavaillon s&#x27;achève sur des résultats très positifs. La filière enregistre une augmentation significative des volumes vendus sous cette marque cette année, confirmant une trajectoire de croissance pour ce produit sur le marché français. <span class=\"news-reason\">Fournit un bilan de campagne avec mention de croissance des volumes pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9878724/diese-saison-2026-war-von-einem-starken-mengenwachstum-gepragt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Performance positive et croissance des volumes pour la campagne 2026 du melon de Cavaillon -- <span class=\"news-date\">01/10/2026 09:53</span></div><div class=\"news-body\">La campagne 2026 du melon de Cavaillon s&#x27;achève sur des résultats très positifs. La filière enregistre une augmentation significative des volumes vendus sous cette marque cette année, confirmant une trajectoire de croissance pour ce produit sur le marché français. <span class=\"news-reason\">Fournit un bilan de campagne avec mention de croissance des volumes pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9878724/diese-saison-2026-war-von-einem-starken-mengenwachstum-gepragt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Positive results and volume growth for the 2026 Cavaillon melon season -- <span class=\"news-date\">01/10/2026 09:53</span></div><div class=\"news-body\">The 2026 Cavaillon melon season is coming to an end with very positive results. The industry is recording a significant increase in volumes sold under this brand this year, confirming a growth trajectory for this product on the French market. <span class=\"news-reason\">Provides a season summary mentioning volume growth for a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9878724/diese-saison-2026-war-von-einem-starken-mengenwachstum-gepragt/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">סיכום חיובי ועלייה בכמויות עבור עונת מלון קאוואיון 2026 -- <span class=\"news-date\">01/10/2026 09:53</span></div><div class=\"news-body\">עונת מלון קאוואיון 2026 מסתיימת בתוצאות חיוביות מאוד. הענף רושם עלייה משמעותית בכמויות הנמכרות תחת מותג זה השנה, מה שמאשר מסלול צמיחה עבור מוצר זה בשוק הצרפתי. <span class=\"news-reason\">מספק סיכום עונה עם אזכור לצמיחה בכמויות עבור מוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9878724/diese-saison-2026-war-von-einem-starken-mengenwachstum-gepragt/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -313,7 +327,7 @@
     {
       "id": "1790863441_1",
       "timestamp": "2026-10-01T14:04:01.383786+00:00",
-      "title": "Baisse des cours de l&#x27;avocat brésilien face à la concurrence péruvienne",
+      "title": "Recul des cours de l&#x27;avocat brésilien face à la concurrence péruvienne",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -325,7 +339,7 @@
         "PER",
         "BRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse des cours de l&#x27;avocat brésilien face à la concurrence péruvienne -- <span class=\"news-date\">30/09/2026 16:17</span></div><div class=\"news-body\">L&#x27;entreprise brésilienne Jaguacy a exporté 639 conteneurs d&#x27;avocats en 2026, contre 260 en 2025. Malgré cette forte hausse des volumes, les prix ont chuté depuis le mois de mai en raison de la pression exercée par l&#x27;offre péruvienne. La saison devrait se clôturer avec un total d&#x27;environ 670 conteneurs. <span class=\"news-reason\">Chiffres précis d&#x27;exportation (conteneurs) et analyse de l&#x27;impact des prix sur le marché de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9878323/los-precios-del-aguacate-brasileno-caen-desde-mayo-por-la-presion-de-la-oferta-peruana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul des cours de l&#x27;avocat brésilien face à la concurrence péruvienne -- <span class=\"news-date\">30/09/2026 16:17</span></div><div class=\"news-body\">L&#x27;entreprise brésilienne Jaguacy a exporté 639 conteneurs d&#x27;avocats en 2026, contre 260 en 2025. Malgré cette forte hausse des volumes, les prix ont chuté depuis le mois de mai en raison de la pression exercée par l&#x27;offre péruvienne. La saison devrait se clôturer avec un total d&#x27;environ 670 conteneurs. <span class=\"news-reason\">Chiffres précis d&#x27;exportation (conteneurs) et analyse de l&#x27;impact des prix sur le marché de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9878323/los-precios-del-aguacate-brasileno-caen-desde-mayo-por-la-presion-de-la-oferta-peruana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Drop in Brazilian avocado prices due to Peruvian competition -- <span class=\"news-date\">30/09/2026 16:17</span></div><div class=\"news-body\">The Brazilian company Jaguacy exported 639 containers of avocados in 2026, compared to 260 in 2025. Despite this sharp increase in volumes, prices have fallen since May due to pressure from Peruvian supply. The season is expected to close with a total of approximately 670 containers. <span class=\"news-reason\">Precise export figures (containers) and analysis of price impact on the avocado market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9878323/los-precios-del-aguacate-brasileno-caen-desde-mayo-por-la-presion-de-la-oferta-peruana/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה במחירי האבוקדו הברזילאי מול התחרות הפרואנית -- <span class=\"news-date\">30/09/2026 16:17</span></div><div class=\"news-body\">החברה הברזילאית Jaguacy ייצאה 639 מכולות אבוקדו בשנת 2026, לעומת 260 בשנת 2025. למרות עלייה חדה זו בכמויות, המחירים צנחו מאז חודש מאי בשל הלחץ שהפעיל ההיצע הפרואני. העונה צפויה להסתיים עם סך של כ-670 מכולות. <span class=\"news-reason\">נתוני ייצוא מדויקים (מכולות) וניתוח השפעת המחירים על שוק האבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9878323/los-precios-del-aguacate-brasileno-caen-desde-mayo-por-la-presion-de-la-oferta-peruana/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -489,7 +503,7 @@
     {
       "id": "1790787863_2",
       "timestamp": "2026-09-30T17:04:23.592859+00:00",
-      "title": "Augmentation de 22 % de la demande de mangues premium aux USA",
+      "title": "Progression de 22 % de la demande de mangues premium aux USA",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -500,7 +514,7 @@
       "origins": [
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Augmentation de 22 % de la demande de mangues premium aux USA -- <span class=\"news-date\">30/09/2026 16:17</span></div><div class=\"news-body\">Aux Etats-Unis, la demande pour les mangues premium (biologique, gros calibres et varietes speciales comme Keitt et Calypso) a progresse de 22 % depuis 2023, surpassant la demande pour les varietes standards. <span class=\"news-reason\">Indicateur de tendance de marche mondiale sur un produit Mehadrin avec chiffres precis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9878130/la-demanda-de-mangos-premium-en-ee-uu-ha-crecido-un-22-desde-2023/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Progression de 22 % de la demande de mangues premium aux USA -- <span class=\"news-date\">30/09/2026 16:17</span></div><div class=\"news-body\">Aux Etats-Unis, la demande pour les mangues premium (biologique, gros calibres et varietes speciales comme Keitt et Calypso) a progresse de 22 % depuis 2023, surpassant la demande pour les varietes standards. <span class=\"news-reason\">Indicateur de tendance de marche mondiale sur un produit Mehadrin avec chiffres precis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9878130/la-demanda-de-mangos-premium-en-ee-uu-ha-crecido-un-22-desde-2023/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Demand for premium mangoes in the USA grows by 22% -- <span class=\"news-date\">30/09/2026 16:17</span></div><div class=\"news-body\">In the United States, demand for premium mangoes (organic, large sizes, and special varieties like Keitt and Calypso) has grown by 22% since 2023, surpassing demand for standard varieties. <span class=\"news-reason\">Global market trend indicator on a Mehadrin product with precise figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9878130/la-demanda-de-mangos-premium-en-ee-uu-ha-crecido-un-22-desde-2023/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">הביקוש למנגו פרימיום בארה\"ב עולה ב-22% -- <span class=\"news-date\">30/09/2026 16:17</span></div><div class=\"news-body\">בארצות הברית, הביקוש למנגו פרימיום (אורגני, גדלים גדולים וזנים מיוחדים כמו קייט וקליפסו) עלה ב-22% מאז 2023, ועקף את הביקוש לזנים הסטנדרטיים. <span class=\"news-reason\">אינדיקטור למגמת שוק עולמית במוצר של מהדרין עם נתונים מדויקים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9878130/la-demanda-de-mangos-premium-en-ee-uu-ha-crecido-un-22-desde-2023/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -769,7 +783,7 @@
     {
       "id": "1790744639_3",
       "timestamp": "2026-09-30T05:03:59.405409+00:00",
-      "title": "L’Éthiopie prévoit le développement d’une production commerciale de dattes à grande échelle",
+      "title": "L’Éthiopie projette le développement d’une production commerciale de dattes à grande échelle",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -778,7 +792,7 @@
         "date"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’Éthiopie prévoit le développement d’une production commerciale de dattes à grande échelle -- <span class=\"news-date\">30/09/2026 06:00</span></div><div class=\"news-body\">L&#x27;Ethiopie met en œuvre un plan decennal pour developper sa production commerciale de dattes. Actuellement importateur net, le pays vise a generer des excedents pour les marches internationaux et regionaux. <span class=\"news-reason\">Strategie d&#x27;expansion d&#x27;une origine concurrente sur le marche de la datte.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9875785/l-etiopia-punta-a-incrementare-la-produzione-di-datteri-e-a-potenziare-le-esportazioni/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’Éthiopie projette le développement d’une production commerciale de dattes à grande échelle -- <span class=\"news-date\">30/09/2026 06:00</span></div><div class=\"news-body\">L&#x27;Ethiopie met en œuvre un plan decennal pour developper sa production commerciale de dattes. Actuellement importateur net, le pays vise a generer des excedents pour les marches internationaux et regionaux. <span class=\"news-reason\">Strategie d&#x27;expansion d&#x27;une origine concurrente sur le marche de la datte.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9875785/l-etiopia-punta-a-incrementare-la-produzione-di-datteri-e-a-potenziare-le-esportazioni/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Ethiopia plans large-scale commercial date production -- <span class=\"news-date\">30/09/2026 06:00</span></div><div class=\"news-body\">Ethiopia is implementing a ten-year plan to develop its commercial date production. Currently a net importer, the country aims to generate surpluses for international and regional markets. <span class=\"news-reason\">Expansion strategy of a competing origin in the date market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9875785/l-etiopia-punta-a-incrementare-la-produzione-di-datteri-e-a-potenziare-le-esportazioni/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">אתיופיה מתכננת ייצור מסחרי של תמרים בקנה מידה גדול -- <span class=\"news-date\">30/09/2026 06:00</span></div><div class=\"news-body\">אתיופיה מיישמת תוכנית עשור לפיתוח ייצור התמרים המסחרי שלה. כיום יבואנית נטו, המדינה שואפת לייצר עודפים לשווקים הבינלאומיים והאזוריים. <span class=\"news-reason\">אסטרטגיית התרחבות של מקור מתחרה בשוק התמרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9875785/l-etiopia-punta-a-incrementare-la-produzione-di-datteri-e-a-potenziare-le-esportazioni/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -886,7 +900,7 @@
     {
       "id": "1790685173_1",
       "timestamp": "2026-09-29T12:32:53.127517+00:00",
-      "title": "La mangue du Brésil rivalise avec l&#x27;origine Espagne sur le marché européen",
+      "title": "La mangue du Brésil concurrence l&#x27;origine Espagne sur le marché européen",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -898,7 +912,7 @@
         "ESP",
         "BRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La mangue du Brésil rivalise avec l&#x27;origine Espagne sur le marché européen -- <span class=\"news-date\">29/09/2026 09:46</span></div><div class=\"news-body\">Les mangues brésiliennes à bas prix évincent les produits espagnols du marché européen. La saison des mangues espagnoles, principalement cultivées dans la région de l&#x27;Axarquía, a dépassé son apogée pour la variété Osteen, qui représente environ 70 % de la production nationale espagnole. <span class=\"news-reason\">Informations sur la dynamique de prix et de parts de marché entre deux origines concurrentes (Brésil et Espagne) sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9877238/gunstige-brasilianische-mangos-verdrangen-spanische-produkte-vom-europaischen-markt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La mangue du Brésil concurrence l&#x27;origine Espagne sur le marché européen -- <span class=\"news-date\">29/09/2026 09:46</span></div><div class=\"news-body\">Les mangues brésiliennes à bas prix évincent les produits espagnols du marché européen. La saison des mangues espagnoles, principalement cultivées dans la région de l&#x27;Axarquía, a dépassé son apogée pour la variété Osteen, qui représente environ 70 % de la production nationale espagnole. <span class=\"news-reason\">Informations sur la dynamique de prix et de parts de marché entre deux origines concurrentes (Brésil et Espagne) sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9877238/gunstige-brasilianische-mangos-verdrangen-spanische-produkte-vom-europaischen-markt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Brazilian mango competes with Spanish origin on the European market -- <span class=\"news-date\">29/09/2026 09:46</span></div><div class=\"news-body\">Low-priced Brazilian mangoes are pushing Spanish products out of the European market. The Spanish mango season, mainly grown in the Axarquía region, has passed its peak for the Osteen variety, which represents about 70% of Spanish national production. <span class=\"news-reason\">Information on price dynamics and market share between two competing origins (Brazil and Spain) for a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9877238/gunstige-brasilianische-mangos-verdrangen-spanische-produkte-vom-europaischen-markt/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">המנגו הברזילאי מתחרה במקור הספרדי בשוק האירופי -- <span class=\"news-date\">29/09/2026 09:46</span></div><div class=\"news-body\">מנגו ברזילאי במחירים נמוכים דוחק את המוצרים הספרדיים מהשוק האירופי. עונת המנגו הספרדי, המגודל בעיקר באזור אקסרקיה (Axarquía), עברה את שיאה עבור זן האוסטין (Osteen), המהווה כ-70% מהייצור הלאומי הספרדי. <span class=\"news-reason\">מידע על דינמיקת המחירים ונתחי השוק בין שני מקורות מתחרים (ברזיל וספרד) במוצר של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9877238/gunstige-brasilianische-mangos-verdrangen-spanische-produkte-vom-europaischen-markt/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
