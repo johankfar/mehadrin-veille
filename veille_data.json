@@ -1,6 +1,51 @@
 {
-  "last_generated": "2026-10-05T06:31:58.067166+00:00",
+  "last_generated": "2026-10-05T08:02:08.933352+00:00",
   "articles": [
+    {
+      "id": "1791187328_1",
+      "timestamp": "2026-10-05T08:02:08.933352+00:00",
+      "title": "Baisse de la consommation de melon au sein de l&#x27;UE et répartition des parts de marché -- 05/10/2026 07:40",
+      "title_hash": "baisse consommation melon sein lx27ue répartition parts marché",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Sébastien"
+      ],
+      "products": [
+        "melon"
+      ],
+      "origins": [
+        "ITA",
+        "ESP",
+        "MAR",
+        "BRA",
+        "NLD"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse de la consommation de melon au sein de l&#x27;UE et répartition des parts de marché -- <span class=\"news-date\">05/10/2026 07:40</span></div><div class=\"news-body\">Au cours des dix dernières campagnes, les États membres de l&#x27;UE ont réduit leurs achats de melon de 30,57 %. Actuellement, l&#x27;Espagne domine le marché communautaire avec 31,06 % des parts, suivie par le Brésil (25,62 %), les Pays-Bas (14,83 %), l&#x27;Italie (4,68 %) et le Maroc (3,84 %). <span class=\"news-reason\">Contient des chiffres précis sur les volumes et les parts de marché des pays concurrents (Espagne, Brésil, Maroc) pour le melon.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/los-ciudadanos-de-la-ue-reducen-el-consumo-de-melon-pero-siguen-prefiriendo-al-espanol-sobre-el-resto/\" target=\"_blank\">Hortoinfo -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decline in melon consumption within the EU and market share distribution -- <span class=\"news-date\">05/10/2026 07:40</span></div><div class=\"news-body\">Over the past ten seasons, EU member states have reduced their melon purchases by 30.57%. Currently, Spain dominates the community market with 31.06% of the share, followed by Brazil (25.62%), the Netherlands (14.83%), Italy (4.68%), and Morocco (3.84%). <span class=\"news-reason\">Contains precise figures on the volumes and market shares of competing countries (Spain, Brazil, Morocco) for melons.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/los-ciudadanos-de-la-ue-reducen-el-consumo-de-melon-pero-siguen-prefiriendo-al-espanol-sobre-el-resto/\" target=\"_blank\">Hortoinfo -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה בצריכת המלון באיחוד האירופי וחלוקת נתחי השוק -- <span class=\"news-date\">05/10/2026 07:40</span></div><div class=\"news-body\">במהלך עשר העונות האחרונות, המדינות החברות באיחוד האירופי הפחיתו את רכישות המלון שלהן ב-30.57%. נכון לעכשיו, ספרד שולטת בשוק הקהילתי עם 31.06% מהנתח, ואחריה ברזיל (25.62%), הולנד (14.83%), איטליה (4.68%) ומרוקו (3.84%). <span class=\"news-reason\">מכיל נתונים מדויקים על כמויות ונתחי שוק של מדינות מתחרות (ספרד, ברזיל, מרוקו) עבור מלון.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/los-ciudadanos-de-la-ue-reducen-el-consumo-de-melon-pero-siguen-prefiriendo-al-espanol-sobre-el-resto/\" target=\"_blank\">Hortoinfo -- קרא את הכתבה</a></div></div>",
+      "rss_metadata": {
+        "id": "rss-ef54abd3e8ba8e49",
+        "title": "Los ciudadanos de la UE reducen el consumo de melón, pero siguen prefiriendo al español sobre el resto",
+        "summary": "05/10/2026.- En las últimas diez campañas los Estados miembros de la UE han reducido la compra de melón un 30,57%. El mercado comunitario de esa fruta ha comprado el 31,06% a España, el 25,62% a Brasil, el 14,83% a Holanda, el 4,68% a Italia, el 3,84% a Marruecos y el resto a otros países La entrada Los ciudadanos de la UE reducen el consumo de melón, pero siguen prefiriendo al español sobre el resto se publicó primero en Hortoinfo.",
+        "url": "https://hortoinfo.es/los-ciudadanos-de-la-ue-reducen-el-consumo-de-melon-pero-siguen-prefiriendo-al-espanol-sobre-el-resto/",
+        "source": "Hortoinfo",
+        "published_at": "2026-10-05T07:40:36+00:00",
+        "language": "es",
+        "products": [
+          "melon"
+        ],
+        "origins": [
+          "ITA",
+          "ESP",
+          "BRA"
+        ]
+      },
+      "attention_enrichment": {
+        "title_fr": "Chute de la consommation européenne de melon",
+        "summary_fr": "L'Espagne et le Brésil dominent un marché européen en contraction de trente pour cent."
+      },
+      "gemini_score": 9
+    },
     {
       "id": "1791181918_0",
       "timestamp": "2026-10-05T06:31:58.067166+00:00",
@@ -82,7 +127,7 @@
     {
       "id": "1791176531_0",
       "timestamp": "2026-10-05T05:02:11.731850+00:00",
-      "title": "Bilan positif et progression des volumes pour le melon de Cavaillon",
+      "title": "Bilan positif et croissance des volumes pour le melon de Cavaillon",
       "title_hash": "bilan positif progression volumes melon cavaillon",
       "category": "ALERTES SUPPLY",
       "commercials": [
@@ -92,7 +137,7 @@
         "melon"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Bilan positif et progression des volumes pour le melon de Cavaillon -- <span class=\"news-date\">05/10/2026 06:00</span></div><div class=\"news-body\">La saison 2026 du melon de Cavaillon se termine sur un bilan positif avec une augmentation significative des volumes commercialisés sous marque. Selon le Syndicat des Maîtres Melonniers, cette hausse de disponibilité a caractérisé la fin de campagne. <span class=\"news-reason\">Analyse de fin de campagne sur un produit concurrent direct de la gamme Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878722/la-stagione-2026-del-melone-di-cavaillon-e-stata-caratterizzata-da-un-netto-aumento-dei-volumi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Bilan positif et croissance des volumes pour le melon de Cavaillon -- <span class=\"news-date\">05/10/2026 06:00</span></div><div class=\"news-body\">La saison 2026 du melon de Cavaillon se termine sur un bilan positif avec une augmentation significative des volumes commercialisés sous marque. Selon le Syndicat des Maîtres Melonniers, cette hausse de disponibilité a caractérisé la fin de campagne. <span class=\"news-reason\">Analyse de fin de campagne sur un produit concurrent direct de la gamme Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878722/la-stagione-2026-del-melone-di-cavaillon-e-stata-caratterizzata-da-un-netto-aumento-dei-volumi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Positive results and volume growth for Cavaillon melon -- <span class=\"news-date\">05/10/2026 06:00</span></div><div class=\"news-body\">The 2026 Cavaillon melon season ends with a positive result and a significant increase in volumes marketed under the brand. According to the Syndicat des Maîtres Melonniers, this increase in availability characterized the end of the campaign. <span class=\"news-reason\">End-of-campaign analysis on a product that is a direct competitor to the Mehadrin range.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878722/la-stagione-2026-del-melone-di-cavaillon-e-stata-caratterizzata-da-un-netto-aumento-dei-volumi/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מאזן חיובי וגידול בנפחים עבור מלון קאבאיו -- <span class=\"news-date\">05/10/2026 06:00</span></div><div class=\"news-body\">עונת 2026 של מלון קאבאיו מסתיימת בסיכום חיובי עם עלייה משמעותית בנפחים המשווקים תחת המותג. על פי איגוד מאסטרי המלונים, עלייה זו בזמינות אפיינה את סוף העונה. <span class=\"news-reason\">ניתוח סוף עונה עבור מוצר המתחרה ישירות בקו המוצרים של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878722/la-stagione-2026-del-melone-di-cavaillon-e-stata-caratterizzata-da-un-netto-aumento-dei-volumi/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -941,41 +986,29 @@
         "summary_fr": "Début des campagnes d'avocats pour la nouvelle saison"
       },
       "gemini_score": 8
-    },
-    {
-      "id": "1790922825_2",
-      "timestamp": "2026-10-02T06:33:45.257681+00:00",
-      "title": "Perspectives de croissance de la production d&#x27;agrumes en Andalousie à l&#x27;horizon 2026/27",
-      "title_hash": "prévisions hausse production dx27agrumes andalousie 27",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Perspectives de croissance de la production d&#x27;agrumes en Andalousie à l&#x27;horizon 2026/27 -- <span class=\"news-date\">02/10/2026 06:05</span></div><div class=\"news-body\">Le ministère de l&#x27;Agriculture d&#x27;Andalousie estime la production d&#x27;agrumes à 2,11 millions de tonnes pour la campagne 2026/27 sur une surface de 89 274 hectares. Cela représente une augmentation de 12,7 % par rapport à la saison précédente. <span class=\"news-reason\">Contient des prévisions de volumes détaillées et des pourcentages de croissance pour un concurrent majeur sur les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878187/l-andalusia-stima-una-produzione-di-2-11-milioni-di-tonnellate-di-agrumi-nella-campagna-2026-27/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Forecasted increase in citrus production in Andalusia for 2026/27 -- <span class=\"news-date\">02/10/2026 06:05</span></div><div class=\"news-body\">The Andalusian Ministry of Agriculture estimates citrus production at 2.11 million tons for the 2026/27 campaign across an area of 89,274 hectares. This represents a 12.7% increase compared to the previous season. <span class=\"news-reason\">Contains detailed volume forecasts and growth percentages for a major citrus competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878187/l-andalusia-stima-una-produzione-di-2-11-milioni-di-tonnellate-di-agrumi-nella-campagna-2026-27/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">תחזיות לעלייה בייצור הדרים באנדלוסיה לעונת 2026/27 -- <span class=\"news-date\">02/10/2026 06:05</span></div><div class=\"news-body\">משרד החקלאות של אנדלוסיה מעריך את ייצור ההדרים ב-2.11 מיליון טונות לעונת 2026/27 על פני שטח של 89,274 הקטר. נתון זה מייצג עלייה של 12.7% לעומת העונה הקודמת. <span class=\"news-reason\">מכיל תחזיות נפח מפורטות ואחוזי צמיחה עבור מתחרה מרכזי בתחום ההדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878187/l-andalusia-stima-una-produzione-di-2-11-milioni-di-tonnellate-di-agrumi-nella-campagna-2026-27/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>",
-      "rss_metadata": {
-        "id": "rss-fdff0f990c6ec18d",
-        "title": "L'Andalusia stima una produzione di 2,11 milioni di tonnellate di agrumi nella campagna 2026/27",
-        "summary": "Il Dipartimento dell'agricoltura, della pesca, delle risorse idriche e dello sviluppo rurale dell'Andalusia prevede una produzione di 2,11 milioni di tonnellate di agrumi per la campagna 2026/27, su una superficie di 89.274 ettari, il che rappresenta un incremento del 12,7% rispetto alla campagna…",
-        "url": "https://www.freshplaza.it/article/9878187/l-andalusia-stima-una-produzione-di-2-11-milioni-di-tonnellate-di-agrumi-nella-campagna-2026-27/",
-        "source": "FreshPlaza IT",
-        "published_at": "2026-10-02T06:05:00+02:00",
-        "language": "it",
-        "products": [],
-        "origins": []
-      },
-      "attention_enrichment": {
-        "title_fr": "Prévisions de récolte en hausse pour la filière agrumes",
-        "summary_fr": "Augmentation significative des volumes attendus sur les surfaces exploitées"
-      },
-      "gemini_score": 10
     }
   ],
   "article_count": 25,
   "attention_points": [
+    {
+      "id": "attention-ef54abd3e8ba8e49",
+      "article_id": "1791187328_1",
+      "url": "https://hortoinfo.es/los-ciudadanos-de-la-ue-reducen-el-consumo-de-melon-pero-siguen-prefiriendo-al-espanol-sobre-el-resto/",
+      "source": "Hortoinfo",
+      "title": "Baisse de la consommation de melon au sein",
+      "summary": "Au cours des dix dernières campagnes, les États membres de l'UE ont réduit leurs achats de melon de 30,57 %.",
+      "origin_code": "ITA",
+      "origin_label": "Italie",
+      "published_at": "2026-10-05T07:40:36+00:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "melon"
+      ],
+      "age_hours": 0
+    },
     {
       "id": "attention-5405eea6ec6aedb6",
       "article_id": "1791181918_0",
@@ -993,7 +1026,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 1
+      "age_hours": 3
     },
     {
       "id": "attention-0cb0f933e0618bfa",
@@ -1013,26 +1046,7 @@
         "avocat",
         "mango"
       ],
-      "age_hours": 64
-    },
-    {
-      "id": "attention-22c642853ca4cbd4",
-      "article_id": "1790955244_3",
-      "url": "https://www.freshplaza.es/article/9879170/un-nuevo-programa-de-dekopon-chileno-busca-cubrir-el-vacio-de-oferta-en-el-mercado-estadounidense-tras-el-invierno/",
-      "source": "FreshPlaza ES",
-      "title": "Lancement d'un nouveau programme de mandarines Dekopon chiliennes sur",
-      "summary": "LGS Specialty Sales lance 'Darling Dekos', un programme de mandarines de variété Dekopon cultivées au Chili.",
-      "origin_code": "CHL",
-      "origin_label": "Chili",
-      "published_at": "2026-10-02T15:45:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "mandarine"
-      ],
-      "age_hours": 64
+      "age_hours": 66
     },
     {
       "id": "attention-a92faa54877e2216",
@@ -1051,7 +1065,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 64
+      "age_hours": 66
     }
   ]
 }
