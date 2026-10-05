@@ -1,6 +1,45 @@
 {
-  "last_generated": "2026-10-05T09:31:37.740651+00:00",
+  "last_generated": "2026-10-05T11:01:52.559282+00:00",
   "articles": [
+    {
+      "id": "1791198112_1",
+      "timestamp": "2026-10-05T11:01:52.559282+00:00",
+      "title": "Intempéries en Espagne : les vergers de Valence touchés par la grêle -- 05/10/2026 12:04",
+      "title_hash": "intempéries espagne vergers valence touchés grêle",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia",
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Intempéries en Espagne : les vergers de Valence touchés par la grêle -- <span class=\"news-date\">05/10/2026 12:04</span></div><div class=\"news-body\">De violentes tempêtes accompagnées de grêle et de vents ont frappé les provinces de Valence et de Castellón. Bien que les kakis soient les plus touchés, des dégâts sont signalés dans les vergers d&#x27;agrumes et d&#x27;avocats. L&#x27;épisode a également causé des dommages aux infrastructures et des glissements de terrain. <span class=\"news-reason\">Alerte supply suite à des intempéries touchant les agrumes et les avocats en Espagne.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9879686/spaanse-kaki-oogst-daalt-verder-door-hagelschade-in-valencia-en-castellon/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Severe weather in Spain: Valencia orchards hit by hail -- <span class=\"news-date\">05/10/2026 12:04</span></div><div class=\"news-body\">Violent storms accompanied by hail and winds have hit the provinces of Valencia and Castellón. Although persimmons are the most affected, damage is reported in citrus and avocado orchards. The episode also caused damage to infrastructure and landslides. <span class=\"news-reason\">Supply alert following severe weather affecting citrus and avocados in Spain.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9879686/spaanse-kaki-oogst-daalt-verder-door-hagelschade-in-valencia-en-castellon/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מזג אוויר סוער בספרד: מטעי ולנסיה נפגעו מברד -- <span class=\"news-date\">05/10/2026 12:04</span></div><div class=\"news-body\">סופות עזות מלוות בברד וברוחות פקדו את מחוזות ולנסיה וקסטלון. למרות שהאפרסמונים הם הנפגעים העיקריים, דווח על נזקים במטעי הדרים ואבוקדו. האירוע גרם גם לנזק לתשתיות ולמפולות בוץ. <span class=\"news-reason\">התראת אספקה בעקבות מזג אוויר סוער המשפיע על פירות הדר ואבוקדו בספרד.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9879686/spaanse-kaki-oogst-daalt-verder-door-hagelschade-in-valencia-en-castellon/\" target=\"_blank\">AGF.nl -- לקריאת הכתבה</a></div></div>",
+      "rss_metadata": {
+        "id": "rss-da21805ee9c6051b",
+        "title": "Spaanse kaki-oogst daalt verder door hagelschade in Valencia en Castellón",
+        "summary": "De provincies Valencia en Castellón worden sinds donderdag geteisterd door een zware storm met regen, wind en hagel. De schade is vooral groot in de kakiteelt. In mindere mate zijn ook citrus en avocado's getroffen. Daarnaast zijn er grondverschuivingen en is er schade aan teeltinfrastructuur. De hagelbuien…",
+        "url": "https://www.agf.nl/article/9879686/spaanse-kaki-oogst-daalt-verder-door-hagelschade-in-valencia-en-castellon/",
+        "source": "AGF.nl",
+        "published_at": "2026-10-05T12:04:00+02:00",
+        "language": "nl",
+        "products": [
+          "avocat",
+          "orange"
+        ],
+        "origins": []
+      },
+      "attention_enrichment": {
+        "title_fr": "Grêle sur les agrumes et avocats à Valence",
+        "summary_fr": "Des orages de grêle endommagent les vergers d'agrumes et d'avocats dans les régions de Valence et Castellón."
+      },
+      "gemini_score": 7
+    },
     {
       "id": "1791187328_1",
       "timestamp": "2026-10-05T08:02:08.933352+00:00",
@@ -127,7 +166,7 @@
     {
       "id": "1791176531_0",
       "timestamp": "2026-10-05T05:02:11.731850+00:00",
-      "title": "Melon de Cavaillon : résultats positifs et progression des volumes",
+      "title": "Melon de Cavaillon : bilan positif et croissance des volumes",
       "title_hash": "bilan positif progression volumes melon cavaillon",
       "category": "ALERTES SUPPLY",
       "commercials": [
@@ -137,7 +176,7 @@
         "melon"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Melon de Cavaillon : résultats positifs et progression des volumes -- <span class=\"news-date\">05/10/2026 06:00</span></div><div class=\"news-body\">La saison 2026 du melon de Cavaillon se termine sur un bilan positif avec une augmentation significative des volumes commercialisés sous marque. Selon le Syndicat des Maîtres Melonniers, cette hausse de disponibilité a caractérisé la fin de campagne. <span class=\"news-reason\">Analyse de fin de campagne sur un produit concurrent direct de la gamme Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878722/la-stagione-2026-del-melone-di-cavaillon-e-stata-caratterizzata-da-un-netto-aumento-dei-volumi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Melon de Cavaillon : bilan positif et croissance des volumes -- <span class=\"news-date\">05/10/2026 06:00</span></div><div class=\"news-body\">La saison 2026 du melon de Cavaillon se termine sur un bilan positif avec une augmentation significative des volumes commercialisés sous marque. Selon le Syndicat des Maîtres Melonniers, cette hausse de disponibilité a caractérisé la fin de campagne. <span class=\"news-reason\">Analyse de fin de campagne sur un produit concurrent direct de la gamme Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878722/la-stagione-2026-del-melone-di-cavaillon-e-stata-caratterizzata-da-un-netto-aumento-dei-volumi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Positive results and volume growth for Cavaillon melon -- <span class=\"news-date\">05/10/2026 06:00</span></div><div class=\"news-body\">The 2026 Cavaillon melon season ends with a positive result and a significant increase in volumes marketed under the brand. According to the Syndicat des Maîtres Melonniers, this increase in availability characterized the end of the campaign. <span class=\"news-reason\">End-of-campaign analysis on a product that is a direct competitor to the Mehadrin range.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878722/la-stagione-2026-del-melone-di-cavaillon-e-stata-caratterizzata-da-un-netto-aumento-dei-volumi/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מאזן חיובי וגידול בנפחים עבור מלון קאבאיו -- <span class=\"news-date\">05/10/2026 06:00</span></div><div class=\"news-body\">עונת 2026 של מלון קאבאיו מסתיימת בסיכום חיובי עם עלייה משמעותית בנפחים המשווקים תחת המותג. על פי איגוד מאסטרי המלונים, עלייה זו בזמינות אפיינה את סוף העונה. <span class=\"news-reason\">ניתוח סוף עונה עבור מוצר המתחרה ישירות בקו המוצרים של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878722/la-stagione-2026-del-melone-di-cavaillon-e-stata-caratterizzata-da-un-netto-aumento-dei-volumi/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -710,7 +749,7 @@
     {
       "id": "1790955244_0",
       "timestamp": "2026-10-02T15:34:04.411725+00:00",
-      "title": "Recul des cours de l&#x27;avocat sud-africain au sein de l&#x27;UE malgré des exportations record",
+      "title": "Baisse des cours de l&#x27;avocat sud-africain au sein de l&#x27;UE malgré des exportations record",
       "title_hash": "baisse cours avocats sudafricains lx27ue malgré exportations record",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
@@ -722,7 +761,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul des cours de l&#x27;avocat sud-africain au sein de l&#x27;UE malgré des exportations record -- <span class=\"news-date\">02/10/2026 15:45</span></div><div class=\"news-body\">L&#x27;Afrique du Sud a exporté 21 millions de cartons de 4 kg d&#x27;avocats cette saison, soit une augmentation de près de 16 % par rapport à l&#x27;année précédente. Cependant, l&#x27;excès d&#x27;offre sur le marché de l&#x27;Union européenne, couplé à une faible demande sur de nouveaux marchés, a maintenu les prix sous pression pendant la majeure partie de la campagne. <span class=\"news-reason\">Contient des chiffres précis sur les volumes d&#x27;exportation d&#x27;un concurrent direct et l&#x27;impact sur les prix du marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9879164/el-exceso-de-oferta-en-la-ue-lastra-los-precios-del-aguacate-sudafricano-pese-a-un-record-de-exportaciones/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse des cours de l&#x27;avocat sud-africain au sein de l&#x27;UE malgré des exportations record -- <span class=\"news-date\">02/10/2026 15:45</span></div><div class=\"news-body\">L&#x27;Afrique du Sud a exporté 21 millions de cartons de 4 kg d&#x27;avocats cette saison, soit une augmentation de près de 16 % par rapport à l&#x27;année précédente. Cependant, l&#x27;excès d&#x27;offre sur le marché de l&#x27;Union européenne, couplé à une faible demande sur de nouveaux marchés, a maintenu les prix sous pression pendant la majeure partie de la campagne. <span class=\"news-reason\">Contient des chiffres précis sur les volumes d&#x27;exportation d&#x27;un concurrent direct et l&#x27;impact sur les prix du marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9879164/el-exceso-de-oferta-en-la-ue-lastra-los-precios-del-aguacate-sudafricano-pese-a-un-record-de-exportaciones/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decline in South African avocado prices in the EU despite record exports -- <span class=\"news-date\">02/10/2026 15:45</span></div><div class=\"news-body\">South Africa exported 21 million 4 kg cartons of avocados this season, an increase of nearly 16% compared to the previous year. However, oversupply in the European Union market, coupled with weak demand in new markets, kept prices under pressure for most of the campaign. <span class=\"news-reason\">Contains precise figures on the export volumes of a direct competitor and the impact on European market prices.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9879164/el-exceso-de-oferta-en-la-ue-lastra-los-precios-del-aguacate-sudafricano-pese-a-un-record-de-exportaciones/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה במחירי האבוקדו הדרום-אפריקאי באיחוד האירופי למרות ייצוא שיא -- <span class=\"news-date\">02/10/2026 15:45</span></div><div class=\"news-body\">דרום אפריקה ייצאה העונה 21 מיליון קרטונים של 4 ק\"ג אבוקדו, עלייה של כמעט 16% לעומת השנה הקודמת. עם זאת, עודף ההיצע בשוק האיחוד האירופי, בשילוב עם ביקוש נמוך בשווקים חדשים, הותירו את המחירים תחת לחץ לאורך רוב העונה. <span class=\"news-reason\">מכיל נתונים מדויקים על היקפי הייצוא של מתחרה ישיר וההשפעה על המחירים בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9879164/el-exceso-de-oferta-en-la-ue-lastra-los-precios-del-aguacate-sudafricano-pese-a-un-record-de-exportaciones/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -904,8 +943,28 @@
       "gemini_score": 8
     }
   ],
-  "article_count": 23,
+  "article_count": 24,
   "attention_points": [
+    {
+      "id": "attention-da21805ee9c6051b",
+      "article_id": "1791198112_1",
+      "url": "https://www.agf.nl/article/9879686/spaanse-kaki-oogst-daalt-verder-door-hagelschade-in-valencia-en-castellon/",
+      "source": "AGF.nl",
+      "title": "Intempéries en Espagne : les vergers de Valence touchés",
+      "summary": "De violentes tempêtes accompagnées de grêle et de vents ont frappé les provinces de Valence et de Castellón.",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
+      "published_at": "2026-10-05T12:04:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
+      "products": [
+        "avocat",
+        "orange"
+      ],
+      "age_hours": 0
+    },
     {
       "id": "attention-ef54abd3e8ba8e49",
       "article_id": "1791187328_1",
@@ -923,7 +982,7 @@
       "products": [
         "melon"
       ],
-      "age_hours": 1
+      "age_hours": 3
     },
     {
       "id": "attention-5405eea6ec6aedb6",
@@ -942,34 +1001,14 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 4
-    },
-    {
-      "id": "attention-0cb0f933e0618bfa",
-      "article_id": "1790966030_3",
-      "url": "https://www.freshplaza.es/article/9879519/intertropic-renueva-sus-organos-de-gobierno/",
-      "source": "FreshPlaza ES",
-      "title": "Renouvellement de la direction d'Intertropic en Espagne",
-      "summary": "L'organisation interprofessionnelle espagnole de l'avocat et de la mangue, Intertropic, a renouvelé ses instances dirigeantes lors d'une réunion le 29 septembre 2026.",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-10-02T15:45:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "information",
-      "signal_label": "Information",
-      "icon": "information",
-      "products": [
-        "avocat",
-        "mango"
-      ],
-      "age_hours": 67
+      "age_hours": 6
     },
     {
       "id": "attention-a92faa54877e2216",
       "article_id": "1790955244_0",
       "url": "https://www.freshplaza.es/article/9879164/el-exceso-de-oferta-en-la-ue-lastra-los-precios-del-aguacate-sudafricano-pese-a-un-record-de-exportaciones/",
       "source": "FreshPlaza ES",
-      "title": "Recul des cours de l'avocat sud-africain au sein",
+      "title": "Baisse des cours de l'avocat sud-africain au sein",
       "summary": "L'Afrique du Sud a exporté 21 millions de cartons de 4 kg d'avocats cette saison, soit une augmentation de près de 16 % par rapport à l'année précédente.",
       "origin_code": "ZAF",
       "origin_label": "Afrique du Sud",
@@ -981,7 +1020,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 67
+      "age_hours": 69
     }
   ]
 }
