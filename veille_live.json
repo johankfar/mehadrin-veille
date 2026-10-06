@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-10-06T12:32:26.801452+00:00",
-  "article_count": 24,
+  "last_updated": "2026-10-06T14:02:09.351543+00:00",
+  "article_count": 25,
   "attention_points": [
     {
-      "id": "attention-7eca9d14ba8ccfec",
-      "article_id": "1791289946_1",
-      "url": "https://www.freshplaza.fr/article/9880455/frutivar-grupo-hijuelas-et-les-domaines-agricoles-presentent-une-nouvelle-plateforme-pour-le-developpement-de-plants-au-maroc/",
-      "source": "FreshPlaza FR",
-      "title": "Nouvelle plateforme pour le développement de plants horticoles",
-      "summary": "Le groupe chilien Hijuelas et Les Domaines Agricoles du Maroc ont lancé Frutivar, une plateforme commune dédiée à la multiplication et à la génétique végétale.",
+      "id": "attention-08a1d1f0a7059bb6",
+      "article_id": "1791295329_0",
+      "url": "https://www.hortidaily.com/article/9880485/morocco-s-agricultural-film-shortage-eases-but-raw-material-supply-remains-structurally-tight/",
+      "source": "HortiDaily",
+      "title": "Persistance de la pénurie de films plastiques agricoles",
+      "summary": "Bien que la phase aiguë de la pénurie de films plastiques agricoles au Maroc semble s'atténuer, le problème de fond concernant l'approvisionnement en matières premières reste structurellement tendu.",
       "origin_code": "MAR",
       "origin_label": "Maroc",
-      "published_at": "2026-10-06T14:12:00+02:00",
+      "published_at": "2026-10-06T14:13:00+02:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [],
-      "age_hours": 0
+      "age_hours": 1
     },
     {
       "id": "attention-d6f796379e9cf06e",
@@ -36,7 +36,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 0
+      "age_hours": 1
     },
     {
       "id": "attention-11d79ba1206541ea",
@@ -55,14 +55,14 @@
       "products": [
         "orange"
       ],
-      "age_hours": 8
+      "age_hours": 9
     },
     {
       "id": "attention-de94e3d8a7e28555",
       "article_id": "1791262938_1",
       "url": "https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/",
       "source": "FreshPlaza IT",
-      "title": "La filière des agrumes en Afrique du Sud",
+      "title": "La filière des agrumes en Afrique du Sud confrontée",
       "summary": "La hausse des coûts freine la préparation des vergers.",
       "origin_code": "ZAF",
       "origin_label": "Afrique du Sud",
@@ -72,10 +72,24 @@
       "signal_label": "Alerte",
       "icon": "alert",
       "products": [],
-      "age_hours": 8
+      "age_hours": 9
     }
   ],
   "articles": [
+    {
+      "id": "1791295329_0",
+      "timestamp": "2026-10-06T14:02:09.351543+00:00",
+      "title": "Persistance de la pénurie de films plastiques agricoles au Maroc -- 06/10/2026 14:13",
+      "category": "ALERTES SUPPLY",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Persistance de la pénurie de films plastiques agricoles au Maroc -- <span class=\"news-date\">06/10/2026 14:13</span></div><div class=\"news-body\">Bien que la phase aiguë de la pénurie de films plastiques agricoles au Maroc semble s&#x27;atténuer, le problème de fond concernant l&#x27;approvisionnement en matières premières reste structurellement tendu. Cette crise, qui a débuté fin février 2026 après une tempête d&#x27;une ampleur sans précédent dans la région du Souss, continue de peser sur la disponibilité des protections de cultures. <span class=\"news-reason\">Alerte supply impactant les capacités de production et de protection des cultures d&#x27;un concurrent majeur (Maroc).</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9880485/morocco-s-agricultural-film-shortage-eases-but-raw-material-supply-remains-structurally-tight/\" target=\"_blank\">HortiDaily -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Persistence of agricultural plastic film shortage in Morocco -- <span class=\"news-date\">06/10/2026 14:13</span></div><div class=\"news-body\">Although the acute phase of the agricultural plastic film shortage in Morocco seems to be easing, the underlying issue regarding raw material supply remains structurally tight. This crisis, which began in late February 2026 after a storm of unprecedented scale in the Souss region, continues to weigh on the availability of crop protection. <span class=\"news-reason\">Supply alert impacting the production and crop protection capacities of a major competitor (Morocco).</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9880485/morocco-s-agricultural-film-shortage-eases-but-raw-material-supply-remains-structurally-tight/\" target=\"_blank\">HortiDaily -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">התמשכות המחסור ביריעות פלסטיק חקלאיות במרוקו -- <span class=\"news-date\">06/10/2026 14:13</span></div><div class=\"news-body\">למרות שהשלב החריף של המחסור ביריעות פלסטיק חקלאיות במרוקו נראה כנחלש, בעיית השורש בנוגע לאספקת חומרי הגלם נותרה מתוחה מבחינה מבנית. משבר זה, שהחל בסוף פברואר 2026 לאחר סערה בעוצמה חסרת תקדים באזור סוס, ממשיך להעיב על זמינותם של אמצעי המיגון לגידולים. <span class=\"news-reason\">התראת אספקה המשפיעה על יכולות הייצור וההגנה על יבולים של מתחרה מרכזי (מרוקו).</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9880485/morocco-s-agricultural-film-shortage-eases-but-raw-material-supply-remains-structurally-tight/\" target=\"_blank\">HortiDaily -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1791289946_2",
       "timestamp": "2026-10-06T12:32:26.801452+00:00",
@@ -215,7 +229,7 @@
     {
       "id": "1791262938_1",
       "timestamp": "2026-10-06T05:02:18.398627+00:00",
-      "title": "La filière des agrumes en Afrique du Sud en proie à des difficultés financières",
+      "title": "La filière des agrumes en Afrique du Sud confrontée à des difficultés financières",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -224,14 +238,14 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La filière des agrumes en Afrique du Sud en proie à des difficultés financières -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">Alors que la récolte actuelle s&#x27;achève, les producteurs d&#x27;agrumes sud-africains font face à d&#x27;importantes difficultés de trésorerie pour préparer la saison 2027. La combinaison d&#x27;un taux de change défavorable et de l&#x27;augmentation des coûts de production limite les capacités de financement pour la fertilisation des sols, menaçant le potentiel de production futur. <span class=\"news-reason\">Alerte sur la pérennité de l&#x27;offre d&#x27;une origine concurrente majeure en raison de difficultés de trésorerie impactant les futures récoltes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La filière des agrumes en Afrique du Sud confrontée à des difficultés financières -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">Alors que la récolte actuelle s&#x27;achève, les producteurs d&#x27;agrumes sud-africains font face à d&#x27;importantes difficultés de trésorerie pour préparer la saison 2027. La combinaison d&#x27;un taux de change défavorable et de l&#x27;augmentation des coûts de production limite les capacités de financement pour la fertilisation des sols, menaçant le potentiel de production futur. <span class=\"news-reason\">Alerte sur la pérennité de l&#x27;offre d&#x27;une origine concurrente majeure en raison de difficultés de trésorerie impactant les futures récoltes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Financial tensions for citrus growers in South Africa -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">As the current harvest comes to an end, South African citrus producers are facing significant cash flow difficulties in preparing for the 2027 season. The combination of an unfavorable exchange rate and rising production costs is limiting financing capacities for soil fertilization, threatening future production potential. <span class=\"news-reason\">Alert on the sustainability of supply from a major competing origin due to cash flow difficulties impacting future harvests.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">קשיים פיננסיים למגדלי ההדרים בדרום אפריקה -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">בעוד הקטיף הנוכחי מסתיים, מגדלי ההדרים בדרום אפריקה מתמודדים עם קשיי נזילות משמעותיים לקראת ההכנות לעונת 2027. השילוב של שער חליפין לא נוח ועלייה בעלויות הייצור מגביל את יכולות המימון לדישון הקרקע, דבר המאיים על פוטנציאל הייצור העתידי. <span class=\"news-reason\">התראה על יציבות האספקה ממקור מתחרה מרכזי עקב קשיי תזרים מזומנים המשפיעים על היבולים העתידיים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1791262938_0",
       "timestamp": "2026-10-06T05:02:18.398627+00:00",
-      "title": "Ouverture de la campagne du pomelo en Chine : stabilité de la production",
+      "title": "Lancement de la campagne du pomelo en Chine : stabilité de la production",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -242,7 +256,7 @@
       "origins": [
         "CHN"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Ouverture de la campagne du pomelo en Chine : stabilité de la production -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">La saison des pomelos en Chine a commencé sous des conditions météorologiques favorables. Le temps principalement ensoleillé pendant la phase de culture a permis d&#x27;obtenir une bonne qualité et une production satisfaisante. Les volumes disponibles sont estimés à un niveau équivalent à celui des années précédentes, et le marché est actuellement stable. <span class=\"news-reason\">Information sur le début de campagne d&#x27;une origine concurrente pour le pomelo, avec des précisions sur la qualité et les volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878597/la-stagione-del-pomelo-cinese-procede-bene-con-una-buona-qualita-e-un-mercato-stabile/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne du pomelo en Chine : stabilité de la production -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">La saison des pomelos en Chine a commencé sous des conditions météorologiques favorables. Le temps principalement ensoleillé pendant la phase de culture a permis d&#x27;obtenir une bonne qualité et une production satisfaisante. Les volumes disponibles sont estimés à un niveau équivalent à celui des années précédentes, et le marché est actuellement stable. <span class=\"news-reason\">Information sur le début de campagne d&#x27;une origine concurrente pour le pomelo, avec des précisions sur la qualité et les volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878597/la-stagione-del-pomelo-cinese-procede-bene-con-una-buona-qualita-e-un-mercato-stabile/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Launch of the pomelo campaign in China with stable production -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">The pomelo season in China has begun under favorable weather conditions. The mainly sunny weather during the growing phase has resulted in good quality and satisfactory production. Available volumes are estimated at a level equivalent to previous years, and the market is currently stable. <span class=\"news-reason\">Information on the start of the campaign for a competing origin for pomelo, with details on quality and volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878597/la-stagione-del-pomelo-cinese-procede-bene-con-una-buona-qualita-e-un-mercato-stabile/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השקת עונת הפומלה בסין עם ייצור יציב -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">עונת הפומלה בסין החלה בתנאי מזג אוויר נוחים. מזג אוויר שטוף שמש ברובו במהלך שלב הגידול אפשר השגת איכות טובה וייצור משביע רצון. הכמויות הזמינות מוערכות ברמה דומה לשנים קודמות, והשוק יציב כרגע. <span class=\"news-reason\">מידע על תחילת העונה של מקור מתחרה עבור הפומלה, עם פרטים על האיכות והכמויות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878597/la-stagione-del-pomelo-cinese-procede-bene-con-una-buona-qualita-e-un-mercato-stabile/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
