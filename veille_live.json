@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-06T08:03:02.149723+00:00",
-  "article_count": 23,
+  "last_updated": "2026-10-06T09:33:17.702886+00:00",
+  "article_count": 22,
   "attention_points": [
     {
       "id": "attention-11d79ba1206541ea",
@@ -19,7 +19,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 3
+      "age_hours": 5
     },
     {
       "id": "attention-36dd7bd0c76cbeec",
@@ -38,14 +38,14 @@
       "products": [
         "citrus_grapefruit"
       ],
-      "age_hours": 3
+      "age_hours": 5
     },
     {
       "id": "attention-de94e3d8a7e28555",
       "article_id": "1791262938_1",
       "url": "https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/",
       "source": "FreshPlaza IT",
-      "title": "L'industrie des agrumes en Afrique du Sud confrontée",
+      "title": "La filière des agrumes en Afrique du Sud confrontée",
       "summary": "La hausse des coûts freine la préparation des vergers.",
       "origin_code": "ZAF",
       "origin_label": "Afrique du Sud",
@@ -55,7 +55,7 @@
       "signal_label": "Alerte",
       "icon": "alert",
       "products": [],
-      "age_hours": 3
+      "age_hours": 5
     },
     {
       "id": "attention-977b91dbcd8981b8",
@@ -74,10 +74,24 @@
       "products": [
         "orange"
       ],
-      "age_hours": 20
+      "age_hours": 22
     }
   ],
   "articles": [
+    {
+      "id": "1791279197_0",
+      "timestamp": "2026-10-06T09:33:17.702886+00:00",
+      "title": "Progression des exportations agroalimentaires du Maroc vers l&#x27;UE en 2026 -- 05/10/2026 09:17",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Progression des exportations agroalimentaires du Maroc vers l&#x27;UE en 2026 -- <span class=\"news-date\">05/10/2026 09:17</span></div><div class=\"news-body\">Les exportations agroalimentaires du Maroc vers l’Union Européenne maintiennent une trajectoire de croissance soutenue. Au cours des sept premiers mois de l’année 2026, la valeur globale des expéditions a atteint 2,66 milliards d&#x27;euros, confirmant la solidité de la balance commerciale marocaine sur ce marché stratégique. <span class=\"news-reason\">Fournit des données chiffrées sur la performance globale des exportations d&#x27;un concurrent direct vers le marché européen.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/les-exportations-agroalimentaires-du-maroc-vers-lue-une-croissance-soutenue-et-une-balance-commerciale-favorable/\" target=\"_blank\">CAGOR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Growth of Morocco&#x27;s agri-food exports to the EU in 2026 -- <span class=\"news-date\">05/10/2026 09:17</span></div><div class=\"news-body\">Morocco’s agri-food exports to the European Union maintain a trajectory of sustained growth. During the first seven months of 2026, the overall value of shipments reached 2.66 billion euros, confirming the strength of the Moroccan trade balance in this strategic market. <span class=\"news-reason\">Provides figures on the overall export performance of a direct competitor to the European market.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/les-exportations-agroalimentaires-du-maroc-vers-lue-une-croissance-soutenue-et-une-balance-commerciale-favorable/\" target=\"_blank\">CAGOR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">התקדמות בייצוא מוצרי מזון חקלאיים ממרוקו לאיחוד האירופי בשנת 2026 -- <span class=\"news-date\">05/10/2026 09:17</span></div><div class=\"news-body\">ייצוא מוצרי המזון החקלאיים של מרוקו לאיחוד האירופי שומר על מסלול צמיחה מתמיד. במהלך שבעת החודשים הראשונים של שנת 2026, השווי הכולל של המשלוחים הגיע ל-2.66 מיליארד אירו, מה שמאשר את יציבות מאזן הסחר המרוקאי בשוק אסטרטגי זה. <span class=\"news-reason\">מספק נתונים מספריים על הביצועים הכוללים של הייצוא של מתחרה ישיר לשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/les-exportations-agroalimentaires-du-maroc-vers-lue-une-croissance-soutenue-et-une-balance-commerciale-favorable/\" target=\"_blank\">CAGOR -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1791273782_3",
       "timestamp": "2026-10-06T08:03:02.149723+00:00",
@@ -93,22 +107,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Index Fresh renforce son positionnement stratégique au sein de la filière de l&#x27;avocat -- <span class=\"news-date\">05/10/2026 13:57</span></div><div class=\"news-body\">L&#x27;entreprise Index Fresh profite du salon IFPA Global Produce &amp; Floral Show pour présenter l&#x27;expansion de son portefeuille d&#x27;avocats. Forte de 112 ans d&#x27;existence, la société met en avant son modèle axé sur les producteurs et sa spécialisation exclusive dans la catégorie avocat pour consolider sa position sur le marché. <span class=\"news-reason\">Mouvement stratégique d&#x27;un acteur majeur de l&#x27;avocat, produit clé de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9875353/history-and-focus-on-avocados-on-display/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Index Fresh strengthens its strategic positioning within the avocado industry -- <span class=\"news-date\">05/10/2026 13:57</span></div><div class=\"news-body\">The company Index Fresh is taking advantage of the IFPA Global Produce &amp; Floral Show to present the expansion of its avocado portfolio. With 112 years of history, the company highlights its grower-focused model and its exclusive specialization in the avocado category to consolidate its market position. <span class=\"news-reason\">Strategic movement of a major player in avocados, a key product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9875353/history-and-focus-on-avocados-on-display/\" target=\"_blank\">FreshPlaza -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות ברשתות שיווק</div><div class=\"news-title\">Index Fresh מחזקת את המיצוב האסטרטגי שלה בענף האבוקדו -- <span class=\"news-date\">05/10/2026 13:57</span></div><div class=\"news-body\">חברת Index Fresh מנצלת את תערוכת IFPA Global Produce &amp; Floral Show כדי להציג את הרחבת פורטפוליו האבוקדו שלה. עם ותק של 112 שנים, החברה מדגישה את המודל שלה הממוקד במגדלים ואת התמחותה הבלעדית בקטגוריית האבוקדו כדי לבסס את מעמדה בשוק. <span class=\"news-reason\">מהלך אסטרטגי של שחקן מרכזי בענף האבוקדו, מוצר מפתח של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9875353/history-and-focus-on-avocados-on-display/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791273782_2",
-      "timestamp": "2026-10-06T08:03:02.149723+00:00",
-      "title": "Forte progression des ventes d&#x27;oranges australiennes en Corée du Sud -- 05/10/2026 11:00",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "orange"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Forte progression des ventes d&#x27;oranges australiennes en Corée du Sud -- <span class=\"news-date\">05/10/2026 11:00</span></div><div class=\"news-body\">Une campagne de promotion menée par Austrade en Corée du Sud a entraîné une augmentation significative des ventes d&#x27;oranges australiennes. Grâce à des dégustations en magasin et des mises en avant chez les principaux détaillants, le secteur a enregistré une croissance à trois chiffres durant la période promotionnelle estivale. <span class=\"news-reason\">Informations sur les performances d&#x27;une origine concurrente sur le marché mondial des agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/05/australian-oranges/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Strong growth in Australian orange sales in South Korea -- <span class=\"news-date\">05/10/2026 11:00</span></div><div class=\"news-body\">A promotional campaign led by Austrade in South Korea has resulted in a significant increase in Australian orange sales. Through in-store tastings and highlights at major retailers, the sector recorded triple-digit growth during the summer promotional period. <span class=\"news-reason\">Information on the performance of a competing origin in the global citrus market.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/05/australian-oranges/\" target=\"_blank\">Fresh Fruit Portal -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עלייה חדה במכירות התפוזים האוסטרליים בדרום קוריאה -- <span class=\"news-date\">05/10/2026 11:00</span></div><div class=\"news-body\">קמפיין קידום מכירות שניהלה Austrade בדרום קוריאה הוביל לעלייה משמעותית במכירות התפוזים האוסטרליים. הודות לטעימות בחנויות והצגת המוצרים אצל הקמעונאים המובילים, הענף רשם צמיחה תלת-ספרתית במהלך תקופת המבצעים בקיץ. <span class=\"news-reason\">מידע על ביצועים של מקור מתחרה בשוק ההדרים העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/05/australian-oranges/\" target=\"_blank\">Fresh Fruit Portal -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1791273782_1",
@@ -167,7 +165,7 @@
     {
       "id": "1791262938_1",
       "timestamp": "2026-10-06T05:02:18.398627+00:00",
-      "title": "L&#x27;industrie des agrumes en Afrique du Sud confrontée à des difficultés financières",
+      "title": "La filière des agrumes en Afrique du Sud confrontée à des difficultés financières",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -176,7 +174,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;industrie des agrumes en Afrique du Sud confrontée à des difficultés financières -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">Alors que la récolte actuelle s&#x27;achève, les producteurs d&#x27;agrumes sud-africains font face à d&#x27;importantes difficultés de trésorerie pour préparer la saison 2027. La combinaison d&#x27;un taux de change défavorable et de l&#x27;augmentation des coûts de production limite les capacités de financement pour la fertilisation des sols, menaçant le potentiel de production futur. <span class=\"news-reason\">Alerte sur la pérennité de l&#x27;offre d&#x27;une origine concurrente majeure en raison de difficultés de trésorerie impactant les futures récoltes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La filière des agrumes en Afrique du Sud confrontée à des difficultés financières -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">Alors que la récolte actuelle s&#x27;achève, les producteurs d&#x27;agrumes sud-africains font face à d&#x27;importantes difficultés de trésorerie pour préparer la saison 2027. La combinaison d&#x27;un taux de change défavorable et de l&#x27;augmentation des coûts de production limite les capacités de financement pour la fertilisation des sols, menaçant le potentiel de production futur. <span class=\"news-reason\">Alerte sur la pérennité de l&#x27;offre d&#x27;une origine concurrente majeure en raison de difficultés de trésorerie impactant les futures récoltes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Financial tensions for citrus growers in South Africa -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">As the current harvest comes to an end, South African citrus producers are facing significant cash flow difficulties in preparing for the 2027 season. The combination of an unfavorable exchange rate and rising production costs is limiting financing capacities for soil fertilization, threatening future production potential. <span class=\"news-reason\">Alert on the sustainability of supply from a major competing origin due to cash flow difficulties impacting future harvests.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">קשיים פיננסיים למגדלי ההדרים בדרום אפריקה -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">בעוד הקטיף הנוכחי מסתיים, מגדלי ההדרים בדרום אפריקה מתמודדים עם קשיי נזילות משמעותיים לקראת ההכנות לעונת 2027. השילוב של שער חליפין לא נוח ועלייה בעלויות הייצור מגביל את יכולות המימון לדישון הקרקע, דבר המאיים על פוטנציאל הייצור העתידי. <span class=\"news-reason\">התראה על יציבות האספקה ממקור מתחרה מרכזי עקב קשיי תזרים מזומנים המשפיעים על היבולים העתידיים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -219,7 +217,7 @@
     {
       "id": "1791214340_0",
       "timestamp": "2026-10-05T15:32:20.557397+00:00",
-      "title": "Lancement de la campagne d&#x27;agrumes en Turquie : progression des volumes de pamplemousse",
+      "title": "Lancement de la campagne d&#x27;agrumes en Turquie : hausse des volumes de pamplemousse",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -232,7 +230,7 @@
       "origins": [
         "TUR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Lancement de la campagne d&#x27;agrumes en Turquie : progression des volumes de pamplemousse -- <span class=\"news-date\">05/10/2026 16:14</span></div><div class=\"news-body\">La saison 2026/27 en Turquie débute avec une disponibilité accrue de citrons et de pamplemousses. Cependant, l&#x27;offre de mandarines est annoncée comme plus limitée. Les exportateurs font face à une demande initiale faible et à des incertitudes logistiques concernant les expéditions vers le marché russe. <span class=\"news-reason\">Démarrage de campagne d&#x27;un concurrent direct sur le pamplemousse et la mandarine avec tendances de volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9879644/la-campana-turca-de-citricos-arranca-con-mayores-volumenes-de-limon-y-una-demanda-cautelosa/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Lancement de la campagne d&#x27;agrumes en Turquie : hausse des volumes de pamplemousse -- <span class=\"news-date\">05/10/2026 16:14</span></div><div class=\"news-body\">La saison 2026/27 en Turquie débute avec une disponibilité accrue de citrons et de pamplemousses. Cependant, l&#x27;offre de mandarines est annoncée comme plus limitée. Les exportateurs font face à une demande initiale faible et à des incertitudes logistiques concernant les expéditions vers le marché russe. <span class=\"news-reason\">Démarrage de campagne d&#x27;un concurrent direct sur le pamplemousse et la mandarine avec tendances de volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9879644/la-campana-turca-de-citricos-arranca-con-mayores-volumenes-de-limon-y-una-demanda-cautelosa/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Launch of the citrus campaign in Turkey: grapefruit volumes on the rise -- <span class=\"news-date\">05/10/2026 16:14</span></div><div class=\"news-body\">The 2026/27 season in Turkey begins with increased availability of lemons and grapefruits. However, the mandarin supply is reported to be more limited. Exporters are facing low initial demand and logistical uncertainties regarding shipments to the Russian market. <span class=\"news-reason\">Start of a campaign by a direct competitor in grapefruits and mandarins with volume trends.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9879644/la-campana-turca-de-citricos-arranca-con-mayores-volumenes-de-limon-y-una-demanda-cautelosa/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השקת עונת ההדרים בטורקיה: עלייה בכמויות האשכוליות -- <span class=\"news-date\">05/10/2026 16:14</span></div><div class=\"news-body\">עונת 2026/27 בטורקיה מתחילה עם זמינות מוגברת של לימונים ואשכוליות. עם זאת, היצע המנדרינות צפוי להיות מוגבל יותר. היצואנים מתמודדים עם ביקוש ראשוני נמוך ואי-ודאות לוגיסטית בנוגע למשלוחים לשוק הרוסי. <span class=\"news-reason\">תחילת עונה של מתחרה ישיר באשכוליות ומנדרינות עם מגמות של כמויות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9879644/la-campana-turca-de-citricos-arranca-con-mayores-volumenes-de-limon-y-una-demanda-cautelosa/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -481,24 +479,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Expansion des capacités frigorifiques au port de Callao au Pérou -- <span class=\"news-date\">02/10/2026 13:17</span></div><div class=\"news-body\">Un investissement de 231 millions de dollars a ete annonce pour moderniser le Terminal Nord du port de Callao au Perou. Le projet inclut une augmentation de 25 % du nombre de prises pour conteneurs frigorifiques (reefers) et la construction du quai 5C. Ces ameliorations visent directement a soutenir la croissance des exportations de produits frais vers les marches internationaux. <span class=\"news-reason\">Information strategique sur l&#x27;infrastructure d&#x27;une origine concurrente majeure pour les avocats et les mangues.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9879304/peru-s-callao-port-to-increase-reefer-plugs-by-25/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Expansion of cold storage capacities at the port of Callao in Peru -- <span class=\"news-date\">02/10/2026 13:17</span></div><div class=\"news-body\">An investment of 231 million dollars has been announced to modernize the North Terminal of the port of Callao in Peru. The project includes a 25% increase in the number of reefer plugs and the construction of pier 5C. These improvements are directly aimed at supporting the growth of fresh produce exports to international markets. <span class=\"news-reason\">Strategic information on the infrastructure of a major competing origin for avocados and mangoes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9879304/peru-s-callao-port-to-increase-reefer-plugs-by-25/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">הרחבת קיבולת הקירור בנמל קייאו בפרו -- <span class=\"news-date\">02/10/2026 13:17</span></div><div class=\"news-body\">הוכרזה השקעה של 231 מיליון דולר למודרניזציה של הטרמינל הצפוני בנמל קייאו שבפרו. הפרויקט כולל הגדלה של 25% במספר חיבורי החשמל למכולות קירור (reefers) והקמת רציף 5C. שיפורים אלו נועדו לתמוך ישירות בצמיחת יצוא התוצרת הטרייה לשווקים הבינלאומיים. <span class=\"news-reason\">מידע אסטרטגי על תשתיות במקור אספקה מתחרה מרכזי לאבוקדו ומנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9879304/peru-s-callao-port-to-increase-reefer-plugs-by-25/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791014729_1",
-      "timestamp": "2026-10-03T08:05:29.000476+00:00",
-      "title": "Restrictions environnementales sur les exportations d&#x27;avocats du Mexique -- 02/10/2026 13:17",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "MEX"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Restrictions environnementales sur les exportations d&#x27;avocats du Mexique -- <span class=\"news-date\">02/10/2026 13:17</span></div><div class=\"news-body\">Depuis le 1er octobre, le Mexique interdit l&#x27;exportation d&#x27;avocats cultivés dans des vergers implantés sur des zones déforestées. Cette régulation, appliquée par le ministère de l&#x27;Environnement, concerne prioritairement les régions de Michoacán et Jalisco. La mise en place de certificats de conformité vise à exclure ces fruits du marché international. <span class=\"news-reason\">Réglementation impactant l&#x27;offre d&#x27;un concurrent majeur sur l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9879186/mexico-bans-exports-of-avocados-grown-in-orchards-located-in-deforested-areas/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Environmental restrictions on avocado exports from Mexico -- <span class=\"news-date\">02/10/2026 13:17</span></div><div class=\"news-body\">Since October 1st, Mexico has prohibited the export of avocados grown in orchards established in deforested areas. This regulation, enforced by the Ministry of the Environment, primarily concerns the regions of Michoacán and Jalisco. The implementation of compliance certificates aims to exclude these fruits from the international market. <span class=\"news-reason\">Regulation impacting the supply of a major competitor in avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9879186/mexico-bans-exports-of-avocados-grown-in-orchards-located-in-deforested-areas/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">הגבלות סביבתיות על יצוא אבוקדו ממקסיקו -- <span class=\"news-date\">02/10/2026 13:17</span></div><div class=\"news-body\">מאז ה-1 באוקטובר, מקסיקו אוסרת על יצוא אבוקדו שגודל במטעים הממוקמים באזורים שעברו בירוא יערות. רגולציה זו, המיושמת על ידי המשרד לאיכות הסביבה, נוגעת בעיקר לאזורי מיצ'ואקאן וחליסקו. הנפקת תעודות התאמה נועדה להוציא פירות אלו מהשוק הבינלאומי. <span class=\"news-reason\">רגולציה המשפיעה על ההיצע של מתחרה מרכזי בתחום האבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9879186/mexico-bans-exports-of-avocados-grown-in-orchards-located-in-deforested-areas/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
