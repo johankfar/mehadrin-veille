@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-07T15:33:15.153143+00:00",
-  "article_count": 34,
+  "last_updated": "2026-10-07T17:05:54.805562+00:00",
+  "article_count": 35,
   "attention_points": [
     {
       "id": "attention-1d38f8c254c97ae2",
@@ -17,7 +17,24 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 2
+      "age_hours": 4
+    },
+    {
+      "id": "attention-d029562be6871f5e",
+      "article_id": "1791392754_1",
+      "url": "https://www.freshplaza.fr/article/9880547/c-etait-de-loin-notre-saison-la-plus-difficile/",
+      "source": "FreshPlaza FR",
+      "title": "Inondations et tensions logistiques pour l'origine Maroc",
+      "summary": "L'exportateur marocain AGCO fait état d'une campagne particulièrement difficile en raison d'inondations dans le nord du Maroc en début de saison.",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-10-07T15:00:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
+      "products": [],
+      "age_hours": 4
     },
     {
       "id": "attention-8c00c5d99af2c440",
@@ -36,7 +53,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 5
+      "age_hours": 6
     },
     {
       "id": "attention-b10b99cba0b1c043",
@@ -55,30 +72,24 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 11
-    },
-    {
-      "id": "attention-fc5d7718515a2515",
-      "article_id": "1791354762_0",
-      "url": "https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/",
-      "source": "FreshPlaza IT",
-      "title": "Baisse des rendements d'agrumes et d'avocats suite aux violentes",
-      "summary": "Les provinces de Valence et de Castellón ont été frappées par de violents orages accompagnés de pluie, de vent et de grêle.",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-10-07T06:05:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [
-        "avocat",
-        "orange"
-      ],
-      "age_hours": 11
+      "age_hours": 13
     }
   ],
   "articles": [
+    {
+      "id": "1791392754_1",
+      "timestamp": "2026-10-07T17:05:54.805562+00:00",
+      "title": "Impact des inondations sur les exportations de fruits au Maroc -- 07/10/2026 15:00",
+      "category": "ALERTES SUPPLY",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact des inondations sur les exportations de fruits au Maroc -- <span class=\"news-date\">07/10/2026 15:00</span></div><div class=\"news-body\">L&#x27;exportateur marocain AGCO fait état d&#x27;une campagne particulièrement difficile en raison d&#x27;inondations dans le nord du Maroc en début de saison. Ces intempéries, couplées à des tensions sur les marchés internationaux, ont lourdement impacté les capacités d&#x27;approvisionnement et de commercialisation de l&#x27;entreprise. <span class=\"news-reason\">Alerte sur les difficultés d&#x27;approvisionnement et de sourcing chez un concurrent direct.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9880547/c-etait-de-loin-notre-saison-la-plus-difficile/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Impact of floods on fruit exports in Morocco -- <span class=\"news-date\">07/10/2026 15:00</span></div><div class=\"news-body\">Moroccan exporter AGCO reports a particularly difficult season due to flooding in northern Morocco at the start of the season. These weather events, coupled with tensions on international markets, have heavily impacted the company&#x27;s supply and marketing capabilities. <span class=\"news-reason\">Alert on supply and sourcing difficulties at a direct competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9880547/c-etait-de-loin-notre-saison-la-plus-difficile/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השפעת השיטפונות על יצוא הפירות במרוקו -- <span class=\"news-date\">07/10/2026 15:00</span></div><div class=\"news-body\">היצואן המרוקאי AGCO מדווח על עונה קשה במיוחד בשל שיטפונות בצפון מרוקו בתחילת העונה. פגעי מזג אוויר אלו, יחד עם מתחים בשווקים הבינלאומיים, השפיעו קשות על יכולות האספקה והשיווק של החברה. <span class=\"news-reason\">התראה על קשיי אספקה ורכש אצל מתחרה ישיר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9880547/c-etait-de-loin-notre-saison-la-plus-difficile/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1791381834_1",
       "timestamp": "2026-10-07T14:03:54.875312+00:00",
@@ -114,7 +125,7 @@
     {
       "id": "1791376408_1",
       "timestamp": "2026-10-07T12:33:28.565817+00:00",
-      "title": "Transition de l’offre d’avocats : fin des campagnes du Pérou et d’Afrique du Sud",
+      "title": "Transition de l&#x27;offre en avocats : clôture des campagnes du Pérou et d&#x27;Afrique du Sud",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -127,7 +138,7 @@
         "PER",
         "CHL"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Transition de l’offre d’avocats : fin des campagnes du Pérou et d’Afrique du Sud -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">Les exportations d&#x27;avocats du Pérou et d&#x27;Afrique du Sud touchent à leur fin. L&#x27;importateur Worldwide Fruit estime que les arrivages péruviens devraient se terminer d&#x27;ici trois à quatre semaines. Le Chili a commencé ses expéditions et devrait couvrir la majorité des besoins en volumes durant les mois d&#x27;octobre et novembre. <span class=\"news-reason\">Calendrier précis de fin de campagne des origines concurrentes et début des expéditions chiliennes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880123/se-espera-que-chile-cubra-la-mayor-parte-de-nuestras-necesidades-de-volumen-durante-octubre-y-noviembre/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Transition de l&#x27;offre en avocats : clôture des campagnes du Pérou et d&#x27;Afrique du Sud -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">Les exportations d&#x27;avocats du Pérou et d&#x27;Afrique du Sud touchent à leur fin. L&#x27;importateur Worldwide Fruit estime que les arrivages péruviens devraient se terminer d&#x27;ici trois à quatre semaines. Le Chili a commencé ses expéditions et devrait couvrir la majorité des besoins en volumes durant les mois d&#x27;octobre et novembre. <span class=\"news-reason\">Calendrier précis de fin de campagne des origines concurrentes et début des expéditions chiliennes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880123/se-espera-que-chile-cubra-la-mayor-parte-de-nuestras-necesidades-de-volumen-durante-octubre-y-noviembre/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Avocado supply transition: end of Peru and South Africa campaigns -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">Avocado exports from Peru and South Africa are drawing to a close. Importer Worldwide Fruit estimates that Peruvian arrivals should end within three to four weeks. Chile has begun its shipments and is expected to cover the majority of volume needs during the months of October and November. <span class=\"news-reason\">Precise end-of-campaign schedule for competing origins and the start of Chilean shipments.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880123/se-espera-que-chile-cubra-la-mayor-parte-de-nuestras-necesidades-de-volumen-durante-octubre-y-noviembre/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מעבר בהיצע האבוקדו: סיום עונות השיווק של פרו ודרום אפריקה -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">יצוא האבוקדו מפרו ומדרום אפריקה מתקרב לסיומו. חברת היבוא Worldwide Fruit מעריכה כי המשלוחים מפרו צפויים להסתיים תוך שלושה עד ארבעה שבועות. צ'ילה החלה במשלוחים וצפויה לכסות את מרבית צרכי האספקה במהלך החודשים אוקטובר ונובמבר. <span class=\"news-reason\">לוח זמנים מדויק לסיום העונה של מקורות מתחרים ותחילת המשלוחים מצ'ילה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880123/se-espera-que-chile-cubra-la-mayor-parte-de-nuestras-necesidades-de-volumen-durante-octubre-y-noviembre/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -208,7 +219,7 @@
     {
       "id": "1791354762_0",
       "timestamp": "2026-10-07T06:32:42.335663+00:00",
-      "title": "Baisse des rendements d&#x27;agrumes et d&#x27;avocats suite aux violentes tempêtes en Espagne",
+      "title": "Baisse des rendements d&#x27;agrumes et d&#x27;avocats consécutive aux violentes tempêtes en Espagne",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia",
@@ -220,14 +231,14 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Baisse des rendements d&#x27;agrumes et d&#x27;avocats suite aux violentes tempêtes en Espagne -- <span class=\"news-date\">07/10/2026 06:05</span></div><div class=\"news-body\">Les provinces de Valence et de Castellón ont été frappées par de violents orages accompagnés de pluie, de vent et de grêle. Si la culture du kaki est la plus sévèrement touchée, des dégâts sont également signalés dans une moindre mesure sur les agrumes et les avocats. En plus des pertes de récolte, des glissements de terrain et des dommages aux infrastructures agricoles ont été constatés. <span class=\"news-reason\">Alerte sur la production d&#x27;agrumes et d&#x27;avocats (produits Mehadrin) suite à des intempéries dans une zone de production majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Baisse des rendements d&#x27;agrumes et d&#x27;avocats consécutive aux violentes tempêtes en Espagne -- <span class=\"news-date\">07/10/2026 06:05</span></div><div class=\"news-body\">Les provinces de Valence et de Castellón ont été frappées par de violents orages accompagnés de pluie, de vent et de grêle. Si la culture du kaki est la plus sévèrement touchée, des dégâts sont également signalés dans une moindre mesure sur les agrumes et les avocats. En plus des pertes de récolte, des glissements de terrain et des dommages aux infrastructures agricoles ont été constatés. <span class=\"news-reason\">Alerte sur la production d&#x27;agrumes et d&#x27;avocats (produits Mehadrin) suite à des intempéries dans une zone de production majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Lower citrus and avocado yields following violent storms in Spain -- <span class=\"news-date\">07/10/2026 06:05</span></div><div class=\"news-body\">The provinces of Valencia and Castellón were hit by violent storms accompanied by rain, wind, and hail. While persimmon cultivation is the most severely affected, damage is also reported to a lesser extent for citrus and avocados. In addition to crop losses, landslides and damage to agricultural infrastructure have been observed. <span class=\"news-reason\">Alert on citrus and avocado production (Mehadrin products) following bad weather in a major production area.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ירידה ביבולי הדרים ואבוקדו בעקבות סופות עזות בספרד -- <span class=\"news-date\">07/10/2026 06:05</span></div><div class=\"news-body\">מחוזות ולנסיה וקסטלון נפגעו מסופות רעמים עזות מלוות בגשם, רוח וברד. בעוד שגידולי האפרסמון הם הנפגעים הקשים ביותר, דווח גם על נזקים במידה פחותה להדרים ולאבוקדו. בנוסף לאובדן יבול, נרשמו מפולות בוץ ונזקים לתשתיות חקלאיות. <span class=\"news-reason\">התראה על ייצור הדרים ואבוקדו (מוצרי מהדרין) בעקבות מזג אוויר סוער באזור ייצור מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1791349365_2",
       "timestamp": "2026-10-07T05:02:45.822542+00:00",
-      "title": "NFG Fresh Food renforce son réseau de distribution en Allemagne via des accords d&#x27;exclusivité",
+      "title": "NFG Fresh Food renforce son réseau de distribution en Allemagne par des accords d’exclusivité",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [],
       "products": [],
@@ -236,7 +247,7 @@
         "ESP",
         "DEU"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">NFG Fresh Food renforce son réseau de distribution en Allemagne via des accords d&#x27;exclusivité -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">Le grossiste allemand NFG Fresh Food GmbH &amp; Co. KG a augmenté ses capacités logistiques sur le marché de gros de Hanovre. L&#x27;entreprise distribue désormais ses produits au niveau suprarégional, notamment vers Brême, en s&#x27;appuyant sur des accords d&#x27;approvisionnement exclusifs avec des producteurs situés en Italie et en Espagne. <span class=\"news-reason\">Expansion d&#x27;un distributeur allemand et nouveaux partenariats exclusifs en Italie et en Espagne, marchés clés pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">NFG Fresh Food renforce son réseau de distribution en Allemagne par des accords d’exclusivité -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">Le grossiste allemand NFG Fresh Food GmbH &amp; Co. KG a augmenté ses capacités logistiques sur le marché de gros de Hanovre. L&#x27;entreprise distribue désormais ses produits au niveau suprarégional, notamment vers Brême, en s&#x27;appuyant sur des accords d&#x27;approvisionnement exclusifs avec des producteurs situés en Italie et en Espagne. <span class=\"news-reason\">Expansion d&#x27;un distributeur allemand et nouveaux partenariats exclusifs en Italie et en Espagne, marchés clés pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">NFG Fresh Food consolidates its distribution in Germany through exclusive agreements -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">The German wholesaler NFG Fresh Food GmbH &amp; Co. KG has increased its logistical capacities at the Hanover wholesale market. The company now distributes its products supra-regionally, notably to Bremen, relying on exclusive supply agreements with producers located in Italy and Spain. <span class=\"news-reason\">Expansion of a German distributor and new exclusive partnerships in Italy and Spain, key markets for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות ברשתות השיווק</div><div class=\"news-title\">NFG Fresh Food מחזקת את ההפצה שלה בגרמניה באמצעות הסכמים בלעדיים -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">הסיטונאי הגרמני NFG Fresh Food GmbH &amp; Co. KG הגדיל את היכולות הלוגיסטיות שלו בשוק הסיטונאי של הנובר. החברה מפיצה כעת את מוצריה ברמה כלל-אזורית, במיוחד לברמן, תוך הסתמכות על הסכמי אספקה בלעדיים עם מגדלים באיטליה ובספרד. <span class=\"news-reason\">התרחבות של מפיץ גרמני ושותפויות בלעדיות חדשות באיטליה ובספרד, שווקי מפתח עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
