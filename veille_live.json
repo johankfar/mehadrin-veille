@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-10-06T14:02:09.351543+00:00",
-  "article_count": 25,
+  "last_updated": "2026-10-07T05:02:45.822542+00:00",
+  "article_count": 27,
   "attention_points": [
+    {
+      "id": "attention-d324dfabd68da3d9",
+      "article_id": "1791349365_1",
+      "url": "https://hortoinfo.es/comparativa-por-uso-de-plaguicidas-entre-8-productores-hortofruticolas-israel-el-que-mas-emplea-marruecos-el-que-menos/",
+      "source": "Hortoinfo",
+      "title": "Comparaison de l'utilisation des pesticides : Israël",
+      "summary": "Une étude sur l'intensité d'utilisation des pesticides par hectare de culture révèle des disparités importantes entre producteurs : Israël utilise 18,08 kg/ha, suivi par l'Italie (4,29 kg/ha), l'Égypte (3,22 kg/ha).",
+      "origin_code": "ITA",
+      "origin_label": "Italie",
+      "published_at": "2026-10-07T04:59:53+00:00",
+      "published_at_source": "rss",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
+      "products": [],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-975022283ca488a5",
+      "article_id": "1791349365_0",
+      "url": "https://www.agrimaroc.ma/alerte-orange-pour-des-orages-avec-grele-dans-plusieurs-provinces/",
+      "source": "AgriMaroc",
+      "title": "Alerte météorologique au Maroc : fortes pluies et grêle",
+      "summary": "Vigilance orange météo avec cumuls de 60 mm au sud",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-10-06T20:40:30+00:00",
+      "published_at_source": "rss",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
+      "products": [
+        "orange"
+      ],
+      "age_hours": 8
+    },
     {
       "id": "attention-08a1d1f0a7059bb6",
       "article_id": "1791295329_0",
@@ -17,7 +53,7 @@
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [],
-      "age_hours": 1
+      "age_hours": 16
     },
     {
       "id": "attention-d6f796379e9cf06e",
@@ -36,46 +72,63 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 1
-    },
-    {
-      "id": "attention-11d79ba1206541ea",
-      "article_id": "1791262938_2",
-      "url": "https://www.freshplaza.it/article/9880217/focus-sui-prodotti-trasformati-di-alta-qualita/",
-      "source": "FreshPlaza IT",
-      "title": "Promotion de l'orange sanguine de Sicile au salon Fruit",
-      "summary": "Focus sur le développement des débouchés pour les produits transformés.",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
-      "published_at": "2026-10-06T06:05:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "information",
-      "signal_label": "Information",
-      "icon": "information",
-      "products": [
-        "orange"
-      ],
-      "age_hours": 9
-    },
-    {
-      "id": "attention-de94e3d8a7e28555",
-      "article_id": "1791262938_1",
-      "url": "https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/",
-      "source": "FreshPlaza IT",
-      "title": "La filière agrumicole d'Afrique du Sud confrontée",
-      "summary": "La hausse des coûts freine la préparation des vergers.",
-      "origin_code": "ZAF",
-      "origin_label": "Afrique du Sud",
-      "published_at": "2026-10-06T06:05:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [],
-      "age_hours": 9
+      "age_hours": 16
     }
   ],
   "articles": [
+    {
+      "id": "1791349365_2",
+      "timestamp": "2026-10-07T05:02:45.822542+00:00",
+      "title": "NFG Fresh Food consolide sa distribution en Allemagne via des accords exclusifs",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "ITA",
+        "ESP",
+        "DEU"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">NFG Fresh Food consolide sa distribution en Allemagne via des accords exclusifs -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">Le grossiste allemand NFG Fresh Food GmbH &amp; Co. KG a augmenté ses capacités logistiques sur le marché de gros de Hanovre. L&#x27;entreprise distribue désormais ses produits au niveau suprarégional, notamment vers Brême, en s&#x27;appuyant sur des accords d&#x27;approvisionnement exclusifs avec des producteurs situés en Italie et en Espagne. <span class=\"news-reason\">Expansion d&#x27;un distributeur allemand et nouveaux partenariats exclusifs en Italie et en Espagne, marchés clés pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">NFG Fresh Food consolidates its distribution in Germany through exclusive agreements -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">The German wholesaler NFG Fresh Food GmbH &amp; Co. KG has increased its logistical capacities at the Hanover wholesale market. The company now distributes its products supra-regionally, notably to Bremen, relying on exclusive supply agreements with producers located in Italy and Spain. <span class=\"news-reason\">Expansion of a German distributor and new exclusive partnerships in Italy and Spain, key markets for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות ברשתות השיווק</div><div class=\"news-title\">NFG Fresh Food מחזקת את ההפצה שלה בגרמניה באמצעות הסכמים בלעדיים -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">הסיטונאי הגרמני NFG Fresh Food GmbH &amp; Co. KG הגדיל את היכולות הלוגיסטיות שלו בשוק הסיטונאי של הנובר. החברה מפיצה כעת את מוצריה ברמה כלל-אזורית, במיוחד לברמן, תוך הסתמכות על הסכמי אספקה בלעדיים עם מגדלים באיטליה ובספרד. <span class=\"news-reason\">התרחבות של מפיץ גרמני ושותפויות בלעדיות חדשות באיטליה ובספרד, שווקי מפתח עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791349365_1",
+      "timestamp": "2026-10-07T05:02:45.822542+00:00",
+      "title": "Comparaison de l&#x27;utilisation des pesticides : Israël et le Maroc aux deux extrêmes -- 07/10/2026 04:59",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "ITA",
+        "MAR",
+        "ISR",
+        "EGY",
+        "TUR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Comparaison de l&#x27;utilisation des pesticides : Israël et le Maroc aux deux extrêmes -- <span class=\"news-date\">07/10/2026 04:59</span></div><div class=\"news-body\">Une étude sur l&#x27;intensité d&#x27;utilisation des pesticides par hectare de culture révèle des disparités importantes entre producteurs : Israël utilise 18,08 kg/ha, suivi par l&#x27;Italie (4,29 kg/ha), l&#x27;Égypte (3,22 kg/ha) et la Turquie (2,21 kg/ha). Le Maroc enregistre l&#x27;utilisation la plus faible avec 1,52 kg/ha. <span class=\"news-reason\">Analyse comparative de l&#x27;utilisation de pesticides incluant Israël et ses principaux concurrents (Maroc, Égypte, Turquie).</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/comparativa-por-uso-de-plaguicidas-entre-8-productores-hortofruticolas-israel-el-que-mas-emplea-marruecos-el-que-menos/\" target=\"_blank\">Hortoinfo -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Pesticide use comparison: Israel and Morocco at two extremes -- <span class=\"news-date\">07/10/2026 04:59</span></div><div class=\"news-body\">A study on the intensity of pesticide use per hectare of crops reveals significant disparities between producers: Israel uses 18.08 kg/ha, followed by Italy (4.29 kg/ha), Egypt (3.22 kg/ha) and Turkey (2.21 kg/ha). Morocco records the lowest use with 1.52 kg/ha. <span class=\"news-reason\">Comparative analysis of pesticide use including Israel and its main competitors (Morocco, Egypt, Turkey).</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/comparativa-por-uso-de-plaguicidas-entre-8-productores-hortofruticolas-israel-el-que-mas-emplea-marruecos-el-que-menos/\" target=\"_blank\">Hortoinfo -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השוואת השימוש בחומרי הדברה: ישראל ומרוקו בשני הקצוות -- <span class=\"news-date\">07/10/2026 04:59</span></div><div class=\"news-body\">מחקר על עוצמת השימוש בחומרי הדברה להקטר של גידול חושף פערים משמעותיים בין היצרנים: ישראל משתמשת ב-18.08 ק\"ג/הקטר, אחריה איטליה (4.29 ק\"ג/הקטר), מצרים (3.22 ק\"ג/הקטר) וטורקיה (2.21 ק\"ג/הקטר). מרוקו רושמת את השימוש הנמוך ביותר עם 1.52 ק\"ג/הקטר. <span class=\"news-reason\">ניתוח השוואתי של השימוש בחומרי הדברה הכולל את ישראל ומתחרותיה העיקריות (מרוקו, מצרים, טורקיה).</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/comparativa-por-uso-de-plaguicidas-entre-8-productores-hortofruticolas-israel-el-que-mas-emplea-marruecos-el-que-menos/\" target=\"_blank\">Hortoinfo -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791349365_0",
+      "timestamp": "2026-10-07T05:02:45.822542+00:00",
+      "title": "Alerte météorologique au Maroc : fortes pluies et grêle attendues dans le Sud -- 06/10/2026 20:40",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia",
+        "Sébastien"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Alerte météorologique au Maroc : fortes pluies et grêle attendues dans le Sud -- <span class=\"news-date\">06/10/2026 20:40</span></div><div class=\"news-body\">La Direction générale de la météorologie marocaine a émis un bulletin de vigilance orange pour les 6 et 7 octobre. Des averses orageuses accompagnées de grêle et de rafales de vent sont attendues, avec des cumuls de pluie pouvant atteindre 60 mm dans certaines provinces du Sud du Royaume. <span class=\"news-reason\">Alerte de vigilance orange concernant des intempéries (grêle, vent) pouvant impacter les zones de production au Maroc.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/alerte-orange-pour-des-orages-avec-grele-dans-plusieurs-provinces/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Weather alert in Morocco: heavy rain and hail expected in the South -- <span class=\"news-date\">06/10/2026 20:40</span></div><div class=\"news-body\">The Moroccan General Directorate of Meteorology has issued an orange vigilance bulletin for October 6 and 7. Thundershowers accompanied by hail and wind gusts are expected, with rainfall totals potentially reaching 60 mm in certain southern provinces of the Kingdom. <span class=\"news-reason\">Orange vigilance alert concerning severe weather (hail, wind) that could impact production areas in Morocco.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/alerte-orange-pour-des-orages-avec-grele-dans-plusieurs-provinces/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">התראת מזג אוויר במרוקו: גשמים עזים וברד צפויים בדרום -- <span class=\"news-date\">06/10/2026 20:40</span></div><div class=\"news-body\">השירות המטאורולוגי המרוקאי פרסם התראת \"כתום\" לתאריכים 6 ו-7 באוקטובר. צפויים ממטרי סופות רעמים מלווים בברד ובמשבי רוח, עם כמויות גשם העלולות להגיע ל-60 מ\"מ במחוזות מסוימים בדרום הממלכה. <span class=\"news-reason\">התראת \"כתום\" בנוגע למזג אוויר סוער (ברד, רוח) העלול להשפיע על אזורי הייצור במרוקו.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/alerte-orange-pour-des-orages-avec-grele-dans-plusieurs-provinces/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1791295329_0",
       "timestamp": "2026-10-06T14:02:09.351543+00:00",
@@ -229,7 +282,7 @@
     {
       "id": "1791262938_1",
       "timestamp": "2026-10-06T05:02:18.398627+00:00",
-      "title": "La filière agrumicole d&#x27;Afrique du Sud confrontée à des difficultés financières",
+      "title": "La filière agrumicole d’Afrique du Sud confrontée à des difficultés financières",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -238,7 +291,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La filière agrumicole d&#x27;Afrique du Sud confrontée à des difficultés financières -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">Alors que la récolte actuelle s&#x27;achève, les producteurs d&#x27;agrumes sud-africains font face à d&#x27;importantes difficultés de trésorerie pour préparer la saison 2027. La combinaison d&#x27;un taux de change défavorable et de l&#x27;augmentation des coûts de production limite les capacités de financement pour la fertilisation des sols, menaçant le potentiel de production futur. <span class=\"news-reason\">Alerte sur la pérennité de l&#x27;offre d&#x27;une origine concurrente majeure en raison de difficultés de trésorerie impactant les futures récoltes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La filière agrumicole d’Afrique du Sud confrontée à des difficultés financières -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">Alors que la récolte actuelle s&#x27;achève, les producteurs d&#x27;agrumes sud-africains font face à d&#x27;importantes difficultés de trésorerie pour préparer la saison 2027. La combinaison d&#x27;un taux de change défavorable et de l&#x27;augmentation des coûts de production limite les capacités de financement pour la fertilisation des sols, menaçant le potentiel de production futur. <span class=\"news-reason\">Alerte sur la pérennité de l&#x27;offre d&#x27;une origine concurrente majeure en raison de difficultés de trésorerie impactant les futures récoltes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Financial tensions for citrus growers in South Africa -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">As the current harvest comes to an end, South African citrus producers are facing significant cash flow difficulties in preparing for the 2027 season. The combination of an unfavorable exchange rate and rising production costs is limiting financing capacities for soil fertilization, threatening future production potential. <span class=\"news-reason\">Alert on the sustainability of supply from a major competing origin due to cash flow difficulties impacting future harvests.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">קשיים פיננסיים למגדלי ההדרים בדרום אפריקה -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">בעוד הקטיף הנוכחי מסתיים, מגדלי ההדרים בדרום אפריקה מתמודדים עם קשיי נזילות משמעותיים לקראת ההכנות לעונת 2027. השילוב של שער חליפין לא נוח ועלייה בעלויות הייצור מגביל את יכולות המימון לדישון הקרקע, דבר המאיים על פוטנציאל הייצור העתידי. <span class=\"news-reason\">התראה על יציבות האספקה ממקור מתחרה מרכזי עקב קשיי תזרים מזומנים המשפיעים על היבולים העתידיים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -494,7 +547,7 @@
     {
       "id": "1791176531_0",
       "timestamp": "2026-10-05T05:02:11.731850+00:00",
-      "title": "Melon de Cavaillon : bilan positif et croissance des volumes",
+      "title": "Melon de Cavaillon : bilan positif et progression des volumes",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Sébastien"
@@ -503,27 +556,9 @@
         "melon"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Melon de Cavaillon : bilan positif et croissance des volumes -- <span class=\"news-date\">05/10/2026 06:00</span></div><div class=\"news-body\">La saison 2026 du melon de Cavaillon se termine sur un bilan positif avec une augmentation significative des volumes commercialisés sous marque. Selon le Syndicat des Maîtres Melonniers, cette hausse de disponibilité a caractérisé la fin de campagne. <span class=\"news-reason\">Analyse de fin de campagne sur un produit concurrent direct de la gamme Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878722/la-stagione-2026-del-melone-di-cavaillon-e-stata-caratterizzata-da-un-netto-aumento-dei-volumi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Melon de Cavaillon : bilan positif et progression des volumes -- <span class=\"news-date\">05/10/2026 06:00</span></div><div class=\"news-body\">La saison 2026 du melon de Cavaillon se termine sur un bilan positif avec une augmentation significative des volumes commercialisés sous marque. Selon le Syndicat des Maîtres Melonniers, cette hausse de disponibilité a caractérisé la fin de campagne. <span class=\"news-reason\">Analyse de fin de campagne sur un produit concurrent direct de la gamme Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878722/la-stagione-2026-del-melone-di-cavaillon-e-stata-caratterizzata-da-un-netto-aumento-dei-volumi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Positive results and volume growth for Cavaillon melon -- <span class=\"news-date\">05/10/2026 06:00</span></div><div class=\"news-body\">The 2026 Cavaillon melon season ends with a positive result and a significant increase in volumes marketed under the brand. According to the Syndicat des Maîtres Melonniers, this increase in availability characterized the end of the campaign. <span class=\"news-reason\">End-of-campaign analysis on a product that is a direct competitor to the Mehadrin range.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878722/la-stagione-2026-del-melone-di-cavaillon-e-stata-caratterizzata-da-un-netto-aumento-dei-volumi/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מאזן חיובי וגידול בנפחים עבור מלון קאבאיו -- <span class=\"news-date\">05/10/2026 06:00</span></div><div class=\"news-body\">עונת 2026 של מלון קאבאיו מסתיימת בסיכום חיובי עם עלייה משמעותית בנפחים המשווקים תחת המותג. על פי איגוד מאסטרי המלונים, עלייה זו בזמינות אפיינה את סוף העונה. <span class=\"news-reason\">ניתוח סוף עונה עבור מוצר המתחרה ישירות בקו המוצרים של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878722/la-stagione-2026-del-melone-di-cavaillon-e-stata-caratterizzata-da-un-netto-aumento-dei-volumi/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791052371_0",
-      "timestamp": "2026-10-03T18:32:51.472991+00:00",
-      "title": "Démarrage de la saison des melons brésiliens vers le marché européen -- 02/10/2026 14:56",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Sébastien"
-      ],
-      "products": [
-        "melon"
-      ],
-      "origins": [
-        "BRA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Démarrage de la saison des melons brésiliens vers le marché européen -- <span class=\"news-date\">02/10/2026 14:56</span></div><div class=\"news-body\">Les premiers melons brésiliens de la saison sont arrivés au port de Rotterdam durant la semaine 38. Les exportateurs signalent une situation de départ plus favorable que l&#x27;an passé. Toutefois, une accélération de la demande sur le marché intérieur brésilien est observée, ce qui pourrait influencer la disponibilité des volumes destinés à l&#x27;exportation européenne. <span class=\"news-reason\">Information pertinente sur le début de campagne d&#x27;une origine concurrente pour un produit Mehadrin (melon) vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9878060/bon-demarrage-de-la-saison-des-melons-bresiliens-alors-que-la-demande-interieure-s-accelere/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Start of the Brazilian melon season for the European market -- <span class=\"news-date\">02/10/2026 14:56</span></div><div class=\"news-body\">The first Brazilian melons of the season arrived at the port of Rotterdam during week 38. Exporters report a more favorable starting situation than last year. However, an acceleration in demand on the Brazilian domestic market is being observed, which could influence the availability of volumes destined for European exports. <span class=\"news-reason\">Relevant information on the start of the campaign of a competing origin for a Mehadrin product (melon) to Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9878060/bon-demarrage-de-la-saison-des-melons-bresiliens-alors-que-la-demande-interieure-s-accelere/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">תחילת עונת המלונים הברזילאיים לשוק האירופי -- <span class=\"news-date\">02/10/2026 14:56</span></div><div class=\"news-body\">המלונים הברזילאיים הראשונים של העונה הגיעו לנמל רוטרדם במהלך שבוע 38. היצואנים מדווחים על נקודת פתיחה טובה יותר מאשר בשנה שעברה. עם זאת, נרשמה עלייה בביקוש בשוק המקומי בברזיל, מה שעלול להשפיע על זמינות הכמויות המיועדות לייצוא לאירופה. <span class=\"news-reason\">מידע רלוונטי על תחילת העונה של מקור מתחרה עבור מוצר מהדרין (מלון) לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9878060/bon-demarrage-de-la-saison-des-melons-bresiliens-alors-que-la-demande-interieure-s-accelere/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
