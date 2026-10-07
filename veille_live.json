@@ -1,59 +1,43 @@
 {
-  "last_updated": "2026-10-07T05:02:45.822542+00:00",
-  "article_count": 27,
+  "last_updated": "2026-10-07T06:32:42.335663+00:00",
+  "article_count": 28,
   "attention_points": [
     {
-      "id": "attention-d324dfabd68da3d9",
-      "article_id": "1791349365_1",
-      "url": "https://hortoinfo.es/comparativa-por-uso-de-plaguicidas-entre-8-productores-hortofruticolas-israel-el-que-mas-emplea-marruecos-el-que-menos/",
-      "source": "Hortoinfo",
-      "title": "Comparaison de l'utilisation des pesticides : Israël",
-      "summary": "Une étude sur l'intensité d'utilisation des pesticides par hectare de culture révèle des disparités importantes entre producteurs : Israël utilise 18,08 kg/ha, suivi par l'Italie (4,29 kg/ha), l'Égypte (3,22 kg/ha).",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
-      "published_at": "2026-10-07T04:59:53+00:00",
-      "published_at_source": "rss",
-      "signal_type": "information",
-      "signal_label": "Information",
-      "icon": "information",
-      "products": [],
-      "age_hours": 0
-    },
-    {
-      "id": "attention-975022283ca488a5",
-      "article_id": "1791349365_0",
-      "url": "https://www.agrimaroc.ma/alerte-orange-pour-des-orages-avec-grele-dans-plusieurs-provinces/",
-      "source": "AgriMaroc",
-      "title": "Alerte météorologique au Maroc : fortes pluies et grêle",
-      "summary": "Vigilance orange météo avec cumuls de 60 mm au sud",
-      "origin_code": "MAR",
-      "origin_label": "Maroc",
-      "published_at": "2026-10-06T20:40:30+00:00",
+      "id": "attention-fc5d7718515a2515",
+      "article_id": "1791354762_0",
+      "url": "https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/",
+      "source": "FreshPlaza IT",
+      "title": "Baisse des rendements d'agrumes et d'avocats consécutive aux violentes",
+      "summary": "Les provinces de Valence et de Castellón ont été frappées par de violents orages accompagnés de pluie, de vent et de grêle.",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
+      "published_at": "2026-10-07T06:05:00+02:00",
       "published_at_source": "rss",
       "signal_type": "weather",
       "signal_label": "Météo",
       "icon": "weather",
       "products": [
+        "avocat",
         "orange"
       ],
-      "age_hours": 8
+      "age_hours": 2
     },
     {
-      "id": "attention-08a1d1f0a7059bb6",
-      "article_id": "1791295329_0",
-      "url": "https://www.hortidaily.com/article/9880485/morocco-s-agricultural-film-shortage-eases-but-raw-material-supply-remains-structurally-tight/",
-      "source": "HortiDaily",
-      "title": "Persistance de la pénurie de films plastiques agricoles",
-      "summary": "Bien que la phase aiguë de la pénurie de films plastiques agricoles au Maroc semble s'atténuer, le problème de fond concernant l'approvisionnement en matières premières reste structurellement tendu.",
-      "origin_code": "MAR",
-      "origin_label": "Maroc",
-      "published_at": "2026-10-06T14:13:00+02:00",
+      "id": "attention-0adc581b39b5a22e",
+      "article_id": "1791349365_2",
+      "url": "https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/",
+      "source": "FreshPlaza ES",
+      "title": "NFG Fresh Food renforce sa distribution en Allemagne via",
+      "summary": "Le grossiste allemand NFG Fresh Food GmbH & Co.",
+      "origin_code": "ITA",
+      "origin_label": "Italie",
+      "published_at": "2026-10-06T15:26:00+02:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [],
-      "age_hours": 16
+      "age_hours": 17
     },
     {
       "id": "attention-d6f796379e9cf06e",
@@ -72,14 +56,70 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 16
+      "age_hours": 18
+    },
+    {
+      "id": "attention-11d79ba1206541ea",
+      "article_id": "1791262938_2",
+      "url": "https://www.freshplaza.it/article/9880217/focus-sui-prodotti-trasformati-di-alta-qualita/",
+      "source": "FreshPlaza IT",
+      "title": "Promotion de l'orange sanguine de Sicile au salon Fruit",
+      "summary": "Focus sur le développement des débouchés pour les produits transformés.",
+      "origin_code": "ITA",
+      "origin_label": "Italie",
+      "published_at": "2026-10-06T06:05:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
+      "products": [
+        "orange"
+      ],
+      "age_hours": 26
     }
   ],
   "articles": [
     {
+      "id": "1791354762_1",
+      "timestamp": "2026-10-07T06:32:42.335663+00:00",
+      "title": "Stratégie d&#x27;expansion de la production de Mehadrin Holland dans l&#x27;hémisphère sud",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "NLD"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Stratégie d&#x27;expansion de la production de Mehadrin Holland dans l&#x27;hémisphère sud -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">Mehadrin Holland prévoit d&#x27;étendre ses surfaces de production à l&#x27;international pour limiter sa dépendance à une seule origine ou saison. Anthony de Cuba, nouveau directeur général, souligne la nécessité de renforcer la présence dans l&#x27;hémisphère sud afin de garantir un programme d&#x27;approvisionnement en avocats disponible tout au long de l&#x27;année. <span class=\"news-reason\">Information stratégique sur l&#x27;expansion de l&#x27;entreprise et la sécurisation de l&#x27;approvisionnement annuel en avocats.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9879676/si-quieres-desarrollar-un-programa-de-aguacate-verdaderamente-anual-tambien-necesitas-presencia-en-el-hemisferio-sur/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Mehadrin Holland&#x27;s production expansion strategy in the Southern Hemisphere -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">Mehadrin Holland plans to expand its international production areas to limit its dependence on a single origin or season. Anthony de Cuba, the new general manager, emphasizes the need to strengthen its presence in the Southern Hemisphere to ensure an avocado supply program available year-round. <span class=\"news-reason\">Strategic information on the company&#x27;s expansion and securing annual avocado supply.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9879676/si-quieres-desarrollar-un-programa-de-aguacate-verdaderamente-anual-tambien-necesitas-presencia-en-el-hemisferio-sur/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות</div><div class=\"news-title\">אסטרטגיית התרחבות הייצור של מהדרין הולנד בחצי הכדור הדרומי -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">מהדרין הולנד מתכננת להרחיב את שטחי הייצור הבינלאומיים שלה כדי להפחית את התלות במקור יחיד או בעונה בודדת. אנתוני דה קובה, המנכ\"ל החדש, מדגיש את הצורך בחיזוק הנוכחות בחצי הכדור הדרומי כדי להבטיח תוכנית אספקת אבוקדו זמינה לאורך כל השנה. <span class=\"news-reason\">מידע אסטרטגי על התרחבות החברה ואבטחת אספקת האבוקדו השנתית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9879676/si-quieres-desarrollar-un-programa-de-aguacate-verdaderamente-anual-tambien-necesitas-presencia-en-el-hemisferio-sur/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791354762_0",
+      "timestamp": "2026-10-07T06:32:42.335663+00:00",
+      "title": "Baisse des rendements d&#x27;agrumes et d&#x27;avocats consécutive aux violentes tempêtes en Espagne",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia",
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Baisse des rendements d&#x27;agrumes et d&#x27;avocats consécutive aux violentes tempêtes en Espagne -- <span class=\"news-date\">07/10/2026 06:05</span></div><div class=\"news-body\">Les provinces de Valence et de Castellón ont été frappées par de violents orages accompagnés de pluie, de vent et de grêle. Si la culture du kaki est la plus sévèrement touchée, des dégâts sont également signalés dans une moindre mesure sur les agrumes et les avocats. En plus des pertes de récolte, des glissements de terrain et des dommages aux infrastructures agricoles ont été constatés. <span class=\"news-reason\">Alerte sur la production d&#x27;agrumes et d&#x27;avocats (produits Mehadrin) suite à des intempéries dans une zone de production majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Lower citrus and avocado yields following violent storms in Spain -- <span class=\"news-date\">07/10/2026 06:05</span></div><div class=\"news-body\">The provinces of Valencia and Castellón were hit by violent storms accompanied by rain, wind, and hail. While persimmon cultivation is the most severely affected, damage is also reported to a lesser extent for citrus and avocados. In addition to crop losses, landslides and damage to agricultural infrastructure have been observed. <span class=\"news-reason\">Alert on citrus and avocado production (Mehadrin products) following bad weather in a major production area.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ירידה ביבולי הדרים ואבוקדו בעקבות סופות עזות בספרד -- <span class=\"news-date\">07/10/2026 06:05</span></div><div class=\"news-body\">מחוזות ולנסיה וקסטלון נפגעו מסופות רעמים עזות מלוות בגשם, רוח וברד. בעוד שגידולי האפרסמון הם הנפגעים הקשים ביותר, דווח גם על נזקים במידה פחותה להדרים ולאבוקדו. בנוסף לאובדן יבול, נרשמו מפולות בוץ ונזקים לתשתיות חקלאיות. <span class=\"news-reason\">התראה על ייצור הדרים ואבוקדו (מוצרי מהדרין) בעקבות מזג אוויר סוער באזור ייצור מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
+    {
       "id": "1791349365_2",
       "timestamp": "2026-10-07T05:02:45.822542+00:00",
-      "title": "NFG Fresh Food consolide sa distribution en Allemagne via des accords exclusifs",
+      "title": "NFG Fresh Food renforce sa distribution en Allemagne via des accords exclusifs",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [],
       "products": [],
@@ -88,27 +128,9 @@
         "ESP",
         "DEU"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">NFG Fresh Food consolide sa distribution en Allemagne via des accords exclusifs -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">Le grossiste allemand NFG Fresh Food GmbH &amp; Co. KG a augmenté ses capacités logistiques sur le marché de gros de Hanovre. L&#x27;entreprise distribue désormais ses produits au niveau suprarégional, notamment vers Brême, en s&#x27;appuyant sur des accords d&#x27;approvisionnement exclusifs avec des producteurs situés en Italie et en Espagne. <span class=\"news-reason\">Expansion d&#x27;un distributeur allemand et nouveaux partenariats exclusifs en Italie et en Espagne, marchés clés pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">NFG Fresh Food renforce sa distribution en Allemagne via des accords exclusifs -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">Le grossiste allemand NFG Fresh Food GmbH &amp; Co. KG a augmenté ses capacités logistiques sur le marché de gros de Hanovre. L&#x27;entreprise distribue désormais ses produits au niveau suprarégional, notamment vers Brême, en s&#x27;appuyant sur des accords d&#x27;approvisionnement exclusifs avec des producteurs situés en Italie et en Espagne. <span class=\"news-reason\">Expansion d&#x27;un distributeur allemand et nouveaux partenariats exclusifs en Italie et en Espagne, marchés clés pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">NFG Fresh Food consolidates its distribution in Germany through exclusive agreements -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">The German wholesaler NFG Fresh Food GmbH &amp; Co. KG has increased its logistical capacities at the Hanover wholesale market. The company now distributes its products supra-regionally, notably to Bremen, relying on exclusive supply agreements with producers located in Italy and Spain. <span class=\"news-reason\">Expansion of a German distributor and new exclusive partnerships in Italy and Spain, key markets for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות ברשתות השיווק</div><div class=\"news-title\">NFG Fresh Food מחזקת את ההפצה שלה בגרמניה באמצעות הסכמים בלעדיים -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">הסיטונאי הגרמני NFG Fresh Food GmbH &amp; Co. KG הגדיל את היכולות הלוגיסטיות שלו בשוק הסיטונאי של הנובר. החברה מפיצה כעת את מוצריה ברמה כלל-אזורית, במיוחד לברמן, תוך הסתמכות על הסכמי אספקה בלעדיים עם מגדלים באיטליה ובספרד. <span class=\"news-reason\">התרחבות של מפיץ גרמני ושותפויות בלעדיות חדשות באיטליה ובספרד, שווקי מפתח עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791349365_1",
-      "timestamp": "2026-10-07T05:02:45.822542+00:00",
-      "title": "Comparaison de l&#x27;utilisation des pesticides : Israël et le Maroc aux deux extrêmes -- 07/10/2026 04:59",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [],
-      "products": [],
-      "origins": [
-        "ITA",
-        "MAR",
-        "ISR",
-        "EGY",
-        "TUR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Comparaison de l&#x27;utilisation des pesticides : Israël et le Maroc aux deux extrêmes -- <span class=\"news-date\">07/10/2026 04:59</span></div><div class=\"news-body\">Une étude sur l&#x27;intensité d&#x27;utilisation des pesticides par hectare de culture révèle des disparités importantes entre producteurs : Israël utilise 18,08 kg/ha, suivi par l&#x27;Italie (4,29 kg/ha), l&#x27;Égypte (3,22 kg/ha) et la Turquie (2,21 kg/ha). Le Maroc enregistre l&#x27;utilisation la plus faible avec 1,52 kg/ha. <span class=\"news-reason\">Analyse comparative de l&#x27;utilisation de pesticides incluant Israël et ses principaux concurrents (Maroc, Égypte, Turquie).</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/comparativa-por-uso-de-plaguicidas-entre-8-productores-hortofruticolas-israel-el-que-mas-emplea-marruecos-el-que-menos/\" target=\"_blank\">Hortoinfo -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Pesticide use comparison: Israel and Morocco at two extremes -- <span class=\"news-date\">07/10/2026 04:59</span></div><div class=\"news-body\">A study on the intensity of pesticide use per hectare of crops reveals significant disparities between producers: Israel uses 18.08 kg/ha, followed by Italy (4.29 kg/ha), Egypt (3.22 kg/ha) and Turkey (2.21 kg/ha). Morocco records the lowest use with 1.52 kg/ha. <span class=\"news-reason\">Comparative analysis of pesticide use including Israel and its main competitors (Morocco, Egypt, Turkey).</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/comparativa-por-uso-de-plaguicidas-entre-8-productores-hortofruticolas-israel-el-que-mas-emplea-marruecos-el-que-menos/\" target=\"_blank\">Hortoinfo -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השוואת השימוש בחומרי הדברה: ישראל ומרוקו בשני הקצוות -- <span class=\"news-date\">07/10/2026 04:59</span></div><div class=\"news-body\">מחקר על עוצמת השימוש בחומרי הדברה להקטר של גידול חושף פערים משמעותיים בין היצרנים: ישראל משתמשת ב-18.08 ק\"ג/הקטר, אחריה איטליה (4.29 ק\"ג/הקטר), מצרים (3.22 ק\"ג/הקטר) וטורקיה (2.21 ק\"ג/הקטר). מרוקו רושמת את השימוש הנמוך ביותר עם 1.52 ק\"ג/הקטר. <span class=\"news-reason\">ניתוח השוואתי של השימוש בחומרי הדברה הכולל את ישראל ומתחרותיה העיקריות (מרוקו, מצרים, טורקיה).</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/comparativa-por-uso-de-plaguicidas-entre-8-productores-hortofruticolas-israel-el-que-mas-emplea-marruecos-el-que-menos/\" target=\"_blank\">Hortoinfo -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1791349365_0",
@@ -282,7 +304,7 @@
     {
       "id": "1791262938_1",
       "timestamp": "2026-10-06T05:02:18.398627+00:00",
-      "title": "La filière agrumicole d’Afrique du Sud confrontée à des difficultés financières",
+      "title": "L’industrie agrumicole d’Afrique du Sud face à des difficultés financières",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -291,7 +313,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La filière agrumicole d’Afrique du Sud confrontée à des difficultés financières -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">Alors que la récolte actuelle s&#x27;achève, les producteurs d&#x27;agrumes sud-africains font face à d&#x27;importantes difficultés de trésorerie pour préparer la saison 2027. La combinaison d&#x27;un taux de change défavorable et de l&#x27;augmentation des coûts de production limite les capacités de financement pour la fertilisation des sols, menaçant le potentiel de production futur. <span class=\"news-reason\">Alerte sur la pérennité de l&#x27;offre d&#x27;une origine concurrente majeure en raison de difficultés de trésorerie impactant les futures récoltes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L’industrie agrumicole d’Afrique du Sud face à des difficultés financières -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">Alors que la récolte actuelle s&#x27;achève, les producteurs d&#x27;agrumes sud-africains font face à d&#x27;importantes difficultés de trésorerie pour préparer la saison 2027. La combinaison d&#x27;un taux de change défavorable et de l&#x27;augmentation des coûts de production limite les capacités de financement pour la fertilisation des sols, menaçant le potentiel de production futur. <span class=\"news-reason\">Alerte sur la pérennité de l&#x27;offre d&#x27;une origine concurrente majeure en raison de difficultés de trésorerie impactant les futures récoltes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Financial tensions for citrus growers in South Africa -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">As the current harvest comes to an end, South African citrus producers are facing significant cash flow difficulties in preparing for the 2027 season. The combination of an unfavorable exchange rate and rising production costs is limiting financing capacities for soil fertilization, threatening future production potential. <span class=\"news-reason\">Alert on the sustainability of supply from a major competing origin due to cash flow difficulties impacting future harvests.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">קשיים פיננסיים למגדלי ההדרים בדרום אפריקה -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">בעוד הקטיף הנוכחי מסתיים, מגדלי ההדרים בדרום אפריקה מתמודדים עם קשיי נזילות משמעותיים לקראת ההכנות לעונת 2027. השילוב של שער חליפין לא נוח ועלייה בעלויות הייצור מגביל את יכולות המימון לדישון הקרקע, דבר המאיים על פוטנציאל הייצור העתידי. <span class=\"news-reason\">התראה על יציבות האספקה ממקור מתחרה מרכזי עקב קשיי תזרים מזומנים המשפיעים על היבולים העתידיים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -372,7 +394,7 @@
     {
       "id": "1791208938_0",
       "timestamp": "2026-10-05T14:02:18.920677+00:00",
-      "title": "Analyse du marché mondial de l&#x27;avocat et transition vers les origines d&#x27;hiver",
+      "title": "Analyse du marché mondial de l&#x27;avocat et transition vers les origines hivernales",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -389,7 +411,7 @@
         "CHL",
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Analyse du marché mondial de l&#x27;avocat et transition vers les origines d&#x27;hiver -- <span class=\"news-date\">05/10/2026 06:00</span></div><div class=\"news-body\">Le marché mondial de l&#x27;avocat traverse une phase de transition saisonnière. Alors que les exportations du Pérou et d&#x27;Afrique du Sud touchent à leur fin, les campagnes du Mexique, du Chili, du Maroc, de l&#x27;Espagne et d&#x27;Israël débutent. Les marchés européens enregistrent actuellement les premiers flux commerciaux provenant de ces nouvelles origines de production. <span class=\"news-reason\">Information stratégique sur le début de la saison d&#x27;exportation en Israël et chez ses concurrents directs (Maroc, Espagne, Chili).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879140/focus-sul-mercato-mondiale-dell-avocado/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Analyse du marché mondial de l&#x27;avocat et transition vers les origines hivernales -- <span class=\"news-date\">05/10/2026 06:00</span></div><div class=\"news-body\">Le marché mondial de l&#x27;avocat traverse une phase de transition saisonnière. Alors que les exportations du Pérou et d&#x27;Afrique du Sud touchent à leur fin, les campagnes du Mexique, du Chili, du Maroc, de l&#x27;Espagne et d&#x27;Israël débutent. Les marchés européens enregistrent actuellement les premiers flux commerciaux provenant de ces nouvelles origines de production. <span class=\"news-reason\">Information stratégique sur le début de la saison d&#x27;exportation en Israël et chez ses concurrents directs (Maroc, Espagne, Chili).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879140/focus-sul-mercato-mondiale-dell-avocado/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Global avocado market analysis and transition to winter origins -- <span class=\"news-date\">05/10/2026 06:00</span></div><div class=\"news-body\">The global avocado market is undergoing a seasonal transition phase. While exports from Peru and South Africa are coming to an end, campaigns from Mexico, Chile, Morocco, Spain, and Israel are beginning. European markets are currently recording the first trade flows from these new production origins. <span class=\"news-reason\">Strategic information on the start of the export season in Israel and its direct competitors (Morocco, Spain, Chile).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879140/focus-sul-mercato-mondiale-dell-avocado/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">ניתוח שוק האבוקדו העולמי ומעבר למקורות החורף -- <span class=\"news-date\">05/10/2026 06:00</span></div><div class=\"news-body\">שוק האבוקדו העולמי עובר שלב של מעבר עונתי. בעוד שהיצוא מפרו ומדרום אפריקה מתקרב לסיומו, העונות של מקסיקו, צ'ילה, מרוקו, ספרד וישראל מתחילות. השווקים האירופיים רושמים כעת את זרמי הסחר הראשונים המגיעים ממקורות ייצור חדשים אלה. <span class=\"news-reason\">מידע אסטרטגי על תחילת עונת היצוא בישראל ואצל מתחרותיה הישירות (מרוקו, ספרד, צ'ילה).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879140/focus-sul-mercato-mondiale-dell-avocado/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
