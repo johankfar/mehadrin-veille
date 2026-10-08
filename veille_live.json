@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-08T15:33:12.207785+00:00",
-  "article_count": 34,
+  "last_updated": "2026-10-08T17:02:22.368671+00:00",
+  "article_count": 35,
   "attention_points": [
     {
       "id": "attention-4765cffd471da162",
@@ -17,7 +17,7 @@
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [],
-      "age_hours": 1
+      "age_hours": 3
     },
     {
       "id": "attention-988620f6aebf2497",
@@ -36,7 +36,26 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 2
+      "age_hours": 4
+    },
+    {
+      "id": "attention-ce3f740ea5fa9fe5",
+      "article_id": "1791478942_0",
+      "url": "https://www.freshplaza.fr/article/9879690/la-production-espagnole-de-kakis-sera-inferieure-a-celle-de-l-annee-de-la-dana/",
+      "source": "FreshPlaza FR",
+      "title": "Tempête impactant la production des agrumes et avocats",
+      "summary": "Les provinces de Valence et de Castellón ont été frappées par une tempête accompagnée de fortes pluies, de vents violents et de grêle.",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
+      "published_at": "2026-10-08T14:52:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 4
     },
     {
       "id": "attention-06df45763d69562c",
@@ -53,29 +72,29 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 4
-    },
-    {
-      "id": "attention-9896bba56785657e",
-      "article_id": "1791462808_1",
-      "url": "https://www.freshplaza.com/article/9880375/crop-estimates-following-hail-reveal-very-minor-impact-on-overall-harvest-volumes/",
-      "source": "FreshPlaza",
-      "title": "Évaluation de la récolte d'avocats en Nouvelle-Zélande suite",
-      "summary": "La superficie des vergers d'avocats en Nouvelle-Zélande s'élève à plus de 5 000 hectares, localisés à 50 % dans la Bay of Plenty et 45 % dans le Northland.",
-      "origin_code": "NZL",
-      "origin_label": "Nouvelle-Zelande",
-      "published_at": "2026-10-08T13:28:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 4
+      "age_hours": 5
     }
   ],
   "articles": [
+    {
+      "id": "1791478942_0",
+      "timestamp": "2026-10-08T17:02:22.368671+00:00",
+      "title": "Intempéries en Espagne : impact sur les agrumes et avocats à Valence -- 08/10/2026 14:52",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia",
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Intempéries en Espagne : impact sur les agrumes et avocats à Valence -- <span class=\"news-date\">08/10/2026 14:52</span></div><div class=\"news-body\">Les provinces de Valence et de Castellón ont été frappées par une tempête accompagnée de fortes pluies, de vents violents et de grêle. Bien que la culture du kaki soit la plus sinistrée, l&#x27;article confirme des dégâts directs, bien que dans une moindre mesure, sur les plantations d&#x27;agrumes et d&#x27;avocats. Les précipitations ont également provoqué des glissements de terrain, rendant l&#x27;accès aux parcelles difficile pour les producteurs. <span class=\"news-reason\">Alerte climatique (tempête et grêle) touchant une origine concurrente majeure (Espagne) pour des produits Mehadrin (agrumes et avocats).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9879690/la-production-espagnole-de-kakis-sera-inferieure-a-celle-de-l-annee-de-la-dana/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Severe weather in Spain: impact on citrus and avocados in Valencia -- <span class=\"news-date\">08/10/2026 14:52</span></div><div class=\"news-body\">The provinces of Valencia and Castellón were hit by a storm accompanied by heavy rain, strong winds, and hail. Although the persimmon crop is the most affected, the article confirms direct damage, albeit to a lesser extent, to citrus and avocado plantations. The rainfall also caused landslides, making access to plots difficult for producers. <span class=\"news-reason\">Climate alert (storm and hail) affecting a major competing origin (Spain) for Mehadrin products (citrus and avocados).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9879690/la-production-espagnole-de-kakis-sera-inferieure-a-celle-de-l-annee-de-la-dana/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מזג אוויר סוער בספרד: השפעה על פירות הדר ואבוקדו בוולנסיה -- <span class=\"news-date\">08/10/2026 14:52</span></div><div class=\"news-body\">מחוזות ולנסיה וקסטלון נפגעו מסערה מלווה בגשמים עזים, רוחות חזקות וברד. למרות שגידולי האפרסמון הם הנפגעים העיקריים, הכתבה מאשרת נזקים ישירים, אם כי במידה פחותה, למטעי ההדרים והאבוקדו. המשקעים גרמו גם למפולות בוץ, מה שהקשה על הגישה של המגדלים לחלקות. <span class=\"news-reason\">התראת אקלים (סערה וברד) המשפיעה על מקור מתחרה מרכזי (ספרד) עבור מוצרי מהדרין (הדרים ואבוקדו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9879690/la-production-espagnole-de-kakis-sera-inferieure-a-celle-de-l-annee-de-la-dana/\" target=\"_blank\">FreshPlaza FR -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1791473592_2",
       "timestamp": "2026-10-08T15:33:12.207785+00:00",
@@ -429,7 +448,7 @@
     {
       "id": "1791354762_0",
       "timestamp": "2026-10-07T06:32:42.335663+00:00",
-      "title": "Baisse des rendements d&#x27;agrumes et d&#x27;avocats consécutive aux violentes tempêtes en Espagne",
+      "title": "Baisse des rendements d&#x27;agrumes et d&#x27;avocats suite aux violentes tempêtes en Espagne",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia",
@@ -441,7 +460,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Baisse des rendements d&#x27;agrumes et d&#x27;avocats consécutive aux violentes tempêtes en Espagne -- <span class=\"news-date\">07/10/2026 06:05</span></div><div class=\"news-body\">Les provinces de Valence et de Castellón ont été frappées par de violents orages accompagnés de pluie, de vent et de grêle. Si la culture du kaki est la plus sévèrement touchée, des dégâts sont également signalés dans une moindre mesure sur les agrumes et les avocats. En plus des pertes de récolte, des glissements de terrain et des dommages aux infrastructures agricoles ont été constatés. <span class=\"news-reason\">Alerte sur la production d&#x27;agrumes et d&#x27;avocats (produits Mehadrin) suite à des intempéries dans une zone de production majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Baisse des rendements d&#x27;agrumes et d&#x27;avocats suite aux violentes tempêtes en Espagne -- <span class=\"news-date\">07/10/2026 06:05</span></div><div class=\"news-body\">Les provinces de Valence et de Castellón ont été frappées par de violents orages accompagnés de pluie, de vent et de grêle. Si la culture du kaki est la plus sévèrement touchée, des dégâts sont également signalés dans une moindre mesure sur les agrumes et les avocats. En plus des pertes de récolte, des glissements de terrain et des dommages aux infrastructures agricoles ont été constatés. <span class=\"news-reason\">Alerte sur la production d&#x27;agrumes et d&#x27;avocats (produits Mehadrin) suite à des intempéries dans une zone de production majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Lower citrus and avocado yields following violent storms in Spain -- <span class=\"news-date\">07/10/2026 06:05</span></div><div class=\"news-body\">The provinces of Valencia and Castellón were hit by violent storms accompanied by rain, wind, and hail. While persimmon cultivation is the most severely affected, damage is also reported to a lesser extent for citrus and avocados. In addition to crop losses, landslides and damage to agricultural infrastructure have been observed. <span class=\"news-reason\">Alert on citrus and avocado production (Mehadrin products) following bad weather in a major production area.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ירידה ביבולי הדרים ואבוקדו בעקבות סופות עזות בספרד -- <span class=\"news-date\">07/10/2026 06:05</span></div><div class=\"news-body\">מחוזות ולנסיה וקסטלון נפגעו מסופות רעמים עזות מלוות בגשם, רוח וברד. בעוד שגידולי האפרסמון הם הנפגעים הקשים ביותר, דווח גם על נזקים במידה פחותה להדרים ולאבוקדו. בנוסף לאובדן יבול, נרשמו מפולות בוץ ונזקים לתשתיות חקלאיות. <span class=\"news-reason\">התראה על ייצור הדרים ואבוקדו (מוצרי מהדרין) בעקבות מזג אוויר סוער באזור ייצור מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -633,7 +652,7 @@
     {
       "id": "1791262938_1",
       "timestamp": "2026-10-06T05:02:18.398627+00:00",
-      "title": "Afrique du Sud : la filière agrumicole confrontée à des difficultés financières",
+      "title": "Afrique du Sud : la filière agrumicole face à des difficultés financières",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -642,7 +661,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Afrique du Sud : la filière agrumicole confrontée à des difficultés financières -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">Alors que la récolte actuelle s&#x27;achève, les producteurs d&#x27;agrumes sud-africains font face à d&#x27;importantes difficultés de trésorerie pour préparer la saison 2027. La combinaison d&#x27;un taux de change défavorable et de l&#x27;augmentation des coûts de production limite les capacités de financement pour la fertilisation des sols, menaçant le potentiel de production futur. <span class=\"news-reason\">Alerte sur la pérennité de l&#x27;offre d&#x27;une origine concurrente majeure en raison de difficultés de trésorerie impactant les futures récoltes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Afrique du Sud : la filière agrumicole face à des difficultés financières -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">Alors que la récolte actuelle s&#x27;achève, les producteurs d&#x27;agrumes sud-africains font face à d&#x27;importantes difficultés de trésorerie pour préparer la saison 2027. La combinaison d&#x27;un taux de change défavorable et de l&#x27;augmentation des coûts de production limite les capacités de financement pour la fertilisation des sols, menaçant le potentiel de production futur. <span class=\"news-reason\">Alerte sur la pérennité de l&#x27;offre d&#x27;une origine concurrente majeure en raison de difficultés de trésorerie impactant les futures récoltes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Financial tensions for citrus growers in South Africa -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">As the current harvest comes to an end, South African citrus producers are facing significant cash flow difficulties in preparing for the 2027 season. The combination of an unfavorable exchange rate and rising production costs is limiting financing capacities for soil fertilization, threatening future production potential. <span class=\"news-reason\">Alert on the sustainability of supply from a major competing origin due to cash flow difficulties impacting future harvests.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">קשיים פיננסיים למגדלי ההדרים בדרום אפריקה -- <span class=\"news-date\">06/10/2026 06:05</span></div><div class=\"news-body\">בעוד הקטיף הנוכחי מסתיים, מגדלי ההדרים בדרום אפריקה מתמודדים עם קשיי נזילות משמעותיים לקראת ההכנות לעונת 2027. השילוב של שער חליפין לא נוח ועלייה בעלויות הייצור מגביל את יכולות המימון לדישון הקרקע, דבר המאיים על פוטנציאל הייצור העתידי. <span class=\"news-reason\">התראה על יציבות האספקה ממקור מתחרה מרכזי עקב קשיי תזרים מזומנים המשפיעים על היבולים העתידיים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9878684/il-settore-agrumicolo-sudafricano-si-interroga-sul-futuro/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
