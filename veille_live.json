@@ -1,23 +1,27 @@
 {
-  "last_updated": "2026-10-08T17:02:22.368671+00:00",
-  "article_count": 32,
+  "last_updated": "2026-10-09T06:32:07.864190+00:00",
+  "article_count": 35,
   "attention_points": [
     {
-      "id": "attention-4765cffd471da162",
-      "article_id": "1791473592_1",
-      "url": "https://citrusindustry.net/2026/10/08/overview-argentinas-citrus-industry/",
-      "source": "Citrus Industry",
-      "title": "Rapport 2025 sur la filière des agrumes en Argentine",
-      "summary": "Un rapport de la Fédération argentine des agrumes présente les données et estimations pour 2025 concernant les capacités de production et la distribution commerciale du secteur.",
-      "origin_code": "ARG",
-      "origin_label": "Argentine",
-      "published_at": "2026-10-08T14:00:00+00:00",
+      "id": "attention-aa9a150cfebfba42",
+      "article_id": "1791527527_0",
+      "url": "https://www.agrimaroc.ma/elite-agro-prepare-une-huitieme-ferme-au-maroc-sur-400-hectares/",
+      "source": "AgriMaroc",
+      "title": "Elite Agro investit 380 millions de dirhams au Maroc",
+      "summary": "Investissement de 380 millions de dirhams pour 400 hectares.",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-10-09T06:00:15+00:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
-      "products": [],
-      "age_hours": 3
+      "products": [
+        "avocat",
+        "mandarine",
+        "berry"
+      ],
+      "age_hours": 0
     },
     {
       "id": "attention-988620f6aebf2497",
@@ -36,7 +40,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 4
+      "age_hours": 17
     },
     {
       "id": "attention-ce3f740ea5fa9fe5",
@@ -55,7 +59,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 4
+      "age_hours": 17
     },
     {
       "id": "attention-06df45763d69562c",
@@ -72,10 +76,64 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 5
+      "age_hours": 19
     }
   ],
   "articles": [
+    {
+      "id": "1791527527_2",
+      "timestamp": "2026-10-09T06:32:07.864190+00:00",
+      "title": "Le Danemark exempte les producteurs de melons des restrictions sur les engrais -- 08/10/2026 13:28",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Sébastien"
+      ],
+      "products": [
+        "melon"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le Danemark exempte les producteurs de melons des restrictions sur les engrais -- <span class=\"news-date\">08/10/2026 13:28</span></div><div class=\"news-body\">Le ministère danois de la Nature et de l’Animal a annoncé que les cultures de melons seront temporairement exemptées des nouvelles restrictions sur les engrais azotés prévues pour 2027. Cette décision fait suite aux inquiétudes des producteurs concernant l&#x27;impact de ces limitations sur la qualité et les volumes de récolte. <span class=\"news-reason\">Modification réglementaire impactant la viabilité de la production de melons en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881239/denmark-exempts-fruit-and-vegetable-growers-from-2027-fertilizer-restrictions/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Denmark exempts melon producers from fertilizer restrictions -- <span class=\"news-date\">08/10/2026 13:28</span></div><div class=\"news-body\">The Danish Ministry of Nature and Animals has announced that melon crops will be temporarily exempt from the new nitrogen fertilizer restrictions planned for 2027. This decision follows concerns from producers regarding the impact of these limitations on crop quality and volume. <span class=\"news-reason\">Regulatory change impacting the viability of melon production in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881239/denmark-exempts-fruit-and-vegetable-growers-from-2027-fertilizer-restrictions/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">דנמרק מחריגה את מגדלי המלונים מהגבלות על דשנים -- <span class=\"news-date\">08/10/2026 13:28</span></div><div class=\"news-body\">משרד הטבע ובעלי החיים הדני הודיע כי גידולי מלונים יוחרגו באופן זמני מההגבלות החדשות על דשני חנקן המתוכננות לשנת 2027. החלטה זו מגיעה בעקבות חששות המגדלים מהשפעת המגבלות הללו על איכות וכמויות היבול. <span class=\"news-reason\">שינוי רגולטורי המשפיע על כדאיות ייצור המלונים באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881239/denmark-exempts-fruit-and-vegetable-growers-from-2027-fertilizer-restrictions/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791527527_1",
+      "timestamp": "2026-10-09T06:32:07.864190+00:00",
+      "title": "SanLucar déploie une campagne promotionnelle pour ses mandarines d&#x27;Afrique du Sud -- 08/10/2026 18:07",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "ZAF"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">SanLucar déploie une campagne promotionnelle pour ses mandarines d&#x27;Afrique du Sud -- <span class=\"news-date\">08/10/2026 18:07</span></div><div class=\"news-body\">La marque SanLucar déploie sa nouvelle campagne « Together for a Better Future » axée sur sa production de mandarines en Afrique du Sud. L&#x27;initiative repose sur un projet éducatif à la ferme de Middelriver, permettant aux acheteurs de suivre la production via un journal de bord numérique pour renforcer la transparence et le positionnement premium. <span class=\"news-reason\">Détails sur la stratégie commerciale et marketing d&#x27;un concurrent majeur sur le segment des mandarines.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/08/sanlucar-education/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">SanLucar deploys a promotional campaign for its South African mandarins -- <span class=\"news-date\">08/10/2026 18:07</span></div><div class=\"news-body\">The SanLucar brand is deploying its new “Together for a Better Future” campaign focused on its mandarin production in South Africa. The initiative is based on an educational project at the Middelriver farm, allowing buyers to track production via a digital logbook to strengthen transparency and premium positioning. <span class=\"news-reason\">Details on the commercial and marketing strategy of a major competitor in the mandarin segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/08/sanlucar-education/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">SanLucar משיקה קמפיין קידום מכירות למנדרינות שלה מדרום אפריקה -- <span class=\"news-date\">08/10/2026 18:07</span></div><div class=\"news-body\">המותג SanLucar משיק את הקמפיין החדש שלו \"Together for a Better Future\" המתמקד בייצור המנדרינות שלו בדרום אפריקה. היוזמה מבוססת על פרויקט חינוכי בחוות מידלריבר, המאפשר לקונים לעקוב אחר הייצור באמצעות יומן דיגיטלי לחיזוק השקיפות ומיצוב הפרימיום. <span class=\"news-reason\">פרטים על האסטרטגיה המסחרית והשיווקית של מתחרה מרכזי במגזר המנדרינות.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/08/sanlucar-education/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791527527_0",
+      "timestamp": "2026-10-09T06:32:07.864190+00:00",
+      "title": "Elite Agro investit 380 millions de dirhams au Maroc pour les avocats et mandarines -- 09/10/2026 06:00",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Nadia",
+        "Ophélie"
+      ],
+      "products": [
+        "avocat",
+        "mandarine"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Elite Agro investit 380 millions de dirhams au Maroc pour les avocats et mandarines -- <span class=\"news-date\">09/10/2026 06:00</span></div><div class=\"news-body\">Le groupe Elite Agro Holding et l’Autorité arabe pour l’investissement agricole ont signé un accord pour le développement d&#x27;une huitième ferme de 400 hectares à Sidi Yahia. Ce projet, représentant un investissement d&#x27;environ 380 millions de dirhams, se concentrera sur la production de mandarines et d&#x27;avocats destinés à l&#x27;exportation. <span class=\"news-reason\">Information sur l&#x27;expansion de la production de mandarines et d&#x27;avocats au Maroc, origine concurrente directe de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/elite-agro-prepare-une-huitieme-ferme-au-maroc-sur-400-hectares/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Elite Agro invests 380 million dirhams in Morocco for avocados and mandarins -- <span class=\"news-date\">09/10/2026 06:00</span></div><div class=\"news-body\">The Elite Agro Holding group and the Arab Authority for Agricultural Investment have signed an agreement for the development of an eighth 400-hectare farm in Sidi Yahia. This project, representing an investment of approximately 380 million dirhams, will focus on the production of mandarins and avocados for export. <span class=\"news-reason\">Information on the expansion of mandarin and avocado production in Morocco, a direct competing origin for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/elite-agro-prepare-une-huitieme-ferme-au-maroc-sur-400-hectares/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות שיווק</div><div class=\"news-title\">Elite Agro משקיעה 380 מיליון דירהם במרוקו עבור אבוקדו ומנדרינות -- <span class=\"news-date\">09/10/2026 06:00</span></div><div class=\"news-body\">קבוצת Elite Agro Holding והרשות הערבית להשקעות חקלאיות חתמו על הסכם לפיתוח חווה שמינית בשטח של 400 הקטאר בסידי יחיא. פרויקט זה, המייצג השקעה של כ-380 מיליון דירהם, יתמקד בייצור מנדרינות ואבוקדו המיועדים לייצוא. <span class=\"news-reason\">מידע על הרחבת ייצור המנדרינות והאבוקדו במרוקו, מקור תחרותי ישיר למהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/elite-agro-prepare-une-huitieme-ferme-au-maroc-sur-400-hectares/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1791478942_0",
       "timestamp": "2026-10-08T17:02:22.368671+00:00",
@@ -430,7 +488,7 @@
     {
       "id": "1791354762_1",
       "timestamp": "2026-10-07T06:32:42.335663+00:00",
-      "title": "Stratégie d&#x27;expansion de la production de Mehadrin Holland dans l&#x27;hémisphère Sud",
+      "title": "Stratégie d&#x27;expansion de la production de Mehadrin Holland dans l&#x27;hémisphère sud",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Ophélie"
@@ -441,14 +499,14 @@
       "origins": [
         "NLD"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Stratégie d&#x27;expansion de la production de Mehadrin Holland dans l&#x27;hémisphère Sud -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">Mehadrin Holland prévoit d&#x27;étendre ses surfaces de production à l&#x27;international pour limiter sa dépendance à une seule origine ou saison. Anthony de Cuba, nouveau directeur général, souligne la nécessité de renforcer la présence dans l&#x27;hémisphère sud afin de garantir un programme d&#x27;approvisionnement en avocats disponible tout au long de l&#x27;année. <span class=\"news-reason\">Information stratégique sur l&#x27;expansion de l&#x27;entreprise et la sécurisation de l&#x27;approvisionnement annuel en avocats.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9879676/si-quieres-desarrollar-un-programa-de-aguacate-verdaderamente-anual-tambien-necesitas-presencia-en-el-hemisferio-sur/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Stratégie d&#x27;expansion de la production de Mehadrin Holland dans l&#x27;hémisphère sud -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">Mehadrin Holland prévoit d&#x27;étendre ses surfaces de production à l&#x27;international pour limiter sa dépendance à une seule origine ou saison. Anthony de Cuba, nouveau directeur général, souligne la nécessité de renforcer la présence dans l&#x27;hémisphère sud afin de garantir un programme d&#x27;approvisionnement en avocats disponible tout au long de l&#x27;année. <span class=\"news-reason\">Information stratégique sur l&#x27;expansion de l&#x27;entreprise et la sécurisation de l&#x27;approvisionnement annuel en avocats.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9879676/si-quieres-desarrollar-un-programa-de-aguacate-verdaderamente-anual-tambien-necesitas-presencia-en-el-hemisferio-sur/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Mehadrin Holland&#x27;s production expansion strategy in the Southern Hemisphere -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">Mehadrin Holland plans to expand its international production areas to limit its dependence on a single origin or season. Anthony de Cuba, the new general manager, emphasizes the need to strengthen its presence in the Southern Hemisphere to ensure an avocado supply program available year-round. <span class=\"news-reason\">Strategic information on the company&#x27;s expansion and securing annual avocado supply.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9879676/si-quieres-desarrollar-un-programa-de-aguacate-verdaderamente-anual-tambien-necesitas-presencia-en-el-hemisferio-sur/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות</div><div class=\"news-title\">אסטרטגיית התרחבות הייצור של מהדרין הולנד בחצי הכדור הדרומי -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">מהדרין הולנד מתכננת להרחיב את שטחי הייצור הבינלאומיים שלה כדי להפחית את התלות במקור יחיד או בעונה בודדת. אנתוני דה קובה, המנכ\"ל החדש, מדגיש את הצורך בחיזוק הנוכחות בחצי הכדור הדרומי כדי להבטיח תוכנית אספקת אבוקדו זמינה לאורך כל השנה. <span class=\"news-reason\">מידע אסטרטגי על התרחבות החברה ואבטחת אספקת האבוקדו השנתית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9879676/si-quieres-desarrollar-un-programa-de-aguacate-verdaderamente-anual-tambien-necesitas-presencia-en-el-hemisferio-sur/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1791354762_0",
       "timestamp": "2026-10-07T06:32:42.335663+00:00",
-      "title": "Baisse des rendements d&#x27;agrumes et d&#x27;avocats suite aux violentes tempêtes en Espagne",
+      "title": "Recul des rendements d&#x27;agrumes et d&#x27;avocats suite aux violentes tempêtes en Espagne",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia",
@@ -460,14 +518,14 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Baisse des rendements d&#x27;agrumes et d&#x27;avocats suite aux violentes tempêtes en Espagne -- <span class=\"news-date\">07/10/2026 06:05</span></div><div class=\"news-body\">Les provinces de Valence et de Castellón ont été frappées par de violents orages accompagnés de pluie, de vent et de grêle. Si la culture du kaki est la plus sévèrement touchée, des dégâts sont également signalés dans une moindre mesure sur les agrumes et les avocats. En plus des pertes de récolte, des glissements de terrain et des dommages aux infrastructures agricoles ont été constatés. <span class=\"news-reason\">Alerte sur la production d&#x27;agrumes et d&#x27;avocats (produits Mehadrin) suite à des intempéries dans une zone de production majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Recul des rendements d&#x27;agrumes et d&#x27;avocats suite aux violentes tempêtes en Espagne -- <span class=\"news-date\">07/10/2026 06:05</span></div><div class=\"news-body\">Les provinces de Valence et de Castellón ont été frappées par de violents orages accompagnés de pluie, de vent et de grêle. Si la culture du kaki est la plus sévèrement touchée, des dégâts sont également signalés dans une moindre mesure sur les agrumes et les avocats. En plus des pertes de récolte, des glissements de terrain et des dommages aux infrastructures agricoles ont été constatés. <span class=\"news-reason\">Alerte sur la production d&#x27;agrumes et d&#x27;avocats (produits Mehadrin) suite à des intempéries dans une zone de production majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Lower citrus and avocado yields following violent storms in Spain -- <span class=\"news-date\">07/10/2026 06:05</span></div><div class=\"news-body\">The provinces of Valencia and Castellón were hit by violent storms accompanied by rain, wind, and hail. While persimmon cultivation is the most severely affected, damage is also reported to a lesser extent for citrus and avocados. In addition to crop losses, landslides and damage to agricultural infrastructure have been observed. <span class=\"news-reason\">Alert on citrus and avocado production (Mehadrin products) following bad weather in a major production area.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ירידה ביבולי הדרים ואבוקדו בעקבות סופות עזות בספרד -- <span class=\"news-date\">07/10/2026 06:05</span></div><div class=\"news-body\">מחוזות ולנסיה וקסטלון נפגעו מסופות רעמים עזות מלוות בגשם, רוח וברד. בעוד שגידולי האפרסמון הם הנפגעים הקשים ביותר, דווח גם על נזקים במידה פחותה להדרים ולאבוקדו. בנוסף לאובדן יבול, נרשמו מפולות בוץ ונזקים לתשתיות חקלאיות. <span class=\"news-reason\">התראה על ייצור הדרים ואבוקדו (מוצרי מהדרין) בעקבות מזג אוויר סוער באזור ייצור מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1791349365_2",
       "timestamp": "2026-10-07T05:02:45.822542+00:00",
-      "title": "NFG Fresh Food renforce son réseau de distribution en Allemagne via des accords d’exclusivité",
+      "title": "NFG Fresh Food consolide son réseau de distribution en Allemagne via des accords d’exclusivité",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [],
       "products": [],
@@ -476,7 +534,7 @@
         "ESP",
         "DEU"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">NFG Fresh Food renforce son réseau de distribution en Allemagne via des accords d’exclusivité -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">Le grossiste allemand NFG Fresh Food GmbH &amp; Co. KG a augmenté ses capacités logistiques sur le marché de gros de Hanovre. L&#x27;entreprise distribue désormais ses produits au niveau suprarégional, notamment vers Brême, en s&#x27;appuyant sur des accords d&#x27;approvisionnement exclusifs avec des producteurs situés en Italie et en Espagne. <span class=\"news-reason\">Expansion d&#x27;un distributeur allemand et nouveaux partenariats exclusifs en Italie et en Espagne, marchés clés pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">NFG Fresh Food consolide son réseau de distribution en Allemagne via des accords d’exclusivité -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">Le grossiste allemand NFG Fresh Food GmbH &amp; Co. KG a augmenté ses capacités logistiques sur le marché de gros de Hanovre. L&#x27;entreprise distribue désormais ses produits au niveau suprarégional, notamment vers Brême, en s&#x27;appuyant sur des accords d&#x27;approvisionnement exclusifs avec des producteurs situés en Italie et en Espagne. <span class=\"news-reason\">Expansion d&#x27;un distributeur allemand et nouveaux partenariats exclusifs en Italie et en Espagne, marchés clés pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">NFG Fresh Food consolidates its distribution in Germany through exclusive agreements -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">The German wholesaler NFG Fresh Food GmbH &amp; Co. KG has increased its logistical capacities at the Hanover wholesale market. The company now distributes its products supra-regionally, notably to Bremen, relying on exclusive supply agreements with producers located in Italy and Spain. <span class=\"news-reason\">Expansion of a German distributor and new exclusive partnerships in Italy and Spain, key markets for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות ברשתות השיווק</div><div class=\"news-title\">NFG Fresh Food מחזקת את ההפצה שלה בגרמניה באמצעות הסכמים בלעדיים -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">הסיטונאי הגרמני NFG Fresh Food GmbH &amp; Co. KG הגדיל את היכולות הלוגיסטיות שלו בשוק הסיטונאי של הנובר. החברה מפיצה כעת את מוצריה ברמה כלל-אזורית, במיוחד לברמן, תוך הסתמכות על הסכמי אספקה בלעדיים עם מגדלים באיטליה ובספרד. <span class=\"news-reason\">התרחבות של מפיץ גרמני ושותפויות בלעדיות חדשות באיטליה ובספרד, שווקי מפתח עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
