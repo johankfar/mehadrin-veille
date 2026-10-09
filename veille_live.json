@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-09T17:02:30.346038+00:00",
-  "article_count": 39,
+  "last_updated": "2026-10-09T18:32:41.572263+00:00",
+  "article_count": 41,
   "attention_points": [
+    {
+      "id": "attention-f24901b0946366a9",
+      "article_id": "1791570761_0",
+      "url": "https://www.freshfruitportal.com/news/2026/10/09/florida-og-down/",
+      "source": "Fresh Fruit Portal",
+      "title": "Les prévisions de récolte d'oranges en Floride chutent",
+      "summary": "Les gels hivernaux réduisent drastiquement les volumes d'oranges prévus",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-10-09T18:08:28+00:00",
+      "published_at_source": "rss",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
+      "products": [
+        "orange"
+      ],
+      "age_hours": 0
+    },
     {
       "id": "attention-2003bca80c9769f7",
       "article_id": "1791565350_1",
@@ -19,26 +38,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 1
-    },
-    {
-      "id": "attention-b6f1ed3b38098d83",
-      "article_id": "1791565350_2",
-      "url": "https://www.agrimaroc.ma/septembre-2026-le-mois-de-septembre-le-plus-chaud-depuis-1981/",
-      "source": "AgriMaroc",
-      "title": "Températures records impactant les zones de production agricoles",
-      "summary": "La chaleur extrême menace la disponibilité future des récoltes",
-      "origin_code": "MAR",
-      "origin_label": "Maroc",
-      "published_at": "2026-10-09T13:40:31+00:00",
-      "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 3
+      "age_hours": 2
     },
     {
       "id": "attention-e4d8b08f7681b4f2",
@@ -55,7 +55,7 @@
       "signal_label": "Volumes",
       "icon": "information",
       "products": [],
-      "age_hours": 5
+      "age_hours": 6
     },
     {
       "id": "attention-4effbd761b933f8e",
@@ -75,10 +75,44 @@
         "avocat",
         "mango"
       ],
-      "age_hours": 5
+      "age_hours": 7
     }
   ],
   "articles": [
+    {
+      "id": "1791570761_1",
+      "timestamp": "2026-10-09T18:32:41.572263+00:00",
+      "title": "Tensions sur l&#x27;offre de mangues et prix élevés pour les origines brésilienne et équatorienne -- 09/10/2026 13:32",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [
+        "BRA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Tensions sur l&#x27;offre de mangues et prix élevés pour les origines brésilienne et équatorienne -- <span class=\"news-date\">09/10/2026 13:32</span></div><div class=\"news-body\">Le marché de la mangue fait face à une offre limitée, provoquant des prix élevés. Le Brésil est actuellement en pic de production pour les variétés Tommy Atkins et Ataulfo, tandis que l&#x27;Équateur commence sa campagne avec des volumes restreints. <span class=\"news-reason\">Informations sur le positionnement et la disponibilité des mangues chez les concurrents directs (Brésil, Équateur).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881417/high-prices-and-early-timing-for-offshore-mangoes/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Tensions on mango supply and high prices for Brazilian and Ecuadorian origins -- <span class=\"news-date\">09/10/2026 13:32</span></div><div class=\"news-body\">The mango market is facing limited supply, causing high prices. Brazil is currently at its production peak for Tommy Atkins and Ataulfo varieties, while Ecuador is starting its campaign with limited volumes. <span class=\"news-reason\">Information on the positioning and availability of mangoes among direct competitors (Brazil, Ecuador).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881417/high-prices-and-early-timing-for-offshore-mangoes/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">מתח בהיצע המנגו ומחירים גבוהים למקורות מברזיל ומאקוודור -- <span class=\"news-date\">09/10/2026 13:32</span></div><div class=\"news-body\">שוק המנגו מתמודד עם היצע מוגבל, הגורם למחירים גבוהים. ברזיל נמצאת כעת בשיא הייצור עבור הזנים טומי אטקינס (Tommy Atkins) ואטולפו (Ataulfo), בעוד שאקוודור מתחילה את העונה שלה עם כמויות מצומצמות. <span class=\"news-reason\">מידע על המיצוב והזמינות של המנגו אצל המתחרים הישירים (ברזיל, אקוודור).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881417/high-prices-and-early-timing-for-offshore-mangoes/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791570761_0",
+      "timestamp": "2026-10-09T18:32:41.572263+00:00",
+      "title": "Les prévisions de récolte d&#x27;oranges en Floride chutent de 23 % suite aux épisodes de gel -- 09/10/2026 18:08",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les prévisions de récolte d&#x27;oranges en Floride chutent de 23 % suite aux épisodes de gel -- <span class=\"news-date\">09/10/2026 18:08</span></div><div class=\"news-body\">Les gels hivernaux ont entraîné une réduction de 23 % des prévisions de récolte d&#x27;oranges en Floride. Face à cette situation, les leaders du secteur réclament une aide fédérale de 3,5 milliards de dollars via le Florida Freeze Disaster Assistance Act pour soutenir les producteurs sinistrés. <span class=\"news-reason\">Article contenant des chiffres précis sur la baisse de production d&#x27;un produit Mehadrin (orange) impactant le marché mondial.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/09/florida-og-down/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Florida orange crop forecasts fall by 23% following frost episodes -- <span class=\"news-date\">09/10/2026 18:08</span></div><div class=\"news-body\">Winter frosts have led to a 23% reduction in Florida orange crop forecasts. Facing this situation, industry leaders are calling for $3.5 billion in federal aid through the Florida Freeze Disaster Assistance Act to support affected growers. <span class=\"news-reason\">Article containing precise figures on the production decline of a Mehadrin product (orange) impacting the global market.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/09/florida-og-down/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">תחזיות יבול התפוזים בפלורידה צונחות ב-23% בעקבות אירועי קרה -- <span class=\"news-date\">09/10/2026 18:08</span></div><div class=\"news-body\">קרה חורפית הובילה לירידה של 23% בתחזיות יבול התפוזים בפלורידה. נוכח המצב, ראשי הענף דורשים סיוע פדרלי בסך 3.5 מיליארד דולר באמצעות חוק הסיוע לאסונות קרה בפלורידה (Florida Freeze Disaster Assistance Act) כדי לתמוך במגדלים שנפגעו. <span class=\"news-reason\">כתבה הכוללת נתונים מדויקים על הירידה בייצור של מוצר מהדרין (תפוז) המשפיעה על השוק העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/09/florida-og-down/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1791565350_2",
       "timestamp": "2026-10-09T17:02:30.346038+00:00",
@@ -710,7 +744,7 @@
     {
       "id": "1791354762_0",
       "timestamp": "2026-10-07T06:32:42.335663+00:00",
-      "title": "Chute des rendements d&#x27;agrumes et d&#x27;avocats après les violentes tempêtes en Espagne",
+      "title": "Chute des rendements d&#x27;agrumes et d&#x27;avocats suite aux violentes tempêtes en Espagne",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia",
@@ -722,14 +756,14 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Chute des rendements d&#x27;agrumes et d&#x27;avocats après les violentes tempêtes en Espagne -- <span class=\"news-date\">07/10/2026 06:05</span></div><div class=\"news-body\">Les provinces de Valence et de Castellón ont été frappées par de violents orages accompagnés de pluie, de vent et de grêle. Si la culture du kaki est la plus sévèrement touchée, des dégâts sont également signalés dans une moindre mesure sur les agrumes et les avocats. En plus des pertes de récolte, des glissements de terrain et des dommages aux infrastructures agricoles ont été constatés. <span class=\"news-reason\">Alerte sur la production d&#x27;agrumes et d&#x27;avocats (produits Mehadrin) suite à des intempéries dans une zone de production majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Chute des rendements d&#x27;agrumes et d&#x27;avocats suite aux violentes tempêtes en Espagne -- <span class=\"news-date\">07/10/2026 06:05</span></div><div class=\"news-body\">Les provinces de Valence et de Castellón ont été frappées par de violents orages accompagnés de pluie, de vent et de grêle. Si la culture du kaki est la plus sévèrement touchée, des dégâts sont également signalés dans une moindre mesure sur les agrumes et les avocats. En plus des pertes de récolte, des glissements de terrain et des dommages aux infrastructures agricoles ont été constatés. <span class=\"news-reason\">Alerte sur la production d&#x27;agrumes et d&#x27;avocats (produits Mehadrin) suite à des intempéries dans une zone de production majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Lower citrus and avocado yields following violent storms in Spain -- <span class=\"news-date\">07/10/2026 06:05</span></div><div class=\"news-body\">The provinces of Valencia and Castellón were hit by violent storms accompanied by rain, wind, and hail. While persimmon cultivation is the most severely affected, damage is also reported to a lesser extent for citrus and avocados. In addition to crop losses, landslides and damage to agricultural infrastructure have been observed. <span class=\"news-reason\">Alert on citrus and avocado production (Mehadrin products) following bad weather in a major production area.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ירידה ביבולי הדרים ואבוקדו בעקבות סופות עזות בספרד -- <span class=\"news-date\">07/10/2026 06:05</span></div><div class=\"news-body\">מחוזות ולנסיה וקסטלון נפגעו מסופות רעמים עזות מלוות בגשם, רוח וברד. בעוד שגידולי האפרסמון הם הנפגעים הקשים ביותר, דווח גם על נזקים במידה פחותה להדרים ולאבוקדו. בנוסף לאובדן יבול, נרשמו מפולות בוץ ונזקים לתשתיות חקלאיות. <span class=\"news-reason\">התראה על ייצור הדרים ואבוקדו (מוצרי מהדרין) בעקבות מזג אוויר סוער באזור ייצור מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879688/ulteriore-riduzione-nella-resa-di-cachi-spagnoli-a-causa-della-grandine-a-valencia-e-castellon/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1791349365_2",
       "timestamp": "2026-10-07T05:02:45.822542+00:00",
-      "title": "NFG Fresh Food renforce son réseau de distribution en Allemagne via des accords d&#x27;exclusivité",
+      "title": "NFG Fresh Food renforce son réseau de distribution en Allemagne par des accords d&#x27;exclusivité",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [],
       "products": [],
@@ -738,7 +772,7 @@
         "ESP",
         "DEU"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">NFG Fresh Food renforce son réseau de distribution en Allemagne via des accords d&#x27;exclusivité -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">Le grossiste allemand NFG Fresh Food GmbH &amp; Co. KG a augmenté ses capacités logistiques sur le marché de gros de Hanovre. L&#x27;entreprise distribue désormais ses produits au niveau suprarégional, notamment vers Brême, en s&#x27;appuyant sur des accords d&#x27;approvisionnement exclusifs avec des producteurs situés en Italie et en Espagne. <span class=\"news-reason\">Expansion d&#x27;un distributeur allemand et nouveaux partenariats exclusifs en Italie et en Espagne, marchés clés pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">NFG Fresh Food renforce son réseau de distribution en Allemagne par des accords d&#x27;exclusivité -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">Le grossiste allemand NFG Fresh Food GmbH &amp; Co. KG a augmenté ses capacités logistiques sur le marché de gros de Hanovre. L&#x27;entreprise distribue désormais ses produits au niveau suprarégional, notamment vers Brême, en s&#x27;appuyant sur des accords d&#x27;approvisionnement exclusifs avec des producteurs situés en Italie et en Espagne. <span class=\"news-reason\">Expansion d&#x27;un distributeur allemand et nouveaux partenariats exclusifs en Italie et en Espagne, marchés clés pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">NFG Fresh Food consolidates its distribution in Germany through exclusive agreements -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">The German wholesaler NFG Fresh Food GmbH &amp; Co. KG has increased its logistical capacities at the Hanover wholesale market. The company now distributes its products supra-regionally, notably to Bremen, relying on exclusive supply agreements with producers located in Italy and Spain. <span class=\"news-reason\">Expansion of a German distributor and new exclusive partnerships in Italy and Spain, key markets for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות ברשתות השיווק</div><div class=\"news-title\">NFG Fresh Food מחזקת את ההפצה שלה בגרמניה באמצעות הסכמים בלעדיים -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">הסיטונאי הגרמני NFG Fresh Food GmbH &amp; Co. KG הגדיל את היכולות הלוגיסטיות שלו בשוק הסיטונאי של הנובר. החברה מפיצה כעת את מוצריה ברמה כלל-אזורית, במיוחד לברמן, תוך הסתמכות על הסכמי אספקה בלעדיים עם מגדלים באיטליה ובספרד. <span class=\"news-reason\">התרחבות של מפיץ גרמני ושותפויות בלעדיות חדשות באיטליה ובספרד, שווקי מפתח עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880201/mantenemos-acuerdos-exclusivos-con-productores-en-italia-y-espana/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
