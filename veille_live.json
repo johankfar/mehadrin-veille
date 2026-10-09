@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-09T08:01:57.557430+00:00",
-  "article_count": 36,
+  "last_updated": "2026-10-09T09:32:38.554676+00:00",
+  "article_count": 33,
   "attention_points": [
     {
       "id": "attention-aa9a150cfebfba42",
@@ -21,7 +21,7 @@
         "mandarine",
         "berry"
       ],
-      "age_hours": 2
+      "age_hours": 3
     },
     {
       "id": "attention-988620f6aebf2497",
@@ -40,7 +40,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 19
+      "age_hours": 20
     },
     {
       "id": "attention-ce3f740ea5fa9fe5",
@@ -59,7 +59,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 19
+      "age_hours": 20
     },
     {
       "id": "attention-06df45763d69562c",
@@ -76,10 +76,28 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 20
+      "age_hours": 22
     }
   ],
   "articles": [
+    {
+      "id": "1791538358_0",
+      "timestamp": "2026-10-09T09:32:38.554676+00:00",
+      "title": "Plus de 22 000 agriculteurs kenyans se tournent vers la culture de l&#x27;avocat -- 08/10/2026 13:28",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "KEN"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Plus de 22 000 agriculteurs kenyans se tournent vers la culture de l&#x27;avocat -- <span class=\"news-date\">08/10/2026 13:28</span></div><div class=\"news-body\">Dans le comté de Nakuru au Kenya, plus de 22 000 agriculteurs ont adopté la culture de l&#x27;avocat dans le cadre d&#x27;une initiative de diversification. Le gouvernement local a investi plus de 850 000 USD dans la distribution de plants et l&#x27;expansion des vergers pour accroître les surfaces cultivées. <span class=\"news-reason\">L&#x27;article traite de l&#x27;expansion de la production d&#x27;avocats dans une origine concurrente avec des données chiffrées sur les investissements.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/africa/article/9881235/over-22-000-farmers-take-up-avocado-cultivation-in-kenya-s-nakuru-county/\" target=\"_blank\">FreshPlaza Africa -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Over 22,000 Kenyan farmers turn to avocado cultivation -- <span class=\"news-date\">08/10/2026 13:28</span></div><div class=\"news-body\">In Nakuru County, Kenya, more than 22,000 farmers have adopted avocado cultivation as part of a diversification initiative. The local government has invested over 850,000 USD in seedling distribution and orchard expansion to increase cultivated areas. <span class=\"news-reason\">The article discusses the expansion of avocado production in a competing origin with figures on investments.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/africa/article/9881235/over-22-000-farmers-take-up-avocado-cultivation-in-kenya-s-nakuru-county/\" target=\"_blank\">FreshPlaza Africa -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">למעלה מ-22,000 חקלאים קנייתים פונים לגידול אבוקדו -- <span class=\"news-date\">08/10/2026 13:28</span></div><div class=\"news-body\">במחוז נאקורו שבקניה, למעלה מ-22,000 חקלאים אימצו את גידול האבוקדו כחלק מיוזמת גיוון. הממשל המקומי השקיע למעלה מ-850,000 דולר בהפצת שתילים ובהרחבת המטעים כדי להגדיל את השטחים המעובדים. <span class=\"news-reason\">המאמר עוסק בהתרחבות ייצור האבוקדו במקור מתחרה, עם נתונים מספריים על ההשקעות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/africa/article/9881235/over-22-000-farmers-take-up-avocado-cultivation-in-kenya-s-nakuru-county/\" target=\"_blank\">FreshPlaza Africa -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1791532917_0",
       "timestamp": "2026-10-09T08:01:57.557430+00:00",
@@ -638,72 +656,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Exportations sud-africaines d&#x27;avocats en hausse de 16 % et pression sur les prix -- <span class=\"news-date\">06/10/2026 14:12</span></div><div class=\"news-body\">L&#x27;Afrique du Sud a exporté 21 millions de cartons de 4 kg d&#x27;avocats cette saison, soit une augmentation de 16 % par rapport à l&#x27;année précédente. Cette hausse de l&#x27;offre, combinée à un marché européen déjà saturé, maintient les prix de vente sous pression. <span class=\"news-reason\">Contient des chiffres précis sur les volumes d&#x27;exportation (21 millions de cartons) et l&#x27;impact sur les prix en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9879167/les-exportations-sud-africaines-d-avocats-en-hausse-de-16-mais-la-suroffre-en-europe-maintient-les-prix-sous-pression/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">South African avocado exports up 16% and pressure on prices -- <span class=\"news-date\">06/10/2026 14:12</span></div><div class=\"news-body\">South Africa exported 21 million 4 kg cartons of avocados this season, a 16% increase compared to the previous year. This increase in supply, combined with an already saturated European market, keeps selling prices under pressure. <span class=\"news-reason\">Contains precise figures on export volumes (21 million cartons) and the impact on prices in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9879167/les-exportations-sud-africaines-d-avocats-en-hausse-de-16-mais-la-suroffre-en-europe-maintient-les-prix-sous-pression/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">יצוא האבוקדו מדרום אפריקה עלה ב-16% ולחץ על המחירים -- <span class=\"news-date\">06/10/2026 14:12</span></div><div class=\"news-body\">דרום אפריקה ייצאה העונה 21 מיליון קרטונים של 4 ק\"ג אבוקדו, עלייה של 16% לעומת השנה הקודמת. עלייה זו בהיצע, בשילוב עם שוק אירופי רווי כבר, שומרת על מחירי המכירה תחת לחץ. <span class=\"news-reason\">מכיל נתונים מדויקים על כמויות היצוא (21 מיליון קרטונים) וההשפעה על המחירים באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9879167/les-exportations-sud-africaines-d-avocats-en-hausse-de-16-mais-la-suroffre-en-europe-maintient-les-prix-sous-pression/\" target=\"_blank\">FreshPlaza FR -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791279197_0",
-      "timestamp": "2026-10-06T09:33:17.702886+00:00",
-      "title": "Progression des exportations agroalimentaires du Maroc vers l&#x27;UE en 2026 -- 05/10/2026 09:17",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [],
-      "products": [],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Progression des exportations agroalimentaires du Maroc vers l&#x27;UE en 2026 -- <span class=\"news-date\">05/10/2026 09:17</span></div><div class=\"news-body\">Les exportations agroalimentaires du Maroc vers l’Union Européenne maintiennent une trajectoire de croissance soutenue. Au cours des sept premiers mois de l’année 2026, la valeur globale des expéditions a atteint 2,66 milliards d&#x27;euros, confirmant la solidité de la balance commerciale marocaine sur ce marché stratégique. <span class=\"news-reason\">Fournit des données chiffrées sur la performance globale des exportations d&#x27;un concurrent direct vers le marché européen.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/les-exportations-agroalimentaires-du-maroc-vers-lue-une-croissance-soutenue-et-une-balance-commerciale-favorable/\" target=\"_blank\">CAGOR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Growth of Morocco&#x27;s agri-food exports to the EU in 2026 -- <span class=\"news-date\">05/10/2026 09:17</span></div><div class=\"news-body\">Morocco’s agri-food exports to the European Union maintain a trajectory of sustained growth. During the first seven months of 2026, the overall value of shipments reached 2.66 billion euros, confirming the strength of the Moroccan trade balance in this strategic market. <span class=\"news-reason\">Provides figures on the overall export performance of a direct competitor to the European market.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/les-exportations-agroalimentaires-du-maroc-vers-lue-une-croissance-soutenue-et-une-balance-commerciale-favorable/\" target=\"_blank\">CAGOR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">התקדמות בייצוא מוצרי מזון חקלאיים ממרוקו לאיחוד האירופי בשנת 2026 -- <span class=\"news-date\">05/10/2026 09:17</span></div><div class=\"news-body\">ייצוא מוצרי המזון החקלאיים של מרוקו לאיחוד האירופי שומר על מסלול צמיחה מתמיד. במהלך שבעת החודשים הראשונים של שנת 2026, השווי הכולל של המשלוחים הגיע ל-2.66 מיליארד אירו, מה שמאשר את יציבות מאזן הסחר המרוקאי בשוק אסטרטגי זה. <span class=\"news-reason\">מספק נתונים מספריים על הביצועים הכוללים של הייצוא של מתחרה ישיר לשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://cagor.net/les-exportations-agroalimentaires-du-maroc-vers-lue-une-croissance-soutenue-et-une-balance-commerciale-favorable/\" target=\"_blank\">CAGOR -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791273782_3",
-      "timestamp": "2026-10-06T08:03:02.149723+00:00",
-      "title": "Index Fresh renforce son positionnement stratégique au sein de la filière de l&#x27;avocat -- 05/10/2026 13:57",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Index Fresh renforce son positionnement stratégique au sein de la filière de l&#x27;avocat -- <span class=\"news-date\">05/10/2026 13:57</span></div><div class=\"news-body\">L&#x27;entreprise Index Fresh profite du salon IFPA Global Produce &amp; Floral Show pour présenter l&#x27;expansion de son portefeuille d&#x27;avocats. Forte de 112 ans d&#x27;existence, la société met en avant son modèle axé sur les producteurs et sa spécialisation exclusive dans la catégorie avocat pour consolider sa position sur le marché. <span class=\"news-reason\">Mouvement stratégique d&#x27;un acteur majeur de l&#x27;avocat, produit clé de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9875353/history-and-focus-on-avocados-on-display/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Index Fresh strengthens its strategic positioning within the avocado industry -- <span class=\"news-date\">05/10/2026 13:57</span></div><div class=\"news-body\">The company Index Fresh is taking advantage of the IFPA Global Produce &amp; Floral Show to present the expansion of its avocado portfolio. With 112 years of history, the company highlights its grower-focused model and its exclusive specialization in the avocado category to consolidate its market position. <span class=\"news-reason\">Strategic movement of a major player in avocados, a key product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9875353/history-and-focus-on-avocados-on-display/\" target=\"_blank\">FreshPlaza -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות ברשתות שיווק</div><div class=\"news-title\">Index Fresh מחזקת את המיצוב האסטרטגי שלה בענף האבוקדו -- <span class=\"news-date\">05/10/2026 13:57</span></div><div class=\"news-body\">חברת Index Fresh מנצלת את תערוכת IFPA Global Produce &amp; Floral Show כדי להציג את הרחבת פורטפוליו האבוקדו שלה. עם ותק של 112 שנים, החברה מדגישה את המודל שלה הממוקד במגדלים ואת התמחותה הבלעדית בקטגוריית האבוקדו כדי לבסס את מעמדה בשוק. <span class=\"news-reason\">מהלך אסטרטגי של שחקן מרכזי בענף האבוקדו, מוצר מפתח של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9875353/history-and-focus-on-avocados-on-display/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791273782_1",
-      "timestamp": "2026-10-06T08:03:02.149723+00:00",
-      "title": "Le Bangladesh sollicite une augmentation des importations de dattes et d&#x27;oranges -- 05/10/2026 13:29",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Jessica",
-        "Nadia"
-      ],
-      "products": [
-        "date",
-        "orange"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le Bangladesh sollicite une augmentation des importations de dattes et d&#x27;oranges -- <span class=\"news-date\">05/10/2026 13:29</span></div><div class=\"news-body\">Le ministre du Commerce du Bangladesh a exhorté les importateurs de fruits à accélérer l&#x27;ouverture de lettres de crédit pour accroître l&#x27;offre de dattes et d&#x27;oranges sur le marché local. Une décision concernant la révision des droits de douane et des taxes sur les dattes est attendue cette semaine afin de stabiliser les prix de détail. <span class=\"news-reason\">Analyse de la demande sur un marché tiers pour les dattes et oranges, avec impact potentiel sur les taxes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9879842/bangladesh-urges-higher-orange-imports-as-retail-prices-rise/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Bangladesh calls for increased imports of dates and oranges -- <span class=\"news-date\">05/10/2026 13:29</span></div><div class=\"news-body\">The Bangladesh Commerce Minister has urged fruit importers to speed up the opening of letters of credit to increase the supply of dates and oranges on the local market. A decision regarding the revision of customs duties and taxes on dates is expected this week to stabilize retail prices. <span class=\"news-reason\">Analysis of demand in a third-party market for dates and oranges, with potential impact on taxes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9879842/bangladesh-urges-higher-orange-imports-as-retail-prices-rise/\" target=\"_blank\">FreshPlaza -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">בנגלדש מבקשת להגדיל את יבוא התמרים והתפוזים -- <span class=\"news-date\">05/10/2026 13:29</span></div><div class=\"news-body\">שר המסחר של בנגלדש דחק ביבואני הפירות להאיץ את פתיחת מכתבי האשראי כדי להגדיל את היצע התמרים והתפוזים בשוק המקומי. החלטה בנוגע לבחינה מחדש של המכס והמסים על תמרים צפויה השבוע במטרה לייצב את המחירים לצרכן. <span class=\"news-reason\">ניתוח הביקוש בשוק שלישי לתמרים ותפוזים, עם השפעה פוטנציאלית על המסים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9879842/bangladesh-urges-higher-orange-imports-as-retail-prices-rise/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791273782_0",
-      "timestamp": "2026-10-06T08:03:02.149723+00:00",
-      "title": "Kenya : un producteur d&#x27;avocats Hass récolte 14 tonnes sur une petite exploitation -- 05/10/2026 12:04",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "KEN"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Kenya : un producteur d&#x27;avocats Hass récolte 14 tonnes sur une petite exploitation -- <span class=\"news-date\">05/10/2026 12:04</span></div><div class=\"news-body\">Au Kenya, un producteur de Kirinyaga Central exploite un verger de 2,8 hectares comptant 464 arbres d&#x27;avocats Hass. L&#x27;exploitation génère une production annuelle d&#x27;environ 14 tonnes d&#x27;avocats, pour un chiffre d&#x27;affaires brut s&#x27;élevant à plus de 1,12 million de shillings kenyans, soit environ 7 680 euros. <span class=\"news-reason\">Informations précises sur les rendements et les revenus d&#x27;une origine concurrente pour l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9879616/blinde-keniaanse-avocadoteler-oogst-14-ton-van-464-hass-bomen/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Kenya: Hass avocado grower harvests 14 tons on small-scale farm -- <span class=\"news-date\">05/10/2026 12:04</span></div><div class=\"news-body\">In Kenya, a grower from Kirinyaga Central operates a 2.8-hectare orchard with 464 Hass avocado trees. The farm generates an annual production of approximately 14 tons of avocados, with gross revenue amounting to more than 1.12 million Kenyan shillings, or about 7,680 euros. <span class=\"news-reason\">Specific information on yields and income from a competing origin for avocados.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9879616/blinde-keniaanse-avocadoteler-oogst-14-ton-van-464-hass-bomen/\" target=\"_blank\">AGF.nl -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">קניה: מגדל אבוקדו האס הפיק 14 טון במשק קטן -- <span class=\"news-date\">05/10/2026 12:04</span></div><div class=\"news-body\">בקניה, מגדל ממרכז קיריניאגה מעבד מטע בשטח 2.8 הקטר הכולל 464 עצי אבוקדו האס. המשק מייצר תפוקה שנתית של כ-14 טון אבוקדו, עם מחזור הכנסות גולמי המסתכם ביותר מ-1.12 מיליון שילינג קנייתי, שהם כ-7,680 אירו. <span class=\"news-reason\">מידע מדויק על יבולים והכנסות של מקור מתחרה לאבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9879616/blinde-keniaanse-avocadoteler-oogst-14-ton-van-464-hass-bomen/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
