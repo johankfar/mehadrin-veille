@@ -1125,42 +1125,9 @@
         "summary_fr": "Expansion des exportations égyptiennes vers de nouveaux marchés internationaux."
       },
       "gemini_score": 5
-    },
-    {
-      "id": "1791392754_1",
-      "timestamp": "2026-10-07T17:05:54.805562+00:00",
-      "title": "Impact des inondations sur les exportations de fruits au Maroc -- 07/10/2026 15:00",
-      "title_hash": "impact inondations exportations fruits maroc",
-      "category": "ALERTES SUPPLY",
-      "commercials": [],
-      "products": [],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact des inondations sur les exportations de fruits au Maroc -- <span class=\"news-date\">07/10/2026 15:00</span></div><div class=\"news-body\">L&#x27;exportateur marocain AGCO fait état d&#x27;une campagne particulièrement difficile en raison d&#x27;inondations dans le nord du Maroc en début de saison. Ces intempéries, couplées à des tensions sur les marchés internationaux, ont lourdement impacté les capacités d&#x27;approvisionnement et de commercialisation de l&#x27;entreprise. <span class=\"news-reason\">Alerte sur les difficultés d&#x27;approvisionnement et de sourcing chez un concurrent direct.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9880547/c-etait-de-loin-notre-saison-la-plus-difficile/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Impact of floods on fruit exports in Morocco -- <span class=\"news-date\">07/10/2026 15:00</span></div><div class=\"news-body\">Moroccan exporter AGCO reports a particularly difficult season due to flooding in northern Morocco at the start of the season. These weather events, coupled with tensions on international markets, have heavily impacted the company&#x27;s supply and marketing capabilities. <span class=\"news-reason\">Alert on supply and sourcing difficulties at a direct competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9880547/c-etait-de-loin-notre-saison-la-plus-difficile/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השפעת השיטפונות על יצוא הפירות במרוקו -- <span class=\"news-date\">07/10/2026 15:00</span></div><div class=\"news-body\">היצואן המרוקאי AGCO מדווח על עונה קשה במיוחד בשל שיטפונות בצפון מרוקו בתחילת העונה. פגעי מזג אוויר אלו, יחד עם מתחים בשווקים הבינלאומיים, השפיעו קשות על יכולות האספקה והשיווק של החברה. <span class=\"news-reason\">התראה על קשיי אספקה ורכש אצל מתחרה ישיר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9880547/c-etait-de-loin-notre-saison-la-plus-difficile/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>",
-      "rss_metadata": {
-        "id": "rss-d029562be6871f5e",
-        "title": "« C'était de loin notre saison la plus difficile »",
-        "summary": "AGCO, conditionneur et exportateur marocain de fruits et légumes, reprend son élan après une saison particulièrement éprouvante, tant sur le plan de l'approvisionnement que de la commercialisation. À peine sorti d'une période d'inondations dans le nord du Maroc en début de campagne, l'entreprise,…",
-        "url": "https://www.freshplaza.fr/article/9880547/c-etait-de-loin-notre-saison-la-plus-difficile/",
-        "source": "FreshPlaza FR",
-        "published_at": "2026-10-07T15:00:00+02:00",
-        "language": "fr",
-        "products": [],
-        "origins": [
-          "MAR"
-        ]
-      },
-      "attention_enrichment": {
-        "title_fr": "Inondations et tensions logistiques pour l'origine Maroc",
-        "summary_fr": "Difficultés majeures d'approvisionnement et de commercialisation suite aux intempéries climatiques"
-      },
-      "gemini_score": 5
     }
   ],
-  "article_count": 31,
+  "article_count": 30,
   "attention_points": [
     {
       "id": "attention-f24901b0946366a9",
