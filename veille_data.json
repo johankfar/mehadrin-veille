@@ -1351,48 +1351,9 @@
         "summary_fr": "Augmentation attendue de la consommation par habitant en Europe"
       },
       "gemini_score": 9
-    },
-    {
-      "id": "1791360199_1",
-      "timestamp": "2026-10-07T08:03:19.349083+00:00",
-      "title": "Le Pérou anticipe l&#x27;impact d&#x27;El Niño sur la campagne de l&#x27;avocat",
-      "title_hash": "pérou anticipe lx27impact dx27el niño campagne dx27avocats",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "PER"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le Pérou anticipe l&#x27;impact d&#x27;El Niño sur la campagne de l&#x27;avocat -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">Lors du Congrès de l&#x27;Avocat 2026 à Madrid, les débats ont porté sur l&#x27;impact du phénomène El Niño et les défis logistiques. José Antonio Castro, président de ProHass, a déclaré que le Pérou prépare actuellement des simulations pour faire face à un épisode El Niño plus intense lors de la prochaine campagne afin de sécuriser l&#x27;approvisionnement. <span class=\"news-reason\">Alerte sur les risques climatiques affectant une origine concurrente majeure (Pérou).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880271/el-congreso-del-aguacate-de-madrid-situa-a-el-nino-y-la-logistica-en-el-centro-de-la-proxima-campana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Peru anticipates the impact of El Niño on the avocado season -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">At the 2026 Avocado Congress in Madrid, discussions focused on the impact of the El Niño phenomenon and logistical challenges. José Antonio Castro, president of ProHass, stated that Peru is currently preparing simulations to deal with a more intense El Niño event during the next campaign to secure supply. <span class=\"news-reason\">Alert on climate risks affecting a major competing origin (Peru).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880271/el-congreso-del-aguacate-de-madrid-situa-a-el-nino-y-la-logistica-en-el-centro-de-la-proxima-campana/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">פרו נערכת להשפעת אל-ניניו על עונת האבוקדו -- <span class=\"news-date\">06/10/2026 15:26</span></div><div class=\"news-body\">במהלך קונגרס האבוקדו 2026 במדריד, הדיונים התמקדו בהשפעת תופעת אל-ניניו ובאתגרים הלוגיסטיים. חוסה אנטוניו קסטרו, נשיא ProHass, הצהיר כי פרו מכינה כעת סימולציות להתמודדות עם אירוע אל-ניניו עז יותר בעונה הבאה במטרה להבטיח את האספקה. <span class=\"news-reason\">התראה על סיכונים אקלימיים המשפיעים על מקור אספקה מתחרה מרכזי (פרו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880271/el-congreso-del-aguacate-de-madrid-situa-a-el-nino-y-la-logistica-en-el-centro-de-la-proxima-campana/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>",
-      "rss_metadata": {
-        "id": "rss-6f57c1cfc9c1b9b2",
-        "title": "El Congreso del Aguacate de Madrid sitúa a El Niño y la logística en el centro de la próxima campaña",
-        "summary": "El Congreso del Aguacate 2026, celebrado en Madrid como antesala de Fruit Attraction, reunió a representantes de los principales orígenes que abastecen a Europa. El fenómeno de El Niño y la logística centraron los debates. Perú prepara su simulación ante un El Niño más intensoJosé Antonio Castro, presidente…",
-        "url": "https://www.freshplaza.es/article/9880271/el-congreso-del-aguacate-de-madrid-situa-a-el-nino-y-la-logistica-en-el-centro-de-la-proxima-campana/",
-        "source": "FreshPlaza ES",
-        "published_at": "2026-10-06T15:26:00+02:00",
-        "language": "es",
-        "products": [
-          "avocat"
-        ],
-        "origins": [
-          "PER"
-        ]
-      },
-      "attention_enrichment": {
-        "title_fr": "Menace d'El Niño sur la production d'avocats",
-        "summary_fr": "Le Pérou prépare des simulations face au risque climatique."
-      },
-      "gemini_score": 7
     }
   ],
-  "article_count": 37,
+  "article_count": 36,
   "attention_points": [
     {
       "id": "attention-f24901b0946366a9",
