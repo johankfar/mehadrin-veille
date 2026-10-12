@@ -1,7 +1,65 @@
 {
-  "last_updated": "2026-10-12T11:01:10.780517+00:00",
-  "article_count": 18,
+  "last_updated": "2026-10-12T12:32:20.718315+00:00",
+  "article_count": 22,
   "attention_points": [
+    {
+      "id": "attention-f5222695842d9b83",
+      "article_id": "1791808340_1",
+      "url": "https://www.freshplaza.com/article/9882176/egypt-has-become-the-default-origin-while-still-being-read-as-the-budget-one/",
+      "source": "FreshPlaza",
+      "title": "L'Égypte s'affirme comme le leader des exportations de patates",
+      "summary": "Les exportations égyptiennes de patates douces ont fortement progressé alors que la production mondiale s'est contractée sur deux décennies.",
+      "origin_code": "EGY",
+      "origin_label": "Égypte",
+      "published_at": "2026-10-12T13:40:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "information",
+      "products": [
+        "sweet_potato"
+      ],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-25d6a0ad37a71a7d",
+      "article_id": "1791808340_0",
+      "url": "https://www.freshplaza.com/article/9881860/usda-releases-first-citrus-crop-forecast-of-the-season/",
+      "source": "FreshPlaza",
+      "title": "Prévisions initiales de l'USDA pour la campagne agrumicole",
+      "summary": "L'USDA a publié ses premières prévisions pour la saison 2026-2027 en Floride.",
+      "origin_code": "USA",
+      "origin_label": "États-Unis",
+      "published_at": "2026-10-12T13:34:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "orange",
+        "citrus_grapefruit"
+      ],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-7bebb09a28b5984c",
+      "article_id": "1791808340_2",
+      "url": "https://www.freshplaza.com/article/9882166/heat-and-drought-reduce-grapefruit-size-in-texas/",
+      "source": "FreshPlaza",
+      "title": "La sécheresse au Texas réduit le calibre des pomelos",
+      "summary": "La chaleur au Texas impacte la taille des pomelos.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-10-12T13:34:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
+      "products": [
+        "citrus_grapefruit"
+      ],
+      "age_hours": 0
+    },
     {
       "id": "attention-a0fb71b4dcf7e73f",
       "article_id": "1791802870_0",
@@ -19,67 +77,81 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 0
-    },
-    {
-      "id": "attention-a49ebc51f847c143",
-      "article_id": "1791781278_2",
-      "url": "https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/",
-      "source": "FreshPlaza IT",
-      "title": "Baisse des cours de la grenade",
-      "summary": "Selon les données de BMTI et Italmercati, le mois d'octobre enregistre une baisse des cours pour plusieurs produits.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-10-12T06:00:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "price",
-      "signal_label": "Prix",
-      "icon": "information",
-      "products": [
-        "pomegranate"
-      ],
-      "age_hours": 7
-    },
-    {
-      "id": "attention-dad3c1e6df93fa1a",
-      "article_id": "1791781278_0",
-      "url": "https://www.freshplaza.it/article/9879165/esportazioni-di-avocado-dal-sudafrica-in-crescita-del-16-per-cento/",
-      "source": "FreshPlaza IT",
-      "title": "Afrique du Sud : les exportations d'avocats progressent",
-      "summary": "L'Afrique du Sud a exporté 21 millions de cartons de 4 kg d'avocats cette saison, soit une augmentation de près de 16 % par rapport à l'année précédente.",
-      "origin_code": "ZAF",
-      "origin_label": "Afrique du Sud",
-      "published_at": "2026-10-12T06:00:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "information",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 7
-    },
-    {
-      "id": "attention-39536942840dba2b",
-      "article_id": "1791781278_1",
-      "url": "https://east-fruit.com/en/news/ajwa-dates-now-being-grown-in-egypt/",
-      "source": "EastFruit",
-      "title": "L'Égypte lance la production de dattes Ajwa destinées",
-      "summary": "La société égyptienne J K for Agricultural Investments a achevé son premier essai de culture de dattes Ajwa, traditionnellement produites en Arabie Saoudite.",
-      "origin_code": "EGY",
-      "origin_label": "Égypte",
-      "published_at": "2026-10-11T05:58:20+00:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "date"
-      ],
-      "age_hours": 29
+      "age_hours": 2
     }
   ],
   "articles": [
+    {
+      "id": "1791808340_3",
+      "timestamp": "2026-10-12T12:32:20.718315+00:00",
+      "title": "L&#x27;Égypte ambitionne d&#x27;atteindre 10 millions de tonnes d&#x27;exportations agricoles d&#x27;ici fin 2026 -- 12/10/2026 13:34",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia",
+        "Ophélie"
+      ],
+      "products": [
+        "sweet_potato"
+      ],
+      "origins": [
+        "EGY"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Égypte ambitionne d&#x27;atteindre 10 millions de tonnes d&#x27;exportations agricoles d&#x27;ici fin 2026 -- <span class=\"news-date\">12/10/2026 13:34</span></div><div class=\"news-body\">L&#x27;Égypte a pour objectif de dépasser les 10 millions de tonnes d&#x27;exportations agricoles fraîches d&#x27;ici la fin de l&#x27;année 2026. Ce volume marque une croissance continue depuis 2014, où les exportations s&#x27;élevaient à environ 4 millions de tonnes. <span class=\"news-reason\">Présente des objectifs de volumes globaux pour une origine concurrente majeure sur plusieurs produits Mehadrin (agrumes, patates douces).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881936/egypt-targets-over-10-million-tons-in-fresh-agricultural-exports-in-2026/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Egypt aims to reach 10 million tons of agricultural exports by late 2026 -- <span class=\"news-date\">12/10/2026 13:34</span></div><div class=\"news-body\">Egypt aims to exceed 10 million tons of fresh agricultural exports by the end of 2026. This volume marks continuous growth since 2014, when exports stood at approximately 4 million tons. <span class=\"news-reason\">Presents overall volume targets for a major competing origin on several Mehadrin products (citrus, sweet potatoes).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881936/egypt-targets-over-10-million-tons-in-fresh-agricultural-exports-in-2026/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מצרים שואפת להגיע ל-10 מיליון טון ייצוא חקלאי עד סוף 2026 -- <span class=\"news-date\">12/10/2026 13:34</span></div><div class=\"news-body\">מצרים שואפת לעבור את רף 10 מיליון הטונות של ייצוא חקלאי טרי עד סוף שנת 2026. נפח זה מסמן צמיחה מתמשכת מאז 2014, אז עמד הייצוא על כ-4 מיליון טונות. <span class=\"news-reason\">מציג יעדי כמויות גלובליים עבור מקור מתחרה מרכזי במספר מוצרים של מהדרין (הדרים, בטטות).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881936/egypt-targets-over-10-million-tons-in-fresh-agricultural-exports-in-2026/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791808340_2",
+      "timestamp": "2026-10-12T12:32:20.718315+00:00",
+      "title": "La sécheresse au Texas réduit le calibre des pomelos -- 12/10/2026 13:34",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "citrus_grapefruit"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La sécheresse au Texas réduit le calibre des pomelos -- <span class=\"news-date\">12/10/2026 13:34</span></div><div class=\"news-body\">Les producteurs d&#x27;agrumes de la vallée du Rio Grande au Texas signalent des fruits de plus petite taille au début de la récolte. Les températures élevées de l&#x27;été et le manque d&#x27;humidité dans le sol ont provoqué un stress thermique limitant le développement des pomelos. <span class=\"news-reason\">Alerte sur la disponibilité et la qualité (calibres réduits) d&#x27;un produit concurrent direct (pomelo) suite à des intempéries.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882166/heat-and-drought-reduce-grapefruit-size-in-texas/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Drought in Texas reduces grapefruit size -- <span class=\"news-date\">12/10/2026 13:34</span></div><div class=\"news-body\">Citrus growers in the Rio Grande Valley in Texas report smaller fruit sizes at the start of the harvest. High summer temperatures and lack of soil moisture caused heat stress limiting grapefruit development. <span class=\"news-reason\">Alert on the availability and quality (reduced sizes) of a direct competing product (grapefruit) following bad weather.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882166/heat-and-drought-reduce-grapefruit-size-in-texas/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">הבצורת בטקסס מקטינה את גודל האשכוליות -- <span class=\"news-date\">12/10/2026 13:34</span></div><div class=\"news-body\">מגדלי הדרים בעמק הריו גרנדה בטקסס מדווחים על פירות קטנים יותר בתחילת הקטיף. הטמפרטורות הגבוהות בקיץ והמחסור בלחות בקרקע גרמו לעקת חום שהגבילה את התפתחות האשכוליות. <span class=\"news-reason\">התראה על זמינות ואיכות (גדלים קטנים יותר) של מוצר מתחרה ישיר (אשכוליות) בעקבות פגעי מזג אוויר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882166/heat-and-drought-reduce-grapefruit-size-in-texas/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791808340_1",
+      "timestamp": "2026-10-12T12:32:20.718315+00:00",
+      "title": "L&#x27;Égypte s&#x27;affirme comme le leader des exportations de patates douces vers l&#x27;Europe -- 12/10/2026 13:40",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "sweet_potato"
+      ],
+      "origins": [
+        "EGY"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;Égypte s&#x27;affirme comme le leader des exportations de patates douces vers l&#x27;Europe -- <span class=\"news-date\">12/10/2026 13:40</span></div><div class=\"news-body\">Les exportations égyptiennes de patates douces ont fortement progressé alors que la production mondiale s&#x27;est contractée sur deux décennies. L&#x27;Égypte livre désormais plus de volumes en Europe que n&#x27;importe quelle autre origine, s&#x27;imposant comme le fournisseur par défaut du marché. <span class=\"news-reason\">Analyse le positionnement stratégique de l&#x27;Égypte, principal concurrent de Mehadrin sur la patate douce, en tant que premier fournisseur européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882176/egypt-has-become-the-default-origin-while-still-being-read-as-the-budget-one/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Egypt asserts itself as the leader in sweet potato exports to Europe -- <span class=\"news-date\">12/10/2026 13:40</span></div><div class=\"news-body\">Egyptian sweet potato exports have grown strongly while global production has contracted over two decades. Egypt now delivers more volume to Europe than any other origin, establishing itself as the market&#x27;s default supplier. <span class=\"news-reason\">Analyzes the strategic positioning of Egypt, Mehadrin&#x27;s main competitor in sweet potatoes, as the leading European supplier.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882176/egypt-has-become-the-default-origin-while-still-being-read-as-the-budget-one/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">מצרים מתבססת כמובילה בייצוא בטטות לאירופה -- <span class=\"news-date\">12/10/2026 13:40</span></div><div class=\"news-body\">ייצוא הבטטות המצרי רשם צמיחה חדה בעוד שהייצור העולמי התכווץ במהלך שני עשורים. מצרים מספקת כיום נפחים גדולים יותר לאירופה מכל מקור אחר, והופכת לספק ברירת המחדל של השוק. <span class=\"news-reason\">מנתח את המיצוב האסטרטגי של מצרים, המתחרה העיקרית של מהדרין בתחום הבטטות, כספקית האירופית המובילה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882176/egypt-has-become-the-default-origin-while-still-being-read-as-the-budget-one/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791808340_0",
+      "timestamp": "2026-10-12T12:32:20.718315+00:00",
+      "title": "Prévisions initiales de l&#x27;USDA pour la campagne agrumicole en Floride -- 12/10/2026 13:34",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine",
+        "orange",
+        "citrus_grapefruit"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prévisions initiales de l&#x27;USDA pour la campagne agrumicole en Floride -- <span class=\"news-date\">12/10/2026 13:34</span></div><div class=\"news-body\">L&#x27;USDA a publié ses premières prévisions pour la saison 2026-2027 en Floride. La production est estimée à 10 millions de caisses d&#x27;oranges (90 lb), 1,3 million de caisses de pomelos (85 lb) et 450 000 caisses de mandarines (95 lb). <span class=\"news-reason\">Contient des prévisions chiffrées précises sur la production d&#x27;oranges, de pomelos et de mandarines pour la saison 2026-2027.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881860/usda-releases-first-citrus-crop-forecast-of-the-season/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">USDA initial forecasts for the Florida citrus campaign -- <span class=\"news-date\">12/10/2026 13:34</span></div><div class=\"news-body\">The USDA has released its first forecasts for the 2026-2027 season in Florida. Production is estimated at 10 million boxes of oranges (90 lb), 1.3 million boxes of grapefruit (85 lb), and 450,000 boxes of tangerines (95 lb). <span class=\"news-reason\">Contains precise numerical forecasts for orange, grapefruit, and tangerine production for the 2026-2027 season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881860/usda-releases-first-citrus-crop-forecast-of-the-season/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">תחזיות ראשוניות של ה-USDA לעונת ההדרים בפלורידה -- <span class=\"news-date\">12/10/2026 13:34</span></div><div class=\"news-body\">ה-USDA פרסם את תחזיותיו הראשונות לעונת 2026-2027 בפלורידה. הייצור מוערך ב-10 מיליון תיבות תפוזים (90 ליברות), 1.3 מיליון תיבות אשכוליות (85 ליברות) ו-450,000 תיבות מנדרינות (95 ליברות). <span class=\"news-reason\">כולל תחזיות מספריות מדויקות לגבי ייצור תפוזים, אשכוליות ומנדרינות לעונת 2026-2027.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881860/usda-releases-first-citrus-crop-forecast-of-the-season/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1791802870_0",
       "timestamp": "2026-10-12T11:01:10.780517+00:00",
@@ -137,7 +209,7 @@
     {
       "id": "1791781278_2",
       "timestamp": "2026-10-12T05:01:18.596906+00:00",
-      "title": "Baisse des cours de la grenade et de la patate douce en octobre",
+      "title": "Repli des cours de la grenade et de la patate douce en octobre",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica",
@@ -148,7 +220,7 @@
         "pomegranate"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse des cours de la grenade et de la patate douce en octobre -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, le mois d&#x27;octobre enregistre une baisse des cours pour plusieurs produits. Les grenades et les patates douces deviennent plus abordables sur les marchés de gros, marquant une tendance saisonnière de prix à la baisse pour ces catégories. <span class=\"news-reason\">Indicateur de tendance de prix sur deux produits Mehadrin actuellement en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Repli des cours de la grenade et de la patate douce en octobre -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, le mois d&#x27;octobre enregistre une baisse des cours pour plusieurs produits. Les grenades et les patates douces deviennent plus abordables sur les marchés de gros, marquant une tendance saisonnière de prix à la baisse pour ces catégories. <span class=\"news-reason\">Indicateur de tendance de prix sur deux produits Mehadrin actuellement en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decrease in prices for pomegranates and sweet potatoes in October -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">According to data from BMTI and Italmercati, the month of October recorded a price drop for several products. Pomegranates and sweet potatoes are becoming more affordable on wholesale markets, marking a seasonal downward price trend for these categories. <span class=\"news-reason\">Price trend indicator for two Mehadrin products currently in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידת מחירי הרימונים והבטטות באוקטובר -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">על פי נתוני BMTI ו-Italmercati, חודש אוקטובר רושם ירידה במחירים עבור מספר מוצרים. הרימונים והבטטות הופכים לנגישים יותר בשווקים הסיטונאיים, דבר המסמן מגמה עונתית של ירידת מחירים לקטגוריות אלו. <span class=\"news-reason\">אינדיקטור למגמת המחירים עבור שני מוצרי מהדרין הנמצאים כעת בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -263,7 +335,7 @@
     {
       "id": "1791565350_0",
       "timestamp": "2026-10-09T17:02:30.346038+00:00",
-      "title": "L&#x27;Espagne franchit le cap des 24 000 hectares de cultures d&#x27;avocats",
+      "title": "L&#x27;Espagne franchit le seuil des 24 000 hectares de cultures d&#x27;avocats",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -274,7 +346,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Espagne franchit le cap des 24 000 hectares de cultures d&#x27;avocats -- <span class=\"news-date\">09/10/2026 17:34</span></div><div class=\"news-body\">L&#x27;Espagne confirme sa position de leader européen avec 24 758 hectares d&#x27;avocats en production. Les données indiquent une culture en expansion, bien que la croissance soit désormais conditionnée par l&#x27;accès à l&#x27;eau et une forte concentration des périodes de récolte. <span class=\"news-reason\">Données de surface précises pour l&#x27;avocat en Espagne, origine concurrente majeure de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881642/espana-cuenta-con-24-758-hectareas-de-aguacate-y-6-148-de-mango/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Espagne franchit le seuil des 24 000 hectares de cultures d&#x27;avocats -- <span class=\"news-date\">09/10/2026 17:34</span></div><div class=\"news-body\">L&#x27;Espagne confirme sa position de leader européen avec 24 758 hectares d&#x27;avocats en production. Les données indiquent une culture en expansion, bien que la croissance soit désormais conditionnée par l&#x27;accès à l&#x27;eau et une forte concentration des périodes de récolte. <span class=\"news-reason\">Données de surface précises pour l&#x27;avocat en Espagne, origine concurrente majeure de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881642/espana-cuenta-con-24-758-hectareas-de-aguacate-y-6-148-de-mango/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain passes the 24,000 hectare mark for avocado crops -- <span class=\"news-date\">09/10/2026 17:34</span></div><div class=\"news-body\">Spain confirms its position as European leader with 24,758 hectares of avocados in production. Data indicates an expanding crop, although growth is now conditioned by access to water and a high concentration of harvest periods. <span class=\"news-reason\">Precise surface area data for avocados in Spain, a major competing origin for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881642/espana-cuenta-con-24-758-hectareas-de-aguacate-y-6-148-de-mango/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">ספרד חוצה את רף ה-24,000 הקטרים של גידולי אבוקדו -- <span class=\"news-date\">09/10/2026 17:34</span></div><div class=\"news-body\">ספרד מאשרת את מעמדה כמובילה אירופאית עם 24,758 הקטרים של אבוקדו בייצור. הנתונים מצביעים על גידול במגמת התרחבות, אם כי הצמיחה מותנית כיום בגישה למים ובריכוז גבוה של תקופות הקטיף. <span class=\"news-reason\">נתוני שטח מדויקים עבור אבוקדו בספרד, מקור מתחרה מרכזי של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881642/espana-cuenta-con-24-758-hectareas-de-aguacate-y-6-148-de-mango/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
