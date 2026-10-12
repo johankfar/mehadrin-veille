@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-12T14:02:20.284975+00:00",
-  "article_count": 20,
+  "last_updated": "2026-10-12T15:32:20.676195+00:00",
+  "article_count": 22,
   "attention_points": [
     {
       "id": "attention-287dd0e3933eea8e",
       "article_id": "1791813740_4",
       "url": "https://www.freshplaza.es/article/9881655/el-mercado-mundial-del-aguacate-duplica-su-tamano-en-una-decada/",
       "source": "FreshPlaza ES",
-      "title": "Le marché mondial de l'avocat a doublé de taille",
+      "title": "Le marché mondial de l'avocat a doublé en dix",
       "summary": "Lors du Congrès mondial de l'avocat 2026 à Madrid, la World Avocado Organization (WAO) a souligné que le marché global de ce fruit a doublé en une décennie.",
       "origin_code": null,
       "origin_label": null,
@@ -19,7 +19,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 1
+      "age_hours": 3
     },
     {
       "id": "attention-b5ae8c7b0dfbd108",
@@ -38,7 +38,7 @@
       "products": [
         "citrus_grapefruit"
       ],
-      "age_hours": 1
+      "age_hours": 3
     },
     {
       "id": "attention-f5222695842d9b83",
@@ -57,7 +57,7 @@
       "products": [
         "sweet_potato"
       ],
-      "age_hours": 2
+      "age_hours": 3
     },
     {
       "id": "attention-25d6a0ad37a71a7d",
@@ -77,14 +77,48 @@
         "orange",
         "citrus_grapefruit"
       ],
-      "age_hours": 2
+      "age_hours": 3
     }
   ],
   "articles": [
     {
+      "id": "1791819140_1",
+      "timestamp": "2026-10-12T15:32:20.676195+00:00",
+      "title": "Fruit Attraction 2026 : focus sur les défis de l&#x27;avocat latino-américain -- 12/10/2026 13:35",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Fruit Attraction 2026 : focus sur les défis de l&#x27;avocat latino-américain -- <span class=\"news-date\">12/10/2026 13:35</span></div><div class=\"news-body\">Lors du Congrès de l&#x27;Avocat à Madrid, les acteurs d&#x27;Amérique Latine ont souligné les défis majeurs liés au changement climatique et à la logistique. Le secteur s&#x27;oriente vers une diversification accrue pour sécuriser les exportations vers les marchés mondiaux, notamment l&#x27;Europe. <span class=\"news-reason\">Analyse de la stratégie de diversification et des défis climatiques des pays concurrents en Amérique Latine pour l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9881844/fruit-attraction-2026-climat-logistique-et-diversification-pour-l-amerique-latine/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Fruit Attraction 2026: focus on the challenges of Latin American avocados -- <span class=\"news-date\">12/10/2026 13:35</span></div><div class=\"news-body\">During the Avocado Congress in Madrid, Latin American stakeholders highlighted major challenges related to climate change and logistics. The sector is moving towards increased diversification to secure exports to global markets, particularly Europe. <span class=\"news-reason\">Analysis of the diversification strategy and climate challenges of competing Latin American countries for avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9881844/fruit-attraction-2026-climat-logistique-et-diversification-pour-l-amerique-latine/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות ומקורות</div><div class=\"news-title\">Fruit Attraction 2026: התמקדות באתגרי האבוקדו מאמריקה הלטינית -- <span class=\"news-date\">12/10/2026 13:35</span></div><div class=\"news-body\">במהלך קונגרס האבוקדו במדריד, הדגישו הגורמים הפועלים באמריקה הלטינית את האתגרים המרכזיים הקשורים לשינויי אקלים ולוגיסטיקה. המגזר פונה לעבר גיוון מוגבר כדי להבטיח את היצוא לשווקים העולמיים, בדגש על אירופה. <span class=\"news-reason\">ניתוח של אסטרטגיית הגיוון ואתגרי האקלים של המדינות המתחרות באמריקה הלטינית עבור אבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9881844/fruit-attraction-2026-climat-logistique-et-diversification-pour-l-amerique-latine/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791819140_0",
+      "timestamp": "2026-10-12T15:32:20.676195+00:00",
+      "title": "Mission Produce annonce une nouvelle phase de croissance pour l&#x27;avocat -- 12/10/2026 11:00",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Mission Produce annonce une nouvelle phase de croissance pour l&#x27;avocat -- <span class=\"news-date\">12/10/2026 11:00</span></div><div class=\"news-body\">Mission Produce entre dans une nouvelle ère stratégique visant à renforcer sa plateforme mondiale dédiée à l&#x27;avocat. L&#x27;entreprise prévoit d&#x27;élargir son portefeuille de produits et de consolider sa vision opérationnelle pour maintenir sa position sur le marché international des produits frais. <span class=\"news-reason\">Information stratégique sur un concurrent majeur (Mission Produce) dans le secteur de l&#x27;avocat, incluant des projets d&#x27;élargissement de portefeuille.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/12/mission-produce/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Mission Produce announces a new growth phase for avocados -- <span class=\"news-date\">12/10/2026 11:00</span></div><div class=\"news-body\">Mission Produce is entering a new strategic era aimed at strengthening its global avocado platform. The company plans to expand its product portfolio and consolidate its operational vision to maintain its position in the international fresh produce market. <span class=\"news-reason\">Strategic information on a major competitor (Mission Produce) in the avocado sector, including plans for portfolio expansion.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/12/mission-produce/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות ברשתות שיווק</div><div class=\"news-title\">Mission Produce מכריזה על שלב צמיחה חדש לאבוקדו -- <span class=\"news-date\">12/10/2026 11:00</span></div><div class=\"news-body\">Mission Produce נכנסת לעידן אסטרטגי חדש שמטרתו לחזק את הפלטפורמה העולמית שלה המוקדשת לאבוקדו. החברה מתכננת להרחיב את סל המוצרים שלה ולגבש את החזון המבצעי שלה כדי לשמור על מעמדה בשוק הבינלאומי של תוצרת טרייה. <span class=\"news-reason\">מידע אסטרטגי על מתחרה מרכזי (Mission Produce) במגזר האבוקדו, הכולל תוכניות להרחבת סל המוצרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/12/mission-produce/\" target=\"_blank\">Fresh Fruit Portal -- קרא את הכתבה</a></div></div>"
+    },
+    {
       "id": "1791813740_4",
       "timestamp": "2026-10-12T14:02:20.284975+00:00",
-      "title": "Le marché mondial de l&#x27;avocat a doublé de taille en dix ans",
+      "title": "Le marché mondial de l&#x27;avocat a doublé en dix ans",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -93,7 +127,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le marché mondial de l&#x27;avocat a doublé de taille en dix ans -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">Lors du Congrès mondial de l&#x27;avocat 2026 à Madrid, la World Avocado Organization (WAO) a souligné que le marché global de ce fruit a doublé en une décennie. L&#x27;événement a réuni plus de 700 professionnels pour discuter de l&#x27;expansion continue du secteur et des perspectives de consommation mondiale. <span class=\"news-reason\">Information sur la croissance structurelle du marché de l&#x27;avocat, produit clé de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881655/el-mercado-mundial-del-aguacate-duplica-su-tamano-en-una-decada/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le marché mondial de l&#x27;avocat a doublé en dix ans -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">Lors du Congrès mondial de l&#x27;avocat 2026 à Madrid, la World Avocado Organization (WAO) a souligné que le marché global de ce fruit a doublé en une décennie. L&#x27;événement a réuni plus de 700 professionnels pour discuter de l&#x27;expansion continue du secteur et des perspectives de consommation mondiale. <span class=\"news-reason\">Information sur la croissance structurelle du marché de l&#x27;avocat, produit clé de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881655/el-mercado-mundial-del-aguacate-duplica-su-tamano-en-una-decada/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">The global avocado market has doubled in size in ten years -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">During the 2026 World Avocado Congress in Madrid, the World Avocado Organization (WAO) highlighted that the global market for this fruit has doubled in a decade. The event brought together more than 700 professionals to discuss the continuous expansion of the sector and global consumption prospects. <span class=\"news-reason\">Information on the structural growth of the avocado market, a key product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881655/el-mercado-mundial-del-aguacate-duplica-su-tamano-en-una-decada/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">שוק האבוקדו העולמי הכפיל את גודלו בתוך עשור -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">במהלך קונגרס האבוקדו העולמי 2026 במדריד, ארגון האבוקדו העולמי (WAO) הדגיש כי השוק העולמי של פרי זה הכפיל את גודלו בתוך עשור. האירוע הפגיש למעלה מ-700 אנשי מקצוע כדי לדון בהמשך התרחבות הענף ובתחזיות הצריכה העולמית. <span class=\"news-reason\">מידע על הצמיחה המבנית בשוק האבוקדו, מוצר מפתח של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881655/el-mercado-mundial-del-aguacate-duplica-su-tamano-en-una-decada/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -132,7 +166,7 @@
     {
       "id": "1791813740_1",
       "timestamp": "2026-10-12T14:02:20.284975+00:00",
-      "title": "Nouveau conditionnement bioplastique pour optimiser le transport des arilles de grenade",
+      "title": "Optimisation du transport des arilles de grenade via un nouveau conditionnement bioplastique",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Jessica"
@@ -141,14 +175,14 @@
       "origins": [
         "IND"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Nouveau conditionnement bioplastique pour optimiser le transport des arilles de grenade -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">La société Q-Bic, en collaboration avec l&#x27;exportateur indien Sam Agri, a développé un nouveau système d&#x27;envasement pour les arilles de grenade. Ce format, combinant une barquette bioplastique et une boîte prête pour la vente au détail, permet d&#x27;augmenter la densité de charge de 50 %. Le dispositif est conçu pour optimiser l&#x27;espace logistique tout en répondant aux besoins de la distribution. <span class=\"news-reason\">Innovation logistique chez un concurrent majeur (Inde) sur la grenade, produit actuellement en saison chez Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880555/un-nuevo-envase-de-bioplastico-promete-aumentar-un-50-la-densidad-de-carga-en-los-arilos-de-granada/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Optimisation du transport des arilles de grenade via un nouveau conditionnement bioplastique -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">La société Q-Bic, en collaboration avec l&#x27;exportateur indien Sam Agri, a développé un nouveau système d&#x27;envasement pour les arilles de grenade. Ce format, combinant une barquette bioplastique et une boîte prête pour la vente au détail, permet d&#x27;augmenter la densité de charge de 50 %. Le dispositif est conçu pour optimiser l&#x27;espace logistique tout en répondant aux besoins de la distribution. <span class=\"news-reason\">Innovation logistique chez un concurrent majeur (Inde) sur la grenade, produit actuellement en saison chez Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880555/un-nuevo-envase-de-bioplastico-promete-aumentar-un-50-la-densidad-de-carga-en-los-arilos-de-granada/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">New bioplastic packaging to optimize transport of pomegranate arils -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">The company Q-Bic, in collaboration with Indian exporter Sam Agri, has developed a new packaging system for pomegranate arils. This format, combining a bioplastic tray and a retail-ready box, allows for a 50% increase in load density. The device is designed to optimize logistical space while meeting distribution needs. <span class=\"news-reason\">Logistics innovation from a major competitor (India) for pomegranates, a product currently in season at Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880555/un-nuevo-envase-de-bioplastico-promete-aumentar-un-50-la-densidad-de-carga-en-los-arilos-de-granada/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">אריזת ביו-פלסטיק חדשה לייעול הובלת גרגירי רימון -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">חברת Q-Bic, בשיתוף עם היצואנית ההודית Sam Agri, פיתחה מערכת אריזה חדשה לגרגירי רימון. פורמט זה, המשלב מגשית ביו-פלסטיק וקופסה המוכנה לקמעונאות, מאפשר להגדיל את צפיפות המטען ב-50%. המערכת נועדה לייעל את המרחב הלוגיסטי תוך מתן מענה לצורכי ההפצה. <span class=\"news-reason\">חדשנות לוגיסטית אצל מתחרה מרכזי (הודו) בתחום הרימונים, מוצר שנמצא כעת בעונה במהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880555/un-nuevo-envase-de-bioplastico-promete-aumentar-un-50-la-densidad-de-carga-en-los-arilos-de-granada/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1791813740_0",
       "timestamp": "2026-10-12T14:02:20.284975+00:00",
-      "title": "Amélioration de la qualité interne des pomelos de Floride par un taux de Brix supérieur",
+      "title": "Amélioration de la qualité interne des pomelos de Floride par l&#x27;augmentation du degré Brix",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -157,7 +191,7 @@
         "citrus_grapefruit"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Amélioration de la qualité interne des pomelos de Floride par un taux de Brix supérieur -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">Le secteur du pomelo en Floride prévoit une campagne 2026-2027 qualitative malgré des gelées printanières. Les niveaux de Brix sont supérieurs de 10 % par rapport à l&#x27;année dernière, avec une récolte jugée uniforme. Les arbres ont été affectés par le climat, mais la production reste solide pour la saison à venir. <span class=\"news-reason\">Contient des chiffres précis sur la qualité (Brix +10%) et des prévisions de récolte pour un produit concurrent direct de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880988/el-pomelo-de-florida-mejora-su-calidad-interna-con-niveles-de-brix-un-10-superiores-a-los-del-ano-pasado/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Amélioration de la qualité interne des pomelos de Floride par l&#x27;augmentation du degré Brix -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">Le secteur du pomelo en Floride prévoit une campagne 2026-2027 qualitative malgré des gelées printanières. Les niveaux de Brix sont supérieurs de 10 % par rapport à l&#x27;année dernière, avec une récolte jugée uniforme. Les arbres ont été affectés par le climat, mais la production reste solide pour la saison à venir. <span class=\"news-reason\">Contient des chiffres précis sur la qualité (Brix +10%) et des prévisions de récolte pour un produit concurrent direct de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880988/el-pomelo-de-florida-mejora-su-calidad-interna-con-niveles-de-brix-un-10-superiores-a-los-del-ano-pasado/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Improved internal quality of Florida grapefruit with higher Brix levels -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">The Florida grapefruit sector anticipates a high-quality 2026-2027 season despite spring frosts. Brix levels are 10% higher than last year, with a harvest considered uniform. The trees were affected by the climate, but production remains solid for the coming season. <span class=\"news-reason\">Contains precise figures on quality (Brix +10%) and harvest forecasts for a product that is a direct competitor to Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880988/el-pomelo-de-florida-mejora-su-calidad-interna-con-niveles-de-brix-un-10-superiores-a-los-del-ano-pasado/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">שיפור באיכות הפנימית של אשכוליות פלורידה עם רמת בריקס גבוהה יותר -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">ענף האשכוליות בפלורידה צופה עונת 2026-2027 איכותית למרות קרה באביב. רמות הבריקס גבוהות ב-10% בהשוואה לשנה שעברה, עם יבול שנחשב לאחיד. העצים הושפעו מהאקלים, אך הייצור נותר יציב לקראת העונה הקרובה. <span class=\"news-reason\">מכיל נתונים מדויקים על איכות (בריקס +10%) ותחזיות יבול למוצר המתחרה ישירות במהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880988/el-pomelo-de-florida-mejora-su-calidad-interna-con-niveles-de-brix-un-10-superiores-a-los-del-ano-pasado/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
