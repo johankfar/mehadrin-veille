@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-12T05:01:18.596906+00:00",
-  "article_count": 20,
+  "last_updated": "2026-10-12T08:02:12.979553+00:00",
+  "article_count": 18,
   "attention_points": [
     {
       "id": "attention-a49ebc51f847c143",
       "article_id": "1791781278_2",
       "url": "https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/",
       "source": "FreshPlaza IT",
-      "title": "Recul des cours des grenades et des patates douces",
+      "title": "Recul des cours de la grenade",
       "summary": "Selon les données de BMTI et Italmercati, le mois d'octobre enregistre une baisse des cours pour plusieurs produits.",
       "origin_code": null,
       "origin_label": null,
@@ -19,14 +19,14 @@
       "products": [
         "pomegranate"
       ],
-      "age_hours": 1
+      "age_hours": 4
     },
     {
       "id": "attention-dad3c1e6df93fa1a",
       "article_id": "1791781278_0",
       "url": "https://www.freshplaza.it/article/9879165/esportazioni-di-avocado-dal-sudafrica-in-crescita-del-16-per-cento/",
       "source": "FreshPlaza IT",
-      "title": "Afrique du Sud : les exportations d'avocats en hausse",
+      "title": "Afrique du Sud : les exportations d'avocats progressent",
       "summary": "L'Afrique du Sud a exporté 21 millions de cartons de 4 kg d'avocats cette saison, soit une augmentation de près de 16 % par rapport à l'année précédente.",
       "origin_code": "ZAF",
       "origin_label": "Afrique du Sud",
@@ -38,7 +38,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 1
+      "age_hours": 4
     },
     {
       "id": "attention-39536942840dba2b",
@@ -57,7 +57,7 @@
       "products": [
         "date"
       ],
-      "age_hours": 23
+      "age_hours": 26
     },
     {
       "id": "attention-f24901b0946366a9",
@@ -76,14 +76,50 @@
       "products": [
         "orange"
       ],
-      "age_hours": 58
+      "age_hours": 61
     }
   ],
   "articles": [
     {
+      "id": "1791792132_1",
+      "timestamp": "2026-10-12T08:02:12.979553+00:00",
+      "title": "Panorama de la filière citricole en Argentine -- 08/10/2026 14:00",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "ARG"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Panorama de la filière citricole en Argentine -- <span class=\"news-date\">08/10/2026 14:00</span></div><div class=\"news-body\">La Fédération argentine des agrumes a publié un rapport détaillant les capacités de production et le paysage économique du secteur pour la saison 2025. Le document souligne le rôle crucial de l&#x27;Argentine en tant qu&#x27;acteur majeur de l&#x27;industrie mondiale des agrumes et son impact sur le PIB national. <span class=\"news-reason\">Rapport stratégique sur une origine concurrente majeure pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://citrusindustry.net/2026/10/08/overview-argentinas-citrus-industry/\" target=\"_blank\">Citrus Industry -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Overview of the citrus industry in Argentina -- <span class=\"news-date\">08/10/2026 14:00</span></div><div class=\"news-body\">The Argentine Citrus Federation has published a report detailing production capacities and the economic landscape of the sector for the 2025 season. The document highlights Argentina&#x27;s crucial role as a major player in the global citrus industry and its impact on national GDP. <span class=\"news-reason\">Strategic report on a major competing origin for citrus.</span></div><div class=\"news-source\"><a href=\"https://citrusindustry.net/2026/10/08/overview-argentinas-citrus-industry/\" target=\"_blank\">Citrus Industry -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">סקירת ענף ההדרים בארגנטינה -- <span class=\"news-date\">08/10/2026 14:00</span></div><div class=\"news-body\">התאחדות ההדרים הארגנטינאית פרסמה דו\"ח המפרט את יכולות הייצור והנוף הכלכלי של המגזר לעונת 2025. המסמך מדגיש את תפקידה המכריע של ארגנטינה כשחקנית מרכזית בתעשיית ההדרים העולמית ואת השפעתה על התמ\"ג הלאומי. <span class=\"news-reason\">דו\"ח אסטרטגי על מקור מתחרה מרכזי להדרים.</span></div><div class=\"news-source\"><a href=\"https://citrusindustry.net/2026/10/08/overview-argentinas-citrus-industry/\" target=\"_blank\">Citrus Industry -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791792132_0",
+      "timestamp": "2026-10-12T08:02:12.979553+00:00",
+      "title": "Elite Agro développe 400 hectares de mandarines et d&#x27;avocats au Maroc -- 09/10/2026 06:00",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Nadia",
+        "Ophélie"
+      ],
+      "products": [
+        "avocat",
+        "mandarine"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Elite Agro développe 400 hectares de mandarines et d&#x27;avocats au Maroc -- <span class=\"news-date\">09/10/2026 06:00</span></div><div class=\"news-body\">Le groupe émirati Elite Agro Holding a signé un protocole d&#x27;accord pour le développement de la ferme de Sidi Yahia au Maroc. Ce projet de 400 hectares représente un investissement de 380 millions de dirhams. L&#x27;exploitation se concentrera sur la production de mandarines et d&#x27;avocats, renforçant la présence du groupe dans l&#x27;origine marocaine. <span class=\"news-reason\">Expansion majeure d&#x27;un concurrent au Maroc sur des segments clés de Mehadrin (mandarines et avocats).</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/elite-agro-prepare-une-huitieme-ferme-au-maroc-sur-400-hectares/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Elite Agro develops 400 hectares of mandarins and avocados in Morocco -- <span class=\"news-date\">09/10/2026 06:00</span></div><div class=\"news-body\">The Emirati group Elite Agro Holding has signed a memorandum of understanding for the development of the Sidi Yahia farm in Morocco. This 400-hectare project represents an investment of 380 million dirhams. The operation will focus on the production of mandarins and avocados, strengthening the group&#x27;s presence in the Moroccan origin. <span class=\"news-reason\">Major expansion of a competitor in Morocco in key segments for Mehadrin (mandarins and avocados).</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/elite-agro-prepare-une-huitieme-ferme-au-maroc-sur-400-hectares/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות</div><div class=\"news-title\">אלית אגרו מפתחת 400 הקטר של מנדרינות ואבוקדו במרוקו -- <span class=\"news-date\">09/10/2026 06:00</span></div><div class=\"news-body\">הקבוצה האמירתית Elite Agro Holding חתמה על מזכר הבנות לפיתוח חוות סידי יחיא במרוקו. פרויקט זה, המשתרע על פני 400 הקטר, מייצג השקעה של 380 מיליון דירהם. הפעילות תתמקד בייצור מנדרינות ואבוקדו, ותחזק את נוכחות הקבוצה במקור המרוקאי. <span class=\"news-reason\">התרחבות משמעותית של מתחרה במרוקו במגזרים מרכזיים עבור מהדרין (מנדרינות ואבוקדו).</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/elite-agro-prepare-une-huitieme-ferme-au-maroc-sur-400-hectares/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
+    },
+    {
       "id": "1791781278_2",
       "timestamp": "2026-10-12T05:01:18.596906+00:00",
-      "title": "Recul des cours des grenades et des patates douces en octobre",
+      "title": "Recul des cours de la grenade et de la patate douce en octobre",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica",
@@ -94,7 +130,7 @@
         "pomegranate"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul des cours des grenades et des patates douces en octobre -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, le mois d&#x27;octobre enregistre une baisse des cours pour plusieurs produits. Les grenades et les patates douces deviennent plus abordables sur les marchés de gros, marquant une tendance saisonnière de prix à la baisse pour ces catégories. <span class=\"news-reason\">Indicateur de tendance de prix sur deux produits Mehadrin actuellement en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul des cours de la grenade et de la patate douce en octobre -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, le mois d&#x27;octobre enregistre une baisse des cours pour plusieurs produits. Les grenades et les patates douces deviennent plus abordables sur les marchés de gros, marquant une tendance saisonnière de prix à la baisse pour ces catégories. <span class=\"news-reason\">Indicateur de tendance de prix sur deux produits Mehadrin actuellement en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decrease in prices for pomegranates and sweet potatoes in October -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">According to data from BMTI and Italmercati, the month of October recorded a price drop for several products. Pomegranates and sweet potatoes are becoming more affordable on wholesale markets, marking a seasonal downward price trend for these categories. <span class=\"news-reason\">Price trend indicator for two Mehadrin products currently in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידת מחירי הרימונים והבטטות באוקטובר -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">על פי נתוני BMTI ו-Italmercati, חודש אוקטובר רושם ירידה במחירים עבור מספר מוצרים. הרימונים והבטטות הופכים לנגישים יותר בשווקים הסיטונאיים, דבר המסמן מגמה עונתית של ירידת מחירים לקטגוריות אלו. <span class=\"news-reason\">אינדיקטור למגמת המחירים עבור שני מוצרי מהדרין הנמצאים כעת בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -119,7 +155,7 @@
     {
       "id": "1791781278_0",
       "timestamp": "2026-10-12T05:01:18.596906+00:00",
-      "title": "Afrique du Sud : les exportations d&#x27;avocats en hausse de 16 %",
+      "title": "Afrique du Sud : les exportations d&#x27;avocats progressent de 16 %",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -130,7 +166,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique du Sud : les exportations d&#x27;avocats en hausse de 16 % -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">L&#x27;Afrique du Sud a exporté 21 millions de cartons de 4 kg d&#x27;avocats cette saison, soit une augmentation de près de 16 % par rapport à l&#x27;année précédente. Cette hausse de l&#x27;offre, combinée à une demande limitée sur les nouveaux marchés, a maintenu les prix sous pression sur le marché de l&#x27;Union Européenne durant la majeure partie de la campagne. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur les volumes d&#x27;exportation d&#x27;un produit phare de Mehadrin et analyse l&#x27;impact sur les prix en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879165/esportazioni-di-avocado-dal-sudafrica-in-crescita-del-16-per-cento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique du Sud : les exportations d&#x27;avocats progressent de 16 % -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">L&#x27;Afrique du Sud a exporté 21 millions de cartons de 4 kg d&#x27;avocats cette saison, soit une augmentation de près de 16 % par rapport à l&#x27;année précédente. Cette hausse de l&#x27;offre, combinée à une demande limitée sur les nouveaux marchés, a maintenu les prix sous pression sur le marché de l&#x27;Union Européenne durant la majeure partie de la campagne. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur les volumes d&#x27;exportation d&#x27;un produit phare de Mehadrin et analyse l&#x27;impact sur les prix en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879165/esportazioni-di-avocado-dal-sudafrica-in-crescita-del-16-per-cento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">South Africa: 16% increase in avocado exports -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">South Africa exported 21 million 4kg cartons of avocados this season, an increase of nearly 16% compared to the previous year. This increase in supply, combined with limited demand in new markets, kept prices under pressure in the European Union market for most of the season. <span class=\"news-reason\">The article provides precise figures on export volumes of a flagship Mehadrin product and analyzes the impact on prices in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879165/esportazioni-di-avocado-dal-sudafrica-in-crescita-del-16-per-cento/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">דרום אפריקה: עלייה של 16% בייצוא האבוקדו -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">דרום אפריקה ייצאה העונה 21 מיליון קרטונים של 4 ק\"ג אבוקדו, המהווים עלייה של כמעט 16% לעומת השנה הקודמת. עלייה זו בהיצע, בשילוב עם ביקוש מוגבל בשווקים החדשים, שמרה על מחירים תחת לחץ בשוק האיחוד האירופי לאורך רוב העונה. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על כמויות הייצוא של מוצר דגל של מהדרין ומנתח את ההשפעה על המחירים באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9879165/esportazioni-di-avocado-dal-sudafrica-in-crescita-del-16-per-cento/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -356,76 +392,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Plus de 22 000 agriculteurs kenyans se tournent vers la culture de l&#x27;avocat -- <span class=\"news-date\">08/10/2026 13:28</span></div><div class=\"news-body\">Dans le comté de Nakuru au Kenya, plus de 22 000 agriculteurs ont adopté la culture de l&#x27;avocat dans le cadre d&#x27;une initiative de diversification. Le gouvernement local a investi plus de 850 000 USD dans la distribution de plants et l&#x27;expansion des vergers pour accroître les surfaces cultivées. <span class=\"news-reason\">L&#x27;article traite de l&#x27;expansion de la production d&#x27;avocats dans une origine concurrente avec des données chiffrées sur les investissements.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/africa/article/9881235/over-22-000-farmers-take-up-avocado-cultivation-in-kenya-s-nakuru-county/\" target=\"_blank\">FreshPlaza Africa -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Over 22,000 Kenyan farmers turn to avocado cultivation -- <span class=\"news-date\">08/10/2026 13:28</span></div><div class=\"news-body\">In Nakuru County, Kenya, more than 22,000 farmers have adopted avocado cultivation as part of a diversification initiative. The local government has invested over 850,000 USD in seedling distribution and orchard expansion to increase cultivated areas. <span class=\"news-reason\">The article discusses the expansion of avocado production in a competing origin with figures on investments.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/africa/article/9881235/over-22-000-farmers-take-up-avocado-cultivation-in-kenya-s-nakuru-county/\" target=\"_blank\">FreshPlaza Africa -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">למעלה מ-22,000 חקלאים קנייתים פונים לגידול אבוקדו -- <span class=\"news-date\">08/10/2026 13:28</span></div><div class=\"news-body\">במחוז נאקורו שבקניה, למעלה מ-22,000 חקלאים אימצו את גידול האבוקדו כחלק מיוזמת גיוון. הממשל המקומי השקיע למעלה מ-850,000 דולר בהפצת שתילים ובהרחבת המטעים כדי להגדיל את השטחים המעובדים. <span class=\"news-reason\">המאמר עוסק בהתרחבות ייצור האבוקדו במקור מתחרה, עם נתונים מספריים על ההשקעות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/africa/article/9881235/over-22-000-farmers-take-up-avocado-cultivation-in-kenya-s-nakuru-county/\" target=\"_blank\">FreshPlaza Africa -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791532917_0",
-      "timestamp": "2026-10-09T08:01:57.557430+00:00",
-      "title": "Le marché mondial de l&#x27;avocat a doublé en dix ans -- 08/10/2026 12:18",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le marché mondial de l&#x27;avocat a doublé en dix ans -- <span class=\"news-date\">08/10/2026 12:18</span></div><div class=\"news-body\">Lors du congrès mondial de l&#x27;avocat 2026 tenu à Madrid, la World Avocado Organisation (WAO) a annoncé que le marché mondial de l&#x27;avocat a doublé au cours de la dernière décennie. Plus de 700 professionnels ont participé à cet événement pour analyser l&#x27;offre globale, les spécificités de la demande européenne ainsi que les nouvelles tendances de consommation. <span class=\"news-reason\">Analyse du marché mondial et de la demande européenne lors du Avocado Congress 2026.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9880938/wereldwijde-avocadomarkt-in-tien-jaar-verdubbeld/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">The global avocado market has doubled in ten years -- <span class=\"news-date\">08/10/2026 12:18</span></div><div class=\"news-body\">During the 2026 World Avocado Congress held in Madrid, the World Avocado Organisation (WAO) announced that the global avocado market has doubled over the past decade. More than 700 professionals participated in this event to analyze global supply, the specificities of European demand as well as new consumption trends. <span class=\"news-reason\">Analysis of the global market and European demand during the Avocado Congress 2026.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9880938/wereldwijde-avocadomarkt-in-tien-jaar-verdubbeld/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">שוק האבוקדו העולמי הכפיל את עצמו בתוך עשור -- <span class=\"news-date\">08/10/2026 12:18</span></div><div class=\"news-body\">במהלך קונגרס האבוקדו העולמי 2026 שנערך במדריד, ארגון האבוקדו העולמי (WAO) הודיע כי שוק האבוקדו העולמי הכפיל את עצמו במהלך העשור האחרון. למעלה מ-700 אנשי מקצוע השתתפו באירוע זה כדי לנתח את ההיצע הגלובלי, את המאפיינים הספציפיים של הביקוש האירופי וכן מגמות צריכה חדשות. <span class=\"news-reason\">ניתוח השוק העולמי והביקוש האירופי במהלך קונגרס האבוקדו 2026.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9880938/wereldwijde-avocadomarkt-in-tien-jaar-verdubbeld/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791527527_2",
-      "timestamp": "2026-10-09T06:32:07.864190+00:00",
-      "title": "Le Danemark exempte les producteurs de melons des restrictions sur les engrais -- 08/10/2026 13:28",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Sébastien"
-      ],
-      "products": [
-        "melon"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le Danemark exempte les producteurs de melons des restrictions sur les engrais -- <span class=\"news-date\">08/10/2026 13:28</span></div><div class=\"news-body\">Le ministère danois de la Nature et de l’Animal a annoncé que les cultures de melons seront temporairement exemptées des nouvelles restrictions sur les engrais azotés prévues pour 2027. Cette décision fait suite aux inquiétudes des producteurs concernant l&#x27;impact de ces limitations sur la qualité et les volumes de récolte. <span class=\"news-reason\">Modification réglementaire impactant la viabilité de la production de melons en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881239/denmark-exempts-fruit-and-vegetable-growers-from-2027-fertilizer-restrictions/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Denmark exempts melon producers from fertilizer restrictions -- <span class=\"news-date\">08/10/2026 13:28</span></div><div class=\"news-body\">The Danish Ministry of Nature and Animals has announced that melon crops will be temporarily exempt from the new nitrogen fertilizer restrictions planned for 2027. This decision follows concerns from producers regarding the impact of these limitations on crop quality and volume. <span class=\"news-reason\">Regulatory change impacting the viability of melon production in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881239/denmark-exempts-fruit-and-vegetable-growers-from-2027-fertilizer-restrictions/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">דנמרק מחריגה את מגדלי המלונים מהגבלות על דשנים -- <span class=\"news-date\">08/10/2026 13:28</span></div><div class=\"news-body\">משרד הטבע ובעלי החיים הדני הודיע כי גידולי מלונים יוחרגו באופן זמני מההגבלות החדשות על דשני חנקן המתוכננות לשנת 2027. החלטה זו מגיעה בעקבות חששות המגדלים מהשפעת המגבלות הללו על איכות וכמויות היבול. <span class=\"news-reason\">שינוי רגולטורי המשפיע על כדאיות ייצור המלונים באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881239/denmark-exempts-fruit-and-vegetable-growers-from-2027-fertilizer-restrictions/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791527527_1",
-      "timestamp": "2026-10-09T06:32:07.864190+00:00",
-      "title": "SanLucar déploie une campagne promotionnelle pour ses mandarines d&#x27;Afrique du Sud -- 08/10/2026 18:07",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "mandarine"
-      ],
-      "origins": [
-        "ZAF"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">SanLucar déploie une campagne promotionnelle pour ses mandarines d&#x27;Afrique du Sud -- <span class=\"news-date\">08/10/2026 18:07</span></div><div class=\"news-body\">La marque SanLucar déploie sa nouvelle campagne « Together for a Better Future » axée sur sa production de mandarines en Afrique du Sud. L&#x27;initiative repose sur un projet éducatif à la ferme de Middelriver, permettant aux acheteurs de suivre la production via un journal de bord numérique pour renforcer la transparence et le positionnement premium. <span class=\"news-reason\">Détails sur la stratégie commerciale et marketing d&#x27;un concurrent majeur sur le segment des mandarines.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/08/sanlucar-education/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">SanLucar deploys a promotional campaign for its South African mandarins -- <span class=\"news-date\">08/10/2026 18:07</span></div><div class=\"news-body\">The SanLucar brand is deploying its new “Together for a Better Future” campaign focused on its mandarin production in South Africa. The initiative is based on an educational project at the Middelriver farm, allowing buyers to track production via a digital logbook to strengthen transparency and premium positioning. <span class=\"news-reason\">Details on the commercial and marketing strategy of a major competitor in the mandarin segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/08/sanlucar-education/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">SanLucar משיקה קמפיין קידום מכירות למנדרינות שלה מדרום אפריקה -- <span class=\"news-date\">08/10/2026 18:07</span></div><div class=\"news-body\">המותג SanLucar משיק את הקמפיין החדש שלו \"Together for a Better Future\" המתמקד בייצור המנדרינות שלו בדרום אפריקה. היוזמה מבוססת על פרויקט חינוכי בחוות מידלריבר, המאפשר לקונים לעקוב אחר הייצור באמצעות יומן דיגיטלי לחיזוק השקיפות ומיצוב הפרימיום. <span class=\"news-reason\">פרטים על האסטרטגיה המסחרית והשיווקית של מתחרה מרכזי במגזר המנדרינות.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/08/sanlucar-education/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791527527_0",
-      "timestamp": "2026-10-09T06:32:07.864190+00:00",
-      "title": "Elite Agro investit 380 millions de dirhams au Maroc pour les avocats et mandarines -- 09/10/2026 06:00",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Nadia",
-        "Ophélie"
-      ],
-      "products": [
-        "avocat",
-        "mandarine"
-      ],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Elite Agro investit 380 millions de dirhams au Maroc pour les avocats et mandarines -- <span class=\"news-date\">09/10/2026 06:00</span></div><div class=\"news-body\">Le groupe Elite Agro Holding et l’Autorité arabe pour l’investissement agricole ont signé un accord pour le développement d&#x27;une huitième ferme de 400 hectares à Sidi Yahia. Ce projet, représentant un investissement d&#x27;environ 380 millions de dirhams, se concentrera sur la production de mandarines et d&#x27;avocats destinés à l&#x27;exportation. <span class=\"news-reason\">Information sur l&#x27;expansion de la production de mandarines et d&#x27;avocats au Maroc, origine concurrente directe de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/elite-agro-prepare-une-huitieme-ferme-au-maroc-sur-400-hectares/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Elite Agro invests 380 million dirhams in Morocco for avocados and mandarins -- <span class=\"news-date\">09/10/2026 06:00</span></div><div class=\"news-body\">The Elite Agro Holding group and the Arab Authority for Agricultural Investment have signed an agreement for the development of an eighth 400-hectare farm in Sidi Yahia. This project, representing an investment of approximately 380 million dirhams, will focus on the production of mandarins and avocados for export. <span class=\"news-reason\">Information on the expansion of mandarin and avocado production in Morocco, a direct competing origin for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/elite-agro-prepare-une-huitieme-ferme-au-maroc-sur-400-hectares/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות שיווק</div><div class=\"news-title\">Elite Agro משקיעה 380 מיליון דירהם במרוקו עבור אבוקדו ומנדרינות -- <span class=\"news-date\">09/10/2026 06:00</span></div><div class=\"news-body\">קבוצת Elite Agro Holding והרשות הערבית להשקעות חקלאיות חתמו על הסכם לפיתוח חווה שמינית בשטח של 400 הקטאר בסידי יחיא. פרויקט זה, המייצג השקעה של כ-380 מיליון דירהם, יתמקד בייצור מנדרינות ואבוקדו המיועדים לייצוא. <span class=\"news-reason\">מידע על הרחבת ייצור המנדרינות והאבוקדו במרוקו, מקור תחרותי ישיר למהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/elite-agro-prepare-une-huitieme-ferme-au-maroc-sur-400-hectares/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
