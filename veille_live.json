@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-12T15:32:20.676195+00:00",
-  "article_count": 22,
+  "last_updated": "2026-10-12T17:01:53.342117+00:00",
+  "article_count": 20,
   "attention_points": [
     {
       "id": "attention-287dd0e3933eea8e",
@@ -19,7 +19,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 3
+      "age_hours": 4
     },
     {
       "id": "attention-b5ae8c7b0dfbd108",
@@ -38,7 +38,7 @@
       "products": [
         "citrus_grapefruit"
       ],
-      "age_hours": 3
+      "age_hours": 4
     },
     {
       "id": "attention-f5222695842d9b83",
@@ -57,7 +57,7 @@
       "products": [
         "sweet_potato"
       ],
-      "age_hours": 3
+      "age_hours": 5
     },
     {
       "id": "attention-25d6a0ad37a71a7d",
@@ -77,10 +77,29 @@
         "orange",
         "citrus_grapefruit"
       ],
-      "age_hours": 3
+      "age_hours": 5
     }
   ],
   "articles": [
+    {
+      "id": "1791824513_0",
+      "timestamp": "2026-10-12T17:01:53.342117+00:00",
+      "title": "L&#x27;Espagne domine la production européenne d&#x27;avocats et de mangues -- 12/10/2026 13:34",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat",
+        "mango"
+      ],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Espagne domine la production européenne d&#x27;avocats et de mangues -- <span class=\"news-date\">12/10/2026 13:34</span></div><div class=\"news-body\">L&#x27;Espagne confirme sa position de premier producteur d&#x27;avocats et de mangues au sein de l&#x27;Union européenne. Selon les données récentes, le pays totalise 24 758 hectares dédiés à la culture de l&#x27;avocat et 6 148 hectares pour la mangue. La disponibilité de l&#x27;eau et la concentration des récoltes sont identifiées comme les facteurs déterminants pour la croissance future de ce secteur en expansion. <span class=\"news-reason\">Article contenant des chiffres précis de surfaces cultivées en Espagne (origine concurrente) pour deux produits Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881825/spain-has-24-758-hectares-of-avocados-and-6-148-hectares-of-mangoes/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain dominates European avocado and mango production -- <span class=\"news-date\">12/10/2026 13:34</span></div><div class=\"news-body\">Spain confirms its position as the leading producer of avocados and mangoes within the European Union. According to recent data, the country totals 24,758 hectares dedicated to avocado cultivation and 6,148 hectares for mangoes. Water availability and harvest concentration are identified as the determining factors for the future growth of this expanding sector. <span class=\"news-reason\">Article containing precise figures for cultivated areas in Spain (competing origin) for two Mehadrin products.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881825/spain-has-24-758-hectares-of-avocados-and-6-148-hectares-of-mangoes/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד מובילה את ייצור האבוקדו והמנגו באירופה -- <span class=\"news-date\">12/10/2026 13:34</span></div><div class=\"news-body\">ספרד מאשרת את מעמדה כיצרנית המובילה של אבוקדו ומנגו באיחוד האירופי. על פי נתונים עדכניים, המדינה מונה סך של 24,758 הקטרים המוקדשים לגידול אבוקדו ו-6,148 הקטרים למנגו. זמינות המים וריכוז היבולים מזוהים כגורמים הקובעים לצמיחה העתידית של מגזר מתרחב זה. <span class=\"news-reason\">מאמר הכולל נתונים מדויקים על שטחי גידול בספרד (מקור מתחרה) עבור שני מוצרי מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881825/spain-has-24-758-hectares-of-avocados-and-6-148-hectares-of-mangoes/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1791819140_1",
       "timestamp": "2026-10-12T15:32:20.676195+00:00",
@@ -323,7 +342,7 @@
     {
       "id": "1791781278_2",
       "timestamp": "2026-10-12T05:01:18.596906+00:00",
-      "title": "Recul des cours de la grenade et de la patate douce en octobre",
+      "title": "Repli des cours de la grenade et de la patate douce en octobre",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica",
@@ -334,7 +353,7 @@
         "pomegranate"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul des cours de la grenade et de la patate douce en octobre -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, le mois d&#x27;octobre enregistre une baisse des cours pour plusieurs produits. Les grenades et les patates douces deviennent plus abordables sur les marchés de gros, marquant une tendance saisonnière de prix à la baisse pour ces catégories. <span class=\"news-reason\">Indicateur de tendance de prix sur deux produits Mehadrin actuellement en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Repli des cours de la grenade et de la patate douce en octobre -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, le mois d&#x27;octobre enregistre une baisse des cours pour plusieurs produits. Les grenades et les patates douces deviennent plus abordables sur les marchés de gros, marquant une tendance saisonnière de prix à la baisse pour ces catégories. <span class=\"news-reason\">Indicateur de tendance de prix sur deux produits Mehadrin actuellement en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decrease in prices for pomegranates and sweet potatoes in October -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">According to data from BMTI and Italmercati, the month of October recorded a price drop for several products. Pomegranates and sweet potatoes are becoming more affordable on wholesale markets, marking a seasonal downward price trend for these categories. <span class=\"news-reason\">Price trend indicator for two Mehadrin products currently in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידת מחירי הרימונים והבטטות באוקטובר -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">על פי נתוני BMTI ו-Italmercati, חודש אוקטובר רושם ירידה במחירים עבור מספר מוצרים. הרימונים והבטטות הופכים לנגישים יותר בשווקים הסיטונאיים, דבר המסמן מגמה עונתית של ירידת מחירים לקטגוריות אלו. <span class=\"news-reason\">אינדיקטור למגמת המחירים עבור שני מוצרי מהדרין הנמצאים כעת בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -407,62 +426,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les prévisions de récolte d&#x27;oranges en Floride chutent de 23 % suite aux épisodes de gel -- <span class=\"news-date\">09/10/2026 18:08</span></div><div class=\"news-body\">Les gels hivernaux ont entraîné une réduction de 23 % des prévisions de récolte d&#x27;oranges en Floride. Face à cette situation, les leaders du secteur réclament une aide fédérale de 3,5 milliards de dollars via le Florida Freeze Disaster Assistance Act pour soutenir les producteurs sinistrés. <span class=\"news-reason\">Article contenant des chiffres précis sur la baisse de production d&#x27;un produit Mehadrin (orange) impactant le marché mondial.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/09/florida-og-down/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Florida orange crop forecasts fall by 23% following frost episodes -- <span class=\"news-date\">09/10/2026 18:08</span></div><div class=\"news-body\">Winter frosts have led to a 23% reduction in Florida orange crop forecasts. Facing this situation, industry leaders are calling for $3.5 billion in federal aid through the Florida Freeze Disaster Assistance Act to support affected growers. <span class=\"news-reason\">Article containing precise figures on the production decline of a Mehadrin product (orange) impacting the global market.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/09/florida-og-down/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">תחזיות יבול התפוזים בפלורידה צונחות ב-23% בעקבות אירועי קרה -- <span class=\"news-date\">09/10/2026 18:08</span></div><div class=\"news-body\">קרה חורפית הובילה לירידה של 23% בתחזיות יבול התפוזים בפלורידה. נוכח המצב, ראשי הענף דורשים סיוע פדרלי בסך 3.5 מיליארד דולר באמצעות חוק הסיוע לאסונות קרה בפלורידה (Florida Freeze Disaster Assistance Act) כדי לתמוך במגדלים שנפגעו. <span class=\"news-reason\">כתבה הכוללת נתונים מדויקים על הירידה בייצור של מוצר מהדרין (תפוז) המשפיעה על השוק העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/09/florida-og-down/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791565350_2",
-      "timestamp": "2026-10-09T17:02:30.346038+00:00",
-      "title": "Record de chaleur historique au Maroc en septembre 2026 -- 09/10/2026 13:40",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Nadia",
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Record de chaleur historique au Maroc en septembre 2026 -- <span class=\"news-date\">09/10/2026 13:40</span></div><div class=\"news-body\">Le mois de septembre 2026 a été le plus chaud enregistré au Maroc depuis 1981, avec une température moyenne supérieure de 2,75 °C à la normale. Des pics records à 47,1 °C à Sidi Slimane soulignent un stress thermique critique pour les zones de production agricole. <span class=\"news-reason\">Alerte climatique majeure sur une origine concurrente stratégique (Maroc) impactant les cultures d&#x27;agrumes et d&#x27;avocats.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/septembre-2026-le-mois-de-septembre-le-plus-chaud-depuis-1981/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Historic heat record in Morocco in September 2026 -- <span class=\"news-date\">09/10/2026 13:40</span></div><div class=\"news-body\">September 2026 was the hottest recorded in Morocco since 1981, with an average temperature 2.75 °C above normal. Record peaks at 47.1 °C in Sidi Slimane highlight critical heat stress for agricultural production areas. <span class=\"news-reason\">Major climate alert on a strategic competing origin (Morocco) impacting citrus and avocado crops.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/septembre-2026-le-mois-de-septembre-le-plus-chaud-depuis-1981/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">שיא חום היסטורי במרוקו בספטמבר 2026 -- <span class=\"news-date\">09/10/2026 13:40</span></div><div class=\"news-body\">חודש ספטמבר 2026 היה החם ביותר שתועד במרוקו מאז 1981, עם טמפרטורה ממוצעת הגבוהה ב-2.75 מעלות צלזיוס מהממוצע. שיאי חום של 47.1 מעלות צלזיוס בסידי סלימאן מדגישים עקת חום קריטית באזורי הייצור החקלאי. <span class=\"news-reason\">התראת אקלים חמורה במקור מתחרה אסטרטגי (מרוקו) המשפיעה על גידולי ההדרים והאבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/septembre-2026-le-mois-de-septembre-le-plus-chaud-depuis-1981/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791565350_1",
-      "timestamp": "2026-10-09T17:02:30.346038+00:00",
-      "title": "Équilibre entre l&#x27;offre et la demande d&#x27;avocats mexicains cette saison",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "MEX",
-        "USA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Équilibre entre l&#x27;offre et la demande d&#x27;avocats mexicains cette saison -- <span class=\"news-date\">09/10/2026 17:34</span></div><div class=\"news-body\">Pour la saison en cours, l&#x27;offre de fruits en provenance du Mexique est mieux alignée avec la demande du marché mondial. Le Mexique reste le fournisseur ultra-dominant du marché nord-américain avec environ 95 % des volumes totaux, influençant les flux mondiaux. <span class=\"news-reason\">Informations sur l&#x27;équilibre du marché mondial de l&#x27;avocat, le Mexique étant le premier producteur mondial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880598/esta-temporada-la-oferta-de-aguacate-de-mexico-esta-mas-alineada-con-la-demanda/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Balance between supply and demand for Mexican avocados this season -- <span class=\"news-date\">09/10/2026 17:34</span></div><div class=\"news-body\">For the current season, fruit supply from Mexico is better aligned with global market demand. Mexico remains the ultra-dominant supplier to the North American market with approximately 95% of total volumes, influencing global flows. <span class=\"news-reason\">Information on the balance of the global avocado market, with Mexico being the world's leading producer.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880598/esta-temporada-la-oferta-de-aguacate-de-mexico-esta-mas-alineada-con-la-demanda/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">איזון בין היצע לביקוש עבור אבוקדו מקסיקני העונה -- <span class=\"news-date\">09/10/2026 17:34</span></div><div class=\"news-body\">עבור העונה הנוכחית, היצע הפירות ממקסיקו מיושר טוב יותר עם הביקוש בשוק העולמי. מקסיקו נותרה הספקית הדומיננטית ביותר של השוק הצפון אמריקאי עם כ-95% מכלל הכמויות, מה שמשפיע על התזרימים העולמיים. <span class=\"news-reason\">מידע על האיזון בשוק האבוקדו העולמי, כאשר מקסיקו היא היצרנית המובילה בעולם.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880598/esta-temporada-la-oferta-de-aguacate-de-mexico-esta-mas-alineada-con-la-demanda/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791565350_0",
-      "timestamp": "2026-10-09T17:02:30.346038+00:00",
-      "title": "L&#x27;Espagne franchit le seuil des 24 000 hectares de cultures d&#x27;avocats",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "ESP"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Espagne franchit le seuil des 24 000 hectares de cultures d&#x27;avocats -- <span class=\"news-date\">09/10/2026 17:34</span></div><div class=\"news-body\">L&#x27;Espagne confirme sa position de leader européen avec 24 758 hectares d&#x27;avocats en production. Les données indiquent une culture en expansion, bien que la croissance soit désormais conditionnée par l&#x27;accès à l&#x27;eau et une forte concentration des périodes de récolte. <span class=\"news-reason\">Données de surface précises pour l&#x27;avocat en Espagne, origine concurrente majeure de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881642/espana-cuenta-con-24-758-hectareas-de-aguacate-y-6-148-de-mango/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain passes the 24,000 hectare mark for avocado crops -- <span class=\"news-date\">09/10/2026 17:34</span></div><div class=\"news-body\">Spain confirms its position as European leader with 24,758 hectares of avocados in production. Data indicates an expanding crop, although growth is now conditioned by access to water and a high concentration of harvest periods. <span class=\"news-reason\">Precise surface area data for avocados in Spain, a major competing origin for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881642/espana-cuenta-con-24-758-hectareas-de-aguacate-y-6-148-de-mango/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">ספרד חוצה את רף ה-24,000 הקטרים של גידולי אבוקדו -- <span class=\"news-date\">09/10/2026 17:34</span></div><div class=\"news-body\">ספרד מאשרת את מעמדה כמובילה אירופאית עם 24,758 הקטרים של אבוקדו בייצור. הנתונים מצביעים על גידול במגמת התרחבות, אם כי הצמיחה מותנית כיום בגישה למים ובריכוז גבוה של תקופות הקטיף. <span class=\"news-reason\">נתוני שטח מדויקים עבור אבוקדו בספרד, מקור מתחרה מרכזי של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881642/espana-cuenta-con-24-758-hectareas-de-aguacate-y-6-148-de-mango/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
