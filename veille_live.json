@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-12T12:32:20.718315+00:00",
-  "article_count": 22,
+  "last_updated": "2026-10-12T14:02:20.284975+00:00",
+  "article_count": 20,
   "attention_points": [
+    {
+      "id": "attention-287dd0e3933eea8e",
+      "article_id": "1791813740_4",
+      "url": "https://www.freshplaza.es/article/9881655/el-mercado-mundial-del-aguacate-duplica-su-tamano-en-una-decada/",
+      "source": "FreshPlaza ES",
+      "title": "Le marché mondial de l'avocat a doublé de taille",
+      "summary": "Lors du Congrès mondial de l'avocat 2026 à Madrid, la World Avocado Organization (WAO) a souligné que le marché global de ce fruit a doublé en une décennie.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-10-12T14:04:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 1
+    },
+    {
+      "id": "attention-b5ae8c7b0dfbd108",
+      "article_id": "1791813740_0",
+      "url": "https://www.freshplaza.es/article/9880988/el-pomelo-de-florida-mejora-su-calidad-interna-con-niveles-de-brix-un-10-superiores-a-los-del-ano-pasado/",
+      "source": "FreshPlaza ES",
+      "title": "Amélioration de la qualité interne des pomelos de Floride",
+      "summary": "Le secteur du pomelo en Floride prévoit une campagne 2026-2027 qualitative malgré des gelées printanières.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-10-12T14:04:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
+      "products": [
+        "citrus_grapefruit"
+      ],
+      "age_hours": 1
+    },
     {
       "id": "attention-f5222695842d9b83",
       "article_id": "1791808340_1",
@@ -19,7 +57,7 @@
       "products": [
         "sweet_potato"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-25d6a0ad37a71a7d",
@@ -39,48 +77,90 @@
         "orange",
         "citrus_grapefruit"
       ],
-      "age_hours": 0
-    },
-    {
-      "id": "attention-7bebb09a28b5984c",
-      "article_id": "1791808340_2",
-      "url": "https://www.freshplaza.com/article/9882166/heat-and-drought-reduce-grapefruit-size-in-texas/",
-      "source": "FreshPlaza",
-      "title": "La sécheresse au Texas réduit le calibre des pomelos",
-      "summary": "La chaleur au Texas impacte la taille des pomelos.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-10-12T13:34:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [
-        "citrus_grapefruit"
-      ],
-      "age_hours": 0
-    },
-    {
-      "id": "attention-a0fb71b4dcf7e73f",
-      "article_id": "1791802870_0",
-      "url": "https://www.agf.nl/article/9881406/dit-is-het-eerste-jaar-in-tien-jaar-dat-we-door-onzekere-zeevracht-helemaal-geen-avocado-s-versturen/",
-      "source": "AGF.nl",
-      "title": "Suspension des exportations maritimes d'avocats mexicains vers l'Europe",
-      "summary": "Le groupe exportateur Aztec Fruits a annonce la suspension de ses exportations d'avocats mexicains par voie maritime vers l'Europe, une premiere en dix ans.",
-      "origin_code": "MEX",
-      "origin_label": "Mexique",
-      "published_at": "2026-10-12T12:10:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [
-        "avocat"
-      ],
       "age_hours": 2
     }
   ],
   "articles": [
+    {
+      "id": "1791813740_4",
+      "timestamp": "2026-10-12T14:02:20.284975+00:00",
+      "title": "Le marché mondial de l&#x27;avocat a doublé de taille en dix ans",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le marché mondial de l&#x27;avocat a doublé de taille en dix ans -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">Lors du Congrès mondial de l&#x27;avocat 2026 à Madrid, la World Avocado Organization (WAO) a souligné que le marché global de ce fruit a doublé en une décennie. L&#x27;événement a réuni plus de 700 professionnels pour discuter de l&#x27;expansion continue du secteur et des perspectives de consommation mondiale. <span class=\"news-reason\">Information sur la croissance structurelle du marché de l&#x27;avocat, produit clé de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881655/el-mercado-mundial-del-aguacate-duplica-su-tamano-en-una-decada/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">The global avocado market has doubled in size in ten years -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">During the 2026 World Avocado Congress in Madrid, the World Avocado Organization (WAO) highlighted that the global market for this fruit has doubled in a decade. The event brought together more than 700 professionals to discuss the continuous expansion of the sector and global consumption prospects. <span class=\"news-reason\">Information on the structural growth of the avocado market, a key product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881655/el-mercado-mundial-del-aguacate-duplica-su-tamano-en-una-decada/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">שוק האבוקדו העולמי הכפיל את גודלו בתוך עשור -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">במהלך קונגרס האבוקדו העולמי 2026 במדריד, ארגון האבוקדו העולמי (WAO) הדגיש כי השוק העולמי של פרי זה הכפיל את גודלו בתוך עשור. האירוע הפגיש למעלה מ-700 אנשי מקצוע כדי לדון בהמשך התרחבות הענף ובתחזיות הצריכה העולמית. <span class=\"news-reason\">מידע על הצמיחה המבנית בשוק האבוקדו, מוצר מפתח של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881655/el-mercado-mundial-del-aguacate-duplica-su-tamano-en-una-decada/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791813740_3",
+      "timestamp": "2026-10-12T14:02:20.284975+00:00",
+      "title": "Mission Produce renforce son approvisionnement en avocats certifiés Fair Trade -- 12/10/2026 13:35",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Mission Produce renforce son approvisionnement en avocats certifiés Fair Trade -- <span class=\"news-date\">12/10/2026 13:35</span></div><div class=\"news-body\">Dans le cadre de son plan stratégique « New Era of Fresh », Mission Produce a annoncé l&#x27;extension de la certification Fair Trade à ses réseaux d&#x27;approvisionnement en avocats. Ce modèle met l&#x27;accent sur la transparence de la chaîne logistique, le respect de l&#x27;environnement et l&#x27;amélioration des conditions de vie des producteurs. <span class=\"news-reason\">Mouvement stratégique d&#x27;un leader mondial de l&#x27;avocat impactant les standards du marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9880963/la-certification-fair-trade-s-etend-a-de-nouveaux-reseaux-d-approvisionnement-en-avocats/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Mission Produce strengthens its supply of Fair Trade certified avocados -- <span class=\"news-date\">12/10/2026 13:35</span></div><div class=\"news-body\">As part of its &quot;New Era of Fresh&quot; strategic plan, Mission Produce announced the extension of Fair Trade certification to its avocado supply networks. This model emphasizes supply chain transparency, environmental respect, and the improvement of producers&#x27; living conditions. <span class=\"news-reason\">Strategic move by a global avocado leader impacting European market standards.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9880963/la-certification-fair-trade-s-etend-a-de-nouveaux-reseaux-d-approvisionnement-en-avocats/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכים ברשתות השיווק</div><div class=\"news-title\">Mission Produce מחזקת את אספקת האבוקדו באישור סחר הוגן -- <span class=\"news-date\">12/10/2026 13:35</span></div><div class=\"news-body\">במסגרת התוכנית האסטרטגית שלה \"New Era of Fresh\", הודיעה Mission Produce על הרחבת הסמכת סחר הוגן (Fair Trade) לרשתות אספקת האבוקדו שלה. מודל זה שם דגש על שקיפות בשרשרת הלוגיסטית, שמירה על הסביבה ושיפור תנאי החיים של היצרנים. <span class=\"news-reason\">מהלך אסטרטגי של מובילה עולמית בתחום האבוקדו המשפיע על הסטנדרטים בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9880963/la-certification-fair-trade-s-etend-a-de-nouveaux-reseaux-d-approvisionnement-en-avocats/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791813740_2",
+      "timestamp": "2026-10-12T14:02:20.284975+00:00",
+      "title": "Vietnam : une récolte de 47 000 tonnes de pomelos prévue pour 2026 -- 12/10/2026 13:34",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "citrus_grapefruit"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Vietnam : une récolte de 47 000 tonnes de pomelos prévue pour 2026 -- <span class=\"news-date\">12/10/2026 13:34</span></div><div class=\"news-body\">La province de Bac Ninh au Vietnam anticipe une production de 47 000 tonnes de pomelos pour l&#x27;année 2026, répartie sur environ 5 200 hectares. Près de 70 % des surfaces cultivées (3 660 hectares) suivent les normes VietGAP. Les variétés principales identifiées pour cette campagne sont Hoang et Da Xanh. <span class=\"news-reason\">Données chiffrées sur les volumes d&#x27;une origine concurrente sur le segment des agrumes/pomelos.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881947/vietnam-s-bac-ninh-expects-47-000-tons-of-pomelos-in-2026/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Vietnam: 47,000-ton pomelo harvest expected for 2026 -- <span class=\"news-date\">12/10/2026 13:34</span></div><div class=\"news-body\">Vietnam&#x27;s Bac Ninh province anticipates a production of 47,000 tons of pomelos for the year 2026, spread over approximately 5,200 hectares. Nearly 70% of the cultivated areas (3,660 hectares) follow VietGAP standards. The main varieties identified for this season are Hoang and Da Xanh. <span class=\"news-reason\">Quantitative data on volumes from a competing origin in the citrus/pomelo segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881947/vietnam-s-bac-ninh-expects-47-000-tons-of-pomelos-in-2026/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">וייטנאם: צפי ליבול של 47,000 טון פומלה בשנת 2026 -- <span class=\"news-date\">12/10/2026 13:34</span></div><div class=\"news-body\">מחוז באק נין בווייטנאם צופה ייצור של 47,000 טון פומלה לשנת 2026, על פני שטח של כ-5,200 הקטר. כמעט 70% מהשטחים המעובדים (3,660 הקטר) עומדים בתקני VietGAP. הזנים העיקריים שזוהו לעונה זו הם Hoang ו-Da Xanh. <span class=\"news-reason\">נתונים מספריים על כמויות ממקור מתחרה במקטע ההדרים/פומלה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881947/vietnam-s-bac-ninh-expects-47-000-tons-of-pomelos-in-2026/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791813740_1",
+      "timestamp": "2026-10-12T14:02:20.284975+00:00",
+      "title": "Nouveau conditionnement bioplastique pour optimiser le transport des arilles de grenade",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [],
+      "origins": [
+        "IND"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Nouveau conditionnement bioplastique pour optimiser le transport des arilles de grenade -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">La société Q-Bic, en collaboration avec l&#x27;exportateur indien Sam Agri, a développé un nouveau système d&#x27;envasement pour les arilles de grenade. Ce format, combinant une barquette bioplastique et une boîte prête pour la vente au détail, permet d&#x27;augmenter la densité de charge de 50 %. Le dispositif est conçu pour optimiser l&#x27;espace logistique tout en répondant aux besoins de la distribution. <span class=\"news-reason\">Innovation logistique chez un concurrent majeur (Inde) sur la grenade, produit actuellement en saison chez Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880555/un-nuevo-envase-de-bioplastico-promete-aumentar-un-50-la-densidad-de-carga-en-los-arilos-de-granada/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">New bioplastic packaging to optimize transport of pomegranate arils -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">The company Q-Bic, in collaboration with Indian exporter Sam Agri, has developed a new packaging system for pomegranate arils. This format, combining a bioplastic tray and a retail-ready box, allows for a 50% increase in load density. The device is designed to optimize logistical space while meeting distribution needs. <span class=\"news-reason\">Logistics innovation from a major competitor (India) for pomegranates, a product currently in season at Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880555/un-nuevo-envase-de-bioplastico-promete-aumentar-un-50-la-densidad-de-carga-en-los-arilos-de-granada/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">אריזת ביו-פלסטיק חדשה לייעול הובלת גרגירי רימון -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">חברת Q-Bic, בשיתוף עם היצואנית ההודית Sam Agri, פיתחה מערכת אריזה חדשה לגרגירי רימון. פורמט זה, המשלב מגשית ביו-פלסטיק וקופסה המוכנה לקמעונאות, מאפשר להגדיל את צפיפות המטען ב-50%. המערכת נועדה לייעל את המרחב הלוגיסטי תוך מתן מענה לצורכי ההפצה. <span class=\"news-reason\">חדשנות לוגיסטית אצל מתחרה מרכזי (הודו) בתחום הרימונים, מוצר שנמצא כעת בעונה במהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880555/un-nuevo-envase-de-bioplastico-promete-aumentar-un-50-la-densidad-de-carga-en-los-arilos-de-granada/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791813740_0",
+      "timestamp": "2026-10-12T14:02:20.284975+00:00",
+      "title": "Amélioration de la qualité interne des pomelos de Floride par un taux de Brix supérieur",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "citrus_grapefruit"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Amélioration de la qualité interne des pomelos de Floride par un taux de Brix supérieur -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">Le secteur du pomelo en Floride prévoit une campagne 2026-2027 qualitative malgré des gelées printanières. Les niveaux de Brix sont supérieurs de 10 % par rapport à l&#x27;année dernière, avec une récolte jugée uniforme. Les arbres ont été affectés par le climat, mais la production reste solide pour la saison à venir. <span class=\"news-reason\">Contient des chiffres précis sur la qualité (Brix +10%) et des prévisions de récolte pour un produit concurrent direct de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880988/el-pomelo-de-florida-mejora-su-calidad-interna-con-niveles-de-brix-un-10-superiores-a-los-del-ano-pasado/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Improved internal quality of Florida grapefruit with higher Brix levels -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">The Florida grapefruit sector anticipates a high-quality 2026-2027 season despite spring frosts. Brix levels are 10% higher than last year, with a harvest considered uniform. The trees were affected by the climate, but production remains solid for the coming season. <span class=\"news-reason\">Contains precise figures on quality (Brix +10%) and harvest forecasts for a product that is a direct competitor to Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880988/el-pomelo-de-florida-mejora-su-calidad-interna-con-niveles-de-brix-un-10-superiores-a-los-del-ano-pasado/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">שיפור באיכות הפנימית של אשכוליות פלורידה עם רמת בריקס גבוהה יותר -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">ענף האשכוליות בפלורידה צופה עונת 2026-2027 איכותית למרות קרה באביב. רמות הבריקס גבוהות ב-10% בהשוואה לשנה שעברה, עם יבול שנחשב לאחיד. העצים הושפעו מהאקלים, אך הייצור נותר יציב לקראת העונה הקרובה. <span class=\"news-reason\">מכיל נתונים מדויקים על איכות (בריקס +10%) ותחזיות יבול למוצר המתחרה ישירות במהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880988/el-pomelo-de-florida-mejora-su-calidad-interna-con-niveles-de-brix-un-10-superiores-a-los-del-ano-pasado/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1791808340_3",
       "timestamp": "2026-10-12T12:32:20.718315+00:00",
@@ -209,7 +289,7 @@
     {
       "id": "1791781278_2",
       "timestamp": "2026-10-12T05:01:18.596906+00:00",
-      "title": "Repli des cours de la grenade et de la patate douce en octobre",
+      "title": "Recul des cours de la grenade et de la patate douce en octobre",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica",
@@ -220,7 +300,7 @@
         "pomegranate"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Repli des cours de la grenade et de la patate douce en octobre -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, le mois d&#x27;octobre enregistre une baisse des cours pour plusieurs produits. Les grenades et les patates douces deviennent plus abordables sur les marchés de gros, marquant une tendance saisonnière de prix à la baisse pour ces catégories. <span class=\"news-reason\">Indicateur de tendance de prix sur deux produits Mehadrin actuellement en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul des cours de la grenade et de la patate douce en octobre -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, le mois d&#x27;octobre enregistre une baisse des cours pour plusieurs produits. Les grenades et les patates douces deviennent plus abordables sur les marchés de gros, marquant une tendance saisonnière de prix à la baisse pour ces catégories. <span class=\"news-reason\">Indicateur de tendance de prix sur deux produits Mehadrin actuellement en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decrease in prices for pomegranates and sweet potatoes in October -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">According to data from BMTI and Italmercati, the month of October recorded a price drop for several products. Pomegranates and sweet potatoes are becoming more affordable on wholesale markets, marking a seasonal downward price trend for these categories. <span class=\"news-reason\">Price trend indicator for two Mehadrin products currently in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידת מחירי הרימונים והבטטות באוקטובר -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">על פי נתוני BMTI ו-Italmercati, חודש אוקטובר רושם ירידה במחירים עבור מספר מוצרים. הרימונים והבטטות הופכים לנגישים יותר בשווקים הסיטונאיים, דבר המסמן מגמה עונתית של ירידת מחירים לקטגוריות אלו. <span class=\"news-reason\">אינדיקטור למגמת המחירים עבור שני מוצרי מהדרין הנמצאים כעת בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -349,121 +429,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Espagne franchit le seuil des 24 000 hectares de cultures d&#x27;avocats -- <span class=\"news-date\">09/10/2026 17:34</span></div><div class=\"news-body\">L&#x27;Espagne confirme sa position de leader européen avec 24 758 hectares d&#x27;avocats en production. Les données indiquent une culture en expansion, bien que la croissance soit désormais conditionnée par l&#x27;accès à l&#x27;eau et une forte concentration des périodes de récolte. <span class=\"news-reason\">Données de surface précises pour l&#x27;avocat en Espagne, origine concurrente majeure de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881642/espana-cuenta-con-24-758-hectareas-de-aguacate-y-6-148-de-mango/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain passes the 24,000 hectare mark for avocado crops -- <span class=\"news-date\">09/10/2026 17:34</span></div><div class=\"news-body\">Spain confirms its position as European leader with 24,758 hectares of avocados in production. Data indicates an expanding crop, although growth is now conditioned by access to water and a high concentration of harvest periods. <span class=\"news-reason\">Precise surface area data for avocados in Spain, a major competing origin for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881642/espana-cuenta-con-24-758-hectareas-de-aguacate-y-6-148-de-mango/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">ספרד חוצה את רף ה-24,000 הקטרים של גידולי אבוקדו -- <span class=\"news-date\">09/10/2026 17:34</span></div><div class=\"news-body\">ספרד מאשרת את מעמדה כמובילה אירופאית עם 24,758 הקטרים של אבוקדו בייצור. הנתונים מצביעים על גידול במגמת התרחבות, אם כי הצמיחה מותנית כיום בגישה למים ובריכוז גבוה של תקופות הקטיף. <span class=\"news-reason\">נתוני שטח מדויקים עבור אבוקדו בספרד, מקור מתחרה מרכזי של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881642/espana-cuenta-con-24-758-hectareas-de-aguacate-y-6-148-de-mango/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791554573_0",
-      "timestamp": "2026-10-09T14:02:53.201477+00:00",
-      "title": "GreenFruit Avocados restructure son équipe de direction aux États-Unis -- 09/10/2026 13:32",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "USA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">GreenFruit Avocados restructure son équipe de direction aux États-Unis -- <span class=\"news-date\">09/10/2026 13:32</span></div><div class=\"news-body\">GreenFruit Avocados a annoncé une expansion stratégique de son équipe de direction. Ryan C. Fink a été nommé vice-président des opérations. L&#x27;entreprise a également promu Giovanni Espinosa au poste de directeur des ventes et Andrew Gomez comme responsable de l&#x27;approvisionnement afin de renforcer la maîtrise de sa chaîne de valeur mondiale. <span class=\"news-reason\">Mouvement d&#x27;enseigne important chez un concurrent majeur du secteur de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881418/greenfruit-avocados-builds-out-leadership-team/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">GreenFruit Avocados restructures its leadership team in the United States -- <span class=\"news-date\">09/10/2026 13:32</span></div><div class=\"news-body\">GreenFruit Avocados announced a strategic expansion of its leadership team. Ryan C. Fink has been appointed Vice President of Operations. The company also promoted Giovanni Espinosa to Director of Sales and Andrew Gomez to Sourcing Manager to strengthen control over its global value chain. <span class=\"news-reason\">Significant corporate movement at a major competitor in the avocado sector.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881418/greenfruit-avocados-builds-out-leadership-team/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות מותגים</div><div class=\"news-title\">GreenFruit Avocados מארגנת מחדש את צוות ההנהלה שלה בארצות הברית -- <span class=\"news-date\">09/10/2026 13:32</span></div><div class=\"news-body\">חברת GreenFruit Avocados הודיעה על התרחבות אסטרטגית של צוות ההנהלה שלה. ראיין סי פינק מונה לסגן נשיא לתפעול. החברה גם קידמה את ג'ובאני אספינוזה לתפקיד מנהל המכירות ואת אנדרו גומז למנהל הרכש כדי לחזק את השליטה בשרשרת הערך העולמית שלה. <span class=\"news-reason\">שינוי משמעותי במותג אצל מתחרה מרכזי בתחום האבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881418/greenfruit-avocados-builds-out-leadership-team/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791549192_5",
-      "timestamp": "2026-10-09T12:33:12.011537+00:00",
-      "title": "AgruCorse commercialise 10 000 tonnes d&#x27;agrumes sur le marché français -- 09/10/2026 13:52",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [
-        "FRA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">AgruCorse commercialise 10 000 tonnes d&#x27;agrumes sur le marché français -- <span class=\"news-date\">09/10/2026 13:52</span></div><div class=\"news-body\">La société AgruCorse, acteur majeur de la filière agrumicole en Corse, rassemble désormais 47 producteurs. Elle commercialise un volume annuel de près de 10 000 tonnes d&#x27;agrumes, renforçant son poids dans la distribution de fruits de proximité sur le marché européen. <span class=\"news-reason\">Volumes et positionnement d&#x27;un concurrent régional sur le segment des agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9881559/nous-avons-celebre-nos-20-ans-a-l-occasion-du-fruit-attraction/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">AgruCorse markets 10,000 tons of citrus on the French market -- <span class=\"news-date\">09/10/2026 13:52</span></div><div class=\"news-body\">The AgruCorse company, a major player in the Corsican citrus industry, now brings together 47 producers. It markets an annual volume of nearly 10,000 tons of citrus, strengthening its weight in the distribution of local fruits on the European market. <span class=\"news-reason\">Volumes and positioning of a regional competitor in the citrus segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9881559/nous-avons-celebre-nos-20-ans-a-l-occasion-du-fruit-attraction/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">AgruCorse משווקת 10,000 טונות של פירות הדר בשוק הצרפתי -- <span class=\"news-date\">09/10/2026 13:52</span></div><div class=\"news-body\">חברת AgruCorse, שחקנית מרכזית בענף ההדרים בקורסיקה, מאגדת כעת 47 מגדלים. היא משווקת נפח שנתי של קרוב ל-10,000 טונות פירות הדר, ובכך מחזקת את משקלה בהפצת פירות מקומיים בשוק האירופי. <span class=\"news-reason\">כמויות ומיצוב של מתחרה אזורי במגזר פירות ההדר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9881559/nous-avons-celebre-nos-20-ans-a-l-occasion-du-fruit-attraction/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791549192_4",
-      "timestamp": "2026-10-09T12:33:12.011537+00:00",
-      "title": "Plan stratégique de Mission Produce pour dominer le marché de l&#x27;avocat -- 09/10/2026 13:32",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Plan stratégique de Mission Produce pour dominer le marché de l&#x27;avocat -- <span class=\"news-date\">09/10/2026 13:32</span></div><div class=\"news-body\">Lors de sa journée des investisseurs 2026, Mission Produce a dévoilé une stratégie de croissance visant à doubler ses ventes et tripler ses bénéfices d&#x27;ici 2035. Le plan repose sur l&#x27;expansion de la distribution mondiale d&#x27;avocats et l&#x27;intégration de Calavo Growers pour renforcer ses capacités opérationnelles. <span class=\"news-reason\">Mouvement stratégique majeur d&#x27;un concurrent global sur le segment de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881482/mission-produce-aims-to-double-sales-and-triple-profits-by-2035/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Mission Produce&#x27;s strategic plan to dominate the avocado market -- <span class=\"news-date\">09/10/2026 13:32</span></div><div class=\"news-body\">During its 2026 Investor Day, Mission Produce unveiled a growth strategy aiming to double its sales and triple its profits by 2035. The plan is based on expanding global avocado distribution and integrating Calavo Growers to strengthen its operational capabilities. <span class=\"news-reason\">Major strategic movement of a global competitor in the avocado segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881482/mission-produce-aims-to-double-sales-and-triple-profits-by-2035/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות</div><div class=\"news-title\">התוכנית האסטרטגית של Mission Produce להשתלטות על שוק האבוקדו -- <span class=\"news-date\">09/10/2026 13:32</span></div><div class=\"news-body\">במהלך יום המשקיעים שלה לשנת 2026, חשפה Mission Produce אסטרטגיית צמיחה שמטרתה להכפיל את המכירות ולשלש את הרווחים עד שנת 2035. התוכנית מתבססת על הרחבת ההפצה העולמית של אבוקדו ומיזוג Calavo Growers לחיזוק היכולות המבצעיות שלה. <span class=\"news-reason\">מהלך אסטרטגי משמעותי של מתחרה גלובלי במגזר האבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881482/mission-produce-aims-to-double-sales-and-triple-profits-by-2035/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791549192_3",
-      "timestamp": "2026-10-09T12:33:12.011537+00:00",
-      "title": "Maroc : tensions persistantes sur l&#x27;approvisionnement en films agricoles -- 09/10/2026 13:32",
-      "category": "ALERTES SUPPLY",
-      "commercials": [],
-      "products": [],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Maroc : tensions persistantes sur l&#x27;approvisionnement en films agricoles -- <span class=\"news-date\">09/10/2026 13:32</span></div><div class=\"news-body\">Bien que la phase aiguë de la pénurie de films plastiques agricoles au Maroc semble s&#x27;atténuer, le problème d&#x27;approvisionnement reste structurel. Les difficultés de fourniture en matières premières persistent depuis les tempêtes de février dans la région du Souss, menaçant la stabilité de la production sous serre. <span class=\"news-reason\">Alerte sur les intrants de production chez un concurrent majeur, impactant potentiellement l&#x27;offre.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9879737/morocco-s-agricultural-film-shortage-eases-but-raw-material-supply-remains-structurally-tight/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Morocco: persistent tensions in the supply of agricultural films -- <span class=\"news-date\">09/10/2026 13:32</span></div><div class=\"news-body\">Although the acute phase of the agricultural plastic film shortage in Morocco seems to be easing, the supply problem remains structural. Difficulties in raw material supply have persisted since the February storms in the Souss region, threatening the stability of greenhouse production. <span class=\"news-reason\">Alert on production inputs at a major competitor, potentially impacting supply.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9879737/morocco-s-agricultural-film-shortage-eases-but-raw-material-supply-remains-structurally-tight/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מרוקו: מתחים מתמשכים באספקת יריעות חקלאיות -- <span class=\"news-date\">09/10/2026 13:32</span></div><div class=\"news-body\">למרות שנראה כי השלב החריף של המחסור ביריעות פלסטיק חקלאיות במרוקו נחלש, בעיית האספקה נותרה מבנית. הקשיים באספקת חומרי גלם נמשכים מאז הסופות של פברואר באזור סוס, ומאיימים על יציבות הייצור בחממות. <span class=\"news-reason\">התראה על תשומות ייצור אצל מתחרה מרכזי, העלולה להשפיע על ההיצע.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9879737/morocco-s-agricultural-film-shortage-eases-but-raw-material-supply-remains-structurally-tight/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791549192_2",
-      "timestamp": "2026-10-09T12:33:12.011537+00:00",
-      "title": "Baisse de la valeur des exportations d&#x27;avocats mexicains et nouvelles réglementations -- 09/10/2026 13:48",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "MEX",
-        "USA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse de la valeur des exportations d&#x27;avocats mexicains et nouvelles réglementations -- <span class=\"news-date\">09/10/2026 13:48</span></div><div class=\"news-body\">Le Mexique fait face à une baisse de 44,5 % de la valeur de ses expéditions d&#x27;avocats malgré des volumes en hausse. En parallèle, le pays durcit les règles d&#x27;exportation vers les États-Unis en imposant de nouvelles exigences en matière de traçabilité, de normes de travail et de lutte contre la déforestation. <span class=\"news-reason\">Données sur la baisse de valeur du marché mondial de l&#x27;avocat et nouvelles contraintes d&#x27;exportation.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881665/mexico-tightens-avocado-export-rules-as-shipment-values-fall-44-5/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decrease in the value of Mexican avocado exports and new regulations -- <span class=\"news-date\">09/10/2026 13:48</span></div><div class=\"news-body\">Mexico is facing a 44.5% drop in the value of its avocado shipments despite rising volumes. In parallel, the country is tightening export rules to the United States by imposing new requirements regarding traceability, labor standards, and the fight against deforestation. <span class=\"news-reason\">Data on the decline in value of the global avocado market and new export constraints.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881665/mexico-tightens-avocado-export-rules-as-shipment-values-fall-44-5/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה בערך ייצוא האבוקדו המקסיקני ותקנות חדשות -- <span class=\"news-date\">09/10/2026 13:48</span></div><div class=\"news-body\">מקסיקו מתמודדת עם ירידה של 44.5% בערך משלוחי האבוקדו שלה למרות עלייה בנפחים. במקביל, המדינה מחמירה את כללי הייצוא לארצות הברית על ידי הטלת דרישות חדשות בנושאי עקבות, תקני עבודה ומאבק בבירוא יערות. <span class=\"news-reason\">נתונים על הירידה בערך שוק האבוקדו העולמי ומגבלות ייצוא חדשות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881665/mexico-tightens-avocado-export-rules-as-shipment-values-fall-44-5/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791549192_1",
-      "timestamp": "2026-10-09T12:33:12.011537+00:00",
-      "title": "La Tanzanie surpasse ses objectifs d&#x27;exportation d&#x27;avocats avec 52 000 tonnes -- 09/10/2026 13:32",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La Tanzanie surpasse ses objectifs d&#x27;exportation d&#x27;avocats avec 52 000 tonnes -- <span class=\"news-date\">09/10/2026 13:32</span></div><div class=\"news-body\">Pour la saison 2025/2026, la Tanzanie a exporté 52 000 tonnes d&#x27;avocats, surpassant son objectif fixé pour 2030 avec quatre ans d&#x27;avance. Cela représente une hausse de 237 % par rapport aux 15 432 tonnes exportées en 2020/2021. Les revenus d&#x27;exportation ont suivi cette tendance, passant de 44,2 millions à 97,2 millions de dollars. <span class=\"news-reason\">Informations sur l&#x27;émergence rapide d&#x27;un pays concurrent avec des volumes d&#x27;exportation réels.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881458/tanzania-s-avocado-exports-reach-52-000-tons-exceeding-2030-target/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Tanzania surpasses its avocado export targets with 52,000 tons -- <span class=\"news-date\">09/10/2026 13:32</span></div><div class=\"news-body\">For the 2025/2026 season, Tanzania exported 52,000 tons of avocados, surpassing its target set for 2030 four years ahead of schedule. This represents a 237% increase compared to the 15,432 tons exported in 2020/2021. Export revenues followed this trend, rising from 44.2 million to 97.2 million dollars. <span class=\"news-reason\">Information on the rapid emergence of a competing country with actual export volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881458/tanzania-s-avocado-exports-reach-52-000-tons-exceeding-2030-target/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">טנזניה עוקפת את יעדי ייצוא האבוקדו שלה עם 52,000 טונות -- <span class=\"news-date\">09/10/2026 13:32</span></div><div class=\"news-body\">עבור עונת 2025/2026, טנזניה ייצאה 52,000 טונות של אבוקדו, ועקפה את היעד שהוצב לשנת 2030 בארבע שנים מראש. מדובר בעלייה של 237% לעומת 15,432 הטונות שיוצאו ב-2020/2021. ההכנסות מהייצוא עקבו אחר מגמה זו, ועלו מ-44.2 מיליון ל-97.2 מיליון דולר. <span class=\"news-reason\">מידע על הופעתו המהירה של מדינה מתחרה עם נפחי ייצוא ממשיים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881458/tanzania-s-avocado-exports-reach-52-000-tons-exceeding-2030-target/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791549192_0",
-      "timestamp": "2026-10-09T12:33:12.011537+00:00",
-      "title": "Forte progression de la production d&#x27;avocats en Andalousie cette saison -- 09/10/2026 07:10",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Forte progression de la production d&#x27;avocats en Andalousie cette saison -- <span class=\"news-date\">09/10/2026 07:10</span></div><div class=\"news-body\">La production d&#x27;avocats en Andalousie a enregistré une croissance significative lors de la campagne d&#x27;octobre 2025 à juin 2026. Le volume récolté a atteint environ 91 300 tonnes, soit une augmentation de 45 % par rapport à la saison précédente. En termes de valeur, la production est estimée à plus de 202 millions d&#x27;euros, affichant une progression de 35,5 %. <span class=\"news-reason\">Contient des chiffres précis sur l&#x27;augmentation de la production (volumes et valeur) chez un concurrent direct.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/la-produccion-de-aguacate-ha-aumentado-esta-campana-en-andalucia-un-45-en-volumen-y-un-355-en-valor/\" target=\"_blank\">Hortoinfo -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Strong growth in avocado production in Andalusia this season -- <span class=\"news-date\">09/10/2026 07:10</span></div><div class=\"news-body\">Avocado production in Andalusia recorded significant growth during the campaign from October 2025 to June 2026. The harvested volume reached approximately 91,300 tons, representing a 45% increase compared to the previous season. In terms of value, production is estimated at over 202 million euros, showing a 35.5% progression. <span class=\"news-reason\">Contains precise figures on the increase in production (volumes and value) at a direct competitor.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/la-produccion-de-aguacate-ha-aumentado-esta-campana-en-andalucia-un-45-en-volumen-y-un-355-en-valor/\" target=\"_blank\">Hortoinfo -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">צמיחה חזקה בייצור האבוקדו באנדלוסיה העונה -- <span class=\"news-date\">09/10/2026 07:10</span></div><div class=\"news-body\">ייצור האבוקדו באנדלוסיה רשם צמיחה משמעותית במהלך עונת אוקטובר 2025 עד יוני 2026. נפח היבול הגיע לכ-91,300 טונות, עלייה של 45% לעומת העונה הקודמת. במונחי ערך, הייצור מוערך ביותר מ-202 מיליון אירו, המציגים עלייה של 35.5%. <span class=\"news-reason\">כולל נתונים מדויקים על העלייה בייצור (נפח וערך) אצל מתחרה ישיר.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/la-produccion-de-aguacate-ha-aumentado-esta-campana-en-andalucia-un-45-en-volumen-y-un-355-en-valor/\" target=\"_blank\">Hortoinfo -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
