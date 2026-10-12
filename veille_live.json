@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-12T08:02:12.979553+00:00",
+  "last_updated": "2026-10-12T11:01:10.780517+00:00",
   "article_count": 18,
   "attention_points": [
+    {
+      "id": "attention-a0fb71b4dcf7e73f",
+      "article_id": "1791802870_0",
+      "url": "https://www.agf.nl/article/9881406/dit-is-het-eerste-jaar-in-tien-jaar-dat-we-door-onzekere-zeevracht-helemaal-geen-avocado-s-versturen/",
+      "source": "AGF.nl",
+      "title": "Suspension des exportations maritimes d'avocats mexicains vers l'Europe",
+      "summary": "Le groupe exportateur Aztec Fruits a annonce la suspension de ses exportations d'avocats mexicains par voie maritime vers l'Europe, une premiere en dix ans.",
+      "origin_code": "MEX",
+      "origin_label": "Mexique",
+      "published_at": "2026-10-12T12:10:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 0
+    },
     {
       "id": "attention-a49ebc51f847c143",
       "article_id": "1791781278_2",
@@ -19,7 +38,7 @@
       "products": [
         "pomegranate"
       ],
-      "age_hours": 4
+      "age_hours": 7
     },
     {
       "id": "attention-dad3c1e6df93fa1a",
@@ -38,7 +57,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 4
+      "age_hours": 7
     },
     {
       "id": "attention-39536942840dba2b",
@@ -57,29 +76,28 @@
       "products": [
         "date"
       ],
-      "age_hours": 26
-    },
-    {
-      "id": "attention-f24901b0946366a9",
-      "article_id": "1791570761_0",
-      "url": "https://www.freshfruitportal.com/news/2026/10/09/florida-og-down/",
-      "source": "Fresh Fruit Portal",
-      "title": "Les prévisions de récolte d'oranges en Floride chutent",
-      "summary": "Les gels hivernaux réduisent drastiquement les volumes d'oranges prévus",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-10-09T18:08:28+00:00",
-      "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [
-        "orange"
-      ],
-      "age_hours": 61
+      "age_hours": 29
     }
   ],
   "articles": [
+    {
+      "id": "1791802870_0",
+      "timestamp": "2026-10-12T11:01:10.780517+00:00",
+      "title": "Suspension des exportations maritimes d&#x27;avocats mexicains vers l&#x27;Europe -- 12/10/2026 12:10",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MEX"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Suspension des exportations maritimes d&#x27;avocats mexicains vers l&#x27;Europe -- <span class=\"news-date\">12/10/2026 12:10</span></div><div class=\"news-body\">Le groupe exportateur Aztec Fruits a annonce la suspension de ses exportations d&#x27;avocats mexicains par voie maritime vers l&#x27;Europe, une premiere en dix ans. Cette decision radicale est la consequence directe de l&#x27;allongement des temps de transit et de l&#x27;incertitude croissante liee au transport maritime, qui compromettent la qualite et la regularite des approvisionnements vers leur bureau de vente en Belgique. <span class=\"news-reason\">Information critique sur un concurrent (Mexique) qui cesse ses exportations par voie maritime vers l&#x27;Europe, impactant l&#x27;offre sur le marche Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9881406/dit-is-het-eerste-jaar-in-tien-jaar-dat-we-door-onzekere-zeevracht-helemaal-geen-avocado-s-versturen/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Suspension of maritime exports of Mexican avocados to Europe -- <span class=\"news-date\">12/10/2026 12:10</span></div><div class=\"news-body\">The exporting group Aztec Fruits has announced the suspension of its maritime exports of Mexican avocados to Europe, a first in ten years. This radical decision is the direct consequence of longer transit times and increasing uncertainty related to maritime transport, which compromise the quality and regularity of supplies to their sales office in Belgium. <span class=\"news-reason\">Critical information regarding a competitor (Mexico) ceasing maritime exports to Europe, impacting the supply on the Mehadrin market.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9881406/dit-is-het-eerste-jaar-in-tien-jaar-dat-we-door-onzekere-zeevracht-helemaal-geen-avocado-s-versturen/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השעיית ייצוא ימי של אבוקדו מקסיקני לאירופה -- <span class=\"news-date\">12/10/2026 12:10</span></div><div class=\"news-body\">קבוצת הייצוא Aztec Fruits הודיעה על השעיית ייצוא האבוקדו המקסיקני שלה בדרך הים לאירופה, לראשונה מזה עשר שנים. החלטה דרסטית זו היא תוצאה ישירה של התארכות זמני ההובלה והאי-ודאות הגוברת הקשורה להובלה ימית, הפוגעות באיכות ובסדירות האספקה למשרד המכירות שלהם בבלגיה. <span class=\"news-reason\">מידע קריטי על מתחרה (מקסיקו) המפסיק את הייצוא בדרך הים לאירופה, דבר המשפיע על ההיצע בשוק מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9881406/dit-is-het-eerste-jaar-in-tien-jaar-dat-we-door-onzekere-zeevracht-helemaal-geen-avocado-s-versturen/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1791792132_1",
       "timestamp": "2026-10-12T08:02:12.979553+00:00",
@@ -374,24 +392,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Forte progression de la production d&#x27;avocats en Andalousie cette saison -- <span class=\"news-date\">09/10/2026 07:10</span></div><div class=\"news-body\">La production d&#x27;avocats en Andalousie a enregistré une croissance significative lors de la campagne d&#x27;octobre 2025 à juin 2026. Le volume récolté a atteint environ 91 300 tonnes, soit une augmentation de 45 % par rapport à la saison précédente. En termes de valeur, la production est estimée à plus de 202 millions d&#x27;euros, affichant une progression de 35,5 %. <span class=\"news-reason\">Contient des chiffres précis sur l&#x27;augmentation de la production (volumes et valeur) chez un concurrent direct.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/la-produccion-de-aguacate-ha-aumentado-esta-campana-en-andalucia-un-45-en-volumen-y-un-355-en-valor/\" target=\"_blank\">Hortoinfo -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Strong growth in avocado production in Andalusia this season -- <span class=\"news-date\">09/10/2026 07:10</span></div><div class=\"news-body\">Avocado production in Andalusia recorded significant growth during the campaign from October 2025 to June 2026. The harvested volume reached approximately 91,300 tons, representing a 45% increase compared to the previous season. In terms of value, production is estimated at over 202 million euros, showing a 35.5% progression. <span class=\"news-reason\">Contains precise figures on the increase in production (volumes and value) at a direct competitor.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/la-produccion-de-aguacate-ha-aumentado-esta-campana-en-andalucia-un-45-en-volumen-y-un-355-en-valor/\" target=\"_blank\">Hortoinfo -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">צמיחה חזקה בייצור האבוקדו באנדלוסיה העונה -- <span class=\"news-date\">09/10/2026 07:10</span></div><div class=\"news-body\">ייצור האבוקדו באנדלוסיה רשם צמיחה משמעותית במהלך עונת אוקטובר 2025 עד יוני 2026. נפח היבול הגיע לכ-91,300 טונות, עלייה של 45% לעומת העונה הקודמת. במונחי ערך, הייצור מוערך ביותר מ-202 מיליון אירו, המציגים עלייה של 35.5%. <span class=\"news-reason\">כולל נתונים מדויקים על העלייה בייצור (נפח וערך) אצל מתחרה ישיר.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/la-produccion-de-aguacate-ha-aumentado-esta-campana-en-andalucia-un-45-en-volumen-y-un-355-en-valor/\" target=\"_blank\">Hortoinfo -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791538358_0",
-      "timestamp": "2026-10-09T09:32:38.554676+00:00",
-      "title": "Plus de 22 000 agriculteurs kenyans se tournent vers la culture de l&#x27;avocat -- 08/10/2026 13:28",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "KEN"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Plus de 22 000 agriculteurs kenyans se tournent vers la culture de l&#x27;avocat -- <span class=\"news-date\">08/10/2026 13:28</span></div><div class=\"news-body\">Dans le comté de Nakuru au Kenya, plus de 22 000 agriculteurs ont adopté la culture de l&#x27;avocat dans le cadre d&#x27;une initiative de diversification. Le gouvernement local a investi plus de 850 000 USD dans la distribution de plants et l&#x27;expansion des vergers pour accroître les surfaces cultivées. <span class=\"news-reason\">L&#x27;article traite de l&#x27;expansion de la production d&#x27;avocats dans une origine concurrente avec des données chiffrées sur les investissements.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/africa/article/9881235/over-22-000-farmers-take-up-avocado-cultivation-in-kenya-s-nakuru-county/\" target=\"_blank\">FreshPlaza Africa -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Over 22,000 Kenyan farmers turn to avocado cultivation -- <span class=\"news-date\">08/10/2026 13:28</span></div><div class=\"news-body\">In Nakuru County, Kenya, more than 22,000 farmers have adopted avocado cultivation as part of a diversification initiative. The local government has invested over 850,000 USD in seedling distribution and orchard expansion to increase cultivated areas. <span class=\"news-reason\">The article discusses the expansion of avocado production in a competing origin with figures on investments.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/africa/article/9881235/over-22-000-farmers-take-up-avocado-cultivation-in-kenya-s-nakuru-county/\" target=\"_blank\">FreshPlaza Africa -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">למעלה מ-22,000 חקלאים קנייתים פונים לגידול אבוקדו -- <span class=\"news-date\">08/10/2026 13:28</span></div><div class=\"news-body\">במחוז נאקורו שבקניה, למעלה מ-22,000 חקלאים אימצו את גידול האבוקדו כחלק מיוזמת גיוון. הממשל המקומי השקיע למעלה מ-850,000 דולר בהפצת שתילים ובהרחבת המטעים כדי להגדיל את השטחים המעובדים. <span class=\"news-reason\">המאמר עוסק בהתרחבות ייצור האבוקדו במקור מתחרה, עם נתונים מספריים על ההשקעות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/africa/article/9881235/over-22-000-farmers-take-up-avocado-cultivation-in-kenya-s-nakuru-county/\" target=\"_blank\">FreshPlaza Africa -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
