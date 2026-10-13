@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-13T11:02:44.352719+00:00",
-  "article_count": 27,
+  "last_updated": "2026-10-13T12:32:35.813339+00:00",
+  "article_count": 29,
   "attention_points": [
+    {
+      "id": "attention-78471310548aaf28",
+      "article_id": "1791894755_0",
+      "url": "https://www.freshplaza.com/article/9882416/kenyan-maize-farmers-shift-to-avocados-with-800-000-trees-targeted/",
+      "source": "FreshPlaza",
+      "title": "Le Kenya vise 800 000 avocatiers suite à l'abandon",
+      "summary": "Les agriculteurs du comté de Nandi, au Kenya, abandonnent la culture du maïs pour l'avocat en raison de l'augmentation des coûts des intrants et des aléas climatiques.",
+      "origin_code": "KEN",
+      "origin_label": "Kenya",
+      "published_at": "2026-10-13T13:29:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 1
+    },
+    {
+      "id": "attention-933808b2c0efcee6",
+      "article_id": "1791894755_1",
+      "url": "https://www.freshplaza.com/article/9882580/405-hectare-avocado-expansion-planned-in-hawaii/",
+      "source": "FreshPlaza",
+      "title": "Hawaï prévoit une expansion de 405 hectares de ses",
+      "summary": "La société Mahi Pono prévoit d'étendre la culture de l'avocat sur l'île de Maui.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-10-13T13:29:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 1
+    },
     {
       "id": "attention-77ac68c6f202d92b",
       "article_id": "1791883940_1",
@@ -19,26 +57,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-2caa58e51eafe9c3",
-      "article_id": "1791889364_2",
-      "url": "https://www.freshplaza.it/article/9881319/la-varieta-di-datteri-ajwa-viene-coltivata-anche-in-egitto/",
-      "source": "FreshPlaza IT",
-      "title": "L'Égypte lance la culture de la variété de dattes",
-      "summary": "La variété de dattes Ajwa, traditionnellement originaire d'Arabie Saoudite, est désormais cultivée en Égypte.",
-      "origin_code": "EGY",
-      "origin_label": "Égypte",
-      "published_at": "2026-10-13T06:05:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "date"
-      ],
-      "age_hours": 6
+      "age_hours": 4
     },
     {
       "id": "attention-ef150b79936d149d",
@@ -55,29 +74,44 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 6
-    },
-    {
-      "id": "attention-b5ae8c7b0dfbd108",
-      "article_id": "1791813740_0",
-      "url": "https://www.freshplaza.es/article/9880988/el-pomelo-de-florida-mejora-su-calidad-interna-con-niveles-de-brix-un-10-superiores-a-los-del-ano-pasado/",
-      "source": "FreshPlaza ES",
-      "title": "Amélioration de la qualité interne des pomelos de Floride",
-      "summary": "Le secteur du pomelo en Floride prévoit une campagne 2026-2027 qualitative malgré des gelées printanières.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-10-12T14:04:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [
-        "citrus_grapefruit"
-      ],
-      "age_hours": 22
+      "age_hours": 8
     }
   ],
   "articles": [
+    {
+      "id": "1791894755_1",
+      "timestamp": "2026-10-13T12:32:35.813339+00:00",
+      "title": "Hawaï prévoit une expansion de 405 hectares de ses cultures d&#x27;avocats -- 13/10/2026 13:29",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Hawaï prévoit une expansion de 405 hectares de ses cultures d&#x27;avocats -- <span class=\"news-date\">13/10/2026 13:29</span></div><div class=\"news-body\">La société Mahi Pono prévoit d&#x27;étendre la culture de l&#x27;avocat sur l&#x27;île de Maui. Le projet vise l&#x27;établissement de vergers sur environ 405 hectares, avec des rendements annuels attendus dépassant les 4 535 tonnes une fois la pleine maturité atteinte. Les plantations incluront les variétés Lamb Hass, Sharwil, Malama et Greengold. <span class=\"news-reason\">Expansion de la production d&#x27;avocats chez un concurrent avec chiffres de volumes et surfaces.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882580/405-hectare-avocado-expansion-planned-in-hawaii/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Hawaii plans a 405-hectare expansion of its avocado crops -- <span class=\"news-date\">13/10/2026 13:29</span></div><div class=\"news-body\">The company Mahi Pono plans to expand avocado cultivation on the island of Maui. The project aims to establish orchards on approximately 405 hectares, with expected annual yields exceeding 4,535 tonnes once full maturity is reached. The plantings will include Lamb Hass, Sharwil, Malama, and Greengold varieties. <span class=\"news-reason\">Expansion of avocado production in a competitor with volume and area figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882580/405-hectare-avocado-expansion-planned-in-hawaii/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">הוואי מתכננת הרחבה של 405 הקטאר של מטעי האבוקדו שלה -- <span class=\"news-date\">13/10/2026 13:29</span></div><div class=\"news-body\">חברת Mahi Pono מתכננת להרחיב את גידול האבוקדו באי מאווי. הפרויקט שואף להקים מטעים על כ-405 הקטאר, עם יבולים שנתיים צפויים שיעלו על 4,535 טונות ברגע שתתקבל בשלות מלאה. המטעים יכללו את הזנים לאמב האס, שרוויל, מלאמה וגרינגולד. <span class=\"news-reason\">הרחבת ייצור האבוקדו אצל מתחרה עם נתוני כמויות ושטחים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882580/405-hectare-avocado-expansion-planned-in-hawaii/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791894755_0",
+      "timestamp": "2026-10-13T12:32:35.813339+00:00",
+      "title": "Le Kenya vise 800 000 avocatiers suite à l&#x27;abandon du maïs -- 13/10/2026 13:29",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "KEN"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le Kenya vise 800 000 avocatiers suite à l&#x27;abandon du maïs -- <span class=\"news-date\">13/10/2026 13:29</span></div><div class=\"news-body\">Les agriculteurs du comté de Nandi, au Kenya, abandonnent la culture du maïs pour l&#x27;avocat en raison de l&#x27;augmentation des coûts des intrants et des aléas climatiques. Ce virage stratégique prévoit la plantation de 800 000 arbres dans les districts d&#x27;Emgwen, Aldai, Nandi Hills et Tinderet, motivé par des coûts de production plus faibles et des perspectives de revenus supérieurs. <span class=\"news-reason\">Information sur l&#x27;expansion des surfaces de production d&#x27;avocats chez un concurrent (Kenya) avec chiffres précis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882416/kenyan-maize-farmers-shift-to-avocados-with-800-000-trees-targeted/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Kenya aims for 800,000 avocado trees following the shift away from maize -- <span class=\"news-date\">13/10/2026 13:29</span></div><div class=\"news-body\">Farmers in Nandi County, Kenya, are moving away from maize cultivation to avocados due to rising input costs and climate variability. This strategic shift involves planting 800,000 trees in the Emgwen, Aldai, Nandi Hills, and Tinderet districts, driven by lower production costs and higher income prospects. <span class=\"news-reason\">Information on the expansion of avocado production areas in a competitor (Kenya) with precise figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882416/kenyan-maize-farmers-shift-to-avocados-with-800-000-trees-targeted/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">קניה מכוונת ל-800,000 עצי אבוקדו בעקבות נטישת התירס -- <span class=\"news-date\">13/10/2026 13:29</span></div><div class=\"news-body\">חקלאים במחוז נאנדי שבקניה נוטשים את גידול התירס לטובת אבוקדו בשל עליית מחירי התשומות ופגעי האקלים. תפנית אסטרטגית זו צופה נטיעה של 800,000 עצים במחוזות המשנה אמגוון, אלדאי, נאנדי הילס וטינדרט, מתוך מניע של עלויות ייצור נמוכות יותר ותחזיות להכנסות גבוהות יותר. <span class=\"news-reason\">מידע על הרחבת שטחי ייצור האבוקדו אצל מתחרה (קניה) עם נתונים מדויקים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882416/kenyan-maize-farmers-shift-to-avocados-with-800-000-trees-targeted/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1791889364_2",
       "timestamp": "2026-10-13T11:02:44.352719+00:00",
@@ -333,7 +367,7 @@
     {
       "id": "1791813740_1",
       "timestamp": "2026-10-12T14:02:20.284975+00:00",
-      "title": "Optimisation du transport des arilles de grenade au moyen d&#x27;un nouveau conditionnement bioplastique",
+      "title": "Optimisation du transport des arilles de grenade par un nouveau conditionnement bioplastique",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Jessica"
@@ -342,7 +376,7 @@
       "origins": [
         "IND"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Optimisation du transport des arilles de grenade au moyen d&#x27;un nouveau conditionnement bioplastique -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">La société Q-Bic, en collaboration avec l&#x27;exportateur indien Sam Agri, a développé un nouveau système d&#x27;envasement pour les arilles de grenade. Ce format, combinant une barquette bioplastique et une boîte prête pour la vente au détail, permet d&#x27;augmenter la densité de charge de 50 %. Le dispositif est conçu pour optimiser l&#x27;espace logistique tout en répondant aux besoins de la distribution. <span class=\"news-reason\">Innovation logistique chez un concurrent majeur (Inde) sur la grenade, produit actuellement en saison chez Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880555/un-nuevo-envase-de-bioplastico-promete-aumentar-un-50-la-densidad-de-carga-en-los-arilos-de-granada/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Optimisation du transport des arilles de grenade par un nouveau conditionnement bioplastique -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">La société Q-Bic, en collaboration avec l&#x27;exportateur indien Sam Agri, a développé un nouveau système d&#x27;envasement pour les arilles de grenade. Ce format, combinant une barquette bioplastique et une boîte prête pour la vente au détail, permet d&#x27;augmenter la densité de charge de 50 %. Le dispositif est conçu pour optimiser l&#x27;espace logistique tout en répondant aux besoins de la distribution. <span class=\"news-reason\">Innovation logistique chez un concurrent majeur (Inde) sur la grenade, produit actuellement en saison chez Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880555/un-nuevo-envase-de-bioplastico-promete-aumentar-un-50-la-densidad-de-carga-en-los-arilos-de-granada/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">New bioplastic packaging to optimize transport of pomegranate arils -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">The company Q-Bic, in collaboration with Indian exporter Sam Agri, has developed a new packaging system for pomegranate arils. This format, combining a bioplastic tray and a retail-ready box, allows for a 50% increase in load density. The device is designed to optimize logistical space while meeting distribution needs. <span class=\"news-reason\">Logistics innovation from a major competitor (India) for pomegranates, a product currently in season at Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880555/un-nuevo-envase-de-bioplastico-promete-aumentar-un-50-la-densidad-de-carga-en-los-arilos-de-granada/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">אריזת ביו-פלסטיק חדשה לייעול הובלת גרגירי רימון -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">חברת Q-Bic, בשיתוף עם היצואנית ההודית Sam Agri, פיתחה מערכת אריזה חדשה לגרגירי רימון. פורמט זה, המשלב מגשית ביו-פלסטיק וקופסה המוכנה לקמעונאות, מאפשר להגדיל את צפיפות המטען ב-50%. המערכת נועדה לייעל את המרחב הלוגיסטי תוך מתן מענה לצורכי ההפצה. <span class=\"news-reason\">חדשנות לוגיסטית אצל מתחרה מרכזי (הודו) בתחום הרימונים, מוצר שנמצא כעת בעונה במהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880555/un-nuevo-envase-de-bioplastico-promete-aumentar-un-50-la-densidad-de-carga-en-los-arilos-de-granada/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -490,7 +524,7 @@
     {
       "id": "1791781278_2",
       "timestamp": "2026-10-12T05:01:18.596906+00:00",
-      "title": "Baisse des cours de la grenade et de la patate douce en octobre",
+      "title": "Recul des cours de la grenade et de la patate douce en octobre",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica",
@@ -501,7 +535,7 @@
         "pomegranate"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse des cours de la grenade et de la patate douce en octobre -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, le mois d&#x27;octobre enregistre une baisse des cours pour plusieurs produits. Les grenades et les patates douces deviennent plus abordables sur les marchés de gros, marquant une tendance saisonnière de prix à la baisse pour ces catégories. <span class=\"news-reason\">Indicateur de tendance de prix sur deux produits Mehadrin actuellement en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul des cours de la grenade et de la patate douce en octobre -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, le mois d&#x27;octobre enregistre une baisse des cours pour plusieurs produits. Les grenades et les patates douces deviennent plus abordables sur les marchés de gros, marquant une tendance saisonnière de prix à la baisse pour ces catégories. <span class=\"news-reason\">Indicateur de tendance de prix sur deux produits Mehadrin actuellement en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decrease in prices for pomegranates and sweet potatoes in October -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">According to data from BMTI and Italmercati, the month of October recorded a price drop for several products. Pomegranates and sweet potatoes are becoming more affordable on wholesale markets, marking a seasonal downward price trend for these categories. <span class=\"news-reason\">Price trend indicator for two Mehadrin products currently in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידת מחירי הרימונים והבטטות באוקטובר -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">על פי נתוני BMTI ו-Italmercati, חודש אוקטובר רושם ירידה במחירים עבור מספר מוצרים. הרימונים והבטטות הופכים לנגישים יותר בשווקים הסיטונאיים, דבר המסמן מגמה עונתית של ירידת מחירים לקטגוריות אלו. <span class=\"news-reason\">אינדיקטור למגמת המחירים עבור שני מוצרי מהדרין הנמצאים כעת בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
