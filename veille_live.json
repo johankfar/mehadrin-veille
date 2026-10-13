@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-13T09:32:20.128004+00:00",
-  "article_count": 24,
+  "last_updated": "2026-10-13T11:02:44.352719+00:00",
+  "article_count": 27,
   "attention_points": [
     {
       "id": "attention-77ac68c6f202d92b",
@@ -19,7 +19,26 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 1
+      "age_hours": 2
+    },
+    {
+      "id": "attention-2caa58e51eafe9c3",
+      "article_id": "1791889364_2",
+      "url": "https://www.freshplaza.it/article/9881319/la-varieta-di-datteri-ajwa-viene-coltivata-anche-in-egitto/",
+      "source": "FreshPlaza IT",
+      "title": "L'Égypte lance la culture de la variété de dattes",
+      "summary": "La variété de dattes Ajwa, traditionnellement originaire d'Arabie Saoudite, est désormais cultivée en Égypte.",
+      "origin_code": "EGY",
+      "origin_label": "Égypte",
+      "published_at": "2026-10-13T06:05:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "date"
+      ],
+      "age_hours": 6
     },
     {
       "id": "attention-ef150b79936d149d",
@@ -36,28 +55,7 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 5
-    },
-    {
-      "id": "attention-5c62193a5ee30258",
-      "article_id": "1791878507_0",
-      "url": "https://www.hortidaily.com/article/9881239/denmark-exempts-fruit-and-vegetable-growers-from-2027-fertilizer-restrictions/",
-      "source": "HortiDaily",
-      "title": "Le Danemark exempte la production de melons des restrictions",
-      "summary": "Les cultures de melons bénéficieront d'exemptions réglementaires temporaires",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-10-12T14:36:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "melon",
-        "grape",
-        "berry"
-      ],
-      "age_hours": 20
+      "age_hours": 6
     },
     {
       "id": "attention-b5ae8c7b0dfbd108",
@@ -76,10 +74,60 @@
       "products": [
         "citrus_grapefruit"
       ],
-      "age_hours": 21
+      "age_hours": 22
     }
   ],
   "articles": [
+    {
+      "id": "1791889364_2",
+      "timestamp": "2026-10-13T11:02:44.352719+00:00",
+      "title": "L&#x27;Égypte lance la culture de la variété de dattes Ajwa",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [
+        "date"
+      ],
+      "origins": [
+        "EGY"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;Égypte lance la culture de la variété de dattes Ajwa -- <span class=\"news-date\">13/10/2026 06:05</span></div><div class=\"news-body\">La variété de dattes Ajwa, traditionnellement originaire d&#x27;Arabie Saoudite, est désormais cultivée en Égypte. Ce fruit, de taille petite à moyenne avec une peau noire et ridée, permet à l&#x27;Égypte de diversifier son offre sur le marché mondial des dattes. <span class=\"news-reason\">Information sur la diversification variétale d&#x27;un pays concurrent (Égypte) sur un produit clé de Mehadrin (dattes).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881319/la-varieta-di-datteri-ajwa-viene-coltivata-anche-in-egitto/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Egypt launches the cultivation of the Ajwa date variety -- <span class=\"news-date\">13/10/2026 06:05</span></div><div class=\"news-body\">The Ajwa date variety, traditionally originating from Saudi Arabia, is now being grown in Egypt. This fruit, small to medium in size with black, wrinkled skin, allows Egypt to diversify its offering on the global date market. <span class=\"news-reason\">Information on the varietal diversification of a competing country (Egypt) for a key Mehadrin product (dates).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881319/la-varieta-di-datteri-ajwa-viene-coltivata-anche-in-egitto/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מצרים מתחילה לגדל את זן התמרים עג'ווה -- <span class=\"news-date\">13/10/2026 06:05</span></div><div class=\"news-body\">זן התמרים עג'ווה, שמקורו המסורתי בסעודיה, מעובד כעת במצרים. פרי זה, בגודל קטן עד בינוני עם קליפה שחורה ומקומטת, מאפשר למצרים לגוון את ההיצע שלה בשוק התמרים העולמי. <span class=\"news-reason\">מידע על גיוון זנים במדינה מתחרה (מצרים) עבור מוצר מפתח של מהדרין (תמרים).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881319/la-varieta-di-datteri-ajwa-viene-coltivata-anche-in-egitto/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791889364_1",
+      "timestamp": "2026-10-13T11:02:44.352719+00:00",
+      "title": "Elite Agro investit dans une huitième ferme de 400 hectares au Maroc -- 09/10/2026 10:04",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Elite Agro investit dans une huitième ferme de 400 hectares au Maroc -- <span class=\"news-date\">09/10/2026 10:04</span></div><div class=\"news-body\">Le groupe émirati Elite Agro poursuit son expansion au Maroc avec le développement d&#x27;une huitième exploitation agricole. Ce nouveau projet porte sur une surface de 400 hectares. <span class=\"news-reason\">Expansion significative d&#x27;un acteur majeur dans une origine concurrente stratégique (Maroc).</span></div><div class=\"news-source\"><a href=\"https://cagor.net/revue-de-presse-agricole-09-10-2026/\" target=\"_blank\">CAGOR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Elite Agro invests in an eighth 400-hectare farm in Morocco -- <span class=\"news-date\">09/10/2026 10:04</span></div><div class=\"news-body\">The Emirati group Elite Agro continues its expansion in Morocco with the development of an eighth agricultural farm. This new project covers an area of 400 hectares. <span class=\"news-reason\">Significant expansion of a major player in a strategic competing origin (Morocco).</span></div><div class=\"news-source\"><a href=\"https://cagor.net/revue-de-presse-agricole-09-10-2026/\" target=\"_blank\">CAGOR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות שיווק</div><div class=\"news-title\">Elite Agro משקיעה בחווה שמינית בשטח של 400 הקטר במרוקו -- <span class=\"news-date\">09/10/2026 10:04</span></div><div class=\"news-body\">הקבוצה האמירתית Elite Agro ממשיכה בהתרחבותה במרוקו עם פיתוח של משק חקלאי שמיני. פרויקט חדש זה משתרע על שטח של 400 הקטר. <span class=\"news-reason\">התרחבות משמעותית של שחקן מרכזי במקור תחרות אסטרטגי (מרוקו).</span></div><div class=\"news-source\"><a href=\"https://cagor.net/revue-de-presse-agricole-09-10-2026/\" target=\"_blank\">CAGOR -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791889364_0",
+      "timestamp": "2026-10-13T11:02:44.352719+00:00",
+      "title": "Andalousie : la production d&#x27;avocats bondit de 45 % pour la campagne 2025/2026 -- 09/10/2026 07:10",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Andalousie : la production d&#x27;avocats bondit de 45 % pour la campagne 2025/2026 -- <span class=\"news-date\">09/10/2026 07:10</span></div><div class=\"news-body\">La production d&#x27;avocats en Andalousie a atteint environ 91 300 tonnes pour la campagne s&#x27;étendant d&#x27;octobre 2025 à juin 2026. Cela représente une augmentation de 45 % en volume par rapport à la saison précédente. La valeur de cette production a également progressé de 35,5 %, dépassant les 202 millions d&#x27;euros. <span class=\"news-reason\">Article fournissant des chiffres précis de production (tonnes et valeur) chez un concurrent direct (Espagne) pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/la-produccion-de-aguacate-ha-aumentado-esta-campana-en-andalucia-un-45-en-volumen-y-un-355-en-valor/\" target=\"_blank\">Hortoinfo -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Andalusia: avocado production jumps by 45% for the 2025/2026 campaign -- <span class=\"news-date\">09/10/2026 07:10</span></div><div class=\"news-body\">Avocado production in Andalusia reached approximately 91,300 tonnes for the campaign running from October 2025 to June 2026. This represents a 45% increase in volume compared to the previous season. The value of this production also rose by 35.5%, exceeding 202 million euros. <span class=\"news-reason\">Article providing precise production figures (tonnes and value) for a direct competitor (Spain) for a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/la-produccion-de-aguacate-ha-aumentado-esta-campana-en-andalucia-un-45-en-volumen-y-un-355-en-valor/\" target=\"_blank\">Hortoinfo -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">אנדלוסיה: ייצור האבוקדו מזנק ב-45% עבור עונת 2025/2026 -- <span class=\"news-date\">09/10/2026 07:10</span></div><div class=\"news-body\">ייצור האבוקדו באנדלוסיה הגיע לכ-91,300 טונות עבור העונה המשתרעת מאוקטובר 2025 עד יוני 2026. מדובר בעלייה של 45% בנפח לעומת העונה הקודמת. ערך הייצור עלה גם הוא ב-35.5%, ועבר את ה-202 מיליון אירו. <span class=\"news-reason\">כתבה המספקת נתוני ייצור מדויקים (טונות וערך) אצל מתחרה ישיר (ספרד) עבור מוצר של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/la-produccion-de-aguacate-ha-aumentado-esta-campana-en-andalucia-un-45-en-volumen-y-un-355-en-valor/\" target=\"_blank\">Hortoinfo -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1791883940_2",
       "timestamp": "2026-10-13T09:32:20.128004+00:00",
