@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-13T18:33:53.880103+00:00",
-  "article_count": 38,
+  "last_updated": "2026-10-14T06:33:15.141044+00:00",
+  "article_count": 39,
   "attention_points": [
+    {
+      "id": "attention-be76e7752d07962b",
+      "article_id": "1791959595_0",
+      "url": "https://www.producereport.com/article/perus-2026-hass-avocado-exports-china-forecast-43822-tons",
+      "source": "Produce Report",
+      "title": "Révision à la baisse des prévisions d'exportation d'avocats Hass",
+      "summary": "L'association ProHass a révisé ses prévisions d'exportation d'avocats Hass pour 2026 à 710 679 tonnes métriques, soit une baisse de 1,7 % par rapport aux 722 754 tonnes exportées en 2025.",
+      "origin_code": "PER",
+      "origin_label": "Pérou",
+      "published_at": "2026-10-14T00:51:48+00:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "information",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 5
+    },
     {
       "id": "attention-317d4233f986f34b",
       "article_id": "1791916433_0",
@@ -19,7 +38,7 @@
       "products": [
         "mango"
       ],
-      "age_hours": 4
+      "age_hours": 16
     },
     {
       "id": "attention-78471310548aaf28",
@@ -38,33 +57,14 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 7
-    },
-    {
-      "id": "attention-d3d1f4c133434316",
-      "article_id": "1791905559_1",
-      "url": "https://www.freshplaza.com/article/9882417/egypt-exports-81-000-tons-of-fruit-and-vegetables-in-one-week/",
-      "source": "FreshPlaza",
-      "title": "Égypte : 81 000 tonnes de fruits et légumes",
-      "summary": "Entre le 3 et le 9 octobre 2026, l'Égypte a exporté environ 190 000 tonnes de produits alimentaires.",
-      "origin_code": "EGY",
-      "origin_label": "Égypte",
-      "published_at": "2026-10-13T13:29:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "information",
-      "products": [
-        "sweet_potato"
-      ],
-      "age_hours": 7
+      "age_hours": 19
     },
     {
       "id": "attention-ef150b79936d149d",
       "article_id": "1791867740_0",
       "url": "https://www.freshplaza.it/article/9882377/trieste-damietta-dal-15-ottobre-raddoppiano-le-partenze-l-ortofrutta-spinge-i-traffici-con-l-egitto/",
       "source": "FreshPlaza IT",
-      "title": "Doublement des liaisons maritimes de produits frais entre l'Égypte",
+      "title": "Doublement des liaisons maritimes de produits frais entre l’Égypte",
       "summary": "À partir du 15 octobre 2026, la liaison maritime ro-ro entre le port de Damietta en Égypte et celui de Trieste en Italie doublera sa fréquence de départs.",
       "origin_code": "ITA",
       "origin_label": "Italie",
@@ -74,10 +74,29 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 14
+      "age_hours": 26
     }
   ],
   "articles": [
+    {
+      "id": "1791959595_0",
+      "timestamp": "2026-10-14T06:33:15.141044+00:00",
+      "title": "Révision à la baisse des prévisions d&#x27;exportation d&#x27;avocats Hass du Pérou pour 2026 -- 14/10/2026 00:51",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "PER",
+        "CHN"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Révision à la baisse des prévisions d&#x27;exportation d&#x27;avocats Hass du Pérou pour 2026 -- <span class=\"news-date\">14/10/2026 00:51</span></div><div class=\"news-body\">L&#x27;association ProHass a révisé ses prévisions d&#x27;exportation d&#x27;avocats Hass pour 2026 à 710 679 tonnes métriques, soit une baisse de 1,7 % par rapport aux 722 754 tonnes exportées en 2025. Cette diminution est attribuée à l&#x27;impact climatique du phénomène El Niño, contredisant les estimations initiales qui prévoyaient une croissance de 6 %. Par ailleurs, les exportations spécifiques vers la Chine sont désormais projetées à 43 822 tonnes pour l&#x27;année 2026. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis de volumes d&#x27;exportation (710 679 tonnes) pour un concurrent majeur (Pérou) sur un produit clé (avocat Hass).</span></div><div class=\"news-source\"><a href=\"https://www.producereport.com/article/perus-2026-hass-avocado-exports-china-forecast-43822-tons\" target=\"_blank\">Produce Report -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Downward revision of Peru&#x27;s Hass avocado export forecasts for 2026 -- <span class=\"news-date\">14/10/2026 00:51</span></div><div class=\"news-body\">The ProHass association has revised its Hass avocado export forecasts for 2026 to 710,679 metric tons, representing a 1.7% decrease compared to the 722,754 tons exported in 2025. This decrease is attributed to the climatic impact of the El Niño phenomenon, contradicting initial estimates that predicted 6% growth. Furthermore, specific exports to China are now projected at 43,822 tons for the year 2026. <span class=\"news-reason\">The article provides precise export volume figures (710,679 tons) for a major competitor (Peru) on a key product (Hass avocado).</span></div><div class=\"news-source\"><a href=\"https://www.producereport.com/article/perus-2026-hass-avocado-exports-china-forecast-43822-tons\" target=\"_blank\">Produce Report -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עדכון כלפי מטה של תחזיות ייצוא האבוקדו מסוג האס מפרו לשנת 2026 -- <span class=\"news-date\">14/10/2026 00:51</span></div><div class=\"news-body\">איגוד ProHass עדכן את תחזיות ייצוא האבוקדו מסוג האס לשנת 2026 ל-710,679 טונות מטריות, ירידה של 1.7% לעומת 722,754 הטונות שיוצאו בשנת 2025. ירידה זו מיוחסת להשפעה האקלימית של תופעת אל-ניניו, בניגוד להערכות הראשוניות שחזו צמיחה של 6%. בנוסף, הייצוא הספציפי לסין מוערך כעת ב-43,822 טונות לשנת 2026. <span class=\"news-reason\">הכתבה מספקת נתונים מדויקים על נפחי ייצוא (710,679 טונות) עבור מתחרה מרכזי (פרו) במוצר מפתח (אבוקדו האס).</span></div><div class=\"news-source\"><a href=\"https://www.producereport.com/article/perus-2026-hass-avocado-exports-china-forecast-43822-tons\" target=\"_blank\">Produce Report -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1791916433_3",
       "timestamp": "2026-10-13T18:33:53.880103+00:00",
@@ -413,7 +432,7 @@
     {
       "id": "1791867740_0",
       "timestamp": "2026-10-13T05:02:20.326219+00:00",
-      "title": "Doublement des liaisons maritimes de produits frais entre l&#x27;Égypte et l&#x27;Italie",
+      "title": "Doublement des liaisons maritimes de produits frais entre l’Égypte et l’Italie",
       "category": "PRIX &amp VOLUMES",
       "commercials": [],
       "products": [],
@@ -421,7 +440,7 @@
         "ITA",
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Doublement des liaisons maritimes de produits frais entre l&#x27;Égypte et l&#x27;Italie -- <span class=\"news-date\">13/10/2026 06:05</span></div><div class=\"news-body\">À partir du 15 octobre 2026, la liaison maritime ro-ro entre le port de Damietta en Égypte et celui de Trieste en Italie doublera sa fréquence de départs. Ce renforcement logistique vise spécifiquement à soutenir la croissance des flux de produits horticoles frais entre l&#x27;Égypte et le marché européen via l&#x27;Italie. <span class=\"news-reason\">L&#x27;article mentionne une augmentation concrète de la capacité logistique d&#x27;un concurrent majeur (Égypte) vers l&#x27;Europe avec des chiffres précis (doublement, date du 15 octobre).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882377/trieste-damietta-dal-15-ottobre-raddoppiano-le-partenze-l-ortofrutta-spinge-i-traffici-con-l-egitto/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Doublement des liaisons maritimes de produits frais entre l’Égypte et l’Italie -- <span class=\"news-date\">13/10/2026 06:05</span></div><div class=\"news-body\">À partir du 15 octobre 2026, la liaison maritime ro-ro entre le port de Damietta en Égypte et celui de Trieste en Italie doublera sa fréquence de départs. Ce renforcement logistique vise spécifiquement à soutenir la croissance des flux de produits horticoles frais entre l&#x27;Égypte et le marché européen via l&#x27;Italie. <span class=\"news-reason\">L&#x27;article mentionne une augmentation concrète de la capacité logistique d&#x27;un concurrent majeur (Égypte) vers l&#x27;Europe avec des chiffres précis (doublement, date du 15 octobre).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882377/trieste-damietta-dal-15-ottobre-raddoppiano-le-partenze-l-ortofrutta-spinge-i-traffici-con-l-egitto/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Doubling of maritime links between Egypt and Italy for fresh products -- <span class=\"news-date\">13/10/2026 06:05</span></div><div class=\"news-body\">As of October 15, 2026, the ro-ro maritime link between the port of Damietta in Egypt and the port of Trieste in Italy will double its departure frequency. This logistical reinforcement specifically aims to support the growth of fresh horticultural product flows between Egypt and the European market via Italy. <span class=\"news-reason\">The article mentions a concrete increase in the logistical capacity of a major competitor (Egypt) towards Europe with specific figures (doubling, October 15 date).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882377/trieste-damietta-dal-15-ottobre-raddoppiano-le-partenze-l-ortofrutta-spinge-i-traffici-con-l-egitto/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">הכפלת קווי הספנות בין מצרים לאיטליה עבור תוצרת טרייה -- <span class=\"news-date\">13/10/2026 06:05</span></div><div class=\"news-body\">החל מה-15 באוקטובר 2026, קו הספנות ro-ro בין נמל דמיאט במצרים לנמל טריאסטה באיטליה יכפיל את תדירות הפלגותיו. חיזוק לוגיסטי זה נועד במיוחד לתמוך בצמיחת תנועת התוצרת החקלאית הטרייה בין מצרים לשוק האירופי דרך איטליה. <span class=\"news-reason\">המאמר מציין עלייה מוחשית בקיבולת הלוגיסטית של מתחרה מרכזי (מצרים) לעבר אירופה עם נתונים מדויקים (הכפלה, תאריך ה-15 באוקטובר).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882377/trieste-damietta-dal-15-ottobre-raddoppiano-le-partenze-l-ortofrutta-spinge-i-traffici-con-l-egitto/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -545,7 +564,7 @@
     {
       "id": "1791813740_0",
       "timestamp": "2026-10-12T14:02:20.284975+00:00",
-      "title": "Amélioration de la qualité interne des pomelos de Floride par l&#x27;augmentation du degré Brix",
+      "title": "Optimisation de la qualité interne des pomelos de Floride par l’augmentation du degré Brix",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -554,7 +573,7 @@
         "citrus_grapefruit"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Amélioration de la qualité interne des pomelos de Floride par l&#x27;augmentation du degré Brix -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">Le secteur du pomelo en Floride prévoit une campagne 2026-2027 qualitative malgré des gelées printanières. Les niveaux de Brix sont supérieurs de 10 % par rapport à l&#x27;année dernière, avec une récolte jugée uniforme. Les arbres ont été affectés par le climat, mais la production reste solide pour la saison à venir. <span class=\"news-reason\">Contient des chiffres précis sur la qualité (Brix +10%) et des prévisions de récolte pour un produit concurrent direct de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880988/el-pomelo-de-florida-mejora-su-calidad-interna-con-niveles-de-brix-un-10-superiores-a-los-del-ano-pasado/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Optimisation de la qualité interne des pomelos de Floride par l’augmentation du degré Brix -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">Le secteur du pomelo en Floride prévoit une campagne 2026-2027 qualitative malgré des gelées printanières. Les niveaux de Brix sont supérieurs de 10 % par rapport à l&#x27;année dernière, avec une récolte jugée uniforme. Les arbres ont été affectés par le climat, mais la production reste solide pour la saison à venir. <span class=\"news-reason\">Contient des chiffres précis sur la qualité (Brix +10%) et des prévisions de récolte pour un produit concurrent direct de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880988/el-pomelo-de-florida-mejora-su-calidad-interna-con-niveles-de-brix-un-10-superiores-a-los-del-ano-pasado/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Improved internal quality of Florida grapefruit with higher Brix levels -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">The Florida grapefruit sector anticipates a high-quality 2026-2027 season despite spring frosts. Brix levels are 10% higher than last year, with a harvest considered uniform. The trees were affected by the climate, but production remains solid for the coming season. <span class=\"news-reason\">Contains precise figures on quality (Brix +10%) and harvest forecasts for a product that is a direct competitor to Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880988/el-pomelo-de-florida-mejora-su-calidad-interna-con-niveles-de-brix-un-10-superiores-a-los-del-ano-pasado/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">שיפור באיכות הפנימית של אשכוליות פלורידה עם רמת בריקס גבוהה יותר -- <span class=\"news-date\">12/10/2026 14:04</span></div><div class=\"news-body\">ענף האשכוליות בפלורידה צופה עונת 2026-2027 איכותית למרות קרה באביב. רמות הבריקס גבוהות ב-10% בהשוואה לשנה שעברה, עם יבול שנחשב לאחיד. העצים הושפעו מהאקלים, אך הייצור נותר יציב לקראת העונה הקרובה. <span class=\"news-reason\">מכיל נתונים מדויקים על איכות (בריקס +10%) ותחזיות יבול למוצר המתחרה ישירות במהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9880988/el-pomelo-de-florida-mejora-su-calidad-interna-con-niveles-de-brix-un-10-superiores-a-los-del-ano-pasado/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -686,7 +705,7 @@
     {
       "id": "1791781278_2",
       "timestamp": "2026-10-12T05:01:18.596906+00:00",
-      "title": "Baisse des cours de la grenade et de la patate douce en octobre",
+      "title": "Recul des cours de la grenade et de la patate douce en octobre",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica",
@@ -697,7 +716,7 @@
         "pomegranate"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse des cours de la grenade et de la patate douce en octobre -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, le mois d&#x27;octobre enregistre une baisse des cours pour plusieurs produits. Les grenades et les patates douces deviennent plus abordables sur les marchés de gros, marquant une tendance saisonnière de prix à la baisse pour ces catégories. <span class=\"news-reason\">Indicateur de tendance de prix sur deux produits Mehadrin actuellement en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul des cours de la grenade et de la patate douce en octobre -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, le mois d&#x27;octobre enregistre une baisse des cours pour plusieurs produits. Les grenades et les patates douces deviennent plus abordables sur les marchés de gros, marquant une tendance saisonnière de prix à la baisse pour ces catégories. <span class=\"news-reason\">Indicateur de tendance de prix sur deux produits Mehadrin actuellement en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decrease in prices for pomegranates and sweet potatoes in October -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">According to data from BMTI and Italmercati, the month of October recorded a price drop for several products. Pomegranates and sweet potatoes are becoming more affordable on wholesale markets, marking a seasonal downward price trend for these categories. <span class=\"news-reason\">Price trend indicator for two Mehadrin products currently in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידת מחירי הרימונים והבטטות באוקטובר -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">על פי נתוני BMTI ו-Italmercati, חודש אוקטובר רושם ירידה במחירים עבור מספר מוצרים. הרימונים והבטטות הופכים לנגישים יותר בשווקים הסיטונאיים, דבר המסמן מגמה עונתית של ירידת מחירים לקטגוריות אלו. <span class=\"news-reason\">אינדיקטור למגמת המחירים עבור שני מוצרי מהדרין הנמצאים כעת בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
