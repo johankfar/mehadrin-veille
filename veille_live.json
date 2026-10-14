@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-14T15:33:33.604956+00:00",
-  "article_count": 51,
+  "last_updated": "2026-10-14T17:04:28.223060+00:00",
+  "article_count": 54,
   "attention_points": [
     {
       "id": "attention-24071c0513f29751",
       "article_id": "1791986660_4",
       "url": "https://www.freshplaza.es/article/9881785/las-exportaciones-de-aguacate-de-tanzania-superan-el-objetivo-marcado-para-2030/",
       "source": "FreshPlaza ES",
-      "title": "La Tanzanie dépasse ses objectifs d'exportation d'avocats pour 2030",
+      "title": "La Tanzanie dépasse ses objectifs d'exportation d'avocats à l'horizon",
       "summary": "La Tanzanie a exporté 52 000 tonnes d'avocats au cours de la campagne 2025/2026, surpassant avec quatre ans d'avance son objectif initial de 40 000 tonnes fixé pour 2030.",
       "origin_code": null,
       "origin_label": null,
@@ -19,7 +19,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 2
+      "age_hours": 3
     },
     {
       "id": "attention-679661f4a1cb3c76",
@@ -36,7 +36,26 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 2
+      "age_hours": 3
+    },
+    {
+      "id": "attention-eba938145ceafb82",
+      "article_id": "1791992013_0",
+      "url": "https://www.freshplaza.es/article/9882259/es-la-primera-vez-en-diez-anos-que-no-mandamos-ni-un-aguacate-por-barco-a-europa/",
+      "source": "FreshPlaza ES",
+      "title": "Suspension des exportations maritimes d'avocats mexicains vers l'Europe",
+      "summary": "L'exportateur mexicain Aztec Fruits a annoncé l'arrêt total de ses envois d'avocats par voie maritime vers l'Europe, une première en dix ans.",
+      "origin_code": "MEX",
+      "origin_label": "Mexique",
+      "published_at": "2026-10-14T15:32:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 3
     },
     {
       "id": "attention-1e7ee6108fc7ab8f",
@@ -55,33 +74,65 @@
       "products": [
         "watermelon"
       ],
-      "age_hours": 4
-    },
-    {
-      "id": "attention-78471310548aaf28",
-      "article_id": "1791894755_0",
-      "url": "https://www.freshplaza.com/article/9882416/kenyan-maize-farmers-shift-to-avocados-with-800-000-trees-targeted/",
-      "source": "FreshPlaza",
-      "title": "Le Kenya vise 800 000 avocatiers suite à l'abandon",
-      "summary": "Les agriculteurs du comté de Nandi, au Kenya, abandonnent la culture du maïs pour l'avocat en raison de l'augmentation des coûts des intrants et des aléas climatiques.",
-      "origin_code": "KEN",
-      "origin_label": "Kenya",
-      "published_at": "2026-10-13T13:29:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 28
+      "age_hours": 5
     }
   ],
   "articles": [
     {
+      "id": "1791997468_2",
+      "timestamp": "2026-10-14T17:04:28.223060+00:00",
+      "title": "Lancement du Mpumalanga International FoodMarket en Afrique du Sud -- 14/10/2026 13:28",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Sébastien"
+      ],
+      "products": [],
+      "origins": [
+        "ZAF"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Lancement du Mpumalanga International FoodMarket en Afrique du Sud -- <span class=\"news-date\">14/10/2026 13:28</span></div><div class=\"news-body\">Le Marché International de l&#x27;Alimentation de Mpumalanga (MIF) en Afrique du Sud débutera ses opérations commerciales physiques le 27 octobre 2026. Cette ouverture fait suite à plusieurs années de retards administratifs et techniques pour cette plateforme de produits frais. <span class=\"news-reason\">Ouverture d&#x27;une nouvelle infrastructure commerciale dans un pays concurrent majeur (Afrique du Sud) pouvant faciliter les exportations de produits frais.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882831/mpumalanga-foodmarket-to-open-after-years-of-delays/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Launch of the Mpumalanga International Food Market in South Africa -- <span class=\"news-date\">14/10/2026 13:28</span></div><div class=\"news-body\">The Mpumalanga International Food Market (MIF) in South Africa will begin its physical commercial operations on October 27, 2026. This opening follows several years of administrative and technical delays for this fresh produce platform. <span class=\"news-reason\">Opening of a new commercial infrastructure in a major competing country (South Africa) that could facilitate exports of fresh produce.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882831/mpumalanga-foodmarket-to-open-after-years-of-delays/\" target=\"_blank\">FreshPlaza -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות</div><div class=\"news-title\">השקת שוק המזון הבינלאומי של מפומלנגה בדרום אפריקה -- <span class=\"news-date\">14/10/2026 13:28</span></div><div class=\"news-body\">שוק המזון הבינלאומי של מפומלנגה (MIF) בדרום אפריקה יחל את פעילותו המסחרית הפיזית ב-27 באוקטובר 2026. פתיחה זו מגיעה לאחר מספר שנים של עיכובים מנהליים וטכניים עבור פלטפורמת מוצרים טריים זו. <span class=\"news-reason\">פתיחת תשתית מסחרית חדשה במדינה מתחרה מרכזית (דרום אפריקה) שעשויה להקל על יצוא מוצרים טריים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882831/mpumalanga-foodmarket-to-open-after-years-of-delays/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791997468_1",
+      "timestamp": "2026-10-14T17:04:28.223060+00:00",
+      "title": "La Tanzanie oriente ses exportations d&#x27;avocats vers l&#x27;Inde et la Chine -- 14/10/2026 12:07",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "IND",
+        "CHN"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La Tanzanie oriente ses exportations d&#x27;avocats vers l&#x27;Inde et la Chine -- <span class=\"news-date\">14/10/2026 12:07</span></div><div class=\"news-body\">En raison des complications logistiques en mer Rouge qui ralentissent les expéditions vers l&#x27;Europe, les exportateurs tanzaniens d&#x27;avocats font de l&#x27;Inde leur principal marché cible pour cette saison. Le secteur lorgne également sur la Chine et souligne qu&#x27;une pleine opérationnalité du port de Dar es Salaam est essentielle pour la compétitivité de l&#x27;origine. <span class=\"news-reason\">Information sur la stratégie d&#x27;un pays concurrent (Tanzanie) sur l&#x27;avocat, expliquant un pivot vers l&#x27;Asie au détriment de l&#x27;Europe à cause de la logistique en mer Rouge.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9882719/tanzaniaanse-avocado-exporteurs-zetten-in-op-india-en-china-als-nieuwe-markten/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Tanzania shifts its avocado exports towards India and China -- <span class=\"news-date\">14/10/2026 12:07</span></div><div class=\"news-body\">Due to logistical complications in the Red Sea slowing down shipments to Europe, Tanzanian avocado exporters are making India their primary target market for this season. The sector is also eyeing China and emphasizes that full operational capacity of the port of Dar es Salaam is essential for the origin's competitiveness. <span class=\"news-reason\">Information on the strategy of a competing country (Tanzania) regarding avocados, explaining a pivot towards Asia at the expense of Europe due to Red Sea logistics.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9882719/tanzaniaanse-avocado-exporteurs-zetten-in-op-india-en-china-als-nieuwe-markten/\" target=\"_blank\">AGF.nl -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות בין מקורות</div><div class=\"news-title\">טנזניה מכוונת את יצוא האבוקדו שלה להודו ולסין -- <span class=\"news-date\">14/10/2026 12:07</span></div><div class=\"news-body\">בשל סיבוכים לוגיסטיים בים האדום המעכבים את המשלוחים לאירופה, יצואני האבוקדו הטנזנים הופכים את הודו ליעד השוק העיקרי שלהם לעונה זו. המגזר לוטש עיניים גם לסין ומדגיש כי פעילות מלאה של נמל דאר א-סלאם חיונית לתחרותיות של המקור. <span class=\"news-reason\">מידע על האסטרטגיה של מדינה מתחרה (טנזניה) בתחום האבוקדו, המסביר את המעבר לאסיה על חשבון אירופה בגלל הלוגיסטיקה בים האדום.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9882719/tanzaniaanse-avocado-exporteurs-zetten-in-op-india-en-china-als-nieuwe-markten/\" target=\"_blank\">AGF.nl -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791997468_0",
+      "timestamp": "2026-10-14T17:04:28.223060+00:00",
+      "title": "Nouveau partenariat stratégique pour la distribution d&#x27;avocats en Europe",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Nouveau partenariat stratégique pour la distribution d&#x27;avocats en Europe -- <span class=\"news-date\">14/10/2026 10:35</span></div><div class=\"news-body\">Talsa/Onesta Europe et Iberian Foods ont annoncé lors du salon Fruit Attraction 2026 un modèle de coopération intégré pour le marché européen. Ce partenariat vise à contrôler l&#x27;ensemble de la chaîne de valeur de l&#x27;avocat, depuis l&#x27;approvisionnement dans les pays d&#x27;origine jusqu&#x27;à la maturation, l&#x27;emballage et la distribution finale en Europe. <span class=\"news-reason\">Il s&#x27;agit d&#x27;une alliance stratégique entre deux acteurs majeurs (Talsa et Iberian Foods) concernant la chaîne d&#x27;approvisionnement et de distribution des avocats sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9882740/talsa-und-iberian-foods-bundeln-avocado-versorgung-reifung-und-vertrieb-in-europa/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">New strategic partnership for avocado distribution in Europe -- <span class=\"news-date\">14/10/2026 10:35</span></div><div class=\"news-body\">Talsa/Onesta Europe and Iberian Foods announced an integrated cooperation model for the European market at the Fruit Attraction 2026 trade fair. This partnership aims to control the entire avocado value chain, from sourcing in countries of origin to ripening, packaging, and final distribution in Europe. <span class=\"news-reason\">This is a strategic alliance between two major players (Talsa and Iberian Foods) concerning the avocado supply and distribution chain on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9882740/talsa-und-iberian-foods-bundeln-avocado-versorgung-reifung-und-vertrieb-in-europa/\" target=\"_blank\">FreshPlaza DE -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות</div><div class=\"news-title\">שותפות אסטרטגית חדשה להפצת אבוקדו באירופה -- <span class=\"news-date\">14/10/2026 10:35</span></div><div class=\"news-body\">Talsa/Onesta Europe ו-Iberian Foods הכריזו במהלך תערוכת Fruit Attraction 2026 על מודל שיתוף פעולה משולב לשוק האירופי. שותפות זו שואפת לשלוט בכל שרשרת הערך של האבוקדו, החל מהאספקה במדינות המקור ועד להבשלה, האריזה וההפצה הסופית באירופה. <span class=\"news-reason\">מדובר בברית אסטרטגית בין שני שחקנים מרכזיים (Talsa ו-Iberian Foods) הנוגעת לשרשרת האספקה וההפצה של אבוקדו בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9882740/talsa-und-iberian-foods-bundeln-avocado-versorgung-reifung-und-vertrieb-in-europa/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
+    },
+    {
       "id": "1791992013_0",
       "timestamp": "2026-10-14T15:33:33.604956+00:00",
-      "title": "Arrêt des exportations maritimes d&#x27;avocats mexicains vers l&#x27;Europe",
+      "title": "Suspension des exportations maritimes d&#x27;avocats mexicains vers l&#x27;Europe",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -92,7 +143,7 @@
       "origins": [
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Arrêt des exportations maritimes d&#x27;avocats mexicains vers l&#x27;Europe -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">L&#x27;exportateur mexicain Aztec Fruits a annoncé l&#x27;arrêt total de ses envois d&#x27;avocats par voie maritime vers l&#x27;Europe, une première en dix ans. Cette décision stratégique est motivée par l&#x27;allongement excessif des temps de transit et les incertitudes persistantes liées au transport maritime international, rendant les expéditions par bateau trop risquées pour la qualité des fruits. <span class=\"news-reason\">Alerte logistique majeure impactant une origine concurrente (Mexique) sur un produit clé (avocat) pour le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882259/es-la-primera-vez-en-diez-anos-que-no-mandamos-ni-un-aguacate-por-barco-a-europa/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Suspension des exportations maritimes d&#x27;avocats mexicains vers l&#x27;Europe -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">L&#x27;exportateur mexicain Aztec Fruits a annoncé l&#x27;arrêt total de ses envois d&#x27;avocats par voie maritime vers l&#x27;Europe, une première en dix ans. Cette décision stratégique est motivée par l&#x27;allongement excessif des temps de transit et les incertitudes persistantes liées au transport maritime international, rendant les expéditions par bateau trop risquées pour la qualité des fruits. <span class=\"news-reason\">Alerte logistique majeure impactant une origine concurrente (Mexique) sur un produit clé (avocat) pour le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882259/es-la-primera-vez-en-diez-anos-que-no-mandamos-ni-un-aguacate-por-barco-a-europa/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Cessation of Mexican avocado maritime shipments to Europe -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">Mexican exporter Aztec Fruits has announced the total cessation of its avocado shipments by sea to Europe, a first in ten years. This strategic decision is driven by excessive transit times and persistent uncertainties related to international maritime transport, making boat shipments too risky for fruit quality. <span class=\"news-reason\">Major logistical alert impacting a competing origin (Mexico) on a key product (avocado) for the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882259/es-la-primera-vez-en-diez-anos-que-no-mandamos-ni-un-aguacate-por-barco-a-europa/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">הפסקת משלוחים ימיים של אבוקדו מקסיקני לאירופה -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">היצואנית המקסיקנית Aztec Fruits הודיעה על הפסקה מוחלטת של משלוחי האבוקדו שלה בדרך הים לאירופה, לראשונה מזה עשר שנים. החלטה אסטרטגית זו נובעת מהארכה מופרזת של זמני המעבר ומהאי-ודאות המתמשכת הקשורה להובלה ימית בינלאומית, ההופכת את המשלוחים באוניות למסוכנים מדי עבור איכות הפירות. <span class=\"news-reason\">התראה לוגיסטית מרכזית המשפיעה על מקור מתחרה (מקסיקו) במוצר מפתח (אבוקדו) עבור השוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882259/es-la-primera-vez-en-diez-anos-que-no-mandamos-ni-un-aguacate-por-barco-a-europa/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -115,7 +166,7 @@
     {
       "id": "1791986660_4",
       "timestamp": "2026-10-14T14:04:20.281505+00:00",
-      "title": "La Tanzanie dépasse ses objectifs d&#x27;exportation d&#x27;avocats pour 2030",
+      "title": "La Tanzanie dépasse ses objectifs d&#x27;exportation d&#x27;avocats à l&#x27;horizon 2030",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -124,7 +175,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La Tanzanie dépasse ses objectifs d&#x27;exportation d&#x27;avocats pour 2030 -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">La Tanzanie a exporté 52 000 tonnes d&#x27;avocats au cours de la campagne 2025/2026, surpassant avec quatre ans d&#x27;avance son objectif initial de 40 000 tonnes fixé pour 2030. Cela représente une hausse de 237 % par rapport aux 15 433 tonnes enregistrées en 2020/2021. <span class=\"news-reason\">Données chiffrées précises sur les volumes d&#x27;exportation d&#x27;une origine concurrente émergente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881785/las-exportaciones-de-aguacate-de-tanzania-superan-el-objetivo-marcado-para-2030/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La Tanzanie dépasse ses objectifs d&#x27;exportation d&#x27;avocats à l&#x27;horizon 2030 -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">La Tanzanie a exporté 52 000 tonnes d&#x27;avocats au cours de la campagne 2025/2026, surpassant avec quatre ans d&#x27;avance son objectif initial de 40 000 tonnes fixé pour 2030. Cela représente une hausse de 237 % par rapport aux 15 433 tonnes enregistrées en 2020/2021. <span class=\"news-reason\">Données chiffrées précises sur les volumes d&#x27;exportation d&#x27;une origine concurrente émergente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881785/las-exportaciones-de-aguacate-de-tanzania-superan-el-objetivo-marcado-para-2030/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Tanzania surpasses its avocado export targets for 2030 -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">Tanzania exported 52,000 tons of avocados during the 2025/2026 season, surpassing its initial target of 40,000 tons set for 2030 four years ahead of schedule. This represents a 237% increase compared to the 15,433 tons recorded in 2020/2021. <span class=\"news-reason\">Precise data on export volumes from an emerging competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881785/las-exportaciones-de-aguacate-de-tanzania-superan-el-objetivo-marcado-para-2030/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">טנזניה עוקפת את יעדי יצוא האבוקדו שלה לשנת 2030 -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">טנזניה ייצאה 52,000 טונות של אבוקדו במהלך עונת 2025/2026, כשהיא עוקפת בארבע שנים את היעד המקורי שלה שעמד על 40,000 טונות לשנת 2030. מדובר בעלייה של 237% בהשוואה ל-15,433 הטונות שנרשמו ב-2020/2021. <span class=\"news-reason\">נתונים מספריים מדויקים על היקפי היצוא של מקור מתחרה מתפתח.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881785/las-exportaciones-de-aguacate-de-tanzania-superan-el-objetivo-marcado-para-2030/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -149,7 +200,7 @@
     {
       "id": "1791986660_1",
       "timestamp": "2026-10-14T14:04:20.281505+00:00",
-      "title": "Bilan carbone positif des mandarines Nadorcott en Espagne",
+      "title": "Empreinte carbone positive des mandarines Nadorcott en Espagne",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -160,7 +211,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Bilan carbone positif des mandarines Nadorcott en Espagne -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">Nadorcott Spain a présenté une étude lors de Fruit Attraction démontrant que les plantations de mandarines Nadorcott en Espagne capturent davantage de carbone qu&#x27;elles n&#x27;en émettent. Cet inventaire s&#x27;appuie sur des données agronomiques réelles collectées sur l&#x27;ensemble des vergers espagnols. <span class=\"news-reason\">Information sur le positionnement marketing et environnemental de la mandarine Nadorcott, produit phare de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883059/un-estudio-verifica-que-las-plantaciones-de-nadorcott-capturan-mas-carbono-del-que-emiten/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Empreinte carbone positive des mandarines Nadorcott en Espagne -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">Nadorcott Spain a présenté une étude lors de Fruit Attraction démontrant que les plantations de mandarines Nadorcott en Espagne capturent davantage de carbone qu&#x27;elles n&#x27;en émettent. Cet inventaire s&#x27;appuie sur des données agronomiques réelles collectées sur l&#x27;ensemble des vergers espagnols. <span class=\"news-reason\">Information sur le positionnement marketing et environnemental de la mandarine Nadorcott, produit phare de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883059/un-estudio-verifica-que-las-plantaciones-de-nadorcott-capturan-mas-carbono-del-que-emiten/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Positive carbon balance for Nadorcott mandarins in Spain -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">Nadorcott Spain presented a study during Fruit Attraction demonstrating that Nadorcott mandarin plantations in Spain capture more carbon than they emit. This inventory is based on real agronomic data collected across all Spanish orchards. <span class=\"news-reason\">Information on the marketing and environmental positioning of the Nadorcott mandarin, a flagship product of Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883059/un-estudio-verifica-que-las-plantaciones-de-nadorcott-capturan-mas-carbono-del-que-emiten/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">מאזן פחמן חיובי למנדרינות נאדורקוט בספרד -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">חברת Nadorcott Spain הציגה מחקר במהלך תערוכת Fruit Attraction המדגים כי מטעי המנדרינות מסוג נאדורקוט בספרד קולטים יותר פחמן ממה שהם פולטים. הערכה זו מתבססת על נתונים אגרונומיים אמיתיים שנאספו מכלל המטעים בספרד. <span class=\"news-reason\">מידע על המיצוב השיווקי והסביבתי של מנדרינת הנאדורקוט, מוצר הדגל של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883059/un-estudio-verifica-que-las-plantaciones-de-nadorcott-capturan-mas-carbono-del-que-emiten/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -498,7 +549,7 @@
     {
       "id": "1791889364_2",
       "timestamp": "2026-10-13T11:02:44.352719+00:00",
-      "title": "L’Égypte lance la culture de la datte Ajwa",
+      "title": "Lancement de la culture de la datte Ajwa en Égypte",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -509,7 +560,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’Égypte lance la culture de la datte Ajwa -- <span class=\"news-date\">13/10/2026 06:05</span></div><div class=\"news-body\">La variété de dattes Ajwa, traditionnellement originaire d&#x27;Arabie Saoudite, est désormais cultivée en Égypte. Ce fruit, de taille petite à moyenne avec une peau noire et ridée, permet à l&#x27;Égypte de diversifier son offre sur le marché mondial des dattes. <span class=\"news-reason\">Information sur la diversification variétale d&#x27;un pays concurrent (Égypte) sur un produit clé de Mehadrin (dattes).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881319/la-varieta-di-datteri-ajwa-viene-coltivata-anche-in-egitto/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la culture de la datte Ajwa en Égypte -- <span class=\"news-date\">13/10/2026 06:05</span></div><div class=\"news-body\">La variété de dattes Ajwa, traditionnellement originaire d&#x27;Arabie Saoudite, est désormais cultivée en Égypte. Ce fruit, de taille petite à moyenne avec une peau noire et ridée, permet à l&#x27;Égypte de diversifier son offre sur le marché mondial des dattes. <span class=\"news-reason\">Information sur la diversification variétale d&#x27;un pays concurrent (Égypte) sur un produit clé de Mehadrin (dattes).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881319/la-varieta-di-datteri-ajwa-viene-coltivata-anche-in-egitto/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Egypt launches the cultivation of the Ajwa date variety -- <span class=\"news-date\">13/10/2026 06:05</span></div><div class=\"news-body\">The Ajwa date variety, traditionally originating from Saudi Arabia, is now being grown in Egypt. This fruit, small to medium in size with black, wrinkled skin, allows Egypt to diversify its offering on the global date market. <span class=\"news-reason\">Information on the varietal diversification of a competing country (Egypt) for a key Mehadrin product (dates).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881319/la-varieta-di-datteri-ajwa-viene-coltivata-anche-in-egitto/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מצרים מתחילה לגדל את זן התמרים עג'ווה -- <span class=\"news-date\">13/10/2026 06:05</span></div><div class=\"news-body\">זן התמרים עג'ווה, שמקורו המסורתי בסעודיה, מעובד כעת במצרים. פרי זה, בגודל קטן עד בינוני עם קליפה שחורה ומקומטת, מאפשר למצרים לגוון את ההיצע שלה בשוק התמרים העולמי. <span class=\"news-reason\">מידע על גיוון זנים במדינה מתחרה (מצרים) עבור מוצר מפתח של מהדרין (תמרים).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881319/la-varieta-di-datteri-ajwa-viene-coltivata-anche-in-egitto/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -569,7 +620,7 @@
     {
       "id": "1791883940_1",
       "timestamp": "2026-10-13T09:32:20.128004+00:00",
-      "title": "Les délais de transport impactent les exportations d&#x27;avocats mexicains vers l&#x27;Europe",
+      "title": "L&#x27;impact des délais de transport sur les exportations d&#x27;avocats mexicains vers l&#x27;Europe",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -581,7 +632,7 @@
         "ISR",
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Les délais de transport impactent les exportations d&#x27;avocats mexicains vers l&#x27;Europe -- <span class=\"news-date\">13/10/2026 10:12</span></div><div class=\"news-body\">L&#x27;exportation d&#x27;avocats mexicains vers l&#x27;Europe est sous pression en raison de l&#x27;augmentation significative des temps de transit et de l&#x27;incertitude du transport maritime. Pour l&#x27;exportateur Aztec Fruits, qui possède une filiale de distribution en Belgique, ces délais prolongés perturbent la régularité des approvisionnements sur le marché européen. <span class=\"news-reason\">Alerte logistique sur un produit Mehadrin (avocat) chez un concurrent (Mexique), favorisant les origines proches comme Israël.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9882260/langere-transportzeiten-bremsen-avocado-export-nach-europa/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;impact des délais de transport sur les exportations d&#x27;avocats mexicains vers l&#x27;Europe -- <span class=\"news-date\">13/10/2026 10:12</span></div><div class=\"news-body\">L&#x27;exportation d&#x27;avocats mexicains vers l&#x27;Europe est sous pression en raison de l&#x27;augmentation significative des temps de transit et de l&#x27;incertitude du transport maritime. Pour l&#x27;exportateur Aztec Fruits, qui possède une filiale de distribution en Belgique, ces délais prolongés perturbent la régularité des approvisionnements sur le marché européen. <span class=\"news-reason\">Alerte logistique sur un produit Mehadrin (avocat) chez un concurrent (Mexique), favorisant les origines proches comme Israël.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9882260/langere-transportzeiten-bremsen-avocado-export-nach-europa/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Transport delays hinder Mexican avocado exports to Europe -- <span class=\"news-date\">13/10/2026 10:12</span></div><div class=\"news-body\">Mexican avocado exports to Europe are under pressure due to significantly increased transit times and maritime transport uncertainty. For the exporter Aztec Fruits, which has a distribution subsidiary in Belgium, these prolonged delays are disrupting the regularity of supplies to the European market. <span class=\"news-reason\">Logistics alert on a Mehadrin product (avocado) from a competitor (Mexico), favoring nearby origins like Israel.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9882260/langere-transportzeiten-bremsen-avocado-export-nach-europa/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">עיכובים בהובלה מעכבים את ייצוא האבוקדו המקסיקני לאירופה -- <span class=\"news-date\">13/10/2026 10:12</span></div><div class=\"news-body\">ייצוא האבוקדו המקסיקני לאירופה נמצא תחת לחץ עקב עלייה משמעותית בזמני ההובלה וחוסר הוודאות בתובלה הימית. עבור היצואנית Aztec Fruits, לה חברת בת להפצה בבלגיה, עיכובים ממושכים אלו משבשים את סדירות האספקה לשוק האירופי. <span class=\"news-reason\">התראה לוגיסטית לגבי מוצר מהדרין (אבוקדו) אצל מתחרה (מקסיקו), דבר המעניק יתרון למקורות קרובים כמו ישראל.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9882260/langere-transportzeiten-bremsen-avocado-export-nach-europa/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
@@ -907,7 +958,7 @@
     {
       "id": "1791781278_2",
       "timestamp": "2026-10-12T05:01:18.596906+00:00",
-      "title": "Baisse des cours de la grenade et de la patate douce en octobre",
+      "title": "Repli des cours de la grenade et de la patate douce en octobre",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica",
@@ -918,7 +969,7 @@
         "pomegranate"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse des cours de la grenade et de la patate douce en octobre -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, le mois d&#x27;octobre enregistre une baisse des cours pour plusieurs produits. Les grenades et les patates douces deviennent plus abordables sur les marchés de gros, marquant une tendance saisonnière de prix à la baisse pour ces catégories. <span class=\"news-reason\">Indicateur de tendance de prix sur deux produits Mehadrin actuellement en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Repli des cours de la grenade et de la patate douce en octobre -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, le mois d&#x27;octobre enregistre une baisse des cours pour plusieurs produits. Les grenades et les patates douces deviennent plus abordables sur les marchés de gros, marquant une tendance saisonnière de prix à la baisse pour ces catégories. <span class=\"news-reason\">Indicateur de tendance de prix sur deux produits Mehadrin actuellement en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decrease in prices for pomegranates and sweet potatoes in October -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">According to data from BMTI and Italmercati, the month of October recorded a price drop for several products. Pomegranates and sweet potatoes are becoming more affordable on wholesale markets, marking a seasonal downward price trend for these categories. <span class=\"news-reason\">Price trend indicator for two Mehadrin products currently in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידת מחירי הרימונים והבטטות באוקטובר -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">על פי נתוני BMTI ו-Italmercati, חודש אוקטובר רושם ירידה במחירים עבור מספר מוצרים. הרימונים והבטטות הופכים לנגישים יותר בשווקים הסיטונאיים, דבר המסמן מגמה עונתית של ירידת מחירים לקטגוריות אלו. <span class=\"news-reason\">אינדיקטור למגמת המחירים עבור שני מוצרי מהדרין הנמצאים כעת בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
