@@ -1,44 +1,61 @@
 {
-  "last_updated": "2026-10-14T11:02:51.345264+00:00",
-  "article_count": 41,
+  "last_updated": "2026-10-14T12:33:29.432105+00:00",
+  "article_count": 45,
   "attention_points": [
     {
-      "id": "attention-17d6d9eba5ba21e0",
-      "article_id": "1791975771_0",
-      "url": "https://www.freshfruitportal.com/news/2026/10/14/avocado-demand-eu/",
-      "source": "Fresh Fruit Portal",
-      "title": "Progression de 16 % de la consommation d'avocats",
-      "summary": "La demande progresse fortement sur le marché continental",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-10-14T11:00:01+00:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "information",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 0
-    },
-    {
-      "id": "attention-66e5b2c0fe082a38",
-      "article_id": "1791970367_0",
-      "url": "https://www.freshplaza.de/article/9882722/tansania-baut-avocadoanbau-aus-und-setzt-auf-neue-absatzmarkte/",
-      "source": "FreshPlaza DE",
-      "title": "Expansion de la production d'avocats en Tanzanie et diversification",
-      "summary": "Le secteur de l'avocat en Tanzanie connaît une croissance rapide.",
-      "origin_code": "IND",
-      "origin_label": "Inde",
-      "published_at": "2026-10-14T10:35:00+02:00",
+      "id": "attention-1e7ee6108fc7ab8f",
+      "article_id": "1791981209_3",
+      "url": "https://www.freshplaza.com/article/9883006/new-tomato-and-mini-seedless-watermelon-varieties-focus-on-shelf-life-and-flavour/",
+      "source": "FreshPlaza",
+      "title": "Nouvelles variétés de pastèques sans pépins optimisées pour",
+      "summary": "Hazera optimise la durée de conservation des pastèques.",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
+      "published_at": "2026-10-14T13:28:00+02:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [
-        "avocat"
+        "watermelon"
       ],
-      "age_hours": 2
+      "age_hours": 1
+    },
+    {
+      "id": "attention-5f1e538d9e218aaf",
+      "article_id": "1791981209_2",
+      "url": "https://www.freshplaza.com/article/9882996/kenya-plans-us-35-million-cold-chain-hub-to-cut-horticultural-export-costs/",
+      "source": "FreshPlaza",
+      "title": "Hub logistique réfrigéré majeur au Kenya",
+      "summary": "Avec le soutien des Pays-Bas et de l'Union européenne, un hub de chaîne du froid de 30 millions d'euros est en projet à Naivasha, au Kenya.",
+      "origin_code": "NLD",
+      "origin_label": "Pays-Bas",
+      "published_at": "2026-10-14T13:28:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
+      "products": [],
+      "age_hours": 1
+    },
+    {
+      "id": "attention-a1272d6889610f23",
+      "article_id": "1791981209_1",
+      "url": "https://www.freshplaza.com/article/9882793/brazilian-melon-exports-rise-155-in-september/",
+      "source": "FreshPlaza",
+      "title": "Bond de 155 % des exportations de melons",
+      "summary": "Les exportations brésiliennes de melons progressent de 155 %.",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
+      "published_at": "2026-10-14T13:28:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "information",
+      "products": [
+        "melon"
+      ],
+      "age_hours": 1
     },
     {
       "id": "attention-78471310548aaf28",
@@ -57,27 +74,75 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 23
-    },
-    {
-      "id": "attention-ef150b79936d149d",
-      "article_id": "1791867740_0",
-      "url": "https://www.freshplaza.it/article/9882377/trieste-damietta-dal-15-ottobre-raddoppiano-le-partenze-l-ortofrutta-spinge-i-traffici-con-l-egitto/",
-      "source": "FreshPlaza IT",
-      "title": "Doublement des liaisons maritimes de produits frais entre l’Égypte",
-      "summary": "À partir du 15 octobre 2026, la liaison maritime ro-ro entre le port de Damietta en Égypte et celui de Trieste en Italie doublera sa fréquence de départs.",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
-      "published_at": "2026-10-13T06:05:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "information",
-      "signal_label": "Information",
-      "icon": "information",
-      "products": [],
-      "age_hours": 30
+      "age_hours": 25
     }
   ],
   "articles": [
+    {
+      "id": "1791981209_3",
+      "timestamp": "2026-10-14T12:33:29.432105+00:00",
+      "title": "Nouvelles variétés de pastèques sans pépins optimisées pour la conservation -- 14/10/2026 13:28",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [],
+      "products": [
+        "watermelon"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Nouvelles variétés de pastèques sans pépins optimisées pour la conservation -- <span class=\"news-date\">14/10/2026 13:28</span></div><div class=\"news-body\">Hazera a présenté lors du salon Fruit Attraction ses nouveaux portefeuilles de mini-pastèques sans pépins. Le développement s&#x27;est concentré sur l&#x27;amélioration de la saveur, de la durée de conservation (shelf life) et des performances globales des fruits tout au long de la chaîne d&#x27;approvisionnement. <span class=\"news-reason\">Développement variétal sur un produit Mehadrin (pastèque) avec impact sur la supply chain.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9883006/new-tomato-and-mini-seedless-watermelon-varieties-focus-on-shelf-life-and-flavour/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">New seedless watermelon varieties optimized for shelf life -- <span class=\"news-date\">14/10/2026 13:28</span></div><div class=\"news-body\">Hazera presented its new seedless mini-watermelon portfolios at the Fruit Attraction trade fair. Development focused on improving flavor, shelf life, and overall fruit performance throughout the supply chain. <span class=\"news-reason\">Varietal development on a Mehadrin product (watermelon) with impact on the supply chain.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9883006/new-tomato-and-mini-seedless-watermelon-varieties-focus-on-shelf-life-and-flavour/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">זנים חדשים של אבטיחים ללא גרעינים המותאמים לשימור -- <span class=\"news-date\">14/10/2026 13:28</span></div><div class=\"news-body\">חברת \"הזרע\" (Hazera) הציגה בתערוכת Fruit Attraction את הפורטפוליו החדש שלה לאבטיחי מיני ללא גרעינים. הפיתוח התמקד בשיפור הטעם, חיי המדף (shelf life) והביצועים הכוללים של הפירות לאורך שרשרת האספקה. <span class=\"news-reason\">פיתוח זנים במוצר מהדרין (אבטיח) עם השפעה על שרשרת האספקה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9883006/new-tomato-and-mini-seedless-watermelon-varieties-focus-on-shelf-life-and-flavour/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791981209_2",
+      "timestamp": "2026-10-14T12:33:29.432105+00:00",
+      "title": "Le Kenya investit 35 millions de dollars dans un hub logistique réfrigéré -- 14/10/2026 13:28",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "NLD",
+        "KEN"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Kenya investit 35 millions de dollars dans un hub logistique réfrigéré -- <span class=\"news-date\">14/10/2026 13:28</span></div><div class=\"news-body\">Avec le soutien des Pays-Bas et de l&#x27;Union européenne, un hub de chaîne du froid de 30 millions d&#x27;euros est en projet à Naivasha, au Kenya. Ce projet logistique vise à réduire les coûts de transport de 25 % et les émissions de carbone de plus de 90 % pour les exportations horticoles kényanes vers l&#x27;Europe. <span class=\"news-reason\">Impact potentiel sur les coûts d&#x27;exportation d&#x27;une origine concurrente pour les produits horticoles.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882996/kenya-plans-us-35-million-cold-chain-hub-to-cut-horticultural-export-costs/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Kenya invests $35 million in a refrigerated logistics hub -- <span class=\"news-date\">14/10/2026 13:28</span></div><div class=\"news-body\">With support from the Netherlands and the European Union, a €30 million cold chain hub is planned in Naivasha, Kenya. This logistics project aims to reduce transport costs by 25% and carbon emissions by more than 90% for Kenyan horticultural exports to Europe. <span class=\"news-reason\">Potential impact on export costs of a competing origin for horticultural products.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882996/kenya-plans-us-35-million-cold-chain-hub-to-cut-horticultural-export-costs/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">קניה משקיעה 35 מיליון דולר במרכז לוגיסטי בקירור -- <span class=\"news-date\">14/10/2026 13:28</span></div><div class=\"news-body\">בתמיכת הולנד והאיחוד האירופי, מתוכנן מרכז לשרשרת קירור בשווי 30 מיליון אירו בנאיבשה, קניה. פרויקט לוגיסטי זה נועד להפחית את עלויות ההובלה ב-25% ואת פליטות הפחמן ביותר מ-90% עבור ייצוא מוצרי גינון קנייתיים לאירופה. <span class=\"news-reason\">השפעה פוטנציאלית על עלויות הייצוא של מקור מתחרה עבור מוצרי גינון.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882996/kenya-plans-us-35-million-cold-chain-hub-to-cut-horticultural-export-costs/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791981209_1",
+      "timestamp": "2026-10-14T12:33:29.432105+00:00",
+      "title": "Bond de 155 % des exportations de melons du Brésil en septembre -- 14/10/2026 13:28",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Sébastien"
+      ],
+      "products": [
+        "melon"
+      ],
+      "origins": [
+        "ESP",
+        "BRA",
+        "NLD"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Bond de 155 % des exportations de melons du Brésil en septembre -- <span class=\"news-date\">14/10/2026 13:28</span></div><div class=\"news-body\">Les exportations de melons des régions de Rio Grande do Norte et Ceará ont grimpé de 155 % en septembre par rapport au mois d&#x27;août, atteignant 22 300 tonnes. Les revenus ont augmenté de 171 % pour s&#x27;établir à 21,2 millions de dollars. Les Pays-Bas constituent la destination principale avec 52,5 % des volumes, suivis par le Royaume-Uni (33,8 %) et l&#x27;Espagne (5,1 %). <span class=\"news-reason\">Chiffres d&#x27;exportation précis pour un produit Mehadrin vers des marchés européens clés.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882793/brazilian-melon-exports-rise-155-in-september/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">155% surge in Brazilian melon exports in September -- <span class=\"news-date\">14/10/2026 13:28</span></div><div class=\"news-body\">Melon exports from the Rio Grande do Norte and Ceará regions jumped 155% in September compared to August, reaching 22,300 tonnes. Revenues increased by 171% to reach $21.2 million. The Netherlands is the main destination with 52.5% of volumes, followed by the United Kingdom (33.8%) and Spain (5.1%). <span class=\"news-reason\">Precise export figures for a Mehadrin product to key European markets.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882793/brazilian-melon-exports-rise-155-in-september/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">זינוק של 155% בייצוא המלונים מברזיל בספטמבר -- <span class=\"news-date\">14/10/2026 13:28</span></div><div class=\"news-body\">ייצוא המלונים מאזורי ריו גרנדה דו נורטה וסיארה זינק ב-155% בספטמבר לעומת אוגוסט, והגיע ל-22,300 טונות. ההכנסות גדלו ב-171% והסתכמו ב-21.2 מיליון דולר. הולנד היא היעד העיקרי עם 52.5% מהנפחים, אחריה בריטניה (33.8%) וספרד (5.1%). <span class=\"news-reason\">נתוני ייצוא מדויקים עבור מוצר מהדרין לשווקים אירופיים מרכזיים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882793/brazilian-melon-exports-rise-155-in-september/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1791981209_0",
+      "timestamp": "2026-10-14T12:33:29.432105+00:00",
+      "title": "Jordanie : la récolte précoce des agrumes compromet la qualité -- 14/10/2026 13:28",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "JOR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Jordanie : la récolte précoce des agrumes compromet la qualité -- <span class=\"news-date\">14/10/2026 13:28</span></div><div class=\"news-body\">Dans la vallée du Jourdain Nord, les producteurs d&#x27;agrumes commencent à récolter leurs fruits avant maturité complète. Cette décision, motivée par l&#x27;augmentation des coûts de culture (irrigation, main-d&#x27;œuvre), suscite l&#x27;inquiétude des autorités agricoles qui craignent une baisse de la qualité globale et une perte de compétitivité des agrumes jordaniens sur les marchés internationaux. <span class=\"news-reason\">Alerte sur la qualité d&#x27;un produit phare (agrumes) chez une origine concurrente directe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882841/early-citrus-harvesting-raises-quality-concerns-in-jordan/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Jordan: early citrus harvest compromises quality -- <span class=\"news-date\">14/10/2026 13:28</span></div><div class=\"news-body\">In the Northern Jordan Valley, citrus growers are starting to harvest their fruit before full maturity. This decision, driven by rising cultivation costs (irrigation, labor), is causing concern among agricultural authorities who fear a decline in overall quality and a loss of competitiveness for Jordanian citrus on international markets. <span class=\"news-reason\">Alert on the quality of a flagship product (citrus) from a direct competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882841/early-citrus-harvesting-raises-quality-concerns-in-jordan/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ירדן: קטיף מוקדם של פירות הדר פוגע באיכות -- <span class=\"news-date\">14/10/2026 13:28</span></div><div class=\"news-body\">בעמק הירדן הצפוני, מגדלי פירות ההדר מתחילים לקטוף את פירותיהם לפני הבשלה מלאה. החלטה זו, הנובעת מהעלייה בעלויות הגידול (השקיה, כוח אדם), מעוררת דאגה בקרב רשויות החקלאות החוששות מירידה באיכות הכללית ומאובדן כושר התחרות של פירות ההדר הירדניים בשווקים הבינלאומיים. <span class=\"news-reason\">התראה על איכות מוצר דגל (פירות הדר) אצל מקור מתחרה ישיר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882841/early-citrus-harvesting-raises-quality-concerns-in-jordan/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1791975771_0",
       "timestamp": "2026-10-14T11:02:51.345264+00:00",
@@ -330,7 +395,7 @@
     {
       "id": "1791889364_2",
       "timestamp": "2026-10-13T11:02:44.352719+00:00",
-      "title": "L&#x27;Égypte lance la culture de la datte Ajwa",
+      "title": "L’Égypte lance la culture de la datte Ajwa",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -341,7 +406,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;Égypte lance la culture de la datte Ajwa -- <span class=\"news-date\">13/10/2026 06:05</span></div><div class=\"news-body\">La variété de dattes Ajwa, traditionnellement originaire d&#x27;Arabie Saoudite, est désormais cultivée en Égypte. Ce fruit, de taille petite à moyenne avec une peau noire et ridée, permet à l&#x27;Égypte de diversifier son offre sur le marché mondial des dattes. <span class=\"news-reason\">Information sur la diversification variétale d&#x27;un pays concurrent (Égypte) sur un produit clé de Mehadrin (dattes).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881319/la-varieta-di-datteri-ajwa-viene-coltivata-anche-in-egitto/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’Égypte lance la culture de la datte Ajwa -- <span class=\"news-date\">13/10/2026 06:05</span></div><div class=\"news-body\">La variété de dattes Ajwa, traditionnellement originaire d&#x27;Arabie Saoudite, est désormais cultivée en Égypte. Ce fruit, de taille petite à moyenne avec une peau noire et ridée, permet à l&#x27;Égypte de diversifier son offre sur le marché mondial des dattes. <span class=\"news-reason\">Information sur la diversification variétale d&#x27;un pays concurrent (Égypte) sur un produit clé de Mehadrin (dattes).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881319/la-varieta-di-datteri-ajwa-viene-coltivata-anche-in-egitto/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Egypt launches the cultivation of the Ajwa date variety -- <span class=\"news-date\">13/10/2026 06:05</span></div><div class=\"news-body\">The Ajwa date variety, traditionally originating from Saudi Arabia, is now being grown in Egypt. This fruit, small to medium in size with black, wrinkled skin, allows Egypt to diversify its offering on the global date market. <span class=\"news-reason\">Information on the varietal diversification of a competing country (Egypt) for a key Mehadrin product (dates).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881319/la-varieta-di-datteri-ajwa-viene-coltivata-anche-in-egitto/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מצרים מתחילה לגדל את זן התמרים עג'ווה -- <span class=\"news-date\">13/10/2026 06:05</span></div><div class=\"news-body\">זן התמרים עג'ווה, שמקורו המסורתי בסעודיה, מעובד כעת במצרים. פרי זה, בגודל קטן עד בינוני עם קליפה שחורה ומקומטת, מאפשר למצרים לגוון את ההיצע שלה בשוק התמרים העולמי. <span class=\"news-reason\">מידע על גיוון זנים במדינה מתחרה (מצרים) עבור מוצר מפתח של מהדרין (תמרים).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881319/la-varieta-di-datteri-ajwa-viene-coltivata-anche-in-egitto/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -401,7 +466,7 @@
     {
       "id": "1791883940_1",
       "timestamp": "2026-10-13T09:32:20.128004+00:00",
-      "title": "Les délais de transport entravent les exportations d&#x27;avocats mexicains vers l&#x27;Europe",
+      "title": "Les délais de transport pèsent sur les exportations d&#x27;avocats mexicains vers l&#x27;Europe",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -413,7 +478,7 @@
         "ISR",
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Les délais de transport entravent les exportations d&#x27;avocats mexicains vers l&#x27;Europe -- <span class=\"news-date\">13/10/2026 10:12</span></div><div class=\"news-body\">L&#x27;exportation d&#x27;avocats mexicains vers l&#x27;Europe est sous pression en raison de l&#x27;augmentation significative des temps de transit et de l&#x27;incertitude du transport maritime. Pour l&#x27;exportateur Aztec Fruits, qui possède une filiale de distribution en Belgique, ces délais prolongés perturbent la régularité des approvisionnements sur le marché européen. <span class=\"news-reason\">Alerte logistique sur un produit Mehadrin (avocat) chez un concurrent (Mexique), favorisant les origines proches comme Israël.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9882260/langere-transportzeiten-bremsen-avocado-export-nach-europa/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Les délais de transport pèsent sur les exportations d&#x27;avocats mexicains vers l&#x27;Europe -- <span class=\"news-date\">13/10/2026 10:12</span></div><div class=\"news-body\">L&#x27;exportation d&#x27;avocats mexicains vers l&#x27;Europe est sous pression en raison de l&#x27;augmentation significative des temps de transit et de l&#x27;incertitude du transport maritime. Pour l&#x27;exportateur Aztec Fruits, qui possède une filiale de distribution en Belgique, ces délais prolongés perturbent la régularité des approvisionnements sur le marché européen. <span class=\"news-reason\">Alerte logistique sur un produit Mehadrin (avocat) chez un concurrent (Mexique), favorisant les origines proches comme Israël.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9882260/langere-transportzeiten-bremsen-avocado-export-nach-europa/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Transport delays hinder Mexican avocado exports to Europe -- <span class=\"news-date\">13/10/2026 10:12</span></div><div class=\"news-body\">Mexican avocado exports to Europe are under pressure due to significantly increased transit times and maritime transport uncertainty. For the exporter Aztec Fruits, which has a distribution subsidiary in Belgium, these prolonged delays are disrupting the regularity of supplies to the European market. <span class=\"news-reason\">Logistics alert on a Mehadrin product (avocado) from a competitor (Mexico), favoring nearby origins like Israel.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9882260/langere-transportzeiten-bremsen-avocado-export-nach-europa/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">עיכובים בהובלה מעכבים את ייצוא האבוקדו המקסיקני לאירופה -- <span class=\"news-date\">13/10/2026 10:12</span></div><div class=\"news-body\">ייצוא האבוקדו המקסיקני לאירופה נמצא תחת לחץ עקב עלייה משמעותית בזמני ההובלה וחוסר הוודאות בתובלה הימית. עבור היצואנית Aztec Fruits, לה חברת בת להפצה בבלגיה, עיכובים ממושכים אלו משבשים את סדירות האספקה לשוק האירופי. <span class=\"news-reason\">התראה לוגיסטית לגבי מוצר מהדרין (אבוקדו) אצל מתחרה (מקסיקו), דבר המעניק יתרון למקורות קרובים כמו ישראל.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9882260/langere-transportzeiten-bremsen-avocado-export-nach-europa/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
@@ -739,7 +804,7 @@
     {
       "id": "1791781278_2",
       "timestamp": "2026-10-12T05:01:18.596906+00:00",
-      "title": "Repli des cours de la grenade et de la patate douce en octobre",
+      "title": "Baisse des cours de la grenade et de la patate douce en octobre",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica",
@@ -750,7 +815,7 @@
         "pomegranate"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Repli des cours de la grenade et de la patate douce en octobre -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, le mois d&#x27;octobre enregistre une baisse des cours pour plusieurs produits. Les grenades et les patates douces deviennent plus abordables sur les marchés de gros, marquant une tendance saisonnière de prix à la baisse pour ces catégories. <span class=\"news-reason\">Indicateur de tendance de prix sur deux produits Mehadrin actuellement en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse des cours de la grenade et de la patate douce en octobre -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, le mois d&#x27;octobre enregistre une baisse des cours pour plusieurs produits. Les grenades et les patates douces deviennent plus abordables sur les marchés de gros, marquant une tendance saisonnière de prix à la baisse pour ces catégories. <span class=\"news-reason\">Indicateur de tendance de prix sur deux produits Mehadrin actuellement en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decrease in prices for pomegranates and sweet potatoes in October -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">According to data from BMTI and Italmercati, the month of October recorded a price drop for several products. Pomegranates and sweet potatoes are becoming more affordable on wholesale markets, marking a seasonal downward price trend for these categories. <span class=\"news-reason\">Price trend indicator for two Mehadrin products currently in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידת מחירי הרימונים והבטטות באוקטובר -- <span class=\"news-date\">12/10/2026 06:00</span></div><div class=\"news-body\">על פי נתוני BMTI ו-Italmercati, חודש אוקטובר רושם ירידה במחירים עבור מספר מוצרים. הרימונים והבטטות הופכים לנגישים יותר בשווקים הסיטונאיים, דבר המסמן מגמה עונתית של ירידת מחירים לקטגוריות אלו. <span class=\"news-reason\">אינדיקטור למגמת המחירים עבור שני מוצרי מהדרין הנמצאים כעת בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881882/ottobre-porta-prezzi-in-calo-piu-convenienti-melagrane-uva-zucche-e-patate-dolci/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
