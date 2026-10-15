@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-15T14:03:31.338340+00:00",
-  "article_count": 45,
+  "last_updated": "2026-10-15T15:33:16.613677+00:00",
+  "article_count": 44,
   "attention_points": [
+    {
+      "id": "attention-7eddaa6ef847be41",
+      "article_id": "1792078396_0",
+      "url": "https://www.freshplaza.es/article/9883431/el-80-del-hass-colombiano-destinado-a-europa-entra-por-los-puertos-de-algeciras-y-roterdam/",
+      "source": "FreshPlaza ES",
+      "title": "Algeciras et Rotterdam concentrent 80 % des flux d'avocats",
+      "summary": "Les ports d'Algeciras et de Rotterdam canalisent conjointement 80 % des exportations d'avocats Hass de Colombie à destination de l'Europe, selon les données fournies par Corpohass.",
+      "origin_code": "COL",
+      "origin_label": "Colombie",
+      "published_at": "2026-10-15T16:38:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "information",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 0
+    },
     {
       "id": "attention-1381e9a286640987",
       "article_id": "1792073011_0",
@@ -20,7 +39,7 @@
         "avocat",
         "melon"
       ],
-      "age_hours": 1
+      "age_hours": 2
     },
     {
       "id": "attention-12e51f01d496844b",
@@ -40,26 +59,7 @@
         "mandarine",
         "orange"
       ],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-1a73e83a699d0fd7",
-      "article_id": "1792040645_0",
-      "url": "https://www.agrimaroc.ma/grenades-a-berkane-23-000-tonnes-attendues/",
-      "source": "AgriMaroc",
-      "title": "Grenades au Maroc : prévisions de 23 000 tonnes",
-      "summary": "La production se concentre sur les zones de culture",
-      "origin_code": "MAR",
-      "origin_label": "Maroc",
-      "published_at": "2026-10-15T04:40:02+00:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "information",
-      "products": [
-        "pomegranate"
-      ],
-      "age_hours": 9
+      "age_hours": 3
     },
     {
       "id": "attention-eba938145ceafb82",
@@ -78,10 +78,28 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 24
+      "age_hours": 26
     }
   ],
   "articles": [
+    {
+      "id": "1792078396_0",
+      "timestamp": "2026-10-15T15:33:16.613677+00:00",
+      "title": "Algeciras et Rotterdam concentrent 80 % des flux d&#x27;avocats Hass colombiens vers l&#x27;Europe",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "COL"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Algeciras et Rotterdam concentrent 80 % des flux d&#x27;avocats Hass colombiens vers l&#x27;Europe -- <span class=\"news-date\">15/10/2026 16:38</span></div><div class=\"news-body\">Les ports d&#x27;Algeciras et de Rotterdam canalisent conjointement 80 % des exportations d&#x27;avocats Hass de Colombie à destination de l&#x27;Europe, selon les données fournies par Corpohass. Cette concentration logistique renforce le rôle stratégique de ces infrastructures pour la distribution des volumes colombiens sur le continent européen. <span class=\"news-reason\">Données précises sur les flux logistiques et les points d&#x27;entrée d&#x27;une origine concurrente majeure (Colombie) vers le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883431/el-80-del-hass-colombiano-destinado-a-europa-entra-por-los-puertos-de-algeciras-y-roterdam/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Algeciras and Rotterdam account for 80% of Colombian Hass avocado flows to Europe -- <span class=\"news-date\">15/10/2026 16:38</span></div><div class=\"news-body\">The ports of Algeciras and Rotterdam jointly channel 80% of Hass avocado exports from Colombia to Europe, according to data provided by Corpohass. This logistical concentration reinforces the strategic role of these infrastructures for the distribution of Colombian volumes on the European continent. <span class=\"news-reason\">Precise data on logistical flows and entry points of a major competing origin (Colombia) to the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883431/el-80-del-hass-colombiano-destinado-a-europa-entra-por-los-puertos-de-algeciras-y-roterdam/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">אלחזירס ורוטרדם מרכזות 80% מזרימת אבוקדו האס מקולומביה לאירופה -- <span class=\"news-date\">15/10/2026 16:38</span></div><div class=\"news-body\">נמלי אלחזירס ורוטרדם מרכזים יחד 80% מיצוא אבוקדו האס מקולומביה לאירופה, על פי נתונים שסיפקה Corpohass. ריכוז לוגיסטי זה מחזק את התפקיד האסטרטגי של תשתיות אלו להפצת הכמויות הקולומביאניות ביבשת אירופה. <span class=\"news-reason\">נתונים מדויקים על תזרימי לוגיסטיקה ונקודות כניסה של מקור מתחרה עיקרי (קולומביה) לשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883431/el-80-del-hass-colombiano-destinado-a-europa-entra-por-los-puertos-de-algeciras-y-roterdam/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1792073011_0",
       "timestamp": "2026-10-15T14:03:31.338340+00:00",
@@ -161,7 +179,7 @@
     {
       "id": "1792040645_1",
       "timestamp": "2026-10-15T05:04:05.250713+00:00",
-      "title": "L&#x27;Égypte devient le premier fournisseur de patates douces du marché européen",
+      "title": "L’Égypte devient le premier fournisseur de patates douces du marché européen",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -172,7 +190,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Égypte devient le premier fournisseur de patates douces du marché européen -- <span class=\"news-date\">15/10/2026 06:05</span></div><div class=\"news-body\">Les exportations égyptiennes de patates douces ont connu une croissance significative, hissant l&#x27;Égypte au rang de première origine en volume pour le marché européen. Cette progression s&#x27;inscrit dans un contexte de contraction de la production mondiale globale sur les deux dernières décennies, permettant à l&#x27;origine égyptienne de s&#x27;imposer comme la référence économique par défaut. <span class=\"news-reason\">Analyse stratégique de la domination d&#x27;une origine concurrente sur un produit clé de Mehadrin avec des données historiques de marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882297/l-egitto-e-diventata-l-origine-predefinita-pur-continuando-a-essere-percepita-come-quella-economica/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L’Égypte devient le premier fournisseur de patates douces du marché européen -- <span class=\"news-date\">15/10/2026 06:05</span></div><div class=\"news-body\">Les exportations égyptiennes de patates douces ont connu une croissance significative, hissant l&#x27;Égypte au rang de première origine en volume pour le marché européen. Cette progression s&#x27;inscrit dans un contexte de contraction de la production mondiale globale sur les deux dernières décennies, permettant à l&#x27;origine égyptienne de s&#x27;imposer comme la référence économique par défaut. <span class=\"news-reason\">Analyse stratégique de la domination d&#x27;une origine concurrente sur un produit clé de Mehadrin avec des données historiques de marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882297/l-egitto-e-diventata-l-origine-predefinita-pur-continuando-a-essere-percepita-come-quella-economica/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Egypt becomes the leading supplier of sweet potatoes to the European market -- <span class=\"news-date\">15/10/2026 06:05</span></div><div class=\"news-body\">Egyptian sweet potato exports have experienced significant growth, raising Egypt to the rank of the leading origin by volume for the European market. This progress is part of a context of contraction in overall global production over the last two decades, allowing the Egyptian origin to establish itself as the default economic reference. <span class=\"news-reason\">Strategic analysis of the dominance of a competing origin on a key Mehadrin product with historical market data.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882297/l-egitto-e-diventata-l-origine-predefinita-pur-continuando-a-essere-percepita-come-quella-economica/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מצרים הופכת לספקית הבטטות המובילה בשוק האירופי -- <span class=\"news-date\">15/10/2026 06:05</span></div><div class=\"news-body\">הייצוא המצרי של בטטות רשם צמיחה משמעותית, והעלה את מצרים למעמד של מקור האספקה הראשון בנפח עבור השוק האירופי. התקדמות זו מתרחשת על רקע התכווצות בייצור העולמי הכולל בשני העשורים האחרונים, מה שמאפשר למקור המצרי לבסס את עצמו כנקודת הייחוס הכלכלית המוגדרת כברירת מחדל. <span class=\"news-reason\">ניתוח אסטרטגי של הדומיננטיות של מקור מתחרה במוצר מפתח של מהדרין עם נתוני שוק היסטוריים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882297/l-egitto-e-diventata-l-origine-predefinita-pur-continuando-a-essere-percepita-come-quella-economica/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -266,7 +284,7 @@
     {
       "id": "1791986660_5",
       "timestamp": "2026-10-14T14:04:20.281505+00:00",
-      "title": "Emirates SkyCargo renforce sa desserte de l&#x27;Amérique latine",
+      "title": "Emirates SkyCargo consolide sa présence en Amérique latine",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [],
       "products": [],
@@ -275,14 +293,14 @@
         "COL",
         "ARG"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Emirates SkyCargo renforce sa desserte de l&#x27;Amérique latine -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">Emirates SkyCargo ajoutera sept vols hebdomadaires de fret supplémentaires en 2026 pour relier l&#x27;Argentine, le Brésil, la Colombie et l&#x27;Équateur. Cette expansion vise à accroître la capacité de transport aérien pour les fruits, légumes et fleurs vers les marchés internationaux. <span class=\"news-reason\">Augmentation de la capacité logistique pour les importations de fruits depuis des origines concurrentes (Brésil, Colombie).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882332/mas-capacidad-aerea-para-productos-hortofruticolas-entre-argentina-brasil-colombia-y-ecuador/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Emirates SkyCargo consolide sa présence en Amérique latine -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">Emirates SkyCargo ajoutera sept vols hebdomadaires de fret supplémentaires en 2026 pour relier l&#x27;Argentine, le Brésil, la Colombie et l&#x27;Équateur. Cette expansion vise à accroître la capacité de transport aérien pour les fruits, légumes et fleurs vers les marchés internationaux. <span class=\"news-reason\">Augmentation de la capacité logistique pour les importations de fruits depuis des origines concurrentes (Brésil, Colombie).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882332/mas-capacidad-aerea-para-productos-hortofruticolas-entre-argentina-brasil-colombia-y-ecuador/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Emirates SkyCargo intensifies its connections with Latin America -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">Emirates SkyCargo will add seven additional weekly cargo flights in 2026 to connect Argentina, Brazil, Colombia, and Ecuador. This expansion aims to increase air transport capacity for fruits, vegetables, and flowers to international markets. <span class=\"news-reason\">Increased logistics capacity for fruit imports from competing origins (Brazil, Colombia).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882332/mas-capacidad-aerea-para-productos-hortofruticolas-entre-argentina-brasil-colombia-y-ecuador/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות</div><div class=\"news-title\">Emirates SkyCargo מתגברת את קווי הטיסה שלה לאמריקה הלטינית -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">חברת Emirates SkyCargo תוסיף שבע טיסות מטען שבועיות נוספות בשנת 2026 כדי לחבר בין ארגנטינה, ברזיל, קולומביה ואקוודור. הרחבה זו נועדה להגדיל את קיבולת ההובלה האווירית עבור פירות, ירקות ופרחים לשווקים הבינלאומיים. <span class=\"news-reason\">הגדלת הקיבולת הלוגיסטית ליבוא פירות ממקורות מתחרים (ברזיל, קולומביה).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882332/mas-capacidad-aerea-para-productos-hortofruticolas-entre-argentina-brasil-colombia-y-ecuador/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1791986660_4",
       "timestamp": "2026-10-14T14:04:20.281505+00:00",
-      "title": "La Tanzanie dépasse ses objectifs d&#x27;exportation d&#x27;avocats à l&#x27;horizon 2030",
+      "title": "La Tanzanie dépasse ses objectifs d’exportation d’avocats à l’horizon 2030",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -291,7 +309,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La Tanzanie dépasse ses objectifs d&#x27;exportation d&#x27;avocats à l&#x27;horizon 2030 -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">La Tanzanie a exporté 52 000 tonnes d&#x27;avocats au cours de la campagne 2025/2026, surpassant avec quatre ans d&#x27;avance son objectif initial de 40 000 tonnes fixé pour 2030. Cela représente une hausse de 237 % par rapport aux 15 433 tonnes enregistrées en 2020/2021. <span class=\"news-reason\">Données chiffrées précises sur les volumes d&#x27;exportation d&#x27;une origine concurrente émergente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881785/las-exportaciones-de-aguacate-de-tanzania-superan-el-objetivo-marcado-para-2030/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La Tanzanie dépasse ses objectifs d’exportation d’avocats à l’horizon 2030 -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">La Tanzanie a exporté 52 000 tonnes d&#x27;avocats au cours de la campagne 2025/2026, surpassant avec quatre ans d&#x27;avance son objectif initial de 40 000 tonnes fixé pour 2030. Cela représente une hausse de 237 % par rapport aux 15 433 tonnes enregistrées en 2020/2021. <span class=\"news-reason\">Données chiffrées précises sur les volumes d&#x27;exportation d&#x27;une origine concurrente émergente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881785/las-exportaciones-de-aguacate-de-tanzania-superan-el-objetivo-marcado-para-2030/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Tanzania surpasses its avocado export targets for 2030 -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">Tanzania exported 52,000 tons of avocados during the 2025/2026 season, surpassing its initial target of 40,000 tons set for 2030 four years ahead of schedule. This represents a 237% increase compared to the 15,433 tons recorded in 2020/2021. <span class=\"news-reason\">Precise data on export volumes from an emerging competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881785/las-exportaciones-de-aguacate-de-tanzania-superan-el-objetivo-marcado-para-2030/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">טנזניה עוקפת את יעדי יצוא האבוקדו שלה לשנת 2030 -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">טנזניה ייצאה 52,000 טונות של אבוקדו במהלך עונת 2025/2026, כשהיא עוקפת בארבע שנים את היעד המקורי שלה שעמד על 40,000 טונות לשנת 2030. מדובר בעלייה של 237% בהשוואה ל-15,433 הטונות שנרשמו ב-2020/2021. <span class=\"news-reason\">נתונים מספריים מדויקים על היקפי היצוא של מקור מתחרה מתפתח.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881785/las-exportaciones-de-aguacate-de-tanzania-superan-el-objetivo-marcado-para-2030/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -316,7 +334,7 @@
     {
       "id": "1791986660_1",
       "timestamp": "2026-10-14T14:04:20.281505+00:00",
-      "title": "Empreinte carbone positive pour les mandarines Nadorcott en Espagne",
+      "title": "Bilan carbone positif pour les mandarines Nadorcott en Espagne",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -327,7 +345,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Empreinte carbone positive pour les mandarines Nadorcott en Espagne -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">Nadorcott Spain a présenté une étude lors de Fruit Attraction démontrant que les plantations de mandarines Nadorcott en Espagne capturent davantage de carbone qu&#x27;elles n&#x27;en émettent. Cet inventaire s&#x27;appuie sur des données agronomiques réelles collectées sur l&#x27;ensemble des vergers espagnols. <span class=\"news-reason\">Information sur le positionnement marketing et environnemental de la mandarine Nadorcott, produit phare de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883059/un-estudio-verifica-que-las-plantaciones-de-nadorcott-capturan-mas-carbono-del-que-emiten/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Bilan carbone positif pour les mandarines Nadorcott en Espagne -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">Nadorcott Spain a présenté une étude lors de Fruit Attraction démontrant que les plantations de mandarines Nadorcott en Espagne capturent davantage de carbone qu&#x27;elles n&#x27;en émettent. Cet inventaire s&#x27;appuie sur des données agronomiques réelles collectées sur l&#x27;ensemble des vergers espagnols. <span class=\"news-reason\">Information sur le positionnement marketing et environnemental de la mandarine Nadorcott, produit phare de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883059/un-estudio-verifica-que-las-plantaciones-de-nadorcott-capturan-mas-carbono-del-que-emiten/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Positive carbon balance for Nadorcott mandarins in Spain -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">Nadorcott Spain presented a study during Fruit Attraction demonstrating that Nadorcott mandarin plantations in Spain capture more carbon than they emit. This inventory is based on real agronomic data collected across all Spanish orchards. <span class=\"news-reason\">Information on the marketing and environmental positioning of the Nadorcott mandarin, a flagship product of Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883059/un-estudio-verifica-que-las-plantaciones-de-nadorcott-capturan-mas-carbono-del-que-emiten/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">מאזן פחמן חיובי למנדרינות נאדורקוט בספרד -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">חברת Nadorcott Spain הציגה מחקר במהלך תערוכת Fruit Attraction המדגים כי מטעי המנדרינות מסוג נאדורקוט בספרד קולטים יותר פחמן ממה שהם פולטים. הערכה זו מתבססת על נתונים אגרונומיים אמיתיים שנאספו מכלל המטעים בספרד. <span class=\"news-reason\">מידע על המיצוב השיווקי והסביבתי של מנדרינת הנאדורקוט, מוצר הדגל של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883059/un-estudio-verifica-que-las-plantaciones-de-nadorcott-capturan-mas-carbono-del-que-emiten/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -524,7 +542,7 @@
     {
       "id": "1791916433_0",
       "timestamp": "2026-10-13T18:33:53.880103+00:00",
-      "title": "Colombie : une baisse de 30 % de la production de mangues anticipée pour 2026",
+      "title": "Colombie : une baisse de 30 % de la production de mangues prévue pour 2026",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -535,7 +553,7 @@
       "origins": [
         "COL"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Colombie : une baisse de 30 % de la production de mangues anticipée pour 2026 -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">La production de mangues en Colombie a chuté de 30 % par rapport à la même période en 2025, selon les données de Fedemango d&#x27;octobre 2026. Cette baisse significative entraîne une pénurie dans plusieurs régions, impacte les prix et limite les capacités d&#x27;approvisionnement régulier du marché intérieur et des exportations. <span class=\"news-reason\">Contient des chiffres précis sur la baisse de production (-30 %) d&#x27;une origine concurrente pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882617/reportan-caida-del-30-en-produccion-de-mango-colombiano-en-2026/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Colombie : une baisse de 30 % de la production de mangues prévue pour 2026 -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">La production de mangues en Colombie a chuté de 30 % par rapport à la même période en 2025, selon les données de Fedemango d&#x27;octobre 2026. Cette baisse significative entraîne une pénurie dans plusieurs régions, impacte les prix et limite les capacités d&#x27;approvisionnement régulier du marché intérieur et des exportations. <span class=\"news-reason\">Contient des chiffres précis sur la baisse de production (-30 %) d&#x27;une origine concurrente pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882617/reportan-caida-del-30-en-produccion-de-mango-colombiano-en-2026/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">30% drop in mango production in Colombia in 2026 -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">Mango production in Colombia has dropped by 30% compared to the same period in 2025, according to Fedemango data from October 2026. This significant decrease is leading to a shortage in several regions, impacting prices and limiting regular supply capacities for the domestic market and exports. <span class=\"news-reason\">Contains precise figures on the production decrease (-30%) of a competing origin for a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882617/reportan-caida-del-30-en-produccion-de-mango-colombiano-en-2026/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 30% בייצור המנגו בקולומביה בשנת 2026 -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">ייצור המנגו בקולומביה ירד ב-30% בהשוואה לתקופה המקבילה בשנת 2025, על פי נתוני Fedemango מאוקטובר 2026. ירידה משמעותית זו מובילה למחסור במספר אזורים, משפיעה על המחירים ומגבילה את יכולות האספקה הסדירה לשוק המקומי ולייצוא. <span class=\"news-reason\">מכיל נתונים מדויקים על הירידה בייצור (30%-) של מקור מתחרה עבור מוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882617/reportan-caida-del-30-en-produccion-de-mango-colombiano-en-2026/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -561,7 +579,7 @@
     {
       "id": "1791905559_0",
       "timestamp": "2026-10-13T15:32:39.919500+00:00",
-      "title": "La production péruvienne d&#x27;avocats Hass menacée par El Niño",
+      "title": "La production d&#x27;avocats Hass au Pérou menacée par El Niño",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -572,7 +590,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La production péruvienne d&#x27;avocats Hass menacée par El Niño -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">Santiago Pastor, expert en agronomie, avertit que le phénomène El Niño menace la production d&#x27;avocats Hass au Pérou. L&#x27;élévation des températures nocturnes durant les étapes critiques du cycle de culture risque d&#x27;impacter les rendements et la qualité des récoltes destinées à l&#x27;exportation. <span class=\"news-reason\">Alerte sur la menace climatique (El Niño) pesant sur un produit Mehadrin (avocat Hass) chez un concurrent majeur (Pérou).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882619/el-nino-amenaza-la-produccion-de-mango-arandano-palta-y-uva-en-peru/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La production d&#x27;avocats Hass au Pérou menacée par El Niño -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">Santiago Pastor, expert en agronomie, avertit que le phénomène El Niño menace la production d&#x27;avocats Hass au Pérou. L&#x27;élévation des températures nocturnes durant les étapes critiques du cycle de culture risque d&#x27;impacter les rendements et la qualité des récoltes destinées à l&#x27;exportation. <span class=\"news-reason\">Alerte sur la menace climatique (El Niño) pesant sur un produit Mehadrin (avocat Hass) chez un concurrent majeur (Pérou).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882619/el-nino-amenaza-la-produccion-de-mango-arandano-palta-y-uva-en-peru/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">El Niño threatens Peruvian Hass avocado production -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">Santiago Pastor, an agronomy expert, warns that the El Niño phenomenon threatens Hass avocado production in Peru. Rising nighttime temperatures during critical stages of the crop cycle risk impacting yields and the quality of harvests destined for export. <span class=\"news-reason\">Alert on the climate threat (El Niño) weighing on a Mehadrin product (Hass avocado) at a major competitor (Peru).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882619/el-nino-amenaza-la-produccion-de-mango-arandano-palta-y-uva-en-peru/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">אל ניניו מאיים על ייצור האבוקדו האס בפרו -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">סנטיאגו פסטור, מומחה לאגרונומיה, מזהיר כי תופעת האל ניניו מאיימת על ייצור האבוקדו האס בפרו. עליית הטמפרטורות בלילה בשלבים הקריטיים של מחזור הגידול עלולה להשפיע על היבולים ועל איכות הקטיף המיועד לייצוא. <span class=\"news-reason\">התראה על איום אקלימי (אל ניניו) המכביד על מוצר מהדרין (אבוקדו האס) אצל מתחרה מרכזי (פרו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882619/el-nino-amenaza-la-produccion-de-mango-arandano-palta-y-uva-en-peru/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -665,7 +683,7 @@
     {
       "id": "1791889364_2",
       "timestamp": "2026-10-13T11:02:44.352719+00:00",
-      "title": "Lancement de la culture de dattes Ajwa en Égypte",
+      "title": "Lancement de la culture des dattes Ajwa en Égypte",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -676,7 +694,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la culture de dattes Ajwa en Égypte -- <span class=\"news-date\">13/10/2026 06:05</span></div><div class=\"news-body\">La variété de dattes Ajwa, traditionnellement originaire d&#x27;Arabie Saoudite, est désormais cultivée en Égypte. Ce fruit, de taille petite à moyenne avec une peau noire et ridée, permet à l&#x27;Égypte de diversifier son offre sur le marché mondial des dattes. <span class=\"news-reason\">Information sur la diversification variétale d&#x27;un pays concurrent (Égypte) sur un produit clé de Mehadrin (dattes).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881319/la-varieta-di-datteri-ajwa-viene-coltivata-anche-in-egitto/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la culture des dattes Ajwa en Égypte -- <span class=\"news-date\">13/10/2026 06:05</span></div><div class=\"news-body\">La variété de dattes Ajwa, traditionnellement originaire d&#x27;Arabie Saoudite, est désormais cultivée en Égypte. Ce fruit, de taille petite à moyenne avec une peau noire et ridée, permet à l&#x27;Égypte de diversifier son offre sur le marché mondial des dattes. <span class=\"news-reason\">Information sur la diversification variétale d&#x27;un pays concurrent (Égypte) sur un produit clé de Mehadrin (dattes).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881319/la-varieta-di-datteri-ajwa-viene-coltivata-anche-in-egitto/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Egypt launches the cultivation of the Ajwa date variety -- <span class=\"news-date\">13/10/2026 06:05</span></div><div class=\"news-body\">The Ajwa date variety, traditionally originating from Saudi Arabia, is now being grown in Egypt. This fruit, small to medium in size with black, wrinkled skin, allows Egypt to diversify its offering on the global date market. <span class=\"news-reason\">Information on the varietal diversification of a competing country (Egypt) for a key Mehadrin product (dates).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881319/la-varieta-di-datteri-ajwa-viene-coltivata-anche-in-egitto/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מצרים מתחילה לגדל את זן התמרים עג'ווה -- <span class=\"news-date\">13/10/2026 06:05</span></div><div class=\"news-body\">זן התמרים עג'ווה, שמקורו המסורתי בסעודיה, מעובד כעת במצרים. פרי זה, בגודל קטן עד בינוני עם קליפה שחורה ומקומטת, מאפשר למצרים לגוון את ההיצע שלה בשוק התמרים העולמי. <span class=\"news-reason\">מידע על גיוון זנים במדינה מתחרה (מצרים) עבור מוצר מפתח של מהדרין (תמרים).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881319/la-varieta-di-datteri-ajwa-viene-coltivata-anche-in-egitto/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -736,7 +754,7 @@
     {
       "id": "1791883940_1",
       "timestamp": "2026-10-13T09:32:20.128004+00:00",
-      "title": "Incidence des délais de transport sur les exportations d&#x27;avocats mexicains vers l&#x27;Europe",
+      "title": "Impact des délais de transport sur les exportations d&#x27;avocats mexicains vers l&#x27;Europe",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -748,7 +766,7 @@
         "ISR",
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Incidence des délais de transport sur les exportations d&#x27;avocats mexicains vers l&#x27;Europe -- <span class=\"news-date\">13/10/2026 10:12</span></div><div class=\"news-body\">L&#x27;exportation d&#x27;avocats mexicains vers l&#x27;Europe est sous pression en raison de l&#x27;augmentation significative des temps de transit et de l&#x27;incertitude du transport maritime. Pour l&#x27;exportateur Aztec Fruits, qui possède une filiale de distribution en Belgique, ces délais prolongés perturbent la régularité des approvisionnements sur le marché européen. <span class=\"news-reason\">Alerte logistique sur un produit Mehadrin (avocat) chez un concurrent (Mexique), favorisant les origines proches comme Israël.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9882260/langere-transportzeiten-bremsen-avocado-export-nach-europa/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact des délais de transport sur les exportations d&#x27;avocats mexicains vers l&#x27;Europe -- <span class=\"news-date\">13/10/2026 10:12</span></div><div class=\"news-body\">L&#x27;exportation d&#x27;avocats mexicains vers l&#x27;Europe est sous pression en raison de l&#x27;augmentation significative des temps de transit et de l&#x27;incertitude du transport maritime. Pour l&#x27;exportateur Aztec Fruits, qui possède une filiale de distribution en Belgique, ces délais prolongés perturbent la régularité des approvisionnements sur le marché européen. <span class=\"news-reason\">Alerte logistique sur un produit Mehadrin (avocat) chez un concurrent (Mexique), favorisant les origines proches comme Israël.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9882260/langere-transportzeiten-bremsen-avocado-export-nach-europa/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Transport delays hinder Mexican avocado exports to Europe -- <span class=\"news-date\">13/10/2026 10:12</span></div><div class=\"news-body\">Mexican avocado exports to Europe are under pressure due to significantly increased transit times and maritime transport uncertainty. For the exporter Aztec Fruits, which has a distribution subsidiary in Belgium, these prolonged delays are disrupting the regularity of supplies to the European market. <span class=\"news-reason\">Logistics alert on a Mehadrin product (avocado) from a competitor (Mexico), favoring nearby origins like Israel.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9882260/langere-transportzeiten-bremsen-avocado-export-nach-europa/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">עיכובים בהובלה מעכבים את ייצוא האבוקדו המקסיקני לאירופה -- <span class=\"news-date\">13/10/2026 10:12</span></div><div class=\"news-body\">ייצוא האבוקדו המקסיקני לאירופה נמצא תחת לחץ עקב עלייה משמעותית בזמני ההובלה וחוסר הוודאות בתובלה הימית. עבור היצואנית Aztec Fruits, לה חברת בת להפצה בבלגיה, עיכובים ממושכים אלו משבשים את סדירות האספקה לשוק האירופי. <span class=\"news-reason\">התראה לוגיסטית לגבי מוצר מהדרין (אבוקדו) אצל מתחרה (מקסיקו), דבר המעניק יתרון למקורות קרובים כמו ישראל.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9882260/langere-transportzeiten-bremsen-avocado-export-nach-europa/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
@@ -831,40 +849,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Espagne domine la production européenne d&#x27;avocats et de mangues -- <span class=\"news-date\">12/10/2026 13:34</span></div><div class=\"news-body\">L&#x27;Espagne confirme sa position de premier producteur d&#x27;avocats et de mangues au sein de l&#x27;Union européenne. Selon les données récentes, le pays totalise 24 758 hectares dédiés à la culture de l&#x27;avocat et 6 148 hectares pour la mangue. La disponibilité de l&#x27;eau et la concentration des récoltes sont identifiées comme les facteurs déterminants pour la croissance future de ce secteur en expansion. <span class=\"news-reason\">Article contenant des chiffres précis de surfaces cultivées en Espagne (origine concurrente) pour deux produits Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881825/spain-has-24-758-hectares-of-avocados-and-6-148-hectares-of-mangoes/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain dominates European avocado and mango production -- <span class=\"news-date\">12/10/2026 13:34</span></div><div class=\"news-body\">Spain confirms its position as the leading producer of avocados and mangoes within the European Union. According to recent data, the country totals 24,758 hectares dedicated to avocado cultivation and 6,148 hectares for mangoes. Water availability and harvest concentration are identified as the determining factors for the future growth of this expanding sector. <span class=\"news-reason\">Article containing precise figures for cultivated areas in Spain (competing origin) for two Mehadrin products.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881825/spain-has-24-758-hectares-of-avocados-and-6-148-hectares-of-mangoes/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד מובילה את ייצור האבוקדו והמנגו באירופה -- <span class=\"news-date\">12/10/2026 13:34</span></div><div class=\"news-body\">ספרד מאשרת את מעמדה כיצרנית המובילה של אבוקדו ומנגו באיחוד האירופי. על פי נתונים עדכניים, המדינה מונה סך של 24,758 הקטרים המוקדשים לגידול אבוקדו ו-6,148 הקטרים למנגו. זמינות המים וריכוז היבולים מזוהים כגורמים הקובעים לצמיחה העתידית של מגזר מתרחב זה. <span class=\"news-reason\">מאמר הכולל נתונים מדויקים על שטחי גידול בספרד (מקור מתחרה) עבור שני מוצרי מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9881825/spain-has-24-758-hectares-of-avocados-and-6-148-hectares-of-mangoes/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791819140_1",
-      "timestamp": "2026-10-12T15:32:20.676195+00:00",
-      "title": "Fruit Attraction 2026 : focus sur les défis de l&#x27;avocat latino-américain -- 12/10/2026 13:35",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "USA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Fruit Attraction 2026 : focus sur les défis de l&#x27;avocat latino-américain -- <span class=\"news-date\">12/10/2026 13:35</span></div><div class=\"news-body\">Lors du Congrès de l&#x27;Avocat à Madrid, les acteurs d&#x27;Amérique Latine ont souligné les défis majeurs liés au changement climatique et à la logistique. Le secteur s&#x27;oriente vers une diversification accrue pour sécuriser les exportations vers les marchés mondiaux, notamment l&#x27;Europe. <span class=\"news-reason\">Analyse de la stratégie de diversification et des défis climatiques des pays concurrents en Amérique Latine pour l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9881844/fruit-attraction-2026-climat-logistique-et-diversification-pour-l-amerique-latine/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Fruit Attraction 2026: focus on the challenges of Latin American avocados -- <span class=\"news-date\">12/10/2026 13:35</span></div><div class=\"news-body\">During the Avocado Congress in Madrid, Latin American stakeholders highlighted major challenges related to climate change and logistics. The sector is moving towards increased diversification to secure exports to global markets, particularly Europe. <span class=\"news-reason\">Analysis of the diversification strategy and climate challenges of competing Latin American countries for avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9881844/fruit-attraction-2026-climat-logistique-et-diversification-pour-l-amerique-latine/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות ומקורות</div><div class=\"news-title\">Fruit Attraction 2026: התמקדות באתגרי האבוקדו מאמריקה הלטינית -- <span class=\"news-date\">12/10/2026 13:35</span></div><div class=\"news-body\">במהלך קונגרס האבוקדו במדריד, הדגישו הגורמים הפועלים באמריקה הלטינית את האתגרים המרכזיים הקשורים לשינויי אקלים ולוגיסטיקה. המגזר פונה לעבר גיוון מוגבר כדי להבטיח את היצוא לשווקים העולמיים, בדגש על אירופה. <span class=\"news-reason\">ניתוח של אסטרטגיית הגיוון ואתגרי האקלים של המדינות המתחרות באמריקה הלטינית עבור אבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9881844/fruit-attraction-2026-climat-logistique-et-diversification-pour-l-amerique-latine/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791819140_0",
-      "timestamp": "2026-10-12T15:32:20.676195+00:00",
-      "title": "Mission Produce annonce une nouvelle phase de croissance pour l&#x27;avocat -- 12/10/2026 11:00",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Mission Produce annonce une nouvelle phase de croissance pour l&#x27;avocat -- <span class=\"news-date\">12/10/2026 11:00</span></div><div class=\"news-body\">Mission Produce entre dans une nouvelle ère stratégique visant à renforcer sa plateforme mondiale dédiée à l&#x27;avocat. L&#x27;entreprise prévoit d&#x27;élargir son portefeuille de produits et de consolider sa vision opérationnelle pour maintenir sa position sur le marché international des produits frais. <span class=\"news-reason\">Information stratégique sur un concurrent majeur (Mission Produce) dans le secteur de l&#x27;avocat, incluant des projets d&#x27;élargissement de portefeuille.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/12/mission-produce/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Mission Produce announces a new growth phase for avocados -- <span class=\"news-date\">12/10/2026 11:00</span></div><div class=\"news-body\">Mission Produce is entering a new strategic era aimed at strengthening its global avocado platform. The company plans to expand its product portfolio and consolidate its operational vision to maintain its position in the international fresh produce market. <span class=\"news-reason\">Strategic information on a major competitor (Mission Produce) in the avocado sector, including plans for portfolio expansion.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/12/mission-produce/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות ברשתות שיווק</div><div class=\"news-title\">Mission Produce מכריזה על שלב צמיחה חדש לאבוקדו -- <span class=\"news-date\">12/10/2026 11:00</span></div><div class=\"news-body\">Mission Produce נכנסת לעידן אסטרטגי חדש שמטרתו לחזק את הפלטפורמה העולמית שלה המוקדשת לאבוקדו. החברה מתכננת להרחיב את סל המוצרים שלה ולגבש את החזון המבצעי שלה כדי לשמור על מעמדה בשוק הבינלאומי של תוצרת טרייה. <span class=\"news-reason\">מידע אסטרטגי על מתחרה מרכזי (Mission Produce) במגזר האבוקדו, הכולל תוכניות להרחבת סל המוצרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/12/mission-produce/\" target=\"_blank\">Fresh Fruit Portal -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
