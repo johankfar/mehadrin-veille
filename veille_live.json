@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-10-16T12:33:45.276874+00:00",
-  "article_count": 36,
+  "last_updated": "2026-10-16T14:03:33.436367+00:00",
+  "article_count": 34,
   "attention_points": [
+    {
+      "id": "attention-971ec9a43d26f0e4",
+      "article_id": "1792159413_0",
+      "url": "https://www.freshplaza.fr/article/9883624/le-maroc-arrive-en-tete-des-importations-espagnoles-de-fruits-et-legumes-en-valeur/",
+      "source": "FreshPlaza FR",
+      "title": "Le Maroc premier fournisseur de l'Espagne en valeur pour",
+      "summary": "Au cours des sept premiers mois de l'année 2026, l'Espagne a importé 2,87 millions de tonnes de fruits et légumes frais pour une valeur totale de 3,47 milliards d'euros.",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-10-16T14:37:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "price",
+      "signal_label": "Prix",
+      "icon": "information",
+      "products": [],
+      "age_hours": 1
+    },
     {
       "id": "attention-4e2c9e1fb2446ba6",
       "article_id": "1792154025_0",
@@ -21,7 +38,7 @@
         "asparagus",
         "berry"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-7eddaa6ef847be41",
@@ -40,7 +57,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 21
+      "age_hours": 23
     },
     {
       "id": "attention-1381e9a286640987",
@@ -60,29 +77,25 @@
         "avocat",
         "melon"
       ],
-      "age_hours": 23
-    },
-    {
-      "id": "attention-eba938145ceafb82",
-      "article_id": "1791992013_0",
-      "url": "https://www.freshplaza.es/article/9882259/es-la-primera-vez-en-diez-anos-que-no-mandamos-ni-un-aguacate-por-barco-a-europa/",
-      "source": "FreshPlaza ES",
-      "title": "Suspension des exportations maritimes d'avocats mexicains vers l'Europe",
-      "summary": "L'exportateur mexicain Aztec Fruits a annoncé l'arrêt total de ses envois d'avocats par voie maritime vers l'Europe, une première en dix ans.",
-      "origin_code": "MEX",
-      "origin_label": "Mexique",
-      "published_at": "2026-10-14T15:32:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 47
+      "age_hours": 25
     }
   ],
   "articles": [
+    {
+      "id": "1792159413_0",
+      "timestamp": "2026-10-16T14:03:33.436367+00:00",
+      "title": "Le Maroc premier fournisseur de l&#x27;Espagne en valeur pour les fruits et légumes -- 16/10/2026 14:37",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "ESP",
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le Maroc premier fournisseur de l&#x27;Espagne en valeur pour les fruits et légumes -- <span class=\"news-date\">16/10/2026 14:37</span></div><div class=\"news-body\">Au cours des sept premiers mois de l&#x27;année 2026, l&#x27;Espagne a importé 2,87 millions de tonnes de fruits et légumes frais pour une valeur totale de 3,47 milliards d&#x27;euros. Les pays hors Union européenne dominent largement ce marché, fournissant 55 % des volumes et représentant 72 % de la valeur globale (soit 2,49 milliards d&#x27;euros). Le Maroc confirme sa position de premier fournisseur en valeur avec des exportations s&#x27;élevant à 982 millions d&#x27;euros sur cette période. <span class=\"news-reason\">Le Maroc domine le marché des importations espagnoles avec 982 millions d&#x27;euros, constituant un indicateur de concurrence majeur pour les origines de Mehadrin sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9883624/le-maroc-arrive-en-tete-des-importations-espagnoles-de-fruits-et-legumes-en-valeur/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Morocco is Spain&#x27;s leading supplier by value for fruits and vegetables -- <span class=\"news-date\">16/10/2026 14:37</span></div><div class=\"news-body\">During the first seven months of 2026, Spain imported 2.87 million tons of fresh fruits and vegetables for a total value of 3.47 billion euros. Countries outside the European Union largely dominate this market, providing 55% of the volumes and representing 72% of the overall value (amounting to 2.49 billion euros). Morocco confirms its position as the leading supplier by value with exports totaling 982 million euros over this period. <span class=\"news-reason\">Morocco dominates the Spanish import market with 982 million euros, constituting a major competition indicator for Mehadrin&#x27;s origins on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9883624/le-maroc-arrive-en-tete-des-importations-espagnoles-de-fruits-et-legumes-en-valeur/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">מרוקו היא הספקית המובילה של ספרד במונחי ערך עבור פירות וירקות -- <span class=\"news-date\">16/10/2026 14:37</span></div><div class=\"news-body\">במהלך שבעת החודשים הראשונים של שנת 2026, ספרד ייבאה 2.87 מיליון טונות של פירות וירקות טריים בשווי כולל של 3.47 מיליארד אירו. מדינות מחוץ לאיחוד האירופי שולטות במידה רבה בשוק זה, כשהן מספקות 55% מהכמויות ומהוות 72% מהערך הכולל (כלומר 2.49 מיליארד אירו). מרוקו מבססת את מעמדה כספקית המובילה במונחי ערך עם ייצוא המסתכם ב-982 מיליון אירו בתקופה זו. <span class=\"news-reason\">מרוקו שולטת בשוק היבוא הספרדי עם 982 מיליון אירו, המהווים מדד לתחרות משמעותית עבור מקורות האספקה של מהדרין בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9883624/le-maroc-arrive-en-tete-des-importations-espagnoles-de-fruits-et-legumes-en-valeur/\" target=\"_blank\">FreshPlaza FR -- קראו את הכתבה</a></div></div>"
+    },
     {
       "id": "1792154025_1",
       "timestamp": "2026-10-16T12:33:45.276874+00:00",
@@ -253,7 +266,7 @@
     {
       "id": "1792040645_1",
       "timestamp": "2026-10-15T05:04:05.250713+00:00",
-      "title": "L&#x27;Égypte s&#x27;impose comme le premier fournisseur de patates douces du marché européen",
+      "title": "L’Égypte devient le premier fournisseur de patates douces du marché européen",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -264,7 +277,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Égypte s&#x27;impose comme le premier fournisseur de patates douces du marché européen -- <span class=\"news-date\">15/10/2026 06:05</span></div><div class=\"news-body\">Les exportations égyptiennes de patates douces ont connu une croissance significative, hissant l&#x27;Égypte au rang de première origine en volume pour le marché européen. Cette progression s&#x27;inscrit dans un contexte de contraction de la production mondiale globale sur les deux dernières décennies, permettant à l&#x27;origine égyptienne de s&#x27;imposer comme la référence économique par défaut. <span class=\"news-reason\">Analyse stratégique de la domination d&#x27;une origine concurrente sur un produit clé de Mehadrin avec des données historiques de marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882297/l-egitto-e-diventata-l-origine-predefinita-pur-continuando-a-essere-percepita-come-quella-economica/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L’Égypte devient le premier fournisseur de patates douces du marché européen -- <span class=\"news-date\">15/10/2026 06:05</span></div><div class=\"news-body\">Les exportations égyptiennes de patates douces ont connu une croissance significative, hissant l&#x27;Égypte au rang de première origine en volume pour le marché européen. Cette progression s&#x27;inscrit dans un contexte de contraction de la production mondiale globale sur les deux dernières décennies, permettant à l&#x27;origine égyptienne de s&#x27;imposer comme la référence économique par défaut. <span class=\"news-reason\">Analyse stratégique de la domination d&#x27;une origine concurrente sur un produit clé de Mehadrin avec des données historiques de marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882297/l-egitto-e-diventata-l-origine-predefinita-pur-continuando-a-essere-percepita-come-quella-economica/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Egypt becomes the leading supplier of sweet potatoes to the European market -- <span class=\"news-date\">15/10/2026 06:05</span></div><div class=\"news-body\">Egyptian sweet potato exports have experienced significant growth, raising Egypt to the rank of the leading origin by volume for the European market. This progress is part of a context of contraction in overall global production over the last two decades, allowing the Egyptian origin to establish itself as the default economic reference. <span class=\"news-reason\">Strategic analysis of the dominance of a competing origin on a key Mehadrin product with historical market data.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882297/l-egitto-e-diventata-l-origine-predefinita-pur-continuando-a-essere-percepita-come-quella-economica/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מצרים הופכת לספקית הבטטות המובילה בשוק האירופי -- <span class=\"news-date\">15/10/2026 06:05</span></div><div class=\"news-body\">הייצוא המצרי של בטטות רשם צמיחה משמעותית, והעלה את מצרים למעמד של מקור האספקה הראשון בנפח עבור השוק האירופי. התקדמות זו מתרחשת על רקע התכווצות בייצור העולמי הכולל בשני העשורים האחרונים, מה שמאפשר למקור המצרי לבסס את עצמו כנקודת הייחוס הכלכלית המוגדרת כברירת מחדל. <span class=\"news-reason\">ניתוח אסטרטגי של הדומיננטיות של מקור מתחרה במוצר מפתח של מהדרין עם נתוני שוק היסטוריים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882297/l-egitto-e-diventata-l-origine-predefinita-pur-continuando-a-essere-percepita-come-quella-economica/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -408,7 +421,7 @@
     {
       "id": "1791986660_1",
       "timestamp": "2026-10-14T14:04:20.281505+00:00",
-      "title": "Bilan carbone positif pour la mandarine Nadorcott en Espagne",
+      "title": "Bilan carbone positif de la mandarine Nadorcott en Espagne",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -419,7 +432,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Bilan carbone positif pour la mandarine Nadorcott en Espagne -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">Nadorcott Spain a présenté une étude lors de Fruit Attraction démontrant que les plantations de mandarines Nadorcott en Espagne capturent davantage de carbone qu&#x27;elles n&#x27;en émettent. Cet inventaire s&#x27;appuie sur des données agronomiques réelles collectées sur l&#x27;ensemble des vergers espagnols. <span class=\"news-reason\">Information sur le positionnement marketing et environnemental de la mandarine Nadorcott, produit phare de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883059/un-estudio-verifica-que-las-plantaciones-de-nadorcott-capturan-mas-carbono-del-que-emiten/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Bilan carbone positif de la mandarine Nadorcott en Espagne -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">Nadorcott Spain a présenté une étude lors de Fruit Attraction démontrant que les plantations de mandarines Nadorcott en Espagne capturent davantage de carbone qu&#x27;elles n&#x27;en émettent. Cet inventaire s&#x27;appuie sur des données agronomiques réelles collectées sur l&#x27;ensemble des vergers espagnols. <span class=\"news-reason\">Information sur le positionnement marketing et environnemental de la mandarine Nadorcott, produit phare de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883059/un-estudio-verifica-que-las-plantaciones-de-nadorcott-capturan-mas-carbono-del-que-emiten/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Positive carbon balance for Nadorcott mandarins in Spain -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">Nadorcott Spain presented a study during Fruit Attraction demonstrating that Nadorcott mandarin plantations in Spain capture more carbon than they emit. This inventory is based on real agronomic data collected across all Spanish orchards. <span class=\"news-reason\">Information on the marketing and environmental positioning of the Nadorcott mandarin, a flagship product of Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883059/un-estudio-verifica-que-las-plantaciones-de-nadorcott-capturan-mas-carbono-del-que-emiten/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">מאזן פחמן חיובי למנדרינות נאדורקוט בספרד -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">חברת Nadorcott Spain הציגה מחקר במהלך תערוכת Fruit Attraction המדגים כי מטעי המנדרינות מסוג נאדורקוט בספרד קולטים יותר פחמן ממה שהם פולטים. הערכה זו מתבססת על נתונים אגרונומיים אמיתיים שנאספו מכלל המטעים בספרד. <span class=\"news-reason\">מידע על המיצוב השיווקי והסביבתי של מנדרינת הנאדורקוט, מוצר הדגל של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883059/un-estudio-verifica-que-las-plantaciones-de-nadorcott-capturan-mas-carbono-del-que-emiten/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -667,58 +680,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pérou : la production d&#x27;avocats Hass menacée par El Niño -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">Santiago Pastor, expert en agronomie, avertit que le phénomène El Niño menace la production d&#x27;avocats Hass au Pérou. L&#x27;élévation des températures nocturnes durant les étapes critiques du cycle de culture risque d&#x27;impacter les rendements et la qualité des récoltes destinées à l&#x27;exportation. <span class=\"news-reason\">Alerte sur la menace climatique (El Niño) pesant sur un produit Mehadrin (avocat Hass) chez un concurrent majeur (Pérou).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882619/el-nino-amenaza-la-produccion-de-mango-arandano-palta-y-uva-en-peru/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">El Niño threatens Peruvian Hass avocado production -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">Santiago Pastor, an agronomy expert, warns that the El Niño phenomenon threatens Hass avocado production in Peru. Rising nighttime temperatures during critical stages of the crop cycle risk impacting yields and the quality of harvests destined for export. <span class=\"news-reason\">Alert on the climate threat (El Niño) weighing on a Mehadrin product (Hass avocado) at a major competitor (Peru).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882619/el-nino-amenaza-la-produccion-de-mango-arandano-palta-y-uva-en-peru/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">אל ניניו מאיים על ייצור האבוקדו האס בפרו -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">סנטיאגו פסטור, מומחה לאגרונומיה, מזהיר כי תופעת האל ניניו מאיימת על ייצור האבוקדו האס בפרו. עליית הטמפרטורות בלילה בשלבים הקריטיים של מחזור הגידול עלולה להשפיע על היבולים ועל איכות הקטיף המיועד לייצוא. <span class=\"news-reason\">התראה על איום אקלימי (אל ניניו) המכביד על מוצר מהדרין (אבוקדו האס) אצל מתחרה מרכזי (פרו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882619/el-nino-amenaza-la-produccion-de-mango-arandano-palta-y-uva-en-peru/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791900141_2",
-      "timestamp": "2026-10-13T14:02:21.262697+00:00",
-      "title": "Lancement d&#x27;une campagne de promotion pour les avocats du Pérou -- 13/10/2026 13:29",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "PER"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Lancement d&#x27;une campagne de promotion pour les avocats du Pérou -- <span class=\"news-date\">13/10/2026 13:29</span></div><div class=\"news-body\">La Peruvian Avocado Commission (PAC) lance sa campagne 2026 associant le sport et la vente au détail. Présentée lors du Global Produce &amp; Floral Show, cette initiative vise à coordonner les promotions chez les détaillants américains avec des événements sportifs pour stimuler la consommation d&#x27;avocats péruviens. <span class=\"news-reason\">Information sur la stratégie commerciale d&#x27;une origine concurrente majeure pour l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9878254/national-sports-and-retail-campaign-for-avocados-on-display/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Launch of a promotion campaign for Peruvian avocados -- <span class=\"news-date\">13/10/2026 13:29</span></div><div class=\"news-body\">The Peruvian Avocado Commission (PAC) is launching its 2026 campaign combining sports and retail. Presented at the Global Produce &amp; Floral Show, this initiative aims to coordinate promotions at US retailers with sporting events to stimulate consumption of Peruvian avocados. <span class=\"news-reason\">Information on the commercial strategy of a major competing origin for avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9878254/national-sports-and-retail-campaign-for-avocados-on-display/\" target=\"_blank\">FreshPlaza -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תנועות ברשתות שיווק</div><div class=\"news-title\">השקת קמפיין קידום מכירות לאבוקדו מפרו -- <span class=\"news-date\">13/10/2026 13:29</span></div><div class=\"news-body\">נציבות האבוקדו של פרו (PAC) משיקה את קמפיין 2026 המשלב ספורט ומכירה קמעונאית. היוזמה, שהוצגה במהלך תערוכת ה-Global Produce &amp; Floral Show, נועדה לתאם את המבצעים אצל הקמעונאים האמריקאים עם אירועי ספורט כדי לעודד את צריכת האבוקדו מפרו. <span class=\"news-reason\">מידע על האסטרטגיה המסחרית של מקור מתחרה מרכזי בשוק האבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9878254/national-sports-and-retail-campaign-for-avocados-on-display/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791900141_1",
-      "timestamp": "2026-10-13T14:02:21.262697+00:00",
-      "title": "Partenariat stratégique entre Talsa et Iberian Foods sur le marché de l&#x27;avocat en Europe -- 13/10/2026 13:29",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Partenariat stratégique entre Talsa et Iberian Foods sur le marché de l&#x27;avocat en Europe -- <span class=\"news-date\">13/10/2026 13:29</span></div><div class=\"news-body\">Talsa/Onesta Europe et Iberian Foods ont présenté lors de Fruit Attraction 2026 un nouveau modèle de collaboration. Ce partenariat combine le contrôle de l&#x27;approvisionnement en avocats depuis l&#x27;origine avec des services de mûrissage, de conditionnement et de distribution directe sur le marché européen. <span class=\"news-reason\">Mouvement d&#x27;entreprise stratégique concernant le mûrissage et la distribution d&#x27;avocats sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882495/talsa-and-iberian-foods-combine-avocado-supply-ripening-and-distribution-in-europe/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Strategic partnership between Talsa and Iberian Foods in the European avocado market -- <span class=\"news-date\">13/10/2026 13:29</span></div><div class=\"news-body\">Talsa/Onesta Europe and Iberian Foods presented a new collaboration model at Fruit Attraction 2026. This partnership combines avocado supply control from the source with ripening, packaging, and direct distribution services in the European market. <span class=\"news-reason\">Strategic corporate move regarding avocado ripening and distribution in the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882495/talsa-and-iberian-foods-combine-avocado-supply-ripening-and-distribution-in-europe/\" target=\"_blank\">FreshPlaza -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי מותגים</div><div class=\"news-title\">שותפות אסטרטגית בין Talsa ל-Iberian Foods בשוק האבוקדו באירופה -- <span class=\"news-date\">13/10/2026 13:29</span></div><div class=\"news-body\">Talsa/Onesta Europe ו-Iberian Foods הציגו במהלך Fruit Attraction 2026 מודל שיתוף פעולה חדש. שותפות זו משלבת שליטה באספקת האבוקדו מהמקור עם שירותי הבחלה, אריזה והפצה ישירה לשוק האירופי. <span class=\"news-reason\">מהלך עסקי אסטרטגי הנוגע להבחלה והפצה של אבוקדו בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882495/talsa-and-iberian-foods-combine-avocado-supply-ripening-and-distribution-in-europe/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791900141_0",
-      "timestamp": "2026-10-13T14:02:21.262697+00:00",
-      "title": "L&#x27;Égypte s&#x27;impose comme le premier fournisseur de patates douces en Europe -- 13/10/2026 13:54",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "sweet_potato"
-      ],
-      "origins": [
-        "EGY"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Égypte s&#x27;impose comme le premier fournisseur de patates douces en Europe -- <span class=\"news-date\">13/10/2026 13:54</span></div><div class=\"news-body\">L&#x27;Égypte est devenue la première origine en volume sur le marché européen de la patate douce. Cette ascension spectaculaire intervient alors que la production mondiale de ce produit s&#x27;est contractée au cours des deux dernières décennies, permettant aux exportateurs égyptiens de s&#x27;imposer face à la concurrence internationale. <span class=\"news-reason\">L&#x27;article traite de la domination des volumes égyptiens sur le marché européen pour un produit clé de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9882301/l-egypte-s-est-imposee-comme-une-origine-de-premier-plan-mais-reste-percue-comme-une-option-bon-marche/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Egypt establishes itself as the leading supplier of sweet potatoes in Europe -- <span class=\"news-date\">13/10/2026 13:54</span></div><div class=\"news-body\">Egypt has become the leading origin by volume in the European sweet potato market. This spectacular rise comes as global production of this product has contracted over the past two decades, allowing Egyptian exporters to establish themselves against international competition. <span class=\"news-reason\">The article discusses the dominance of Egyptian volumes in the European market for a key Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9882301/l-egypte-s-est-imposee-comme-une-origine-de-premier-plan-mais-reste-percue-comme-une-option-bon-marche/\" target=\"_blank\">FreshPlaza FR -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מצרים מתבססת כספקית הבטטות המובילה באירופה -- <span class=\"news-date\">13/10/2026 13:54</span></div><div class=\"news-body\">מצרים הפכה למקור המוביל מבחינת היקפים בשוק הבטטות האירופי. עלייה מרהיבה זו מתרחשת בזמן שהייצור העולמי של מוצר זה הצטמצם במהלך שני העשורים האחרונים, מה שמאפשר ליצואנים המצריים לבסס את מעמדם מול התחרות הבינלאומית. <span class=\"news-reason\">הכתבה עוסקת בשליטת הכמויות המצריות בשוק האירופי עבור מוצר מפתח של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9882301/l-egypte-s-est-imposee-comme-une-origine-de-premier-plan-mais-reste-percue-comme-une-option-bon-marche/\" target=\"_blank\">FreshPlaza FR -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
