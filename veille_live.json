@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-16T14:03:33.436367+00:00",
-  "article_count": 34,
+  "last_updated": "2026-10-16T15:33:01.255088+00:00",
+  "article_count": 33,
   "attention_points": [
+    {
+      "id": "attention-ca7b9ae35e97f16f",
+      "article_id": "1792164781_0",
+      "url": "https://www.freshplaza.es/article/9883895/camposol-se-incorpora-como-socio-accionista-de-jaliscavo/",
+      "source": "FreshPlaza ES",
+      "title": "Camposol devient actionnaire du producteur mexicain d'avocats Jaliscavo",
+      "summary": "L'entreprise péruvienne Camposol a conclu un accord d'investissement pour devenir actionnaire de Jaliscavo, une société mexicaine regroupant plusieurs producteurs d'avocats.",
+      "origin_code": "PER",
+      "origin_label": "Pérou",
+      "published_at": "2026-10-16T16:48:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 0
+    },
     {
       "id": "attention-971ec9a43d26f0e4",
       "article_id": "1792159413_0",
@@ -17,27 +36,6 @@
       "signal_label": "Prix",
       "icon": "information",
       "products": [],
-      "age_hours": 1
-    },
-    {
-      "id": "attention-4e2c9e1fb2446ba6",
-      "article_id": "1792154025_0",
-      "url": "https://www.hortidaily.com/article/9883310/u-s-tomato-and-strawberry-prices-rise-as-seasonal-supplies-tighten/",
-      "source": "HortiDaily",
-      "title": "Ralentissement des échanges d'avocats sur le marché américain",
-      "summary": "Le marché des produits frais connaît une activité commerciale lente.",
-      "origin_code": "PER",
-      "origin_label": "Pérou",
-      "published_at": "2026-10-16T13:53:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "avocat",
-        "asparagus",
-        "berry"
-      ],
       "age_hours": 2
     },
     {
@@ -57,7 +55,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 23
+      "age_hours": 24
     },
     {
       "id": "attention-1381e9a286640987",
@@ -77,10 +75,29 @@
         "avocat",
         "melon"
       ],
-      "age_hours": 25
+      "age_hours": 26
     }
   ],
   "articles": [
+    {
+      "id": "1792164781_0",
+      "timestamp": "2026-10-16T15:33:01.255088+00:00",
+      "title": "Camposol devient actionnaire du producteur mexicain d&#x27;avocats Jaliscavo",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "PER",
+        "MEX"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Camposol devient actionnaire du producteur mexicain d&#x27;avocats Jaliscavo -- <span class=\"news-date\">16/10/2026 16:48</span></div><div class=\"news-body\">L&#x27;entreprise péruvienne Camposol a conclu un accord d&#x27;investissement pour devenir actionnaire de Jaliscavo, une société mexicaine regroupant plusieurs producteurs d&#x27;avocats. Jaliscavo possède une infrastructure solide pour le conditionnement des fruits. Cette opération, annoncée lors du Global Produce &amp; Floral Show 2026, vise à renforcer la présence de Camposol dans l&#x27;industrie mexicaine de l&#x27;avocat et à sécuriser ses capacités opérationnelles. <span class=\"news-reason\">Investissement stratégique d&#x27;un concurrent majeur (Camposol) dans une structure de production et de conditionnement d&#x27;avocats au Mexique.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883895/camposol-se-incorpora-como-socio-accionista-de-jaliscavo/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL BRAND MOVEMENTS</div><div class=\"news-title\">Camposol becomes a shareholder in Mexican avocado producer Jaliscavo -- <span class=\"news-date\">16/10/2026 16:48</span></div><div class=\"news-body\">Peruvian company Camposol has entered into an investment agreement to become a shareholder in Jaliscavo, a Mexican company grouping several avocado producers. Jaliscavo has a solid infrastructure for fruit packaging. This operation, announced during the Global Produce &amp; Floral Show 2026, aims to strengthen Camposol&#x27;s presence in the Mexican avocado industry and secure its operational capacities. <span class=\"news-reason\">Strategic investment by a major competitor (Camposol) in an avocado production and packaging structure in Mexico.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883895/camposol-se-incorpora-como-socio-accionista-de-jaliscavo/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תנועות מותגים</div><div class=\"news-title\">קמפוסול הופכת לבעלת מניות ביצרנית האבוקדו המקסיקנית Jaliscavo -- <span class=\"news-date\">16/10/2026 16:48</span></div><div class=\"news-body\">החברה הפרואנית קמפוסול (Camposol) חתמה על הסכם השקעה להפיכתה לבעלת מניות ב-Jaliscavo, חברה מקסיקנית המאגדת מספר יצרני אבוקדו. ל-Jaliscavo יש תשתית איתנה לאריזת פירות. המהלך, עליו הוכרז במהלך תערוכת Global Produce &amp; Floral Show 2026, נועד לחזק את נוכחותה של קמפוסול בתעשיית האבוקדו המקסיקנית ולהבטיח את יכולותיה המבצעיות. <span class=\"news-reason\">השקעה אסטרטגית של מתחרה מרכזי (קמפוסול) במבנה ייצור ואריזה של אבוקדו במקסיקו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883895/camposol-se-incorpora-como-socio-accionista-de-jaliscavo/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1792159413_0",
       "timestamp": "2026-10-16T14:03:33.436367+00:00",
@@ -387,7 +404,7 @@
     {
       "id": "1791986660_4",
       "timestamp": "2026-10-14T14:04:20.281505+00:00",
-      "title": "La Tanzanie dépasse ses objectifs d&#x27;exportation d&#x27;avocats à l&#x27;horizon 2030",
+      "title": "La Tanzanie surpasse ses objectifs d&#x27;exportation d&#x27;avocats à l&#x27;horizon 2030",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -396,7 +413,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La Tanzanie dépasse ses objectifs d&#x27;exportation d&#x27;avocats à l&#x27;horizon 2030 -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">La Tanzanie a exporté 52 000 tonnes d&#x27;avocats au cours de la campagne 2025/2026, surpassant avec quatre ans d&#x27;avance son objectif initial de 40 000 tonnes fixé pour 2030. Cela représente une hausse de 237 % par rapport aux 15 433 tonnes enregistrées en 2020/2021. <span class=\"news-reason\">Données chiffrées précises sur les volumes d&#x27;exportation d&#x27;une origine concurrente émergente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881785/las-exportaciones-de-aguacate-de-tanzania-superan-el-objetivo-marcado-para-2030/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La Tanzanie surpasse ses objectifs d&#x27;exportation d&#x27;avocats à l&#x27;horizon 2030 -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">La Tanzanie a exporté 52 000 tonnes d&#x27;avocats au cours de la campagne 2025/2026, surpassant avec quatre ans d&#x27;avance son objectif initial de 40 000 tonnes fixé pour 2030. Cela représente une hausse de 237 % par rapport aux 15 433 tonnes enregistrées en 2020/2021. <span class=\"news-reason\">Données chiffrées précises sur les volumes d&#x27;exportation d&#x27;une origine concurrente émergente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881785/las-exportaciones-de-aguacate-de-tanzania-superan-el-objetivo-marcado-para-2030/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Tanzania surpasses its avocado export targets for 2030 -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">Tanzania exported 52,000 tons of avocados during the 2025/2026 season, surpassing its initial target of 40,000 tons set for 2030 four years ahead of schedule. This represents a 237% increase compared to the 15,433 tons recorded in 2020/2021. <span class=\"news-reason\">Precise data on export volumes from an emerging competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881785/las-exportaciones-de-aguacate-de-tanzania-superan-el-objetivo-marcado-para-2030/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">טנזניה עוקפת את יעדי יצוא האבוקדו שלה לשנת 2030 -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">טנזניה ייצאה 52,000 טונות של אבוקדו במהלך עונת 2025/2026, כשהיא עוקפת בארבע שנים את היעד המקורי שלה שעמד על 40,000 טונות לשנת 2030. מדובר בעלייה של 237% בהשוואה ל-15,433 הטונות שנרשמו ב-2020/2021. <span class=\"news-reason\">נתונים מספריים מדויקים על היקפי היצוא של מקור מתחרה מתפתח.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881785/las-exportaciones-de-aguacate-de-tanzania-superan-el-objetivo-marcado-para-2030/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -421,7 +438,7 @@
     {
       "id": "1791986660_1",
       "timestamp": "2026-10-14T14:04:20.281505+00:00",
-      "title": "Bilan carbone positif de la mandarine Nadorcott en Espagne",
+      "title": "Empreinte carbone positive de la mandarine Nadorcott en Espagne",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -432,7 +449,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Bilan carbone positif de la mandarine Nadorcott en Espagne -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">Nadorcott Spain a présenté une étude lors de Fruit Attraction démontrant que les plantations de mandarines Nadorcott en Espagne capturent davantage de carbone qu&#x27;elles n&#x27;en émettent. Cet inventaire s&#x27;appuie sur des données agronomiques réelles collectées sur l&#x27;ensemble des vergers espagnols. <span class=\"news-reason\">Information sur le positionnement marketing et environnemental de la mandarine Nadorcott, produit phare de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883059/un-estudio-verifica-que-las-plantaciones-de-nadorcott-capturan-mas-carbono-del-que-emiten/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Empreinte carbone positive de la mandarine Nadorcott en Espagne -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">Nadorcott Spain a présenté une étude lors de Fruit Attraction démontrant que les plantations de mandarines Nadorcott en Espagne capturent davantage de carbone qu&#x27;elles n&#x27;en émettent. Cet inventaire s&#x27;appuie sur des données agronomiques réelles collectées sur l&#x27;ensemble des vergers espagnols. <span class=\"news-reason\">Information sur le positionnement marketing et environnemental de la mandarine Nadorcott, produit phare de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883059/un-estudio-verifica-que-las-plantaciones-de-nadorcott-capturan-mas-carbono-del-que-emiten/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Positive carbon balance for Nadorcott mandarins in Spain -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">Nadorcott Spain presented a study during Fruit Attraction demonstrating that Nadorcott mandarin plantations in Spain capture more carbon than they emit. This inventory is based on real agronomic data collected across all Spanish orchards. <span class=\"news-reason\">Information on the marketing and environmental positioning of the Nadorcott mandarin, a flagship product of Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883059/un-estudio-verifica-que-las-plantaciones-de-nadorcott-capturan-mas-carbono-del-que-emiten/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">מאזן פחמן חיובי למנדרינות נאדורקוט בספרד -- <span class=\"news-date\">14/10/2026 15:32</span></div><div class=\"news-body\">חברת Nadorcott Spain הציגה מחקר במהלך תערוכת Fruit Attraction המדגים כי מטעי המנדרינות מסוג נאדורקוט בספרד קולטים יותר פחמן ממה שהם פולטים. הערכה זו מתבססת על נתונים אגרונומיים אמיתיים שנאספו מכלל המטעים בספרד. <span class=\"news-reason\">מידע על המיצוב השיווקי והסביבתי של מנדרינת הנאדורקוט, מוצר הדגל של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883059/un-estudio-verifica-que-las-plantaciones-de-nadorcott-capturan-mas-carbono-del-que-emiten/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -592,7 +609,7 @@
     {
       "id": "1791916433_2",
       "timestamp": "2026-10-13T18:33:53.880103+00:00",
-      "title": "Impact d&#x27;El Niño sur l&#x27;approvisionnement en mangues : hausse des prix au Canada",
+      "title": "Impact d’El Niño sur l’approvisionnement en mangues : hausse des prix au Canada",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -604,7 +621,7 @@
         "BRA",
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact d&#x27;El Niño sur l&#x27;approvisionnement en mangues : hausse des prix au Canada -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">Les volumes de mangues disponibles au Canada sont inférieurs aux niveaux habituels en raison du phénomène El Niño. Le Brésil, qui devrait être en pleine campagne pour les variétés Tommy Atkins et Ataulfo, voit son offre limitée, ce qui provoque une envolée des prix sur le marché. <span class=\"news-reason\">Indicateur de marché important sur les tensions d&#x27;approvisionnement (Brésil/Mexique) et l&#x27;impact sur les prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881794/el-nino-acorta-la-oferta-de-mango-y-dispara-los-precios-en-canada/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact d’El Niño sur l’approvisionnement en mangues : hausse des prix au Canada -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">Les volumes de mangues disponibles au Canada sont inférieurs aux niveaux habituels en raison du phénomène El Niño. Le Brésil, qui devrait être en pleine campagne pour les variétés Tommy Atkins et Ataulfo, voit son offre limitée, ce qui provoque une envolée des prix sur le marché. <span class=\"news-reason\">Indicateur de marché important sur les tensions d&#x27;approvisionnement (Brésil/Mexique) et l&#x27;impact sur les prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881794/el-nino-acorta-la-oferta-de-mango-y-dispara-los-precios-en-canada/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">El Niño reduces mango supply and drives prices up in Canada -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">Available mango volumes in Canada are below usual levels due to the El Niño phenomenon. Brazil, which should be in the middle of its campaign for the Tommy Atkins and Ataulfo varieties, is seeing its supply limited, causing a surge in market prices. <span class=\"news-reason\">Important market indicator regarding supply tensions (Brazil/Mexico) and the impact on prices.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881794/el-nino-acorta-la-offer-de-mango-y-dispara-los-precios-en-canada/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">אל ניניו מצמצם את היצע המנגו ומעלה את המחירים בקנדה -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">כמויות המנגו הזמינות בקנדה נמוכות מהרמות הרגילות בשל תופעת אל ניניו. ברזיל, שאמורה להיות בעיצומה של עונה עבור זני טומי אטקינס ואטאולפו, עדה להיצע מוגבל, מה שגורם לעליית מחירים בשוק. <span class=\"news-reason\">מדד שוק חשוב על מתחי אספקה (ברזיל/מקסיקו) וההשפעה על המחירים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9881794/el-nino-acorta-la-oferta-de-mango-y-dispara-los-precios-en-canada/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -629,7 +646,7 @@
     {
       "id": "1791916433_0",
       "timestamp": "2026-10-13T18:33:53.880103+00:00",
-      "title": "Colombie : la production de mangues devrait enregistrer une baisse de 30 % d&#x27;ici 2026",
+      "title": "Colombie : la production de mangues devrait reculer de 30 % d&#x27;ici 2026",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -640,46 +657,9 @@
       "origins": [
         "COL"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Colombie : la production de mangues devrait enregistrer une baisse de 30 % d&#x27;ici 2026 -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">La production de mangues en Colombie a chuté de 30 % par rapport à la même période en 2025, selon les données de Fedemango d&#x27;octobre 2026. Cette baisse significative entraîne une pénurie dans plusieurs régions, impacte les prix et limite les capacités d&#x27;approvisionnement régulier du marché intérieur et des exportations. <span class=\"news-reason\">Contient des chiffres précis sur la baisse de production (-30 %) d&#x27;une origine concurrente pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882617/reportan-caida-del-30-en-produccion-de-mango-colombiano-en-2026/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Colombie : la production de mangues devrait reculer de 30 % d&#x27;ici 2026 -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">La production de mangues en Colombie a chuté de 30 % par rapport à la même période en 2025, selon les données de Fedemango d&#x27;octobre 2026. Cette baisse significative entraîne une pénurie dans plusieurs régions, impacte les prix et limite les capacités d&#x27;approvisionnement régulier du marché intérieur et des exportations. <span class=\"news-reason\">Contient des chiffres précis sur la baisse de production (-30 %) d&#x27;une origine concurrente pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882617/reportan-caida-del-30-en-produccion-de-mango-colombiano-en-2026/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">30% drop in mango production in Colombia in 2026 -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">Mango production in Colombia has dropped by 30% compared to the same period in 2025, according to Fedemango data from October 2026. This significant decrease is leading to a shortage in several regions, impacting prices and limiting regular supply capacities for the domestic market and exports. <span class=\"news-reason\">Contains precise figures on the production decrease (-30%) of a competing origin for a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882617/reportan-caida-del-30-en-produccion-de-mango-colombiano-en-2026/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 30% בייצור המנגו בקולומביה בשנת 2026 -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">ייצור המנגו בקולומביה ירד ב-30% בהשוואה לתקופה המקבילה בשנת 2025, על פי נתוני Fedemango מאוקטובר 2026. ירידה משמעותית זו מובילה למחסור במספר אזורים, משפיעה על המחירים ומגבילה את יכולות האספקה הסדירה לשוק המקומי ולייצוא. <span class=\"news-reason\">מכיל נתונים מדויקים על הירידה בייצור (30%-) של מקור מתחרה עבור מוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882617/reportan-caida-del-30-en-produccion-de-mango-colombiano-en-2026/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791905559_1",
-      "timestamp": "2026-10-13T15:32:39.919500+00:00",
-      "title": "Égypte : 81 000 tonnes de fruits et légumes frais exportées en une semaine -- 13/10/2026 13:29",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia",
-        "Ophélie"
-      ],
-      "products": [
-        "sweet_potato"
-      ],
-      "origins": [
-        "EGY"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Égypte : 81 000 tonnes de fruits et légumes frais exportées en une semaine -- <span class=\"news-date\">13/10/2026 13:29</span></div><div class=\"news-body\">Entre le 3 et le 9 octobre 2026, l&#x27;Égypte a exporté environ 190 000 tonnes de produits alimentaires. Selon l&#x27;Autorité nationale de sécurité alimentaire (NFSA), ce volume comprend 81 000 tonnes de fruits et légumes frais, expédiés par 1 454 entreprises à travers 4 333 envois. <span class=\"news-reason\">Volumes d&#x27;exportation massifs d&#x27;un concurrent direct sur les agrumes et patates douces avec chiffres précis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882417/egypt-exports-81-000-tons-of-fruit-and-vegetables-in-one-week/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Egypt: 81,000 tons of fresh fruits and vegetables exported in one week -- <span class=\"news-date\">13/10/2026 13:29</span></div><div class=\"news-body\">Between October 3 and 9, 2026, Egypt exported approximately 190,000 tons of food products. According to the National Food Safety Authority (NFSA), this volume includes 81,000 tons of fresh fruits and vegetables, shipped by 1,454 companies through 4,333 shipments. <span class=\"news-reason\">Massive export volumes from a direct competitor in citrus and sweet potatoes with precise figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882417/egypt-exports-81-000-tons-of-fruit-and-vegetables-in-one-week/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מצרים: 81,000 טונות של פירות וירקות טריים יוצאו בשבוע אחד -- <span class=\"news-date\">13/10/2026 13:29</span></div><div class=\"news-body\">בין ה-3 ל-9 באוקטובר 2026, מצרים ייצאה כ-190,000 טונות של מוצרי מזון. לפי הרשות הלאומית לבטיחות מזון (NFSA), נפח זה כולל 81,000 טונות של פירות וירקות טריים, שנשלחו על ידי 1,454 חברות באמצעות 4,333 משלוחים. <span class=\"news-reason\">נפחי ייצוא אדירים של מתחרה ישיר בפירות הדר ובטטות עם נתונים מדויקים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9882417/egypt-exports-81-000-tons-of-fruit-and-vegetables-in-one-week/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1791905559_0",
-      "timestamp": "2026-10-13T15:32:39.919500+00:00",
-      "title": "Pérou : la production d&#x27;avocats Hass menacée par El Niño",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "PER"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pérou : la production d&#x27;avocats Hass menacée par El Niño -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">Santiago Pastor, expert en agronomie, avertit que le phénomène El Niño menace la production d&#x27;avocats Hass au Pérou. L&#x27;élévation des températures nocturnes durant les étapes critiques du cycle de culture risque d&#x27;impacter les rendements et la qualité des récoltes destinées à l&#x27;exportation. <span class=\"news-reason\">Alerte sur la menace climatique (El Niño) pesant sur un produit Mehadrin (avocat Hass) chez un concurrent majeur (Pérou).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882619/el-nino-amenaza-la-produccion-de-mango-arandano-palta-y-uva-en-peru/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">El Niño threatens Peruvian Hass avocado production -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">Santiago Pastor, an agronomy expert, warns that the El Niño phenomenon threatens Hass avocado production in Peru. Rising nighttime temperatures during critical stages of the crop cycle risk impacting yields and the quality of harvests destined for export. <span class=\"news-reason\">Alert on the climate threat (El Niño) weighing on a Mehadrin product (Hass avocado) at a major competitor (Peru).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882619/el-nino-amenaza-la-produccion-de-mango-arandano-palta-y-uva-en-peru/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">אל ניניו מאיים על ייצור האבוקדו האס בפרו -- <span class=\"news-date\">13/10/2026 16:03</span></div><div class=\"news-body\">סנטיאגו פסטור, מומחה לאגרונומיה, מזהיר כי תופעת האל ניניו מאיימת על ייצור האבוקדו האס בפרו. עליית הטמפרטורות בלילה בשלבים הקריטיים של מחזור הגידול עלולה להשפיע על היבולים ועל איכות הקטיף המיועד לייצוא. <span class=\"news-reason\">התראה על איום אקלימי (אל ניניו) המכביד על מוצר מהדרין (אבוקדו האס) אצל מתחרה מרכזי (פרו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9882619/el-nino-amenaza-la-produccion-de-mango-arandano-palta-y-uva-en-peru/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
