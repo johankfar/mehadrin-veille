@@ -1,24 +1,22 @@
 {
-  "last_updated": "2026-10-19T11:01:44.077514+00:00",
+  "last_updated": "2026-10-19T12:32:02.653563+00:00",
   "article_count": 17,
   "attention_points": [
     {
-      "id": "attention-3e6aef89ca3ce067",
-      "article_id": "1792407704_0",
-      "url": "https://www.freshfruitportal.com/news/2026/10/19/global-avocado-26/",
-      "source": "Fresh Fruit Portal",
-      "title": "Le Sommet Mondial de l'Avocat 2026 analysera les mutations",
-      "summary": "La deuxième édition du Global Avocado Summit réunira des représentants du Chili, du Pérou et de la Colombie.",
-      "origin_code": "PER",
-      "origin_label": "Pérou",
-      "published_at": "2026-10-19T11:00:07+00:00",
+      "id": "attention-17413a00f0618e95",
+      "article_id": "1792413122_0",
+      "url": "https://www.freshplaza.com/article/9883989/la-unio-is-calling-for-a-16-tariff-on-citrus-fruit-from-third-countries-to-offset-rising-cultivation-costs/",
+      "source": "FreshPlaza",
+      "title": "La Unió réclame une taxe de 16 % sur",
+      "summary": "L'organisation agricole La Unió Llauradora appelle la Commission européenne à instaurer des droits de douane de 16 % sur les importations d'agrumes en provenance de pays tiers.",
+      "origin_code": "ISR",
+      "origin_label": "Israël",
+      "published_at": "2026-10-19T13:37:00+02:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
-      "products": [
-        "avocat"
-      ],
+      "products": [],
       "age_hours": 0
     },
     {
@@ -38,14 +36,14 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 6
+      "age_hours": 8
     },
     {
       "id": "attention-c0c4a2247b34ec2a",
       "article_id": "1792386116_2",
       "url": "https://www.freshplaza.it/article/9882720/ogni-avocado-della-tanzania-puo-trovare-un-mercato-di-destinazione/",
       "source": "FreshPlaza IT",
-      "title": "La filière tanzanienne de l'avocat se tourne vers l'Inde",
+      "title": "Le secteur tanzanien de l’avocat s’oriente vers l’Inde face",
       "summary": "Le secteur de l'avocat en Tanzanie est en pleine croissance, mais les exportateurs font face à des difficultés logistiques majeures pour atteindre l'Europe en raison de la situation en mer Rouge.",
       "origin_code": "IND",
       "origin_label": "Inde",
@@ -57,7 +55,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 7
+      "age_hours": 8
     },
     {
       "id": "attention-032ac547692079c1",
@@ -76,10 +74,26 @@
       "products": [
         "orange"
       ],
-      "age_hours": 13
+      "age_hours": 15
     }
   ],
   "articles": [
+    {
+      "id": "1792413122_0",
+      "timestamp": "2026-10-19T12:32:02.653563+00:00",
+      "title": "La Unió réclame une taxe de 16 % sur les agrumes importés en Europe -- 19/10/2026 13:37",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "ISR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La Unió réclame une taxe de 16 % sur les agrumes importés en Europe -- <span class=\"news-date\">19/10/2026 13:37</span></div><div class=\"news-body\">L&#x27;organisation agricole La Unió Llauradora appelle la Commission européenne à instaurer des droits de douane de 16 % sur les importations d&#x27;agrumes en provenance de pays tiers. Cette demande vise à compenser la hausse des coûts de production et la baisse des prix à l&#x27;origine afin de renforcer la compétitivité du secteur européen des agrumes. <span class=\"news-reason\">Demande de régulation tarifaire visant les pays tiers (dont Israël) pour protéger la compétitivité des agrumes européens.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9883989/la-unio-is-calling-for-a-16-tariff-on-citrus-fruit-from-third-countries-to-offset-rising-cultivation-costs/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">La Unió calls for a 16% tax on citrus fruits imported into Europe -- <span class=\"news-date\">19/10/2026 13:37</span></div><div class=\"news-body\">The agricultural organization La Unió Llauradora is calling on the European Commission to introduce 16% customs duties on citrus imports from third countries. This request aims to offset the rise in production costs and the fall in farm-gate prices in order to strengthen the competitiveness of the European citrus sector. <span class=\"news-reason\">Request for tariff regulation targeting third countries (including Israel) to protect the competitiveness of European citrus fruits.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9883989/la-unio-is-calling-for-a-16-tariff-on-citrus-fruit-from-third-countries-to-offset-rising-cultivation-costs/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">La Unió דורשת מס של 16% על פירות הדר המיובאים לאירופה -- <span class=\"news-date\">19/10/2026 13:37</span></div><div class=\"news-body\">הארגון החקלאי La Unió Llauradora קורא לנציבות האירופית להטיל מכס של 16% על יבוא פירות הדר ממדינות שלישיות. בקשה זו נועדה לפצות על עליית עלויות הייצור וירידת המחירים במקור כדי לחזק את התחרותיות של ענף פירות ההדר האירופי. <span class=\"news-reason\">דרישה לרגולציית מכסים המכוונת למדינות שלישיות (כולל ישראל) כדי להגן על התחרותיות של פירות ההדר האירופיים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9883989/la-unio-is-calling-for-a-16-tariff-on-citrus-fruit-from-third-countries-to-offset-rising-cultivation-costs/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1792407704_0",
       "timestamp": "2026-10-19T11:01:44.077514+00:00",
@@ -156,7 +170,7 @@
     {
       "id": "1792386116_2",
       "timestamp": "2026-10-19T05:01:56.630793+00:00",
-      "title": "La filière tanzanienne de l&#x27;avocat se tourne vers l&#x27;Inde face aux crises logistiques",
+      "title": "Le secteur tanzanien de l’avocat s’oriente vers l’Inde face aux défis logistiques",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -167,7 +181,7 @@
       "origins": [
         "IND"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La filière tanzanienne de l&#x27;avocat se tourne vers l&#x27;Inde face aux crises logistiques -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">Le secteur de l&#x27;avocat en Tanzanie est en pleine croissance, mais les exportateurs font face à des difficultés logistiques majeures pour atteindre l&#x27;Europe en raison de la situation en mer Rouge. En conséquence, l&#x27;Inde est devenue le principal marché de destination pour les avocats tanzaniens cette saison. <span class=\"news-reason\">Informations sur la stratégie d&#x27;exportation d&#x27;un pays concurrent (Tanzanie) sur l&#x27;avocat, impacté par les problèmes en Mer Rouge.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882720/ogni-avocado-della-tanzania-puo-trovare-un-mercato-di-destinazione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le secteur tanzanien de l’avocat s’oriente vers l’Inde face aux défis logistiques -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">Le secteur de l&#x27;avocat en Tanzanie est en pleine croissance, mais les exportateurs font face à des difficultés logistiques majeures pour atteindre l&#x27;Europe en raison de la situation en mer Rouge. En conséquence, l&#x27;Inde est devenue le principal marché de destination pour les avocats tanzaniens cette saison. <span class=\"news-reason\">Informations sur la stratégie d&#x27;exportation d&#x27;un pays concurrent (Tanzanie) sur l&#x27;avocat, impacté par les problèmes en Mer Rouge.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882720/ogni-avocado-della-tanzania-puo-trovare-un-mercato-di-destinazione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Tanzanian avocados turn to India in the face of logistical crises -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">The avocado sector in Tanzania is growing rapidly, but exporters are facing major logistical difficulties in reaching Europe due to the situation in the Red Sea. As a result, India has become the main destination market for Tanzanian avocados this season. <span class=\"news-reason\">Information on the export strategy of a competing country (Tanzania) for avocados, impacted by problems in the Red Sea.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882720/ogni-avocado-della-tanzania-puo-trovare-un-mercato-di-destinazione/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">האבוקדו של טנזניה פונה להודו לנוכח המשברים הלוגיסטיים -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">מגזר האבוקדו בטנזניה נמצא בצמיחה מלאה, אך היצואנים מתמודדים עם קשיים לוגיסטיים משמעותיים בהגעה לאירופה בשל המצב בים האדום. כתוצאה מכך, הודו הפכה לשוק היעד העיקרי עבור האבוקדו הטנזני העונה. <span class=\"news-reason\">מידע על אסטרטגיית הייצוא של מדינה מתחרה (טנזניה) עבור אבוקדו, המושפעת מהבעיות בים האדום.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882720/ogni-avocado-della-tanzania-puo-trovare-un-mercato-di-destinazione/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>"
     },
@@ -195,7 +209,7 @@
     {
       "id": "1792386116_0",
       "timestamp": "2026-10-19T05:01:56.630793+00:00",
-      "title": "Clôture de la campagne d&#x27;agrumes d&#x27;Afrique du Sud vers l&#x27;Europe",
+      "title": "Clôture de la campagne d&#x27;exportation d&#x27;agrumes d&#x27;Afrique du Sud vers l&#x27;Europe",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -207,7 +221,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Clôture de la campagne d&#x27;agrumes d&#x27;Afrique du Sud vers l&#x27;Europe -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">La saison d&#x27;exportation d&#x27;agrumes de l&#x27;hémisphère sud touche à sa fin alors que celle de l&#x27;hémisphère nord commence. Les derniers volumes de pomelos et d&#x27;oranges Valencia Midnight en provenance d&#x27;Afrique du Sud sont actuellement en route vers le marché européen, marquant la transition vers les nouvelles récoltes. <span class=\"news-reason\">L&#x27;article traite de la fin de campagne d&#x27;agrumes (pomelos et oranges) d&#x27;un concurrent majeur (Afrique du Sud) vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9883195/non-ho-mai-vissuto-un-annata-come-questa/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Clôture de la campagne d&#x27;exportation d&#x27;agrumes d&#x27;Afrique du Sud vers l&#x27;Europe -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">La saison d&#x27;exportation d&#x27;agrumes de l&#x27;hémisphère sud touche à sa fin alors que celle de l&#x27;hémisphère nord commence. Les derniers volumes de pomelos et d&#x27;oranges Valencia Midnight en provenance d&#x27;Afrique du Sud sont actuellement en route vers le marché européen, marquant la transition vers les nouvelles récoltes. <span class=\"news-reason\">L&#x27;article traite de la fin de campagne d&#x27;agrumes (pomelos et oranges) d&#x27;un concurrent majeur (Afrique du Sud) vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9883195/non-ho-mai-vissuto-un-annata-come-questa/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">End of the South African citrus campaign to Europe -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">The Southern Hemisphere citrus export season is coming to an end as the Northern Hemisphere season begins. The final volumes of grapefruit and Valencia Midnight oranges from South Africa are currently en route to the European market, marking the transition to new harvests. <span class=\"news-reason\">The article discusses the end of the citrus campaign (grapefruit and oranges) from a major competitor (South Africa) to Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9883195/non-ho-mai-vissuto-un-annata-come-questa/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סיום עונת ההדרים מדרום אפריקה לאירופה -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">עונת ייצוא ההדרים של חצי הכדור הדרומי מתקרבת לסיומה בעוד שזו של חצי הכדור הצפוני מתחילה. הכמויות האחרונות של פומלו ותפוזי ולנסיה מידנייט מדרום אפריקה נמצאות כעת בדרכן לשוק האירופי, ומסמנות את המעבר ליבולים החדשים. <span class=\"news-reason\">המאמר עוסק בסיום עונת ההדרים (פומלו ותפוזים) של מתחרה מרכזי (דרום אפריקה) לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9883195/non-ho-mai-vissuto-un-annata-come-questa/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>"
     },
@@ -283,7 +297,7 @@
     {
       "id": "1792229545_0",
       "timestamp": "2026-10-17T09:32:25.003772+00:00",
-      "title": "La séquestration du carbone des plantations espagnoles de Nadorcott est supérieure à leurs émissions",
+      "title": "La séquestration de carbone des plantations espagnoles de Nadorcott excède leurs émissions",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -294,7 +308,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La séquestration du carbone des plantations espagnoles de Nadorcott est supérieure à leurs émissions -- <span class=\"news-date\">16/10/2026 09:51</span></div><div class=\"news-body\">Le Club de Variétés Végétales Protégées (CVVP) a présenté lors du salon Fruit Attraction le premier bilan complet des gaz à effet de serre pour la variété de mandarine Nadorcott en Espagne. L&#x27;étude, s&#x27;appuyant sur des données agronomiques réelles collectées sur douze campagnes (2013/14 à 2024/25), démontre que les vergers espagnols de Nadorcott agissent comme des puits de carbone, captant davantage de CO2 qu&#x27;ils n&#x27;en émettent. <span class=\"news-reason\">Information stratégique sur le positionnement environnemental d&#x27;une variété clé concurrente (Nadorcott Espagne).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883173/studie-bestatigt-dass-nadorcott-plantagen-mehr-kohlenstoff-binden-als-sie-freisetzen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La séquestration de carbone des plantations espagnoles de Nadorcott excède leurs émissions -- <span class=\"news-date\">16/10/2026 09:51</span></div><div class=\"news-body\">Le Club de Variétés Végétales Protégées (CVVP) a présenté lors du salon Fruit Attraction le premier bilan complet des gaz à effet de serre pour la variété de mandarine Nadorcott en Espagne. L&#x27;étude, s&#x27;appuyant sur des données agronomiques réelles collectées sur douze campagnes (2013/14 à 2024/25), démontre que les vergers espagnols de Nadorcott agissent comme des puits de carbone, captant davantage de CO2 qu&#x27;ils n&#x27;en émettent. <span class=\"news-reason\">Information stratégique sur le positionnement environnemental d&#x27;une variété clé concurrente (Nadorcott Espagne).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883173/studie-bestatigt-dass-nadorcott-plantagen-mehr-kohlenstoff-binden-als-sie-freisetzen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Spanish Nadorcott plantations show carbon sequestration higher than their emissions -- <span class=\"news-date\">16/10/2026 09:51</span></div><div class=\"news-body\">The Protected Plant Varieties Club (CVVP) presented the first complete greenhouse gas assessment for the Nadorcott mandarin variety in Spain at the Fruit Attraction trade fair. The study, based on real agronomic data collected over twelve seasons (2013/14 to 2024/25), demonstrates that Spanish Nadorcott orchards act as carbon sinks, capturing more CO2 than they emit. <span class=\"news-reason\">Strategic information on the environmental positioning of a key competing variety (Nadorcott Spain).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883173/studie-bestatigt-dass-nadorcott-plantagen-mehr-kohlenstoff-binden-als-sie-freisetzen/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מטעי הנאדורקוט הספרדיים מציגים קיבוע פחמן הגבוה מהפליטות שלהם -- <span class=\"news-date\">16/10/2026 09:51</span></div><div class=\"news-body\">מועדון הזנים הצמחיים המוגנים (CVVP) הציג במהלך תערוכת Fruit Attraction את מאזן גזי החממה המלא הראשון עבור זן המנדרינה נאדורקוט בספרד. המחקר, המתבסס על נתונים אגרונומיים אמיתיים שנאספו לאורך שתים עשרה עונות (2013/14 עד 2024/25), מוכיח כי מטעי הנאדורקוט הספרדיים פועלים ככיורי פחמן, הקולטים יותר CO2 ממה שהם פולטים. <span class=\"news-reason\">מידע אסטרטגי על המיצוב הסביבתי של זן מפתח מתחרה (נאדורקוט ספרד).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883173/studie-bestatigt-dass-nadorcott-plantagen-mehr-kohlenstoff-binden-als-sie-freisetzen/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
@@ -369,22 +383,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Ralentissement des échanges d&#x27;avocats sur le marché américain -- <span class=\"news-date\">16/10/2026 13:53</span></div><div class=\"news-body\">Le marché des produits frais aux États-Unis signale que les échanges d&#x27;avocats restent lents. Cette situation s&#x27;inscrit dans un contexte de transition saisonnière affectant la disponibilité de plusieurs produits frais, bien que les expéditions de myrtilles du Pérou soient en hausse. <span class=\"news-reason\">Indicateur de tendance sur le marché américain de l&#x27;avocat lors de la transition saisonnière.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9883310/u-s-tomato-and-strawberry-prices-rise-as-seasonal-supplies-tighten/\" target=\"_blank\">HortiDaily -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Slowdown in avocado trade on the US market -- <span class=\"news-date\">16/10/2026 13:53</span></div><div class=\"news-body\">The fresh produce market in the United States reports that avocado trade remains slow. This situation occurs within a context of seasonal transition affecting the availability of several fresh products, although blueberry shipments from Peru are on the rise. <span class=\"news-reason\">Trend indicator on the US avocado market during the seasonal transition.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9883310/u-s-tomato-and-strawberry-prices-rise-as-seasonal-supplies-tighten/\" target=\"_blank\">HortiDaily -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">האטה בסחר באבוקדו בשוק האמריקאי -- <span class=\"news-date\">16/10/2026 13:53</span></div><div class=\"news-body\">שוק התוצרת הטרייה בארצות הברית מדווח כי הסחר באבוקדו נותר איטי. מצב זה מתרחש על רקע של מעבר עונתי המשפיע על הזמינות של מספר מוצרים טריים, למרות שמשלוחי האוכמניות מפרו נמצאים במגמת עלייה. <span class=\"news-reason\">מדד מגמה בשוק האבוקדו האמריקאי במהלך המעבר העונתי.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9883310/u-s-tomato-and-strawberry-prices-rise-as-seasonal-supplies-tighten/\" target=\"_blank\">HortiDaily -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1792148570_0",
-      "timestamp": "2026-10-16T11:02:50.530236+00:00",
-      "title": "Les exportations brésiliennes de pastèques triplent en septembre mais reculent sur un an -- 15/10/2026 13:38",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [],
-      "products": [
-        "watermelon"
-      ],
-      "origins": [
-        "BRA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les exportations brésiliennes de pastèques triplent en septembre mais reculent sur un an -- <span class=\"news-date\">15/10/2026 13:38</span></div><div class=\"news-body\">En septembre 2026, les exportations de pastèques de la région brésilienne de Chapada do Apodi ont dépassé les 22 000 tonnes. Ce volume représente plus du triple de celui enregistré en août suite à l&#x27;intensification de la récolte, bien qu&#x27;il marque une baisse de 26 % par rapport à septembre 2025. <span class=\"news-reason\">Données chiffrées précises sur les volumes d&#x27;une origine concurrente (Brésil) pour un produit Mehadrin (pastèque).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/europe/article/9883282/brazilian-watermelon-exports-triple-in-september-but-fall-26-year-on-year/\" target=\"_blank\">FreshPlaza Europe -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Brazilian watermelon exports triple in September but fall year-on-year -- <span class=\"news-date\">15/10/2026 13:38</span></div><div class=\"news-body\">In September 2026, watermelon exports from the Brazilian region of Chapada do Apodi exceeded 22,000 tons. This volume represents more than triple that recorded in August following the intensification of the harvest, although it marks a 26% decrease compared to September 2025. <span class=\"news-reason\">Precise numerical data on volumes from a competing origin (Brazil) for a Mehadrin product (watermelon).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/europe/article/9883282/brazilian-watermelon-exports-triple-in-september-but-fall-26-year-on-year/\" target=\"_blank\">FreshPlaza Europe -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ייצוא האבטיחים מברזיל שילש את עצמו בספטמבר אך ירד בחישוב שנתי -- <span class=\"news-date\">15/10/2026 13:38</span></div><div class=\"news-body\">בספטמבר 2026, ייצוא האבטיחים מאזור שאפאדה דו אפודי שבברזיל עלה על 22,000 טונות. היקף זה גדול פי שלושה מזה שנרשם באוגוסט בעקבות התגברות הקטיף, אם כי הוא מסמן ירידה של 26% לעומת ספטמבר 2025. <span class=\"news-reason\">נתונים מספריים מדויקים על כמויות ממקור מתחרה (ברזיל) עבור מוצר מהדרין (אבטיח).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/europe/article/9883282/brazilian-watermelon-exports-triple-in-september-but-fall-26-year-on-year/\" target=\"_blank\">FreshPlaza Europe -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
