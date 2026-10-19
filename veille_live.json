@@ -1,61 +1,62 @@
 {
-  "last_updated": "2026-10-19T14:02:22.771521+00:00",
-  "article_count": 16,
+  "last_updated": "2026-10-19T15:33:02.160561+00:00",
+  "article_count": 22,
   "attention_points": [
     {
-      "id": "attention-17413a00f0618e95",
-      "article_id": "1792413122_0",
-      "url": "https://www.freshplaza.com/article/9883989/la-unio-is-calling-for-a-16-tariff-on-citrus-fruit-from-third-countries-to-offset-rising-cultivation-costs/",
-      "source": "FreshPlaza",
-      "title": "La Unió réclame une taxe de 16 % sur",
-      "summary": "L'organisation agricole La Unió Llauradora appelle la Commission européenne à instaurer des droits de douane de 16 % sur les importations d'agrumes en provenance de pays tiers.",
-      "origin_code": "ISR",
-      "origin_label": "Israël",
-      "published_at": "2026-10-19T13:37:00+02:00",
+      "id": "attention-f1817081e2ec9282",
+      "article_id": "1792423982_7",
+      "url": "https://www.agrimaroc.ma/producteurs-exportateurs-fruits-legumes-maroc/",
+      "source": "AgriMaroc",
+      "title": "Cartographie des principaux groupes exportateurs de fruits au Maroc",
+      "summary": "Une analyse des acteurs de la filière exportatrice marocaine répertorie les groupes dominants tels qu'Azura, Delassus, Lymouna–Matysha et COPAG.",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-10-19T15:00:59+00:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
-      "products": [],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-fa1009291ea8f316",
-      "article_id": "1792386116_3",
-      "url": "https://www.agrimaroc.ma/salinite-eau-irrigation-maroc/",
-      "source": "AgriMaroc",
-      "title": "Contrainte hydrique et salinité accrue au Maroc",
-      "summary": "La dégradation de l'eau d'irrigation menace les bassins agricoles",
-      "origin_code": "MAR",
-      "origin_label": "Maroc",
-      "published_at": "2026-10-19T04:04:17+00:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
       "products": [
-        "avocat"
+        "avocat",
+        "grape"
       ],
-      "age_hours": 9
+      "age_hours": 0
     },
     {
-      "id": "attention-c0c4a2247b34ec2a",
-      "article_id": "1792386116_2",
-      "url": "https://www.freshplaza.it/article/9882720/ogni-avocado-della-tanzania-puo-trovare-un-mercato-di-destinazione/",
-      "source": "FreshPlaza IT",
-      "title": "La filière tanzanienne de l’avocat se tourne vers l’Inde",
-      "summary": "Le secteur de l'avocat en Tanzanie est en pleine croissance, mais les exportateurs font face à des difficultés logistiques majeures pour atteindre l'Europe en raison de la situation en mer Rouge.",
-      "origin_code": "IND",
-      "origin_label": "Inde",
-      "published_at": "2026-10-19T06:00:00+02:00",
+      "id": "attention-8d0f00b54f332cf1",
+      "article_id": "1792423982_4",
+      "url": "https://www.freshplaza.es/article/9883575/el-sabor-el-color-y-la-estacionalidad-determinan-el-auge-de-la-naranja-sanguina-tarocco-en-el-mercado-europeo/",
+      "source": "FreshPlaza ES",
+      "title": "Expansion de l'orange sanguine Tarocco de Sicile sur",
+      "summary": "Les oranges sanguines siciliennes de la variété Tarocco connaissent une popularité croissante en Europe.",
+      "origin_code": "ITA",
+      "origin_label": "Italie",
+      "published_at": "2026-10-19T16:00:00+02:00",
       "published_at_source": "rss",
       "signal_type": "information",
       "signal_label": "Information",
       "icon": "information",
       "products": [
-        "avocat"
+        "orange"
       ],
-      "age_hours": 10
+      "age_hours": 1
+    },
+    {
+      "id": "attention-d372ea837f13b0f5",
+      "article_id": "1792423982_0",
+      "url": "https://www.freshplaza.es/article/9884275/el-sector-estima-50-000-toneladas-de-granada-mollar-de-elche/",
+      "source": "FreshPlaza ES",
+      "title": "Espagne : 50 000 tonnes prévues pour la grenade",
+      "summary": "La saison de la grenade Mollar d'Elche 2026/2027 a été officiellement lancée en Espagne.",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
+      "published_at": "2026-10-19T16:00:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "information",
+      "products": [],
+      "age_hours": 1
     },
     {
       "id": "attention-032ac547692079c1",
@@ -74,10 +75,145 @@
       "products": [
         "orange"
       ],
-      "age_hours": 16
+      "age_hours": 18
     }
   ],
   "articles": [
+    {
+      "id": "1792423982_7",
+      "timestamp": "2026-10-19T15:33:02.160561+00:00",
+      "title": "Cartographie des principaux groupes exportateurs de fruits au Maroc -- 19/10/2026 15:00",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia",
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Cartographie des principaux groupes exportateurs de fruits au Maroc -- <span class=\"news-date\">19/10/2026 15:00</span></div><div class=\"news-body\">Une analyse des acteurs de la filière exportatrice marocaine répertorie les groupes dominants tels qu&#x27;Azura, Delassus, Lymouna–Matysha et COPAG. Ces structures intégrées gèrent l&#x27;essentiel des volumes d&#x27;agrumes et d&#x27;avocats destinés aux marchés internationaux à partir de différentes zones de production. <span class=\"news-reason\">Intelligence concurrentielle sur les structures d&#x27;exportation (avocats/agrumes) au Maroc.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/producteurs-exportateurs-fruits-legumes-maroc/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Mapping of major fruit exporting groups in Morocco -- <span class=\"news-date\">19/10/2026 15:00</span></div><div class=\"news-body\">An analysis of the actors in the Moroccan export sector lists dominant groups such as Azura, Delassus, Lymouna–Matysha, and COPAG. These integrated structures manage the bulk of citrus and avocado volumes destined for international markets from various production areas. <span class=\"news-reason\">Competitive intelligence on export structures (avocados/citrus) in Morocco.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/producteurs-exportateurs-fruits-legumes-maroc/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">מיפוי קבוצות ייצוא הפירות העיקריות במרוקו -- <span class=\"news-date\">19/10/2026 15:00</span></div><div class=\"news-body\">ניתוח של השחקנים במגזר הייצוא המרוקאי מונה את הקבוצות הדומיננטיות כגון Azura, Delassus, Lymouna–Matysha ו-COPAG. מבנים אינטגרטיביים אלו מנהלים את מרבית כמויות ההדרים והאבוקדו המיועדים לשווקים הבינלאומיים מאזורי ייצור שונים. <span class=\"news-reason\">מודיעין תחרותי על מבני הייצוא (אבוקדו/הדרים) במרוקו.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/producteurs-exportateurs-fruits-legumes-maroc/\" target=\"_blank\">AgriMaroc -- קרא את המאמר</a></div></div>"
+    },
+    {
+      "id": "1792423982_6",
+      "timestamp": "2026-10-19T15:33:02.160561+00:00",
+      "title": "Lancement de cinq nouvelles variétés de mandarines en Espagne -- 19/10/2026 16:00",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de cinq nouvelles variétés de mandarines en Espagne -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">Le secteur agrumicole espagnol a présenté cinq nouvelles variétés de mandarines (Mina, Sando, XLO, Olé et Havva) lors des Journées Citricoles de La Plana. Ces variétés sont destinées à diversifier l&#x27;offre et à prolonger le calendrier de production dans la région de Castellón. <span class=\"news-reason\">Veille variétale sur un produit stratégique (mandarine) chez le concurrent espagnol.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884277/cinco-nuevas-variedades-de-mandarina-presentadas-en-las-vi-jornadas-citricolas-de-la-plana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Launch of five new mandarin varieties in Spain -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">The Spanish citrus sector presented five new mandarin varieties (Mina, Sando, XLO, Olé, and Havva) during the La Plana Citrus Days. These varieties are intended to diversify the offer and extend the production schedule in the Castellón region. <span class=\"news-reason\">Varietal monitoring of a strategic product (mandarin) from the Spanish competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884277/cinco-nuevas-variedades-de-mandarina-presentadas-en-las-vi-jornadas-citricolas-de-la-plana/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">השקת חמישה זנים חדשים של מנדרינות בספרד -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">ענף פירות ההדר בספרד הציג חמישה זנים חדשים של מנדרינות (Mina, Sando, XLO, Olé ו-Havva) במהלך \"ימי ההדרים של לה פלאנה\". זנים אלו נועדו לגוון את ההיצע ולהאריך את לוח הזמנים של הייצור באזור קסטלון. <span class=\"news-reason\">מעקב אחר זנים עבור מוצר אסטרטגי (מנדרינה) אצל המתחרה הספרדי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884277/cinco-nuevas-variedades-de-mandarina-presentadas-en-las-vi-jornadas-citricolas-de-la-plana/\" target=\"_blank\">FreshPlaza ES -- קרא את המאמר</a></div></div>"
+    },
+    {
+      "id": "1792423982_5",
+      "timestamp": "2026-10-19T15:33:02.160561+00:00",
+      "title": "Expansion des exportations de fruits marocains vers l&#x27;Asie du Sud-Est -- 19/10/2026 13:04",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Expansion des exportations de fruits marocains vers l&#x27;Asie du Sud-Est -- <span class=\"news-date\">19/10/2026 13:04</span></div><div class=\"news-body\">Elite Agro Holding a conclu un partenariat avec NOVAFRUIT SRL lors du salon Fruit Attraction 2026. Cet accord vise à développer les exportations de fruits produits au Maroc et aux Émirats arabes unis vers la Thaïlande et le Cambodge, renforçant la présence de la marque Elite sur ces marchés. <span class=\"news-reason\">Mouvement stratégique d&#x27;un concurrent majeur (Elite Fresh Maroc) sur les marchés internationaux.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/elite-fresh-veut-renforcer-ses-exportations-de-fruits-marocains-vers-la-thailande-et-le-cambodge/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Expansion of Moroccan fruit exports to Southeast Asia -- <span class=\"news-date\">19/10/2026 13:04</span></div><div class=\"news-body\">Elite Agro Holding concluded a partnership with NOVAFRUIT SRL during the Fruit Attraction 2026 exhibition. This agreement aims to develop exports of fruits produced in Morocco and the United Arab Emirates to Thailand and Cambodia, strengthening the Elite brand&#x27;s presence in these markets. <span class=\"news-reason\">Strategic move by a major competitor (Elite Fresh Morocco) in international markets.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/elite-fresh-veut-renforcer-ses-exportations-de-fruits-marocains-vers-la-thailande-et-le-cambodge/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות ברשתות שיווק</div><div class=\"news-title\">הרחבת ייצוא הפירות המרוקאים לדרום מזרח אסיה -- <span class=\"news-date\">19/10/2026 13:04</span></div><div class=\"news-body\">Elite Agro Holding חתמה על שותפות עם NOVAFRUIT SRL במהלך תערוכת Fruit Attraction 2026. הסכם זה נועד לפתח את ייצוא הפירות המיוצרים במרוקו ובאיחוד האמירויות לתאילנד ולקמבודיה, ובכך לחזק את נוכחות המותג Elite בשווקים אלו. <span class=\"news-reason\">מהלך אסטרטגי של מתחרה מרכזי (Elite Fresh מרוקו) בשווקים הבינלאומיים.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/elite-fresh-veut-renforcer-ses-exportations-de-fruits-marocains-vers-la-thailande-et-le-cambodge/\" target=\"_blank\">AgriMaroc -- קרא את המאמר</a></div></div>"
+    },
+    {
+      "id": "1792423982_4",
+      "timestamp": "2026-10-19T15:33:02.160561+00:00",
+      "title": "Expansion de l&#x27;orange sanguine Tarocco de Sicile sur le marché européen",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "ITA",
+        "NLD"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Expansion de l&#x27;orange sanguine Tarocco de Sicile sur le marché européen -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">Les oranges sanguines siciliennes de la variété Tarocco connaissent une popularité croissante en Europe. Des grossistes néerlandais rapportent que ce produit devient un incontournable saisonnier dans leurs assortiments, valorisé par sa couleur et ses qualités gustatives auprès des consommateurs européens. <span class=\"news-reason\">Analyse de tendance sur un agrume Mehadrin (orange) au sein du marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883575/el-sabor-el-color-y-la-estacionalidad-determinan-el-auge-de-la-naranja-sanguina-tarocco-en-el-mercado-europeo/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Expansion of Sicilian Tarocco blood orange in the European market -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">Sicilian blood oranges of the Tarocco variety are enjoying growing popularity in Europe. Dutch wholesalers report that this product is becoming a seasonal staple in their assortments, valued for its color and taste qualities by European consumers. <span class=\"news-reason\">Trend analysis on a Mehadrin citrus fruit (orange) within the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883575/el-sabor-el-color-y-la-estacionalidad-determinan-el-auge-de-la-naranja-sanguina-tarocco-en-el-mercado-europeo/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">התרחבות תפוז הדם Tarocco מסיציליה בשוק האירופי -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">תפוזי הדם הסיציליאניים מזן Tarocco זוכים לפופולריות גוברת באירופה. סיטונאים הולנדים מדווחים כי מוצר זה הופך לפריט חובה עונתי במגוון שלהם, המוערך בזכות צבעו ואיכויות הטעם שלו על ידי הצרכנים האירופים. <span class=\"news-reason\">ניתוח מגמות של פרי הדר של מהדרין (תפוז) בתוך השוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883575/el-sabor-el-color-y-la-estacionalidad-determinan-el-auge-de-la-naranja-sanguina-tarocco-en-el-mercado-europeo/\" target=\"_blank\">FreshPlaza ES -- קרא את המאמר</a></div></div>"
+    },
+    {
+      "id": "1792423982_3",
+      "timestamp": "2026-10-19T15:33:02.160561+00:00",
+      "title": "Forte demande de grenades turques Hicaz en Croatie -- 19/10/2026 16:00",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [
+        "pomegranate"
+      ],
+      "origins": [
+        "TUR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Forte demande de grenades turques Hicaz en Croatie -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">La campagne de grenade turque se déroule positivement avec une bonne qualité et une offre stable. En Croatie, la demande est forte pour la variété Hicaz, qui prend le relais sur le marché après la fin de la disponibilité de la variété Wonderful. Les exportateurs prévoient une suite de saison favorable. <span class=\"news-reason\">Information sur la concurrence directe en saison (grenade d&#x27;origine Turquie) et les tendances variétales.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883597/la-granada-turca-se-vende-muy-bien-en-croacia/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Strong demand for Turkish Hicaz pomegranates in Croatia -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">The Turkish pomegranate campaign is proceeding positively with good quality and stable supply. In Croatia, demand is strong for the Hicaz variety, which is taking over the market after the end of the availability of the Wonderful variety. Exporters anticipate a favorable continuation of the season. <span class=\"news-reason\">Information on direct competition in season (pomegranate of Turkish origin) and varietal trends.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883597/la-granada-turca-se-vende-muy-bien-en-croacia/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">ביקוש גבוה לרימוני Hicaz טורקיים בקרואטיה -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">קמפיין הרימונים הטורקי מתקדם בצורה חיובית עם איכות טובה ואספקה יציבה. בקרואטיה קיים ביקוש רב לזן Hicaz, שתופס את מקומו בשוק לאחר סיום הזמינות של זן ה-Wonderful. היצואנים צופים המשך עונה נוח. <span class=\"news-reason\">מידע על תחרות ישירה בעונה (רימון שמקורו בטורקיה) ומגמות של זנים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883597/la-granada-turca-se-vende-muy-bien-en-croacia/\" target=\"_blank\">FreshPlaza ES -- קרא את המאמר</a></div></div>"
+    },
+    {
+      "id": "1792423982_2",
+      "timestamp": "2026-10-19T15:33:02.160561+00:00",
+      "title": "Le Maroc premier fournisseur de fruits et légumes de l&#x27;Espagne en valeur -- 19/10/2026 09:17",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "ESP",
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le Maroc premier fournisseur de fruits et légumes de l&#x27;Espagne en valeur -- <span class=\"news-date\">19/10/2026 09:17</span></div><div class=\"news-body\">Selon les données douanières espagnoles couvrant les sept premiers mois de 2026, le Maroc s&#x27;est imposé comme le principal fournisseur de fruits et légumes frais de l&#x27;Espagne en termes de valeur. Cette analyse souligne la dynamique croissante des exportations marocaines sur le marché espagnol. <span class=\"news-reason\">Données sur les flux d&#x27;exportation d&#x27;une origine concurrente directe (Maroc) vers un marché clé (Espagne).</span></div><div class=\"news-source\"><a href=\"https://cagor.net/le-maroc-saffirme-comme-le-premier-fournisseur-de-fruits-et-legumes-frais-de-lespagne-en-valeur/\" target=\"_blank\">CAGOR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Morocco is Spain&#x27;s leading fruit and vegetable supplier in value -- <span class=\"news-date\">19/10/2026 09:17</span></div><div class=\"news-body\">According to Spanish customs data covering the first seven months of 2026, Morocco has established itself as Spain&#x27;s main supplier of fresh fruits and vegetables in terms of value. This analysis highlights the growing dynamic of Moroccan exports to the Spanish market. <span class=\"news-reason\">Data on export flows from a direct competing origin (Morocco) to a key market (Spain).</span></div><div class=\"news-source\"><a href=\"https://cagor.net/le-maroc-saffirme-comme-le-premier-fournisseur-de-fruits-et-legumes-frais-de-lespagne-en-valeur/\" target=\"_blank\">CAGOR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מרוקו היא ספקית הפירות והירקות המובילה של ספרד מבחינת ערך -- <span class=\"news-date\">19/10/2026 09:17</span></div><div class=\"news-body\">על פי נתוני המכס הספרדי המכסים את שבעת החודשים הראשונים של 2026, מרוקו ביססה את עצמה כספקית העיקרית של פירות וירקות טריים לספרד במונחים של ערך. ניתוח זה מדגיש את הדינמיקה הגוברת של הייצוא המרוקאי לשוק הספרדי. <span class=\"news-reason\">נתונים על זרמי ייצוא ממקור מתחרה ישיר (מרוקו) לשוק מרכזי (ספרד).</span></div><div class=\"news-source\"><a href=\"https://cagor.net/le-maroc-saffirme-comme-le-premier-fournisseur-de-fruits-et-legumes-frais-de-lespagne-en-valeur/\" target=\"_blank\">CAGOR -- קרא את המאמר</a></div></div>"
+    },
+    {
+      "id": "1792423982_1",
+      "timestamp": "2026-10-19T15:33:02.160561+00:00",
+      "title": "Recul de 40 à 50 % de la production d&#x27;avocats en Australie occidentale -- 19/10/2026 13:37",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul de 40 à 50 % de la production d&#x27;avocats en Australie occidentale -- <span class=\"news-date\">19/10/2026 13:37</span></div><div class=\"news-body\">La production d&#x27;avocats en Australie occidentale pour la saison en cours devrait être inférieure de 40 à 50 % par rapport à la saison précédente. L&#x27;exportateur The Avolution assure actuellement ses approvisionnements via d&#x27;autres régions comme le Tri-State et la Nouvelle-Galles du Sud pour compenser ce déficit avant la transition régionale. <span class=\"news-reason\">Contient des chiffres précis sur la baisse de production d&#x27;un produit phare de Mehadrin (avocat).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9884267/western-australian-avocado-production-to-be-approximately-40-50-lower-than-last-season/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">40 to 50% decline in avocado production in Western Australia -- <span class=\"news-date\">19/10/2026 13:37</span></div><div class=\"news-body\">Avocado production in Western Australia for the current season is expected to be 40 to 50% lower than the previous season. The exporter The Avolution is currently securing its supplies through other regions like Tri-State and New South Wales to compensate for this shortfall before the regional transition. <span class=\"news-reason\">Contains precise figures on the production drop of a flagship Mehadrin product (avocado).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9884267/western-australian-avocado-production-to-be-approximately-40-50-lower-than-last-season/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 40 עד 50 אחוזים בייצור האבוקדו במערב אוסטרליה -- <span class=\"news-date\">19/10/2026 13:37</span></div><div class=\"news-body\">ייצור האבוקדו במערב אוסטרליה לעונה הנוכחית צפוי להיות נמוך ב-40 עד 50 אחוזים בהשוואה לעונה הקודמת. היצואנית The Avolution מבטיחה כעת את האספקה שלה דרך אזורים אחרים כמו ה-Tri-State וניו סאות' ויילס כדי לפצות על הגירעון הזה לפני המעבר האזורי. <span class=\"news-reason\">מכיל נתונים מדויקים על הירידה בייצור של מוצר דגל של מהדרין (אבוקדו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9884267/western-australian-avocado-production-to-be-approximately-40-50-lower-than-last-season/\" target=\"_blank\">FreshPlaza -- קרא את המאמר</a></div></div>"
+    },
+    {
+      "id": "1792423982_0",
+      "timestamp": "2026-10-19T15:33:02.160561+00:00",
+      "title": "Espagne : 50 000 tonnes prévues pour la grenade Mollar d&#x27;Elche",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : 50 000 tonnes prévues pour la grenade Mollar d&#x27;Elche -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">La saison de la grenade Mollar d&#x27;Elche 2026/2027 a été officiellement lancée en Espagne. Le secteur prévoit une production d&#x27;environ 50 000 tonnes pour cette campagne. Cette variété bénéficie d&#x27;une Appellation d&#x27;Origine Protégée et la récolte a débuté symboliquement dans la région d&#x27;Alicante. <span class=\"news-reason\">Article sur un produit Mehadrin en saison (grenade) avec des prévisions de volumes chiffrées pour une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884275/el-sector-estima-50-000-toneladas-de-granada-mollar-de-elche/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: 50,000 tons expected for Mollar d&#x27;Elche pomegranates -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">The 2026/2027 Mollar d&#x27;Elche pomegranate season has been officially launched in Spain. The sector expects a production of approximately 50,000 tons for this campaign. This variety benefits from a Protected Designation of Origin and the harvest symbolically began in the Alicante region. <span class=\"news-reason\">Article on a Mehadrin product in season (pomegranate) with quantified volume forecasts for a competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884275/el-sector-estima-50-000-toneladas-de-granada-mollar-de-elche/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד: צפי ל-50,000 טונות עבור רימון מולאר ד'אלצ'ה (Mollar d'Elche) -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">עונת רימוני המולאר ד'אלצ'ה (Mollar d'Elche) לשנת 2026/2027 הושקה רשמית בספרד. המגזר צופה ייצור של כ-50,000 טונות עבור קמפיין זה. זן זה נהנה מכינוי מקור מוגן והקטיף החל באופן סמלי באזור אליקנטה. <span class=\"news-reason\">מאמר על מוצר מהדרין בעונה (רימון) עם תחזיות נפח מספריות עבור מקור מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884275/el-sector-estima-50-000-toneladas-de-granada-mollar-de-elche/\" target=\"_blank\">FreshPlaza ES -- קרא את המאמר</a></div></div>"
+    },
     {
       "id": "1792418542_0",
       "timestamp": "2026-10-19T14:02:22.771521+00:00",
@@ -188,7 +324,7 @@
     {
       "id": "1792386116_2",
       "timestamp": "2026-10-19T05:01:56.630793+00:00",
-      "title": "La filière tanzanienne de l’avocat se tourne vers l’Inde face aux défis logistiques",
+      "title": "La filière tanzanienne de l&#x27;avocat se tourne vers l&#x27;Inde face aux défis logistiques",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -199,7 +335,7 @@
       "origins": [
         "IND"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La filière tanzanienne de l’avocat se tourne vers l’Inde face aux défis logistiques -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">Le secteur de l&#x27;avocat en Tanzanie est en pleine croissance, mais les exportateurs font face à des difficultés logistiques majeures pour atteindre l&#x27;Europe en raison de la situation en mer Rouge. En conséquence, l&#x27;Inde est devenue le principal marché de destination pour les avocats tanzaniens cette saison. <span class=\"news-reason\">Informations sur la stratégie d&#x27;exportation d&#x27;un pays concurrent (Tanzanie) sur l&#x27;avocat, impacté par les problèmes en Mer Rouge.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882720/ogni-avocado-della-tanzania-puo-trovare-un-mercato-di-destinazione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La filière tanzanienne de l&#x27;avocat se tourne vers l&#x27;Inde face aux défis logistiques -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">Le secteur de l&#x27;avocat en Tanzanie est en pleine croissance, mais les exportateurs font face à des difficultés logistiques majeures pour atteindre l&#x27;Europe en raison de la situation en mer Rouge. En conséquence, l&#x27;Inde est devenue le principal marché de destination pour les avocats tanzaniens cette saison. <span class=\"news-reason\">Informations sur la stratégie d&#x27;exportation d&#x27;un pays concurrent (Tanzanie) sur l&#x27;avocat, impacté par les problèmes en Mer Rouge.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882720/ogni-avocado-della-tanzania-puo-trovare-un-mercato-di-destinazione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Tanzanian avocados turn to India in the face of logistical crises -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">The avocado sector in Tanzania is growing rapidly, but exporters are facing major logistical difficulties in reaching Europe due to the situation in the Red Sea. As a result, India has become the main destination market for Tanzanian avocados this season. <span class=\"news-reason\">Information on the export strategy of a competing country (Tanzania) for avocados, impacted by problems in the Red Sea.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882720/ogni-avocado-della-tanzania-puo-trovare-un-mercato-di-destinazione/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">האבוקדו של טנזניה פונה להודו לנוכח המשברים הלוגיסטיים -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">מגזר האבוקדו בטנזניה נמצא בצמיחה מלאה, אך היצואנים מתמודדים עם קשיים לוגיסטיים משמעותיים בהגעה לאירופה בשל המצב בים האדום. כתוצאה מכך, הודו הפכה לשוק היעד העיקרי עבור האבוקדו הטנזני העונה. <span class=\"news-reason\">מידע על אסטרטגיית הייצוא של מדינה מתחרה (טנזניה) עבור אבוקדו, המושפעת מהבעיות בים האדום.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882720/ogni-avocado-della-tanzania-puo-trovare-un-mercato-di-destinazione/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>"
     },
@@ -329,40 +465,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La séquestration de carbone des plantations espagnoles de Nadorcott excède leurs émissions -- <span class=\"news-date\">16/10/2026 09:51</span></div><div class=\"news-body\">Le Club de Variétés Végétales Protégées (CVVP) a présenté lors du salon Fruit Attraction le premier bilan complet des gaz à effet de serre pour la variété de mandarine Nadorcott en Espagne. L&#x27;étude, s&#x27;appuyant sur des données agronomiques réelles collectées sur douze campagnes (2013/14 à 2024/25), démontre que les vergers espagnols de Nadorcott agissent comme des puits de carbone, captant davantage de CO2 qu&#x27;ils n&#x27;en émettent. <span class=\"news-reason\">Information stratégique sur le positionnement environnemental d&#x27;une variété clé concurrente (Nadorcott Espagne).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883173/studie-bestatigt-dass-nadorcott-plantagen-mehr-kohlenstoff-binden-als-sie-freisetzen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Spanish Nadorcott plantations show carbon sequestration higher than their emissions -- <span class=\"news-date\">16/10/2026 09:51</span></div><div class=\"news-body\">The Protected Plant Varieties Club (CVVP) presented the first complete greenhouse gas assessment for the Nadorcott mandarin variety in Spain at the Fruit Attraction trade fair. The study, based on real agronomic data collected over twelve seasons (2013/14 to 2024/25), demonstrates that Spanish Nadorcott orchards act as carbon sinks, capturing more CO2 than they emit. <span class=\"news-reason\">Strategic information on the environmental positioning of a key competing variety (Nadorcott Spain).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883173/studie-bestatigt-dass-nadorcott-plantagen-mehr-kohlenstoff-binden-als-sie-freisetzen/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מטעי הנאדורקוט הספרדיים מציגים קיבוע פחמן הגבוה מהפליטות שלהם -- <span class=\"news-date\">16/10/2026 09:51</span></div><div class=\"news-body\">מועדון הזנים הצמחיים המוגנים (CVVP) הציג במהלך תערוכת Fruit Attraction את מאזן גזי החממה המלא הראשון עבור זן המנדרינה נאדורקוט בספרד. המחקר, המתבסס על נתונים אגרונומיים אמיתיים שנאספו לאורך שתים עשרה עונות (2013/14 עד 2024/25), מוכיח כי מטעי הנאדורקוט הספרדיים פועלים ככיורי פחמן, הקולטים יותר CO2 ממה שהם פולטים. <span class=\"news-reason\">מידע אסטרטגי על המיצוב הסביבתי של זן מפתח מתחרה (נאדורקוט ספרד).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883173/studie-bestatigt-dass-nadorcott-plantagen-mehr-kohlenstoff-binden-als-sie-freisetzen/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1792164781_0",
-      "timestamp": "2026-10-16T15:33:01.255088+00:00",
-      "title": "Camposol prend une participation au capital du producteur d’avocats mexicain Jaliscavo",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "PER",
-        "MEX"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Camposol prend une participation au capital du producteur d’avocats mexicain Jaliscavo -- <span class=\"news-date\">16/10/2026 16:48</span></div><div class=\"news-body\">L&#x27;entreprise péruvienne Camposol a conclu un accord d&#x27;investissement pour devenir actionnaire de Jaliscavo, une société mexicaine regroupant plusieurs producteurs d&#x27;avocats. Jaliscavo possède une infrastructure solide pour le conditionnement des fruits. Cette opération, annoncée lors du Global Produce &amp; Floral Show 2026, vise à renforcer la présence de Camposol dans l&#x27;industrie mexicaine de l&#x27;avocat et à sécuriser ses capacités opérationnelles. <span class=\"news-reason\">Investissement stratégique d&#x27;un concurrent majeur (Camposol) dans une structure de production et de conditionnement d&#x27;avocats au Mexique.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883895/camposol-se-incorpora-como-socio-accionista-de-jaliscavo/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL BRAND MOVEMENTS</div><div class=\"news-title\">Camposol becomes a shareholder in Mexican avocado producer Jaliscavo -- <span class=\"news-date\">16/10/2026 16:48</span></div><div class=\"news-body\">Peruvian company Camposol has entered into an investment agreement to become a shareholder in Jaliscavo, a Mexican company grouping several avocado producers. Jaliscavo has a solid infrastructure for fruit packaging. This operation, announced during the Global Produce &amp; Floral Show 2026, aims to strengthen Camposol&#x27;s presence in the Mexican avocado industry and secure its operational capacities. <span class=\"news-reason\">Strategic investment by a major competitor (Camposol) in an avocado production and packaging structure in Mexico.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883895/camposol-se-incorpora-como-socio-accionista-de-jaliscavo/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תנועות מותגים</div><div class=\"news-title\">קמפוסול הופכת לבעלת מניות ביצרנית האבוקדו המקסיקנית Jaliscavo -- <span class=\"news-date\">16/10/2026 16:48</span></div><div class=\"news-body\">החברה הפרואנית קמפוסול (Camposol) חתמה על הסכם השקעה להפיכתה לבעלת מניות ב-Jaliscavo, חברה מקסיקנית המאגדת מספר יצרני אבוקדו. ל-Jaliscavo יש תשתית איתנה לאריזת פירות. המהלך, עליו הוכרז במהלך תערוכת Global Produce &amp; Floral Show 2026, נועד לחזק את נוכחותה של קמפוסול בתעשיית האבוקדו המקסיקנית ולהבטיח את יכולותיה המבצעיות. <span class=\"news-reason\">השקעה אסטרטגית של מתחרה מרכזי (קמפוסול) במבנה ייצור ואריזה של אבוקדו במקסיקו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883895/camposol-se-incorpora-como-socio-accionista-de-jaliscavo/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1792159413_0",
-      "timestamp": "2026-10-16T14:03:33.436367+00:00",
-      "title": "Le Maroc premier fournisseur de l&#x27;Espagne en valeur pour les fruits et légumes -- 16/10/2026 14:37",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [],
-      "products": [],
-      "origins": [
-        "ESP",
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le Maroc premier fournisseur de l&#x27;Espagne en valeur pour les fruits et légumes -- <span class=\"news-date\">16/10/2026 14:37</span></div><div class=\"news-body\">Au cours des sept premiers mois de l&#x27;année 2026, l&#x27;Espagne a importé 2,87 millions de tonnes de fruits et légumes frais pour une valeur totale de 3,47 milliards d&#x27;euros. Les pays hors Union européenne dominent largement ce marché, fournissant 55 % des volumes et représentant 72 % de la valeur globale (soit 2,49 milliards d&#x27;euros). Le Maroc confirme sa position de premier fournisseur en valeur avec des exportations s&#x27;élevant à 982 millions d&#x27;euros sur cette période. <span class=\"news-reason\">Le Maroc domine le marché des importations espagnoles avec 982 millions d&#x27;euros, constituant un indicateur de concurrence majeur pour les origines de Mehadrin sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9883624/le-maroc-arrive-en-tete-des-importations-espagnoles-de-fruits-et-legumes-en-valeur/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Morocco is Spain&#x27;s leading supplier by value for fruits and vegetables -- <span class=\"news-date\">16/10/2026 14:37</span></div><div class=\"news-body\">During the first seven months of 2026, Spain imported 2.87 million tons of fresh fruits and vegetables for a total value of 3.47 billion euros. Countries outside the European Union largely dominate this market, providing 55% of the volumes and representing 72% of the overall value (amounting to 2.49 billion euros). Morocco confirms its position as the leading supplier by value with exports totaling 982 million euros over this period. <span class=\"news-reason\">Morocco dominates the Spanish import market with 982 million euros, constituting a major competition indicator for Mehadrin&#x27;s origins on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9883624/le-maroc-arrive-en-tete-des-importations-espagnoles-de-fruits-et-legumes-en-valeur/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">מרוקו היא הספקית המובילה של ספרד במונחי ערך עבור פירות וירקות -- <span class=\"news-date\">16/10/2026 14:37</span></div><div class=\"news-body\">במהלך שבעת החודשים הראשונים של שנת 2026, ספרד ייבאה 2.87 מיליון טונות של פירות וירקות טריים בשווי כולל של 3.47 מיליארד אירו. מדינות מחוץ לאיחוד האירופי שולטות במידה רבה בשוק זה, כשהן מספקות 55% מהכמויות ומהוות 72% מהערך הכולל (כלומר 2.49 מיליארד אירו). מרוקו מבססת את מעמדה כספקית המובילה במונחי ערך עם ייצוא המסתכם ב-982 מיליון אירו בתקופה זו. <span class=\"news-reason\">מרוקו שולטת בשוק היבוא הספרדי עם 982 מיליון אירו, המהווים מדד לתחרות משמעותית עבור מקורות האספקה של מהדרין בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9883624/le-maroc-arrive-en-tete-des-importations-espagnoles-de-fruits-et-legumes-en-valeur/\" target=\"_blank\">FreshPlaza FR -- קראו את הכתבה</a></div></div>"
     }
   ]
 }
