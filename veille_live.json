@@ -1,81 +1,163 @@
 {
-  "last_updated": "2026-10-17T15:32:41.271971+00:00",
-  "article_count": 18,
+  "last_updated": "2026-10-19T05:01:56.630793+00:00",
+  "article_count": 15,
   "attention_points": [
     {
-      "id": "attention-ca7b9ae35e97f16f",
-      "article_id": "1792164781_0",
-      "url": "https://www.freshplaza.es/article/9883895/camposol-se-incorpora-como-socio-accionista-de-jaliscavo/",
-      "source": "FreshPlaza ES",
-      "title": "Camposol entre au capital du producteur d'avocats mexicain Jaliscavo",
-      "summary": "L'entreprise péruvienne Camposol a conclu un accord d'investissement pour devenir actionnaire de Jaliscavo, une société mexicaine regroupant plusieurs producteurs d'avocats.",
-      "origin_code": "PER",
-      "origin_label": "Pérou",
-      "published_at": "2026-10-16T16:48:00+02:00",
+      "id": "attention-fa1009291ea8f316",
+      "article_id": "1792386116_3",
+      "url": "https://www.agrimaroc.ma/salinite-eau-irrigation-maroc/",
+      "source": "AgriMaroc",
+      "title": "Contrainte hydrique et salinité accrue au Maroc",
+      "summary": "La dégradation de l'eau d'irrigation menace les bassins agricoles",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-10-19T04:04:17+00:00",
+      "published_at_source": "rss",
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-38bb5eb299c1495c",
+      "article_id": "1792386116_0",
+      "url": "https://www.freshplaza.it/article/9883195/non-ho-mai-vissuto-un-annata-come-questa/",
+      "source": "FreshPlaza IT",
+      "title": "Clôture de la campagne d'agrumes d'Afrique du Sud vers",
+      "summary": "La saison d'exportation d'agrumes de l'hémisphère sud touche à sa fin alors que celle de l'hémisphère nord commence.",
+      "origin_code": "ZAF",
+      "origin_label": "Afrique du Sud",
+      "published_at": "2026-10-19T06:00:00+02:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [
-        "avocat"
+        "orange",
+        "citrus_grapefruit"
       ],
-      "age_hours": 24
+      "age_hours": 1
     },
     {
-      "id": "attention-971ec9a43d26f0e4",
-      "article_id": "1792159413_0",
-      "url": "https://www.freshplaza.fr/article/9883624/le-maroc-arrive-en-tete-des-importations-espagnoles-de-fruits-et-legumes-en-valeur/",
-      "source": "FreshPlaza FR",
-      "title": "Le Maroc premier fournisseur de l'Espagne en valeur pour",
-      "summary": "Au cours des sept premiers mois de l'année 2026, l'Espagne a importé 2,87 millions de tonnes de fruits et légumes frais pour une valeur totale de 3,47 milliards d'euros.",
-      "origin_code": "MAR",
-      "origin_label": "Maroc",
-      "published_at": "2026-10-16T14:37:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "price",
-      "signal_label": "Prix",
-      "icon": "information",
-      "products": [],
-      "age_hours": 26
-    },
-    {
-      "id": "attention-4c475c7abb2c3d3f",
-      "article_id": "1792251161_0",
-      "url": "https://www.hortidaily.com/article/9882996/kenya-plans-us-35-million-cold-chain-hub-to-cut-horticultural-export-costs/",
-      "source": "HortiDaily",
-      "title": "Le Kenya projette un hub logistique de 35 millions",
-      "summary": "Le Kenya, soutenu par les Pays-Bas et l'Union européenne, projette la création d'un hub de chaîne du froid à Naivasha pour un investissement de 30 millions d'euros (environ 35 millions USD).",
-      "origin_code": "NLD",
-      "origin_label": "Pays-Bas",
-      "published_at": "2026-10-16T13:53:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "information",
-      "products": [],
-      "age_hours": 27
-    },
-    {
-      "id": "attention-58d10be8660ce1df",
-      "article_id": "1792240367_1",
-      "url": "https://www.freshplaza.com/article/9883843/drought-leaves-indian-pomegranate-exporters-short-of-suitable-fruit/",
-      "source": "FreshPlaza",
-      "title": "Impact de la sécheresse sur la qualité des grenades",
-      "summary": "Les difficultés d'approvisionnement perturbent les expéditions vers l'étranger",
+      "id": "attention-c0c4a2247b34ec2a",
+      "article_id": "1792386116_2",
+      "url": "https://www.freshplaza.it/article/9882720/ogni-avocado-della-tanzania-puo-trovare-un-mercato-di-destinazione/",
+      "source": "FreshPlaza IT",
+      "title": "L'avocat de Tanzanie se tourne vers l'Inde face",
+      "summary": "Le secteur de l'avocat en Tanzanie est en pleine croissance, mais les exportateurs font face à des difficultés logistiques majeures pour atteindre l'Europe en raison de la situation en mer Rouge.",
       "origin_code": "IND",
       "origin_label": "Inde",
-      "published_at": "2026-10-16T13:35:00+02:00",
+      "published_at": "2026-10-19T06:00:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 1
+    },
+    {
+      "id": "attention-032ac547692079c1",
+      "article_id": "1792386116_1",
+      "url": "https://www.agrimaroc.ma/alerte-meteo-maroc-orages-grele-18-19-octobre-2026/",
+      "source": "AgriMaroc",
+      "title": "Risque de grêle et fortes pluies au Maroc",
+      "summary": "Alerte orange météo menaçant les cultures dans 24 provinces",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-10-18T21:05:54+00:00",
       "published_at_source": "rss",
       "signal_type": "weather",
       "signal_label": "Météo",
       "icon": "weather",
       "products": [
-        "pomegranate"
+        "orange"
       ],
-      "age_hours": 27
+      "age_hours": 7
     }
   ],
   "articles": [
+    {
+      "id": "1792386116_3",
+      "timestamp": "2026-10-19T05:01:56.630793+00:00",
+      "title": "Problèmes de salinité de l&#x27;eau d&#x27;irrigation dans les bassins agricoles marocains -- 19/10/2026 04:04",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia",
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Problèmes de salinité de l&#x27;eau d&#x27;irrigation dans les bassins agricoles marocains -- <span class=\"news-date\">19/10/2026 04:04</span></div><div class=\"news-body\">La salinité de l&#x27;eau d&#x27;irrigation représente une contrainte agronomique croissante dans plusieurs bassins agricoles du Maroc, notamment dans le Souss-Massa et le Haouz. Cette dégradation de la qualité de l&#x27;eau, liée à la pression sur les ressources hydriques, menace directement les rendements des cultures. <span class=\"news-reason\">Alerte sur la qualité de l&#x27;eau (salinité) impactant la production dans des zones clés du Maroc (Souss-Massa, Haouz) pour les agrumes et avocats.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/salinite-eau-irrigation-maroc/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Salinity issues in irrigation water in Moroccan agricultural basins -- <span class=\"news-date\">19/10/2026 04:04</span></div><div class=\"news-body\">Irrigation water salinity represents an increasing agronomic constraint in several agricultural basins in Morocco, notably in Souss-Massa and Haouz. This degradation of water quality, linked to pressure on water resources, directly threatens crop yields. <span class=\"news-reason\">Alert on water quality (salinity) impacting production in key areas of Morocco (Souss-Massa, Haouz) for citrus and avocados.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/salinite-eau-irrigation-maroc/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">בעיות מליחות במי ההשקיה באגנים החקלאיים במרוקו -- <span class=\"news-date\">19/10/2026 04:04</span></div><div class=\"news-body\">מליחות מי ההשקיה מהווה אילוץ אגרונומי הולך וגובר במספר אגנים חקלאיים במרוקו, במיוחד בסוס-מאסה ובחאוז. הידרדרות זו באיכות המים, הקשורה ללחץ על משאבי המים, מאיימת ישירות על יבולי הגידולים. <span class=\"news-reason\">התראה על איכות המים (מליחות) המשפיעה על הייצור באזורי מפתח במרוקו (סוס-מאסה, חאוז) עבור הדרים ואבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/salinite-eau-irrigation-maroc/\" target=\"_blank\">AgriMaroc -- לקריאת המאמר</a></div></div>"
+    },
+    {
+      "id": "1792386116_2",
+      "timestamp": "2026-10-19T05:01:56.630793+00:00",
+      "title": "L&#x27;avocat de Tanzanie se tourne vers l&#x27;Inde face aux crises logistiques",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "IND"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;avocat de Tanzanie se tourne vers l&#x27;Inde face aux crises logistiques -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">Le secteur de l&#x27;avocat en Tanzanie est en pleine croissance, mais les exportateurs font face à des difficultés logistiques majeures pour atteindre l&#x27;Europe en raison de la situation en mer Rouge. En conséquence, l&#x27;Inde est devenue le principal marché de destination pour les avocats tanzaniens cette saison. <span class=\"news-reason\">Informations sur la stratégie d&#x27;exportation d&#x27;un pays concurrent (Tanzanie) sur l&#x27;avocat, impacté par les problèmes en Mer Rouge.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882720/ogni-avocado-della-tanzania-puo-trovare-un-mercato-di-destinazione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Tanzanian avocados turn to India in the face of logistical crises -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">The avocado sector in Tanzania is growing rapidly, but exporters are facing major logistical difficulties in reaching Europe due to the situation in the Red Sea. As a result, India has become the main destination market for Tanzanian avocados this season. <span class=\"news-reason\">Information on the export strategy of a competing country (Tanzania) for avocados, impacted by problems in the Red Sea.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882720/ogni-avocado-della-tanzania-puo-trovare-un-mercato-di-destinazione/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">האבוקדו של טנזניה פונה להודו לנוכח המשברים הלוגיסטיים -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">מגזר האבוקדו בטנזניה נמצא בצמיחה מלאה, אך היצואנים מתמודדים עם קשיים לוגיסטיים משמעותיים בהגעה לאירופה בשל המצב בים האדום. כתוצאה מכך, הודו הפכה לשוק היעד העיקרי עבור האבוקדו הטנזני העונה. <span class=\"news-reason\">מידע על אסטרטגיית הייצוא של מדינה מתחרה (טנזניה) עבור אבוקדו, המושפעת מהבעיות בים האדום.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882720/ogni-avocado-della-tanzania-puo-trovare-un-mercato-di-destinazione/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>"
+    },
+    {
+      "id": "1792386116_1",
+      "timestamp": "2026-10-19T05:01:56.630793+00:00",
+      "title": "Alerte météo au Maroc : risques de grêle et fortes pluies dans 24 provinces -- 18/10/2026 21:05",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia",
+        "Ophélie",
+        "Sébastien"
+      ],
+      "products": [
+        "avocat",
+        "orange"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Alerte météo au Maroc : risques de grêle et fortes pluies dans 24 provinces -- <span class=\"news-date\">18/10/2026 21:05</span></div><div class=\"news-body\">La Direction générale de la météorologie (DGM) a émis une alerte de niveau orange pour les 18 et 19 octobre 2026. Des averses orageuses accompagnées de grêle et de rafales de vent sont attendues dans 24 provinces du Maroc, avec des cumuls de pluie pouvant atteindre 50 mm. <span class=\"news-reason\">Alerte météo (grêle et précipitations importantes) dans une origine concurrente majeure pour les agrumes et avocats.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/alerte-meteo-maroc-orages-grele-18-19-octobre-2026/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Weather alert in Morocco: risks of hail and heavy rain in 24 provinces -- <span class=\"news-date\">18/10/2026 21:05</span></div><div class=\"news-body\">The General Directorate of Meteorology (DGM) has issued an orange alert for October 18 and 19, 2026. Stormy showers accompanied by hail and wind gusts are expected in 24 provinces of Morocco, with rainfall totals potentially reaching 50 mm. <span class=\"news-reason\">Weather alert (hail and heavy precipitation) in a major competing origin for citrus and avocados.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/alerte-meteo-maroc-orages-grele-18-19-octobre-2026/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">התראת מזג אוויר במרוקו: סיכונים לברד וגשמים עזים ב-24 מחוזות -- <span class=\"news-date\">18/10/2026 21:05</span></div><div class=\"news-body\">המנהל הכללי למטאורולוגיה (DGM) פרסם התראה ברמה כתומה ל-18 ול-19 באוקטובר 2026. סופות רעמים מלוות בברד ובמשבי רוח צפויים ב-24 מחוזות במרוקו, עם כמויות גשם שיכולות להגיע ל-50 מ\"מ. <span class=\"news-reason\">התראת מזג אוויר (ברד ומשקעים משמעותיים) במקור תחרותי מרכזי להדרים ולאבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/alerte-meteo-maroc-orages-grele-18-19-octobre-2026/\" target=\"_blank\">AgriMaroc -- לקריאת המאמר</a></div></div>"
+    },
+    {
+      "id": "1792386116_0",
+      "timestamp": "2026-10-19T05:01:56.630793+00:00",
+      "title": "Clôture de la campagne d&#x27;agrumes d&#x27;Afrique du Sud vers l&#x27;Europe",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange",
+        "citrus_grapefruit"
+      ],
+      "origins": [
+        "ZAF"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Clôture de la campagne d&#x27;agrumes d&#x27;Afrique du Sud vers l&#x27;Europe -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">La saison d&#x27;exportation d&#x27;agrumes de l&#x27;hémisphère sud touche à sa fin alors que celle de l&#x27;hémisphère nord commence. Les derniers volumes de pomelos et d&#x27;oranges Valencia Midnight en provenance d&#x27;Afrique du Sud sont actuellement en route vers le marché européen, marquant la transition vers les nouvelles récoltes. <span class=\"news-reason\">L&#x27;article traite de la fin de campagne d&#x27;agrumes (pomelos et oranges) d&#x27;un concurrent majeur (Afrique du Sud) vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9883195/non-ho-mai-vissuto-un-annata-come-questa/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">End of the South African citrus campaign to Europe -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">The Southern Hemisphere citrus export season is coming to an end as the Northern Hemisphere season begins. The final volumes of grapefruit and Valencia Midnight oranges from South Africa are currently en route to the European market, marking the transition to new harvests. <span class=\"news-reason\">The article discusses the end of the citrus campaign (grapefruit and oranges) from a major competitor (South Africa) to Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9883195/non-ho-mai-vissuto-un-annata-come-questa/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סיום עונת ההדרים מדרום אפריקה לאירופה -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">עונת ייצוא ההדרים של חצי הכדור הדרומי מתקרבת לסיומה בעוד שזו של חצי הכדור הצפוני מתחילה. הכמויות האחרונות של פומלו ותפוזי ולנסיה מידנייט מדרום אפריקה נמצאות כעת בדרכן לשוק האירופי, ומסמנות את המעבר ליבולים החדשים. <span class=\"news-reason\">המאמר עוסק בסיום עונת ההדרים (פומלו ותפוזים) של מתחרה מרכזי (דרום אפריקה) לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9883195/non-ho-mai-vissuto-un-annata-come-questa/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>"
+    },
     {
       "id": "1792251161_0",
       "timestamp": "2026-10-17T15:32:41.271971+00:00",
@@ -148,7 +230,7 @@
     {
       "id": "1792229545_0",
       "timestamp": "2026-10-17T09:32:25.003772+00:00",
-      "title": "La séquestration de carbone des plantations espagnoles de Nadorcott excède leurs émissions",
+      "title": "La séquestration du carbone des plantations espagnoles de Nadorcott excède leurs émissions",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -159,7 +241,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La séquestration de carbone des plantations espagnoles de Nadorcott excède leurs émissions -- <span class=\"news-date\">16/10/2026 09:51</span></div><div class=\"news-body\">Le Club de Variétés Végétales Protégées (CVVP) a présenté lors du salon Fruit Attraction le premier bilan complet des gaz à effet de serre pour la variété de mandarine Nadorcott en Espagne. L&#x27;étude, s&#x27;appuyant sur des données agronomiques réelles collectées sur douze campagnes (2013/14 à 2024/25), démontre que les vergers espagnols de Nadorcott agissent comme des puits de carbone, captant davantage de CO2 qu&#x27;ils n&#x27;en émettent. <span class=\"news-reason\">Information stratégique sur le positionnement environnemental d&#x27;une variété clé concurrente (Nadorcott Espagne).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883173/studie-bestatigt-dass-nadorcott-plantagen-mehr-kohlenstoff-binden-als-sie-freisetzen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La séquestration du carbone des plantations espagnoles de Nadorcott excède leurs émissions -- <span class=\"news-date\">16/10/2026 09:51</span></div><div class=\"news-body\">Le Club de Variétés Végétales Protégées (CVVP) a présenté lors du salon Fruit Attraction le premier bilan complet des gaz à effet de serre pour la variété de mandarine Nadorcott en Espagne. L&#x27;étude, s&#x27;appuyant sur des données agronomiques réelles collectées sur douze campagnes (2013/14 à 2024/25), démontre que les vergers espagnols de Nadorcott agissent comme des puits de carbone, captant davantage de CO2 qu&#x27;ils n&#x27;en émettent. <span class=\"news-reason\">Information stratégique sur le positionnement environnemental d&#x27;une variété clé concurrente (Nadorcott Espagne).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883173/studie-bestatigt-dass-nadorcott-plantagen-mehr-kohlenstoff-binden-als-sie-freisetzen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Spanish Nadorcott plantations show carbon sequestration higher than their emissions -- <span class=\"news-date\">16/10/2026 09:51</span></div><div class=\"news-body\">The Protected Plant Varieties Club (CVVP) presented the first complete greenhouse gas assessment for the Nadorcott mandarin variety in Spain at the Fruit Attraction trade fair. The study, based on real agronomic data collected over twelve seasons (2013/14 to 2024/25), demonstrates that Spanish Nadorcott orchards act as carbon sinks, capturing more CO2 than they emit. <span class=\"news-reason\">Strategic information on the environmental positioning of a key competing variety (Nadorcott Spain).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883173/studie-bestatigt-dass-nadorcott-plantagen-mehr-kohlenstoff-binden-als-sie-freisetzen/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מטעי הנאדורקוט הספרדיים מציגים קיבוע פחמן הגבוה מהפליטות שלהם -- <span class=\"news-date\">16/10/2026 09:51</span></div><div class=\"news-body\">מועדון הזנים הצמחיים המוגנים (CVVP) הציג במהלך תערוכת Fruit Attraction את מאזן גזי החממה המלא הראשון עבור זן המנדרינה נאדורקוט בספרד. המחקר, המתבסס על נתונים אגרונומיים אמיתיים שנאספו לאורך שתים עשרה עונות (2013/14 עד 2024/25), מוכיח כי מטעי הנאדורקוט הספרדיים פועלים ככיורי פחמן, הקולטים יותר CO2 ממה שהם פולטים. <span class=\"news-reason\">מידע אסטרטגי על המיצוב הסביבתי של זן מפתח מתחרה (נאדורקוט ספרד).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883173/studie-bestatigt-dass-nadorcott-plantagen-mehr-kohlenstoff-binden-als-sie-freisetzen/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
@@ -254,7 +336,7 @@
     {
       "id": "1792127004_0",
       "timestamp": "2026-10-16T05:03:24.612023+00:00",
-      "title": "L&#x27;Espagne confirme son rang de premier producteur européen d&#x27;avocats et de mangues",
+      "title": "L&#x27;Espagne conforte sa position de premier producteur européen d&#x27;avocats et de mangues",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -266,139 +348,9 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Espagne confirme son rang de premier producteur européen d&#x27;avocats et de mangues -- <span class=\"news-date\">16/10/2026 06:05</span></div><div class=\"news-body\">En tant que principal producteur de l&#x27;Union européenne, l&#x27;Espagne totalise désormais 24 758 hectares de cultures d&#x27;avocats et 6 148 hectares de mangues. Le développement de ces surfaces reste étroitement lié à la disponibilité des ressources hydriques et à la gestion de la période de récolte. <span class=\"news-reason\">Statistiques précises sur les superficies de culture en Espagne pour deux produits phares de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881829/la-spagna-conta-24-758-ettari-di-avocado-e-6-148-ettari-di-mango/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Espagne conforte sa position de premier producteur européen d&#x27;avocats et de mangues -- <span class=\"news-date\">16/10/2026 06:05</span></div><div class=\"news-body\">En tant que principal producteur de l&#x27;Union européenne, l&#x27;Espagne totalise désormais 24 758 hectares de cultures d&#x27;avocats et 6 148 hectares de mangues. Le développement de ces surfaces reste étroitement lié à la disponibilité des ressources hydriques et à la gestion de la période de récolte. <span class=\"news-reason\">Statistiques précises sur les superficies de culture en Espagne pour deux produits phares de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881829/la-spagna-conta-24-758-ettari-di-avocado-e-6-148-ettari-di-mango/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain consolidates its position as European leader in avocado and mango production -- <span class=\"news-date\">16/10/2026 06:05</span></div><div class=\"news-body\">As the main producer in the European Union, Spain now totals 24,758 hectares of avocado crops and 6,148 hectares of mangoes. The development of these areas remains closely linked to the availability of water resources and the management of the harvest period. <span class=\"news-reason\">Precise statistics on cultivation areas in Spain for two of Mehadrin's flagship products.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881829/la-spagna-conta-24-758-ettari-di-avocado-e-6-148-ettari-di-mango/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד מבססת את מעמדה כמובילה אירופית בייצור אבוקדו ומנגו -- <span class=\"news-date\">16/10/2026 06:05</span></div><div class=\"news-body\">כיצרנית העיקרית באיחוד האירופי, ספרד מונה כיום 24,758 הקטרים של גידולי אבוקדו ו-6,148 הקטרים של מנגו. פיתוח השטחים הללו נותר קשור באופן הדוק לזמינות משאבי המים ולניהול תקופת הקטיף. <span class=\"news-reason\">סטטיסטיקה מדויקת על שטחי הגידול בספרד עבור שני מוצרי דגל של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881829/la-spagna-conta-24-758-ettari-di-avocado-e-6-148-ettari-di-mango/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1792078396_0",
-      "timestamp": "2026-10-15T15:33:16.613677+00:00",
-      "title": "Algeciras et Rotterdam concentrent 80 % des flux d&#x27;avocats Hass colombiens vers l&#x27;Europe",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "COL"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Algeciras et Rotterdam concentrent 80 % des flux d&#x27;avocats Hass colombiens vers l&#x27;Europe -- <span class=\"news-date\">15/10/2026 16:38</span></div><div class=\"news-body\">Les ports d&#x27;Algeciras et de Rotterdam canalisent conjointement 80 % des exportations d&#x27;avocats Hass de Colombie à destination de l&#x27;Europe, selon les données fournies par Corpohass. Cette concentration logistique renforce le rôle stratégique de ces infrastructures pour la distribution des volumes colombiens sur le continent européen. <span class=\"news-reason\">Données précises sur les flux logistiques et les points d&#x27;entrée d&#x27;une origine concurrente majeure (Colombie) vers le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883431/el-80-del-hass-colombiano-destinado-a-europa-entra-por-los-puertos-de-algeciras-y-roterdam/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Algeciras and Rotterdam account for 80% of Colombian Hass avocado flows to Europe -- <span class=\"news-date\">15/10/2026 16:38</span></div><div class=\"news-body\">The ports of Algeciras and Rotterdam jointly channel 80% of Hass avocado exports from Colombia to Europe, according to data provided by Corpohass. This logistical concentration reinforces the strategic role of these infrastructures for the distribution of Colombian volumes on the European continent. <span class=\"news-reason\">Precise data on logistical flows and entry points of a major competing origin (Colombia) to the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883431/el-80-del-hass-colombiano-destinado-a-europa-entra-por-los-puertos-de-algeciras-y-roterdam/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">אלחזירס ורוטרדם מרכזות 80% מזרימת אבוקדו האס מקולומביה לאירופה -- <span class=\"news-date\">15/10/2026 16:38</span></div><div class=\"news-body\">נמלי אלחזירס ורוטרדם מרכזים יחד 80% מיצוא אבוקדו האס מקולומביה לאירופה, על פי נתונים שסיפקה Corpohass. ריכוז לוגיסטי זה מחזק את התפקיד האסטרטגי של תשתיות אלו להפצת הכמויות הקולומביאניות ביבשת אירופה. <span class=\"news-reason\">נתונים מדויקים על תזרימי לוגיסטיקה ונקודות כניסה של מקור מתחרה עיקרי (קולומביה) לשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883431/el-80-del-hass-colombiano-destinado-a-europa-entra-por-los-puertos-de-algeciras-y-roterdam/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1792073011_0",
-      "timestamp": "2026-10-15T14:03:31.338340+00:00",
-      "title": "Accord de distribution exclusif entre Fyffes et Miles Import pour le marché français -- 15/10/2026 14:36",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Ophélie",
-        "Sébastien"
-      ],
-      "products": [
-        "avocat",
-        "melon"
-      ],
-      "origins": [
-        "FRA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Accord de distribution exclusif entre Fyffes et Miles Import pour le marché français -- <span class=\"news-date\">15/10/2026 14:36</span></div><div class=\"news-body\">Le groupe britannique Fyffes et la société française Miles Import, basée à Rungis, ont annoncé un partenariat stratégique d&#x27;une durée de trois ans. Selon cet accord effectif dès janvier prochain, Miles Import deviendra le distributeur exclusif de la marque Fyffes sur le territoire français. <span class=\"news-reason\">Nouveau partenariat de distribution exclusif sur 3 ans en France, marché stratégique pour les avocats et melons.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9883470/miles-import-devient-le-distributeur-unique-de-fyffes-en-france-dans-le-cadre-d-un-partenariat-de-trois-ans/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Exclusive distribution agreement between Fyffes and Miles Import for the French market -- <span class=\"news-date\">15/10/2026 14:36</span></div><div class=\"news-body\">The British group Fyffes and the French company Miles Import, based in Rungis, have announced a strategic three-year partnership. Under this agreement, effective from next January, Miles Import will become the exclusive distributor of the Fyffes brand in the French territory. <span class=\"news-reason\">New 3-year exclusive distribution partnership in France, a strategic market for avocados and melons.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9883470/miles-import-devient-le-distributeur-unique-de-fyffes-en-france-dans-le-cadre-d-un-partenariat-de-trois-ans/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות</div><div class=\"news-title\">הסכם הפצה בלעדי בין Fyffes ל-Miles Import עבור השוק הצרפתי -- <span class=\"news-date\">15/10/2026 14:36</span></div><div class=\"news-body\">הקבוצה הבריטית Fyffes והחברה הצרפתית Miles Import, שבסיסה ברונג'יס, הודיעו על שותפות אסטרטגית למשך שלוש שנים. על פי הסכם זה, שייכנס לתוקף החל מינואר הקרוב, Miles Import תהפוך למפיצה הבלעדית של המותג Fyffes בטריטוריה הצרפתית. <span class=\"news-reason\">שותפות הפצה בלעדית חדשה ל-3 שנים בצרפת, שוק אסטרטגי עבור אבוקדו ומלונים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9883470/miles-import-devient-le-distributeur-unique-de-fyffes-en-france-dans-le-cadre-d-un-partenariat-de-trois-ans/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1792067609_1",
-      "timestamp": "2026-10-15T12:33:29.288840+00:00",
-      "title": "Début de campagne prudent pour les agrumes espagnols face à la fin de saison de l&#x27;hémisphère sud -- 15/10/2026 13:38",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "mandarine",
-        "orange"
-      ],
-      "origins": [
-        "ESP"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Début de campagne prudent pour les agrumes espagnols face à la fin de saison de l&#x27;hémisphère sud -- <span class=\"news-date\">15/10/2026 13:38</span></div><div class=\"news-body\">La campagne espagnole de mandarines, clémentines et oranges débute avec retenue. Les achats des détaillants sont limités alors que la saison de l&#x27;hémisphère sud se termine avec des volumes inférieurs à la moyenne. La production de Satsuma, Marisol et des premières oranges Navelina a commencé, mais la demande reste faible face à des coûts de production qui continuent de grimper. <span class=\"news-reason\">Analyse de la transition de campagne pour les mandarines et oranges, produits clés de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9883163/we-are-used-to-south-africa-having-a-stronger-presence-in-the-early-stages-of-our-campaign/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Cautious start to the Spanish citrus season in the face of the end of the Southern Hemisphere season -- <span class=\"news-date\">15/10/2026 13:38</span></div><div class=\"news-body\">The Spanish mandarin, clementine, and orange campaign is starting with restraint. Retailer purchases are limited as the Southern Hemisphere season concludes with lower-than-average volumes. Production of Satsuma, Marisol, and the first Navelina oranges has begun, but demand remains weak in the face of production costs that continue to climb. <span class=\"news-reason\">Analysis of the campaign transition for mandarins and oranges, key products for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9883163/we-are-used-to-south-africa-having-a-stronger-presence-in-the-early-stages-of-our-campaign/\" target=\"_blank\">FreshPlaza -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">תחילת עונה זהירה להדרים הספרדיים מול סיום העונה בחצי הכדור הדרומי -- <span class=\"news-date\">15/10/2026 13:38</span></div><div class=\"news-body\">עונת המנדרינות, הקלמנטינות והתפוזים הספרדית מתחילה באיפוק. רכישות הקמעונאים מוגבלות בשעה שהעונה בחצי הכדור הדרומי מסתיימת עם כמויות נמוכות מהממוצע. ייצור זני הסאטסומה, המריסול ותפוזי הנבלינה הראשונים החל, אך הביקוש נותר נמוך אל מול עלויות הייצור שממשיכות לעלות. <span class=\"news-reason\">ניתוח המעבר בין העונות עבור מנדרינות ותפוזים, מוצרי מפתח של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9883163/we-are-used-to-south-africa-having-a-stronger-presence-in-the-early-stages-of-our-campaign/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1792067609_0",
-      "timestamp": "2026-10-15T12:33:29.288840+00:00",
-      "title": "Clôture de la campagne des agrumes d’Afrique du Sud vers l’Europe -- 15/10/2026 13:38",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "orange",
-        "citrus_grapefruit"
-      ],
-      "origins": [
-        "ZAF"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Clôture de la campagne des agrumes d’Afrique du Sud vers l’Europe -- <span class=\"news-date\">15/10/2026 13:38</span></div><div class=\"news-body\">La saison des agrumes de l&#x27;hémisphère sud touche à sa fin avec les dernières expéditions de pamplemousses et d&#x27;oranges Valencia Midnight d&#x27;Afrique du Sud vers l&#x27;Europe. Alors que les stocks d&#x27;oranges de gros calibre restent suffisants, une pénurie de petits calibres est observée. Ce déclin des volumes d&#x27;importation coïncide avec la montée en puissance progressive des récoltes dans l&#x27;hémisphère nord. <span class=\"news-reason\">Informations précises sur la fin de campagne d&#x27;une origine concurrente pour les oranges et pamplemousses avec détails sur les calibres.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9883194/i-ve-never-experienced-a-year-like-this-before/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">End of the South African citrus season to Europe -- <span class=\"news-date\">15/10/2026 13:38</span></div><div class=\"news-body\">The Southern Hemisphere citrus season is coming to an end with the final shipments of grapefruit and Valencia Midnight oranges from South Africa to Europe. While stocks of large-caliber oranges remain sufficient, a shortage of small calibers is observed. This decline in import volumes coincides with the gradual ramp-up of harvests in the Northern Hemisphere. <span class=\"news-reason\">Precise information on the end of the season for a competing origin for oranges and grapefruit with details on sizes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9883194/i-ve-never-experienced-a-year-like-this-before/\" target=\"_blank\">FreshPlaza -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">סיום עונת פירות ההדר מדרום אפריקה לאירופה -- <span class=\"news-date\">15/10/2026 13:38</span></div><div class=\"news-body\">עונת פירות ההדר של חצי הכדור הדרומי מגיעה לסיומה עם המשלוחים האחרונים של אשכוליות ותפוזי ולנסיה מידנייט מדרום אפריקה לאירופה. בעוד שמלאי התפוזים בגדלים גדולים נותר מספק, נצפה מחסור בגדלים קטנים. ירידה זו בנפחי הייבוא חופפת לעלייה ההדרגתית של היבולים בחצי הכדור הצפוני. <span class=\"news-reason\">מידע מדויק על סיום העונה של מקור מתחרה עבור תפוזים ואשכוליות עם פרטים על הגדלים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9883194/i-ve-never-experienced-a-year-like-this-before/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1792046063_0",
-      "timestamp": "2026-10-15T06:34:23.906707+00:00",
-      "title": "L&#x27;Égypte lance la production de dattes Ajwa destinées à l&#x27;exportation -- 11/10/2026 05:58",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Jessica"
-      ],
-      "products": [
-        "date"
-      ],
-      "origins": [
-        "EGY"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;Égypte lance la production de dattes Ajwa destinées à l&#x27;exportation -- <span class=\"news-date\">11/10/2026 05:58</span></div><div class=\"news-body\">L&#x27;entreprise J K for Agricultural Investments a finalisé avec succès ses premiers essais de culture de dattes Ajwa en Égypte, d&#x27;après des informations relayées par FreshPlaza. Auparavant réservée à l&#x27;Arabie Saoudite, cette variété haut de gamme va être produite à plus grande échelle en vue d&#x27;une exportation prochaine. <span class=\"news-reason\">Développement d&#x27;une nouvelle variété de dattes premium dans une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/news/ajwa-dates-now-being-grown-in-egypt/\" target=\"_blank\">EastFruit -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Egypt launches production of Ajwa dates for export -- <span class=\"news-date\">11/10/2026 05:58</span></div><div class=\"news-body\">The company J K for Agricultural Investments has successfully finalized its first cultivation trials of Ajwa dates in Egypt, according to information reported by FreshPlaza. Previously exclusive to Saudi Arabia, this premium variety will be produced on a larger scale for upcoming export. <span class=\"news-reason\">Development of a new premium date variety in a competing origin.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/news/ajwa-dates-now-being-grown-in-egypt/\" target=\"_blank\">EastFruit -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מצרים מתחילה בייצור תמרי עג'ווה המיועדים לייצוא -- <span class=\"news-date\">11/10/2026 05:58</span></div><div class=\"news-body\">חברת J K for Agricultural Investments השלימה בהצלחה את ניסויי הגידול הראשונים שלה לתמרי עג'ווה במצרים, על פי מידע שפורסם ב-FreshPlaza. זן פרימיום זה, שהיה בלעדי לערב הסעודית בעבר, ייוצר בקנה מידה רחב יותר לקראת ייצוא בקרוב. <span class=\"news-reason\">פיתוח זן חדש של תמרי פרימיום במקור אספקה מתחרה.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/news/ajwa-dates-now-being-grown-in-egypt/\" target=\"_blank\">EastFruit -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1792040645_1",
-      "timestamp": "2026-10-15T05:04:05.250713+00:00",
-      "title": "L’Égypte s’impose comme le premier fournisseur de patates douces du marché européen.",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "sweet_potato"
-      ],
-      "origins": [
-        "EGY"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L’Égypte s’impose comme le premier fournisseur de patates douces du marché européen. -- <span class=\"news-date\">15/10/2026 06:05</span></div><div class=\"news-body\">Les exportations égyptiennes de patates douces ont connu une croissance significative, hissant l&#x27;Égypte au rang de première origine en volume pour le marché européen. Cette progression s&#x27;inscrit dans un contexte de contraction de la production mondiale globale sur les deux dernières décennies, permettant à l&#x27;origine égyptienne de s&#x27;imposer comme la référence économique par défaut. <span class=\"news-reason\">Analyse stratégique de la domination d&#x27;une origine concurrente sur un produit clé de Mehadrin avec des données historiques de marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882297/l-egitto-e-diventata-l-origine-predefinita-pur-continuando-a-essere-percepita-come-quella-economica/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Egypt becomes the leading supplier of sweet potatoes to the European market -- <span class=\"news-date\">15/10/2026 06:05</span></div><div class=\"news-body\">Egyptian sweet potato exports have experienced significant growth, raising Egypt to the rank of the leading origin by volume for the European market. This progress is part of a context of contraction in overall global production over the last two decades, allowing the Egyptian origin to establish itself as the default economic reference. <span class=\"news-reason\">Strategic analysis of the dominance of a competing origin on a key Mehadrin product with historical market data.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882297/l-egitto-e-diventata-l-origine-predefinita-pur-continuando-a-essere-percepita-come-quella-economica/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מצרים הופכת לספקית הבטטות המובילה בשוק האירופי -- <span class=\"news-date\">15/10/2026 06:05</span></div><div class=\"news-body\">הייצוא המצרי של בטטות רשם צמיחה משמעותית, והעלה את מצרים למעמד של מקור האספקה הראשון בנפח עבור השוק האירופי. התקדמות זו מתרחשת על רקע התכווצות בייצור העולמי הכולל בשני העשורים האחרונים, מה שמאפשר למקור המצרי לבסס את עצמו כנקודת הייחוס הכלכלית המוגדרת כברירת מחדל. <span class=\"news-reason\">ניתוח אסטרטגי של הדומיננטיות של מקור מתחרה במוצר מפתח של מהדרין עם נתוני שוק היסטוריים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882297/l-egitto-e-diventata-l-origine-predefinita-pur-continuando-a-essere-percepita-come-quella-economica/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1792040645_0",
-      "timestamp": "2026-10-15T05:04:05.250713+00:00",
-      "title": "Grenades au Maroc : prévisions de 23 000 tonnes à Berkane -- 15/10/2026 04:40",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Jessica"
-      ],
-      "products": [
-        "pomegranate"
-      ],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Grenades au Maroc : prévisions de 23 000 tonnes à Berkane -- <span class=\"news-date\">15/10/2026 04:40</span></div><div class=\"news-body\">La récolte des grenades a débuté en octobre dans la province de Berkane, au Maroc. Les prévisions locales annoncent environ 23 000 tonnes, sur un total de 26 000 tonnes attendues pour l&#x27;ensemble de la zone d&#x27;intervention de l&#x27;ORMVA de la Moulouya. Cette production est soutenue par une gestion rigoureuse de l&#x27;irrigation. <span class=\"news-reason\">Information cruciale sur les volumes d&#x27;une origine concurrente directe pour un produit Mehadrin en pleine saison.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/grenades-a-berkane-23-000-tonnes-attendues/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Pomegranates in Morocco: forecasts of 23,000 tonnes in Berkane -- <span class=\"news-date\">15/10/2026 04:40</span></div><div class=\"news-body\">The pomegranate harvest began in October in the Berkane province, Morocco. Local forecasts announce approximately 23,000 tonnes, out of a total of 26,000 tonnes expected for the entire intervention zone of the Moulouya ORMVA. This production is supported by rigorous irrigation management. <span class=\"news-reason\">Crucial information on the volumes of a direct competing origin for a Mehadrin product in peak season.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/grenades-a-berkane-23-000-tonnes-attendues/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">רימונים במרוקו: תחזית של 23,000 טון בברקן -- <span class=\"news-date\">15/10/2026 04:40</span></div><div class=\"news-body\">קטיף הרימונים החל באוקטובר במחוז ברקן שבמרוקו. התחזיות המקומיות צופות כ-23,000 טון, מתוך סך של 26,000 טון הצפויים לכלל אזור הפעילות של ה-ORMVA של המולויה. ייצור זה נתמך על ידי ניהול קפדני של ההשקיה. <span class=\"news-reason\">מידע קריטי על כמויות ממקור מתחרה ישיר עבור מוצר מהדרין בשיא העונה.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/grenades-a-berkane-23-000-tonnes-attendues/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
