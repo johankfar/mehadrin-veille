@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-10-19T17:02:52.352529+00:00",
-  "article_count": 25,
+  "last_updated": "2026-10-20T05:02:30.148067+00:00",
+  "article_count": 26,
   "attention_points": [
+    {
+      "id": "attention-340673bab851817a",
+      "article_id": "1792472550_0",
+      "url": "https://www.freshplaza.it/article/9884334/si-ferma-il-trasporto-si-ferma-l-italia/",
+      "source": "FreshPlaza IT",
+      "title": "Menace de paralysie des exportations de fruits en Italie",
+      "summary": "Les protestations des opérateurs logistiques et des agriculteurs s'intensifient dans le sud de l'Italie.",
+      "origin_code": "ITA",
+      "origin_label": "Italie",
+      "published_at": "2026-10-20T06:05:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
+      "products": [],
+      "age_hours": 0
+    },
     {
       "id": "attention-f1817081e2ec9282",
       "article_id": "1792423982_7",
@@ -20,7 +37,7 @@
         "avocat",
         "grape"
       ],
-      "age_hours": 2
+      "age_hours": 14
     },
     {
       "id": "attention-8d0f00b54f332cf1",
@@ -39,7 +56,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 3
+      "age_hours": 15
     },
     {
       "id": "attention-d372ea837f13b0f5",
@@ -56,29 +73,26 @@
       "signal_label": "Volumes",
       "icon": "information",
       "products": [],
-      "age_hours": 3
-    },
-    {
-      "id": "attention-5d87f1912a6dede5",
-      "article_id": "1792429372_1",
-      "url": "https://www.freshplaza.com/article/9884011/chilean-avocados-arrive-as-durian-market-remains-under-pressure/",
-      "source": "FreshPlaza",
-      "title": "Arrivée des avocats du Chili sur le marché",
-      "summary": "Les avocats chiliens commencent à arriver sur le marché après les périodes de fêtes nationales.",
-      "origin_code": "CHL",
-      "origin_label": "Chili",
-      "published_at": "2026-10-19T13:28:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "price",
-      "signal_label": "Prix",
-      "icon": "information",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 5
+      "age_hours": 15
     }
   ],
   "articles": [
+    {
+      "id": "1792472550_0",
+      "timestamp": "2026-10-20T05:02:30.148067+00:00",
+      "title": "Menace de paralysie des exportations de fruits en Italie du Sud -- 20/10/2026 06:05",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "ITA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Menace de paralysie des exportations de fruits en Italie du Sud -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">Les protestations des opérateurs logistiques et des agriculteurs s&#x27;intensifient dans le sud de l&#x27;Italie. Les blocages routiers en cours pourraient se prolonger au-delà de mercredi, menaçant de paralyser le transport de produits frais. Selon les acteurs locaux, l&#x27;arrêt des transports risquerait de bloquer l&#x27;ensemble de la filière italienne. <span class=\"news-reason\">Les blocages routiers en Italie du Sud menacent la logistique d&#x27;une origine concurrente majeure pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884334/si-ferma-il-trasporto-si-ferma-l-italia/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Threat of fruit export paralysis in Southern Italy -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">Protests by logistics operators and farmers are intensifying in southern Italy. Ongoing road blockades could extend beyond Wednesday, threatening to paralyze the transport of fresh products. According to local players, the transport shutdown risks blocking the entire Italian industry. <span class=\"news-reason\">Road blockades in Southern Italy threaten the logistics of a major competing origin for citrus fruits.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884334/si-ferma-il-trasporto-si-ferma-l-italia/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">איום בשיתוק יצוא הפירות בדרום איטליה -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">מחאות מפעילי הלוגיסטיקה והחקלאים מחריפות בדרום איטליה. חסימות הכבישים הנמשכות עלולות להימשך מעבר ליום רביעי, ומאיימות לשתק את הובלת התוצרת הטרייה. לטענת גורמים מקומיים, השבתת ההובלה עלולה לשתק את הענף האיטלקי כולו. <span class=\"news-reason\">חסימות הכבישים בדרום איטליה מאיימות על הלוגיסטיקה של מקור מתחרה מרכזי לפירות הדר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884334/si-ferma-il-trasporto-si-ferma-l-italia/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1792429372_2",
       "timestamp": "2026-10-19T17:02:52.352529+00:00",
@@ -503,7 +517,7 @@
     {
       "id": "1792229545_0",
       "timestamp": "2026-10-17T09:32:25.003772+00:00",
-      "title": "La séquestration du carbone au sein des plantations espagnoles de Nadorcott est supérieure à leurs émissions",
+      "title": "La séquestration du carbone par les plantations espagnoles de Nadorcott excède leurs émissions",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -514,7 +528,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La séquestration du carbone au sein des plantations espagnoles de Nadorcott est supérieure à leurs émissions -- <span class=\"news-date\">16/10/2026 09:51</span></div><div class=\"news-body\">Le Club de Variétés Végétales Protégées (CVVP) a présenté lors du salon Fruit Attraction le premier bilan complet des gaz à effet de serre pour la variété de mandarine Nadorcott en Espagne. L&#x27;étude, s&#x27;appuyant sur des données agronomiques réelles collectées sur douze campagnes (2013/14 à 2024/25), démontre que les vergers espagnols de Nadorcott agissent comme des puits de carbone, captant davantage de CO2 qu&#x27;ils n&#x27;en émettent. <span class=\"news-reason\">Information stratégique sur le positionnement environnemental d&#x27;une variété clé concurrente (Nadorcott Espagne).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883173/studie-bestatigt-dass-nadorcott-plantagen-mehr-kohlenstoff-binden-als-sie-freisetzen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La séquestration du carbone par les plantations espagnoles de Nadorcott excède leurs émissions -- <span class=\"news-date\">16/10/2026 09:51</span></div><div class=\"news-body\">Le Club de Variétés Végétales Protégées (CVVP) a présenté lors du salon Fruit Attraction le premier bilan complet des gaz à effet de serre pour la variété de mandarine Nadorcott en Espagne. L&#x27;étude, s&#x27;appuyant sur des données agronomiques réelles collectées sur douze campagnes (2013/14 à 2024/25), démontre que les vergers espagnols de Nadorcott agissent comme des puits de carbone, captant davantage de CO2 qu&#x27;ils n&#x27;en émettent. <span class=\"news-reason\">Information stratégique sur le positionnement environnemental d&#x27;une variété clé concurrente (Nadorcott Espagne).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883173/studie-bestatigt-dass-nadorcott-plantagen-mehr-kohlenstoff-binden-als-sie-freisetzen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Spanish Nadorcott plantations show carbon sequestration higher than their emissions -- <span class=\"news-date\">16/10/2026 09:51</span></div><div class=\"news-body\">The Protected Plant Varieties Club (CVVP) presented the first complete greenhouse gas assessment for the Nadorcott mandarin variety in Spain at the Fruit Attraction trade fair. The study, based on real agronomic data collected over twelve seasons (2013/14 to 2024/25), demonstrates that Spanish Nadorcott orchards act as carbon sinks, capturing more CO2 than they emit. <span class=\"news-reason\">Strategic information on the environmental positioning of a key competing variety (Nadorcott Spain).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883173/studie-bestatigt-dass-nadorcott-plantagen-mehr-kohlenstoff-binden-als-sie-freisetzen/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מטעי הנאדורקוט הספרדיים מציגים קיבוע פחמן הגבוה מהפליטות שלהם -- <span class=\"news-date\">16/10/2026 09:51</span></div><div class=\"news-body\">מועדון הזנים הצמחיים המוגנים (CVVP) הציג במהלך תערוכת Fruit Attraction את מאזן גזי החממה המלא הראשון עבור זן המנדרינה נאדורקוט בספרד. המחקר, המתבסס על נתונים אגרונומיים אמיתיים שנאספו לאורך שתים עשרה עונות (2013/14 עד 2024/25), מוכיח כי מטעי הנאדורקוט הספרדיים פועלים ככיורי פחמן, הקולטים יותר CO2 ממה שהם פולטים. <span class=\"news-reason\">מידע אסטרטגי על המיצוב הסביבתי של זן מפתח מתחרה (נאדורקוט ספרד).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883173/studie-bestatigt-dass-nadorcott-plantagen-mehr-kohlenstoff-binden-als-sie-freisetzen/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     }
