@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-20T12:33:37.292433+00:00",
-  "article_count": 28,
+  "last_updated": "2026-10-20T14:02:14.666276+00:00",
+  "article_count": 29,
   "attention_points": [
+    {
+      "id": "attention-bc59de52d4ebb5be",
+      "article_id": "1792504934_0",
+      "url": "https://www.freshplaza.com/article/9884341/brazilian-melon-season-off-to-a-good-start-with-optimism-for-november-and-december/",
+      "source": "FreshPlaza",
+      "title": "Début de campagne positif pour les melons du Brésil",
+      "summary": "La campagne de melon brésilien 2026/2027 a débuté avec des perspectives optimistes pour les mois de novembre et décembre.",
+      "origin_code": "BRA",
+      "origin_label": "Brésil",
+      "published_at": "2026-10-20T13:37:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "melon"
+      ],
+      "age_hours": 2
+    },
     {
       "id": "attention-1bd731bc1b8301d8",
       "article_id": "1792499617_1",
@@ -19,26 +38,7 @@
       "products": [
         "melon"
       ],
-      "age_hours": 1
-    },
-    {
-      "id": "attention-0c3254a54234451f",
-      "article_id": "1792499617_2",
-      "url": "https://www.freshplaza.com/article/9884563/by-mid-november-oranges-will-be-sizes-2-4-in-december-even-larger/",
-      "source": "FreshPlaza",
-      "title": "Grèce : des oranges de gros calibre attendues pour",
-      "summary": "La saison des oranges en Étolie-Acarnanie présente des volumes de production légèrement inférieurs pour la variété Navelina, mais une qualité de fruit prometteuse.",
-      "origin_code": "GRC",
-      "origin_label": "Grèce",
-      "published_at": "2026-10-20T13:26:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "orange"
-      ],
-      "age_hours": 1
+      "age_hours": 2
     },
     {
       "id": "attention-3295e284e5e8f927",
@@ -57,7 +57,7 @@
       "products": [
         "mango"
       ],
-      "age_hours": 2
+      "age_hours": 3
     },
     {
       "id": "attention-224f3b8ab08815ab",
@@ -76,10 +76,28 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 8
+      "age_hours": 9
     }
   ],
   "articles": [
+    {
+      "id": "1792504934_0",
+      "timestamp": "2026-10-20T14:02:14.666276+00:00",
+      "title": "Début de campagne positif pour les melons du Brésil vers l&#x27;Europe -- 20/10/2026 13:37",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Sébastien"
+      ],
+      "products": [
+        "melon"
+      ],
+      "origins": [
+        "BRA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Début de campagne positif pour les melons du Brésil vers l&#x27;Europe -- <span class=\"news-date\">20/10/2026 13:37</span></div><div class=\"news-body\">La campagne de melon brésilien 2026/2027 a débuté avec des perspectives optimistes pour les mois de novembre et décembre. Sur le marché européen, la transition entre les melons de production locale et les fruits importés du Brésil s&#x27;est déroulée de manière fluide. Cette situation est principalement attribuée à des volumes d&#x27;importation initiaux plus faibles par rapport à la saison précédente. <span class=\"news-reason\">Contient des informations sur les volumes d&#x27;importation et la transition du marché européen pour un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9884341/brazilian-melon-season-off-to-a-good-start-with-optimism-for-november-and-december/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Positive start of the season for Brazilian melons to Europe -- <span class=\"news-date\">20/10/2026 13:37</span></div><div class=\"news-body\">The 2026/2027 Brazilian melon campaign has started with optimistic outlooks for the months of November and December. In the European market, the transition between locally produced melons and fruit imported from Brazil occurred smoothly. This situation is mainly attributed to lower initial import volumes compared to the previous season. <span class=\"news-reason\">Contains information on import volumes and the European market transition for a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9884341/brazilian-melon-season-off-to-a-good-start-with-optimism-for-november-and-december/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">תחילת עונה חיובית למלונים מברזיל לאירופה -- <span class=\"news-date\">20/10/2026 13:37</span></div><div class=\"news-body\">עונת המלון הברזילאי 2026/2027 החלה עם תחזיות אופטימיות לחודשים נובמבר ודצמבר. בשוק האירופי, המעבר בין מלונים מייצור מקומי לפירות מיובאים מברזיל התבצע בצורה חלקה. מצב זה מיוחס בעיקר לנפחי יבוא ראשוניים נמוכים יותר בהשוואה לעונה הקודמת. <span class=\"news-reason\">מכיל מידע על נפחי היבוא והמעבר בשוק האירופי עבור מוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9884341/brazilian-melon-season-off-to-a-good-start-with-optimism-for-november-and-december/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1792499617_2",
       "timestamp": "2026-10-20T12:33:37.292433+00:00",
@@ -173,7 +191,7 @@
     {
       "id": "1792483350_0",
       "timestamp": "2026-10-20T08:02:30.885693+00:00",
-      "title": "Expansion d’une enseigne premium d&#x27;avocats importés en Arménie",
+      "title": "Expansion d’une enseigne premium d’avocats importés en Arménie",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Ophélie"
@@ -182,14 +200,14 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Expansion d’une enseigne premium d&#x27;avocats importés en Arménie -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">Une chaîne de supermarchés premium basée à Erevan poursuit son expansion sur le marché arménien. Le détaillant se distingue par une offre incluant des avocats importés et des marques européennes, tout en agissant comme distributeur pour d&#x27;autres enseignes locales. L&#x27;entreprise mise sur le gain de temps pour les consommateurs avec des produits frais prêts à l&#x27;emploi et conditionnés. <span class=\"news-reason\">L&#x27;article décrit la croissance d&#x27;un distributeur premium à Erevan qui importe des avocats, offrant des opportunités de débouchés pour les produits Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884380/retailer-premium-in-una-capitale-armena-sovraffollata/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Expansion d’une enseigne premium d’avocats importés en Arménie -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">Une chaîne de supermarchés premium basée à Erevan poursuit son expansion sur le marché arménien. Le détaillant se distingue par une offre incluant des avocats importés et des marques européennes, tout en agissant comme distributeur pour d&#x27;autres enseignes locales. L&#x27;entreprise mise sur le gain de temps pour les consommateurs avec des produits frais prêts à l&#x27;emploi et conditionnés. <span class=\"news-reason\">L&#x27;article décrit la croissance d&#x27;un distributeur premium à Erevan qui importe des avocats, offrant des opportunités de débouchés pour les produits Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884380/retailer-premium-in-una-capitale-armena-sovraffollata/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Expansion in Armenia of a premium imported avocado retailer -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">A premium supermarket chain based in Yerevan is continuing its expansion in the Armenian market. The retailer stands out with an offering that includes imported avocados and European brands, while also acting as a distributor for other local chains. The company focuses on saving time for consumers with fresh, ready-to-use, and packaged products. <span class=\"news-reason\">The article describes the growth of a premium distributor in Yerevan that imports avocados, offering market opportunities for Mehadrin products.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884380/retailer-premium-in-una-capitale-armena-sovraffollata/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תנועות רשתות שיווק</div><div class=\"news-title\">התרחבות בארמניה של רשת פרימיום לאבוקדו מיובא -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">רשת סופרמרקטים פרימיום שבסיסה בירוואן ממשיכה בהתרחבותה בשוק הארמני. הקמעונאי מתבלט בהיצע הכולל אבוקדו מיובא ומותגים אירופאיים, תוך שהוא פועל כמפיץ עבור רשתות מקומיות אחרות. החברה שמה דגש על חיסכון בזמן לצרכנים עם מוצרים טריים מוכנים לשימוש וארוזים. <span class=\"news-reason\">הכתבה מתארת את צמיחתו של מפיץ פרימיום בירוואן המייבא אבוקדו, מה שמציע הזדמנויות שיווק עבור מוצרי מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884380/retailer-premium-in-una-capitale-armena-sovraffollata/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1792472550_0",
       "timestamp": "2026-10-20T05:02:30.148067+00:00",
-      "title": "Menace de paralysie des exportations de fruits en Italie du Sud -- 20/10/2026 06:05",
+      "title": "Les exportations de fruits en Italie du Sud menacées de paralysie",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -198,7 +216,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Menace de paralysie des exportations de fruits en Italie du Sud -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">Les protestations des opérateurs logistiques et des agriculteurs s&#x27;intensifient dans le sud de l&#x27;Italie. Les blocages routiers en cours pourraient se prolonger au-delà de mercredi, menaçant de paralyser le transport de produits frais. Selon les acteurs locaux, l&#x27;arrêt des transports risquerait de bloquer l&#x27;ensemble de la filière italienne. <span class=\"news-reason\">Les blocages routiers en Italie du Sud menacent la logistique d&#x27;une origine concurrente majeure pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884334/si-ferma-il-trasporto-si-ferma-l-italia/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Les exportations de fruits en Italie du Sud menacées de paralysie -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">Les protestations des opérateurs logistiques et des agriculteurs s&#x27;intensifient dans le sud de l&#x27;Italie. Les blocages routiers en cours pourraient se prolonger au-delà de mercredi, menaçant de paralyser le transport de produits frais. Selon les acteurs locaux, l&#x27;arrêt des transports risquerait de bloquer l&#x27;ensemble de la filière italienne. <span class=\"news-reason\">Les blocages routiers en Italie du Sud menacent la logistique d&#x27;une origine concurrente majeure pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884334/si-ferma-il-trasporto-si-ferma-l-italia/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Threat of fruit export paralysis in Southern Italy -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">Protests by logistics operators and farmers are intensifying in southern Italy. Ongoing road blockades could extend beyond Wednesday, threatening to paralyze the transport of fresh products. According to local players, the transport shutdown risks blocking the entire Italian industry. <span class=\"news-reason\">Road blockades in Southern Italy threaten the logistics of a major competing origin for citrus fruits.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884334/si-ferma-il-trasporto-si-ferma-l-italia/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">איום בשיתוק יצוא הפירות בדרום איטליה -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">מחאות מפעילי הלוגיסטיקה והחקלאים מחריפות בדרום איטליה. חסימות הכבישים הנמשכות עלולות להימשך מעבר ליום רביעי, ומאיימות לשתק את הובלת התוצרת הטרייה. לטענת גורמים מקומיים, השבתת ההובלה עלולה לשתק את הענף האיטלקי כולו. <span class=\"news-reason\">חסימות הכבישים בדרום איטליה מאיימות על הלוגיסטיקה של מקור מתחרה מרכזי לפירות הדר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884334/si-ferma-il-trasporto-si-ferma-l-italia/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
