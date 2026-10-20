@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T05:02:30.148067+00:00",
-  "article_count": 26,
+  "last_updated": "2026-10-20T08:02:30.885693+00:00",
+  "article_count": 27,
   "attention_points": [
     {
       "id": "attention-340673bab851817a",
@@ -17,27 +17,26 @@
       "signal_label": "Alerte",
       "icon": "alert",
       "products": [],
-      "age_hours": 0
+      "age_hours": 3
     },
     {
-      "id": "attention-f1817081e2ec9282",
-      "article_id": "1792423982_7",
-      "url": "https://www.agrimaroc.ma/producteurs-exportateurs-fruits-legumes-maroc/",
-      "source": "AgriMaroc",
-      "title": "Cartographie des principaux groupes exportateurs de fruits au Maroc",
-      "summary": "Une analyse des acteurs de la filière exportatrice marocaine répertorie les groupes dominants tels qu'Azura, Delassus, Lymouna–Matysha et COPAG.",
-      "origin_code": "MAR",
-      "origin_label": "Maroc",
-      "published_at": "2026-10-19T15:00:59+00:00",
+      "id": "attention-8b887d55d24ec084",
+      "article_id": "1792483350_0",
+      "url": "https://www.freshplaza.it/article/9884380/retailer-premium-in-una-capitale-armena-sovraffollata/",
+      "source": "FreshPlaza IT",
+      "title": "Expansion d'une enseigne premium d'avocats importés en Arménie",
+      "summary": "Une enseigne de supermarchés développe son offre de fruits importés",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-10-20T06:05:00+02:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [
-        "avocat",
-        "grape"
+        "avocat"
       ],
-      "age_hours": 14
+      "age_hours": 3
     },
     {
       "id": "attention-8d0f00b54f332cf1",
@@ -56,7 +55,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 15
+      "age_hours": 18
     },
     {
       "id": "attention-d372ea837f13b0f5",
@@ -73,10 +72,26 @@
       "signal_label": "Volumes",
       "icon": "information",
       "products": [],
-      "age_hours": 15
+      "age_hours": 18
     }
   ],
   "articles": [
+    {
+      "id": "1792483350_0",
+      "timestamp": "2026-10-20T08:02:30.885693+00:00",
+      "title": "Expansion d&#x27;une enseigne premium d&#x27;avocats importés en Arménie",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Expansion d&#x27;une enseigne premium d&#x27;avocats importés en Arménie -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">Une chaîne de supermarchés premium basée à Erevan poursuit son expansion sur le marché arménien. Le détaillant se distingue par une offre incluant des avocats importés et des marques européennes, tout en agissant comme distributeur pour d&#x27;autres enseignes locales. L&#x27;entreprise mise sur le gain de temps pour les consommateurs avec des produits frais prêts à l&#x27;emploi et conditionnés. <span class=\"news-reason\">L&#x27;article décrit la croissance d&#x27;un distributeur premium à Erevan qui importe des avocats, offrant des opportunités de débouchés pour les produits Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884380/retailer-premium-in-una-capitale-armena-sovraffollata/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Expansion in Armenia of a premium imported avocado retailer -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">A premium supermarket chain based in Yerevan is continuing its expansion in the Armenian market. The retailer stands out with an offering that includes imported avocados and European brands, while also acting as a distributor for other local chains. The company focuses on saving time for consumers with fresh, ready-to-use, and packaged products. <span class=\"news-reason\">The article describes the growth of a premium distributor in Yerevan that imports avocados, offering market opportunities for Mehadrin products.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884380/retailer-premium-in-una-capitale-armena-sovraffollata/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תנועות רשתות שיווק</div><div class=\"news-title\">התרחבות בארמניה של רשת פרימיום לאבוקדו מיובא -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">רשת סופרמרקטים פרימיום שבסיסה בירוואן ממשיכה בהתרחבותה בשוק הארמני. הקמעונאי מתבלט בהיצע הכולל אבוקדו מיובא ומותגים אירופאיים, תוך שהוא פועל כמפיץ עבור רשתות מקומיות אחרות. החברה שמה דגש על חיסכון בזמן לצרכנים עם מוצרים טריים מוכנים לשימוש וארוזים. <span class=\"news-reason\">הכתבה מתארת את צמיחתו של מפיץ פרימיום בירוואן המייבא אבוקדו, מה שמציע הזדמנויות שיווק עבור מוצרי מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884380/retailer-premium-in-una-capitale-armena-sovraffollata/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1792472550_0",
       "timestamp": "2026-10-20T05:02:30.148067+00:00",
@@ -429,7 +444,7 @@
     {
       "id": "1792386116_0",
       "timestamp": "2026-10-19T05:01:56.630793+00:00",
-      "title": "Clôture de la campagne d’exportation d’agrumes d’Afrique du Sud vers l’Europe",
+      "title": "Fin de la campagne d’exportation d’agrumes d’Afrique du Sud vers l’Europe",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -441,7 +456,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Clôture de la campagne d’exportation d’agrumes d’Afrique du Sud vers l’Europe -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">La saison d&#x27;exportation d&#x27;agrumes de l&#x27;hémisphère sud touche à sa fin alors que celle de l&#x27;hémisphère nord commence. Les derniers volumes de pomelos et d&#x27;oranges Valencia Midnight en provenance d&#x27;Afrique du Sud sont actuellement en route vers le marché européen, marquant la transition vers les nouvelles récoltes. <span class=\"news-reason\">L&#x27;article traite de la fin de campagne d&#x27;agrumes (pomelos et oranges) d&#x27;un concurrent majeur (Afrique du Sud) vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9883195/non-ho-mai-vissuto-un-annata-come-questa/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Fin de la campagne d’exportation d’agrumes d’Afrique du Sud vers l’Europe -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">La saison d&#x27;exportation d&#x27;agrumes de l&#x27;hémisphère sud touche à sa fin alors que celle de l&#x27;hémisphère nord commence. Les derniers volumes de pomelos et d&#x27;oranges Valencia Midnight en provenance d&#x27;Afrique du Sud sont actuellement en route vers le marché européen, marquant la transition vers les nouvelles récoltes. <span class=\"news-reason\">L&#x27;article traite de la fin de campagne d&#x27;agrumes (pomelos et oranges) d&#x27;un concurrent majeur (Afrique du Sud) vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9883195/non-ho-mai-vissuto-un-annata-come-questa/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">End of the South African citrus campaign to Europe -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">The Southern Hemisphere citrus export season is coming to an end as the Northern Hemisphere season begins. The final volumes of grapefruit and Valencia Midnight oranges from South Africa are currently en route to the European market, marking the transition to new harvests. <span class=\"news-reason\">The article discusses the end of the citrus campaign (grapefruit and oranges) from a major competitor (South Africa) to Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9883195/non-ho-mai-vissuto-un-annata-come-questa/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סיום עונת ההדרים מדרום אפריקה לאירופה -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">עונת ייצוא ההדרים של חצי הכדור הדרומי מתקרבת לסיומה בעוד שזו של חצי הכדור הצפוני מתחילה. הכמויות האחרונות של פומלו ותפוזי ולנסיה מידנייט מדרום אפריקה נמצאות כעת בדרכן לשוק האירופי, ומסמנות את המעבר ליבולים החדשים. <span class=\"news-reason\">המאמר עוסק בסיום עונת ההדרים (פומלו ותפוזים) של מתחרה מרכזי (דרום אפריקה) לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9883195/non-ho-mai-vissuto-un-annata-come-questa/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>"
     },
@@ -517,7 +532,7 @@
     {
       "id": "1792229545_0",
       "timestamp": "2026-10-17T09:32:25.003772+00:00",
-      "title": "La séquestration du carbone par les plantations espagnoles de Nadorcott excède leurs émissions",
+      "title": "La séquestration carbone des plantations espagnoles de Nadorcott est supérieure à leurs émissions",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -528,7 +543,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La séquestration du carbone par les plantations espagnoles de Nadorcott excède leurs émissions -- <span class=\"news-date\">16/10/2026 09:51</span></div><div class=\"news-body\">Le Club de Variétés Végétales Protégées (CVVP) a présenté lors du salon Fruit Attraction le premier bilan complet des gaz à effet de serre pour la variété de mandarine Nadorcott en Espagne. L&#x27;étude, s&#x27;appuyant sur des données agronomiques réelles collectées sur douze campagnes (2013/14 à 2024/25), démontre que les vergers espagnols de Nadorcott agissent comme des puits de carbone, captant davantage de CO2 qu&#x27;ils n&#x27;en émettent. <span class=\"news-reason\">Information stratégique sur le positionnement environnemental d&#x27;une variété clé concurrente (Nadorcott Espagne).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883173/studie-bestatigt-dass-nadorcott-plantagen-mehr-kohlenstoff-binden-als-sie-freisetzen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La séquestration carbone des plantations espagnoles de Nadorcott est supérieure à leurs émissions -- <span class=\"news-date\">16/10/2026 09:51</span></div><div class=\"news-body\">Le Club de Variétés Végétales Protégées (CVVP) a présenté lors du salon Fruit Attraction le premier bilan complet des gaz à effet de serre pour la variété de mandarine Nadorcott en Espagne. L&#x27;étude, s&#x27;appuyant sur des données agronomiques réelles collectées sur douze campagnes (2013/14 à 2024/25), démontre que les vergers espagnols de Nadorcott agissent comme des puits de carbone, captant davantage de CO2 qu&#x27;ils n&#x27;en émettent. <span class=\"news-reason\">Information stratégique sur le positionnement environnemental d&#x27;une variété clé concurrente (Nadorcott Espagne).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883173/studie-bestatigt-dass-nadorcott-plantagen-mehr-kohlenstoff-binden-als-sie-freisetzen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Spanish Nadorcott plantations show carbon sequestration higher than their emissions -- <span class=\"news-date\">16/10/2026 09:51</span></div><div class=\"news-body\">The Protected Plant Varieties Club (CVVP) presented the first complete greenhouse gas assessment for the Nadorcott mandarin variety in Spain at the Fruit Attraction trade fair. The study, based on real agronomic data collected over twelve seasons (2013/14 to 2024/25), demonstrates that Spanish Nadorcott orchards act as carbon sinks, capturing more CO2 than they emit. <span class=\"news-reason\">Strategic information on the environmental positioning of a key competing variety (Nadorcott Spain).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883173/studie-bestatigt-dass-nadorcott-plantagen-mehr-kohlenstoff-binden-als-sie-freisetzen/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מטעי הנאדורקוט הספרדיים מציגים קיבוע פחמן הגבוה מהפליטות שלהם -- <span class=\"news-date\">16/10/2026 09:51</span></div><div class=\"news-body\">מועדון הזנים הצמחיים המוגנים (CVVP) הציג במהלך תערוכת Fruit Attraction את מאזן גזי החממה המלא הראשון עבור זן המנדרינה נאדורקוט בספרד. המחקר, המתבסס על נתונים אגרונומיים אמיתיים שנאספו לאורך שתים עשרה עונות (2013/14 עד 2024/25), מוכיח כי מטעי הנאדורקוט הספרדיים פועלים ככיורי פחמן, הקולטים יותר CO2 ממה שהם פולטים. <span class=\"news-reason\">מידע אסטרטגי על המיצוב הסביבתי של זן מפתח מתחרה (נאדורקוט ספרד).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883173/studie-bestatigt-dass-nadorcott-plantagen-mehr-kohlenstoff-binden-als-sie-freisetzen/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     }
