@@ -1,32 +1,70 @@
 {
-  "last_updated": "2026-10-20T11:02:35.230200+00:00",
-  "article_count": 27,
+  "last_updated": "2026-10-20T12:33:37.292433+00:00",
+  "article_count": 28,
   "attention_points": [
     {
-      "id": "attention-e9b277d858aee883",
-      "article_id": "1792494155_0",
-      "url": "https://www.freshfruitportal.com/news/2026/10/20/camposol-jaliscavo/",
-      "source": "Fresh Fruit Portal",
-      "title": "Un partenariat pour sécuriser l'approvisionnement annuel d'avocats",
-      "summary": "Une alliance stratégique vise la continuité de l'offre globale",
-      "origin_code": "MEX",
-      "origin_label": "Mexique",
-      "published_at": "2026-10-20T11:00:16+00:00",
+      "id": "attention-1bd731bc1b8301d8",
+      "article_id": "1792499617_1",
+      "url": "https://www.freshplaza.fr/article/9883548/de-plus-grandes-surfaces-de-melon-cultivees-a-marrakech-malgre-les-risques-lies-a-la-main-d-oeuvre-et-au-climat/",
+      "source": "FreshPlaza FR",
+      "title": "Augmentation des surfaces de culture de melon dans",
+      "summary": "Les producteurs de melon de Marrakech préparent la prochaine campagne avec une extension des surfaces cultivées.",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-10-20T13:27:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
+      "products": [
+        "melon"
+      ],
+      "age_hours": 1
+    },
+    {
+      "id": "attention-0c3254a54234451f",
+      "article_id": "1792499617_2",
+      "url": "https://www.freshplaza.com/article/9884563/by-mid-november-oranges-will-be-sizes-2-4-in-december-even-larger/",
+      "source": "FreshPlaza",
+      "title": "Grèce : des oranges de gros calibre attendues pour",
+      "summary": "La saison des oranges en Étolie-Acarnanie présente des volumes de production légèrement inférieurs pour la variété Navelina, mais une qualité de fruit prometteuse.",
+      "origin_code": "GRC",
+      "origin_label": "Grèce",
+      "published_at": "2026-10-20T13:26:00+02:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [
-        "avocat"
+        "orange"
       ],
-      "age_hours": 0
+      "age_hours": 1
+    },
+    {
+      "id": "attention-3295e284e5e8f927",
+      "article_id": "1792499617_0",
+      "url": "https://www.agf.nl/article/9884402/ivoorkust-wil-mango-export-naar-eu-hervatten-na-problemen-met-fruitvliegjes/",
+      "source": "AGF.nl",
+      "title": "La Côte d'Ivoire suspend ses exportations de mangues vers",
+      "summary": "Les exportations de mangues de Côte d'Ivoire vers l'Union européenne sont suspendues depuis le 1er août 2026 en raison de multiples interceptions de mouches des fruits.",
+      "origin_code": "CIV",
+      "origin_label": "Côte d'Ivoire",
+      "published_at": "2026-10-20T12:09:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
+      "products": [
+        "mango"
+      ],
+      "age_hours": 2
     },
     {
       "id": "attention-224f3b8ab08815ab",
       "article_id": "1792488735_0",
       "url": "https://www.freshplaza.it/article/9883172/uno-studio-conferma-che-le-piantagioni-di-nadorcott-assorbono-piu-carbonio-di-quanto-ne-rilascino/",
       "source": "FreshPlaza IT",
-      "title": "Analyse du bilan carbone positif des vergers de mandarines",
+      "title": "Analyse de l'empreinte carbone positive des vergers de mandarines",
       "summary": "Les plantations absorbent plus de carbone qu'elles n'en émettent",
       "origin_code": "ESP",
       "origin_label": "Espagne",
@@ -38,44 +76,64 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 6
-    },
-    {
-      "id": "attention-340673bab851817a",
-      "article_id": "1792472550_0",
-      "url": "https://www.freshplaza.it/article/9884334/si-ferma-il-trasporto-si-ferma-l-italia/",
-      "source": "FreshPlaza IT",
-      "title": "Menace de paralysie des exportations de fruits en Italie",
-      "summary": "Les protestations des opérateurs logistiques et des agriculteurs s'intensifient dans le sud de l'Italie.",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
-      "published_at": "2026-10-20T06:05:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [],
-      "age_hours": 6
-    },
-    {
-      "id": "attention-d372ea837f13b0f5",
-      "article_id": "1792423982_0",
-      "url": "https://www.freshplaza.es/article/9884275/el-sector-estima-50-000-toneladas-de-granada-mollar-de-elche/",
-      "source": "FreshPlaza ES",
-      "title": "Espagne : 50 000 tonnes prévues pour la grenade",
-      "summary": "La saison de la grenade Mollar d'Elche 2026/2027 a été officiellement lancée en Espagne.",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-10-19T16:00:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "information",
-      "products": [],
-      "age_hours": 21
+      "age_hours": 8
     }
   ],
   "articles": [
+    {
+      "id": "1792499617_2",
+      "timestamp": "2026-10-20T12:33:37.292433+00:00",
+      "title": "Grèce : des oranges de gros calibre attendues pour la campagne Navelina -- 20/10/2026 13:26",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "GRC"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Grèce : des oranges de gros calibre attendues pour la campagne Navelina -- <span class=\"news-date\">20/10/2026 13:26</span></div><div class=\"news-body\">La saison des oranges en Étolie-Acarnanie présente des volumes de production légèrement inférieurs pour la variété Navelina, mais une qualité de fruit prometteuse. Les premières estimations prévoient des calibres allant de 2 à 4 dès la mi-novembre, avec des fruits encore plus volumineux attendus pour le mois de décembre. <span class=\"news-reason\">Données précises sur les calibres et les volumes d&#x27;une origine concurrente en début de saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9884563/by-mid-november-oranges-will-be-sizes-2-4-in-december-even-larger/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Greece: large caliber oranges expected for the Navelina campaign -- <span class=\"news-date\">20/10/2026 13:26</span></div><div class=\"news-body\">The orange season in Aetolia-Acarnania shows slightly lower production volumes for the Navelina variety, but promising fruit quality. Initial estimates predict calibers ranging from 2 to 4 starting in mid-November, with even larger fruit expected for the month of December. <span class=\"news-reason\">Precise data on calibers and volumes from a competing origin at the start of the season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9884563/by-mid-november-oranges-will-be-sizes-2-4-in-december-even-larger/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">יוון: תפוזים בגדלים גדולים צפויים לעונת הנבלינה -- <span class=\"news-date\">20/10/2026 13:26</span></div><div class=\"news-body\">עונת התפוזים באטוליה-אקארנאניה מציגה נפחי ייצור נמוכים מעט עבור זן הנבלינה, אך איכות פרי מבטיחה. הערכות ראשוניות צופות גדלים הנעים בין 2 ל-4 החל מאמצע נובמבר, כאשר פירות גדולים אף יותר צפויים בחודש דצמבר. <span class=\"news-reason\">נתונים מדויקים על הגדלים והכמויות ממקור מתחרה בתחילת העונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9884563/by-mid-november-oranges-will-be-sizes-2-4-in-december-even-larger/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1792499617_1",
+      "timestamp": "2026-10-20T12:33:37.292433+00:00",
+      "title": "Augmentation des surfaces de culture de melon dans la région de Marrakech -- 20/10/2026 13:27",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Sébastien"
+      ],
+      "products": [
+        "melon"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Augmentation des surfaces de culture de melon dans la région de Marrakech -- <span class=\"news-date\">20/10/2026 13:27</span></div><div class=\"news-body\">Les producteurs de melon de Marrakech préparent la prochaine campagne avec une extension des surfaces cultivées. Bien que les conditions commerciales semblent favorables, la production reste menacée par des aléas climatiques persistants et une crise de la main-d&#x27;œuvre, rendant les prévisions de récolte finales incertaines. <span class=\"news-reason\">Information stratégique sur l&#x27;expansion de la production chez un concurrent direct (Maroc).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9883548/de-plus-grandes-surfaces-de-melon-cultivees-a-marrakech-malgre-les-risques-lies-a-la-main-d-oeuvre-et-au-climat/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Increase in melon cultivation areas in the Marrakech region -- <span class=\"news-date\">20/10/2026 13:27</span></div><div class=\"news-body\">Melon producers in Marrakech are preparing for the next campaign with an extension of cultivated areas. Although commercial conditions seem favorable, production remains threatened by persistent climate hazards and a labor crisis, making final harvest forecasts uncertain. <span class=\"news-reason\">Strategic information on production expansion for a direct competitor (Morocco).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9883548/de-plus-grandes-surfaces-de-melon-cultivees-a-marrakech-malgre-les-risques-lies-a-la-main-d-oeuvre-et-au-climat/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות בין מקורות</div><div class=\"news-title\">גידול בשטחי גידול המלונים באזור מרקש -- <span class=\"news-date\">20/10/2026 13:27</span></div><div class=\"news-body\">מגדלי המלונים במרקש נערכים לעונה הבאה עם הרחבת שטחי הגידול. למרות שהתנאים המסחריים נראים נוחים, הייצור נותר מאוים על ידי פגעי מזג אוויר מתמשכים ומשבר כוח אדם, מה שהופך את תחזיות היבול הסופיות לבלתי ודאיות. <span class=\"news-reason\">מידע אסטרטגי על הרחבת הייצור אצל מתחרה ישיר (מרוקו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9883548/de-plus-grandes-surfaces-de-melon-cultivees-a-marrakech-malgre-les-risques-lies-a-la-main-d-oeuvre-et-au-climat/\" target=\"_blank\">FreshPlaza FR -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1792499617_0",
+      "timestamp": "2026-10-20T12:33:37.292433+00:00",
+      "title": "La Côte d&#x27;Ivoire suspend ses exportations de mangues vers l&#x27;UE jusqu&#x27;en 2027 -- 20/10/2026 12:09",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [
+        "CIV"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La Côte d&#x27;Ivoire suspend ses exportations de mangues vers l&#x27;UE jusqu&#x27;en 2027 -- <span class=\"news-date\">20/10/2026 12:09</span></div><div class=\"news-body\">Les exportations de mangues de Côte d&#x27;Ivoire vers l&#x27;Union européenne sont suspendues depuis le 1er août 2026 en raison de multiples interceptions de mouches des fruits. Le pays s&#x27;efforce de mettre en place des mesures correctives pour rétablir l&#x27;accès au marché européen avant le début de la campagne d&#x27;exportation 2027. <span class=\"news-reason\">Alerte sur l&#x27;arrêt des exportations d&#x27;une origine concurrente majeure pour cause sanitaire, impactant l&#x27;offre globale en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9884402/ivoorkust-wil-mango-export-naar-eu-hervatten-na-problemen-met-fruitvliegjes/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Ivory Coast suspends its mango exports to the EU until 2027 -- <span class=\"news-date\">20/10/2026 12:09</span></div><div class=\"news-body\">Mango exports from Ivory Coast to the European Union have been suspended since August 1, 2026, due to multiple interceptions of fruit flies. The country is working to implement corrective measures to restore access to the European market before the start of the 2027 export campaign. <span class=\"news-reason\">Alert on the suspension of exports from a major competing origin for sanitary reasons, impacting the overall supply in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9884402/ivoorkust-wil-mango-export-naar-eu-hervatten-na-problemen-met-fruitvliegjes/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">חוף השנהב משעה את ייצוא המנגו לאיחוד האירופי עד 2027 -- <span class=\"news-date\">20/10/2026 12:09</span></div><div class=\"news-body\">ייצוא המנגו מחוף השנהב לאיחוד האירופי מושעה מאז ה-1 באוגוסט 2026 עקב ריבוי גילויים של זבובי פירות. המדינה פועלת ליישום צעדי תיקון כדי להשיב את הגישה לשוק האירופי לפני תחילת עונת הייצוא של 2027. <span class=\"news-reason\">התראה על הפסקת ייצוא ממקור מתחרה משמעותי מסיבות תברואתיות, המשפיעה על ההיצע הגלובלי באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9884402/ivoorkust-wil-mango-export-naar-eu-hervatten-na-problemen-met-fruitvliegjes/\" target=\"_blank\">AGF.nl -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1792494155_0",
       "timestamp": "2026-10-20T11:02:35.230200+00:00",
@@ -97,7 +155,7 @@
     {
       "id": "1792488735_0",
       "timestamp": "2026-10-20T09:32:15.052481+00:00",
-      "title": "Analyse du bilan carbone positif des vergers de mandarines Nadorcott en Espagne",
+      "title": "Analyse de l&#x27;empreinte carbone positive des vergers de mandarines Nadorcott en Espagne",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -108,14 +166,14 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Analyse du bilan carbone positif des vergers de mandarines Nadorcott en Espagne -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">Un rapport presente lors de Fruit Attraction 2026 par Nadorcott Spain demontre que les vergers de mandarines Nadorcott en Espagne agissent comme des puits de carbone. L&#x27;etude, basee sur des donnees agronomiques de l&#x27;ensemble des plantations espagnoles sur 12 mois, conclut que la culture absorbe davantage de gaz a effet de serre qu&#x27;elle n&#x27;en emet. <span class=\"news-reason\">Information strategique sur le positionnement environnemental d&#x27;un produit concurrent direct de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9883172/uno-studio-conferma-che-le-piantagioni-di-nadorcott-assorbono-piu-carbonio-di-quanto-ne-rilascino/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Analyse de l&#x27;empreinte carbone positive des vergers de mandarines Nadorcott en Espagne -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">Un rapport presente lors de Fruit Attraction 2026 par Nadorcott Spain demontre que les vergers de mandarines Nadorcott en Espagne agissent comme des puits de carbone. L&#x27;etude, basee sur des donnees agronomiques de l&#x27;ensemble des plantations espagnoles sur 12 mois, conclut que la culture absorbe davantage de gaz a effet de serre qu&#x27;elle n&#x27;en emet. <span class=\"news-reason\">Information strategique sur le positionnement environnemental d&#x27;un produit concurrent direct de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9883172/uno-studio-conferma-che-le-piantagioni-di-nadorcott-assorbono-piu-carbonio-di-quanto-ne-rilascino/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Study of the positive carbon footprint of Nadorcott mandarin plantations in Spain -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">A report presented during Fruit Attraction 2026 by Nadorcott Spain demonstrates that Nadorcott mandarin orchards in Spain act as carbon sinks. The study, based on agronomic data from all Spanish plantations over 12 months, concludes that the crop absorbs more greenhouse gases than it emits. <span class=\"news-reason\">Strategic information on the environmental positioning of a product that is a direct competitor of Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9883172/uno-studio-conferma-che-le-piantagioni-di-nadorcott-assorbono-piu-carbonio-di-quanto-ne-rilascino/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות - מקורות</div><div class=\"news-title\">מחקר על מאזן פחמן חיובי במטעי מנדרינות נאדורקוט בספרד -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">דוח שהוצג בתערוכת Fruit Attraction 2026 על ידי Nadorcott Spain מוכיח כי פרדסי מנדרינות נאדורקוט בספרד פועלים כמאגרי פחמן. המחקר, המבוסס על נתונים אגרונומיים של כלל המטעים בספרד לאורך 12 חודשים, מסיק כי הגידול סופח יותר גזי חממה ממה שהוא פולט. <span class=\"news-reason\">מידע אסטרטגי על המיצוב הסביבתי של מוצר המתחרה ישירות במהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9883172/uno-studio-conferma-che-le-piantagioni-di-nadorcott-assorbono-piu-carbonio-di-quanto-ne-rilascino/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1792483350_0",
       "timestamp": "2026-10-20T08:02:30.885693+00:00",
-      "title": "Expansion d’une enseigne haut de gamme d’avocats importés en Arménie",
+      "title": "Expansion d’une enseigne premium d&#x27;avocats importés en Arménie",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Ophélie"
@@ -124,7 +182,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Expansion d’une enseigne haut de gamme d’avocats importés en Arménie -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">Une chaîne de supermarchés premium basée à Erevan poursuit son expansion sur le marché arménien. Le détaillant se distingue par une offre incluant des avocats importés et des marques européennes, tout en agissant comme distributeur pour d&#x27;autres enseignes locales. L&#x27;entreprise mise sur le gain de temps pour les consommateurs avec des produits frais prêts à l&#x27;emploi et conditionnés. <span class=\"news-reason\">L&#x27;article décrit la croissance d&#x27;un distributeur premium à Erevan qui importe des avocats, offrant des opportunités de débouchés pour les produits Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884380/retailer-premium-in-una-capitale-armena-sovraffollata/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Expansion d’une enseigne premium d&#x27;avocats importés en Arménie -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">Une chaîne de supermarchés premium basée à Erevan poursuit son expansion sur le marché arménien. Le détaillant se distingue par une offre incluant des avocats importés et des marques européennes, tout en agissant comme distributeur pour d&#x27;autres enseignes locales. L&#x27;entreprise mise sur le gain de temps pour les consommateurs avec des produits frais prêts à l&#x27;emploi et conditionnés. <span class=\"news-reason\">L&#x27;article décrit la croissance d&#x27;un distributeur premium à Erevan qui importe des avocats, offrant des opportunités de débouchés pour les produits Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884380/retailer-premium-in-una-capitale-armena-sovraffollata/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Expansion in Armenia of a premium imported avocado retailer -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">A premium supermarket chain based in Yerevan is continuing its expansion in the Armenian market. The retailer stands out with an offering that includes imported avocados and European brands, while also acting as a distributor for other local chains. The company focuses on saving time for consumers with fresh, ready-to-use, and packaged products. <span class=\"news-reason\">The article describes the growth of a premium distributor in Yerevan that imports avocados, offering market opportunities for Mehadrin products.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884380/retailer-premium-in-una-capitale-armena-sovraffollata/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תנועות רשתות שיווק</div><div class=\"news-title\">התרחבות בארמניה של רשת פרימיום לאבוקדו מיובא -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">רשת סופרמרקטים פרימיום שבסיסה בירוואן ממשיכה בהתרחבותה בשוק הארמני. הקמעונאי מתבלט בהיצע הכולל אבוקדו מיובא ומותגים אירופאיים, תוך שהוא פועל כמפיץ עבור רשתות מקומיות אחרות. החברה שמה דגש על חיסכון בזמן לצרכנים עם מוצרים טריים מוכנים לשימוש וארוזים. <span class=\"news-reason\">הכתבה מתארת את צמיחתו של מפיץ פרימיום בירוואן המייבא אבוקדו, מה שמציע הזדמנויות שיווק עבור מוצרי מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884380/retailer-premium-in-una-capitale-armena-sovraffollata/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -441,7 +499,7 @@
     {
       "id": "1792386116_2",
       "timestamp": "2026-10-19T05:01:56.630793+00:00",
-      "title": "La filière tanzanienne de l&#x27;avocat s&#x27;oriente vers l&#x27;Inde face aux défis logistiques",
+      "title": "La filière tanzanienne de l&#x27;avocat se tourne vers l&#x27;Inde face aux défis logistiques",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -452,7 +510,7 @@
       "origins": [
         "IND"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La filière tanzanienne de l&#x27;avocat s&#x27;oriente vers l&#x27;Inde face aux défis logistiques -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">Le secteur de l&#x27;avocat en Tanzanie est en pleine croissance, mais les exportateurs font face à des difficultés logistiques majeures pour atteindre l&#x27;Europe en raison de la situation en mer Rouge. En conséquence, l&#x27;Inde est devenue le principal marché de destination pour les avocats tanzaniens cette saison. <span class=\"news-reason\">Informations sur la stratégie d&#x27;exportation d&#x27;un pays concurrent (Tanzanie) sur l&#x27;avocat, impacté par les problèmes en Mer Rouge.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882720/ogni-avocado-della-tanzania-puo-trovare-un-mercato-di-destinazione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La filière tanzanienne de l&#x27;avocat se tourne vers l&#x27;Inde face aux défis logistiques -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">Le secteur de l&#x27;avocat en Tanzanie est en pleine croissance, mais les exportateurs font face à des difficultés logistiques majeures pour atteindre l&#x27;Europe en raison de la situation en mer Rouge. En conséquence, l&#x27;Inde est devenue le principal marché de destination pour les avocats tanzaniens cette saison. <span class=\"news-reason\">Informations sur la stratégie d&#x27;exportation d&#x27;un pays concurrent (Tanzanie) sur l&#x27;avocat, impacté par les problèmes en Mer Rouge.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882720/ogni-avocado-della-tanzania-puo-trovare-un-mercato-di-destinazione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Tanzanian avocados turn to India in the face of logistical crises -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">The avocado sector in Tanzania is growing rapidly, but exporters are facing major logistical difficulties in reaching Europe due to the situation in the Red Sea. As a result, India has become the main destination market for Tanzanian avocados this season. <span class=\"news-reason\">Information on the export strategy of a competing country (Tanzania) for avocados, impacted by problems in the Red Sea.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882720/ogni-avocado-della-tanzania-puo-trovare-un-mercato-di-destinazione/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">האבוקדו של טנזניה פונה להודו לנוכח המשברים הלוגיסטיים -- <span class=\"news-date\">19/10/2026 06:00</span></div><div class=\"news-body\">מגזר האבוקדו בטנזניה נמצא בצמיחה מלאה, אך היצואנים מתמודדים עם קשיים לוגיסטיים משמעותיים בהגעה לאירופה בשל המצב בים האדום. כתוצאה מכך, הודו הפכה לשוק היעד העיקרי עבור האבוקדו הטנזני העונה. <span class=\"news-reason\">מידע על אסטרטגיית הייצוא של מדינה מתחרה (טנזניה) עבור אבוקדו, המושפעת מהבעיות בים האדום.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9882720/ogni-avocado-della-tanzania-puo-trovare-un-mercato-di-destinazione/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>"
     },
@@ -512,40 +570,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Le Kenya projette un hub logistique de 35 millions USD pour les exportations horticoles -- <span class=\"news-date\">16/10/2026 13:53</span></div><div class=\"news-body\">Le Kenya, soutenu par les Pays-Bas et l&#x27;Union européenne, projette la création d&#x27;un hub de chaîne du froid à Naivasha pour un investissement de 30 millions d&#x27;euros (environ 35 millions USD). Ce projet, nommé Northern Corridor Cool Logistics, vise à réduire les coûts de transport de 25 % et les émissions de carbone de plus de 90 % pour les exportateurs horticoles kenyans vers le marché européen. <span class=\"news-reason\">Investissement majeur dans un pays concurrent (Kenya) pour réduire les coûts d&#x27;exportation vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9882996/kenya-plans-us-35-million-cold-chain-hub-to-cut-horticultural-export-costs/\" target=\"_blank\">HortiDaily -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Kenya plans a 35 million USD logistics hub for horticultural exports -- <span class=\"news-date\">16/10/2026 13:53</span></div><div class=\"news-body\">Kenya, supported by the Netherlands and the European Union, plans to create a cold chain hub in Naivasha for an investment of 30 million euros (approximately 35 million USD). This project, named Northern Corridor Cool Logistics, aims to reduce transport costs by 25% and carbon emissions by more than 90% for Kenyan horticultural exporters to the European market. <span class=\"news-reason\">Major investment in a competing country (Kenya) to reduce export costs to Europe.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9882996/kenya-plans-us-35-million-cold-chain-hub-to-cut-horticultural-export-costs/\" target=\"_blank\">HortiDaily -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תנועות רשתות שיווק</div><div class=\"news-title\">קניה מתכננת מרכז לוגיסטי בשווי 35 מיליון דולר עבור ייצוא חקלאי -- <span class=\"news-date\">16/10/2026 13:53</span></div><div class=\"news-body\">קניה, בתמיכת הולנד והאיחוד האירופי, מתכננת להקים מרכז לוגיסטי לשרשרת קירור בנאיבשה בהשקעה של 30 מיליון אירו (כ-35 מיליון דולר). פרויקט זה, הנקרא Northern Corridor Cool Logistics, נועד להפחית את עלויות ההובלה ב-25% ואת פליטות הפחמן ביותר מ-90% עבור יצואני החקלאות הקנייתים לשוק האירופי. <span class=\"news-reason\">השקעה משמעותית במדינה מתחרה (קניה) להפחתת עלויות הייצוא לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9882996/kenya-plans-us-35-million-cold-chain-hub-to-cut-horticultural-export-costs/\" target=\"_blank\">HortiDaily -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1792240367_1",
-      "timestamp": "2026-10-17T12:32:47.449393+00:00",
-      "title": "Impact de la sécheresse sur la qualité des grenades en Inde -- 16/10/2026 13:35",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Jessica"
-      ],
-      "products": [
-        "pomegranate"
-      ],
-      "origins": [
-        "IND"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact de la sécheresse sur la qualité des grenades en Inde -- <span class=\"news-date\">16/10/2026 13:35</span></div><div class=\"news-body\">La sécheresse et le stress hydrique en Inde dégradent la qualité des grenades, rendant difficile l&#x27;approvisionnement en fruits conformes aux cahiers des charges internationaux. Cette situation perturbe actuellement les expéditions en provenance des principales zones de production indiennes. <span class=\"news-reason\">Information sur des problèmes de qualité et de disponibilité chez un concurrent pour la grenade, produit Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9883843/drought-leaves-indian-pomegranate-exporters-short-of-suitable-fruit/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Impact of drought on pomegranate quality in India -- <span class=\"news-date\">16/10/2026 13:35</span></div><div class=\"news-body\">Drought and water stress in India are degrading pomegranate quality, making it difficult to source fruit that meets international specifications. This situation is currently disrupting shipments from major Indian production areas. <span class=\"news-reason\">Information on quality and availability issues from a pomegranate competitor, a Mehadrin product in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9883843/drought-leaves-indian-pomegranate-exporters-short-of-suitable-fruit/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השפעת הבצורת על איכות הרימונים בהודו -- <span class=\"news-date\">16/10/2026 13:35</span></div><div class=\"news-body\">הבצורת ועקת המים בהודו פוגעים באיכות הרימונים, ומקשים על אספקת פירות העומדים במפרטים הבינלאומיים. מצב זה משבש כיום את המשלוחים מאזורי הייצור העיקריים בהודו. <span class=\"news-reason\">מידע על בעיות איכות וזמינות אצל מתחרה בתחום הרימונים, מוצר של מהדרין בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9883843/drought-leaves-indian-pomegranate-exporters-short-of-suitable-fruit/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1792240367_0",
-      "timestamp": "2026-10-17T12:32:47.449393+00:00",
-      "title": "Forte progression des exportations d&#x27;avocats de Tanzanie",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Forte progression des exportations d&#x27;avocats de Tanzanie -- <span class=\"news-date\">16/10/2026 06:05</span></div><div class=\"news-body\">La Tanzanie a exporté 52 000 tonnes d&#x27;avocats au cours de la saison 2025/26, dépassant largement son objectif de 40 000 tonnes initialement fixé pour 2030. Ces volumes représentent une progression massive de 237 % par rapport à la campagne 2020/21 où les exportations s&#x27;élevaient à 15 432,77 tonnes. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur les volumes d&#x27;exportation d&#x27;une origine concurrente majeure pour l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881784/le-esportazioni-di-avocado-della-tanzania-raggiungono-52-000-tonnellate-superando-l-obiettivo-per-il-2030/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Strong growth in Tanzanian avocado exports -- <span class=\"news-date\">16/10/2026 06:05</span></div><div class=\"news-body\">Tanzania exported 52,000 tonnes of avocados during the 2025/26 season, far exceeding its target of 40,000 tonnes initially set for 2030. These volumes represent a massive 237% increase compared to the 2020/21 campaign when exports amounted to 15,432.77 tonnes. <span class=\"news-reason\">The article provides specific figures on export volumes from a major competing origin for avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881784/le-esportazioni-di-avocado-della-tanzania-raggiungono-52-000-tonnellate-superando-l-obiettivo-per-il-2030/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">צמיחה חזקה בייצוא האבוקדו מטנזניה -- <span class=\"news-date\">16/10/2026 06:05</span></div><div class=\"news-body\">טנזניה ייצאה 52,000 טון אבוקדו במהלך עונת 2025/26, כשהיא עוקפת במידה ניכרת את היעד של 40,000 טון שנקבע במקור לשנת 2030. כמויות אלו מייצגות צמיחה מאסיבית של 237% בהשוואה לעונת 2020/21, שבה עמד הייצוא על 15,432.77 טון. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על נפחי הייצוא של מקור מתחרה מרכזי לאבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9881784/le-esportazioni-di-avocado-della-tanzania-raggiungono-52-000-tonnellate-superando-l-objectif-per-il-2030/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
