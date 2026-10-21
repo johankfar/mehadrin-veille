@@ -1,7 +1,46 @@
 {
-  "last_updated": "2026-10-21T12:34:15.892289+00:00",
-  "article_count": 41,
+  "last_updated": "2026-10-21T14:03:37.672862+00:00",
+  "article_count": 44,
   "attention_points": [
+    {
+      "id": "attention-78433fabfbf240c3",
+      "article_id": "1792591417_2",
+      "url": "https://www.freshplaza.es/article/9885178/si-manana-nos-dicen-que-pueden-entrar-manana-mismo-podemos-enviar/",
+      "source": "FreshPlaza ES",
+      "title": "Les exportateurs d'avocats de l'État de Mexico prêts pour",
+      "summary": "L'association APEAMEX confirme que les exigences techniques pour l'exportation vers les États-Unis sont désormais remplies par l'État de Mexico.",
+      "origin_code": "MEX",
+      "origin_label": "Mexique",
+      "published_at": "2026-10-21T15:41:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-99a350234e02a24a",
+      "article_id": "1792591417_0",
+      "url": "https://www.agrimaroc.ma/pasteque-tata-interdit-la-culture-hors-des-oasis-zagora-la-soumet-a-de-nouvelles-conditions/",
+      "source": "AgriMaroc",
+      "title": "Nouvelles restrictions de culture pour pastèque et melon",
+      "summary": "Pour la campagne 2026-2027, les autorités de Tata interdisent temporairement la culture de la pastèque hors des oasis.",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-10-21T13:02:26+00:00",
+      "published_at_source": "rss",
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
+      "products": [
+        "melon",
+        "watermelon"
+      ],
+      "age_hours": 1
+    },
     {
       "id": "attention-1d5cd5323737c862",
       "article_id": "1792586055_2",
@@ -19,7 +58,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 1
+      "age_hours": 2
     },
     {
       "id": "attention-57655e9feb8ef9e0",
@@ -38,46 +77,67 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 1
-    },
-    {
-      "id": "attention-33e16b066c9b1042",
-      "article_id": "1792580598_0",
-      "url": "https://www.freshplaza.it/article/9884853/sciopero-autotrasportatori-il-governo-sblocca-un-miliardo-blocchi-revocati-in-parte/",
-      "source": "FreshPlaza IT",
-      "title": "Italie : réouverture partielle des axes routiers après l'octroi",
-      "summary": "Le 20 octobre 2026, la grève des transporteurs dans le sud de l'Italie s'est poursuivie, créant d'importantes difficultés de distribution nationale.",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
-      "published_at": "2026-10-21T06:00:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [],
-      "age_hours": 8
-    },
-    {
-      "id": "attention-cf0db3671606a5d2",
-      "article_id": "1792558944_0",
-      "url": "https://www.freshplaza.es/article/9884726/la-sobreoferta-mexicana-limita-los-envios-de-aguacate-peruano-a-ee-uu-este-ano/",
-      "source": "FreshPlaza ES",
-      "title": "Baisse des exportations d'avocats du Pérou vers les États-Unis",
-      "summary": "La Peruvian Avocado Commission (PAC) a fortement révisé à la baisse ses estimations d'exportations d'avocats vers les États-Unis pour 2026, passant de 200 millions de livres initialement prévus à 140 millions (soit.",
-      "origin_code": "PER",
-      "origin_label": "Pérou",
-      "published_at": "2026-10-20T16:16:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "information",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 22
+      "age_hours": 2
     }
   ],
   "articles": [
+    {
+      "id": "1792591417_2",
+      "timestamp": "2026-10-21T14:03:37.672862+00:00",
+      "title": "Les exportateurs d&#x27;avocats de l&#x27;État de Mexico prêts pour le marché américain",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MEX",
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Les exportateurs d&#x27;avocats de l&#x27;État de Mexico prêts pour le marché américain -- <span class=\"news-date\">21/10/2026 15:41</span></div><div class=\"news-body\">L&#x27;association APEAMEX confirme que les exigences techniques pour l&#x27;exportation vers les États-Unis sont désormais remplies par l&#x27;État de Mexico. Le lancement effectif des expéditions dépend maintenant de la validation d&#x27;une procédure administrative interne par les autorités américaines. <span class=\"news-reason\">Information sur la stratégie et les nouveaux accès marchés d&#x27;une origine concurrente majeure pour l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885178/si-manana-nos-dicen-que-pueden-entrar-manana-mismo-podemos-enviar/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Avocado exporters from the State of Mexico ready for the US market -- <span class=\"news-date\">21/10/2026 15:41</span></div><div class=\"news-body\">The APEAMEX association confirms that technical requirements for export to the United States are now met by the State of Mexico. The effective launch of shipments now depends on the validation of an internal administrative procedure by US authorities. <span class=\"news-reason\">Information on the strategy and new market access of a major competing origin for avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885178/si-manana-nos-dicen-que-pueden-entrar-manana-mismo-podemos-enviar/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">יצואני אבוקדו ממדינת מקסיקו מוכנים לשוק האמריקאי -- <span class=\"news-date\">21/10/2026 15:41</span></div><div class=\"news-body\">איגוד APEAMEX מאשר כי הדרישות הטכניות לייצוא לארצות הברית ממולאות כעת על ידי מדינת מקסיקו. תחילת המשלוחים בפועל תלויה כעת באישור הליך מנהלי פנימי על ידי הרשויות בארצות הברית. <span class=\"news-reason\">מידע על האסטרטגיה וגישה לשווקים חדשים של מקור מתחרה מרכזי לאבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885178/si-manana-nos-dicen-que-pueden-entrar-manana-mismo-podemos-enviar/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1792591417_1",
+      "timestamp": "2026-10-21T14:03:37.672862+00:00",
+      "title": "Espagne : d&#x27;importants dégâts sur les cultures d&#x27;agrumes et d&#x27;avocats après le passage de la tempête Adam -- 21/10/2026 04:45",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia",
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Espagne : d&#x27;importants dégâts sur les cultures d&#x27;agrumes et d&#x27;avocats après le passage de la tempête Adam -- <span class=\"news-date\">21/10/2026 04:45</span></div><div class=\"news-body\">L&#x27;organisme Agroseguro rapporte des dommages causés par la tempête DANA ‘Adam’ sur plusieurs cultures, principalement les agrumes et les avocats. Les infrastructures agricoles, incluant les systèmes d&#x27;irrigation et les serres, ont également été touchées. <span class=\"news-reason\">Alerte supply impactant des produits Mehadrin (agrumes, avocats) chez un concurrent direct (Espagne).</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/agroseguro-recuerda-que-las-explotaciones-aseguradas-tienen-cubiertos-los-danos-provocados-por-la-dana-adam/\" target=\"_blank\">Hortoinfo -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Spain: significant damage to citrus and avocado crops after the passage of Storm Adam -- <span class=\"news-date\">21/10/2026 04:45</span></div><div class=\"news-body\">The organization Agroseguro reports damage caused by the DANA storm 'Adam' on several crops, mainly citrus and avocados. Agricultural infrastructure, including irrigation systems and greenhouses, were also affected. <span class=\"news-reason\">Supply alert impacting Mehadrin products (citrus, avocados) from a direct competitor (Spain).</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/agroseguro-recuerda-que-las-explotaciones-aseguradas-tienen-cubiertos-los-danos-provocados-por-la-dana-adam/\" target=\"_blank\">Hortoinfo -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ספרד: נזקים משמעותיים לגידולי הדרים ואבוקדו לאחר מעבר סופת אדם -- <span class=\"news-date\">21/10/2026 04:45</span></div><div class=\"news-body\">ארגון Agroseguro מדווח על נזקים שנגרמו על ידי סופת ה-DANA 'אדם' למספר גידולים, בעיקר הדרים ואבוקדו. התשתיות החקלאיות, הכוללות מערכות השקיה וחממות, נפגעו אף הן. <span class=\"news-reason\">התראת אספקה המשפיעה על מוצרי מהדרין (הדרים, אבוקדו) אצל מתחרה ישיר (ספרד).</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/agroseguro-recuerda-que-las-explotaciones-aseguradas-tienen-cubiertos-los-danos-provocados-por-la-dana-adam/\" target=\"_blank\">Hortoinfo -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1792591417_0",
+      "timestamp": "2026-10-21T14:03:37.672862+00:00",
+      "title": "Restrictions de culture sur le melon et la pastèque dans le sud du Maroc -- 21/10/2026 13:02",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Sébastien"
+      ],
+      "products": [
+        "melon",
+        "watermelon"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Restrictions de culture sur le melon et la pastèque dans le sud du Maroc -- <span class=\"news-date\">21/10/2026 13:02</span></div><div class=\"news-body\">Pour la campagne 2026-2027, les autorités de Tata interdisent temporairement la culture de la pastèque hors des oasis. À Zagora, la production reste autorisée mais soumise à des conditions administratives, foncières et hydriques strictes afin de limiter la consommation d&#x27;eau. <span class=\"news-reason\">Alerte supply majeure sur un produit Mehadrin (melon/pastèque) dans une origine clé (Maroc) pour la campagne 2026-2027.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/pasteque-tata-interdit-la-culture-hors-des-oasis-zagora-la-soumet-a-de-nouvelles-conditions/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Cultivation restrictions on melon and watermelon in southern Morocco -- <span class=\"news-date\">21/10/2026 13:02</span></div><div class=\"news-body\">For the 2026-2027 season, the authorities in Tata are temporarily banning watermelon cultivation outside of oases. In Zagora, production remains authorized but subject to strict administrative, land, and water conditions in order to limit water consumption. <span class=\"news-reason\">Major supply alert on a Mehadrin product (melon/watermelon) in a key origin (Morocco) for the 2026-2027 season.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/pasteque-tata-interdit-la-culture-hors-des-oasis-zagora-la-soumet-a-de-nouvelles-conditions/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">הגבלות על גידול מלון ואבטיח בדרום מרוקו -- <span class=\"news-date\">21/10/2026 13:02</span></div><div class=\"news-body\">לקראת עונת 2026-2027, רשויות טאטא אוסרות זמנית על גידול אבטיחים מחוץ לנאות המדבר. בזאגורה, הייצור נותר מותר אך כפוף לתנאים מנהליים, קרקעיים ומימיים מחמירים במטרה להגביל את צריכת המים. <span class=\"news-reason\">התראת אספקה משמעותית על מוצר מהדרין (מלון/אבטיח) במקור מפתח (מרוקו) לעונת 2026-2027.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/pasteque-tata-interdit-la-culture-hors-des-oasis-zagora-la-soumet-a-de-nouvelles-conditions/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1792586055_3",
       "timestamp": "2026-10-21T12:34:15.892289+00:00",
@@ -223,7 +283,7 @@
     {
       "id": "1792558944_0",
       "timestamp": "2026-10-21T05:02:24.984102+00:00",
-      "title": "Baisse des exportations d&#x27;avocats du Pérou vers les États-Unis en 2026",
+      "title": "Recul des exportations d&#x27;avocats du Pérou vers les États-Unis en 2026",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -236,14 +296,14 @@
         "MEX",
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse des exportations d&#x27;avocats du Pérou vers les États-Unis en 2026 -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">La Peruvian Avocado Commission (PAC) a fortement révisé à la baisse ses estimations d&#x27;exportations d&#x27;avocats vers les États-Unis pour 2026, passant de 200 millions de livres initialement prévus à 140 millions (soit environ 70 000 tonnes). Ce déclin est provoqué par une offre mexicaine excédentaire sur le marché américain, maintenant les prix à des niveaux inhabituellement bas. <span class=\"news-reason\">Analyse chiffrée des volumes d&#x27;exportation d&#x27;un concurrent direct (Pérou) sur un produit clé (avocat) avec indicateurs de prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884726/la-sobreoferta-mexicana-limita-los-envios-de-aguacate-peruano-a-ee-uu-este-ano/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul des exportations d&#x27;avocats du Pérou vers les États-Unis en 2026 -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">La Peruvian Avocado Commission (PAC) a fortement révisé à la baisse ses estimations d&#x27;exportations d&#x27;avocats vers les États-Unis pour 2026, passant de 200 millions de livres initialement prévus à 140 millions (soit environ 70 000 tonnes). Ce déclin est provoqué par une offre mexicaine excédentaire sur le marché américain, maintenant les prix à des niveaux inhabituellement bas. <span class=\"news-reason\">Analyse chiffrée des volumes d&#x27;exportation d&#x27;un concurrent direct (Pérou) sur un produit clé (avocat) avec indicateurs de prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884726/la-sobreoferta-mexicana-limita-los-envios-de-aguacate-peruano-a-ee-uu-este-ano/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decrease in avocado exports from Peru to the United States in 2026 -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">The Peruvian Avocado Commission (PAC) has significantly revised downwards its avocado export estimates to the United States for 2026, from an initial forecast of 200 million pounds to 140 million (approximately 70,000 tonnes). This decline is caused by an oversupply from Mexico on the US market, keeping prices at unusually low levels. <span class=\"news-reason\">Numerical analysis of export volumes from a direct competitor (Peru) for a key product (avocado) with price indicators.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884726/la-sobreoferta-mexicana-limita-los-envios-de-aguacate-peruano-a-ee-uu-este-ano/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה בייצוא אבוקדו מפרו לארצות הברית בשנת 2026 -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">ועדת האבוקדו הפרואנית (PAC) עדכנה בחדות כלפי מטה את הערכות ייצוא האבוקדו שלה לארצות הברית לשנת 2026, מ-200 מיליון פאונד שתוכננו במקור ל-140 מיליון (כ-70,000 טון). ירידה זו נגרמת מהיצע מקסיקני עודף בשוק האמריקאי, השומר על המחירים ברמות נמוכות באופן חריג. <span class=\"news-reason\">ניתוח כמותי של היקפי הייצוא של מתחרה ישיר (פרו) במוצר מפתח (אבוקדו) עם מדדי מחירים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884726/la-sobreoferta-mexicana-limita-los-envios-de-aguacate-peruano-a-ee-uu-este-ano/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1792515753_1",
       "timestamp": "2026-10-20T17:02:33.362900+00:00",
-      "title": "2ème Sommet de l’Avocat au Maroc : focus sur l’écart de rendement",
+      "title": "2e Sommet de l&#x27;Avocat au Maroc : focus sur l&#x27;écart de rendement",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -254,7 +314,7 @@
       "origins": [
         "MAR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">2ème Sommet de l’Avocat au Maroc : focus sur l’écart de rendement -- <span class=\"news-date\">20/10/2026 10:28</span></div><div class=\"news-body\">Le deuxième sommet marocain de l&#x27;avocat s&#x27;est tenu le 15 octobre à Larache, réunissant 250 participants, principalement des petits exploitants. Les échanges ont porté sur la réduction de l&#x27;écart de rendement et l&#x27;intégration de la chaîne de valeur, impliquant producteurs, exportateurs, fournisseurs et institutions bancaires. <span class=\"news-reason\">Information stratégique sur la structuration de la filière avocat chez un concurrent direct (Maroc).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883922/ertragslucke-steht-beim-zweiten-marokkanischen-avocado-gipfel-ganz-oben-auf-der-tagesordnung/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">2e Sommet de l&#x27;Avocat au Maroc : focus sur l&#x27;écart de rendement -- <span class=\"news-date\">20/10/2026 10:28</span></div><div class=\"news-body\">Le deuxième sommet marocain de l&#x27;avocat s&#x27;est tenu le 15 octobre à Larache, réunissant 250 participants, principalement des petits exploitants. Les échanges ont porté sur la réduction de l&#x27;écart de rendement et l&#x27;intégration de la chaîne de valeur, impliquant producteurs, exportateurs, fournisseurs et institutions bancaires. <span class=\"news-reason\">Information stratégique sur la structuration de la filière avocat chez un concurrent direct (Maroc).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883922/ertragslucke-steht-beim-zweiten-marokkanischen-avocado-gipfel-ganz-oben-auf-der-tagesordnung/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Second Avocado Summit in Morocco: focus on the yield gap -- <span class=\"news-date\">20/10/2026 10:28</span></div><div class=\"news-body\">The second Moroccan avocado summit was held on October 15 in Larache, bringing together 250 participants, mainly smallholders. Discussions focused on reducing the yield gap and integrating the value chain, involving producers, exporters, suppliers, and banking institutions. <span class=\"news-reason\">Strategic information on the structuring of the avocado sector in a direct competitor (Morocco).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883922/ertragslucke-steht-beim-zweiten-marokkanischen-avocado-gipfel-ganz-oben-auf-der-tagesordnung/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">פסגת האבוקדו השנייה במרוקו: התמקדות בפער היבולים -- <span class=\"news-date\">20/10/2026 10:28</span></div><div class=\"news-body\">פסגת האבוקדו המרוקאית השנייה נערכה ב-15 באוקטובר בלאראש, וכינסה 250 משתתפים, בעיקר חקלאים קטנים. הדיונים עסקו בצמצום פער היבולים ובשילוב שרשרת הערך, תוך שיתוף יצרנים, יצואנים, ספקים ומוסדות בנקאיים. <span class=\"news-reason\">מידע אסטרטגי על מבנה ענף האבוקדו אצל מתחרה ישיר (מרוקו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883922/ertragslucke-steht-beim-zweiten-marokkanischen-avocado-gipfel-ganz-oben-auf-der-tagesordnung/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -284,7 +344,7 @@
     {
       "id": "1792510334_1",
       "timestamp": "2026-10-20T15:32:14.029911+00:00",
-      "title": "L&#x27;interprofession espagnole de l&#x27;avocat et de la mangue prévoit une forte expansion",
+      "title": "L&#x27;Interprofession espagnole de l&#x27;avocat et de la mangue prévoit une forte expansion",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -296,7 +356,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;interprofession espagnole de l&#x27;avocat et de la mangue prévoit une forte expansion -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">L&#x27;organisation interprofessionnelle espagnole Intertropic, reconnue officiellement fin 2023, franchit une étape clé avec l&#x27;approbation de son extension de règles en août 2025. Le secteur anticipe une croissance majeure de la production d&#x27;avocats et de mangues en Espagne, visant une dimension de production nettement supérieure à celle observée actuellement. <span class=\"news-reason\">Information stratégique sur le positionnement et la croissance future d&#x27;un concurrent direct sur l&#x27;avocat et la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884745/el-sector-del-aguacate-y-el-mango-de-espana-llegara-a-tener-una-dimension-que-no-tiene-nada-que-ver-con-la-de-ahora/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;Interprofession espagnole de l&#x27;avocat et de la mangue prévoit une forte expansion -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">L&#x27;organisation interprofessionnelle espagnole Intertropic, reconnue officiellement fin 2023, franchit une étape clé avec l&#x27;approbation de son extension de règles en août 2025. Le secteur anticipe une croissance majeure de la production d&#x27;avocats et de mangues en Espagne, visant une dimension de production nettement supérieure à celle observée actuellement. <span class=\"news-reason\">Information stratégique sur le positionnement et la croissance future d&#x27;un concurrent direct sur l&#x27;avocat et la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884745/el-sector-del-aguacate-y-el-mango-de-espana-llegara-a-tener-una-dimension-que-no-tiene-nada-que-ver-con-la-de-ahora/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">The Spanish avocado and mango interprofessional organization anticipates strong expansion. -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">The Spanish interprofessional organization Intertropic, officially recognized in late 2023, is reaching a key milestone with the approval of its extension of rules in August 2025. The sector anticipates major growth in avocado and mango production in Spain, aiming for a production scale significantly higher than currently observed. <span class=\"news-reason\">Strategic information on the positioning and future growth of a direct competitor for avocado and mango.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884745/el-sector-del-aguacate-y-el-mango-de-espana-llegara-a-tener-una-dimension-que-no-tiene-nada-que-ver-con-la-de-ahora/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">הארגון הבין-מקצועי הספרדי לאבוקדו ומנגו צופה התרחבות משמעותית. -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">הארגון הבין-מקצועי הספרדי Intertropic, שהוכר רשמית בסוף 2023, עובר שלב מפתח עם אישור הרחבת הכללים שלו באוגוסט 2025. המגזר צופה צמיחה משמעותית בייצור האבוקדו והמנגו בספרד, במטרה להגיע להיקף ייצור גבוה משמעותית מזה הנצפה כיום. <span class=\"news-reason\">מידע אסטרטגי על המיצוב והצמיחה העתידית של מתחרה ישיר באבוקדו ובמנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884745/el-sector-del-aguacate-y-el-mango-de-espana-llegara-a-tener-una-dimension-que-no-tiene-nada-que-ver-con-la-de-ahora/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -532,7 +592,7 @@
     {
       "id": "1792423982_6",
       "timestamp": "2026-10-19T15:33:02.160561+00:00",
-      "title": "Espagne : Lancement de cinq nouvelles variétés de mandarines",
+      "title": "Espagne : lancement de cinq nouvelles variétés de mandarines",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -543,7 +603,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Espagne : Lancement de cinq nouvelles variétés de mandarines -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">Le secteur agrumicole espagnol a présenté cinq nouvelles variétés de mandarines (Mina, Sando, XLO, Olé et Havva) lors des Journées Citricoles de La Plana. Ces variétés sont destinées à diversifier l&#x27;offre et à prolonger le calendrier de production dans la région de Castellón. <span class=\"news-reason\">Veille variétale sur un produit stratégique (mandarine) chez le concurrent espagnol.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884277/cinco-nuevas-variedades-de-mandarina-presentadas-en-las-vi-jornadas-citricolas-de-la-plana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Espagne : lancement de cinq nouvelles variétés de mandarines -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">Le secteur agrumicole espagnol a présenté cinq nouvelles variétés de mandarines (Mina, Sando, XLO, Olé et Havva) lors des Journées Citricoles de La Plana. Ces variétés sont destinées à diversifier l&#x27;offre et à prolonger le calendrier de production dans la région de Castellón. <span class=\"news-reason\">Veille variétale sur un produit stratégique (mandarine) chez le concurrent espagnol.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884277/cinco-nuevas-variedades-de-mandarina-presentadas-en-las-vi-jornadas-citricolas-de-la-plana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Launch of five new mandarin varieties in Spain -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">The Spanish citrus sector presented five new mandarin varieties (Mina, Sando, XLO, Olé, and Havva) during the La Plana Citrus Days. These varieties are intended to diversify the offer and extend the production schedule in the Castellón region. <span class=\"news-reason\">Varietal monitoring of a strategic product (mandarin) from the Spanish competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884277/cinco-nuevas-variedades-de-mandarina-presentadas-en-las-vi-jornadas-citricolas-de-la-plana/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">השקת חמישה זנים חדשים של מנדרינות בספרד -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">ענף פירות ההדר בספרד הציג חמישה זנים חדשים של מנדרינות (Mina, Sando, XLO, Olé ו-Havva) במהלך \"ימי ההדרים של לה פלאנה\". זנים אלו נועדו לגוון את ההיצע ולהאריך את לוח הזמנים של הייצור באזור קסטלון. <span class=\"news-reason\">מעקב אחר זנים עבור מוצר אסטרטגי (מנדרינה) אצל המתחרה הספרדי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884277/cinco-nuevas-variedades-de-mandarina-presentadas-en-las-vi-jornadas-citricolas-de-la-plana/\" target=\"_blank\">FreshPlaza ES -- קרא את המאמר</a></div></div>"
     },
