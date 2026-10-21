@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-21T14:03:37.672862+00:00",
-  "article_count": 44,
+  "last_updated": "2026-10-21T15:33:43.329760+00:00",
+  "article_count": 46,
   "attention_points": [
+    {
+      "id": "attention-05ea1b5ba55b0c9a",
+      "article_id": "1792596823_0",
+      "url": "https://www.freshplaza.es/article/9885179/moquegua-en-peru-incorpora-la-granada-con-la-vista-puesta-en-el-mercado-chino/",
+      "source": "FreshPlaza ES",
+      "title": "Le Pérou accroît sa production de grenades à destination",
+      "summary": "Dans la région de Moquegua au Pérou, l'initiative Innovagro a distribué 4 000 plants de grenades aux producteurs locaux.",
+      "origin_code": "PER",
+      "origin_label": "Pérou",
+      "published_at": "2026-10-21T15:41:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "pomegranate"
+      ],
+      "age_hours": 1
+    },
     {
       "id": "attention-78433fabfbf240c3",
       "article_id": "1792591417_2",
@@ -19,7 +38,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 0
+      "age_hours": 1
     },
     {
       "id": "attention-99a350234e02a24a",
@@ -38,25 +57,6 @@
       "products": [
         "melon",
         "watermelon"
-      ],
-      "age_hours": 1
-    },
-    {
-      "id": "attention-1d5cd5323737c862",
-      "article_id": "1792586055_2",
-      "url": "https://www.freshplaza.com/article/9885065/missed-window-for-moroccan-green-skins/",
-      "source": "FreshPlaza",
-      "title": "Maroc : une opportunité manquée pour les avocats",
-      "summary": "Le début de campagne est marqué par des prix agressifs",
-      "origin_code": "MAR",
-      "origin_label": "Maroc",
-      "published_at": "2026-10-21T13:28:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "avocat"
       ],
       "age_hours": 2
     },
@@ -77,10 +77,46 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 2
+      "age_hours": 4
     }
   ],
   "articles": [
+    {
+      "id": "1792596823_1",
+      "timestamp": "2026-10-21T15:33:43.329760+00:00",
+      "title": "La production d&#x27;avocats en Australie-Occidentale chute de 40 à 50 %",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La production d&#x27;avocats en Australie-Occidentale chute de 40 à 50 % -- <span class=\"news-date\">21/10/2026 15:41</span></div><div class=\"news-body\">L&#x27;exportateur The Avolution prévoit une baisse significative de la production d&#x27;avocats en Australie-Occidentale, estimée entre 40 et 50 % pour la saison en cours. Cette chute de volume intervient alors que l&#x27;offre nationale effectue sa transition depuis les zones de culture de l&#x27;est vers l&#x27;ouest du pays. <span class=\"news-reason\">Alerte de production majeure avec chiffres précis sur un produit phare (avocat) d&#x27;une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884391/preven-una-caida-del-40-50-en-la-produccion-de-aguacate-de-australia-occidental-esta-temporada/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Avocado production in Western Australia drops by 40 to 50% -- <span class=\"news-date\">21/10/2026 15:41</span></div><div class=\"news-body\">The exporter The Avolution predicts a significant drop in avocado production in Western Australia, estimated at between 40 and 50% for the current season. This drop in volume occurs as the national supply transitions from growing areas in the east to the west of the country. <span class=\"news-reason\">Major production alert with precise figures on a flagship product (avocado) from a competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884391/preven-una-caida-del-40-50-en-la-produccion-de-aguacate-de-australia-occidental-esta-temporada/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ייצור האבוקדו במערב אוסטרליה צונח ב-40 עד 50% -- <span class=\"news-date\">21/10/2026 15:41</span></div><div class=\"news-body\">היצואנית The Avolution צופה ירידה משמעותית בייצור האבוקדו במערב אוסטרליה, המוערכת ב-40 עד 50 אחוזים לעונה הנוכחית. ירידה זו בנפח הייצור מתרחשת בזמן שההיצע הלאומי עובר מאזורי הגידול במזרח למערב המדינה. <span class=\"news-reason\">התראת ייצור משמעותית עם נתונים מדויקים על מוצר דגל (אבוקדו) ממקור מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884391/preven-una-caida-del-40-50-en-la-produccion-de-aguacate-de-australia-occidental-esta-temporada/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1792596823_0",
+      "timestamp": "2026-10-21T15:33:43.329760+00:00",
+      "title": "Le Pérou accroît sa production de grenades à destination du marché chinois",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [
+        "pomegranate"
+      ],
+      "origins": [
+        "ISR",
+        "PER",
+        "CHN"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le Pérou accroît sa production de grenades à destination du marché chinois -- <span class=\"news-date\">21/10/2026 15:41</span></div><div class=\"news-body\">Dans la région de Moquegua au Pérou, l&#x27;initiative Innovagro a distribué 4 000 plants de grenades aux producteurs locaux. Ce développement de la filière coïncide avec l&#x27;ouverture récente du marché chinois aux grenades péruviennes, ouvrant de nouvelles perspectives d&#x27;exportation pour cette origine concurrente d&#x27;Israël. <span class=\"news-reason\">Informations sur l&#x27;expansion de culture d&#x27;une origine concurrente sur un produit Mehadrin (grenade) avec des chiffres de plantation.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885179/moquegua-en-peru-incorpora-la-granada-con-la-vista-puesta-en-el-mercado-chino/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Peru increases its pomegranate production for the Chinese market -- <span class=\"news-date\">21/10/2026 15:41</span></div><div class=\"news-body\">In the Moquegua region of Peru, the Innovagro initiative has distributed 4,000 pomegranate seedlings to local producers. This development in the sector coincides with the recent opening of the Chinese market to Peruvian pomegranates, opening up new export prospects for this origin competing with Israel. <span class=\"news-reason\">Information on the cultivation expansion of a competing origin for a Mehadrin product (pomegranate) with planting figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885179/moquegua-en-peru-incorpora-la-granada-con-la-vista-puesta-en-el-mercado-chino/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">פרו מגדילה את ייצור הרימונים עבור השוק הסיני -- <span class=\"news-date\">21/10/2026 15:41</span></div><div class=\"news-body\">באזור מוקגואה (Moquegua) שבפרו, יוזמת Innovagro חילקה 4,000 שתילי רימונים למגדלים מקומיים. פיתוח זה של הענף עולה בקנה אחד עם הפתיחה האחרונה של השוק הסיני לרימונים מפרו, מה שפותח אופקים חדשים לייצוא עבור מקור זה המתחרה בישראל. <span class=\"news-reason\">מידע על התרחבות הגידול של מקור מתחרה במוצר מהדרין (רימון) עם נתוני נטיעה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885179/moquegua-en-peru-incorpora-la-granada-con-la-vista-puesta-en-el-mercado-chino/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1792591417_2",
       "timestamp": "2026-10-21T14:03:37.672862+00:00",
@@ -303,7 +339,7 @@
     {
       "id": "1792515753_1",
       "timestamp": "2026-10-20T17:02:33.362900+00:00",
-      "title": "2e Sommet de l&#x27;Avocat au Maroc : focus sur l&#x27;écart de rendement",
+      "title": "2e Sommet de l&#x27;avocat au Maroc : focus sur l&#x27;écart de rendement",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -314,14 +350,14 @@
       "origins": [
         "MAR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">2e Sommet de l&#x27;Avocat au Maroc : focus sur l&#x27;écart de rendement -- <span class=\"news-date\">20/10/2026 10:28</span></div><div class=\"news-body\">Le deuxième sommet marocain de l&#x27;avocat s&#x27;est tenu le 15 octobre à Larache, réunissant 250 participants, principalement des petits exploitants. Les échanges ont porté sur la réduction de l&#x27;écart de rendement et l&#x27;intégration de la chaîne de valeur, impliquant producteurs, exportateurs, fournisseurs et institutions bancaires. <span class=\"news-reason\">Information stratégique sur la structuration de la filière avocat chez un concurrent direct (Maroc).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883922/ertragslucke-steht-beim-zweiten-marokkanischen-avocado-gipfel-ganz-oben-auf-der-tagesordnung/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">2e Sommet de l&#x27;avocat au Maroc : focus sur l&#x27;écart de rendement -- <span class=\"news-date\">20/10/2026 10:28</span></div><div class=\"news-body\">Le deuxième sommet marocain de l&#x27;avocat s&#x27;est tenu le 15 octobre à Larache, réunissant 250 participants, principalement des petits exploitants. Les échanges ont porté sur la réduction de l&#x27;écart de rendement et l&#x27;intégration de la chaîne de valeur, impliquant producteurs, exportateurs, fournisseurs et institutions bancaires. <span class=\"news-reason\">Information stratégique sur la structuration de la filière avocat chez un concurrent direct (Maroc).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883922/ertragslucke-steht-beim-zweiten-marokkanischen-avocado-gipfel-ganz-oben-auf-der-tagesordnung/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Second Avocado Summit in Morocco: focus on the yield gap -- <span class=\"news-date\">20/10/2026 10:28</span></div><div class=\"news-body\">The second Moroccan avocado summit was held on October 15 in Larache, bringing together 250 participants, mainly smallholders. Discussions focused on reducing the yield gap and integrating the value chain, involving producers, exporters, suppliers, and banking institutions. <span class=\"news-reason\">Strategic information on the structuring of the avocado sector in a direct competitor (Morocco).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883922/ertragslucke-steht-beim-zweiten-marokkanischen-avocado-gipfel-ganz-oben-auf-der-tagesordnung/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">פסגת האבוקדו השנייה במרוקו: התמקדות בפער היבולים -- <span class=\"news-date\">20/10/2026 10:28</span></div><div class=\"news-body\">פסגת האבוקדו המרוקאית השנייה נערכה ב-15 באוקטובר בלאראש, וכינסה 250 משתתפים, בעיקר חקלאים קטנים. הדיונים עסקו בצמצום פער היבולים ובשילוב שרשרת הערך, תוך שיתוף יצרנים, יצואנים, ספקים ומוסדות בנקאיים. <span class=\"news-reason\">מידע אסטרטגי על מבנה ענף האבוקדו אצל מתחרה ישיר (מרוקו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883922/ertragslucke-steht-beim-zweiten-marokkanischen-avocado-gipfel-ganz-oben-auf-der-tagesordnung/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1792515753_0",
       "timestamp": "2026-10-20T17:02:33.362900+00:00",
-      "title": "L&#x27;USDA met en garde contre l&#x27;impact d&#x27;El Niño sur la production d&#x27;oranges et de mangues au Brésil",
+      "title": "L&#x27;USDA alerte sur l&#x27;impact d&#x27;El Niño sur la production d&#x27;oranges et de mangues au Brésil",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia",
@@ -337,7 +373,7 @@
         "BRA",
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;USDA met en garde contre l&#x27;impact d&#x27;El Niño sur la production d&#x27;oranges et de mangues au Brésil -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">Selon le département de l&#x27;Agriculture des États-Unis (USDA), le phénomène El Niño menace la production fruitière du Brésil pour le cycle 2026/27. Les prévisions indiquent des effets directs sur la qualité et les volumes disponibles pour les oranges, ainsi que pour les mangues et les raisins, affectant potentiellement les flux d&#x27;exportation. <span class=\"news-reason\">Alerte sur la disponibilité et la qualité d&#x27;un produit Mehadrin (oranges) chez une origine concurrente majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883862/usda-advierte-que-el-nino-amenaza-naranjas-uvas-y-mangos-de-brasil-en-2026-27/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;USDA alerte sur l&#x27;impact d&#x27;El Niño sur la production d&#x27;oranges et de mangues au Brésil -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">Selon le département de l&#x27;Agriculture des États-Unis (USDA), le phénomène El Niño menace la production fruitière du Brésil pour le cycle 2026/27. Les prévisions indiquent des effets directs sur la qualité et les volumes disponibles pour les oranges, ainsi que pour les mangues et les raisins, affectant potentiellement les flux d&#x27;exportation. <span class=\"news-reason\">Alerte sur la disponibilité et la qualité d&#x27;un produit Mehadrin (oranges) chez une origine concurrente majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883862/usda-advierte-que-el-nino-amenaza-naranjas-uvas-y-mangos-de-brasil-en-2026-27/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">USDA warns of El Niño impact on orange and mango production in Brazil -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">According to the United States Department of Agriculture (USDA), the El Niño phenomenon threatens Brazil&#x27;s fruit production for the 2026/27 cycle. Forecasts indicate direct effects on the quality and available volumes for oranges, as well as for mangoes and grapes, potentially affecting export flows. <span class=\"news-reason\">Alert on the availability and quality of a Mehadrin product (oranges) from a major competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883862/usda-advierte-que-el-nino-amenaza-naranjas-uvas-y-mangos-de-brasil-en-2026-27/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">משרד החקלאות האמריקאי (USDA) מזהיר מפני השפעת אל ניניו על ייצור התפוזים והמנגו בברזיל -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">לפי משרד החקלאות של ארצות הברית (USDA), תופעת אל ניניו מאיימת על ייצור הפירות של ברזיל למחזור 2026/27. התחזיות מצביעות על השפעות ישירות על האיכות והכמויות הזמינות של תפוזים, כמו גם של מנגו וענבים, מה שעלול להשפיע על זרמי הייצוא. <span class=\"news-reason\">התראה על זמינות ואיכות של מוצר מהדרין (תפוזים) במקור מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883862/usda-advierte-que-el-nino-amenaza-naranjas-uvas-y-mangos-de-brasil-en-2026-27/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -592,7 +628,7 @@
     {
       "id": "1792423982_6",
       "timestamp": "2026-10-19T15:33:02.160561+00:00",
-      "title": "Espagne : lancement de cinq nouvelles variétés de mandarines",
+      "title": "Espagne : Lancement de cinq nouvelles variétés de mandarines",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -603,7 +639,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Espagne : lancement de cinq nouvelles variétés de mandarines -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">Le secteur agrumicole espagnol a présenté cinq nouvelles variétés de mandarines (Mina, Sando, XLO, Olé et Havva) lors des Journées Citricoles de La Plana. Ces variétés sont destinées à diversifier l&#x27;offre et à prolonger le calendrier de production dans la région de Castellón. <span class=\"news-reason\">Veille variétale sur un produit stratégique (mandarine) chez le concurrent espagnol.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884277/cinco-nuevas-variedades-de-mandarina-presentadas-en-las-vi-jornadas-citricolas-de-la-plana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Espagne : Lancement de cinq nouvelles variétés de mandarines -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">Le secteur agrumicole espagnol a présenté cinq nouvelles variétés de mandarines (Mina, Sando, XLO, Olé et Havva) lors des Journées Citricoles de La Plana. Ces variétés sont destinées à diversifier l&#x27;offre et à prolonger le calendrier de production dans la région de Castellón. <span class=\"news-reason\">Veille variétale sur un produit stratégique (mandarine) chez le concurrent espagnol.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884277/cinco-nuevas-variedades-de-mandarina-presentadas-en-las-vi-jornadas-citricolas-de-la-plana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Launch of five new mandarin varieties in Spain -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">The Spanish citrus sector presented five new mandarin varieties (Mina, Sando, XLO, Olé, and Havva) during the La Plana Citrus Days. These varieties are intended to diversify the offer and extend the production schedule in the Castellón region. <span class=\"news-reason\">Varietal monitoring of a strategic product (mandarin) from the Spanish competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884277/cinco-nuevas-variedades-de-mandarina-presentadas-en-las-vi-jornadas-citricolas-de-la-plana/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">השקת חמישה זנים חדשים של מנדרינות בספרד -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">ענף פירות ההדר בספרד הציג חמישה זנים חדשים של מנדרינות (Mina, Sando, XLO, Olé ו-Havva) במהלך \"ימי ההדרים של לה פלאנה\". זנים אלו נועדו לגוון את ההיצע ולהאריך את לוח הזמנים של הייצור באזור קסטלון. <span class=\"news-reason\">מעקב אחר זנים עבור מוצר אסטרטגי (מנדרינה) אצל המתחרה הספרדי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884277/cinco-nuevas-variedades-de-mandarina-presentadas-en-las-vi-jornadas-citricolas-de-la-plana/\" target=\"_blank\">FreshPlaza ES -- קרא את המאמר</a></div></div>"
     },
@@ -624,7 +660,7 @@
     {
       "id": "1792423982_4",
       "timestamp": "2026-10-19T15:33:02.160561+00:00",
-      "title": "Expansion de l&#x27;orange sanguine Tarocco de Sicile sur le marché européen",
+      "title": "Expansion de l’orange sanguine Tarocco de Sicile sur le marché européen",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -636,14 +672,14 @@
         "ITA",
         "NLD"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Expansion de l&#x27;orange sanguine Tarocco de Sicile sur le marché européen -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">Les oranges sanguines siciliennes de la variété Tarocco connaissent une popularité croissante en Europe. Des grossistes néerlandais rapportent que ce produit devient un incontournable saisonnier dans leurs assortiments, valorisé par sa couleur et ses qualités gustatives auprès des consommateurs européens. <span class=\"news-reason\">Analyse de tendance sur un agrume Mehadrin (orange) au sein du marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883575/el-sabor-el-color-y-la-estacionalidad-determinan-el-auge-de-la-naranja-sanguina-tarocco-en-el-mercado-europeo/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Expansion de l’orange sanguine Tarocco de Sicile sur le marché européen -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">Les oranges sanguines siciliennes de la variété Tarocco connaissent une popularité croissante en Europe. Des grossistes néerlandais rapportent que ce produit devient un incontournable saisonnier dans leurs assortiments, valorisé par sa couleur et ses qualités gustatives auprès des consommateurs européens. <span class=\"news-reason\">Analyse de tendance sur un agrume Mehadrin (orange) au sein du marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883575/el-sabor-el-color-y-la-estacionalidad-determinan-el-auge-de-la-naranja-sanguina-tarocco-en-el-mercado-europeo/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Expansion of Sicilian Tarocco blood orange in the European market -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">Sicilian blood oranges of the Tarocco variety are enjoying growing popularity in Europe. Dutch wholesalers report that this product is becoming a seasonal staple in their assortments, valued for its color and taste qualities by European consumers. <span class=\"news-reason\">Trend analysis on a Mehadrin citrus fruit (orange) within the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883575/el-sabor-el-color-y-la-estacionalidad-determinan-el-auge-de-la-naranja-sanguina-tarocco-en-el-mercado-europeo/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">התרחבות תפוז הדם Tarocco מסיציליה בשוק האירופי -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">תפוזי הדם הסיציליאניים מזן Tarocco זוכים לפופולריות גוברת באירופה. סיטונאים הולנדים מדווחים כי מוצר זה הופך לפריט חובה עונתי במגוון שלהם, המוערך בזכות צבעו ואיכויות הטעם שלו על ידי הצרכנים האירופים. <span class=\"news-reason\">ניתוח מגמות של פרי הדר של מהדרין (תפוז) בתוך השוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883575/el-sabor-el-color-y-la-estacionalidad-determinan-el-auge-de-la-naranja-sanguina-tarocco-en-el-mercado-europeo/\" target=\"_blank\">FreshPlaza ES -- קרא את המאמר</a></div></div>"
     },
     {
       "id": "1792423982_3",
       "timestamp": "2026-10-19T15:33:02.160561+00:00",
-      "title": "Croatie : forte demande pour les grenades turques Hicaz",
+      "title": "Croatie : demande soutenue pour les grenades turques Hicaz",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -654,7 +690,7 @@
       "origins": [
         "TUR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Croatie : forte demande pour les grenades turques Hicaz -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">La campagne de grenade turque se déroule positivement avec une bonne qualité et une offre stable. En Croatie, la demande est forte pour la variété Hicaz, qui prend le relais sur le marché après la fin de la disponibilité de la variété Wonderful. Les exportateurs prévoient une suite de saison favorable. <span class=\"news-reason\">Information sur la concurrence directe en saison (grenade d&#x27;origine Turquie) et les tendances variétales.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883597/la-granada-turca-se-vende-muy-bien-en-croacia/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Croatie : demande soutenue pour les grenades turques Hicaz -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">La campagne de grenade turque se déroule positivement avec une bonne qualité et une offre stable. En Croatie, la demande est forte pour la variété Hicaz, qui prend le relais sur le marché après la fin de la disponibilité de la variété Wonderful. Les exportateurs prévoient une suite de saison favorable. <span class=\"news-reason\">Information sur la concurrence directe en saison (grenade d&#x27;origine Turquie) et les tendances variétales.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883597/la-granada-turca-se-vende-muy-bien-en-croacia/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Strong demand for Turkish Hicaz pomegranates in Croatia -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">The Turkish pomegranate campaign is proceeding positively with good quality and stable supply. In Croatia, demand is strong for the Hicaz variety, which is taking over the market after the end of the availability of the Wonderful variety. Exporters anticipate a favorable continuation of the season. <span class=\"news-reason\">Information on direct competition in season (pomegranate of Turkish origin) and varietal trends.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883597/la-granada-turca-se-vende-muy-bien-en-croacia/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">ביקוש גבוה לרימוני Hicaz טורקיים בקרואטיה -- <span class=\"news-date\">19/10/2026 16:00</span></div><div class=\"news-body\">קמפיין הרימונים הטורקי מתקדם בצורה חיובית עם איכות טובה ואספקה יציבה. בקרואטיה קיים ביקוש רב לזן Hicaz, שתופס את מקומו בשוק לאחר סיום הזמינות של זן ה-Wonderful. היצואנים צופים המשך עונה נוח. <span class=\"news-reason\">מידע על תחרות ישירה בעונה (רימון שמקורו בטורקיה) ומגמות של זנים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883597/la-granada-turca-se-vende-muy-bien-en-croacia/\" target=\"_blank\">FreshPlaza ES -- קרא את המאמר</a></div></div>"
     },
