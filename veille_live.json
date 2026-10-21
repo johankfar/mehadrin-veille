@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-20T17:02:33.362900+00:00",
-  "article_count": 32,
+  "last_updated": "2026-10-21T05:02:24.984102+00:00",
+  "article_count": 33,
   "attention_points": [
     {
       "id": "attention-87f2a129b88d0797",
       "article_id": "1792515753_0",
       "url": "https://www.freshplaza.es/article/9883862/usda-advierte-que-el-nino-amenaza-naranjas-uvas-y-mangos-de-brasil-en-2026-27/",
       "source": "FreshPlaza ES",
-      "title": "L'USDA met en garde contre l'impact d'El Niño sur",
+      "title": "L'USDA alerte sur l'impact d'El Niño sur la production",
       "summary": "Selon le département de l'Agriculture des États-Unis (USDA), le phénomène El Niño menace la production fruitière du Brésil pour le cycle 2026/27.",
       "origin_code": "BRA",
       "origin_label": "Brésil",
@@ -21,7 +21,26 @@
         "orange",
         "apple"
       ],
-      "age_hours": 2
+      "age_hours": 14
+    },
+    {
+      "id": "attention-cf0db3671606a5d2",
+      "article_id": "1792558944_0",
+      "url": "https://www.freshplaza.es/article/9884726/la-sobreoferta-mexicana-limita-los-envios-de-aguacate-peruano-a-ee-uu-este-ano/",
+      "source": "FreshPlaza ES",
+      "title": "Recul des exportations d'avocats du Pérou vers les États-Unis",
+      "summary": "La Peruvian Avocado Commission (PAC) a fortement révisé à la baisse ses estimations d'exportations d'avocats vers les États-Unis pour 2026, passant de 200 millions de livres initialement prévus à 140 millions (soit.",
+      "origin_code": "PER",
+      "origin_label": "Pérou",
+      "published_at": "2026-10-20T16:16:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "information",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 14
     },
     {
       "id": "attention-1bd731bc1b8301d8",
@@ -40,7 +59,7 @@
       "products": [
         "melon"
       ],
-      "age_hours": 5
+      "age_hours": 17
     },
     {
       "id": "attention-4c22e031e54d8b70",
@@ -59,29 +78,30 @@
       "products": [
         "date"
       ],
-      "age_hours": 5
-    },
-    {
-      "id": "attention-3295e284e5e8f927",
-      "article_id": "1792499617_0",
-      "url": "https://www.agf.nl/article/9884402/ivoorkust-wil-mango-export-naar-eu-hervatten-na-problemen-met-fruitvliegjes/",
-      "source": "AGF.nl",
-      "title": "La Côte d'Ivoire suspend ses exportations de mangues vers",
-      "summary": "Les exportations de mangues de Côte d'Ivoire vers l'Union européenne sont suspendues depuis le 1er août 2026 en raison de multiples interceptions de mouches des fruits.",
-      "origin_code": "CIV",
-      "origin_label": "Côte d'Ivoire",
-      "published_at": "2026-10-20T12:09:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [
-        "mango"
-      ],
-      "age_hours": 6
+      "age_hours": 17
     }
   ],
   "articles": [
+    {
+      "id": "1792558944_0",
+      "timestamp": "2026-10-21T05:02:24.984102+00:00",
+      "title": "Recul des exportations d&#x27;avocats du Pérou vers les États-Unis en 2026",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "PER",
+        "MEX",
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul des exportations d&#x27;avocats du Pérou vers les États-Unis en 2026 -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">La Peruvian Avocado Commission (PAC) a fortement révisé à la baisse ses estimations d&#x27;exportations d&#x27;avocats vers les États-Unis pour 2026, passant de 200 millions de livres initialement prévus à 140 millions (soit environ 70 000 tonnes). Ce déclin est provoqué par une offre mexicaine excédentaire sur le marché américain, maintenant les prix à des niveaux inhabituellement bas. <span class=\"news-reason\">Analyse chiffrée des volumes d&#x27;exportation d&#x27;un concurrent direct (Pérou) sur un produit clé (avocat) avec indicateurs de prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884726/la-sobreoferta-mexicana-limita-los-envios-de-aguacate-peruano-a-ee-uu-este-ano/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decrease in avocado exports from Peru to the United States in 2026 -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">The Peruvian Avocado Commission (PAC) has significantly revised downwards its avocado export estimates to the United States for 2026, from an initial forecast of 200 million pounds to 140 million (approximately 70,000 tonnes). This decline is caused by an oversupply from Mexico on the US market, keeping prices at unusually low levels. <span class=\"news-reason\">Numerical analysis of export volumes from a direct competitor (Peru) for a key product (avocado) with price indicators.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884726/la-sobreoferta-mexicana-limita-los-envios-de-aguacate-peruano-a-ee-uu-este-ano/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה בייצוא אבוקדו מפרו לארצות הברית בשנת 2026 -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">ועדת האבוקדו הפרואנית (PAC) עדכנה בחדות כלפי מטה את הערכות ייצוא האבוקדו שלה לארצות הברית לשנת 2026, מ-200 מיליון פאונד שתוכננו במקור ל-140 מיליון (כ-70,000 טון). ירידה זו נגרמת מהיצע מקסיקני עודף בשוק האמריקאי, השומר על המחירים ברמות נמוכות באופן חריג. <span class=\"news-reason\">ניתוח כמותי של היקפי הייצוא של מתחרה ישיר (פרו) במוצר מפתח (אבוקדו) עם מדדי מחירים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884726/la-sobreoferta-mexicana-limita-los-envios-de-aguacate-peruano-a-ee-uu-este-ano/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1792515753_1",
       "timestamp": "2026-10-20T17:02:33.362900+00:00",
@@ -103,7 +123,7 @@
     {
       "id": "1792515753_0",
       "timestamp": "2026-10-20T17:02:33.362900+00:00",
-      "title": "L&#x27;USDA met en garde contre l&#x27;impact d&#x27;El Niño sur la production d&#x27;oranges et de mangues au Brésil",
+      "title": "L&#x27;USDA alerte sur l&#x27;impact d&#x27;El Niño sur la production d&#x27;oranges et de mangues au Brésil",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia",
@@ -119,7 +139,7 @@
         "BRA",
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;USDA met en garde contre l&#x27;impact d&#x27;El Niño sur la production d&#x27;oranges et de mangues au Brésil -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">Selon le département de l&#x27;Agriculture des États-Unis (USDA), le phénomène El Niño menace la production fruitière du Brésil pour le cycle 2026/27. Les prévisions indiquent des effets directs sur la qualité et les volumes disponibles pour les oranges, ainsi que pour les mangues et les raisins, affectant potentiellement les flux d&#x27;exportation. <span class=\"news-reason\">Alerte sur la disponibilité et la qualité d&#x27;un produit Mehadrin (oranges) chez une origine concurrente majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883862/usda-advierte-que-el-nino-amenaza-naranjas-uvas-y-mangos-de-brasil-en-2026-27/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;USDA alerte sur l&#x27;impact d&#x27;El Niño sur la production d&#x27;oranges et de mangues au Brésil -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">Selon le département de l&#x27;Agriculture des États-Unis (USDA), le phénomène El Niño menace la production fruitière du Brésil pour le cycle 2026/27. Les prévisions indiquent des effets directs sur la qualité et les volumes disponibles pour les oranges, ainsi que pour les mangues et les raisins, affectant potentiellement les flux d&#x27;exportation. <span class=\"news-reason\">Alerte sur la disponibilité et la qualité d&#x27;un produit Mehadrin (oranges) chez une origine concurrente majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883862/usda-advierte-que-el-nino-amenaza-naranjas-uvas-y-mangos-de-brasil-en-2026-27/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">USDA warns of El Niño impact on orange and mango production in Brazil -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">According to the United States Department of Agriculture (USDA), the El Niño phenomenon threatens Brazil&#x27;s fruit production for the 2026/27 cycle. Forecasts indicate direct effects on the quality and available volumes for oranges, as well as for mangoes and grapes, potentially affecting export flows. <span class=\"news-reason\">Alert on the availability and quality of a Mehadrin product (oranges) from a major competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883862/usda-advierte-que-el-nino-amenaza-naranjas-uvas-y-mangos-de-brasil-en-2026-27/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">משרד החקלאות האמריקאי (USDA) מזהיר מפני השפעת אל ניניו על ייצור התפוזים והמנגו בברזיל -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">לפי משרד החקלאות של ארצות הברית (USDA), תופעת אל ניניו מאיימת על ייצור הפירות של ברזיל למחזור 2026/27. התחזיות מצביעות על השפעות ישירות על האיכות והכמויות הזמינות של תפוזים, כמו גם של מנגו וענבים, מה שעלול להשפיע על זרמי הייצוא. <span class=\"news-reason\">התראה על זמינות ואיכות של מוצר מהדרין (תפוזים) במקור מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883862/usda-advierte-que-el-nino-amenaza-naranjas-uvas-y-mangos-de-brasil-en-2026-27/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -287,7 +307,7 @@
     {
       "id": "1792472550_0",
       "timestamp": "2026-10-20T05:02:30.148067+00:00",
-      "title": "Italie du Sud : menace de paralysie sur les exportations de fruits",
+      "title": "Italie du Sud : les exportations de fruits menacées de paralysie",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -296,7 +316,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Italie du Sud : menace de paralysie sur les exportations de fruits -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">Les protestations des opérateurs logistiques et des agriculteurs s&#x27;intensifient dans le sud de l&#x27;Italie. Les blocages routiers en cours pourraient se prolonger au-delà de mercredi, menaçant de paralyser le transport de produits frais. Selon les acteurs locaux, l&#x27;arrêt des transports risquerait de bloquer l&#x27;ensemble de la filière italienne. <span class=\"news-reason\">Les blocages routiers en Italie du Sud menacent la logistique d&#x27;une origine concurrente majeure pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884334/si-ferma-il-trasporto-si-ferma-l-italia/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Italie du Sud : les exportations de fruits menacées de paralysie -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">Les protestations des opérateurs logistiques et des agriculteurs s&#x27;intensifient dans le sud de l&#x27;Italie. Les blocages routiers en cours pourraient se prolonger au-delà de mercredi, menaçant de paralyser le transport de produits frais. Selon les acteurs locaux, l&#x27;arrêt des transports risquerait de bloquer l&#x27;ensemble de la filière italienne. <span class=\"news-reason\">Les blocages routiers en Italie du Sud menacent la logistique d&#x27;une origine concurrente majeure pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884334/si-ferma-il-trasporto-si-ferma-l-italia/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Threat of fruit export paralysis in Southern Italy -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">Protests by logistics operators and farmers are intensifying in southern Italy. Ongoing road blockades could extend beyond Wednesday, threatening to paralyze the transport of fresh products. According to local players, the transport shutdown risks blocking the entire Italian industry. <span class=\"news-reason\">Road blockades in Southern Italy threaten the logistics of a major competing origin for citrus fruits.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884334/si-ferma-il-trasporto-si-ferma-l-italia/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">איום בשיתוק יצוא הפירות בדרום איטליה -- <span class=\"news-date\">20/10/2026 06:05</span></div><div class=\"news-body\">מחאות מפעילי הלוגיסטיקה והחקלאים מחריפות בדרום איטליה. חסימות הכבישים הנמשכות עלולות להימשך מעבר ליום רביעי, ומאיימות לשתק את הובלת התוצרת הטרייה. לטענת גורמים מקומיים, השבתת ההובלה עלולה לשתק את הענף האיטלקי כולו. <span class=\"news-reason\">חסימות הכבישים בדרום איטליה מאיימות על הלוגיסטיקה של מקור מתחרה מרכזי לפירות הדר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884334/si-ferma-il-trasporto-si-ferma-l-italia/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
