@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T15:33:03.915765+00:00",
+  "last_updated": "2026-10-23T17:03:08.999011+00:00",
   "article_count": 35,
   "attention_points": [
     {
@@ -19,7 +19,26 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 2
+      "age_hours": 3
+    },
+    {
+      "id": "attention-6f7c0027d6572116",
+      "article_id": "1792774989_0",
+      "url": "https://www.freshplaza.es/article/9885571/termina-la-temporada-de-aguacate-de-piel-verde-sudafricano-con-precios-sin-precedentes/",
+      "source": "FreshPlaza ES",
+      "title": "Prévisions de calibres pour la campagne d'avocats Hass israéliens",
+      "summary": "La saison de l'avocat à peau verte d'Afrique du Sud se termine avec des prix historiquement élevés.",
+      "origin_code": "ISR",
+      "origin_label": "Israël",
+      "published_at": "2026-10-23T15:13:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 3
     },
     {
       "id": "attention-b32bc4e5566f0048",
@@ -38,24 +57,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-ea8e3a8c7a7fce55",
-      "article_id": "1792764190_1",
-      "url": "https://www.freshplaza.fr/article/9885661/greve-des-transporteurs-routiers-supermarches-vides-dans-le-sud-de-l-italie/",
-      "source": "FreshPlaza FR",
-      "title": "Grève des transporteurs en Italie : pénuries dans",
-      "summary": "Les grèves routières paralysent l'approvisionnement des supermarchés dans le sud de l'Italie",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
-      "published_at": "2026-10-23T14:37:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [],
-      "age_hours": 2
+      "age_hours": 4
     },
     {
       "id": "attention-4e959521931483c9",
@@ -74,10 +76,48 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 28
+      "age_hours": 29
     }
   ],
   "articles": [
+    {
+      "id": "1792774989_1",
+      "timestamp": "2026-10-23T17:03:08.999011+00:00",
+      "title": "Expansion des exportations d&#x27;avocats mexicains vers les États-Unis",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MEX",
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Expansion des exportations d&#x27;avocats mexicains vers les États-Unis -- <span class=\"news-date\">23/10/2026 10:50</span></div><div class=\"news-body\">L&#x27;association des exportateurs d&#x27;avocats de l&#x27;État de Mexico a confirmé que la région répond désormais à toutes les exigences techniques pour exporter vers les États-Unis. Le secteur attend la finalisation d&#x27;une procédure administrative interne aux États-Unis pour lancer les expéditions immédiatement après l&#x27;obtention du feu vert. <span class=\"news-reason\">Information sur une nouvelle zone de production chez un concurrent majeur (Mexique) pour le marché américain (indicateur de flux mondiaux).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9885205/mexikanische-avocados-aus-neuer-region-bereit-fur-den-export-in-die-usa/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Expansion of Mexican avocado exports to the United States -- <span class=\"news-date\">23/10/2026 10:50</span></div><div class=\"news-body\">The avocado exporters association of the State of Mexico has confirmed that the region now meets all technical requirements to export to the United States. The sector is waiting for the finalization of an internal administrative procedure in the United States to launch shipments immediately after receiving the green light. <span class=\"news-reason\">Information about a new production area for a major competitor (Mexico) for the American market (global flow indicator).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9885205/mexikanische-avocados-aus-neuer-region-bereit-fur-den-export-in-die-usa/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">הרחבת ייצוא אבוקדו מקסיקני לארצות הברית -- <span class=\"news-date\">23/10/2026 10:50</span></div><div class=\"news-body\">איגוד יצואני האבוקדו של מדינת מקסיקו אישר שהאזור עומד כעת בכל הדרישות הטכניות לייצוא לארצות הברית. המגזר ממתין לסיום הליך מנהלי פנימי בארצות הברית כדי להתחיל במשלוחים מיד לאחר קבלת האור הירוק. <span class=\"news-reason\">מידע על אזור ייצור חדש אצל מתחרה מרכזי (מקסיקו) עבור השוק האמריקאי (מדד לתזרים עולמי).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9885205/mexikanische-avocados-aus-neuer-region-bereit-fur-den-export-in-die-usa/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1792774989_0",
+      "timestamp": "2026-10-23T17:03:08.999011+00:00",
+      "title": "Prévisions de calibres pour la campagne d&#x27;avocats Hass israéliens",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ISR",
+        "ZAF"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prévisions de calibres pour la campagne d&#x27;avocats Hass israéliens -- <span class=\"news-date\">23/10/2026 15:13</span></div><div class=\"news-body\">La saison de l&#x27;avocat à peau verte d&#x27;Afrique du Sud se termine avec des prix historiquement élevés. Parallèlement, la campagne de l&#x27;avocat Hass d&#x27;Israël a débuté. Actuellement, l&#x27;offre israélienne est principalement constituée de petits calibres et de &#x27;Baby Hass&#x27;. Une disponibilité accrue pour l&#x27;ensemble des calibres est attendue dans les semaines à venir. <span class=\"news-reason\">Contient des informations précises sur les calibres de l&#x27;offre israélienne actuelle (Hass et Baby Hass) et la fin de campagne d&#x27;un concurrent (Afrique du Sud).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885571/termina-la-temporada-de-aguacate-de-piel-verde-sudafricano-con-precios-sin-precedentes/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Size forecasts for the Israeli Hass avocado campaign -- <span class=\"news-date\">23/10/2026 15:13</span></div><div class=\"news-body\">South Africa&#x27;s greenskin avocado season is ending with historically high prices. At the same time, Israel&#x27;s Hass avocado campaign has begun. Currently, the Israeli supply mainly consists of small sizes and &#x27;Baby Hass&#x27;. Increased availability for all sizes is expected in the coming weeks. <span class=\"news-reason\">Contains precise information on the sizes of the current Israeli supply (Hass and Baby Hass) and the end of a competitor&#x27;s campaign (South Africa).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885571/termina-la-temporada-de-aguacate-de-piel-verde-sudafricano-con-precios-sin-precedentes/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">תחזית גדלים לעונת אבוקדו האס ישראלי -- <span class=\"news-date\">23/10/2026 15:13</span></div><div class=\"news-body\">עונת האבוקדו בעל הקליפה הירוקה מדרום אפריקה מסתיימת עם מחירים גבוהים היסטורית. במקביל, החלה עונת אבוקדו האס מישראל. כיום, ההיצע הישראלי מורכב בעיקר מגדלים קטנים ומ-&#x27;בייבי האס&#x27;. זמינות מוגברת לכל הגדלים צפויה בשבועות הקרובים. <span class=\"news-reason\">מכיל מידע מדויק על גדלי ההיצע הישראלי הנוכחי (האס ובייבי האס) וסיום העונה של מתחרה (דרום אפריקה).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885571/termina-la-temporada-de-aguacate-de-piel-verde-sudafricano-con-precios-sin-precedentes/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1792769583_0",
       "timestamp": "2026-10-23T15:33:03.915765+00:00",
@@ -262,7 +302,7 @@
     {
       "id": "1792683303_1",
       "timestamp": "2026-10-22T15:35:03.327929+00:00",
-      "title": "L&#x27;Espagne structure ses filières de l&#x27;avocat et de la mangue via l&#x27;interprofession Intertropic",
+      "title": "L’Espagne structure ses filières de l’avocat et de la mangue via l’interprofession Intertropic",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Ophélie"
@@ -274,7 +314,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">L&#x27;Espagne structure ses filières de l&#x27;avocat et de la mangue via l&#x27;interprofession Intertropic -- <span class=\"news-date\">22/10/2026 06:05</span></div><div class=\"news-body\">L&#x27;organisation Intertropic, constituée en 2022 et reconnue officiellement par le ministère espagnol en novembre 2023, a franchi une étape majeure en août 2025 avec l&#x27;approbation de l&#x27;extension des normes. Ce cadre juridique permet désormais à l&#x27;organisation de disposer de moyens financiers pour structurer et promouvoir les secteurs de l&#x27;avocat et de la mangue en Espagne à une échelle internationale. <span class=\"news-reason\">Mouvement d&#x27;entreprise et structuration de la filière chez un concurrent direct sur l&#x27;avocat et la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884825/il-settore-dell-avocado-e-del-mango-in-spagna-raggiungera-dimensioni-che-non-hanno-nulla-a-che-vedere-con-quelle-attuali/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">L’Espagne structure ses filières de l’avocat et de la mangue via l’interprofession Intertropic -- <span class=\"news-date\">22/10/2026 06:05</span></div><div class=\"news-body\">L&#x27;organisation Intertropic, constituée en 2022 et reconnue officiellement par le ministère espagnol en novembre 2023, a franchi une étape majeure en août 2025 avec l&#x27;approbation de l&#x27;extension des normes. Ce cadre juridique permet désormais à l&#x27;organisation de disposer de moyens financiers pour structurer et promouvoir les secteurs de l&#x27;avocat et de la mangue en Espagne à une échelle internationale. <span class=\"news-reason\">Mouvement d&#x27;entreprise et structuration de la filière chez un concurrent direct sur l&#x27;avocat et la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884825/il-settore-dell-avocado-e-del-mango-in-spagna-raggiungera-dimensioni-che-non-hanno-nulla-a-che-vedere-con-quelle-attuali/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Spain structures its avocado and mango sectors through the Intertropic interprofessional organization -- <span class=\"news-date\">22/10/2026 06:05</span></div><div class=\"news-body\">The Intertropic organization, established in 2022 and officially recognized by the Spanish ministry in November 2023, reached a major milestone in August 2025 with the approval of the extension of standards. This legal framework now allows the organization to have the financial means to structure and promote the avocado and mango sectors in Spain on an international scale. <span class=\"news-reason\">Corporate movement and industry structuring within a direct competitor in avocado and mango.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884825/il-settore-dell-avocado-e-del-mango-in-spagna-raggiungera-dimensioni-che-non-hanno-nulla-a-che-vedere-con-quelle-attuali/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכים בענף</div><div class=\"news-title\">ספרד מבנה את ענפי האבוקדו והמנגו שלה באמצעות הארגון הבין-מקצועי Intertropic -- <span class=\"news-date\">22/10/2026 06:05</span></div><div class=\"news-body\">ארגון Intertropic, שהוקם בשנת 2022 והוכר רשמית על ידי המשרד הספרדי בנובמבר 2023, עבר אבן דרך משמעותית באוגוסט 2025 עם אישור הרחבת התקנים. מסגרת משפטית זו מאפשרת כעת לארגון להחזיק באמצעים כספיים כדי לבנות ולקדם את מגזרי האבוקדו והמנגו בספרד בקנה מידה בינלאומי. <span class=\"news-reason\">מהלך עסקי ושינוי מבני בענף אצל מתחרה ישיר בתחום האבוקדו והמנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884825/il-settore-dell-avocado-e-del-mango-in-spagna-raggiungera-dimensioni-che-non-hanno-nulla-a-che-vedere-con-quelle-attuali/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -335,7 +375,7 @@
     {
       "id": "1792677883_0",
       "timestamp": "2026-10-22T14:04:43.095310+00:00",
-      "title": "Baisse de l&#x27;offre de mangues au Pérou sous l&#x27;effet d&#x27;El Niño",
+      "title": "Contraction de l&#x27;offre de mangues au Pérou sous l&#x27;effet d&#x27;El Niño",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -346,14 +386,14 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Baisse de l&#x27;offre de mangues au Pérou sous l&#x27;effet d&#x27;El Niño -- <span class=\"news-date\">22/10/2026 15:14</span></div><div class=\"news-body\">Le phénomène climatique El Niño a fortement réduit la production de mangues au Pérou pour la saison en cours. Selon Jason Wang de l&#x27;entreprise exportatrice Best Fruits of Peru, bien que la demande internationale reste ferme, la rareté de l&#x27;offre provoque une envolée des prix sur les marchés. <span class=\"news-reason\">Alerte majeure sur la production d&#x27;une origine concurrente clé avec un impact direct sur les prix mondiaux.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885552/el-nino-reduce-en-peru-la-oferta-de-mango-y-los-precios-se-disparan/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Contraction de l&#x27;offre de mangues au Pérou sous l&#x27;effet d&#x27;El Niño -- <span class=\"news-date\">22/10/2026 15:14</span></div><div class=\"news-body\">Le phénomène climatique El Niño a fortement réduit la production de mangues au Pérou pour la saison en cours. Selon Jason Wang de l&#x27;entreprise exportatrice Best Fruits of Peru, bien que la demande internationale reste ferme, la rareté de l&#x27;offre provoque une envolée des prix sur les marchés. <span class=\"news-reason\">Alerte majeure sur la production d&#x27;une origine concurrente clé avec un impact direct sur les prix mondiaux.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885552/el-nino-reduce-en-peru-la-oferta-de-mango-y-los-precios-se-disparan/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Decrease in mango supply in Peru due to El Niño -- <span class=\"news-date\">22/10/2026 15:14</span></div><div class=\"news-body\">The El Niño climate phenomenon has sharply reduced mango production in Peru for the current season. According to Jason Wang of the exporting company Best Fruits of Peru, although international demand remains firm, the scarcity of supply is causing prices to soar in the markets. <span class=\"news-reason\">Major alert on the production of a key competing origin with a direct impact on global prices.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885552/el-nino-reduce-en-peru-la-oferta-de-mango-y-los-precios-se-disparan/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ירידה בהיצע המנגו בפרו עקב אל ניניו -- <span class=\"news-date\">22/10/2026 15:14</span></div><div class=\"news-body\">תופעת האקלים אל ניניו צמצמה משמעותית את ייצור המנגו בפרו לעונה הנוכחית. לפי ג'ייסון וואנג מחברת הייצוא Best Fruits of Peru, למרות שהביקוש הבינלאומי נותר יציב, המחסור בהיצע גורם לנסיקה במחירים בשווקים. <span class=\"news-reason\">התראה משמעותית לגבי ייצור ממקור מתחרה מרכזי עם השפעה ישירה על המחירים העולמיים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885552/el-nino-reduce-en-peru-la-oferta-de-mango-y-los-precios-se-disparan/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1792672404_1",
       "timestamp": "2026-10-22T12:33:24.112051+00:00",
-      "title": "Baisse de 20 à 30 % de la production de mangues sur la Costa Tropical",
+      "title": "La production de mangues sur la Costa Tropical recule de 20 à 30 %",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -365,7 +405,7 @@
         "ESP",
         "BRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse de 20 à 30 % de la production de mangues sur la Costa Tropical -- <span class=\"news-date\">21/10/2026 15:41</span></div><div class=\"news-body\">La campagne de mangues en Espagne s&#x27;achève sur une baisse de production comprise entre 20 % et 30 %. Bien que ce recul soit moins important que les 40 % initialement redoutés après les tempêtes de l&#x27;an dernier, les producteurs locaux perdent des parts de marché face à la progression des volumes en provenance du Brésil. <span class=\"news-reason\">Contient des chiffres de production précis et des données sur la concurrence (Espagne vs Brésil) pour la mangue, produit exporté par Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885011/productores-de-la-costa-tropical-pierden-cuota-ante-el-avance-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La production de mangues sur la Costa Tropical recule de 20 à 30 % -- <span class=\"news-date\">21/10/2026 15:41</span></div><div class=\"news-body\">La campagne de mangues en Espagne s&#x27;achève sur une baisse de production comprise entre 20 % et 30 %. Bien que ce recul soit moins important que les 40 % initialement redoutés après les tempêtes de l&#x27;an dernier, les producteurs locaux perdent des parts de marché face à la progression des volumes en provenance du Brésil. <span class=\"news-reason\">Contient des chiffres de production précis et des données sur la concurrence (Espagne vs Brésil) pour la mangue, produit exporté par Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885011/productores-de-la-costa-tropical-pierden-cuota-ante-el-avance-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">20 to 30% drop in mango production on the Costa Tropical -- <span class=\"news-date\">21/10/2026 15:41</span></div><div class=\"news-body\">The mango campaign in Spain is ending with a production drop of between 20% and 30%. Although this decline is less significant than the 40% initially feared after last year's storms, local producers are losing market share to the increasing volumes from Brazil. <span class=\"news-reason\">Contains precise production figures and data on competition (Spain vs Brazil) for mangoes, a product exported by Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885011/productores-de-la-costa-tropical-pierden-cuota-ante-el-avance-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">נסיגה של 20% עד 30% בייצור המנגו בקוסטה טרופיקל -- <span class=\"news-date\">21/10/2026 15:41</span></div><div class=\"news-body\">עונת המנגו בספרד מסתיימת בירידה בייצור של בין 20% ל-30%. למרות שנסיגה זו פחות משמעותית מה-40% שמהם חששו בתחילה לאחר הסופות של שנה שעברה, המגדלים המקומיים מאבדים נתחי שוק מול הגידול בכמויות המגיעות מברזיל. <span class=\"news-reason\">מכיל נתוני ייצור מדויקים ונתונים על התחרות (ספרד מול ברזיל) עבור המנגו, מוצר המיוצא על ידי מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885011/productores-de-la-costa-tropical-pierden-cuota-ante-el-avance-del-mango-brasileno/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -674,47 +714,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul des exportations d&#x27;avocats du Pérou vers les États-Unis en 2026 -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">La Peruvian Avocado Commission (PAC) a fortement révisé à la baisse ses estimations d&#x27;exportations d&#x27;avocats vers les États-Unis pour 2026, passant de 200 millions de livres initialement prévus à 140 millions (soit environ 70 000 tonnes). Ce déclin est provoqué par une offre mexicaine excédentaire sur le marché américain, maintenant les prix à des niveaux inhabituellement bas. <span class=\"news-reason\">Analyse chiffrée des volumes d&#x27;exportation d&#x27;un concurrent direct (Pérou) sur un produit clé (avocat) avec indicateurs de prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884726/la-sobreoferta-mexicana-limita-los-envios-de-aguacate-peruano-a-ee-uu-este-ano/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decrease in avocado exports from Peru to the United States in 2026 -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">The Peruvian Avocado Commission (PAC) has significantly revised downwards its avocado export estimates to the United States for 2026, from an initial forecast of 200 million pounds to 140 million (approximately 70,000 tonnes). This decline is caused by an oversupply from Mexico on the US market, keeping prices at unusually low levels. <span class=\"news-reason\">Numerical analysis of export volumes from a direct competitor (Peru) for a key product (avocado) with price indicators.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884726/la-sobreoferta-mexicana-limita-los-envios-de-aguacate-peruano-a-ee-uu-este-ano/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה בייצוא אבוקדו מפרו לארצות הברית בשנת 2026 -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">ועדת האבוקדו הפרואנית (PAC) עדכנה בחדות כלפי מטה את הערכות ייצוא האבוקדו שלה לארצות הברית לשנת 2026, מ-200 מיליון פאונד שתוכננו במקור ל-140 מיליון (כ-70,000 טון). ירידה זו נגרמת מהיצע מקסיקני עודף בשוק האמריקאי, השומר על המחירים ברמות נמוכות באופן חריג. <span class=\"news-reason\">ניתוח כמותי של היקפי הייצוא של מתחרה ישיר (פרו) במוצר מפתח (אבוקדו) עם מדדי מחירים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884726/la-sobreoferta-mexicana-limita-los-envios-de-aguacate-peruano-a-ee-uu-este-ano/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1792515753_1",
-      "timestamp": "2026-10-20T17:02:33.362900+00:00",
-      "title": "2e Sommet de l&#x27;avocat au Maroc : Analyse de l&#x27;écart de rendement",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">2e Sommet de l&#x27;avocat au Maroc : Analyse de l&#x27;écart de rendement -- <span class=\"news-date\">20/10/2026 10:28</span></div><div class=\"news-body\">Le deuxième sommet marocain de l&#x27;avocat s&#x27;est tenu le 15 octobre à Larache, réunissant 250 participants, principalement des petits exploitants. Les échanges ont porté sur la réduction de l&#x27;écart de rendement et l&#x27;intégration de la chaîne de valeur, impliquant producteurs, exportateurs, fournisseurs et institutions bancaires. <span class=\"news-reason\">Information stratégique sur la structuration de la filière avocat chez un concurrent direct (Maroc).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883922/ertragslucke-steht-beim-zweiten-marokkanischen-avocado-gipfel-ganz-oben-auf-der-tagesordnung/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Second Avocado Summit in Morocco: focus on the yield gap -- <span class=\"news-date\">20/10/2026 10:28</span></div><div class=\"news-body\">The second Moroccan avocado summit was held on October 15 in Larache, bringing together 250 participants, mainly smallholders. Discussions focused on reducing the yield gap and integrating the value chain, involving producers, exporters, suppliers, and banking institutions. <span class=\"news-reason\">Strategic information on the structuring of the avocado sector in a direct competitor (Morocco).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883922/ertragslucke-steht-beim-zweiten-marokkanischen-avocado-gipfel-ganz-oben-auf-der-tagesordnung/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">פסגת האבוקדו השנייה במרוקו: התמקדות בפער היבולים -- <span class=\"news-date\">20/10/2026 10:28</span></div><div class=\"news-body\">פסגת האבוקדו המרוקאית השנייה נערכה ב-15 באוקטובר בלאראש, וכינסה 250 משתתפים, בעיקר חקלאים קטנים. הדיונים עסקו בצמצום פער היבולים ובשילוב שרשרת הערך, תוך שיתוף יצרנים, יצואנים, ספקים ומוסדות בנקאיים. <span class=\"news-reason\">מידע אסטרטגי על מבנה ענף האבוקדו אצל מתחרה ישיר (מרוקו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9883922/ertragslucke-steht-beim-zweiten-marokkanischen-avocado-gipfel-ganz-oben-auf-der-tagesordnung/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1792515753_0",
-      "timestamp": "2026-10-20T17:02:33.362900+00:00",
-      "title": "L&#x27;USDA souligne l&#x27;impact d&#x27;El Niño sur la production d&#x27;oranges et de mangues au Brésil",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Nadia",
-        "Ophélie",
-        "Sébastien"
-      ],
-      "products": [
-        "mango",
-        "orange",
-        "grape"
-      ],
-      "origins": [
-        "BRA",
-        "USA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;USDA souligne l&#x27;impact d&#x27;El Niño sur la production d&#x27;oranges et de mangues au Brésil -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">Selon le département de l&#x27;Agriculture des États-Unis (USDA), le phénomène El Niño menace la production fruitière du Brésil pour le cycle 2026/27. Les prévisions indiquent des effets directs sur la qualité et les volumes disponibles pour les oranges, ainsi que pour les mangues et les raisins, affectant potentiellement les flux d&#x27;exportation. <span class=\"news-reason\">Alerte sur la disponibilité et la qualité d&#x27;un produit Mehadrin (oranges) chez une origine concurrente majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883862/usda-advierte-que-el-nino-amenaza-naranjas-uvas-y-mangos-de-brasil-en-2026-27/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">USDA warns of El Niño impact on orange and mango production in Brazil -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">According to the United States Department of Agriculture (USDA), the El Niño phenomenon threatens Brazil&#x27;s fruit production for the 2026/27 cycle. Forecasts indicate direct effects on the quality and available volumes for oranges, as well as for mangoes and grapes, potentially affecting export flows. <span class=\"news-reason\">Alert on the availability and quality of a Mehadrin product (oranges) from a major competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883862/usda-advierte-que-el-nino-amenaza-naranjas-uvas-y-mangos-de-brasil-en-2026-27/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">משרד החקלאות האמריקאי (USDA) מזהיר מפני השפעת אל ניניו על ייצור התפוזים והמנגו בברזיל -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">לפי משרד החקלאות של ארצות הברית (USDA), תופעת אל ניניו מאיימת על ייצור הפירות של ברזיל למחזור 2026/27. התחזיות מצביעות על השפעות ישירות על האיכות והכמויות הזמינות של תפוזים, כמו גם של מנגו וענבים, מה שעלול להשפיע על זרמי הייצוא. <span class=\"news-reason\">התראה על זמינות ואיכות של מוצר מהדרין (תפוזים) במקור מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883862/usda-advierte-que-el-nino-amenaza-naranjas-uvas-y-mangos-de-brasil-en-2026-27/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
