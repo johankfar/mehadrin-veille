@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T14:03:10.111782+00:00",
-  "article_count": 36,
+  "last_updated": "2026-10-23T15:33:03.915765+00:00",
+  "article_count": 35,
   "attention_points": [
     {
       "id": "attention-6ca4b518cc522661",
@@ -19,7 +19,26 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 0
+      "age_hours": 2
+    },
+    {
+      "id": "attention-b32bc4e5566f0048",
+      "article_id": "1792769583_0",
+      "url": "https://www.freshplaza.fr/article/9884395/le-portugal-paie-38-de-moins-pour-les-oranges-espagnoles-que-les-autres-marches-d-exportation/",
+      "source": "FreshPlaza FR",
+      "title": "Le Portugal importe les oranges espagnoles à un prix",
+      "summary": "Le prix moyen d'achat est nettement inférieur à la moyenne",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
+      "published_at": "2026-10-23T14:37:00+02:00",
+      "published_at_source": "rss",
+      "signal_type": "price",
+      "signal_label": "Prix",
+      "icon": "information",
+      "products": [
+        "orange"
+      ],
+      "age_hours": 2
     },
     {
       "id": "attention-ea8e3a8c7a7fce55",
@@ -36,26 +55,7 @@
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [],
-      "age_hours": 1
-    },
-    {
-      "id": "attention-787b05d3772daf83",
-      "article_id": "1792683303_0",
-      "url": "https://citrusindustry.net/2026/10/22/citrus-congress-tackle-global-market-challenges/",
-      "source": "Citrus Industry",
-      "title": "Le Congrès mondial des agrumes 2026 analysera la concurrence",
-      "summary": "Les principaux pays producteurs discutent de l'évolution des marchés.",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-10-22T14:00:00+00:00",
-      "published_at_source": "rss",
-      "signal_type": "information",
-      "signal_label": "Information",
-      "icon": "information",
-      "products": [
-        "orange"
-      ],
-      "age_hours": 24
+      "age_hours": 2
     },
     {
       "id": "attention-4e959521931483c9",
@@ -74,10 +74,29 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 26
+      "age_hours": 28
     }
   ],
   "articles": [
+    {
+      "id": "1792769583_0",
+      "timestamp": "2026-10-23T15:33:03.915765+00:00",
+      "title": "Le Portugal importe les oranges espagnoles à un prix 38 % inférieur à la moyenne -- 23/10/2026 14:37",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "ESP",
+        "PRT"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le Portugal importe les oranges espagnoles à un prix 38 % inférieur à la moyenne -- <span class=\"news-date\">23/10/2026 14:37</span></div><div class=\"news-body\">Une analyse basée sur les données Eurostat entre 2022 et 2026 indique que le Portugal paie en moyenne 0,58 €/kg pour les oranges importées d&#x27;Espagne. Ce tarif représente une remise de 38 % par rapport aux prix payés par les autres clients de l&#x27;origine espagnole. Des disparités similaires de valeur à l&#x27;exportation ont été notées sur d&#x27;autres segments d&#x27;agrumes. <span class=\"news-reason\">Article contenant des chiffres de prix précis (0,58€/kg) sur un produit Mehadrin (orange) en saison chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9884395/le-portugal-paie-38-de-moins-pour-les-oranges-espagnoles-que-les-autres-marches-d-exportation/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Portugal imports Spanish oranges at a price 38% lower than average -- <span class=\"news-date\">23/10/2026 14:37</span></div><div class=\"news-body\">An analysis based on Eurostat data between 2022 and 2026 indicates that Portugal pays an average of €0.58/kg for oranges imported from Spain. This rate represents a 38% discount compared to the prices paid by other customers of Spanish origin. Similar disparities in export value were noted in other citrus segments. <span class=\"news-reason\">Article containing specific price figures (€0.58/kg) for a Mehadrin product (orange) in season at a major competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9884395/le-portugal-paie-38-de-moins-pour-les-oranges-espagnoles-que-les-autres-marches-d-exportation/\" target=\"_blank\">FreshPlaza FR -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">פורטוגל מייבאת תפוזים ספרדיים במחיר הנמוך ב-38% מהממוצע -- <span class=\"news-date\">23/10/2026 14:37</span></div><div class=\"news-body\">ניתוח המבוסס על נתוני Eurostat בין השנים 2022 ל-2026 מצביע על כך שפורטוגל משלמת בממוצע 0.58 אירו לק\"ג עבור תפוזים המיובאים מספרד. תעריף זה מייצג הנחה של 38% בהשוואה למחירים שמשלמים לקוחות אחרים של המקור הספרדי. פערים דומים בערכי הייצוא נרשמו במקטעים אחרים של פירות הדר. <span class=\"news-reason\">כתבה הכוללת נתוני מחיר מדויקים (0.58 אירו לק\"ג) על מוצר מהדרין (תפוז) בעונה אצל מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9884395/le-portugal-paie-38-de-moins-pour-les-oranges-espagnoles-que-les-autres-marches-d-exportation/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1792764190_1",
       "timestamp": "2026-10-23T14:03:10.111782+00:00",
@@ -371,7 +390,7 @@
     {
       "id": "1792667020_0",
       "timestamp": "2026-10-22T11:03:40.612144+00:00",
-      "title": "Prévisions de calibres importants pour la campagne d&#x27;oranges en Étolie-Acarnanie",
+      "title": "Prévisions de gros calibres pour la campagne d&#x27;oranges en Étolie-Acarnanie",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -382,7 +401,7 @@
       "origins": [
         "GRC"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prévisions de calibres importants pour la campagne d&#x27;oranges en Étolie-Acarnanie -- <span class=\"news-date\">21/10/2026 15:41</span></div><div class=\"news-body\">La saison des oranges en Étolie-Acarnanie, région dynamique de Grèce, débute avec des perspectives favorables en termes de qualité et de volume. Les prévisions indiquent une disponibilité majoritaire de calibres 2 à 4 dès la mi-novembre, avec des fruits encore plus gros attendus pour le mois de décembre. <span class=\"news-reason\">Information stratégique sur les calibres et le calendrier d&#x27;une origine concurrente directe (Grèce) pour la campagne d&#x27;oranges.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884788/a-mediados-de-noviembre-las-naranjas-seran-de-calibres-2-4-en-diciembre-aun-mas-grandes/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prévisions de gros calibres pour la campagne d&#x27;oranges en Étolie-Acarnanie -- <span class=\"news-date\">21/10/2026 15:41</span></div><div class=\"news-body\">La saison des oranges en Étolie-Acarnanie, région dynamique de Grèce, débute avec des perspectives favorables en termes de qualité et de volume. Les prévisions indiquent une disponibilité majoritaire de calibres 2 à 4 dès la mi-novembre, avec des fruits encore plus gros attendus pour le mois de décembre. <span class=\"news-reason\">Information stratégique sur les calibres et le calendrier d&#x27;une origine concurrente directe (Grèce) pour la campagne d&#x27;oranges.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884788/a-mediados-de-noviembre-las-naranjas-seran-de-calibres-2-4-en-diciembre-aun-mas-grandes/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Forecasts for large sizes for the orange campaign in Aetolia-Acarnania -- <span class=\"news-date\">21/10/2026 15:41</span></div><div class=\"news-body\">The orange season in Aetolia-Acarnania, a dynamic region of Greece, is starting with favorable prospects in terms of quality and volume. Forecasts indicate a majority availability of sizes 2 to 4 from mid-November, with even larger fruit expected for the month of December. <span class=\"news-reason\">Strategic information on sizes and the schedule of a direct competing origin (Greece) for the orange campaign.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884788/a-mediados-de-noviembre-las-naranjas-seran-de-calibres-2-4-en-diciembre-aun-mas-grandes/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">תחזיות לגדלים משמעותיים לעונת התפוזים באטוליה-אקארנאניה -- <span class=\"news-date\">21/10/2026 15:41</span></div><div class=\"news-body\">עונת התפוזים באטוליה-אקארנאניה, אזור דינמי ביוון, מתחילה עם תחזיות חיוביות מבחינת איכות וכמות. התחזיות מצביעות על זמינות עיקרית של גדלים 2 עד 4 החל מאמצע נובמבר, כאשר פירות גדולים אף יותר צפויים במהלך חודש דצמבר. <span class=\"news-reason\">מידע אסטרטגי על הגדלים ולוח הזמנים של מקור מתחרה ישיר (יוון) לעונת התפוזים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884788/a-mediados-de-noviembre-las-naranjas-seran-de-calibres-2-4-en-diciembre-aun-mas-grandes/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -570,7 +589,7 @@
     {
       "id": "1792580598_0",
       "timestamp": "2026-10-21T11:03:18.961666+00:00",
-      "title": "Italie : réouverture partielle du réseau routier suite au déblocage d’un milliard d’euros d’aides gouvernementales",
+      "title": "Italie : réouverture partielle du réseau routier suite au déblocage d&#x27;un milliard d&#x27;euros d&#x27;aides gouvernementales",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -579,7 +598,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Italie : réouverture partielle du réseau routier suite au déblocage d’un milliard d’euros d’aides gouvernementales -- <span class=\"news-date\">21/10/2026 06:00</span></div><div class=\"news-body\">Le 20 octobre 2026, la grève des transporteurs dans le sud de l&#x27;Italie s&#x27;est poursuivie, créant d&#x27;importantes difficultés de distribution nationale. Le gouvernement italien a réagi en débloquant une enveloppe d&#x27;un milliard d&#x27;euros, ce qui a permis de lever partiellement certains barrages routiers. En attendant une normalisation complète, les producteurs sont contraints de stocker leurs marchandises en chambres froides pour préserver la qualité. <span class=\"news-reason\">Mise à jour factuelle majeure sur une alerte logistique impactant les agrumes, avec données budgétaires.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884853/sciopero-autotrasportatori-il-governo-sblocca-un-miliardo-blocchi-revocati-in-parte/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Italie : réouverture partielle du réseau routier suite au déblocage d&#x27;un milliard d&#x27;euros d&#x27;aides gouvernementales -- <span class=\"news-date\">21/10/2026 06:00</span></div><div class=\"news-body\">Le 20 octobre 2026, la grève des transporteurs dans le sud de l&#x27;Italie s&#x27;est poursuivie, créant d&#x27;importantes difficultés de distribution nationale. Le gouvernement italien a réagi en débloquant une enveloppe d&#x27;un milliard d&#x27;euros, ce qui a permis de lever partiellement certains barrages routiers. En attendant une normalisation complète, les producteurs sont contraints de stocker leurs marchandises en chambres froides pour préserver la qualité. <span class=\"news-reason\">Mise à jour factuelle majeure sur une alerte logistique impactant les agrumes, avec données budgétaires.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884853/sciopero-autotrasportatori-il-governo-sblocca-un-miliardo-blocchi-revocati-in-parte/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Italy: partial reopening of road axes following the granting of one billion euros in government aid -- <span class=\"news-date\">21/10/2026 06:00</span></div><div class=\"news-body\">On October 20, 2026, the hauliers' strike in southern Italy continued, creating significant national distribution difficulties. The Italian government reacted by releasing a one-billion-euro package, which allowed for the partial lifting of some roadblocks. Pending full normalization, producers are forced to store their goods in cold storage to preserve quality. <span class=\"news-reason\">Major factual update on a logistics alert impacting citrus fruits, with budgetary data.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884853/sciopero-autotrasportatori-il-governo-sblocca-un-miliardo-blocchi-revocati-in-parte/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">איטליה: פתיחה מחדש חלקית של צירי התנועה בעקבות הענקת סיוע ממשלתי בסך מיליארד אירו -- <span class=\"news-date\">21/10/2026 06:00</span></div><div class=\"news-body\">ב-20 באוקטובר 2026, שביתת המובילים בדרום איטליה נמשכה, מה שיצר קשיים משמעותיים בהפצה הלאומית. ממשלת איטליה הגיבה בשחרור תקציב של מיליארד אירו, דבר שאיפשר להסיר חלקית מחסומי דרכים מסוימים. עד לנרמול מלא של המצב, היצרנים נאלצים לאחסן את סחורתם בחדרי קירור כדי לשמור על האיכות. <span class=\"news-reason\">עדכון עובדתי משמעותי לגבי התראת לוגיסטיקה המשפיעה על פירות הדר, הכולל נתונים תקציביים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884853/sciopero-autotrasportatori-il-governo-sblocca-un-miliardo-blocchi-revocati-in-parte/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -696,43 +715,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;USDA souligne l&#x27;impact d&#x27;El Niño sur la production d&#x27;oranges et de mangues au Brésil -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">Selon le département de l&#x27;Agriculture des États-Unis (USDA), le phénomène El Niño menace la production fruitière du Brésil pour le cycle 2026/27. Les prévisions indiquent des effets directs sur la qualité et les volumes disponibles pour les oranges, ainsi que pour les mangues et les raisins, affectant potentiellement les flux d&#x27;exportation. <span class=\"news-reason\">Alerte sur la disponibilité et la qualité d&#x27;un produit Mehadrin (oranges) chez une origine concurrente majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883862/usda-advierte-que-el-nino-amenaza-naranjas-uvas-y-mangos-de-brasil-en-2026-27/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">USDA warns of El Niño impact on orange and mango production in Brazil -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">According to the United States Department of Agriculture (USDA), the El Niño phenomenon threatens Brazil&#x27;s fruit production for the 2026/27 cycle. Forecasts indicate direct effects on the quality and available volumes for oranges, as well as for mangoes and grapes, potentially affecting export flows. <span class=\"news-reason\">Alert on the availability and quality of a Mehadrin product (oranges) from a major competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883862/usda-advierte-que-el-nino-amenaza-naranjas-uvas-y-mangos-de-brasil-en-2026-27/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">משרד החקלאות האמריקאי (USDA) מזהיר מפני השפעת אל ניניו על ייצור התפוזים והמנגו בברזיל -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">לפי משרד החקלאות של ארצות הברית (USDA), תופעת אל ניניו מאיימת על ייצור הפירות של ברזיל למחזור 2026/27. התחזיות מצביעות על השפעות ישירות על האיכות והכמויות הזמינות של תפוזים, כמו גם של מנגו וענבים, מה שעלול להשפיע על זרמי הייצוא. <span class=\"news-reason\">התראה על זמינות ואיכות של מוצר מהדרין (תפוזים) במקור מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9883862/usda-advierte-que-el-nino-amenaza-naranjas-uvas-y-mangos-de-brasil-en-2026-27/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1792510334_1",
-      "timestamp": "2026-10-20T15:32:14.029911+00:00",
-      "title": "L&#x27;Interprofession espagnole de l&#x27;avocat et de la mangue prévoit une forte expansion",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat",
-        "mango"
-      ],
-      "origins": [
-        "ESP"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;Interprofession espagnole de l&#x27;avocat et de la mangue prévoit une forte expansion -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">L&#x27;organisation interprofessionnelle espagnole Intertropic, reconnue officiellement fin 2023, franchit une étape clé avec l&#x27;approbation de son extension de règles en août 2025. Le secteur anticipe une croissance majeure de la production d&#x27;avocats et de mangues en Espagne, visant une dimension de production nettement supérieure à celle observée actuellement. <span class=\"news-reason\">Information stratégique sur le positionnement et la croissance future d&#x27;un concurrent direct sur l&#x27;avocat et la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884745/el-sector-del-aguacate-y-el-mango-de-espana-llegara-a-tener-una-dimension-que-no-tiene-nada-que-ver-con-la-de-ahora/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">The Spanish avocado and mango interprofessional organization anticipates strong expansion. -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">The Spanish interprofessional organization Intertropic, officially recognized in late 2023, is reaching a key milestone with the approval of its extension of rules in August 2025. The sector anticipates major growth in avocado and mango production in Spain, aiming for a production scale significantly higher than currently observed. <span class=\"news-reason\">Strategic information on the positioning and future growth of a direct competitor for avocado and mango.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884745/el-sector-del-aguacate-y-el-mango-de-espana-llegara-a-tener-una-dimension-que-no-tiene-nada-que-ver-con-la-de-ahora/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">הארגון הבין-מקצועי הספרדי לאבוקדו ומנגו צופה התרחבות משמעותית. -- <span class=\"news-date\">20/10/2026 16:16</span></div><div class=\"news-body\">הארגון הבין-מקצועי הספרדי Intertropic, שהוכר רשמית בסוף 2023, עובר שלב מפתח עם אישור הרחבת הכללים שלו באוגוסט 2025. המגזר צופה צמיחה משמעותית בייצור האבוקדו והמנגו בספרד, במטרה להגיע להיקף ייצור גבוה משמעותית מזה הנצפה כיום. <span class=\"news-reason\">מידע אסטרטגי על המיצוב והצמיחה העתידית של מתחרה ישיר באבוקדו ובמנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9884745/el-sector-del-aguacate-y-el-mango-de-espana-llegara-a-tener-una-dimension-que-no-tiene-nada-que-ver-con-la-de-ahora/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1792510334_0",
-      "timestamp": "2026-10-20T15:32:14.029911+00:00",
-      "title": "Le Maroc organise son 15e Salon international des dattes à Erfoud -- 20/10/2026 11:04",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Jessica"
-      ],
-      "products": [
-        "date"
-      ],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Maroc organise son 15e Salon international des dattes à Erfoud -- <span class=\"news-date\">20/10/2026 11:04</span></div><div class=\"news-body\">La 15e édition du Salon international des dattes au Maroc (SIDATTES) se tiendra à Erfoud du 28 octobre au 1er novembre 2026. Placé sous le thème de l&#x27;innovation et du développement territorial, ce salon rassemble les professionnels pour aborder les enjeux de recherche, d&#x27;investissement et d&#x27;accompagnement des producteurs de la filière. <span class=\"news-reason\">Annonce d&#x27;un événement majeur pour la filière datte dans un pays concurrent direct pour la Medjoul.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/sidattes-2026-erfoud-accueillera-la-filiere-dattiere-du-28-octobre-au-1er-novembre/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Morocco organizes its 15th International Date Fair in Erfoud -- <span class=\"news-date\">20/10/2026 11:04</span></div><div class=\"news-body\">The 15th edition of the International Date Fair in Morocco (SIDATTES) will be held in Erfoud from October 28 to November 1, 2026. Under the theme of innovation and territorial development, this fair brings together professionals to address challenges in research, investment, and support for producers in the sector. <span class=\"news-reason\">Announcement of a major event for the date sector in a direct competitor country for Medjool.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/sidattes-2026-erfoud-accueillera-la-filiere-dattiere-du-28-octobre-au-1er-novembre/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מרוקו מארגנת את התערוכה הבינלאומית ה-15 לתמרים בארפוד -- <span class=\"news-date\">20/10/2026 11:04</span></div><div class=\"news-body\">המהדורה ה-15 של התערוכה הבינלאומית לתמרים במרוקו (SIDATTES) תתקיים בארפוד מה-28 באוקטובר עד ה-1 בנובמבר 2026. תחת הכותרת של חדשנות ופיתוח אזורי, תערוכה זו מאגדת אנשי מקצוע כדי לדון באתגרי המחקר, ההשקעה והליווי של היצרנים בענף. <span class=\"news-reason\">הודעה על אירוע מרכזי לענף התמרים במדינה שהיא מתחרה ישירה עבור המג'הול.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/sidattes-2026-erfoud-accueillera-la-filiere-dattiere-du-28-octobre-au-1er-novembre/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
