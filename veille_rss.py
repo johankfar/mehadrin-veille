@@ -12,40 +12,24 @@ from datetime import datetime, timedelta, timezone
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.request import urlopen, Request
 from urllib.error import URLError
+from urllib.parse import urljoin
 import ssl
 import html
 
 # ─── Configuration des flux RSS ───
+# Le registre des sources vit dans veille_sources.py (existantes + ajoutees le 24/10/2026).
+# Chaque flux garde url/name/lang et porte en plus source_id, groupe, filtre, country, kind.
+
+from veille_sources import (
+    SOURCES, GROUPE_FRESHPLAZA, equilibrer, pertinent_generaliste, mots_trouves, cle_sujet_multilingue,
+)
 
 RSS_FEEDS = [
-    # Priorite haute — couverture directe produits Mehadrin
-    {"url": "https://www.freshplaza.com/rss.xml",       "name": "FreshPlaza",      "lang": "en"},
-    {"url": "https://www.freshplaza.fr/rss.xml",        "name": "FreshPlaza FR",   "lang": "fr"},
-    {"url": "https://www.freshplaza.it/rss.xml",        "name": "FreshPlaza IT",   "lang": "it"},
-    {"url": "https://www.freshplaza.es/rss.xml",        "name": "FreshPlaza ES",   "lang": "es"},
-    {"url": "https://www.freshplaza.de/rss.xml",        "name": "FreshPlaza DE",   "lang": "de"},
-    {"url": "https://www.agf.nl/rss.xml",               "name": "AGF.nl",          "lang": "nl"},
-    {"url": "https://www.freshfruitportal.com/feed/",    "name": "Fresh Fruit Portal", "lang": "en"},
-    {"url": "https://east-fruit.com/en/feed/",           "name": "EastFruit",       "lang": "en"},
-    {"url": "https://www.hortidaily.com/rss.xml",        "name": "HortiDaily",      "lang": "en"},
-    # Priorite moyenne — marche francais, espagnol
-    {"url": "https://www.reussir.fr/fruits-legumes/rss.xml", "name": "Reussir F&L", "lang": "fr"},
-    {"url": "https://hortoinfo.es/feed/",                "name": "Hortoinfo",       "lang": "es"},
-    {"url": "https://citrusindustry.net/feed/",          "name": "Citrus Industry", "lang": "en"},
-    # FreshPlaza editions regionales
-    {"url": "https://www.freshplaza.com/asia/rss.xml/",           "name": "FreshPlaza Asia",    "lang": "en"},
-    {"url": "https://www.freshplaza.com/north-america/rss.xml/",  "name": "FreshPlaza NA",      "lang": "en"},
-    {"url": "https://www.freshplaza.com/latin-america/rss.xml/",  "name": "FreshPlaza LatAm",   "lang": "en"},
-    {"url": "https://www.freshplaza.com/africa/rss.xml/",         "name": "FreshPlaza Africa",  "lang": "en"},
-    {"url": "https://www.freshplaza.com/europe/rss.xml/",         "name": "FreshPlaza Europe", "lang": "en"},
-    # Maroc — origine concurrente majeure (avocats, agrumes)
-    {"url": "https://www.agrimaroc.ma/feed/",            "name": "AgriMaroc",       "lang": "fr"},
-    # Agrumes — sources specialisees
-    {"url": "https://valenciafruits.com/feed/",          "name": "ValenciaFruits",  "lang": "es"},
-    {"url": "https://www.freshplaza.cn/rss.xml",         "name": "FreshPlaza CN",   "lang": "zh"},
-    # Priorite basse — couverture plus large
-    {"url": "https://www.producereport.com/rss.xml",     "name": "Produce Report",  "lang": "en"},
-    {"url": "https://freshfel.org/feed/",                "name": "Freshfel Europe", "lang": "en"},
+    {"url": s["url"], "name": s["name"], "lang": s["lang"], "source_id": s["id"],
+     "groupe": s["groupe"], "filtre": s["filtre"], "country": s["country"], "kind": s["kind"],
+     "format": s.get("format", "rss"), "html": s.get("html"),
+     "ignorer_sans_extrait": s.get("ignorer_sans_extrait", False)}
+    for s in SOURCES
 ]
 
 # ─── Mots-cles produits Mehadrin (multi-langue) ───
@@ -238,7 +222,16 @@ def _fetch_feed(feed_config, timeout=15):
             except UnicodeDecodeError:
                 text = raw.decode("latin-1")
 
-        root = ET.fromstring(text)
+        if feed_config.get("format", "rss") == "wpjson":
+            articles = parse_wpjson(text, feed_config)
+            print(f"  WPJSON {name}: {len(articles)} articles")
+            return articles
+        if feed_config.get("format", "rss") == "html":
+            articles = parse_html(text, feed_config)
+            print(f"  HTML {name}: {len(articles)} articles")
+            return articles
+
+        root = ET.fromstring(text.strip())  # tolerant : certains serveurs mettent un espace avant <?xml
 
         # Handle RSS 2.0
         for item in root.findall(".//item"):
@@ -250,11 +243,16 @@ def _fetch_feed(feed_config, timeout=15):
             if title and link:
                 articles.append({
                     "title": _clean_html(title),
-                    "link": _safe_link(link),
+                    "link": _safe_link(urljoin(url, link)),
                     "summary": _clean_html(desc)[:500] if desc else "",
                     "pub_date": _parse_rss_date(pub_date),
                     "source": name,
                     "lang": lang,
+                    "source_id": feed_config.get("source_id", name),
+                    "groupe": feed_config.get("groupe", feed_config.get("source_id", name)),
+                    "filtre": feed_config.get("filtre", "specialise"),
+                    "country": feed_config.get("country", ""),
+                    "kind": feed_config.get("kind", ""),
                 })
 
         # Handle Atom feeds
@@ -271,17 +269,92 @@ def _fetch_feed(feed_config, timeout=15):
             if title and link:
                 articles.append({
                     "title": _clean_html(title),
-                    "link": _safe_link(link),
+                    "link": _safe_link(urljoin(url, link)),
                     "summary": _clean_html(desc)[:500] if desc else "",
                     "pub_date": _parse_rss_date(pub_date),
                     "source": name,
                     "lang": lang,
+                    "source_id": feed_config.get("source_id", name),
+                    "groupe": feed_config.get("groupe", feed_config.get("source_id", name)),
+                    "filtre": feed_config.get("filtre", "specialise"),
+                    "country": feed_config.get("country", ""),
+                    "kind": feed_config.get("kind", ""),
                 })
 
         print(f"  RSS {name}: {len(articles)} articles")
     except Exception as e:
-        print(f"  RSS {name}: ERREUR ({e})")
+        print(f"  RSS {name}: ERREUR ({type(e).__name__}: {e})")
 
+    return articles
+
+
+def parse_wpjson(texte, feed_config):
+    """Lecteur WordPress REST (/wp-json/wp/v2/posts) : JSON -> articles bruts (meme forme que le RSS)."""
+    import json
+    posts = json.loads(texte)
+    if not isinstance(posts, list):
+        raise ValueError("reponse wp-json inattendue (liste de posts attendue)")
+    name = feed_config["name"]
+    articles = []
+    for p in posts:
+        if not isinstance(p, dict):
+            continue
+        title = _clean_html(((p.get("title") or {}).get("rendered")) or "")
+        link = _safe_link(urljoin(feed_config.get("url", ""), p.get("link", "")))
+        corps = ((p.get("excerpt") or {}).get("rendered")) or ((p.get("content") or {}).get("rendered")) or ""
+        date = p.get("date_gmt") or p.get("date") or ""  # _fields=...date : heure du site, lue comme UTC (approximation)
+        if date and not re.search(r"(Z|[+-]\d\d:?\d\d)$", date):
+            date += "Z"
+        if not (title and link):
+            continue
+        extrait = _clean_html(corps)
+        if feed_config.get("ignorer_sans_extrait") and not extrait:
+            continue  # ex. AgriMaroc : items reserves aux abonnes (extrait vide, titre brouille)
+        articles.append({
+            "title": title,
+            "link": link,
+            "summary": extrait[:500],
+            "pub_date": _parse_rss_date(date) if date else None,
+            "source": name,
+            "lang": feed_config["lang"],
+            "source_id": feed_config.get("source_id", name),
+            "groupe": feed_config.get("groupe", feed_config.get("source_id", name)),
+            "filtre": feed_config.get("filtre", "specialise"),
+            "country": feed_config.get("country", ""),
+            "kind": feed_config.get("kind", ""),
+        })
+    return articles
+
+
+def parse_html(texte, feed_config):
+    """Adaptateur HTML minimal : feed_config["html"] = {"item": regex (groupes nommes title, href, [resume], [date]),
+    "date_format": strptime, "tz_offset_hours": decalage de l'heure locale}. Page 1 seulement (jamais de pagination)."""
+    cfg = feed_config["html"]
+    rx = re.compile(cfg["item"], re.S)
+    vus, articles = set(), []
+    for m in rx.finditer(texte):
+        g = m.groupdict()
+        title = _clean_html(g.get("title") or "")
+        link = _safe_link(urljoin(feed_config.get("url", ""), html.unescape(g.get("href") or "")))
+        if not (title and link) or link in vus:
+            continue
+        vus.add(link)
+        pub = None
+        if g.get("date") and cfg.get("date_format"):
+            try:
+                dt = datetime.strptime(g["date"].strip(), cfg["date_format"])
+                pub = dt.replace(tzinfo=timezone(timedelta(hours=cfg.get("tz_offset_hours", 0)))).astimezone(timezone.utc)
+            except ValueError:
+                pub = None
+        name = feed_config["name"]
+        articles.append({
+            "title": title, "link": link, "summary": _clean_html(g.get("resume") or "")[:500], "pub_date": pub,
+            "source": name, "lang": feed_config["lang"],
+            "source_id": feed_config.get("source_id", name),
+            "groupe": feed_config.get("groupe", feed_config.get("source_id", name)),
+            "filtre": feed_config.get("filtre", "specialise"),
+            "country": feed_config.get("country", ""), "kind": feed_config.get("kind", ""),
+        })
     return articles
 
 
@@ -447,36 +520,60 @@ def _extract_subject_key(title):
 
 # ─── API publique ───
 
-def fetch_all_feeds(max_age_hours=48):
-    """Telecharge tous les flux RSS en parallele et filtre par mots-cles Mehadrin.
+def _matches_generaliste(article):
+    """Presse generaliste : exclusions absolues (EXCLUDE_ALWAYS) puis produit ET (origine OU marche).
+    Retourne le score (nombre de termes trouves) ou 0."""
+    text = f"{article['title']} {article['summary']}".lower()
+    for kw in EXCLUDE_ALWAYS:
+        if kw in text:
+            return 0
+    if re.search(r"(?<![a-z])lim[oó]n", text):  # « limón » (accent) : citron, non Mehadrin
+        return 0
+    if not pertinent_generaliste(article["title"], article["summary"]):
+        return 0
+    prod, orig, march = mots_trouves(f"{article['title']} {article['summary']}")
+    article["_matched_keywords"] = prod + orig + march
+    article["_score"] = len(article["_matched_keywords"])
+    return article["_score"]
 
-    Args:
-        max_age_hours: Ne garder que les articles de moins de N heures
 
-    Returns:
-        Liste d'articles pertinents tries par score decroissant
+def _matches_specialise_produit(article):
+    """Comme _matches_mehadrin, mais un mot PRODUIT (veille_sources.mots_trouves) est obligatoire."""
+    score = _matches_mehadrin(article)
+    if score > 0 and not mots_trouves(f"{article['title']} {article['summary']}")[0]:
+        return 0
+    return score
+
+
+def _score_apres(article):
+    """Score d'un article selon le `filtre` de sa source (mode "apres")."""
+    f = article.get("filtre")
+    if f == "generaliste":
+        return _matches_generaliste(article)
+    if f == "specialise_produit":  # sources AJOUTEES de presse specialisee / donnees
+        return _matches_specialise_produit(article)
+    return _matches_mehadrin(article)  # sources d'origine : comportement d'origine, aucune perte
+
+
+def cle_sujet(titre):
+    """Cle de sujet pour le dedoublonnage : multilingue (produit+origine canoniques) sinon ancienne cle."""
+    return cle_sujet_multilingue(titre) or _extract_subject_key(titre)
+
+
+def selectionner(articles_bruts, maintenant, mode="apres", max_age_hours=48):
+    """Fonction pure : articles bruts -> candidats pertinents, dedoublonnes (sans reseau).
+
+    mode="avant" : comportement d'origine (filtre mots-cles Mehadrin pour tous, tri par score,
+                   dedup 4 niveaux, aucun equilibre).
+    mode="apres" : filtre selon `filtre` de la source (specialise = inchange ; generaliste =
+                   exclusions absolues + produit ET origine/marche), tri par score,
+                   equilibre avant dedup (le dedup par sujet prefere les sources non-FreshPlaza),
+                   dedup 4 niveaux inchange, equilibre apres.
     """
-    print(f"  Scraping {len(RSS_FEEDS)} flux RSS...")
-
-    all_articles = []
-
-    # Fetch en parallele (max 8 threads)
-    with ThreadPoolExecutor(max_workers=8) as pool:
-        futures = {pool.submit(_fetch_feed, feed): feed for feed in RSS_FEEDS}
-        for future in as_completed(futures):
-            try:
-                articles = future.result()
-                all_articles.extend(articles)
-            except Exception as e:
-                feed = futures[future]
-                print(f"  RSS {feed['name']}: EXCEPTION ({e})")
-
-    print(f"  Total brut: {len(all_articles)} articles")
-
     # Filtrer par age
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=max_age_hours)
+    cutoff = maintenant - timedelta(hours=max_age_hours)
     fresh = []
-    for a in all_articles:
+    for a in articles_bruts:
         if a["pub_date"] and a["pub_date"] > cutoff:
             fresh.append(a)
         elif a["pub_date"] is None:
@@ -487,7 +584,10 @@ def fetch_all_feeds(max_age_hours=48):
     # Filtrer par mots-cles Mehadrin
     candidates = []
     for a in fresh:
-        score = _matches_mehadrin(a)
+        if mode == "apres":
+            score = _score_apres(a)
+        else:
+            score = _matches_mehadrin(a)
         if score > 0:
             candidates.append(a)
 
@@ -495,6 +595,9 @@ def fetch_all_feeds(max_age_hours=48):
     candidates.sort(key=lambda a: a.get("_score", 0), reverse=True)
 
     print(f"  Apres filtre mots-cles Mehadrin: {len(candidates)} candidats")
+
+    if mode == "apres":
+        candidates = equilibrer(candidates)
 
     # Dedup 4 niveaux : article ID cross-langue > URL > titre > sujet-cle
     seen_article_ids = set()  # FreshPlaza/AGF article IDs (cross-language)
@@ -525,7 +628,7 @@ def fetch_all_feeds(max_age_hours=48):
         seen_titles.add(t_norm)
 
         # Niveau 4 : Sujet-cle (meme produit + meme pays = meme sujet)
-        subject = _extract_subject_key(a["title"])
+        subject = cle_sujet(a["title"]) if mode == "apres" else _extract_subject_key(a["title"])
         if subject and subject in seen_subjects:
             print(f"    Dedup sujet {subject}: {a['title'][:50]} ({a['source']})")
             continue
@@ -536,11 +639,45 @@ def fetch_all_feeds(max_age_hours=48):
 
     print(f"  Apres dedup 4-niveaux (IDs+URLs+titres+sujets): {len(unique)} uniques")
 
+    if mode == "apres":
+        unique = equilibrer(unique)
+
     # Tagging commercial pour chaque article
     for a in unique:
         a["_commercials"] = detect_commercials(a)
 
     return unique
+
+
+def fetch_all_feeds(max_age_hours=48):
+    """Telecharge tous les flux RSS en parallele puis applique selectionner().
+
+    Args:
+        max_age_hours: Ne garder que les articles de moins de N heures
+
+    Returns:
+        Liste d'articles pertinents (score, puis equilibre entre sources). Un flux en erreur
+        n'arrete jamais le cycle : son statut est journalise.
+    """
+    print(f"  Scraping {len(RSS_FEEDS)} flux RSS...")
+
+    all_articles = []
+
+    # Fetch en parallele (max 8 threads)
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        futures = {pool.submit(_fetch_feed, feed): feed for feed in RSS_FEEDS}
+        for future in as_completed(futures):
+            try:
+                articles = future.result()
+                all_articles.extend(articles)
+            except Exception as e:
+                feed = futures[future]
+                print(f"  RSS {feed['name']}: EXCEPTION ({e})")
+
+    print(f"  Total brut: {len(all_articles)} articles")
+
+    return selectionner(all_articles, datetime.now(timezone.utc), mode="apres",
+                        max_age_hours=max_age_hours)
 
 
 if __name__ == "__main__":

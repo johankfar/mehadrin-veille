@@ -102,9 +102,10 @@ REGLES CRITIQUES :
 - NE PAS inventer de chiffres. Si l'article dit "les prix ont augmente", ne PAS inventer "de 5%".
 - TOUS les chiffres dans ta reponse doivent venir de l'article original.
 - Le lien source est SACRE : copie-le exactement tel quel.
-- Redige en francais. Maximum 10 articles. Mieux vaut 3 articles pertinents que 10 articles mediocres.
+- Redige en francais. Maximum 30 articles. Mieux vaut 3 articles pertinents que 10 articles mediocres.
 - PAS D'EMOJIS.
 - ANTI-DOUBLON STRICT : Si plusieurs articles parlent du MEME SUJET (meme produit + meme pays/origine), ne garder que le MEILLEUR (celui avec le plus de chiffres/details). ATTENTION : les articles proviennent de FreshPlaza en 5+ langues (EN, FR, ES, IT, DE) — le meme article est souvent present plusieurs fois avec des titres traduits. Ne garder qu'UNE seule version par sujet.
+- DIVERSITE DES SOURCES : a pertinence egale, preferer les sources autres que FreshPlaza/AGF.nl ; ne jamais ecarter un article pertinent de FreshPlaza/AGF.nl.
 
 FORMAT DE SORTIE (HTML strict) :
 Pour chaque article retenu, genere :

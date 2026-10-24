@@ -34,6 +34,12 @@ except ImportError:
 
 from veille_prompt import HYBRID_FILTER_PROMPT, get_seasonal_products, get_off_season_products
 from veille_rss import fetch_all_feeds
+from veille_sources import appliquer_diversite_html, equilibrer
+
+# Candidats envoyes a Gemini par cycle (v3 : 80, soit plus de 2,5 fois le plafond de 30 articles du prompt).
+NB_CANDIDATS = 80
+
+
 from veille_storage import (
     load_data, save_data, purge_old_articles, purge_excluded_content,
     can_generate, get_previous_titles, add_articles,
@@ -99,7 +105,7 @@ def _strip_emojis(text):
     return emoji_pattern.sub('', text)
 
 
-def _format_rss_articles_for_prompt(articles, max_articles=30):
+def _format_rss_articles_for_prompt(articles, max_articles=NB_CANDIDATS):
     """Formate les articles RSS pour le prompt Gemini."""
     lines = []
     for i, a in enumerate(articles[:max_articles], 1):
@@ -111,6 +117,7 @@ def _format_rss_articles_for_prompt(articles, max_articles=30):
             f"--- ARTICLE {i} ---\n"
             f"Titre: {a['title']}\n"
             f"Source: {a['source']} ({a['lang']})\n"
+            f"Pays/type de la source: {a.get('country', '') or 'n/a'} / {a.get('kind', '') or 'n/a'}\n"
             f"Date: {pub}\n"
             f"Lien: {a['link']}\n"
             f"Resume: {a['summary'][:400]}\n"
@@ -178,8 +185,8 @@ def generate_veille(force=False):
             for m in re.finditer(r'/article/(\d+)/', a.get(key, "")):
                 existing_article_ids.add(m.group(1))
         # Sujet-cle (produit+pays)
-        from veille_rss import _extract_subject_key
-        sk = _extract_subject_key(a.get("title", ""))
+        from veille_rss import cle_sujet
+        sk = cle_sujet(a.get("title", ""))
         if sk:
             existing_subject_keys.add(sk)
 
@@ -198,7 +205,7 @@ def generate_veille(force=False):
         if t_norm in existing_titles:
             continue
         # Niveau 4 : Sujet-cle (meme produit + meme pays = deja couvert)
-        sk = _extract_subject_key(a["title"])
+        sk = cle_sujet(a["title"])
         if sk and sk in existing_subject_keys:
             print(f"    Dedup sujet-cle vs existants: {a['title'][:60]}")
             continue
@@ -217,6 +224,9 @@ def generate_veille(force=False):
             continue
 
         new_rss.append(a)
+
+    # Le retrait des articles deja connus a pu fausser l'equilibre entre sources : on le retablit.
+    new_rss = equilibrer(new_rss)
 
     print(f"  Apres dedup 5-niveaux vs existants: {len(new_rss)} nouveaux articles")
 
@@ -253,7 +263,7 @@ def generate_veille(force=False):
         )
 
     prompt = HYBRID_FILTER_PROMPT.format(
-        article_count=len(new_rss[:30]),
+        article_count=len(new_rss[:NB_CANDIDATS]),
         date=date_str,
         week_num=week_num,
         seasonal_products=seasonal_str,
@@ -267,7 +277,7 @@ def generate_veille(force=False):
 
         client = genai.Client(api_key=gemini_key)
 
-        print(f"\n  ETAPE 2 : Gemini Flash filtre + enrichit {len(new_rss[:30])} articles...")
+        print(f"\n  ETAPE 2 : Gemini Flash filtre + enrichit {len(new_rss[:NB_CANDIDATS])} articles...")
 
         response = _gemini_call_with_retry(
             client,
@@ -285,6 +295,8 @@ def generate_veille(force=False):
 
         enriched_html = _clean_api_html(raw)
         enriched_html = _strip_emojis(enriched_html)
+        # Libelle de source deterministe (aucune limite FreshPlaza/AGF.nl depuis le 24/10/2026)
+        enriched_html = appliquer_diversite_html(enriched_html, new_rss[:NB_CANDIDATS])
         print(f"  Gemini cleaned: {len(enriched_html)} chars")
 
     except Exception as e:
