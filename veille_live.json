@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-26T09:03:22.386488+00:00",
-  "article_count": 30,
+  "last_updated": "2026-10-26T10:34:43.588350+00:00",
+  "article_count": 34,
   "attention_points": [
+    {
+      "id": "attention-bbd094d7dde9e534",
+      "article_id": "1793010883_0",
+      "url": "https://www.freshplaza.de/article/9885572/greenskin-avocadosaison-mit-beispiellos-hohen-preisen-abgeschlossen/",
+      "source": "FreshPlaza DE",
+      "title": "Fin de la campagne des avocats à peau",
+      "summary": "Les premiers fruits présentent majoritairement des petits calibres sur le marché",
+      "origin_code": "ISR",
+      "origin_label": "Israël",
+      "published_at": "2026-10-26T10:36:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-79c04afbd35a83d5",
+      "article_id": "1793010883_1",
+      "url": "https://www.fruchthandel.de/news/peru-wert-der-mangoexporte-bis-september-2026-zweistellig-gestiegen",
+      "source": "Fruchthandel",
+      "title": "Hausse significative de la valeur des exportations",
+      "summary": "Le chiffre d'affaires progresse malgré un repli global des quantités expédiées",
+      "origin_code": "PER",
+      "origin_label": "Pérou",
+      "published_at": "2026-10-26T09:19:09+00:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "volume",
+      "products": [
+        "mango"
+      ],
+      "age_hours": 1
+    },
     {
       "id": "attention-84021c283204a914",
       "article_id": "1793005402_0",
@@ -20,7 +58,7 @@
         "avocat",
         "mango"
       ],
-      "age_hours": 0
+      "age_hours": 1
     },
     {
       "id": "attention-bde1bb6cc24d9c7a",
@@ -39,48 +77,82 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 1
-    },
-    {
-      "id": "attention-da3896e9a10d790c",
-      "article_id": "1792994583_0",
-      "url": "https://www.freshplaza.it/article/9886085/produzione-abbondante-ma-calibri-ridotti-i-maggiori-costi-si-rifletteranno-sui-prezzi-finali/",
-      "source": "FreshPlaza IT",
-      "title": "Prédominance de petits calibres et pression parasitaire",
-      "summary": "La production abondante de clémentines italiennes subit des calibres réduits et des parasites.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-10-26T06:00:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "mandarine"
-      ],
-      "age_hours": 4
-    },
-    {
-      "id": "attention-0bc8c7a0bca82c63",
-      "article_id": "1792881629_1",
-      "url": "https://www.freshplaza.es/article/9885952/los-productores-de-aguacate-michoacanos-protestan-por-la-caida-de-precios/",
-      "source": "FreshPlaza ES",
-      "title": "Mexique : : mobilisation des producteurs d'avocats",
-      "summary": "Les producteurs locaux dénoncent une dépréciation importante affectant la rentabilité des exploitations",
-      "origin_code": "MEX",
-      "origin_label": "Mexique",
-      "published_at": "2026-10-23T15:13:00+02:00",
-      "published_at_source": "rss",
-      "signal_type": "price",
-      "signal_label": "Prix",
-      "icon": "price",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 67
+      "age_hours": 3
     }
   ],
   "articles": [
+    {
+      "id": "1793010883_3",
+      "timestamp": "2026-10-26T10:34:43.588350+00:00",
+      "title": "Jobarma accroît ses volumes d&#x27;agrumes espagnols de 10 000 tonnes",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Jobarma accroît ses volumes d&#x27;agrumes espagnols de 10 000 tonnes -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">L&#x27;entreprise valencienne Jobarma a débuté sa nouvelle saison d&#x27;agrumes en Espagne avec des prévisions de croissance significatives. Grâce à la modernisation de ses installations, la société prévoit de commercialiser 10 000 tonnes supplémentaires cette saison. Cet investissement technologique a permis d&#x27;accroître la capacité de conditionnement de 30 % et d&#x27;introduire un système de tri optique pour la sélection des fruits. <span class=\"news-reason\">Information stratégique sur l&#x27;augmentation des volumes d&#x27;un concurrent majeur (Espagne) avec chiffres précis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885512/l-ammodernamento-dell-impianto-di-lavorazione-degli-agrumi-ci-consentira-di-vendere-10-000-tonnellate-in-piu/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Jobarma increases its Spanish citrus volumes by 10,000 tons -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">Valencian company Jobarma has started its new citrus season in Spain with significant growth forecasts. Thanks to the modernization of its facilities, the company plans to market an additional 10,000 tons this season. This technological investment has increased packaging capacity by 30% and introduced an optical sorting system for fruit selection. <span class=\"news-reason\">Strategic information on the increase in volumes from a major competitor (Spain) with precise figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885512/l-ammodernamento-dell-impianto-di-lavorazione-degli-agrumi-ci-consentira-di-vendere-10-000-tonnellate-in-piu/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">Jobarma מגדילה את כמויות ההדרים הספרדיים ב-10,000 טון -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">החברה מוולנסיה, Jobarma, החלה את עונת ההדרים החדשה שלה בספרד עם תחזיות צמיחה משמעותיות. הודות למודרניזציה של מתקניה, החברה צופה לשווק 10,000 טון נוספים העונה. השקעה טכנולוגית זו אפשרה להגדיל את כושר האריזה ב-30% ולהכניס מערכת מיון אופטית לבחירת הפירות. <span class=\"news-reason\">מידע אסטרטגי על הגדלת הכמויות של מתחרה מרכזי (ספרד) עם נתונים מדויקים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885512/l-ammodernamento-dell-impianto-di-lavorazione-degli-agrumi-ci-consentira-di-vendere-10-000-tonnellate-in-piu/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793010883_2",
+      "timestamp": "2026-10-26T10:34:43.588350+00:00",
+      "title": "Les exportateurs mexicains d&#x27;avocats prêts pour le marché américain",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MEX",
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Les exportateurs mexicains d&#x27;avocats prêts pour le marché américain -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">L&#x27;Association des producteurs et exportateurs d&#x27;avocats de l&#x27;État du Mexique (APEAMEX) indique avoir rempli toutes les conditions techniques pour exporter vers les États-Unis. Le début effectif des expéditions dépend désormais uniquement de la finalisation d&#x27;une procédure administrative interne aux autorités américaines. <span class=\"news-reason\">Information sur l&#x27;accès au marché d&#x27;une origine concurrente majeure pour l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885204/se-domani-dovessero-darci-il-via-libera-potremmo-cominciare-a-spedire-subito/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Mexican avocado exporters ready for the US market -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">The Association of Avocado Producers and Exporters of the State of Mexico (APEAMEX) indicates it has met all technical requirements to export to the United States. The actual start of shipments now depends solely on the completion of an internal administrative procedure by US authorities. <span class=\"news-reason\">Information on market access for a major competing avocado origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885204/se-domani-dovessero-darci-il-via-libera-potremmo-cominciare-a-spedire-subito/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">יצואני אבוקדו מקסיקנים מוכנים לשוק האמריקאי -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">איגוד המגדלים והיצואנים של אבוקדו ממדינת מקסיקו (APEAMEX) מציין כי מילא את כל התנאים הטכניים לייצוא לארצות הברית. תחילת המשלוחים בפועל תלויה כעת אך ורק בהשלמת הליך מנהלי פנימי של הרשויות האמריקאיות. <span class=\"news-reason\">מידע על הגישה לשוק של מקור מתחרה מרכזי עבור אבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885204/se-domani-dovessero-darci-il-via-libera-potremmo-cominciare-a-spedire-subito/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793010883_1",
+      "timestamp": "2026-10-26T10:34:43.588350+00:00",
+      "title": "Hausse significative de la valeur des exportations de mangues du Pérou -- 26/10/2026 09:19",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [
+        "PER"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Hausse significative de la valeur des exportations de mangues du Pérou -- <span class=\"news-date\">26/10/2026 09:19</span></div><div class=\"news-body\">De janvier à septembre 2026, la valeur des exportations de mangues péruviennes a atteint 275 190 411 dollars, soit une progression de 17,15 % par rapport à 2025. Cette hausse de valeur intervient malgré une diminution des volumes exportés, qui s&#x27;établissent à 168 577 837 kg, représentant une baisse de 9,4 %. <span class=\"news-reason\">Statistiques précises sur les volumes et les valeurs d&#x27;exportation d&#x27;une origine concurrente majeure.</span></div><div class=\"news-source\"><a href=\"https://www.fruchthandel.de/news/peru-wert-der-mangoexporte-bis-september-2026-zweistellig-gestiegen\" target=\"_blank\">Fruchthandel -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Significant increase in the value of Peruvian mango exports -- <span class=\"news-date\">26/10/2026 09:19</span></div><div class=\"news-body\">From January to September 2026, the value of Peruvian mango exports reached 275,190,411 dollars, a 17.15% increase compared to 2025. This increase in value occurs despite a decrease in exported volumes, which stood at 168,577,837 kg, representing a 9.4% drop. <span class=\"news-reason\">Precise statistics on export volumes and values from a major competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.fruchthandel.de/news/peru-wert-der-mangoexporte-bis-september-2026-zweistellig-gestiegen\" target=\"_blank\">Fruchthandel -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עלייה משמעותית בערך ייצוא המנגו מפרו -- <span class=\"news-date\">26/10/2026 09:19</span></div><div class=\"news-body\">מינואר עד ספטמבר 2026, ערך ייצוא המנגו הפרואני הגיע ל-275,190,411 דולר, המהווה עלייה של 17.15% לעומת 2025. עלייה זו בערך מתרחשת למרות ירידה בכמויות המיוצאות, שעמדו על 168,577,837 ק\"ג, המהווים ירידה של 9.4%. <span class=\"news-reason\">סטטיסטיקות מדויקות על כמויות וערכי ייצוא של מקור מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.fruchthandel.de/news/peru-wert-der-mangoexporte-bis-september-2026-zweistellig-gestiegen\" target=\"_blank\">Fruchthandel -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793010883_0",
+      "timestamp": "2026-10-26T10:34:43.588350+00:00",
+      "title": "Fin de la campagne des avocats à peau verte et lancement du Hass israélien",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ISR",
+        "CHL"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Fin de la campagne des avocats à peau verte et lancement du Hass israélien -- <span class=\"news-date\">26/10/2026 10:36</span></div><div class=\"news-body\">La saison des avocats Hass du Chili et d&#x27;Israël commence avec des niveaux de prix élevés. En Israël, l&#x27;offre actuelle se concentre sur les petits calibres et les Baby Hass, mais une augmentation des volumes dans toutes les tailles est attendue prochainement. Parallèlement, la saison des avocats à peau verte se termine sur des prix records. <span class=\"news-reason\">Information directe sur le début de la campagne Hass en Israël avec détails sur les calibres et les prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9885572/greenskin-avocadosaison-mit-beispiellos-hohen-preisen-abgeschlossen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">End of season for green-skinned avocados and launch of Israeli Hass -- <span class=\"news-date\">26/10/2026 10:36</span></div><div class=\"news-body\">The Hass avocado season from Chile and Israel is starting with high price levels. In Israel, the current supply focuses on small sizes and Baby Hass, but an increase in volumes across all sizes is expected soon. Meanwhile, the green-skinned avocado season is ending with record prices. <span class=\"news-reason\">Direct information on the start of the Hass season in Israel with details on sizes and prices.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9885572/greenskin-avocadosaison-mit-beispiellos-hohen-preisen-abgeschlossen/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיום עונת אבוקדו קליפה ירוקה ותחילת עונת ההאס הישראלי -- <span class=\"news-date\">26/10/2026 10:36</span></div><div class=\"news-body\">עונת אבוקדו ההאס מצ'ילה ומישראל מתחילה עם רמות מחירים גבוהות. בישראל, ההיצע הנוכחי מתמקד בגדלים קטנים ובבייבי האס, אך צפויה עלייה בכמויות בכל הגדלים בקרוב. במקביל, עונת אבוקדו הקליפה הירוקה מסתיימת במחירי שיא. <span class=\"news-reason\">מידע ישיר על תחילת עונת ההאס בישראל עם פרטים על הגדלים והמחירים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9885572/greenskin-avocadosaison-mit-beispiellos-hohen-preisen-abgeschlossen/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1793005402_0",
       "timestamp": "2026-10-26T09:03:22.386488+00:00",
@@ -157,14 +229,14 @@
     {
       "id": "1792994583_0",
       "timestamp": "2026-10-26T06:03:03.916360+00:00",
-      "title": "Campagne des clémentines italiennes : prédominance de petits calibres et pression parasitaire",
+      "title": "Campagne des clémentines italiennes : prédominance des petits calibres et pression parasitaire",
       "category": "ALERTES SUPPLY",
       "commercials": [],
       "products": [
         "mandarine"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Campagne des clémentines italiennes : prédominance de petits calibres et pression parasitaire -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">La campagne de clémentines dans la région de Tarente affiche une production abondante mais des calibres réduits. La présence de l&#x27;araignée rouge dans plusieurs zones de production et l&#x27;augmentation des coûts de production devraient entraîner une hausse des prix de vente finaux. <span class=\"news-reason\">Information sur la qualité et les calibres des clémentines italiennes impactant les prix du marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886085/produzione-abbondante-ma-calibri-ridotti-i-maggiori-costi-si-rifletteranno-sui-prezzi-finali/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Campagne des clémentines italiennes : prédominance des petits calibres et pression parasitaire -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">La campagne de clémentines dans la région de Tarente affiche une production abondante mais des calibres réduits. La présence de l&#x27;araignée rouge dans plusieurs zones de production et l&#x27;augmentation des coûts de production devraient entraîner une hausse des prix de vente finaux. <span class=\"news-reason\">Information sur la qualité et les calibres des clémentines italiennes impactant les prix du marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886085/produzione-abbondante-ma-calibri-ridotti-i-maggiori-costi-si-rifletteranno-sui-prezzi-finali/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Italian clementine campaign: small sizes and pest pressure -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">The clementine campaign in the Taranto region shows abundant production but reduced sizes. The presence of spider mites in several production areas and the increase in production costs are expected to lead to higher final selling prices. <span class=\"news-reason\">Information on the quality and sizes of Italian clementines impacting market prices.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886085/produzione-abbondante-ma-calibri-ridotti-i-maggiori-costi-si-rifletteranno-sui-prezzi-finali/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">עונת הקלמנטינות האיטלקיות: גדלים קטנים ולחצי מזיקים -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">עונת הקלמנטינות באזור טאראנטו מציגה יבול שופע אך גדלים מצומצמים. נוכחותה של האקרית האדומה במספר אזורי גידול והעלייה בעלויות הייצור צפויות להוביל לעלייה במחירי המכירה הסופיים. <span class=\"news-reason\">מידע על האיכות והגדלים של הקלמנטינות האיטלקיות המשפיעים על מחירי השוק.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886085/produzione-abbondante-ma-calibri-ridotti-i-maggiori-costi-si-rifletteranno-sui-prezzi-finali/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -241,7 +313,7 @@
     {
       "id": "1792881629_1",
       "timestamp": "2026-10-24T22:40:29.763364+00:00",
-      "title": "Mexique : mobilisation des producteurs d&#x27;avocats face à la baisse des prix",
+      "title": "Mexique : mobilisation des producteurs d&#x27;avocats face à la chute des cours",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -252,7 +324,7 @@
       "origins": [
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Mexique : mobilisation des producteurs d&#x27;avocats face à la baisse des prix -- <span class=\"news-date\">23/10/2026 15:13</span></div><div class=\"news-body\">Les petits producteurs d&#x27;avocats de l&#x27;État de Michoacán au Mexique manifestent contre une chute importante des prix d&#x27;achat au champ. Les agriculteurs dénoncent des pertes économiques critiques et réclament une intervention pour stabiliser le marché face à la dépréciation actuelle du fruit. <span class=\"news-reason\">Indicateur de tension sur les prix d&#x27;origine d&#x27;un produit stratégique de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885952/los-productores-de-aguacate-michoacanos-protestan-por-la-caida-de-precios/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Mexique : mobilisation des producteurs d&#x27;avocats face à la chute des cours -- <span class=\"news-date\">23/10/2026 15:13</span></div><div class=\"news-body\">Les petits producteurs d&#x27;avocats de l&#x27;État de Michoacán au Mexique manifestent contre une chute importante des prix d&#x27;achat au champ. Les agriculteurs dénoncent des pertes économiques critiques et réclament une intervention pour stabiliser le marché face à la dépréciation actuelle du fruit. <span class=\"news-reason\">Indicateur de tension sur les prix d&#x27;origine d&#x27;un produit stratégique de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885952/los-productores-de-aguacate-michoacanos-protestan-por-la-caida-de-precios/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Mexico: avocado producers protest against price drops -- <span class=\"news-date\">23/10/2026 15:13</span></div><div class=\"news-body\">Small avocado producers in the state of Michoacán, Mexico, are protesting against a significant drop in farm-gate purchase prices. Farmers are denouncing critical economic losses and calling for intervention to stabilize the market in the face of the current fruit depreciation. <span class=\"news-reason\">Indicator of price tension at source for a strategic Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885952/los-productores-de-aguacate-michoacanos-protestan-por-la-caida-de-precios/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מקסיקו: מגדלי האבוקדו מפגינים נגד ירידת המחירים -- <span class=\"news-date\">23/10/2026 15:13</span></div><div class=\"news-body\">מגדלי אבוקדו קטנים ממדינת מיצ'ואקאן שבמקסיקו מפגינים נגד ירידה משמעותית במחירי הרכישה בשטח. החקלאים מדווחים על הפסדים כלכליים קריטיים ודורשים התערבות לייצוב השוק אל מול ירידת הערך הנוכחית של הפרי. <span class=\"news-reason\">אינדיקטור למתח במחירי המקור של מוצר אסטרטגי של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885952/los-productores-de-aguacate-michoacanos-protestan-por-la-caida-de-precios/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -332,7 +404,7 @@
     {
       "id": "1792861351_1",
       "timestamp": "2026-10-24T17:02:31.166961+00:00",
-      "title": "Lancement de la production de grenades à Moquegua (Pérou) à destination du marché chinois",
+      "title": "Lancement de la production de grenades à Moquegua (Pérou) destinées au marché chinois",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica"
@@ -345,14 +417,14 @@
         "USA",
         "CHN"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Lancement de la production de grenades à Moquegua (Pérou) à destination du marché chinois -- <span class=\"news-date\">23/10/2026 10:50</span></div><div class=\"news-body\">Dans le cadre de l&#x27;initiative Innovagro, 4 000 plants de grenades ont été distribués aux producteurs de la région de Moquegua au Pérou. Cette nouvelle culture vise spécifiquement à profiter de l&#x27;ouverture récente du marché chinois aux grenades péruviennes. Ce projet est soutenu par une collaboration entre les acteurs locaux Pómica et Anglo American pour diversifier l&#x27;offre d&#x27;exportation régionale. <span class=\"news-reason\">Expansion de culture d&#x27;un produit Mehadrin en saison chez un concurrent, avec des données chiffrées sur les plantations.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9885199/moquegua-in-peru-beginnt-mit-dem-anbau-von-granatapfeln-mit-blick-auf-den-chinesischen-markt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Lancement de la production de grenades à Moquegua (Pérou) destinées au marché chinois -- <span class=\"news-date\">23/10/2026 10:50</span></div><div class=\"news-body\">Dans le cadre de l&#x27;initiative Innovagro, 4 000 plants de grenades ont été distribués aux producteurs de la région de Moquegua au Pérou. Cette nouvelle culture vise spécifiquement à profiter de l&#x27;ouverture récente du marché chinois aux grenades péruviennes. Ce projet est soutenu par une collaboration entre les acteurs locaux Pómica et Anglo American pour diversifier l&#x27;offre d&#x27;exportation régionale. <span class=\"news-reason\">Expansion de culture d&#x27;un produit Mehadrin en saison chez un concurrent, avec des données chiffrées sur les plantations.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9885199/moquegua-in-peru-beginnt-mit-dem-anbau-von-granatapfeln-mit-blick-auf-den-chinesischen-markt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Moquegua in Peru launches pomegranate cultivation for the Chinese market -- <span class=\"news-date\">23/10/2026 10:50</span></div><div class=\"news-body\">As part of the Innovagro initiative, 4,000 pomegranate plants have been distributed to producers in the Moquegua region of Peru. This new crop specifically aims to take advantage of the recent opening of the Chinese market to Peruvian pomegranates. This project is supported by a collaboration between local players Pómica and Anglo American to diversify the regional export offering. <span class=\"news-reason\">Expansion of cultivation of a Mehadrin product in season by a competitor, with numerical data on plantations.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9885199/moquegua-in-peru-beginnt-mit-dem-anbau-von-granatapfeln-mit-blick-auf-den-chinesischen-markt/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מוקגואה שבפרו מתחילה בגידול רימונים המיועדים לשוק הסיני -- <span class=\"news-date\">23/10/2026 10:50</span></div><div class=\"news-body\">במסגרת יוזמת Innovagro, חולקו 4,000 שתילי רימונים למגדלים באזור מוקגואה שבפרו. גידול חדש זה נועד במיוחד לנצל את הפתיחה האחרונה של השוק הסיני לרימונים מפרו. פרויקט זה נתמך על ידי שיתוף פעולה בין הגורמים המקומיים Pómica ו-Anglo American במטרה לגוון את היצע היצוא האזורי. <span class=\"news-reason\">התרחבות גידול של מוצר מהדרין בעונה אצל מתחרה, עם נתונים מספריים על המטעים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9885199/moquegua-in-peru-beginnt-mit-dem-anbau-von-granatapfeln-mit-blick-auf-den-chinesischen-markt/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1792856040_1",
       "timestamp": "2026-10-24T15:34:00.419483+00:00",
-      "title": "Égypte : augmentation du calibre des dattes Medjoul malgré une qualité de peau hétérogène",
+      "title": "Égypte : hausse du calibre des dattes Medjoul malgré une qualité de peau hétérogène",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -363,7 +435,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Égypte : augmentation du calibre des dattes Medjoul malgré une qualité de peau hétérogène -- <span class=\"news-date\">23/10/2026 06:05</span></div><div class=\"news-body\">La campagne égyptienne de dattes Medjoul, lancée en septembre, se caractérise par des volumes importants et une amélioration nette du calibre des fruits par rapport aux années précédentes. Toutefois, les exportateurs signalent une proportion légèrement plus faible de fruits de première catégorie (caractérisés par un faible décollement de la peau). La filière égyptienne prévoit de privilégier les marchés d&#x27;exportation lointains pour cette saison. <span class=\"news-reason\">Informations stratégiques sur les caractéristiques qualitatives et la segmentation des tailles d&#x27;une origine concurrente directe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885096/fino-ad-ora-abbiamo-dato-la-priorita-ai-mercati-lontani/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Égypte : hausse du calibre des dattes Medjoul malgré une qualité de peau hétérogène -- <span class=\"news-date\">23/10/2026 06:05</span></div><div class=\"news-body\">La campagne égyptienne de dattes Medjoul, lancée en septembre, se caractérise par des volumes importants et une amélioration nette du calibre des fruits par rapport aux années précédentes. Toutefois, les exportateurs signalent une proportion légèrement plus faible de fruits de première catégorie (caractérisés par un faible décollement de la peau). La filière égyptienne prévoit de privilégier les marchés d&#x27;exportation lointains pour cette saison. <span class=\"news-reason\">Informations stratégiques sur les caractéristiques qualitatives et la segmentation des tailles d&#x27;une origine concurrente directe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885096/fino-ad-ora-abbiamo-dato-la-priorita-ai-mercati-lontani/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Egypt: improved sizes for Medjool dates despite variable skin quality -- <span class=\"news-date\">23/10/2026 06:05</span></div><div class=\"news-body\">The Egyptian Medjool date campaign, launched in September, is characterized by significant volumes and a clear improvement in fruit size compared to previous years. However, exporters report a slightly lower proportion of first-grade fruit (characterized by low skin separation). The Egyptian sector plans to prioritize distant export markets for this season. <span class=\"news-reason\">Strategic information on the qualitative characteristics and size segmentation of a direct competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885096/fino-ad-ora-abbiamo-dato-la-priorita-ai-mercati-lontani/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מקורות מתחרים</div><div class=\"news-title\">מצרים: שיפור בגדלי תמרי המג'הול למרות איכות קליפה משתנה -- <span class=\"news-date\">23/10/2026 06:05</span></div><div class=\"news-body\">עונת תמרי המג'הול המצרית, שהחלה בספטמבר, מתאפיינת בכמויות גדולות ובשיפור ניכר בגודל הפירות בהשוואה לשנים קודמות. עם זאת, היצואנים מדווחים על שיעור נמוך מעט יותר של פירות מהקטגוריה הראשונה (המתאפיינים בהיפרדות מועטה של הקליפה). הענף המצרי מתכנן לתת עדיפות לשוקי יצוא מרוחקים בעונה זו. <span class=\"news-reason\">מידע אסטרטגי על המאפיינים האיכותיים ופילוח הגדלים של מקור מתחרה ישיר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885096/fino-ad-ora-abbiamo-dato-la-priorita-ai-mercati-lontani/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -514,7 +586,7 @@
     {
       "id": "1792764190_0",
       "timestamp": "2026-10-23T14:03:10.111782+00:00",
-      "title": "Les exportations d&#x27;avocats Hass du Pérou enregistrent une croissance de 38 %",
+      "title": "Les exportations d&#x27;avocats Hass du Pérou progressent de 38 %",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -526,7 +598,7 @@
         "PER",
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les exportations d&#x27;avocats Hass du Pérou enregistrent une croissance de 38 % -- <span class=\"news-date\">23/10/2026 15:13</span></div><div class=\"news-body\">En 2025, le Pérou s&#x27;est imposé comme le deuxième exportateur mondial d&#x27;avocats derrière le Mexique, porté par la variété Hass. Les exportations ont bondi de 38 % lors de la dernière campagne, malgré une surface cultivée quasi stable. Cette croissance est attribuée à la forte demande internationale et à la longévité du fruit après récolte. <span class=\"news-reason\">Chiffres précis sur l&#x27;exportation d&#x27;avocats Hass par un concurrent majeur (Pérou) avec données de croissance.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885947/peru-aumenta-un-38-sus-exportaciones-de-hass-con-apenas-mas-superficie-cultivada/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les exportations d&#x27;avocats Hass du Pérou progressent de 38 % -- <span class=\"news-date\">23/10/2026 15:13</span></div><div class=\"news-body\">En 2025, le Pérou s&#x27;est imposé comme le deuxième exportateur mondial d&#x27;avocats derrière le Mexique, porté par la variété Hass. Les exportations ont bondi de 38 % lors de la dernière campagne, malgré une surface cultivée quasi stable. Cette croissance est attribuée à la forte demande internationale et à la longévité du fruit après récolte. <span class=\"news-reason\">Chiffres précis sur l&#x27;exportation d&#x27;avocats Hass par un concurrent majeur (Pérou) avec données de croissance.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885947/peru-aumenta-un-38-sus-exportaciones-de-hass-con-apenas-mas-superficie-cultivada/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">38% increase in Peruvian Hass avocado exports -- <span class=\"news-date\">23/10/2026 15:13</span></div><div class=\"news-body\">In 2025, Peru established itself as the world's second-largest avocado exporter behind Mexico, driven by the Hass variety. Exports jumped by 38% during the last campaign, despite an almost stable cultivated area. This growth is attributed to strong international demand and the fruit's longevity after harvest. <span class=\"news-reason\">Precise figures on Hass avocado exports by a major competitor (Peru) with growth data.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885947/peru-aumenta-un-38-sus-exportaciones-de-hass-con-apenas-mas-superficie-cultivada/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עלייה של 38% בייצוא אבוקדו האס מפרו -- <span class=\"news-date\">23/10/2026 15:13</span></div><div class=\"news-body\">בשנת 2025, פרו ביססה את מעמדה כיצואנית האבוקדו השנייה בגודלה בעולם אחרי מקסיקו, בהובלת זן ההאס. הייצוא זינק ב-38% במהלך העונה האחרונה, למרות שטח מעובד כמעט יציב. צמיחה זו מיוחסת לביקוש הבינלאומי החזק ולאורך חיי המדף של הפרי לאחר הקטיף. <span class=\"news-reason\">נתונים מדויקים על ייצוא אבוקדו האס על ידי מתחרה מרכזית (פרו) עם נתוני צמיחה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885947/peru-aumenta-un-38-sus-exportaciones-de-hass-con-apenas-mas-superficie-cultivada/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
