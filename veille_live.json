@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-10-26T06:03:03.916360+00:00",
+  "last_updated": "2026-10-26T07:33:14.928514+00:00",
   "article_count": 29,
   "attention_points": [
     {
-      "id": "attention-98b9ab82e59dff43",
-      "article_id": "1792994583_2",
-      "url": "https://www.freshplaza.it/article/9886094/sicilia-e-campania-un-incontro-nel-cuore-di-monaco-di-baviera-con-die-orange/",
-      "source": "FreshPlaza IT",
-      "title": "Promotion des agrumes de Sicile et de Campanie",
-      "summary": "Une conférence valorise la durabilité et l'origine de ces fruits.",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
-      "published_at": "2026-10-26T06:00:00+01:00",
+      "id": "attention-bde1bb6cc24d9c7a",
+      "article_id": "1792999994_0",
+      "url": "https://www.freshplaza.cn/article/9885629/quan-nian-sheng-chan-tui-dong-liao-niu-you-guo-chong-zhi-hu-de-chu-kou-cheng-gong/",
+      "source": "FreshPlaza CN",
+      "title": "Exportateurs d'avocats à peau verte visent le marché",
+      "summary": "Les producteurs de ces fruits visent une expansion vers de nouveaux marchés",
+      "origin_code": "ZAF",
+      "origin_label": "Afrique du Sud",
+      "published_at": "2026-10-26T08:15:00+01:00",
       "published_at_source": "rss",
       "signal_type": "information",
       "signal_label": "Information",
       "icon": "information",
       "products": [
-        "orange"
+        "avocat"
       ],
-      "age_hours": 1
+      "age_hours": 0
     },
     {
       "id": "attention-ccf5ef924b9c1f31",
@@ -36,7 +36,7 @@
       "signal_label": "Météo",
       "icon": "weather",
       "products": [],
-      "age_hours": 1
+      "age_hours": 2
     },
     {
       "id": "attention-da3896e9a10d790c",
@@ -55,7 +55,7 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 1
+      "age_hours": 2
     },
     {
       "id": "attention-0bc8c7a0bca82c63",
@@ -74,10 +74,29 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 64
+      "age_hours": 66
     }
   ],
   "articles": [
+    {
+      "id": "1792999994_0",
+      "timestamp": "2026-10-26T07:33:14.928514+00:00",
+      "title": "Les exportateurs d&#x27;avocats à peau verte visent le marché chinois -- 26/10/2026 08:15",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ZAF",
+        "CHN"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Les exportateurs d&#x27;avocats à peau verte visent le marché chinois -- <span class=\"news-date\">26/10/2026 08:15</span></div><div class=\"news-body\">Les producteurs d&#x27;avocats à peau verte, notamment sud-africains, cherchent à s&#x27;implanter sur le marché chinois et en Asie du Sud-Est pour soutenir leur croissance à l&#x27;export. Bien que l&#x27;accès au marché chinois ne soit pas encore effectif, les perspectives de développement sont jugées considérables pour absorber l&#x27;augmentation future des volumes mondiaux. <span class=\"news-reason\">Information sur la stratégie d&#x27;exportation d&#x27;une origine concurrente (Afrique du Sud) vers de nouveaux marchés pour les avocats à peau verte.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.cn/article/9885629/quan-nian-sheng-chan-tui-dong-liao-niu-you-guo-chong-zhi-hu-de-chu-kou-cheng-gong/\" target=\"_blank\">FreshPlaza CN -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGINS COMPETITION</div><div class=\"news-title\">Green-skin avocado exporters target the Chinese market -- <span class=\"news-date\">26/10/2026 08:15</span></div><div class=\"news-body\">Green-skin avocado producers, particularly South Africans, are seeking to establish themselves in the Chinese market and Southeast Asia to support their export growth. Although access to the Chinese market is not yet effective, the development prospects are considered substantial to absorb future increases in global volumes. <span class=\"news-reason\">Information on the export strategy of a competing origin (South Africa) to new markets for green-skin avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.cn/article/9885629/quan-nian-sheng-chan-tui-dong-liao-niu-you-guo-chong-zhi-hu-de-chu-kou-cheng-gong/\" target=\"_blank\">FreshPlaza CN -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">יצואני אבוקדו בעלי קליפה ירוקה מכוונים לשוק הסיני -- <span class=\"news-date\">26/10/2026 08:15</span></div><div class=\"news-body\">יצרני אבוקדו בעלי קליפה ירוקה, בפרט מדרום אפריקה, שואפים לבסס נוכחות בשוק הסיני ובדרום-מזרח אסיה כדי לתמוך בצמיחת הייצוא שלהם. למרות שהגישה לשוק הסיני טרם נכנסה לתוקף, סיכויי הפיתוח נחשבים למשמעותיים לצורך ספיגת הגידול העתידי בכמויות העולמיות. <span class=\"news-reason\">מידע על אסטרטגיית הייצוא של מקור מתחרה (דרום אפריקה) לשווקים חדשים עבור אבוקדו בעלי קליפה ירוקה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.cn/article/9885629/quan-nian-sheng-chan-tui-dong-liao-niu-you-guo-chong-zhi-hu-de-chu-kou-cheng-gong/\" target=\"_blank\">FreshPlaza CN -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1792994583_2",
       "timestamp": "2026-10-26T06:03:03.916360+00:00",
@@ -100,7 +119,7 @@
     {
       "id": "1792994583_1",
       "timestamp": "2026-10-26T06:03:03.916360+00:00",
-      "title": "Espagne : les pluies torrentielles entraînent 21 millions d&#x27;euros de pertes dans le secteur des agrumes",
+      "title": "Espagne : les pluies torrentielles entraînent 21 millions d&#x27;euros de pertes pour le secteur des agrumes",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -109,7 +128,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : les pluies torrentielles entraînent 21 millions d&#x27;euros de pertes dans le secteur des agrumes -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">Les pluies torrentielles survenues entre le 17 et le 19 octobre en Espagne ont touché environ 9 000 hectares de cultures. Les premières estimations font état de 21 millions d&#x27;euros de pertes directes, les agrumes étant les plus durement impactés, particulièrement dans les régions de La Safor et La Marina Alta. <span class=\"news-reason\">Estimation chiffrée des pertes de récolte suite à des intempéries majeures en Espagne, affectant principalement les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885148/la-stima-iniziale-e-una-perdita-di-colture-pari-a-21-milioni-di-euro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : les pluies torrentielles entraînent 21 millions d&#x27;euros de pertes pour le secteur des agrumes -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">Les pluies torrentielles survenues entre le 17 et le 19 octobre en Espagne ont touché environ 9 000 hectares de cultures. Les premières estimations font état de 21 millions d&#x27;euros de pertes directes, les agrumes étant les plus durement impactés, particulièrement dans les régions de La Safor et La Marina Alta. <span class=\"news-reason\">Estimation chiffrée des pertes de récolte suite à des intempéries majeures en Espagne, affectant principalement les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885148/la-stima-iniziale-e-una-perdita-di-colture-pari-a-21-milioni-di-euro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: torrential rains cause 21 million euros in losses in the citrus sector -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">Torrential rains occurring between October 17 and 19 in Spain affected approximately 9,000 hectares of crops. Initial estimates report 21 million euros in direct losses, with citrus fruits being the hardest hit, particularly in the La Safor and La Marina Alta regions. <span class=\"news-reason\">Quantified estimate of crop losses following major weather events in Spain, mainly affecting citrus.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885148/la-stima-iniziale-e-una-perdita-di-colture-pari-a-21-milioni-di-euro/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד: גשמי זעף גורמים להפסדים של 21 מיליון אירו בענף ההדרים -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">גשמי זעף שירדו בין ה-17 ל-19 באוקטובר בספרד פגעו בכ-9,000 הקטארים של גידולים. ההערכות הראשוניות מצביעות על הפסדים ישירים של 21 מיליון אירו, כאשר פירות ההדר הם הנפגעים הקשים ביותר, במיוחד באזורי לה ספור (La Safor) ולה מרינה אלטה (La Marina Alta). <span class=\"news-reason\">הערכה כמותית של אובדן היבול בעקבות פגעי מזג אוויר משמעותיים בספרד, המשפיעים בעיקר על הדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885148/la-stima-iniziale-e-una-perdita-di-colture-pari-a-21-milioni-di-euro/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -291,7 +310,7 @@
     {
       "id": "1792861351_1",
       "timestamp": "2026-10-24T17:02:31.166961+00:00",
-      "title": "Moquegua (Pérou) lance la production de grenades à destination du marché chinois",
+      "title": "Lancement de la production de grenades à Moquegua (Pérou) à destination du marché chinois",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica"
@@ -304,14 +323,14 @@
         "USA",
         "CHN"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Moquegua (Pérou) lance la production de grenades à destination du marché chinois -- <span class=\"news-date\">23/10/2026 10:50</span></div><div class=\"news-body\">Dans le cadre de l&#x27;initiative Innovagro, 4 000 plants de grenades ont été distribués aux producteurs de la région de Moquegua au Pérou. Cette nouvelle culture vise spécifiquement à profiter de l&#x27;ouverture récente du marché chinois aux grenades péruviennes. Ce projet est soutenu par une collaboration entre les acteurs locaux Pómica et Anglo American pour diversifier l&#x27;offre d&#x27;exportation régionale. <span class=\"news-reason\">Expansion de culture d&#x27;un produit Mehadrin en saison chez un concurrent, avec des données chiffrées sur les plantations.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9885199/moquegua-in-peru-beginnt-mit-dem-anbau-von-granatapfeln-mit-blick-auf-den-chinesischen-markt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Lancement de la production de grenades à Moquegua (Pérou) à destination du marché chinois -- <span class=\"news-date\">23/10/2026 10:50</span></div><div class=\"news-body\">Dans le cadre de l&#x27;initiative Innovagro, 4 000 plants de grenades ont été distribués aux producteurs de la région de Moquegua au Pérou. Cette nouvelle culture vise spécifiquement à profiter de l&#x27;ouverture récente du marché chinois aux grenades péruviennes. Ce projet est soutenu par une collaboration entre les acteurs locaux Pómica et Anglo American pour diversifier l&#x27;offre d&#x27;exportation régionale. <span class=\"news-reason\">Expansion de culture d&#x27;un produit Mehadrin en saison chez un concurrent, avec des données chiffrées sur les plantations.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9885199/moquegua-in-peru-beginnt-mit-dem-anbau-von-granatapfeln-mit-blick-auf-den-chinesischen-markt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Moquegua in Peru launches pomegranate cultivation for the Chinese market -- <span class=\"news-date\">23/10/2026 10:50</span></div><div class=\"news-body\">As part of the Innovagro initiative, 4,000 pomegranate plants have been distributed to producers in the Moquegua region of Peru. This new crop specifically aims to take advantage of the recent opening of the Chinese market to Peruvian pomegranates. This project is supported by a collaboration between local players Pómica and Anglo American to diversify the regional export offering. <span class=\"news-reason\">Expansion of cultivation of a Mehadrin product in season by a competitor, with numerical data on plantations.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9885199/moquegua-in-peru-beginnt-mit-dem-anbau-von-granatapfeln-mit-blick-auf-den-chinesischen-markt/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מוקגואה שבפרו מתחילה בגידול רימונים המיועדים לשוק הסיני -- <span class=\"news-date\">23/10/2026 10:50</span></div><div class=\"news-body\">במסגרת יוזמת Innovagro, חולקו 4,000 שתילי רימונים למגדלים באזור מוקגואה שבפרו. גידול חדש זה נועד במיוחד לנצל את הפתיחה האחרונה של השוק הסיני לרימונים מפרו. פרויקט זה נתמך על ידי שיתוף פעולה בין הגורמים המקומיים Pómica ו-Anglo American במטרה לגוון את היצע היצוא האזורי. <span class=\"news-reason\">התרחבות גידול של מוצר מהדרין בעונה אצל מתחרה, עם נתונים מספריים על המטעים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9885199/moquegua-in-peru-beginnt-mit-dem-anbau-von-granatapfeln-mit-blick-auf-den-chinesischen-markt/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1792856040_1",
       "timestamp": "2026-10-24T15:34:00.419483+00:00",
-      "title": "Égypte : amélioration du calibre des dattes Medjoul malgré une qualité de peau hétérogène",
+      "title": "Égypte : augmentation du calibre des dattes Medjoul malgré une hétérogénéité de la qualité de la peau",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -322,7 +341,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Égypte : amélioration du calibre des dattes Medjoul malgré une qualité de peau hétérogène -- <span class=\"news-date\">23/10/2026 06:05</span></div><div class=\"news-body\">La campagne égyptienne de dattes Medjoul, lancée en septembre, se caractérise par des volumes importants et une amélioration nette du calibre des fruits par rapport aux années précédentes. Toutefois, les exportateurs signalent une proportion légèrement plus faible de fruits de première catégorie (caractérisés par un faible décollement de la peau). La filière égyptienne prévoit de privilégier les marchés d&#x27;exportation lointains pour cette saison. <span class=\"news-reason\">Informations stratégiques sur les caractéristiques qualitatives et la segmentation des tailles d&#x27;une origine concurrente directe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885096/fino-ad-ora-abbiamo-dato-la-priorita-ai-mercati-lontani/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Égypte : augmentation du calibre des dattes Medjoul malgré une hétérogénéité de la qualité de la peau -- <span class=\"news-date\">23/10/2026 06:05</span></div><div class=\"news-body\">La campagne égyptienne de dattes Medjoul, lancée en septembre, se caractérise par des volumes importants et une amélioration nette du calibre des fruits par rapport aux années précédentes. Toutefois, les exportateurs signalent une proportion légèrement plus faible de fruits de première catégorie (caractérisés par un faible décollement de la peau). La filière égyptienne prévoit de privilégier les marchés d&#x27;exportation lointains pour cette saison. <span class=\"news-reason\">Informations stratégiques sur les caractéristiques qualitatives et la segmentation des tailles d&#x27;une origine concurrente directe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885096/fino-ad-ora-abbiamo-dato-la-priorita-ai-mercati-lontani/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Egypt: improved sizes for Medjool dates despite variable skin quality -- <span class=\"news-date\">23/10/2026 06:05</span></div><div class=\"news-body\">The Egyptian Medjool date campaign, launched in September, is characterized by significant volumes and a clear improvement in fruit size compared to previous years. However, exporters report a slightly lower proportion of first-grade fruit (characterized by low skin separation). The Egyptian sector plans to prioritize distant export markets for this season. <span class=\"news-reason\">Strategic information on the qualitative characteristics and size segmentation of a direct competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885096/fino-ad-ora-abbiamo-dato-la-priorita-ai-mercati-lontani/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מקורות מתחרים</div><div class=\"news-title\">מצרים: שיפור בגדלי תמרי המג'הול למרות איכות קליפה משתנה -- <span class=\"news-date\">23/10/2026 06:05</span></div><div class=\"news-body\">עונת תמרי המג'הול המצרית, שהחלה בספטמבר, מתאפיינת בכמויות גדולות ובשיפור ניכר בגודל הפירות בהשוואה לשנים קודמות. עם זאת, היצואנים מדווחים על שיעור נמוך מעט יותר של פירות מהקטגוריה הראשונה (המתאפיינים בהיפרדות מועטה של הקליפה). הענף המצרי מתכנן לתת עדיפות לשוקי יצוא מרוחקים בעונה זו. <span class=\"news-reason\">מידע אסטרטגי על המאפיינים האיכותיים ופילוח הגדלים של מקור מתחרה ישיר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885096/fino-ad-ora-abbiamo-dato-la-priorita-ai-mercati-lontani/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -349,7 +368,7 @@
     {
       "id": "1792818165_1",
       "timestamp": "2026-10-24T05:02:45.324455+00:00",
-      "title": "Début prometteur de la campagne de grenades biologiques de Turquie et du Pérou",
+      "title": "Lancement prometteur de la campagne de grenades biologiques de Turquie et du Pérou",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -361,7 +380,7 @@
         "PER",
         "TUR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Début prometteur de la campagne de grenades biologiques de Turquie et du Pérou -- <span class=\"news-date\">23/10/2026 10:50</span></div><div class=\"news-body\">Après une faible récolte l&#x27;an dernier, les perspectives pour les grenades biologiques turques sont positives avec des livraisons attendues jusqu&#x27;en février. La saison se poursuivra ensuite avec l&#x27;offre en grenades biologiques du Pérou. <span class=\"news-reason\">Information sur le début de campagne d&#x27;origines concurrentes pour la grenade (en saison).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/external/9885858/vielversprechender-start-der-bio-granatapfelsaison/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement prometteur de la campagne de grenades biologiques de Turquie et du Pérou -- <span class=\"news-date\">23/10/2026 10:50</span></div><div class=\"news-body\">Après une faible récolte l&#x27;an dernier, les perspectives pour les grenades biologiques turques sont positives avec des livraisons attendues jusqu&#x27;en février. La saison se poursuivra ensuite avec l&#x27;offre en grenades biologiques du Pérou. <span class=\"news-reason\">Information sur le début de campagne d&#x27;origines concurrentes pour la grenade (en saison).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/external/9885858/vielversprechender-start-der-bio-granatapfelsaison/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Promising start to the season for organic pomegranates from Turkey and Peru -- <span class=\"news-date\">23/10/2026 10:50</span></div><div class=\"news-body\">After a low harvest last year, the outlook for Turkish organic pomegranates is positive with deliveries expected until February. The season will then continue with the supply of organic pomegranates from Peru. <span class=\"news-reason\">Information on the start of the season for competing origins for pomegranates (in season).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/external/9885858/vielversprechender-start-der-bio-granatapfelsaison/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי ארצות מקור</div><div class=\"news-title\">תחילת עונה מבטיחה לרימונים אורגניים מטורקיה ומפרו -- <span class=\"news-date\">23/10/2026 10:50</span></div><div class=\"news-body\">לאחר יבול דל בשנה שעברה, התחזיות עבור הרימונים האורגניים הטורקיים חיוביות, עם משלוחים הצפויים להימשך עד פברואר. העונה תמשיך לאחר מכן עם היצע הרימונים האורגניים מפרו. <span class=\"news-reason\">מידע על תחילת העונה של מקורות מתחרים עבור הרימון (בעונה).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/external/9885858/vielversprechender-start-der-bio-granatapfelsaison/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -421,7 +440,7 @@
     {
       "id": "1792774989_0",
       "timestamp": "2026-10-23T17:03:08.999011+00:00",
-      "title": "Prévisions de calibres pour la campagne de l&#x27;avocat Hass israélien",
+      "title": "Prévisions de calibres pour la campagne de l&#x27;avocat Hass d&#x27;Israël",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -433,7 +452,7 @@
         "ISR",
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prévisions de calibres pour la campagne de l&#x27;avocat Hass israélien -- <span class=\"news-date\">23/10/2026 15:13</span></div><div class=\"news-body\">La saison de l&#x27;avocat à peau verte d&#x27;Afrique du Sud se termine avec des prix historiquement élevés. Parallèlement, la campagne de l&#x27;avocat Hass d&#x27;Israël a débuté. Actuellement, l&#x27;offre israélienne est principalement constituée de petits calibres et de &#x27;Baby Hass&#x27;. Une disponibilité accrue pour l&#x27;ensemble des calibres est attendue dans les semaines à venir. <span class=\"news-reason\">Contient des informations précises sur les calibres de l&#x27;offre israélienne actuelle (Hass et Baby Hass) et la fin de campagne d&#x27;un concurrent (Afrique du Sud).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885571/termina-la-temporada-de-aguacate-de-piel-verde-sudafricano-con-precios-sin-precedentes/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prévisions de calibres pour la campagne de l&#x27;avocat Hass d&#x27;Israël -- <span class=\"news-date\">23/10/2026 15:13</span></div><div class=\"news-body\">La saison de l&#x27;avocat à peau verte d&#x27;Afrique du Sud se termine avec des prix historiquement élevés. Parallèlement, la campagne de l&#x27;avocat Hass d&#x27;Israël a débuté. Actuellement, l&#x27;offre israélienne est principalement constituée de petits calibres et de &#x27;Baby Hass&#x27;. Une disponibilité accrue pour l&#x27;ensemble des calibres est attendue dans les semaines à venir. <span class=\"news-reason\">Contient des informations précises sur les calibres de l&#x27;offre israélienne actuelle (Hass et Baby Hass) et la fin de campagne d&#x27;un concurrent (Afrique du Sud).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885571/termina-la-temporada-de-aguacate-de-piel-verde-sudafricano-con-precios-sin-precedentes/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Size forecasts for the Israeli Hass avocado campaign -- <span class=\"news-date\">23/10/2026 15:13</span></div><div class=\"news-body\">South Africa&#x27;s greenskin avocado season is ending with historically high prices. At the same time, Israel&#x27;s Hass avocado campaign has begun. Currently, the Israeli supply mainly consists of small sizes and &#x27;Baby Hass&#x27;. Increased availability for all sizes is expected in the coming weeks. <span class=\"news-reason\">Contains precise information on the sizes of the current Israeli supply (Hass and Baby Hass) and the end of a competitor&#x27;s campaign (South Africa).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885571/termina-la-temporada-de-aguacate-de-piel-verde-sudafricano-con-precios-sin-precedentes/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">תחזית גדלים לעונת אבוקדו האס ישראלי -- <span class=\"news-date\">23/10/2026 15:13</span></div><div class=\"news-body\">עונת האבוקדו בעל הקליפה הירוקה מדרום אפריקה מסתיימת עם מחירים גבוהים היסטורית. במקביל, החלה עונת אבוקדו האס מישראל. כיום, ההיצע הישראלי מורכב בעיקר מגדלים קטנים ומ-&#x27;בייבי האס&#x27;. זמינות מוגברת לכל הגדלים צפויה בשבועות הקרובים. <span class=\"news-reason\">מכיל מידע מדויק על גדלי ההיצע הישראלי הנוכחי (האס ובייבי האס) וסיום העונה של מתחרה (דרום אפריקה).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885571/termina-la-temporada-de-aguacate-de-piel-verde-sudafricano-con-precios-sin-precedentes/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -582,25 +601,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Lancement de la campagne des avocats Hass d&#x27;Israël et du Chili sur fond de prix élevés -- <span class=\"news-date\">23/10/2026 12:08</span></div><div class=\"news-body\">La campagne des avocats Hass en provenance d&#x27;Israël et du Chili a commencé avec des niveaux de prix relativement élevés. Actuellement, l&#x27;offre israélienne se compose majoritairement de petits calibres et de Baby Hass, mais une augmentation de la disponibilité dans toutes les tailles est prévue d&#x27;ici quelques semaines. Simultanément, la saison des avocats à peau verte d&#x27;Afrique du Sud se termine sur des prix historiquement hauts. <span class=\"news-reason\">Article prioritaire concernant le démarrage de la campagne israélienne avec des précisions sur les calibres et les prix du marché.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9885516/zuid-afrikaanse-greenskin-avocadoseizoen-afgesloten-met-ongekend-hoge-prijzen/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Launch of the Israeli and Chilean Hass avocado campaign amid high prices -- <span class=\"news-date\">23/10/2026 12:08</span></div><div class=\"news-body\">The Hass avocado campaign from Israel and Chile has started with relatively high price levels. Currently, the Israeli supply consists mostly of small sizes and Baby Hass, but an increase in availability across all sizes is expected within a few weeks. Simultaneously, the South African greenskin avocado season is ending with historically high prices. <span class=\"news-reason\">Priority article regarding the start of the Israeli campaign with details on sizes and market prices.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9885516/zuid-afrikaanse-greenskin-avocadoseizoen-afgesloten-met-ongekend-hoge-prijzen/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">השקת קמפיין אבוקדו האס מישראל ומצ'ילה על רקע מחירים גבוהים -- <span class=\"news-date\">23/10/2026 12:08</span></div><div class=\"news-body\">קמפיין אבוקדו האס מישראל ומצ'ילה החל עם רמות מחירים גבוהות יחסית. נכון לעכשיו, ההיצע הישראלי מורכב ברובו מגדלים קטנים ומ-Baby Hass, אך צפויה עלייה בזמינות בכל הגדלים תוך מספר שבועות. במקביל, עונת האבוקדו \"קליפה ירוקה\" מדרום אפריקה מסתיימת עם מחירים גבוהים היסטורית. <span class=\"news-reason\">כתבה בעדיפות גבוהה בנוגע לתחילת הקמפיין הישראלי עם פרטים על הגדלים ומחירי השוק.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9885516/zuid-afrikaanse-greenskin-avocadoseizoen-afgesloten-met-ongekend-hoge-prijzen/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1792737207_0",
-      "timestamp": "2026-10-23T06:33:27.501111+00:00",
-      "title": "Espagne : 21 millions d&#x27;euros de pertes pour les agrumes et avocats suite à la DANA -- 22/10/2026 13:31",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia",
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "ESP"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : 21 millions d&#x27;euros de pertes pour les agrumes et avocats suite à la DANA -- <span class=\"news-date\">22/10/2026 13:31</span></div><div class=\"news-body\">L&#x27;organisation La Unió estime que les pluies torrentielles du 17 au 19 octobre ont impacté 9 000 hectares de cultures en Espagne. Les pertes directes s&#x27;élèvent à 21 millions d&#x27;euros. Les agrumes sont les plus touchés, suivis par les avocats, principalement dans les zones de La Safor et La Marina Alta. <span class=\"news-reason\">Apporte des chiffres précis (21M€ et 9 000 ha) sur les pertes subies par un concurrent majeur sur des produits stratégiques en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9885146/la-unio-initially-estimates-dana-crop-losses-at-21-million-euros/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: 21 million euros in losses for citrus and avocados following the DANA -- <span class=\"news-date\">22/10/2026 13:31</span></div><div class=\"news-body\">The La Unió organization estimates that the torrential rains from October 17 to 19 impacted 9,000 hectares of crops in Spain. Direct losses amount to 21 million euros. Citrus fruits are the most affected, followed by avocados, mainly in the areas of La Safor and La Marina Alta. <span class=\"news-reason\">Provides precise figures (€21M and 9,000 ha) on the losses suffered by a major competitor on strategic seasonal products.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9885146/la-unio-initially-estimates-dana-crop-losses-at-21-million-euros/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד: הפסדים של 21 מיליון אירו להדרים ואבוקדו בעקבות ה-DANA -- <span class=\"news-date\">22/10/2026 13:31</span></div><div class=\"news-body\">ארגון La Unió מעריך כי הגשמים העזים בין ה-17 ל-19 באוקטובר השפיעו על 9,000 הקטרים של גידולים בספרד. ההפסדים הישירים מסתכמים ב-21 מיליון אירו. פירות ההדר הם הנפגעים העיקריים, ואחריהם האבוקדו, בעיקר באזורי לה ספור (La Safor) ולה מרינה אלטה (La Marina Alta). <span class=\"news-reason\">מביא נתונים מדויקים (21 מיליון אירו ו-9,000 הקטרים) על ההפסדים שספג מתחרה מרכזי במוצרים אסטרטגיים העונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9885146/la-unio-initially-estimates-dana-crop-losses-at-21-million-euros/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
