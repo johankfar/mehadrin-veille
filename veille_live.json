@@ -1,25 +1,26 @@
 {
-  "last_updated": "2026-10-27T10:34:38.430557+00:00",
-  "article_count": 35,
+  "last_updated": "2026-10-27T12:05:07.483583+00:00",
+  "article_count": 36,
   "attention_points": [
     {
-      "id": "attention-664770a13f4a2289",
-      "article_id": "1793080999_2",
-      "url": "https://www.freshplaza.it/article/9886512/avocado-uva-e-mirtilli-in-crescita-europa-mercato-strategico-per-il-peru/",
-      "source": "FreshPlaza IT",
-      "title": "Le Pérou intensifie ses exportations d’avocats vers l’Europe",
-      "summary": "Les expéditions d'avocats progressent vers les zones de vente internationales stratégiques.",
+      "id": "attention-4d8ae3e2d78ad5b9",
+      "article_id": "1793102707_0",
+      "url": "https://www.freshfruitportal.com/news/2026/10/27/peru-us-export/",
+      "source": "Fresh Fruit Portal",
+      "title": "Pérou négocie l'accès de ses agrumes et avocats",
+      "summary": "Le Pérou cherche à faire progresser les négociations d'accès au marché pour plusieurs produits.",
       "origin_code": "PER",
       "origin_label": "Pérou",
-      "published_at": "2026-10-27T06:05:00+01:00",
+      "published_at": "2026-10-27T08:00:05+00:00",
       "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "volume",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
       "products": [
-        "avocat"
+        "avocat",
+        "pitahaya"
       ],
-      "age_hours": 5
+      "age_hours": 4
     },
     {
       "id": "attention-4927e03f94352351",
@@ -38,26 +39,26 @@
       "products": [
         "mango"
       ],
-      "age_hours": 20
+      "age_hours": 22
     },
     {
-      "id": "attention-84aa8f4597e87741",
-      "article_id": "1793027158_2",
-      "url": "https://www.freshplaza.com/article/9886356/over-350-tanzanian-avocado-growers-gain-access-to-indian-market/",
+      "id": "attention-3849064a2d9ea530",
+      "article_id": "1793032477_1",
+      "url": "https://www.freshplaza.com/article/9886340/vietnam-reviews-pomelo-export-controls-after-australian-import-suspension/",
       "source": "FreshPlaza",
-      "title": "Accès au marché indien pour les producteurs d'avocats",
-      "summary": "Une entreprise accompagne des agriculteurs locaux pour exporter des fruits vers un marché",
-      "origin_code": "IND",
-      "origin_label": "Inde",
-      "published_at": "2026-10-26T13:41:00+01:00",
+      "title": "Vietnam renforce les contrôles à l'exportation de pomelo",
+      "summary": "Le Vietnam révise ses contrôles phytosanitaires pour les exportations de pomelos après que l'Australie.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-10-26T13:11:00+01:00",
       "published_at_source": "rss",
-      "signal_type": "information",
-      "signal_label": "Information",
-      "icon": "information",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "volume",
       "products": [
-        "avocat"
+        "citrus_grapefruit"
       ],
-      "age_hours": 21
+      "age_hours": 23
     },
     {
       "id": "attention-84021c283204a914",
@@ -77,14 +78,36 @@
         "avocat",
         "mango"
       ],
-      "age_hours": 25
+      "age_hours": 27
     }
   ],
   "articles": [
     {
+      "id": "1793102707_0",
+      "timestamp": "2026-10-27T12:05:07.483583+00:00",
+      "title": "Le Pérou négocie l&#x27;accès de ses agrumes et avocats au marché américain -- 27/10/2026 08:00",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia",
+        "Ophélie"
+      ],
+      "products": [
+        "avocat",
+        "pitahaya"
+      ],
+      "origins": [
+        "PER",
+        "USA",
+        "PRI"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Pérou négocie l&#x27;accès de ses agrumes et avocats au marché américain -- <span class=\"news-date\">27/10/2026 08:00</span></div><div class=\"news-body\">Le Pérou cherche à faire progresser les négociations d&#x27;accès au marché pour plusieurs produits agricoles vers les États-Unis, notamment le fruit du dragon (pitaya) et les variétés d&#x27;avocats autres que le Hass. Parallèlement, des discussions sont en cours pour permettre l&#x27;exportation d&#x27;agrumes péruviens vers Porto Rico. <span class=\"news-reason\">Informations sur les négociations d&#x27;accès au marché américain pour les agrumes, les avocats et les pitayas péruviens.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/27/peru-us-export/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Peru negotiates access for its citrus and avocados to the US market -- <span class=\"news-date\">27/10/2026 08:00</span></div><div class=\"news-body\">Peru is seeking to advance market access negotiations for several agricultural products to the United States, notably dragon fruit (pitaya) and avocado varieties other than Hass. At the same time, discussions are underway to allow the export of Peruvian citrus to Puerto Rico. <span class=\"news-reason\">Information on market access negotiations to the US market for Peruvian citrus, avocados and pitayas.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/27/peru-us-export/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">פרו מנהלת משא ומתן על גישת ההדרים והאבוקדו שלה לשוק האמריקאי -- <span class=\"news-date\">27/10/2026 08:00</span></div><div class=\"news-body\">פרו מבקשת לקדם את המשא ומתן על גישה לשוק עבור מספר מוצרים חקלאיים לארצות הברית, כולל פרי הדרקון (פיטאיה) וזני אבוקדו שאינם מסוג האס. במקביל, מתקיימים דיונים לאישור יצוא הדרים פרואניים לפורטו ריקו. <span class=\"news-reason\">מידע על המשא ומתן לגישה לשוק האמריקאי עבור הדרים, אבוקדו ופיטאיה מפרו.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/27/peru-us-export/\" target=\"_blank\">Fresh Fruit Portal -- קרא את הכתבה</a></div></div>"
+    },
+    {
       "id": "1793080999_2",
       "timestamp": "2026-10-27T06:03:19.209245+00:00",
-      "title": "Le Pérou intensifie ses exportations d’avocats vers l’Europe",
+      "title": "Le Pérou accroît ses exportations d’avocats vers l’Europe",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -95,7 +118,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Pérou intensifie ses exportations d’avocats vers l’Europe -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">Selon les données de la période de janvier à août 2026, le Pérou renforce sa présence sur les marchés mondiaux. L&#x27;avocat figure parmi les produits dont les exportations sont en croissance. L&#x27;Europe demeure le marché stratégique prioritaire pour ces expéditions de fruits frais péruviens. <span class=\"news-reason\">L&#x27;article traite de la croissance des exportations d&#x27;avocats du Pérou vers le marché stratégique européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886512/avocado-uva-e-mirtilli-in-crescita-europa-mercato-strategico-per-il-peru/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Pérou accroît ses exportations d’avocats vers l’Europe -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">Selon les données de la période de janvier à août 2026, le Pérou renforce sa présence sur les marchés mondiaux. L&#x27;avocat figure parmi les produits dont les exportations sont en croissance. L&#x27;Europe demeure le marché stratégique prioritaire pour ces expéditions de fruits frais péruviens. <span class=\"news-reason\">L&#x27;article traite de la croissance des exportations d&#x27;avocats du Pérou vers le marché stratégique européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886512/avocado-uva-e-mirtilli-in-crescita-europa-mercato-strategico-per-il-peru/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Peru intensifies its avocado exports to Europe -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">According to data from the period from January to August 2026, Peru is strengthening its presence in global markets. Avocado is among the products whose exports are growing. Europe remains the priority strategic market for these Peruvian fresh fruit shipments. <span class=\"news-reason\">The article deals with the growth of avocado exports from Peru to the strategic European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886512/avocado-uva-e-mirtilli-in-crescita-europa-mercato-strategico-per-il-peru/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות בין מקורות</div><div class=\"news-title\">פרו מגבירה את ייצוא האבוקדו לאירופה -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">על פי נתונים מהתקופה שבין ינואר לאוגוסט 2026, פרו מחזקת את נוכחותה בשווקים העולמיים. האבוקדו נמנה עם המוצרים שייצואם נמצא בצמיחה. אירופה נותרת השוק האסטרטגי המועדף עבור משלוחי פירות טריים אלו מפרו. <span class=\"news-reason\">המאמר עוסק בצמיחת ייצוא האבוקדו מפרו לעבר השוק האירופי האסטרטגי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886512/avocado-uva-e-mirtilli-in-crescita-europa-mercato-strategico-per-il-peru/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -448,7 +471,7 @@
     {
       "id": "1792994583_1",
       "timestamp": "2026-10-26T06:03:03.916360+00:00",
-      "title": "Espagne : les pluies torrentielles occasionnent 21 millions d&#x27;euros de pertes pour le secteur des agrumes",
+      "title": "Espagne : les pluies torrentielles provoquent 21 millions d&#x27;euros de pertes pour le secteur des agrumes",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -457,7 +480,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : les pluies torrentielles occasionnent 21 millions d&#x27;euros de pertes pour le secteur des agrumes -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">Les pluies torrentielles survenues entre le 17 et le 19 octobre en Espagne ont touché environ 9 000 hectares de cultures. Les premières estimations font état de 21 millions d&#x27;euros de pertes directes, les agrumes étant les plus durement impactés, particulièrement dans les régions de La Safor et La Marina Alta. <span class=\"news-reason\">Estimation chiffrée des pertes de récolte suite à des intempéries majeures en Espagne, affectant principalement les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885148/la-stima-iniziale-e-una-perdita-di-colture-pari-a-21-milioni-di-euro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : les pluies torrentielles provoquent 21 millions d&#x27;euros de pertes pour le secteur des agrumes -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">Les pluies torrentielles survenues entre le 17 et le 19 octobre en Espagne ont touché environ 9 000 hectares de cultures. Les premières estimations font état de 21 millions d&#x27;euros de pertes directes, les agrumes étant les plus durement impactés, particulièrement dans les régions de La Safor et La Marina Alta. <span class=\"news-reason\">Estimation chiffrée des pertes de récolte suite à des intempéries majeures en Espagne, affectant principalement les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885148/la-stima-iniziale-e-una-perdita-di-colture-pari-a-21-milioni-di-euro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: torrential rains cause 21 million euros in losses in the citrus sector -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">Torrential rains occurring between October 17 and 19 in Spain affected approximately 9,000 hectares of crops. Initial estimates report 21 million euros in direct losses, with citrus fruits being the hardest hit, particularly in the La Safor and La Marina Alta regions. <span class=\"news-reason\">Quantified estimate of crop losses following major weather events in Spain, mainly affecting citrus.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885148/la-stima-iniziale-e-una-perdita-di-colture-pari-a-21-milioni-di-euro/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד: גשמי זעף גורמים להפסדים של 21 מיליון אירו בענף ההדרים -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">גשמי זעף שירדו בין ה-17 ל-19 באוקטובר בספרד פגעו בכ-9,000 הקטארים של גידולים. ההערכות הראשוניות מצביעות על הפסדים ישירים של 21 מיליון אירו, כאשר פירות ההדר הם הנפגעים הקשים ביותר, במיוחד באזורי לה ספור (La Safor) ולה מרינה אלטה (La Marina Alta). <span class=\"news-reason\">הערכה כמותית של אובדן היבול בעקבות פגעי מזג אוויר משמעותיים בספרד, המשפיעים בעיקר על הדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885148/la-stima-iniziale-e-una-perdita-di-colture-pari-a-21-milioni-di-euro/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -550,7 +573,7 @@
     {
       "id": "1792881629_1",
       "timestamp": "2026-10-24T22:40:29.763364+00:00",
-      "title": "Mexique : Mobilisation des producteurs d&#x27;avocats face à la chute des cours",
+      "title": "Mexique : Mobilisation des producteurs d’avocats face à la chute des cours",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -561,7 +584,7 @@
       "origins": [
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Mexique : Mobilisation des producteurs d&#x27;avocats face à la chute des cours -- <span class=\"news-date\">23/10/2026 15:13</span></div><div class=\"news-body\">Les petits producteurs d&#x27;avocats de l&#x27;État de Michoacán au Mexique manifestent contre une chute importante des prix d&#x27;achat au champ. Les agriculteurs dénoncent des pertes économiques critiques et réclament une intervention pour stabiliser le marché face à la dépréciation actuelle du fruit. <span class=\"news-reason\">Indicateur de tension sur les prix d&#x27;origine d&#x27;un produit stratégique de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885952/los-productores-de-aguacate-michoacanos-protestan-por-la-caida-de-precios/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Mexique : Mobilisation des producteurs d’avocats face à la chute des cours -- <span class=\"news-date\">23/10/2026 15:13</span></div><div class=\"news-body\">Les petits producteurs d&#x27;avocats de l&#x27;État de Michoacán au Mexique manifestent contre une chute importante des prix d&#x27;achat au champ. Les agriculteurs dénoncent des pertes économiques critiques et réclament une intervention pour stabiliser le marché face à la dépréciation actuelle du fruit. <span class=\"news-reason\">Indicateur de tension sur les prix d&#x27;origine d&#x27;un produit stratégique de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885952/los-productores-de-aguacate-michoacanos-protestan-por-la-caida-de-precios/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Mexico: avocado producers protest against price drops -- <span class=\"news-date\">23/10/2026 15:13</span></div><div class=\"news-body\">Small avocado producers in the state of Michoacán, Mexico, are protesting against a significant drop in farm-gate purchase prices. Farmers are denouncing critical economic losses and calling for intervention to stabilize the market in the face of the current fruit depreciation. <span class=\"news-reason\">Indicator of price tension at source for a strategic Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885952/los-productores-de-aguacate-michoacanos-protestan-por-la-caida-de-precios/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מקסיקו: מגדלי האבוקדו מפגינים נגד ירידת המחירים -- <span class=\"news-date\">23/10/2026 15:13</span></div><div class=\"news-body\">מגדלי אבוקדו קטנים ממדינת מיצ'ואקאן שבמקסיקו מפגינים נגד ירידה משמעותית במחירי הרכישה בשטח. החקלאים מדווחים על הפסדים כלכליים קריטיים ודורשים התערבות לייצוב השוק אל מול ירידת הערך הנוכחית של הפרי. <span class=\"news-reason\">אינדיקטור למתח במחירי המקור של מוצר אסטרטגי של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885952/los-productores-de-aguacate-michoacanos-protestan-por-la-caida-de-precios/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -661,7 +684,7 @@
     {
       "id": "1792856040_1",
       "timestamp": "2026-10-24T15:34:00.419483+00:00",
-      "title": "Égypte : Augmentation du calibre des dattes Medjoul malgré une qualité de peau hétérogène",
+      "title": "Égypte : Hausse du calibre des dattes Medjoul malgré une qualité de peau hétérogène",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -672,7 +695,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Égypte : Augmentation du calibre des dattes Medjoul malgré une qualité de peau hétérogène -- <span class=\"news-date\">23/10/2026 06:05</span></div><div class=\"news-body\">La campagne égyptienne de dattes Medjoul, lancée en septembre, se caractérise par des volumes importants et une amélioration nette du calibre des fruits par rapport aux années précédentes. Toutefois, les exportateurs signalent une proportion légèrement plus faible de fruits de première catégorie (caractérisés par un faible décollement de la peau). La filière égyptienne prévoit de privilégier les marchés d&#x27;exportation lointains pour cette saison. <span class=\"news-reason\">Informations stratégiques sur les caractéristiques qualitatives et la segmentation des tailles d&#x27;une origine concurrente directe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885096/fino-ad-ora-abbiamo-dato-la-priorita-ai-mercati-lontani/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Égypte : Hausse du calibre des dattes Medjoul malgré une qualité de peau hétérogène -- <span class=\"news-date\">23/10/2026 06:05</span></div><div class=\"news-body\">La campagne égyptienne de dattes Medjoul, lancée en septembre, se caractérise par des volumes importants et une amélioration nette du calibre des fruits par rapport aux années précédentes. Toutefois, les exportateurs signalent une proportion légèrement plus faible de fruits de première catégorie (caractérisés par un faible décollement de la peau). La filière égyptienne prévoit de privilégier les marchés d&#x27;exportation lointains pour cette saison. <span class=\"news-reason\">Informations stratégiques sur les caractéristiques qualitatives et la segmentation des tailles d&#x27;une origine concurrente directe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885096/fino-ad-ora-abbiamo-dato-la-priorita-ai-mercati-lontani/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Egypt: improved sizes for Medjool dates despite variable skin quality -- <span class=\"news-date\">23/10/2026 06:05</span></div><div class=\"news-body\">The Egyptian Medjool date campaign, launched in September, is characterized by significant volumes and a clear improvement in fruit size compared to previous years. However, exporters report a slightly lower proportion of first-grade fruit (characterized by low skin separation). The Egyptian sector plans to prioritize distant export markets for this season. <span class=\"news-reason\">Strategic information on the qualitative characteristics and size segmentation of a direct competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885096/fino-ad-ora-abbiamo-dato-la-priorita-ai-mercati-lontani/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מקורות מתחרים</div><div class=\"news-title\">מצרים: שיפור בגדלי תמרי המג'הול למרות איכות קליפה משתנה -- <span class=\"news-date\">23/10/2026 06:05</span></div><div class=\"news-body\">עונת תמרי המג'הול המצרית, שהחלה בספטמבר, מתאפיינת בכמויות גדולות ובשיפור ניכר בגודל הפירות בהשוואה לשנים קודמות. עם זאת, היצואנים מדווחים על שיעור נמוך מעט יותר של פירות מהקטגוריה הראשונה (המתאפיינים בהיפרדות מועטה של הקליפה). הענף המצרי מתכנן לתת עדיפות לשוקי יצוא מרוחקים בעונה זו. <span class=\"news-reason\">מידע אסטרטגי על המאפיינים האיכותיים ופילוח הגדלים של מקור מתחרה ישיר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885096/fino-ad-ora-abbiamo-dato-la-priorita-ai-mercati-lontani/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
