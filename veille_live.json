@@ -1,45 +1,63 @@
 {
-  "last_updated": "2026-10-28T12:05:43.154714+00:00",
-  "article_count": 46,
+  "last_updated": "2026-10-28T13:36:26.664092+00:00",
+  "article_count": 52,
   "attention_points": [
     {
-      "id": "attention-c826d9fb1bcf812c",
-      "article_id": "1793189143_0",
-      "url": "https://www.freshfruitportal.com/news/2026/10/28/mission-ifpa/",
-      "source": "Fresh Fruit Portal",
-      "title": "Mission Produce accélère sa croissance sur les marchés",
-      "summary": "Le partenariat commercial permet de renforcer la distribution mondiale de fruits frais.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-10-28T08:00:12+00:00",
+      "id": "attention-06d70ebbb3b16379",
+      "article_id": "1793194586_0",
+      "url": "https://www.freshplaza.com/article/9887062/china-s-citrus-supply-edges-up-ahead-of-peak-mandarin-season/",
+      "source": "FreshPlaza",
+      "title": "Légère progression de l'offre de mandarines en Chine",
+      "summary": "Les volumes de mandarines exportées progressent avec l'arrivée de nouvelles variétés",
+      "origin_code": "CHN",
+      "origin_label": "Chine",
+      "published_at": "2026-10-28T13:13:00+01:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [
-        "avocat",
-        "mango"
+        "mandarine"
       ],
-      "age_hours": 4
+      "age_hours": 1
     },
     {
-      "id": "attention-aae52cf60e0668a7",
-      "article_id": "1793167520_1",
-      "url": "https://www.freshplaza.it/article/9886899/custodire-la-tradizione-e-aprirsi-all-innovazione-per-crescere-sui-mercati/",
-      "source": "FreshPlaza IT",
-      "title": "Promotion et innovation au service des clémentines",
-      "summary": "Le festival souligne l'importance de l'innovation pour la filière agrumicole italienne",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-10-28T06:05:00+01:00",
+      "id": "attention-3af6694d3d8a6bb6",
+      "article_id": "1793194586_2",
+      "url": "https://www.freshplaza.com/article/9886889/fair-trade-certified-florida-grapefruit-enters-market-for-the-first-time/",
+      "source": "FreshPlaza",
+      "title": "Certification équitable pour le pamplemousse floridien",
+      "summary": "IMG Citrus a obtenu la certification Fair Trade USA pour ses pamplemousses de Floride.",
+      "origin_code": "USA",
+      "origin_label": "États-Unis",
+      "published_at": "2026-10-28T13:13:00+01:00",
       "published_at_source": "rss",
       "signal_type": "information",
       "signal_label": "Information",
       "icon": "information",
       "products": [
-        "mandarine"
+        "citrus_grapefruit"
       ],
-      "age_hours": 7
+      "age_hours": 1
+    },
+    {
+      "id": "attention-48403c439b1342d7",
+      "article_id": "1793194586_6",
+      "url": "https://www.agf.nl/article/9886851/medjool-aanvoer-loopt-weken-achter-en-prijzen-stijgen-richting-kerst/",
+      "source": "AGF.nl",
+      "title": "Recul des volumes de dattes Medjool et hausse",
+      "summary": "Le retard de récolte réduit les volumes disponibles pour la période des fêtes",
+      "origin_code": "ISR",
+      "origin_label": "Israël",
+      "published_at": "2026-10-28T12:07:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "price",
+      "signal_label": "Prix",
+      "icon": "price",
+      "products": [
+        "date"
+      ],
+      "age_hours": 2
     },
     {
       "id": "attention-20cd6b7320e2be0e",
@@ -58,29 +76,121 @@
       "products": [
         "date"
       ],
-      "age_hours": 22
-    },
-    {
-      "id": "attention-f455d14ff14b5f39",
-      "article_id": "1793167520_0",
-      "url": "https://www.freshplaza.fr/article/9885574/la-saison-des-avocats-a-peau-lisse-d-afrique-du-sud-s-est-achevee-sur-des-prix-sans-precedent/",
-      "source": "FreshPlaza FR",
-      "title": "Fin de saison pour les avocats",
-      "summary": "Les prix augmentent alors que la qualité devient variable en fin de campagne mondiale",
-      "origin_code": "ZAF",
-      "origin_label": "Afrique du Sud",
-      "published_at": "2026-10-27T14:25:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "price",
-      "signal_label": "Prix",
-      "icon": "price",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 22
+      "age_hours": 24
     }
   ],
   "articles": [
+    {
+      "id": "1793194586_6",
+      "timestamp": "2026-10-28T13:36:26.664092+00:00",
+      "title": "Recul des volumes de dattes Medjool et hausse des cours mondiaux -- 28/10/2026 12:07",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [
+        "date"
+      ],
+      "origins": [
+        "ISR",
+        "JOR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul des volumes de dattes Medjool et hausse des cours mondiaux -- <span class=\"news-date\">28/10/2026 12:07</span></div><div class=\"news-body\">L&#x27;approvisionnement en dattes Medjool d&#x27;Israël, de Jordanie et de Palestine accuse un retard de trois à quatre semaines cette saison. Les premières estimations indiquent un volume disponible inférieur de 15 à 20 % aux prévisions, les fruits n&#x27;ayant pas mûri à temps. Cette pénurie relative entraîne une hausse des prix sur le marché européen à l&#x27;approche des fêtes de Noël. <span class=\"news-reason\">L&#x27;article concerne un produit stratégique en saison (dattes Medjool) d&#x27;origine Israël, avec des chiffres précis de baisse de volumes et de retards.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9886851/medjool-aanvoer-loopt-weken-achter-en-prijzen-stijgen-richting-kerst/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decline in Medjool date volumes and rise in global prices -- <span class=\"news-date\">28/10/2026 12:07</span></div><div class=\"news-body\">Medjool date supply from Israel, Jordan, and Palestine is seeing a three-to-four-week delay this season. Initial estimates indicate an available volume 15 to 20% lower than forecasts, as the fruit did not ripen in time. This relative shortage is leading to higher prices on the European market as the Christmas holidays approach. <span class=\"news-reason\">The article concerns a strategic seasonal product (Medjool dates) of Israeli origin, with precise figures on volume decreases and delays.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9886851/medjool-aanvoer-loopt-weken-achter-en-prijzen-stijgen-richting-kerst/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה בהיקפי תמרי המג'הול ועלייה במחירים העולמיים -- <span class=\"news-date\">28/10/2026 12:07</span></div><div class=\"news-body\">האספקה של תמרי מג'הול מישראל, ירדן ופלסטין מתעכבת בשלושה עד ארבעה שבועות העונה. הערכות ראשוניות מצביעות על היקף זמין הנמוך ב-15 עד 20 אחוזים מהתחזיות, כיוון שהפירות לא הבשילו בזמן. מחסור יחסי זה מוביל לעליית מחירים בשוק האירופי לקראת חגי חג המולד. <span class=\"news-reason\">הכתבה עוסקת במוצר אסטרטגי בעונה (תמרי מג'הול) שמקורו בישראל, עם נתונים מדויקים על ירידה בהיקפים ועיכובים.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9886851/medjool-aanvoer-loopt-weken-achter-en-prijzen-stijgen-richting-kerst/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793194586_5",
+      "timestamp": "2026-10-28T13:36:26.664092+00:00",
+      "title": "Tensions sur l&#x27;approvisionnement et contraction de l&#x27;offre de dattes Medjool pour Noël en Europe",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [
+        "date"
+      ],
+      "origins": [
+        "ISR",
+        "JOR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tensions sur l&#x27;approvisionnement et contraction de l&#x27;offre de dattes Medjool pour Noël en Europe -- <span class=\"news-date\">28/10/2026 10:42</span></div><div class=\"news-body\">Les livraisons de dattes Medjool d&#x27;Israël, de Palestine et de Jordanie accusent un retard de trois à quatre semaines car les fruits n&#x27;ont pas atteint leur pleine maturité. Les premières estimations indiquent une baisse des volumes de 15 à 20 % pour la campagne actuelle vers l&#x27;Europe. <span class=\"news-reason\">Produit phare en saison, origine Israël, chiffres précis sur les pertes de volumes et les retards de campagne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9886854/weniger-medjool-angebot-fur-das-weihnachtsgeschaft-in-europa/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Supply delays and lower Medjool date supply for Christmas in Europe -- <span class=\"news-date\">28/10/2026 10:42</span></div><div class=\"news-body\">Deliveries of Medjool dates from Israel, Palestine, and Jordan are experiencing a three-to-four-week delay as the fruit has not reached full maturity. Initial estimates indicate a 15 to 20% decrease in volumes for the current campaign to Europe. <span class=\"news-reason\">Seasonal flagship product, Israel origin, precise figures on volume losses and campaign delays.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9886854/weniger-medjool-angebot-fur-das-weihnachtsgeschaft-in-europa/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עיכובים באספקה וירידה בהיצע תמרי המג'הול לקראת חג המולד באירופה -- <span class=\"news-date\">28/10/2026 10:42</span></div><div class=\"news-body\">משלוחי תמרי המג'הול מישראל, פלסטין וירדן בעיכוב של שלושה עד ארבעה שבועות כיוון שהפירות לא הגיעו לבשילה מלאה. הערכות ראשוניות מצביעות על ירידה של 15 עד 20 אחוזים בהיקפים לעונה הנוכחית לאירופה. <span class=\"news-reason\">מוצר דגל בעונה, מקור ישראל, נתונים מדויקים על הפסדי היקפים ועיכובים בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9886854/weniger-medjool-angebot-fur-das-weihnachtsgeschaft-in-europa/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793194586_4",
+      "timestamp": "2026-10-28T13:36:26.664092+00:00",
+      "title": "Clôture de la campagne d&#x27;exportation des agrumes sud-africains vers les États-Unis -- 28/10/2026 13:13",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "ZAF",
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Clôture de la campagne d&#x27;exportation des agrumes sud-africains vers les États-Unis -- <span class=\"news-date\">28/10/2026 13:13</span></div><div class=\"news-body\">La saison 2026 des agrumes d&#x27;Afrique du Sud vers les États-Unis s&#x27;achève avec des volumes légèrement inférieurs à ceux de l&#x27;année précédente. Les derniers arrivages importants ont été enregistrés durant la deuxième semaine d&#x27;octobre sur la côte est américaine. <span class=\"news-reason\">Information sur les volumes et le calendrier d&#x27;une origine concurrente majeure (Afrique du Sud) pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9886997/south-africa-citrus-sees-opportunities-for-growth-in-southern-u-s-markets/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Closing of the South African citrus export campaign to the United States -- <span class=\"news-date\">28/10/2026 13:13</span></div><div class=\"news-body\">The 2026 South African citrus season to the United States is ending with volumes slightly lower than the previous year. The last significant arrivals were recorded during the second week of October on the American East Coast. <span class=\"news-reason\">Information on volumes and timing for a major competing origin (South Africa) for citrus.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9886997/south-africa-citrus-sees-opportunities-for-growth-in-southern-u-s-markets/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיום עונת ייצוא ההדרים מדרום אפריקה לארצות הברית -- <span class=\"news-date\">28/10/2026 13:13</span></div><div class=\"news-body\">עונת ההדרים של דרום אפריקה לארה\"ב לשנת 2026 מסתיימת עם היקפים נמוכים מעט מאלו של השנה שעברה. המשלוחים המשמעותיים האחרונים נרשמו במהלך השבוע השני של אוקטובר בחוף המזרחי של ארה\"ב. <span class=\"news-reason\">מידע על היקפים ולוח זמנים של מקור מתחרה מרכזי (דרום אפריקה) עבור הדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9886997/south-africa-citrus-sees-opportunities-for-growth-in-southern-u-s-markets/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793194586_3",
+      "timestamp": "2026-10-28T13:36:26.664092+00:00",
+      "title": "Conditions météorologiques contrastées au Maroc avec chaleur et pluies éparses -- 27/10/2026 12:40",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia",
+        "Ophélie",
+        "Sébastien"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Conditions météorologiques contrastées au Maroc avec chaleur et pluies éparses -- <span class=\"news-date\">27/10/2026 12:40</span></div><div class=\"news-body\">La Direction générale de la météorologie annonce des températures élevées dans les provinces du Sud et des pluies sur les reliefs du Rif et de l&#x27;Atlas au Maroc. Ces conditions pourraient influencer les cultures dans ces régions agricoles majeures. <span class=\"news-reason\">Météo dans une origine clé de Mehadrin (Maroc) pouvant impacter la récolte des agrumes ou avocats.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/meteo-agricole-au-maroc-chaleur-dans-le-sud-ondees-sur-latlas-et-le-rif-ce-mardi-27-octobre/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Contrasting weather conditions in Morocco with heat and scattered rain -- <span class=\"news-date\">27/10/2026 12:40</span></div><div class=\"news-body\">The General Directorate of Meteorology announces high temperatures in the Southern provinces and rain over the Rif and Atlas mountains in Morocco. These conditions could influence crops in these major agricultural regions. <span class=\"news-reason\">Weather in a key Mehadrin origin (Morocco) that could impact citrus or avocado harvests.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/meteo-agricole-au-maroc-chaleur-dans-le-sud-ondees-sur-latlas-et-le-rif-ce-mardi-27-octobre/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">תנאי מזג אוויר מנוגדים במרוקו עם חום וגשמים פזורים -- <span class=\"news-date\">27/10/2026 12:40</span></div><div class=\"news-body\">המנהל הכללי למטאורולוגיה מודיע על טמפרטורות גבוהות במחוזות הדרום וגשמים ברכסי הריף והאטלס במרוקו. תנאים אלו עלולים להשפיע על הגידולים באזורים חקלאיים מרכזיים אלו. <span class=\"news-reason\">מזג אוויר במקור מרכזי של מהדרין (מרוקו) שעלול להשפיע על יבול ההדרים או האבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/meteo-agricole-au-maroc-chaleur-dans-le-sud-ondees-sur-latlas-et-le-rif-ce-mardi-27-octobre/\" target=\"_blank\">AgriMaroc -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793194586_2",
+      "timestamp": "2026-10-28T13:36:26.664092+00:00",
+      "title": "Lancement du pamplemousse de Floride certifié Fair Trade -- 28/10/2026 13:13",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "citrus_grapefruit"
+      ],
+      "origins": [
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement du pamplemousse de Floride certifié Fair Trade -- <span class=\"news-date\">28/10/2026 13:13</span></div><div class=\"news-body\">IMG Citrus a obtenu la certification Fair Trade USA pour ses pamplemousses de Floride, marquant une première pour cette origine. Le programme vise à renforcer la protection des travailleurs et à promouvoir des pratiques environnementales responsables dans les vergers floridiens. <span class=\"news-reason\">Information sur un produit concurrent (pamplemousse) et positionnement stratégique (Fair Trade) pour un exportateur vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9886889/fair-trade-certified-florida-grapefruit-enters-market-for-the-first-time/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Launch of Fair Trade certified Florida grapefruit -- <span class=\"news-date\">28/10/2026 13:13</span></div><div class=\"news-body\">IMG Citrus has obtained Fair Trade USA certification for its Florida grapefruits, marking a first for this origin. The program aims to strengthen worker protection and promote responsible environmental practices in Florida orchards. <span class=\"news-reason\">Information on a competing product (grapefruit) and strategic positioning (Fair Trade) for an exporter to Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9886889/fair-trade-certified-florida-grapefruit-enters-market-for-the-first-time/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השקת אשכולית מפלורידה באישור סחר הוגן (Fair Trade) -- <span class=\"news-date\">28/10/2026 13:13</span></div><div class=\"news-body\">IMG Citrus קיבלה את הסמכת Fair Trade USA עבור האשכוליות שלה מפלורידה, מה שמציין פעם ראשונה עבור מקור זה. התוכנית שואפת לחזק את ההגנה על העובדים ולקדם פרקטיקות סביבתיות אחראיות בפרדסי פלורידה. <span class=\"news-reason\">מידע על מוצר מתחרה (אשכולית) ומיצוב אסטרטגי (סחר הוגן) עבור יצואן לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9886889/fair-trade-certified-florida-grapefruit-enters-market-for-the-first-time/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793194586_0",
+      "timestamp": "2026-10-28T13:36:26.664092+00:00",
+      "title": "Légère progression de l&#x27;offre de mandarines en Chine pour l&#x27;exportation -- 28/10/2026 13:13",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "CHN"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Légère progression de l&#x27;offre de mandarines en Chine pour l&#x27;exportation -- <span class=\"news-date\">28/10/2026 13:13</span></div><div class=\"news-body\">L&#x27;offre chinoise de mandarines est stable ou en légère progression par rapport à l&#x27;an dernier. Les volumes d&#x27;exportation devraient s&#x27;intensifier dans les prochaines semaines avec l&#x27;introduction de nouvelles variétés sur le marché, tandis que la demande internationale reste constante. <span class=\"news-reason\">Informations sur les volumes d&#x27;exportation d&#x27;un produit Mehadrin (mandarine) sur le marché mondial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9887062/china-s-citrus-supply-edges-up-ahead-of-peak-mandarin-season/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Slight increase in Chinese mandarin supply for export -- <span class=\"news-date\">28/10/2026 13:13</span></div><div class=\"news-body\">Chinese mandarin supply is stable or slightly increasing compared to last year. Export volumes are expected to intensify in the coming weeks with the introduction of new varieties to the market, while international demand remains constant. <span class=\"news-reason\">Information on export volumes for a Mehadrin product (mandarin) on the global market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9887062/china-s-citrus-supply-edges-up-ahead-of-peak-mandarin-season/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עלייה קלה בהיצע המנדרינות בסין לייצוא -- <span class=\"news-date\">28/10/2026 13:13</span></div><div class=\"news-body\">היצע המנדרינות הסיני יציב או נמצא בעלייה קלה בהשוואה לשנה שעברה. היקפי הייצוא צפויים להתגבר בשבועות הקרובים עם כניסת זנים חדשים לשוק, בעוד שהביקוש הבינלאומי נותר יציב. <span class=\"news-reason\">מידע על היקפי ייצוא של מוצר מהדרין (מנדרינה) בשוק העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9887062/china-s-citrus-supply-edges-up-ahead-of-peak-mandarin-season/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1793189143_0",
       "timestamp": "2026-10-28T12:05:43.154714+00:00",
@@ -223,14 +333,14 @@
     {
       "id": "1793118953_1",
       "timestamp": "2026-10-27T16:35:53.206912+00:00",
-      "title": "Omer-Decugis et la SEMMARIS annoncent la création d’une plateforme logistique à Dunkerque",
+      "title": "Omer-Decugis et la SEMMARIS annoncent l’implantation d’une plateforme logistique à Dunkerque",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [],
       "products": [],
       "origins": [
         "FRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Omer-Decugis et la SEMMARIS annoncent la création d’une plateforme logistique à Dunkerque -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">Le groupe Omer-Decugis et la SEMMARIS s&#x27;allient pour construire une plateforme logistique de 25 000 m² au port de Dunkerque. Ce centre sera dédié au stockage, à l&#x27;emballage et au mûrissage de fruits frais et exotiques, renforçant les capacités logistiques sur le marché français. <span class=\"news-reason\">Investissement stratégique dans une plateforme de stockage et de mûrissage en France, marché clé de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886499/una-alianza-desarrollara-una-plataforma-logistica-de-25-000-m2-en-el-puerto-de-dunkerque/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Omer-Decugis et la SEMMARIS annoncent l’implantation d’une plateforme logistique à Dunkerque -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">Le groupe Omer-Decugis et la SEMMARIS s&#x27;allient pour construire une plateforme logistique de 25 000 m² au port de Dunkerque. Ce centre sera dédié au stockage, à l&#x27;emballage et au mûrissage de fruits frais et exotiques, renforçant les capacités logistiques sur le marché français. <span class=\"news-reason\">Investissement stratégique dans une plateforme de stockage et de mûrissage en France, marché clé de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886499/una-alianza-desarrollara-una-plataforma-logistica-de-25-000-m2-en-el-puerto-de-dunkerque/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Omer-Decugis and SEMMARIS announce the creation of a logistics platform in Dunkirk -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">The Omer-Decugis group and SEMMARIS are teaming up to build a 25,000 m² logistics platform at the port of Dunkirk. This center will be dedicated to storage, packaging and ripening of fresh and exotic fruits, strengthening logistical capacities in the French market. <span class=\"news-reason\">Strategic investment in a storage and ripening platform in France, a key market for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886499/una-alianza-desarrollara-una-plataforma-logistica-de-25-000-m2-en-el-puerto-de-dunkerque/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות ברשתות השיווק</div><div class=\"news-title\">Omer-Decugis ו-SEMMARIS מכריזות על הקמת פלטפורמה לוגיסטית בדנקרק -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">קבוצת Omer-Decugis ו-SEMMARIS משתפות פעולה להקמת פלטפורמה לוגיסטית בשטח של 25,000 מ\"ר בנמל דנקרק. מרכז זה יוקדש לאחסון, אריזה והבשלה של פירות טריים ואקזוטיים, ובכך יחזק את היכולות הלוגיסטיות בשוק הצרפתי. <span class=\"news-reason\">השקעה אסטרטגית בפלטפורמת אחסון והבשלה בצרפת, שוק מפתח עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886499/una-alianza-desarrollara-una-plataforma-logistica-de-25-000-m2-en-el-puerto-de-dunkerque/\" target=\"_blank\">FreshPlaza ES -- לקריאת המאמר</a></div></div>"
     },
@@ -724,7 +834,7 @@
     {
       "id": "1793010883_3",
       "timestamp": "2026-10-26T10:34:43.588350+00:00",
-      "title": "Jobarma augmente de 10 000 tonnes ses volumes d&#x27;agrumes espagnols",
+      "title": "Jobarma accroît ses volumes d&#x27;agrumes espagnols de 10 000 tonnes",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -733,7 +843,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Jobarma augmente de 10 000 tonnes ses volumes d&#x27;agrumes espagnols -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">L&#x27;entreprise valencienne Jobarma a débuté sa nouvelle saison d&#x27;agrumes en Espagne avec des prévisions de croissance significatives. Grâce à la modernisation de ses installations, la société prévoit de commercialiser 10 000 tonnes supplémentaires cette saison. Cet investissement technologique a permis d&#x27;accroître la capacité de conditionnement de 30 % et d&#x27;introduire un système de tri optique pour la sélection des fruits. <span class=\"news-reason\">Information stratégique sur l&#x27;augmentation des volumes d&#x27;un concurrent majeur (Espagne) avec chiffres précis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885512/l-ammodernamento-dell-impianto-di-lavorazione-degli-agrumi-ci-consentira-di-vendere-10-000-tonnellate-in-piu/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Jobarma accroît ses volumes d&#x27;agrumes espagnols de 10 000 tonnes -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">L&#x27;entreprise valencienne Jobarma a débuté sa nouvelle saison d&#x27;agrumes en Espagne avec des prévisions de croissance significatives. Grâce à la modernisation de ses installations, la société prévoit de commercialiser 10 000 tonnes supplémentaires cette saison. Cet investissement technologique a permis d&#x27;accroître la capacité de conditionnement de 30 % et d&#x27;introduire un système de tri optique pour la sélection des fruits. <span class=\"news-reason\">Information stratégique sur l&#x27;augmentation des volumes d&#x27;un concurrent majeur (Espagne) avec chiffres précis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885512/l-ammodernamento-dell-impianto-di-lavorazione-degli-agrumi-ci-consentira-di-vendere-10-000-tonnellate-in-piu/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Jobarma increases its Spanish citrus volumes by 10,000 tons -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">Valencian company Jobarma has started its new citrus season in Spain with significant growth forecasts. Thanks to the modernization of its facilities, the company plans to market an additional 10,000 tons this season. This technological investment has increased packaging capacity by 30% and introduced an optical sorting system for fruit selection. <span class=\"news-reason\">Strategic information on the increase in volumes from a major competitor (Spain) with precise figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885512/l-ammodernamento-dell-impianto-di-lavorazione-degli-agrumi-ci-consentira-di-vendere-10-000-tonnellate-in-piu/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">Jobarma מגדילה את כמויות ההדרים הספרדיים ב-10,000 טון -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">החברה מוולנסיה, Jobarma, החלה את עונת ההדרים החדשה שלה בספרד עם תחזיות צמיחה משמעותיות. הודות למודרניזציה של מתקניה, החברה צופה לשווק 10,000 טון נוספים העונה. השקעה טכנולוגית זו אפשרה להגדיל את כושר האריזה ב-30% ולהכניס מערכת מיון אופטית לבחירת הפירות. <span class=\"news-reason\">מידע אסטרטגי על הגדלת הכמויות של מתחרה מרכזי (ספרד) עם נתונים מדויקים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885512/l-ammodernamento-dell-impianto-di-lavorazione-degli-agrumi-ci-consentira-di-vendere-10-000-tonnellate-in-piu/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -853,7 +963,7 @@
     {
       "id": "1792994583_1",
       "timestamp": "2026-10-26T06:03:03.916360+00:00",
-      "title": "Espagne : la filière agrumes enregistre 21 millions d’euros de pertes consécutives aux pluies torrentielles",
+      "title": "Espagne : 21 millions d’euros de pertes pour la filière agrumes suite aux pluies torrentielles",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -862,14 +972,14 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la filière agrumes enregistre 21 millions d’euros de pertes consécutives aux pluies torrentielles -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">Les pluies torrentielles survenues entre le 17 et le 19 octobre en Espagne ont touché environ 9 000 hectares de cultures. Les premières estimations font état de 21 millions d&#x27;euros de pertes directes, les agrumes étant les plus durement impactés, particulièrement dans les régions de La Safor et La Marina Alta. <span class=\"news-reason\">Estimation chiffrée des pertes de récolte suite à des intempéries majeures en Espagne, affectant principalement les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885148/la-stima-iniziale-e-una-perdita-di-colture-pari-a-21-milioni-di-euro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : 21 millions d’euros de pertes pour la filière agrumes suite aux pluies torrentielles -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">Les pluies torrentielles survenues entre le 17 et le 19 octobre en Espagne ont touché environ 9 000 hectares de cultures. Les premières estimations font état de 21 millions d&#x27;euros de pertes directes, les agrumes étant les plus durement impactés, particulièrement dans les régions de La Safor et La Marina Alta. <span class=\"news-reason\">Estimation chiffrée des pertes de récolte suite à des intempéries majeures en Espagne, affectant principalement les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885148/la-stima-iniziale-e-una-perdita-di-colture-pari-a-21-milioni-di-euro/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: torrential rains cause 21 million euros in losses in the citrus sector -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">Torrential rains occurring between October 17 and 19 in Spain affected approximately 9,000 hectares of crops. Initial estimates report 21 million euros in direct losses, with citrus fruits being the hardest hit, particularly in the La Safor and La Marina Alta regions. <span class=\"news-reason\">Quantified estimate of crop losses following major weather events in Spain, mainly affecting citrus.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885148/la-stima-iniziale-e-una-perdita-di-colture-pari-a-21-milioni-di-euro/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד: גשמי זעף גורמים להפסדים של 21 מיליון אירו בענף ההדרים -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">גשמי זעף שירדו בין ה-17 ל-19 באוקטובר בספרד פגעו בכ-9,000 הקטארים של גידולים. ההערכות הראשוניות מצביעות על הפסדים ישירים של 21 מיליון אירו, כאשר פירות ההדר הם הנפגעים הקשים ביותר, במיוחד באזורי לה ספור (La Safor) ולה מרינה אלטה (La Marina Alta). <span class=\"news-reason\">הערכה כמותית של אובדן היבול בעקבות פגעי מזג אוויר משמעותיים בספרד, המשפיעים בעיקר על הדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885148/la-stima-iniziale-e-una-perdita-di-colture-pari-a-21-milioni-di-euro/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1792994583_0",
       "timestamp": "2026-10-26T06:03:03.916360+00:00",
-      "title": "Campagne de la clémentine italienne : prédominance de petits calibres et pression parasitaire",
+      "title": "Campagne de la clémentine italienne : prédominance des petits calibres et pression parasitaire",
       "category": "ALERTES SUPPLY",
       "commercials": [],
       "products": [
@@ -878,7 +988,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Campagne de la clémentine italienne : prédominance de petits calibres et pression parasitaire -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">La campagne de clémentines dans la région de Tarente affiche une production abondante mais des calibres réduits. La présence de l&#x27;araignée rouge dans plusieurs zones de production et l&#x27;augmentation des coûts de production devraient entraîner une hausse des prix de vente finaux. <span class=\"news-reason\">Information sur la qualité et les calibres des clémentines italiennes impactant les prix du marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886085/produzione-abbondante-ma-calibri-ridotti-i-maggiori-costi-si-rifletteranno-sui-prezzi-finali/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Campagne de la clémentine italienne : prédominance des petits calibres et pression parasitaire -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">La campagne de clémentines dans la région de Tarente affiche une production abondante mais des calibres réduits. La présence de l&#x27;araignée rouge dans plusieurs zones de production et l&#x27;augmentation des coûts de production devraient entraîner une hausse des prix de vente finaux. <span class=\"news-reason\">Information sur la qualité et les calibres des clémentines italiennes impactant les prix du marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886085/produzione-abbondante-ma-calibri-ridotti-i-maggiori-costi-si-rifletteranno-sui-prezzi-finali/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Italian clementine campaign: small sizes and pest pressure -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">The clementine campaign in the Taranto region shows abundant production but reduced sizes. The presence of spider mites in several production areas and the increase in production costs are expected to lead to higher final selling prices. <span class=\"news-reason\">Information on the quality and sizes of Italian clementines impacting market prices.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886085/produzione-abbondante-ma-calibri-ridotti-i-maggiori-costi-si-rifletteranno-sui-prezzi-finali/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">עונת הקלמנטינות האיטלקיות: גדלים קטנים ולחצי מזיקים -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">עונת הקלמנטינות באזור טאראנטו מציגה יבול שופע אך גדלים מצומצמים. נוכחותה של האקרית האדומה במספר אזורי גידול והעלייה בעלויות הייצור צפויות להוביל לעלייה במחירי המכירה הסופיים. <span class=\"news-reason\">מידע על האיכות והגדלים של הקלמנטינות האיטלקיות המשפיעים על מחירי השוק.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886085/produzione-abbondante-ma-calibri-ridotti-i-maggiori-costi-si-rifletteranno-sui-prezzi-finali/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     }
