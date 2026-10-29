@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-29T09:05:45.109391+00:00",
-  "article_count": 58,
+  "last_updated": "2026-10-29T12:07:01.274712+00:00",
+  "article_count": 56,
   "attention_points": [
     {
       "id": "attention-32b146bf6d35efe9",
@@ -19,7 +19,26 @@
       "products": [
         "date"
       ],
-      "age_hours": 0
+      "age_hours": 3
+    },
+    {
+      "id": "attention-43ae8c39b03a37fe",
+      "article_id": "1793275621_0",
+      "url": "https://www.freshfruitportal.com/news/2026/10/29/co-hass-avocado/",
+      "source": "Fresh Fruit Portal",
+      "title": "Recul des exportations d'avocats Hass colombiens",
+      "summary": "Les pluies excessives réduisent la production et la disponibilité des avocats Hass colombiens.",
+      "origin_code": "COL",
+      "origin_label": "Colombie",
+      "published_at": "2026-10-29T08:00:45+00:00",
+      "published_at_source": "rss",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 4
     },
     {
       "id": "attention-c68afd6fb79ece5a",
@@ -38,14 +57,14 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 2
+      "age_hours": 5
     },
     {
       "id": "attention-ea57d7495189aaf5",
       "article_id": "1793253971_2",
       "url": "https://www.freshplaza.it/article/9886498/sviluppo-di-un-polo-logistico-di-25-000-metri-quadrati-presso-il-porto-di-dunkerque/",
       "source": "FreshPlaza IT",
-      "title": "Omer-Decugis déploie son activité de fruits exotiques",
+      "title": "Omer-Decugis déploie ses activités de fruits exotiques",
       "summary": "Un centre de stockage et conditionnement de fruits exotiques s'installe au port",
       "origin_code": "FRA",
       "origin_label": "France",
@@ -55,29 +74,29 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 4
-    },
-    {
-      "id": "attention-8d8bb4034e59d962",
-      "article_id": "1793200016_5",
-      "url": "https://www.freshplaza.es/article/9886397/el-pepino-mantiene-la-tendencia-a-la-baja-y-suben-los-precios-de-fresas-y-mango-en-el-retail-holandes/",
-      "source": "FreshPlaza ES",
-      "title": "Hausse des prix de la mangue",
-      "summary": "Les tarifs de vente au détail progressent fortement pour les mangues en rayon",
-      "origin_code": "NLD",
-      "origin_label": "Pays-Bas",
-      "published_at": "2026-10-28T15:43:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "price",
-      "signal_label": "Prix",
-      "icon": "price",
-      "products": [
-        "mango"
-      ],
-      "age_hours": 18
+      "age_hours": 7
     }
   ],
   "articles": [
+    {
+      "id": "1793275621_0",
+      "timestamp": "2026-10-29T12:07:01.274712+00:00",
+      "title": "Recul des exportations d&#x27;avocats Hass colombiens en raison des pluies -- 29/10/2026 08:00",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "COL",
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Recul des exportations d&#x27;avocats Hass colombiens en raison des pluies -- <span class=\"news-date\">29/10/2026 08:00</span></div><div class=\"news-body\">Des précipitations excessives en Colombie ont provoqué une réduction spectaculaire de la production d&#x27;avocats Hass. Cette situation affecte directement la disponibilité des fruits destinés aux marchés internationaux, en particulier vers les États-Unis. <span class=\"news-reason\">Les intempéries en Colombie réduisent l&#x27;offre d&#x27;avocats Hass sur le marché international.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/29/co-hass-avocado/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Decline in Colombian Hass avocado exports due to rains -- <span class=\"news-date\">29/10/2026 08:00</span></div><div class=\"news-body\">Excessive rainfall in Colombia has caused a dramatic reduction in Hass avocado production. This situation directly affects the availability of fruit destined for international markets, particularly to the United States. <span class=\"news-reason\">Severe weather in Colombia is reducing the supply of Hass avocados on the international market.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/29/co-hass-avocado/\" target=\"_blank\">Fresh Fruit Portal -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ירידה בייצוא אבוקדו האס מקולומביה בשל הגשמים -- <span class=\"news-date\">29/10/2026 08:00</span></div><div class=\"news-body\">משקעים כבדים בקולומביה הובילו לירידה דרמטית בייצור אבוקדו האס. מצב זה משפיע ישירות על זמינות הפירות המיועדים לשווקים הבינלאומיים, במיוחד לארצות הברית. <span class=\"news-reason\">מזג אוויר סוער בקולומביה מצמצם את היצע אבוקדו האס בשוק הבינלאומי.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/29/co-hass-avocado/\" target=\"_blank\">Fresh Fruit Portal -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1793264745_0",
       "timestamp": "2026-10-29T09:05:45.109391+00:00",
@@ -134,14 +153,14 @@
     {
       "id": "1793253971_2",
       "timestamp": "2026-10-29T06:06:11.256514+00:00",
-      "title": "Omer-Decugis déploie son activité de fruits exotiques au port de Dunkerque",
+      "title": "Omer-Decugis déploie ses activités de fruits exotiques au port de Dunkerque",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [],
       "products": [],
       "origins": [
         "FRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Omer-Decugis déploie son activité de fruits exotiques au port de Dunkerque -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">Le groupe Omer-Decugis &amp; Cie s&#x27;associe à la SEMMARIS pour implanter un pôle logistique de 25 000 mètres carrés au port de Dunkerque. Ce site sera spécialisé dans le stockage, le conditionnement et le mûrissage des fruits frais et exotiques importés par voie maritime à destination du marché français. <span class=\"news-reason\">Partenariat pour la création d&#x27;un pôle logistique de 25 000 m2 à Dunkerque dédié aux fruits exotiques.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886498/sviluppo-di-un-polo-logistico-di-25-000-metri-quadrati-presso-il-porto-di-dunkerque/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Omer-Decugis déploie ses activités de fruits exotiques au port de Dunkerque -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">Le groupe Omer-Decugis &amp; Cie s&#x27;associe à la SEMMARIS pour implanter un pôle logistique de 25 000 mètres carrés au port de Dunkerque. Ce site sera spécialisé dans le stockage, le conditionnement et le mûrissage des fruits frais et exotiques importés par voie maritime à destination du marché français. <span class=\"news-reason\">Partenariat pour la création d&#x27;un pôle logistique de 25 000 m2 à Dunkerque dédié aux fruits exotiques.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886498/sviluppo-di-un-polo-logistico-di-25-000-metri-quadrati-presso-il-porto-di-dunkerque/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Omer-Decugis establishes itself at the port of Dunkirk for its exotic fruit activity -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">The Omer-Decugis &amp; Cie group is partnering with SEMMARIS to establish a 25,000-square-meter logistics hub at the port of Dunkirk. This site will specialize in the storage, packaging, and ripening of fresh and exotic fruits imported by sea for the French market. <span class=\"news-reason\">Partnership for the creation of a 25,000 m2 logistics hub in Dunkirk dedicated to exotic fruits.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886498/sviluppo-di-un-polo-logistico-di-25-000-metri-quadrati-presso-il-porto-di-dunkerque/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות רשתות שיווק</div><div class=\"news-title\">Omer-Decugis מתבססת בנמל דנקרק עבור פעילות הפירות האקזוטיים שלה -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">קבוצת Omer-Decugis &amp; Cie חוברת ל-SEMMARIS כדי להקים מרכז לוגיסטי בשטח של 25,000 מטרים רבועים בנמל דנקרק. אתר זה יתמחה באחסון, אריזה והבשלה של פירות טריים ואקזוטיים המיובאים בדרך הים המיועדים לשוק הצרפתי. <span class=\"news-reason\">שותפות להקמת מרכז לוגיסטי בשטח 25,000 מ\"ר בדנקרק המוקדש לפירות אקזוטיים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886498/sviluppo-di-un-polo-logistico-di-25-000-metri-quadrati-presso-il-porto-di-dunkerque/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -486,7 +505,7 @@
     {
       "id": "1793167520_2",
       "timestamp": "2026-10-28T06:05:20.969472+00:00",
-      "title": "La demande européenne de grenades indiennes s’affranchit de la saisonnalité",
+      "title": "La demande européenne de grenades indiennes s&#x27;affranchit de la saisonnalité",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -498,7 +517,7 @@
         "ESP",
         "IND"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La demande européenne de grenades indiennes s’affranchit de la saisonnalité -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">Les acheteurs européens maintiennent leurs commandes d&#x27;arilles de grenades indiennes même pendant la saison espagnole. Prashant Indalkar de Sam Agritech note un changement de comportement du marché, la demande devenant moins dépendante des cycles de production locaux. <span class=\"news-reason\">Analyse de la concurrence sur la grenade (produit Mehadrin) montrant une évolution de la demande européenne au profit de l&#x27;origine Inde.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885990/la-demanda-europea-de-arilos-de-granada-india-muestra-senales-de-volverse-menos-estacional/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La demande européenne de grenades indiennes s&#x27;affranchit de la saisonnalité -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">Les acheteurs européens maintiennent leurs commandes d&#x27;arilles de grenades indiennes même pendant la saison espagnole. Prashant Indalkar de Sam Agritech note un changement de comportement du marché, la demande devenant moins dépendante des cycles de production locaux. <span class=\"news-reason\">Analyse de la concurrence sur la grenade (produit Mehadrin) montrant une évolution de la demande européenne au profit de l&#x27;origine Inde.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885990/la-demanda-europea-de-arilos-de-granada-india-muestra-senales-de-volverse-menos-estacional/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">European demand for Indian pomegranates breaks free from seasonality -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">European buyers are maintaining their orders for Indian pomegranate arils even during the Spanish season. Prashant Indalkar of Sam Agritech notes a shift in market behavior, with demand becoming less dependent on local production cycles. <span class=\"news-reason\">Analysis of competition in pomegranates (Mehadrin product) showing an evolution in European demand in favor of India.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885990/la-demanda-europea-de-arilos-de-granada-india-muestra-senales-de-volverse-moins-estacional/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקור</div><div class=\"news-title\">הביקוש האירופי לרימונים הודים משתחרר מהעונתיות -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">הקונים האירופאים ממשיכים להזמין גרגרי רימון מהודו גם במהלך העונה הספרדית. פראשנט אינדלקאר מחברת Sam Agritech מציין שינוי בהתנהגות השוק, כאשר הביקוש הופך לפחות תלוי במחזורי הייצור המקומיים. <span class=\"news-reason\">ניתוח התחרות בתחום הרימונים (מוצר של מהדרין) המראה שינוי בביקוש האירופי לטובת המקור ההודי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885990/la-demanda-europea-de-arilos-de-granada-india-muestra-senales-de-volverse-moins-estacional/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -674,7 +693,7 @@
     {
       "id": "1793113608_1",
       "timestamp": "2026-10-27T15:06:48.415771+00:00",
-      "title": "Hausse de 10 à 15 % du prix des dattes Medjool palestiniennes",
+      "title": "Le prix des dattes Medjool palestiniennes augmente de 10 à 15 %",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica"
@@ -683,7 +702,7 @@
         "date"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Hausse de 10 à 15 % du prix des dattes Medjool palestiniennes -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">La production de dattes Medjool palestiniennes est estimée à 35 000 tonnes pour cette saison. Les exportations ont débuté mi-octobre depuis Jéricho. Les producteurs et exportateurs prévoient une augmentation des prix de l&#x27;ordre de 10 à 15 % en raison de l&#x27;alourdissement des coûts logistiques et de production dans la filière. <span class=\"news-reason\">Info sur les volumes (35 000 t) et prix d&#x27;une origine concurrente directe sur un produit phare Mehadrin</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885603/la-produzione-di-datteri-medjool-palestinesi-e-stimata-a-35-000-tonnellate-in-questa-stagione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le prix des dattes Medjool palestiniennes augmente de 10 à 15 % -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">La production de dattes Medjool palestiniennes est estimée à 35 000 tonnes pour cette saison. Les exportations ont débuté mi-octobre depuis Jéricho. Les producteurs et exportateurs prévoient une augmentation des prix de l&#x27;ordre de 10 à 15 % en raison de l&#x27;alourdissement des coûts logistiques et de production dans la filière. <span class=\"news-reason\">Info sur les volumes (35 000 t) et prix d&#x27;une origine concurrente directe sur un produit phare Mehadrin</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885603/la-produzione-di-datteri-medjool-palestinesi-e-stimata-a-35-000-tonnellate-in-questa-stagione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">10 to 15% increase in the price of Palestinian Medjool dates -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">Palestinian Medjool date production is estimated at 35,000 tons for this season. Exports began in mid-October from Jericho. Growers and exporters anticipate a price increase of 10 to 15% due to higher logistical and production costs in the industry. <span class=\"news-reason\">Info on volumes (35,000 t) and prices of a direct competing origin on a flagship Mehadrin product</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885603/la-produzione-di-datteri-medjool-palestinesi-e-stimata-a-35-000-tonnellate-in-questa-stagione/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">עלייה של 10% עד 15% במחיר תמרי המג&#x27;הול הפלסטיניים -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">ייצור תמרי המג&#x27;הול הפלסטיניים מוערך ב-35,000 טון לעונה זו. הייצוא החל באמצע אוקטובר מיריחו. המגדלים והיצואנים צופים עליית מחירים בשיעור של 10% עד 15% בשל התייקרות עלויות הלוגיסטיקה והייצור בענף. <span class=\"news-reason\">מידע על כמויות (35,000 טון) ומחירים של מקור מתחרה ישיר במוצר דגל של מהדרין</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885603/la-produzione-di-datteri-medjool-palestinesi-e-stimata-a-35-000-tonnellate-in-questa-stagione/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -1040,53 +1059,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Maroc, la Turquie et l&#x27;Égypte consolident leur présence en Europe -- <span class=\"news-date\">26/10/2026 14:14</span></div><div class=\"news-body\">Le Maroc, la Turquie et l&#x27;Égypte gagnent du terrain dans les rayons européens de fruits et légumes. Cette tendance est portée par des coûts de production bas, incitant les consommateurs à choisir ces origines en fonction du prix, à l&#x27;image de l&#x27;évolution passée de l&#x27;industrie textile. <span class=\"news-reason\">Informations sur la progression de parts de marché d&#x27;origines concurrentes de Mehadrin en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9886100/morocco-turkey-and-egypt-are-gaining-ground-on-european-shelves/\" target=\"_blank\">HortiDaily -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Morocco, Turkey and Egypt consolidate their presence in Europe -- <span class=\"news-date\">26/10/2026 14:14</span></div><div class=\"news-body\">Morocco, Turkey, and Egypt are gaining ground on European fruit and vegetable shelves. This trend is driven by low production costs, encouraging consumers to choose these origins based on price, mirroring the past evolution of the textile industry. <span class=\"news-reason\">Information on the market share growth of origins competing with Mehadrin in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9886100/morocco-turkey-and-egypt-are-gaining-ground-on-european-shelves/\" target=\"_blank\">HortiDaily -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מרוקו, טורקיה ומצרים מחזקות את נוכחותן באירופה -- <span class=\"news-date\">26/10/2026 14:14</span></div><div class=\"news-body\">מרוקו, טורקיה ומצרים תופסות תאוצה על מדפי הפירות והירקות באירופה. מגמה זו מונעת מעלויות ייצור נמוכות, המעודדות את הצרכנים לבחור במקורות אלו בהתבסס על המחיר, בדומה להתפתחות שעברה בעבר תעשיית הטקסטיל. <span class=\"news-reason\">מידע על התקדמות נתחי השוק של מקורות המתחרים במהדרין באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9886100/morocco-turkey-and-egypt-are-gaining-ground-on-european-shelves/\" target=\"_blank\">HortiDaily -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793016237_2",
-      "timestamp": "2026-10-26T12:03:57.674672+00:00",
-      "title": "Nouvelle plateforme logistique pour fruits exotiques à Dunkerque -- 26/10/2026 11:40",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [],
-      "products": [],
-      "origins": [
-        "FRA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Nouvelle plateforme logistique pour fruits exotiques à Dunkerque -- <span class=\"news-date\">26/10/2026 11:40</span></div><div class=\"news-body\">Omer-Decugis &amp; Cie s&#x27;associe à la SEMMARIS pour créer une plateforme de 25 000 m² au port de Dunkerque. Le site sera dédié au stockage, au mûrissage et au conditionnement des fruits frais et exotiques. <span class=\"news-reason\">Investissement majeur dans une infrastructure de mûrissage et de stockage pour les fruits exotiques en France.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9886275/omer-decugis-cie-s-associe-a-la-semmaris-pour-developper-une-plateforme-logistique-de-25-000-m2-au-port-de-dunkerque/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">New logistics platform for exotic fruits in Dunkirk -- <span class=\"news-date\">26/10/2026 11:40</span></div><div class=\"news-body\">Omer-Decugis &amp; Cie is partnering with SEMMARIS to create a 25,000 m² platform at the port of Dunkirk. The site will be dedicated to the storage, ripening, and packaging of fresh and exotic fruits. <span class=\"news-reason\">Major investment in ripening and storage infrastructure for exotic fruits in France.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9886275/omer-decugis-cie-s-associe-a-la-semmaris-pour-developper-une-plateforme-logistique-de-25-000-m2-au-port-de-dunkerque/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות שיווק</div><div class=\"news-title\">פלטפורמה לוגיסטית חדשה לפירות אקזוטיים בדנקרק -- <span class=\"news-date\">26/10/2026 11:40</span></div><div class=\"news-body\">Omer-Decugis &amp; Cie משתפת פעולה עם SEMMARIS להקמת פלטפורמה של 25,000 מ\"ר בנמל דנקרק. האתר יוקדש לאחסון, הבחלה ואריזה של פירות טריים ואקזוטיים. <span class=\"news-reason\">השקעה משמעותית בתשתית הבחלה ואחסון לפירות אקזוטיים בצרפת.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9886275/omer-decugis-cie-s-associe-a-la-semmaris-pour-developper-une-plateforme-logistique-de-25-000-m2-au-port-de-dunkerque/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793016237_1",
-      "timestamp": "2026-10-26T12:03:57.674672+00:00",
-      "title": "Récolte concurrentielle de 35 000 tonnes de dattes Medjool -- 26/10/2026 12:14",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Jessica"
-      ],
-      "products": [
-        "date"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Récolte concurrentielle de 35 000 tonnes de dattes Medjool -- <span class=\"news-date\">26/10/2026 12:14</span></div><div class=\"news-body\">La récolte de dattes Medjool palestiniennes est estimée à 35 000 tonnes pour cette saison. Les exportations ont commencé mi-octobre et les prix devraient augmenter de 10 à 15 % en raison de la hausse des coûts logistiques. <span class=\"news-reason\">Information stratégique sur les volumes et les prix d&#x27;un concurrent direct sur le produit phare de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9885602/palestijnse-medjool-dadeloogst-geraamd-op-35-000-ton/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Competitive harvest of 35,000 tonnes of Medjool dates -- <span class=\"news-date\">26/10/2026 12:14</span></div><div class=\"news-body\">The Palestinian Medjool date harvest is estimated at 35,000 tonnes for this season. Exports began in mid-October and prices are expected to increase by 10 to 15% due to rising logistics costs. <span class=\"news-reason\">Strategic information on the volumes and prices of a direct competitor for Mehadrin&#x27;s flagship product.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9885602/palestijnse-medjool-dadeloogst-geraamd-op-35-000-ton/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">יבול תחרותי של 35,000 טון תמרי מג'הול -- <span class=\"news-date\">26/10/2026 12:14</span></div><div class=\"news-body\">יבול תמרי המג'הול הפלסטיניים מוערך ב-35,000 טון לעונה זו. היצוא החל באמצע אוקטובר והמחירים צפויים לעלות ב-10 עד 15 אחוזים עקב העלייה בעלויות הלוגיסטיקה. <span class=\"news-reason\">מידע אסטרטגי על כמויות ומחירים של מתחרה ישיר במוצר הדגל של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9885602/palestijnse-medjool-dadeloogst-geraamd-op-35-000-ton/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793016237_0",
-      "timestamp": "2026-10-26T12:03:57.674672+00:00",
-      "title": "Augmentation du prix moyen des mangues sur le marché -- 26/10/2026 12:14",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "mango",
-        "berry"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Augmentation du prix moyen des mangues sur le marché -- <span class=\"news-date\">26/10/2026 12:14</span></div><div class=\"news-body\">En semaine 43, le prix moyen de la mangue a augmenté de 0,18 € pour atteindre 1,73 € l&#x27;unité sur les marchés de gros. Cette tendance à la hausse contraste avec celle du concombre mais suit celle des fraises. <span class=\"news-reason\">L&#x27;article fournit des cotations précises pour la mangue sur le marché européen en semaine 43.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9886202/komkommer-blijft-in-dalende-trend-aardbeien-en-mango-duurder/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Average mango price increase on the market -- <span class=\"news-date\">26/10/2026 12:14</span></div><div class=\"news-body\">In week 43, the average price of mangoes increased by €0.18 to reach €1.73 per unit on wholesale markets. This upward trend contrasts with that of cucumbers but follows that of strawberries. <span class=\"news-reason\">The article provides precise quotations for mangoes on the European market in week 43.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9886202/komkommer-blijft-in-dalende-trend-aardbeien-en-mango-duurder/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עלייה במחיר הממוצע של מנגו בשוק -- <span class=\"news-date\">26/10/2026 12:14</span></div><div class=\"news-body\">בשבוע 43, המחיר הממוצע של המנגו עלה ב-0.18 אירו והגיע ל-1.73 אירו ליחידה בשווקים הסיטונאיים. מגמת עלייה זו עומדת בניגוד לזו של המלפפון אך עוקבת אחר זו של התותים. <span class=\"news-reason\">המאמר מספק הצעות מחיר מדויקות למנגו בשוק האירופי בשבוע 43.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9886202/komkommer-blijft-in-dalende-trend-aardbeien-en-mango-duurder/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
