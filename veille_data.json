@@ -1,6 +1,43 @@
 {
-  "last_generated": "2026-10-29T18:08:30.964961+00:00",
+  "last_generated": "2026-10-29T19:36:59.235904+00:00",
   "articles": [
+    {
+      "id": "1793302619_3",
+      "timestamp": "2026-10-29T19:36:59.235904+00:00",
+      "title": "Baisse de l&#x27;offre équatorienne de mangue et de pitaya due aux fortes pluies -- 29/10/2026 13:18",
+      "title_hash": "baisse lx27offre équatorienne mangue pitaya due fortes pluies",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango",
+        "pitahaya"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Baisse de l&#x27;offre équatorienne de mangue et de pitaya due aux fortes pluies -- <span class=\"news-date\">29/10/2026 13:18</span></div><div class=\"news-body\">Les fortes pluies en Équateur perturbent gravement la production et la logistique d&#x27;exportation de la pitaya et de la mangue juste avant le début de la haute saison. Selon Julio César Calderón, directeur général de Mucha Fruits, ces intempéries affectent considérablement l&#x27;ensemble du secteur productif et les flux vers l&#x27;export. <span class=\"news-reason\">Alerte logistique et production sur la mangue et les fruits exotiques en Équateur, impactant l&#x27;offre globale.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9887243/les-pluies-reduisent-l-offre-equatorienne-de-pitaya-et-de-mangue-a-l-aube-de-la-haute-saison/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Decrease in Ecuadorian mango and pitaya supply due to heavy rains -- <span class=\"news-date\">29/10/2026 13:18</span></div><div class=\"news-body\">Heavy rains in Ecuador are severely disrupting production and export logistics for pitaya and mango just before the start of the high season. According to Julio César Calderón, general manager of Mucha Fruits, these weather conditions significantly affect the entire production sector and export flows. <span class=\"news-reason\">Logistics and production alert for mango and exotic fruits in Ecuador, impacting global supply.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9887243/les-pluies-reduisent-l-offre-equatorienne-de-pitaya-et-de-mangue-a-l-aube-de-la-haute-saison/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ירידה בהיצע המנגו והפיטאיה מאקוודור עקב גשמים עזים -- <span class=\"news-date\">29/10/2026 13:18</span></div><div class=\"news-body\">גשמים עזים באקוודור משבשים קשות את הייצור ואת לוגיסטיקת היצוא של פיטאיה ומנגו רגע לפני תחילת עונת השיא. לדברי חוליו סזאר קלדרון, מנכ\"ל Mucha Fruits, תנאי מזג האוויר הללו משפיעים משמעותית על כל מגזר הייצור ועל זרמי היצוא. <span class=\"news-reason\">התרעה לוגיסטית וייצורית לגבי מנגו ופירות טרופיים באקוודור, המשפיעה על ההיצע העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9887243/les-pluies-reduisent-l-offre-equatorienne-de-pitaya-et-de-mangue-a-l-aube-de-la-haute-saison/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>",
+      "rss_metadata": {
+        "id": "rss-7e6f640e73c568fc",
+        "title": "Les pluies réduisent l'offre équatorienne de pitaya et de mangue à l'aube de la haute saison",
+        "summary": "Les fortes pluies qui touchent l'Équateur ont un impact négatif sur la production et la logistique des fruits destinés à l'exportation. Julio César Calderón, directeur général de Mucha Fruits, dresse un bilan clair de la situation concernant la pitaya et la mangue : « Cela affecte considérablement le…",
+        "url": "https://www.freshplaza.fr/article/9887243/les-pluies-reduisent-l-offre-equatorienne-de-pitaya-et-de-mangue-a-l-aube-de-la-haute-saison/",
+        "source": "FreshPlaza FR",
+        "published_at": "2026-10-29T13:18:00+01:00",
+        "language": "fr",
+        "products": [
+          "mango",
+          "pitahaya"
+        ],
+        "origins": []
+      },
+      "attention_enrichment": {
+        "title_fr": "Pluies réduisant l'offre de mangues fraîches",
+        "summary_fr": "Les fortes précipitations perturbent gravement la production et la logistique de ces fruits"
+      },
+      "gemini_score": 7
+    },
     {
       "id": "1793297310_7",
       "timestamp": "2026-10-29T18:08:30.964961+00:00",
@@ -194,7 +231,7 @@
     {
       "id": "1793291932_6",
       "timestamp": "2026-10-29T16:38:52.418362+00:00",
-      "title": "Baisse des volumes d&#x27;avocats mexicains vers les États-Unis suite à une grève",
+      "title": "Recul des volumes d&#x27;avocats mexicains vers les États-Unis suite à une grève",
       "title_hash": "baisse volumes dx27avocats mexicains vers étatsunis suite à grève",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
@@ -207,7 +244,7 @@
         "MEX",
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse des volumes d&#x27;avocats mexicains vers les États-Unis suite à une grève -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">Une grève déclenchée par l&#x27;Union des petits producteurs du Michoacán (PUAM) au Mexique paralyse près de la moitié des expéditions d&#x27;avocats prévues vers les États-Unis. Les producteurs exigent un prix de 45 pesos par kilo, alors qu&#x27;ils n&#x27;en reçoivent actuellement que 13 de la part des entreprises exportatrices et des empacadoras. <span class=\"news-reason\">Article contenant des chiffres précis sur les prix et les volumes d&#x27;un produit Mehadrin (avocat) sur un marché majeur (USA).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887555/la-huelga-de-aguacateros-en-michoacan-reduce-a-casi-la-mitad-los-envios-previstos-a-estados-unidos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul des volumes d&#x27;avocats mexicains vers les États-Unis suite à une grève -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">Une grève déclenchée par l&#x27;Union des petits producteurs du Michoacán (PUAM) au Mexique paralyse près de la moitié des expéditions d&#x27;avocats prévues vers les États-Unis. Les producteurs exigent un prix de 45 pesos par kilo, alors qu&#x27;ils n&#x27;en reçoivent actuellement que 13 de la part des entreprises exportatrices et des empacadoras. <span class=\"news-reason\">Article contenant des chiffres précis sur les prix et les volumes d&#x27;un produit Mehadrin (avocat) sur un marché majeur (USA).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887555/la-huelga-de-aguacateros-en-michoacan-reduce-a-casi-la-mitad-los-envios-previstos-a-estados-unidos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decrease in Mexican avocado volumes to the United States following strike -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">A strike launched by the Union of Small Producers of Michoacán (PUAM) in Mexico is paralyzing nearly half of the planned avocado shipments to the United States. Producers are demanding a price of 45 pesos per kilo, while they currently receive only 13 from exporting companies and packers. <span class=\"news-reason\">Article containing specific figures on prices and volumes for a Mehadrin product (avocado) in a major market (USA).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887555/la-huelga-de-aguacateros-en-michoacan-reduce-a-casi-la-mitad-los-envios-previstos-a-estados-unidos/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה בכמויות האבוקדו המקסיקני לארצות הברית בעקבות שביתה -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">שביתה שהחלה על ידי איגוד היצרנים הקטנים של מיצ'ואקן (PUAM) במקסיקו משתקת כמעט מחצית ממשלוחי האבוקדו המתוכננים לארצות הברית. היצרנים דורשים מחיר של 45 פסו לקילוגרם, בעוד שהם מקבלים כיום רק 13 מהחברות המייצאות ומבתי האריזה. <span class=\"news-reason\">כתבה הכוללת נתונים מדויקים על מחירים וכמויות של מוצר מהדרין (אבוקדו) בשוק מרכזי (ארה\"ב).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887555/la-huelga-de-aguacateros-en-michoacan-reduce-a-casi-la-mitad-los-envios-previstos-a-estados-unidos/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -307,7 +344,7 @@
     {
       "id": "1793291932_3",
       "timestamp": "2026-10-29T16:38:52.418362+00:00",
-      "title": "Lancement d&#x27;une campagne cruciale pour la mangue au Pérou",
+      "title": "Lancement d&#x27;une campagne de mangues cruciale au Pérou",
       "title_hash": "ouverture campagne critique mangue pérou",
       "category": "ALERTES SUPPLY",
       "commercials": [
@@ -319,7 +356,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Lancement d&#x27;une campagne cruciale pour la mangue au Pérou -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">La campagne de mangue au Pérou démarre avec une production réduite et des fruits manquant de maturité pour certains marchés. Cette situation est aggravée par un phénomène El Niño précoce. Les producteurs de Piura et Casma craignent que si les pluies débutent fin novembre, la campagne ne s&#x27;arrête prématurément, limitant l&#x27;offre globale. <span class=\"news-reason\">Alerte sur la production et la qualité d&#x27;une origine concurrente majeure (Pérou) pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887570/hoy-no-hay-campana-y-si-las-lluvias-empiezan-a-fines-de-noviembre-se-acabo-la-campana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Lancement d&#x27;une campagne de mangues cruciale au Pérou -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">La campagne de mangue au Pérou démarre avec une production réduite et des fruits manquant de maturité pour certains marchés. Cette situation est aggravée par un phénomène El Niño précoce. Les producteurs de Piura et Casma craignent que si les pluies débutent fin novembre, la campagne ne s&#x27;arrête prématurément, limitant l&#x27;offre globale. <span class=\"news-reason\">Alerte sur la production et la qualité d&#x27;une origine concurrente majeure (Pérou) pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887570/hoy-no-hay-campana-y-si-las-lluvias-empiezan-a-fines-de-noviembre-se-acabo-la-campana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Critical season opening for mangoes in Peru -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">The mango season in Peru starts with reduced production and fruit lacking maturity for certain markets. This situation is worsened by an early El Niño phenomenon. Producers in Piura and Casma fear that if rains start at the end of November, the season will end prematurely, limiting the global supply. <span class=\"news-reason\">Alert on the production and quality of a major competing origin (Peru) for mangoes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887570/hoy-no-hay-campana-y-si-las-lluvias-empiezan-a-fines-de-noviembre-se-acabo-la-campana/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">פתיחת עונה קריטית למנגו בפרו -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">עונת המנגו בפרו מתחילה עם ייצור מופחת ופירות חסרי בשלות עבור שווקים מסוימים. מצב זה מוחמר על ידי תופעת אל ניניו מוקדמת. המגדלים בפיורה ובקסמה חוששים שאם הגשמים יתחילו בסוף נובמבר, העונה תיעצר בטרם עת, מה שיגביל את ההיצע הכולל. <span class=\"news-reason\">התראה על הייצור והאיכות של מקור מתחרה מרכזי (פרו) למנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887570/hoy-no-hay-campana-y-si-las-lluvias-empiezan-a-fines-de-noviembre-se-acabo-la-campana/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -721,7 +758,7 @@
     {
       "id": "1793253971_2",
       "timestamp": "2026-10-29T06:06:11.256514+00:00",
-      "title": "Omer-Decugis implante ses activités de fruits exotiques au port de Dunkerque",
+      "title": "Omer-Decugis déploie ses activités de fruits exotiques au port de Dunkerque",
       "title_hash": "omerdecugis sx27implante port dunkerque activité fruits exotiques",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [],
@@ -729,7 +766,7 @@
       "origins": [
         "FRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Omer-Decugis implante ses activités de fruits exotiques au port de Dunkerque -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">Le groupe Omer-Decugis &amp; Cie s&#x27;associe à la SEMMARIS pour implanter un pôle logistique de 25 000 mètres carrés au port de Dunkerque. Ce site sera spécialisé dans le stockage, le conditionnement et le mûrissage des fruits frais et exotiques importés par voie maritime à destination du marché français. <span class=\"news-reason\">Partenariat pour la création d&#x27;un pôle logistique de 25 000 m2 à Dunkerque dédié aux fruits exotiques.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886498/sviluppo-di-un-polo-logistico-di-25-000-metri-quadrati-presso-il-porto-di-dunkerque/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Omer-Decugis déploie ses activités de fruits exotiques au port de Dunkerque -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">Le groupe Omer-Decugis &amp; Cie s&#x27;associe à la SEMMARIS pour implanter un pôle logistique de 25 000 mètres carrés au port de Dunkerque. Ce site sera spécialisé dans le stockage, le conditionnement et le mûrissage des fruits frais et exotiques importés par voie maritime à destination du marché français. <span class=\"news-reason\">Partenariat pour la création d&#x27;un pôle logistique de 25 000 m2 à Dunkerque dédié aux fruits exotiques.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886498/sviluppo-di-un-polo-logistico-di-25-000-metri-quadrati-presso-il-porto-di-dunkerque/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Omer-Decugis establishes itself at the port of Dunkirk for its exotic fruit activity -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">The Omer-Decugis &amp; Cie group is partnering with SEMMARIS to establish a 25,000-square-meter logistics hub at the port of Dunkirk. This site will specialize in the storage, packaging, and ripening of fresh and exotic fruits imported by sea for the French market. <span class=\"news-reason\">Partnership for the creation of a 25,000 m2 logistics hub in Dunkirk dedicated to exotic fruits.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886498/sviluppo-di-un-polo-logistico-di-25-000-metri-quadrati-presso-il-porto-di-dunkerque/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות רשתות שיווק</div><div class=\"news-title\">Omer-Decugis מתבססת בנמל דנקרק עבור פעילות הפירות האקזוטיים שלה -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">קבוצת Omer-Decugis &amp; Cie חוברת ל-SEMMARIS כדי להקים מרכז לוגיסטי בשטח של 25,000 מטרים רבועים בנמל דנקרק. אתר זה יתמחה באחסון, אריזה והבשלה של פירות טריים ואקזוטיים המיובאים בדרך הים המיועדים לשוק הצרפתי. <span class=\"news-reason\">שותפות להקמת מרכז לוגיסטי בשטח 25,000 מ\"ר בדנקרק המוקדש לפירות אקזוטיים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886498/sviluppo-di-un-polo-logistico-di-25-000-metri-quadrati-presso-il-porto-di-dunkerque/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -752,7 +789,7 @@
     {
       "id": "1793253971_1",
       "timestamp": "2026-10-29T06:06:11.256514+00:00",
-      "title": "Coop Italia : la consommation de clémentines progresse de 8,8 %",
+      "title": "Coop Italia : la consommation de clémentines affiche une hausse de 8,8 %",
       "title_hash": "coop italia enregistre hausse 88 consommation clémentines",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
@@ -764,7 +801,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Coop Italia : la consommation de clémentines progresse de 8,8 % -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">La consommation de clementines chez Coop Italia affiche une progression de 8,8 %. Germano Fabiani souligne le dynamisme de ce segment et l opportunite commerciale liee a l extension du calendrier varietal pour prolonger la disponibilite des produits en rayon tout au long de la saison. <span class=\"news-reason\">Chiffres precis sur l evolution du marche et de la consommation d agrumes en Italie.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887125/consumi-in-crescita-dell-8-8-per-cento-ma-occorre-ampliare-il-calendario-varietale/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Coop Italia : la consommation de clémentines affiche une hausse de 8,8 % -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">La consommation de clementines chez Coop Italia affiche une progression de 8,8 %. Germano Fabiani souligne le dynamisme de ce segment et l opportunite commerciale liee a l extension du calendrier varietal pour prolonger la disponibilite des produits en rayon tout au long de la saison. <span class=\"news-reason\">Chiffres precis sur l evolution du marche et de la consommation d agrumes en Italie.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887125/consumi-in-crescita-dell-8-8-per-cento-ma-occorre-ampliare-il-calendario-varietale/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Coop Italia records an 8.8% increase in clementine consumption -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">Clementine consumption at Coop Italia shows a growth of 8.8%. Germano Fabiani highlights the dynamism of this segment and the commercial opportunity linked to the extension of the varietal calendar to prolong product availability on shelves throughout the season. <span class=\"news-reason\">Precise figures on market trends and citrus consumption in Italy.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887125/consumi-in-crescita-dell-8-8-per-cento-ma-occorre-ampliare-il-calendario-varietale/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">Coop Italia רושמת עלייה של 8.8% בצריכת הקלמנטינות -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">צריכת הקלמנטינות ב-Coop Italia מציגה עלייה של 8.8%. ג'רמנו פביאני מדגיש את הדינמיות של סגמנט זה ואת ההזדמנות העסקית הקשורה להרחבת לוח הזמנים הזני כדי להאריך את זמינות המוצרים על המדפים לאורך כל העונה. <span class=\"news-reason\">נתונים מדויקים על התפתחות השוק וצריכת ההדרים באיטליה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887125/consumi-in-crescita-dell-8-8-per-cento-ma-occorre-ampliare-il-calendario-varietale/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -791,7 +828,7 @@
     {
       "id": "1793205371_3",
       "timestamp": "2026-10-28T16:36:11.944099+00:00",
-      "title": "Impact de la pluviométrie sur l&#x27;offre de mangues et de pitayas en Équateur",
+      "title": "Incidence de la pluviométrie sur l&#x27;offre de mangues et de pitayas en Équateur",
       "title_hash": "précipitations impactent lx27offre mangues pitayas équateur",
       "category": "ALERTES SUPPLY",
       "commercials": [
@@ -802,7 +839,7 @@
         "pitahaya"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact de la pluviométrie sur l&#x27;offre de mangues et de pitayas en Équateur -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">Les précipitations intenses en Équateur affectent actuellement la production et la logistique des fruits destinés à l&#x27;exportation. Julio César Calderón, de Mucha Fruits, souligne que ces conditions climatiques perturbent fortement les secteurs de la mangue et de la pitaya juste avant le début de la haute saison. <span class=\"news-reason\">Alerte sur la disponibilité future de produits Mehadrin (mangue, pitaya) chez une origine concurrente suite à des intempéries.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886970/las-lluvias-reducen-la-oferta-ecuatoriana-de-pitahaya-y-mango-en-plena-antesala-de-la-temporada-alta/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Incidence de la pluviométrie sur l&#x27;offre de mangues et de pitayas en Équateur -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">Les précipitations intenses en Équateur affectent actuellement la production et la logistique des fruits destinés à l&#x27;exportation. Julio César Calderón, de Mucha Fruits, souligne que ces conditions climatiques perturbent fortement les secteurs de la mangue et de la pitaya juste avant le début de la haute saison. <span class=\"news-reason\">Alerte sur la disponibilité future de produits Mehadrin (mangue, pitaya) chez une origine concurrente suite à des intempéries.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886970/las-lluvias-reducen-la-oferta-ecuatoriana-de-pitahaya-y-mango-en-plena-antesala-de-la-temporada-alta/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Rainfall impacts mango and pitaya supply in Ecuador -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">Intense rainfall in Ecuador is currently affecting the production and logistics of fruit intended for export. Julio César Calderón, from Mucha Fruits, emphasizes that these weather conditions are heavily disrupting the mango and pitaya sectors just before the start of the peak season. <span class=\"news-reason\">Alert on the future availability of Mehadrin products (mango, pitaya) from a competing origin following bad weather.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886970/las-lluvias-reducen-la-oferta-ecuatoriana-de-pitahaya-y-mango-en-plena-antesala-de-la-temporada-alta/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">המשקעים משפיעים על היצע המנגו והפיטאיה באקוודור -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">משקעים עזים באקוודור משפיעים כעת על הייצור והלוגיסטיקה של פירות המיועדים ליצוא. חוליו סזאר קלדרון, מ-Mucha Fruits, מציין כי תנאי אקלים אלו משבשים קשות את מגזרי המנגו והפיטאיה ממש לפני תחילת עונת השיא. <span class=\"news-reason\">התראה על הזמינות העתידית של מוצרי מהדרין (מנגו, פיטאיה) ממקור מתחרה בעקבות פגעי מזג אוויר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886970/las-lluvias-reducen-la-oferta-ecuatoriana-de-pitahaya-y-mango-en-plena-antesala-de-la-temporada-alta/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -905,7 +942,7 @@
     {
       "id": "1793200016_9",
       "timestamp": "2026-10-28T15:06:56.882539+00:00",
-      "title": "Ralentissement du marché de la mangue et hausse des coûts d&#x27;exploitation",
+      "title": "Ralentissement du marché de la mangue et hausse des coûts d’exploitation",
       "title_hash": "ralentissement marché mangues hausse coûts dx27exploitation",
       "category": "ALERTES SUPPLY",
       "commercials": [
@@ -917,7 +954,7 @@
       "origins": [
         "BRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Ralentissement du marché de la mangue et hausse des coûts d&#x27;exploitation -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">Le marché de la mangue traverse une phase complexe caractérisée par des ventes inférieures aux attentes malgré des arrivages réguliers du Brésil. Les difficultés logistiques, les périodes de vacances et la prudence des consommateurs pèsent sur la demande. Ces facteurs freinent la fluidité du marché et compliquent la répercussion de la hausse des coûts de production et de transport auprès des acheteurs finaux. <span class=\"news-reason\">L&#x27;article analyse la situation actuelle du marché de la mangue, produit Mehadrin, en provenance du Brésil vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886400/le-vendite-di-mango-procedono-a-rilento-e-rendono-difficile-trasferire-gli-aumenti-dei-costi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Ralentissement du marché de la mangue et hausse des coûts d’exploitation -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">Le marché de la mangue traverse une phase complexe caractérisée par des ventes inférieures aux attentes malgré des arrivages réguliers du Brésil. Les difficultés logistiques, les périodes de vacances et la prudence des consommateurs pèsent sur la demande. Ces facteurs freinent la fluidité du marché et compliquent la répercussion de la hausse des coûts de production et de transport auprès des acheteurs finaux. <span class=\"news-reason\">L&#x27;article analyse la situation actuelle du marché de la mangue, produit Mehadrin, en provenance du Brésil vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886400/le-vendite-di-mango-procedono-a-rilento-e-rendono-difficile-trasferire-gli-aumenti-dei-costi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Mango market slowdown and rising operating costs -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">The mango market is undergoing a complex phase characterized by sales below expectations despite regular arrivals from Brazil. Logistical difficulties, holiday periods, and consumer caution are weighing on demand. These factors hinder market fluidity and complicate passing on increased production and transport costs to end buyers. <span class=\"news-reason\">The article analyzes the current situation of the mango market, a Mehadrin product, from Brazil to Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886400/le-vendite-di-mango-procedono-a-rilento-e-rendono-difficile-trasferire-gli-aumenti-dei-costi/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">האטה בשוק המנגו ועלייה בעלויות התפעול -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">שוק המנגו עובר שלב מורכב המאופיין במכירות נמוכות מהצפוי למרות הגעות סדירות מברזיל. קשיים לוגיסטיים, תקופות חגים וזהירות הצרכנים מכבידים על הביקוש. גורמים אלו פוגעים בזרימת השוק ומקשים על גלגול עליית עלויות הייצור וההובלה אל הקונים הסופיים. <span class=\"news-reason\">הכתבה מנתחת את המצב הנוכחי בשוק המנגו, מוצר של מהדרין, המגיע מברזיל לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886400/le-vendite-di-mango-procedono-a-rilento-e-rendono-difficile-trasferire-gli-aumenti-dei-costi/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -1048,7 +1085,7 @@
     {
       "id": "1793200016_5",
       "timestamp": "2026-10-28T15:06:56.882539+00:00",
-      "title": "Hausse des prix de la mangue dans la grande distribution aux Pays-Bas",
+      "title": "Hausse des prix de la mangue au sein de la grande distribution aux Pays-Bas",
       "title_hash": "hausse prix mangue distribution néerlandaise",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
@@ -1060,7 +1097,7 @@
       "origins": [
         "NLD"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Hausse des prix de la mangue dans la grande distribution aux Pays-Bas -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">Au cours de la semaine 43, les prix de vente au détail aux Pays-Bas ont enregistré une augmentation notable. La mangue s&#x27;est renchérie en moyenne de 18 centimes pour s&#x27;établir à un prix moyen de 1,73 euro, reflétant des tensions sur l&#x27;offre disponible en rayon. <span class=\"news-reason\">Article contenant des chiffres de prix précis pour un produit Mehadrin sur un marché clé.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886397/el-pepino-mantiene-la-tendencia-a-la-baja-y-suben-los-precios-de-fresas-y-mango-en-el-retail-holandes/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Hausse des prix de la mangue au sein de la grande distribution aux Pays-Bas -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">Au cours de la semaine 43, les prix de vente au détail aux Pays-Bas ont enregistré une augmentation notable. La mangue s&#x27;est renchérie en moyenne de 18 centimes pour s&#x27;établir à un prix moyen de 1,73 euro, reflétant des tensions sur l&#x27;offre disponible en rayon. <span class=\"news-reason\">Article contenant des chiffres de prix précis pour un produit Mehadrin sur un marché clé.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886397/el-pepino-mantiene-la-tendencia-a-la-baja-y-suben-los-precios-de-fresas-y-mango-en-el-retail-holandes/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Rise in mango prices in Dutch retail -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">During week 43, retail sales prices in the Netherlands recorded a notable increase. Mangoes became more expensive by an average of 18 cents to reach an average price of 1.73 euros, reflecting tensions in the available shelf supply. <span class=\"news-reason\">Article containing precise price figures for a Mehadrin product in a key market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886397/el-pepino-mantiene-la-tendencia-a-la-baja-y-suben-los-precios-de-fresas-y-mango-en-el-retail-holandes/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עלייה במחירי המנגו ברשתות השיווק בהולנד -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">במהלך שבוע 43, מחירי המכירה הקמעונאיים בהולנד רשמו עלייה ניכרת. מחיר המנגו עלה בממוצע ב-18 סנט ונעמד על מחיר ממוצע של 1.73 אירו, מה שמשקף מתחים בהיצע הזמין על המדפים. <span class=\"news-reason\">כתבה הכוללת נתוני מחירים מדויקים עבור מוצר של מהדרין בשוק מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886397/el-pepino-mantiene-la-tendencia-a-la-baja-y-suben-los-precios-de-fresas-y-mango-en-el-retail-holandes/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -1085,7 +1122,7 @@
     {
       "id": "1793200016_3",
       "timestamp": "2026-10-28T15:06:56.882539+00:00",
-      "title": "Perspectives de prix pour la récolte d&#x27;avocats de fin de saison en Afrique du Sud",
+      "title": "Perspectives de prix pour la récolte d’avocats de fin de saison en Afrique du Sud",
       "title_hash": "perspectives prix récolte dx27avocats hors saison afrique sud",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
@@ -1097,7 +1134,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Perspectives de prix pour la récolte d&#x27;avocats de fin de saison en Afrique du Sud -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">La deuxième récolte d&#x27;avocats de 2026 dans le Lowveld sud-africain, bien que surprenante, ne devrait pas atteindre les niveaux de prix records observés précédemment. Cette production hors saison coïncide avec la fin de la récolte dans le KwaZulu-Natal, influençant l&#x27;offre actuelle sur le marché. <span class=\"news-reason\">L&#x27;article fournit une analyse des tendances de prix pour une production spécifique d&#x27;avocats sud-africains arrivant sur le marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886073/l-avocado-sudafricano-fuori-stagione-non-vedra-di-nuovo-i-prezzi-elevati-di-un-tempo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Perspectives de prix pour la récolte d’avocats de fin de saison en Afrique du Sud -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">La deuxième récolte d&#x27;avocats de 2026 dans le Lowveld sud-africain, bien que surprenante, ne devrait pas atteindre les niveaux de prix records observés précédemment. Cette production hors saison coïncide avec la fin de la récolte dans le KwaZulu-Natal, influençant l&#x27;offre actuelle sur le marché. <span class=\"news-reason\">L&#x27;article fournit une analyse des tendances de prix pour une production spécifique d&#x27;avocats sud-africains arrivant sur le marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886073/l-avocado-sudafricano-fuori-stagione-non-vedra-di-nuovo-i-prezzi-elevati-di-un-tempo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Price outlook for the off-season avocado harvest in South Africa -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">The second avocado harvest of 2026 in the South African Lowveld, although surprising, is not expected to reach the record price levels observed previously. This off-season production coincides with the end of the harvest in KwaZulu-Natal, influencing current market supply. <span class=\"news-reason\">The article provides an analysis of price trends for a specific production of South African avocados arriving on the market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886073/l-avocado-sudafricano-fuori-stagione-non-vedra-di-nuovo-i-prezzi-elevati-di-un-tempo/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">תחזיות מחירים ליבול האבוקדו מחוץ לעונה בדרום אפריקה -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">יבול האבוקדו השני של שנת 2026 באזור Lowveld שבדרום אפריקה, למרות היותו מפתיע, אינו צפוי להגיע לרמות מחירי השיא שנצפו בעבר. ייצור זה מחוץ לעונה חופף לסיום הקטיף ב-KwaZulu-Natal, ומשפיע על ההיצע הנוכחי בשוק. <span class=\"news-reason\">הכתבה מספקת ניתוח של מגמות המחירים עבור ייצור ספציפי של אבוקדו דרום אפריקאי המגיע לשוק.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886073/l-avocado-sudafricano-fuori-stagione-non-vedra-di-nuovo-i-prezzi-elevati-di-un-tempo/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -1202,7 +1239,7 @@
     {
       "id": "1793194586_5",
       "timestamp": "2026-10-28T13:36:26.664092+00:00",
-      "title": "Tensions d&#x27;approvisionnement et contraction de l&#x27;offre de dattes Medjool pour Noël en Europe",
+      "title": "Tensions d’approvisionnement et contraction de l’offre de dattes Medjool pour Noël en Europe",
       "title_hash": "retards dx27approvisionnement baisse lx27offre dattes medjool noël europe",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
@@ -1215,7 +1252,7 @@
         "ISR",
         "JOR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tensions d&#x27;approvisionnement et contraction de l&#x27;offre de dattes Medjool pour Noël en Europe -- <span class=\"news-date\">28/10/2026 10:42</span></div><div class=\"news-body\">Les livraisons de dattes Medjool d&#x27;Israël, de Palestine et de Jordanie accusent un retard de trois à quatre semaines car les fruits n&#x27;ont pas atteint leur pleine maturité. Les premières estimations indiquent une baisse des volumes de 15 à 20 % pour la campagne actuelle vers l&#x27;Europe. <span class=\"news-reason\">Produit phare en saison, origine Israël, chiffres précis sur les pertes de volumes et les retards de campagne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9886854/weniger-medjool-angebot-fur-das-weihnachtsgeschaft-in-europa/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tensions d’approvisionnement et contraction de l’offre de dattes Medjool pour Noël en Europe -- <span class=\"news-date\">28/10/2026 10:42</span></div><div class=\"news-body\">Les livraisons de dattes Medjool d&#x27;Israël, de Palestine et de Jordanie accusent un retard de trois à quatre semaines car les fruits n&#x27;ont pas atteint leur pleine maturité. Les premières estimations indiquent une baisse des volumes de 15 à 20 % pour la campagne actuelle vers l&#x27;Europe. <span class=\"news-reason\">Produit phare en saison, origine Israël, chiffres précis sur les pertes de volumes et les retards de campagne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9886854/weniger-medjool-angebot-fur-das-weihnachtsgeschaft-in-europa/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Supply delays and lower Medjool date supply for Christmas in Europe -- <span class=\"news-date\">28/10/2026 10:42</span></div><div class=\"news-body\">Deliveries of Medjool dates from Israel, Palestine, and Jordan are experiencing a three-to-four-week delay as the fruit has not reached full maturity. Initial estimates indicate a 15 to 20% decrease in volumes for the current campaign to Europe. <span class=\"news-reason\">Seasonal flagship product, Israel origin, precise figures on volume losses and campaign delays.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9886854/weniger-medjool-angebot-fur-das-weihnachtsgeschaft-in-europa/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עיכובים באספקה וירידה בהיצע תמרי המג'הול לקראת חג המולד באירופה -- <span class=\"news-date\">28/10/2026 10:42</span></div><div class=\"news-body\">משלוחי תמרי המג'הול מישראל, פלסטין וירדן בעיכוב של שלושה עד ארבעה שבועות כיוון שהפירות לא הגיעו לבשילה מלאה. הערכות ראשוניות מצביעות על ירידה של 15 עד 20 אחוזים בהיקפים לעונה הנוכחית לאירופה. <span class=\"news-reason\">מוצר דגל בעונה, מקור ישראל, נתונים מדויקים על הפסדי היקפים ועיכובים בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9886854/weniger-medjool-angebot-fur-das-weihnachtsgeschaft-in-europa/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -1511,7 +1548,7 @@
     {
       "id": "1793167520_1",
       "timestamp": "2026-10-28T06:05:20.969472+00:00",
-      "title": "Innovation et promotion au service des clémentines de Calabre",
+      "title": "L’innovation et la promotion au service des clémentines de Calabre",
       "title_hash": "promotion innovation clémentines calabre",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
@@ -1521,7 +1558,7 @@
         "mandarine"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Innovation et promotion au service des clémentines de Calabre -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">Le Clementina Festival à Corigliano-Rossano a réuni les acteurs de la filière pour promouvoir les Clémentines de Calabre IGP. Les discussions ont porté sur l&#x27;innovation et les perspectives commerciales de la filière agrumicole dans la Piana di Sibari. <span class=\"news-reason\">Information sur la stratégie commerciale et l&#x27;innovation d&#x27;une origine concurrente en agrumes (clémentines) sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886899/custodire-la-tradizione-e-aprirsi-all-innovazione-per-crescere-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’innovation et la promotion au service des clémentines de Calabre -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">Le Clementina Festival à Corigliano-Rossano a réuni les acteurs de la filière pour promouvoir les Clémentines de Calabre IGP. Les discussions ont porté sur l&#x27;innovation et les perspectives commerciales de la filière agrumicole dans la Piana di Sibari. <span class=\"news-reason\">Information sur la stratégie commerciale et l&#x27;innovation d&#x27;une origine concurrente en agrumes (clémentines) sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886899/custodire-la-tradizione-e-aprirsi-all-innovazione-per-crescere-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Promotion and innovation for Calabrian clementines -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">The Clementina Festival in Corigliano-Rossano brought together industry players to promote Calabria PGI Clementines. Discussions focused on innovation and commercial prospects for the citrus industry in the Piana di Sibari. <span class=\"news-reason\">Information on the commercial strategy and innovation of a competing citrus origin (clementines) on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886899/custodire-la-tradizione-e-aprirsi-all-innovazione-per-crescere-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקור</div><div class=\"news-title\">קידום וחדשנות עבור קלמנטינות מקלבריה -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">פסטיבל הקלמנטינה בקוריליאנו-רוסאנו הפגיש את הגורמים בענף כדי לקדם את קלמנטינות קלבריה IGP. הדיונים התמקדו בחדשנות ובאופקים המסחריים של ענף ההדרים בפיאנה די סיבארי. <span class=\"news-reason\">מידע על האסטרטגיה המסחרית והחדשנות של מקור מתחרה בהדרים (קלמנטינות) בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886899/custodire-la-tradizione-e-aprirsi-all-innovazione-per-crescere-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -1875,7 +1912,7 @@
     {
       "id": "1793113608_1",
       "timestamp": "2026-10-27T15:06:48.415771+00:00",
-      "title": "Hausse de 10 à 15 % du prix des dattes Medjool palestiniennes",
+      "title": "Le prix des dattes Medjool palestiniennes en hausse de 10 à 15 %",
       "title_hash": "hausse 10 à 15 prix dattes medjool palestiniennes",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
@@ -1885,7 +1922,7 @@
         "date"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Hausse de 10 à 15 % du prix des dattes Medjool palestiniennes -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">La production de dattes Medjool palestiniennes est estimée à 35 000 tonnes pour cette saison. Les exportations ont débuté mi-octobre depuis Jéricho. Les producteurs et exportateurs prévoient une augmentation des prix de l&#x27;ordre de 10 à 15 % en raison de l&#x27;alourdissement des coûts logistiques et de production dans la filière. <span class=\"news-reason\">Info sur les volumes (35 000 t) et prix d&#x27;une origine concurrente directe sur un produit phare Mehadrin</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885603/la-produzione-di-datteri-medjool-palestinesi-e-stimata-a-35-000-tonnellate-in-questa-stagione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le prix des dattes Medjool palestiniennes en hausse de 10 à 15 % -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">La production de dattes Medjool palestiniennes est estimée à 35 000 tonnes pour cette saison. Les exportations ont débuté mi-octobre depuis Jéricho. Les producteurs et exportateurs prévoient une augmentation des prix de l&#x27;ordre de 10 à 15 % en raison de l&#x27;alourdissement des coûts logistiques et de production dans la filière. <span class=\"news-reason\">Info sur les volumes (35 000 t) et prix d&#x27;une origine concurrente directe sur un produit phare Mehadrin</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885603/la-produzione-di-datteri-medjool-palestinesi-e-stimata-a-35-000-tonnellate-in-questa-stagione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">10 to 15% increase in the price of Palestinian Medjool dates -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">Palestinian Medjool date production is estimated at 35,000 tons for this season. Exports began in mid-October from Jericho. Growers and exporters anticipate a price increase of 10 to 15% due to higher logistical and production costs in the industry. <span class=\"news-reason\">Info on volumes (35,000 t) and prices of a direct competing origin on a flagship Mehadrin product</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885603/la-produzione-di-datteri-medjool-palestinesi-e-stimata-a-35-000-tonnellate-in-questa-stagione/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">עלייה של 10% עד 15% במחיר תמרי המג&#x27;הול הפלסטיניים -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">ייצור תמרי המג&#x27;הול הפלסטיניים מוערך ב-35,000 טון לעונה זו. הייצוא החל באמצע אוקטובר מיריחו. המגדלים והיצואנים צופים עליית מחירים בשיעור של 10% עד 15% בשל התייקרות עלויות הלוגיסטיקה והייצור בענף. <span class=\"news-reason\">מידע על כמויות (35,000 טון) ומחירים של מקור מתחרה ישיר במוצר דגל של מהדרין</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885603/la-produzione-di-datteri-medjool-palestinesi-e-stimata-a-35-000-tonnellate-in-questa-stagione/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -2341,45 +2378,6 @@
         "summary_fr": "Les prix élevés et l'offre limitée marquent la saison actuelle des mangues fraîches"
       },
       "gemini_score": 5
-    },
-    {
-      "id": "1793043232_1",
-      "timestamp": "2026-10-26T19:33:52.762335+00:00",
-      "title": "Forte concurrence sur le marché européen pour les avocats marocains -- 26/10/2026 11:40",
-      "title_hash": "forte concurrence marché européen avocats marocains",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Forte concurrence sur le marché européen pour les avocats marocains -- <span class=\"news-date\">26/10/2026 11:40</span></div><div class=\"news-body\">La campagne marocaine d&#x27;avocats 2026/27 débute dans un contexte de tensions entre les opérateurs concernant les estimations de volumes de production. Une concurrence très vive est signalée sur le marché européen, particulièrement pour les variétés à peau lisse. Le secteur fait face à des désaccords internes sur la représentativité des acteurs alors que la pression commerciale s&#x27;intensifie pour cette nouvelle saison. <span class=\"news-reason\">Analyse de la campagne d&#x27;avocats au Maroc (origine clé) et des tensions sur les volumes en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9885092/forte-concurrence-sur-le-marche-europeen-pour-les-avocats-marocains-a-peau-lisse/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Strong competition on the European market for Moroccan avocados -- <span class=\"news-date\">26/10/2026 11:40</span></div><div class=\"news-body\">The 2026/27 Moroccan avocado campaign begins in a context of tensions between operators regarding production volume estimates. Very fierce competition is reported on the European market, particularly for smooth-skin varieties. The sector faces internal disagreements over the representativeness of stakeholders as commercial pressure intensifies for this new season. <span class=\"news-reason\">Analysis of the avocado campaign in Morocco (key origin) and tensions over volumes in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9885092/forte-concurrence-sur-le-marche-europeen-pour-les-avocats-marocains-a-peau-lisse/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">תחרות עזה בשוק האירופי על אבוקדו ממרוקו -- <span class=\"news-date\">26/10/2026 11:40</span></div><div class=\"news-body\">עונת האבוקדו במרוקו 2026/27 נפתחת בצל מתחים בין המפעילים בנוגע להערכות נפח הייצור. תחרות עזה מאוד מדווחת בשוק האירופי, במיוחד עבור זנים בעלי קליפה חלקה. הענף מתמודד עם חילוקי דעות פנימיים לגבי ייצוגיות השחקנים בעוד הלחץ המסחרי מתגבר לקראת העונה החדשה. <span class=\"news-reason\">ניתוח עונת האבוקדו במרוקו (מקור מפתח) והמתחים בנוגע לנפחים באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9885092/forte-concurrence-sur-le-marche-europeen-pour-les-avocats-marocains-a-peau-lisse/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>",
-      "rss_metadata": {
-        "id": "rss-6bed8f9ca938203b",
-        "title": "Forte concurrence sur le marché européen pour les avocats marocains à peau lisse",
-        "summary": "La campagne marocaine d'avocats 2026/27 s'est ouverte dans un climat de tension palpable, marquée par les habituelles divergences sur les estimations de volumes et les désaccords entre opérateurs quant à la représentativité des acteurs du secteur. À cela s'ajoute une concurrence particulièrement vive sur…",
-        "url": "https://www.freshplaza.fr/article/9885092/forte-concurrence-sur-le-marche-europeen-pour-les-avocats-marocains-a-peau-lisse/",
-        "source": "FreshPlaza FR",
-        "published_at": "2026-10-26T11:40:00+01:00",
-        "language": "fr",
-        "products": [
-          "avocat"
-        ],
-        "origins": [
-          "MAR"
-        ]
-      },
-      "attention_enrichment": {
-        "title_fr": "Forte concurrence pour les avocats de saison",
-        "summary_fr": "La campagne débute avec des tensions sur les estimations de volumes de production"
-      },
-      "gemini_score": 8
     }
   ],
   "article_count": 63,
@@ -2403,7 +2401,7 @@
         "orange",
         "pear"
       ],
-      "age_hours": 0
+      "age_hours": 1
     },
     {
       "id": "attention-448800bfb737e072",
@@ -2422,7 +2420,7 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 3
+      "age_hours": 4
     },
     {
       "id": "attention-6663c9e7bb921921",
@@ -2442,14 +2440,14 @@
         "lemon",
         "citrus_grapefruit"
       ],
-      "age_hours": 3
+      "age_hours": 4
     },
     {
       "id": "attention-9e95eaefa9b70bd7",
       "article_id": "1793291932_6",
       "url": "https://www.freshplaza.es/article/9887555/la-huelga-de-aguacateros-en-michoacan-reduce-a-casi-la-mitad-los-envios-previstos-a-estados-unidos/",
       "source": "FreshPlaza ES",
-      "title": "Baisse des volumes d'avocats mexicains vers les États-Unis",
+      "title": "Recul des volumes d'avocats mexicains vers les États-Unis",
       "summary": "Une grève pour les prix réduit de moitié les expéditions d'avocats",
       "origin_code": "MEX",
       "origin_label": "Mexique",
@@ -2461,7 +2459,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 3
+      "age_hours": 4
     }
   ]
 }
