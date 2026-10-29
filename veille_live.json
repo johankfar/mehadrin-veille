@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-29T07:37:04.624193+00:00",
+  "last_updated": "2026-10-29T09:05:45.109391+00:00",
   "article_count": 62,
   "attention_points": [
+    {
+      "id": "attention-32b146bf6d35efe9",
+      "article_id": "1793264745_0",
+      "url": "https://www.agrimaroc.ma/dattes-le-maroc-table-sur-environ-180-000-tonnes-pour-la-campagne-2026-2027/",
+      "source": "AgriMaroc",
+      "title": "Prévisions de production de dattes au Maroc",
+      "summary": "Le ministre de l’Agriculture du Maroc a annoncé une production prévisionnelle d'environ 180 000.",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-10-29T09:01:53+00:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "date"
+      ],
+      "age_hours": 0
+    },
     {
       "id": "attention-c68afd6fb79ece5a",
       "article_id": "1793259424_0",
@@ -18,25 +37,6 @@
       "icon": "volume",
       "products": [
         "avocat"
-      ],
-      "age_hours": 0
-    },
-    {
-      "id": "attention-18afd704125f11b4",
-      "article_id": "1793253971_1",
-      "url": "https://www.freshplaza.it/article/9887125/consumi-in-crescita-dell-8-8-per-cento-ma-occorre-ampliare-il-calendario-varietale/",
-      "source": "FreshPlaza IT",
-      "title": "La consommation de clémentines progresse de 8,8 %",
-      "summary": "La consommation de clementines chez Coop Italia affiche une progression de 8.",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
-      "published_at": "2026-10-29T06:05:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "mandarine"
       ],
       "age_hours": 2
     },
@@ -55,30 +55,47 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 2
+      "age_hours": 4
     },
     {
-      "id": "attention-6c0231715c6070ad",
-      "article_id": "1793205371_3",
-      "url": "https://www.freshplaza.es/article/9886970/las-lluvias-reducen-la-oferta-ecuatoriana-de-pitahaya-y-mango-en-plena-antesala-de-la-temporada-alta/",
+      "id": "attention-8d8bb4034e59d962",
+      "article_id": "1793200016_5",
+      "url": "https://www.freshplaza.es/article/9886397/el-pepino-mantiene-la-tendencia-a-la-baja-y-suben-los-precios-de-fresas-y-mango-en-el-retail-holandes/",
       "source": "FreshPlaza ES",
-      "title": "L'impact des précipitations sur l'offre de mangues",
-      "summary": "Les pluies intenses perturbent la production et la logistique des mangues pour l'exportation",
-      "origin_code": null,
-      "origin_label": null,
+      "title": "Augmentation des prix de la mangue au sein",
+      "summary": "Les tarifs de vente au détail progressent fortement pour les mangues en rayon",
+      "origin_code": "NLD",
+      "origin_label": "Pays-Bas",
       "published_at": "2026-10-28T15:43:00+01:00",
       "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
+      "signal_type": "price",
+      "signal_label": "Prix",
+      "icon": "price",
       "products": [
-        "mango",
-        "pitahaya"
+        "mango"
       ],
-      "age_hours": 16
+      "age_hours": 18
     }
   ],
   "articles": [
+    {
+      "id": "1793264745_0",
+      "timestamp": "2026-10-29T09:05:45.109391+00:00",
+      "title": "Prévisions de production de dattes au Maroc pour la campagne 2026-2027 -- 29/10/2026 09:01",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [
+        "date"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prévisions de production de dattes au Maroc pour la campagne 2026-2027 -- <span class=\"news-date\">29/10/2026 09:01</span></div><div class=\"news-body\">Le ministre de l’Agriculture du Maroc a annoncé une production prévisionnelle d&#x27;environ 180 000 tonnes de dattes pour la saison 2026-2027, contre 160 000 tonnes l&#x27;année précédente. Malgré cette hausse de l&#x27;offre locale, la consommation nationale reste supérieure à la production, se situant entre 220 000 et 250 000 tonnes. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur la production prévisionnelle de dattes au Maroc (180 000 tonnes), une origine et un produit stratégiques pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/dattes-le-maroc-table-sur-environ-180-000-tonnes-pour-la-campagne-2026-2027/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Date production forecasts in Morocco for the 2026-2027 campaign -- <span class=\"news-date\">29/10/2026 09:01</span></div><div class=\"news-body\">Morocco's Minister of Agriculture announced a forecast production of approximately 180,000 tons of dates for the 2026-2027 season, compared to 160,000 tons the previous year. Despite this increase in local supply, national consumption remains higher than production, ranging between 220,000 and 250,000 tons. <span class=\"news-reason\">The article provides precise figures on the forecast production of dates in Morocco (180,000 tons), a strategic origin and product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/dattes-le-maroc-table-sur-environ-180-000-tonnes-pour-la-campagne-2026-2027/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">תחזיות ייצור תמרים במרוקו לעונת 2026-2027 -- <span class=\"news-date\">29/10/2026 09:01</span></div><div class=\"news-body\">שר החקלאות של מרוקו הודיע על ייצור חזוי של כ-180,000 טונות תמרים לעונת 2026-2027, לעומת 160,000 טונות בשנה הקודמת. למרות העלייה בהיצע המקומי, הצריכה הלאומית נותרת גבוהה מהייצור, ועומדת על בין 220,000 ל-250,000 טונות. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על הייצור החזוי של תמרים במרוקו (180,000 טונות), מקור ומוצר אסטרטגיים עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/dattes-le-maroc-table-sur-environ-180-000-tonnes-pour-la-campagne-2026-2027/\" target=\"_blank\">AgriMaroc -- לקריאת המאמר</a></div></div>"
+    },
     {
       "id": "1793259424_1",
       "timestamp": "2026-10-29T07:37:04.624193+00:00",
@@ -131,7 +148,7 @@
     {
       "id": "1793253971_1",
       "timestamp": "2026-10-29T06:06:11.256514+00:00",
-      "title": "Coop Italia : la consommation de clémentines progresse de 8,8 %",
+      "title": "Coop Italia : la consommation de clémentines en hausse de 8,8 %",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -142,14 +159,14 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Coop Italia : la consommation de clémentines progresse de 8,8 % -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">La consommation de clementines chez Coop Italia affiche une progression de 8,8 %. Germano Fabiani souligne le dynamisme de ce segment et l opportunite commerciale liee a l extension du calendrier varietal pour prolonger la disponibilite des produits en rayon tout au long de la saison. <span class=\"news-reason\">Chiffres precis sur l evolution du marche et de la consommation d agrumes en Italie.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887125/consumi-in-crescita-dell-8-8-per-cento-ma-occorre-ampliare-il-calendario-varietale/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Coop Italia : la consommation de clémentines en hausse de 8,8 % -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">La consommation de clementines chez Coop Italia affiche une progression de 8,8 %. Germano Fabiani souligne le dynamisme de ce segment et l opportunite commerciale liee a l extension du calendrier varietal pour prolonger la disponibilite des produits en rayon tout au long de la saison. <span class=\"news-reason\">Chiffres precis sur l evolution du marche et de la consommation d agrumes en Italie.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887125/consumi-in-crescita-dell-8-8-per-cento-ma-occorre-ampliare-il-calendario-varietale/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Coop Italia records an 8.8% increase in clementine consumption -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">Clementine consumption at Coop Italia shows a growth of 8.8%. Germano Fabiani highlights the dynamism of this segment and the commercial opportunity linked to the extension of the varietal calendar to prolong product availability on shelves throughout the season. <span class=\"news-reason\">Precise figures on market trends and citrus consumption in Italy.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887125/consumi-in-crescita-dell-8-8-per-cento-ma-occorre-ampliare-il-calendario-varietale/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">Coop Italia רושמת עלייה של 8.8% בצריכת הקלמנטינות -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">צריכת הקלמנטינות ב-Coop Italia מציגה עלייה של 8.8%. ג'רמנו פביאני מדגיש את הדינמיות של סגמנט זה ואת ההזדמנות העסקית הקשורה להרחבת לוח הזמנים הזני כדי להאריך את זמינות המוצרים על המדפים לאורך כל העונה. <span class=\"news-reason\">נתונים מדויקים על התפתחות השוק וצריכת ההדרים באיטליה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887125/consumi-in-crescita-dell-8-8-per-cento-ma-occorre-ampliare-il-calendario-varietale/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1793205371_3",
       "timestamp": "2026-10-28T16:36:11.944099+00:00",
-      "title": "L&#x27;impact des précipitations sur l&#x27;offre de mangues et de pitayas en Équateur",
+      "title": "Impact de la pluviométrie sur l&#x27;offre de mangues et de pitayas en Équateur",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -159,7 +176,7 @@
         "pitahaya"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;impact des précipitations sur l&#x27;offre de mangues et de pitayas en Équateur -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">Les précipitations intenses en Équateur affectent actuellement la production et la logistique des fruits destinés à l&#x27;exportation. Julio César Calderón, de Mucha Fruits, souligne que ces conditions climatiques perturbent fortement les secteurs de la mangue et de la pitaya juste avant le début de la haute saison. <span class=\"news-reason\">Alerte sur la disponibilité future de produits Mehadrin (mangue, pitaya) chez une origine concurrente suite à des intempéries.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886970/las-lluvias-reducen-la-oferta-ecuatoriana-de-pitahaya-y-mango-en-plena-antesala-de-la-temporada-alta/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact de la pluviométrie sur l&#x27;offre de mangues et de pitayas en Équateur -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">Les précipitations intenses en Équateur affectent actuellement la production et la logistique des fruits destinés à l&#x27;exportation. Julio César Calderón, de Mucha Fruits, souligne que ces conditions climatiques perturbent fortement les secteurs de la mangue et de la pitaya juste avant le début de la haute saison. <span class=\"news-reason\">Alerte sur la disponibilité future de produits Mehadrin (mangue, pitaya) chez une origine concurrente suite à des intempéries.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886970/las-lluvias-reducen-la-oferta-ecuatoriana-de-pitahaya-y-mango-en-plena-antesala-de-la-temporada-alta/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Rainfall impacts mango and pitaya supply in Ecuador -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">Intense rainfall in Ecuador is currently affecting the production and logistics of fruit intended for export. Julio César Calderón, from Mucha Fruits, emphasizes that these weather conditions are heavily disrupting the mango and pitaya sectors just before the start of the peak season. <span class=\"news-reason\">Alert on the future availability of Mehadrin products (mango, pitaya) from a competing origin following bad weather.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886970/las-lluvias-reducen-la-oferta-ecuatoriana-de-pitahaya-y-mango-en-plena-antesala-de-la-temporada-alta/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">המשקעים משפיעים על היצע המנגו והפיטאיה באקוודור -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">משקעים עזים באקוודור משפיעים כעת על הייצור והלוגיסטיקה של פירות המיועדים ליצוא. חוליו סזאר קלדרון, מ-Mucha Fruits, מציין כי תנאי אקלים אלו משבשים קשות את מגזרי המנגו והפיטאיה ממש לפני תחילת עונת השיא. <span class=\"news-reason\">התראה על הזמינות העתידית של מוצרי מהדרין (מנגו, פיטאיה) ממקור מתחרה בעקבות פגעי מזג אוויר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886970/las-lluvias-reducen-la-oferta-ecuatoriana-de-pitahaya-y-mango-en-plena-antesala-de-la-temporada-alta/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -269,7 +286,7 @@
     {
       "id": "1793200016_5",
       "timestamp": "2026-10-28T15:06:56.882539+00:00",
-      "title": "Augmentation des prix de la mangue dans la grande distribution néerlandaise",
+      "title": "Augmentation des prix de la mangue au sein de la grande distribution néerlandaise",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -280,7 +297,7 @@
       "origins": [
         "NLD"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Augmentation des prix de la mangue dans la grande distribution néerlandaise -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">Au cours de la semaine 43, les prix de vente au détail aux Pays-Bas ont enregistré une augmentation notable. La mangue s&#x27;est renchérie en moyenne de 18 centimes pour s&#x27;établir à un prix moyen de 1,73 euro, reflétant des tensions sur l&#x27;offre disponible en rayon. <span class=\"news-reason\">Article contenant des chiffres de prix précis pour un produit Mehadrin sur un marché clé.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886397/el-pepino-mantiene-la-tendencia-a-la-baja-y-suben-los-precios-de-fresas-y-mango-en-el-retail-holandes/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Augmentation des prix de la mangue au sein de la grande distribution néerlandaise -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">Au cours de la semaine 43, les prix de vente au détail aux Pays-Bas ont enregistré une augmentation notable. La mangue s&#x27;est renchérie en moyenne de 18 centimes pour s&#x27;établir à un prix moyen de 1,73 euro, reflétant des tensions sur l&#x27;offre disponible en rayon. <span class=\"news-reason\">Article contenant des chiffres de prix précis pour un produit Mehadrin sur un marché clé.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886397/el-pepino-mantiene-la-tendencia-a-la-baja-y-suben-los-precios-de-fresas-y-mango-en-el-retail-holandes/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Rise in mango prices in Dutch retail -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">During week 43, retail sales prices in the Netherlands recorded a notable increase. Mangoes became more expensive by an average of 18 cents to reach an average price of 1.73 euros, reflecting tensions in the available shelf supply. <span class=\"news-reason\">Article containing precise price figures for a Mehadrin product in a key market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886397/el-pepino-mantiene-la-tendencia-a-la-baja-y-suben-los-precios-de-fresas-y-mango-en-el-retail-holandes/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עלייה במחירי המנגו ברשתות השיווק בהולנד -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">במהלך שבוע 43, מחירי המכירה הקמעונאיים בהולנד רשמו עלייה ניכרת. מחיר המנגו עלה בממוצע ב-18 סנט ונעמד על מחיר ממוצע של 1.73 אירו, מה שמשקף מתחים בהיצע הזמין על המדפים. <span class=\"news-reason\">כתבה הכוללת נתוני מחירים מדויקים עבור מוצר של מהדרין בשוק מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886397/el-pepino-mantiene-la-tendencia-a-la-baja-y-suben-los-precios-de-fresas-y-mango-en-el-retail-holandes/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -342,7 +359,7 @@
     {
       "id": "1793194586_5",
       "timestamp": "2026-10-28T13:36:26.664092+00:00",
-      "title": "Tensions sur l&#x27;approvisionnement et contraction de l&#x27;offre de dattes Medjool pour Noël en Europe",
+      "title": "Tensions d&#x27;approvisionnement et contraction de l&#x27;offre de dattes Medjool pour Noël en Europe",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica"
@@ -354,7 +371,7 @@
         "ISR",
         "JOR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tensions sur l&#x27;approvisionnement et contraction de l&#x27;offre de dattes Medjool pour Noël en Europe -- <span class=\"news-date\">28/10/2026 10:42</span></div><div class=\"news-body\">Les livraisons de dattes Medjool d&#x27;Israël, de Palestine et de Jordanie accusent un retard de trois à quatre semaines car les fruits n&#x27;ont pas atteint leur pleine maturité. Les premières estimations indiquent une baisse des volumes de 15 à 20 % pour la campagne actuelle vers l&#x27;Europe. <span class=\"news-reason\">Produit phare en saison, origine Israël, chiffres précis sur les pertes de volumes et les retards de campagne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9886854/weniger-medjool-angebot-fur-das-weihnachtsgeschaft-in-europa/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tensions d&#x27;approvisionnement et contraction de l&#x27;offre de dattes Medjool pour Noël en Europe -- <span class=\"news-date\">28/10/2026 10:42</span></div><div class=\"news-body\">Les livraisons de dattes Medjool d&#x27;Israël, de Palestine et de Jordanie accusent un retard de trois à quatre semaines car les fruits n&#x27;ont pas atteint leur pleine maturité. Les premières estimations indiquent une baisse des volumes de 15 à 20 % pour la campagne actuelle vers l&#x27;Europe. <span class=\"news-reason\">Produit phare en saison, origine Israël, chiffres précis sur les pertes de volumes et les retards de campagne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9886854/weniger-medjool-angebot-fur-das-weihnachtsgeschaft-in-europa/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Supply delays and lower Medjool date supply for Christmas in Europe -- <span class=\"news-date\">28/10/2026 10:42</span></div><div class=\"news-body\">Deliveries of Medjool dates from Israel, Palestine, and Jordan are experiencing a three-to-four-week delay as the fruit has not reached full maturity. Initial estimates indicate a 15 to 20% decrease in volumes for the current campaign to Europe. <span class=\"news-reason\">Seasonal flagship product, Israel origin, precise figures on volume losses and campaign delays.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9886854/weniger-medjool-angebot-fur-das-weihnachtsgeschaft-in-europa/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עיכובים באספקה וירידה בהיצע תמרי המג'הול לקראת חג המולד באירופה -- <span class=\"news-date\">28/10/2026 10:42</span></div><div class=\"news-body\">משלוחי תמרי המג'הול מישראל, פלסטין וירדן בעיכוב של שלושה עד ארבעה שבועות כיוון שהפירות לא הגיעו לבשילה מלאה. הערכות ראשוניות מצביעות על ירידה של 15 עד 20 אחוזים בהיקפים לעונה הנוכחית לאירופה. <span class=\"news-reason\">מוצר דגל בעונה, מקור ישראל, נתונים מדויקים על הפסדי היקפים ועיכובים בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9886854/weniger-medjool-angebot-fur-das-weihnachtsgeschaft-in-europa/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -469,7 +486,7 @@
     {
       "id": "1793167520_2",
       "timestamp": "2026-10-28T06:05:20.969472+00:00",
-      "title": "La demande européenne de grenades indiennes s’affranchit de la saisonnalité",
+      "title": "La demande européenne pour les grenades indiennes s’affranchit de la saisonnalité",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -481,7 +498,7 @@
         "ESP",
         "IND"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La demande européenne de grenades indiennes s’affranchit de la saisonnalité -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">Les acheteurs européens maintiennent leurs commandes d&#x27;arilles de grenades indiennes même pendant la saison espagnole. Prashant Indalkar de Sam Agritech note un changement de comportement du marché, la demande devenant moins dépendante des cycles de production locaux. <span class=\"news-reason\">Analyse de la concurrence sur la grenade (produit Mehadrin) montrant une évolution de la demande européenne au profit de l&#x27;origine Inde.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885990/la-demanda-europea-de-arilos-de-granada-india-muestra-senales-de-volverse-menos-estacional/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La demande européenne pour les grenades indiennes s’affranchit de la saisonnalité -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">Les acheteurs européens maintiennent leurs commandes d&#x27;arilles de grenades indiennes même pendant la saison espagnole. Prashant Indalkar de Sam Agritech note un changement de comportement du marché, la demande devenant moins dépendante des cycles de production locaux. <span class=\"news-reason\">Analyse de la concurrence sur la grenade (produit Mehadrin) montrant une évolution de la demande européenne au profit de l&#x27;origine Inde.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885990/la-demanda-europea-de-arilos-de-granada-india-muestra-senales-de-volverse-menos-estacional/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">European demand for Indian pomegranates breaks free from seasonality -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">European buyers are maintaining their orders for Indian pomegranate arils even during the Spanish season. Prashant Indalkar of Sam Agritech notes a shift in market behavior, with demand becoming less dependent on local production cycles. <span class=\"news-reason\">Analysis of competition in pomegranates (Mehadrin product) showing an evolution in European demand in favor of India.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885990/la-demanda-europea-de-arilos-de-granada-india-muestra-senales-de-volverse-moins-estacional/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקור</div><div class=\"news-title\">הביקוש האירופי לרימונים הודים משתחרר מהעונתיות -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">הקונים האירופאים ממשיכים להזמין גרגרי רימון מהודו גם במהלך העונה הספרדית. פראשנט אינדלקאר מחברת Sam Agritech מציין שינוי בהתנהגות השוק, כאשר הביקוש הופך לפחות תלוי במחזורי הייצור המקומיים. <span class=\"news-reason\">ניתוח התחרות בתחום הרימונים (מוצר של מהדרין) המראה שינוי בביקוש האירופי לטובת המקור ההודי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885990/la-demanda-europea-de-arilos-de-granada-india-muestra-senales-de-volverse-moins-estacional/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -641,7 +658,7 @@
     {
       "id": "1793113608_2",
       "timestamp": "2026-10-27T15:06:48.415771+00:00",
-      "title": "Enjeux de compétitivité de la filière chilienne des agrumes",
+      "title": "Les enjeux de compétitivité de la filière chilienne des agrumes",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -650,7 +667,7 @@
       "origins": [
         "CHL"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Enjeux de compétitivité de la filière chilienne des agrumes -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">La compétitivité des exportations chiliennes d&#x27;agrumes pour les saisons à venir dépendra de la qualité des fruits et du contrôle sanitaire. L&#x27;innovation variétale est jugée essentielle par les experts locaux pour maintenir le positionnement du Chili sur les marchés internationaux face à la concurrence croissante. <span class=\"news-reason\">Analyse strategique d&#x27;une origine concurrente (Chili) sur les agrumes</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886721/calidad-variedades-y-sanidad-definiran-la-competitividad-citricola-chilena/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Les enjeux de compétitivité de la filière chilienne des agrumes -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">La compétitivité des exportations chiliennes d&#x27;agrumes pour les saisons à venir dépendra de la qualité des fruits et du contrôle sanitaire. L&#x27;innovation variétale est jugée essentielle par les experts locaux pour maintenir le positionnement du Chili sur les marchés internationaux face à la concurrence croissante. <span class=\"news-reason\">Analyse strategique d&#x27;une origine concurrente (Chili) sur les agrumes</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886721/calidad-variedades-y-sanidad-definiran-la-competitividad-citricola-chilena/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Competitiveness challenges for the Chilean citrus industry -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">The competitiveness of Chilean citrus exports for upcoming seasons will depend on fruit quality and phytosanitary control. Varietal innovation is considered essential by local experts to maintain Chile&#x27;s positioning in international markets in the face of growing competition. <span class=\"news-reason\">Strategic analysis of a competing origin (Chile) on citrus</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886721/calidad-variedades-y-sanidad-definiran-la-competitividad-citricola-chilena/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">אתגרי התחרותיות של תעשיית ההדרים הצ&#x27;יליאנית -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">התחרותיות של יצוא ההדרים מצ&#x27;ילה בעונות הבאות תלויה באיכות הפרי ובבקרה התברואתית. חדשנות זנית נחשבת לחיונית על ידי מומחים מקומיים כדי לשמור על מיקומה של צ&#x27;ילה בשווקים הבינלאומיים מול התחרות הגוברת. <span class=\"news-reason\">ניתוח אסטרטגי של מקור מתחרה (צ&#x27;ילה) בתחום ההדרים</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886721/calidad-variedades-y-sanidad-definiran-la-competitividad-citricola-chilena/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -839,7 +856,7 @@
     {
       "id": "1793080999_2",
       "timestamp": "2026-10-27T06:03:19.209245+00:00",
-      "title": "Le Pérou intensifie ses exportations d’avocats vers l’Europe",
+      "title": "Le Pérou intensifie ses exportations d&#x27;avocats vers l&#x27;Europe",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -850,7 +867,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Pérou intensifie ses exportations d’avocats vers l’Europe -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">Selon les données de la période de janvier à août 2026, le Pérou renforce sa présence sur les marchés mondiaux. L&#x27;avocat figure parmi les produits dont les exportations sont en croissance. L&#x27;Europe demeure le marché stratégique prioritaire pour ces expéditions de fruits frais péruviens. <span class=\"news-reason\">L&#x27;article traite de la croissance des exportations d&#x27;avocats du Pérou vers le marché stratégique européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886512/avocado-uva-e-mirtilli-in-crescita-europa-mercato-strategico-per-il-peru/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Pérou intensifie ses exportations d&#x27;avocats vers l&#x27;Europe -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">Selon les données de la période de janvier à août 2026, le Pérou renforce sa présence sur les marchés mondiaux. L&#x27;avocat figure parmi les produits dont les exportations sont en croissance. L&#x27;Europe demeure le marché stratégique prioritaire pour ces expéditions de fruits frais péruviens. <span class=\"news-reason\">L&#x27;article traite de la croissance des exportations d&#x27;avocats du Pérou vers le marché stratégique européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886512/avocado-uva-e-mirtilli-in-crescita-europa-mercato-strategico-per-il-peru/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Peru intensifies its avocado exports to Europe -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">According to data from the period from January to August 2026, Peru is strengthening its presence in global markets. Avocado is among the products whose exports are growing. Europe remains the priority strategic market for these Peruvian fresh fruit shipments. <span class=\"news-reason\">The article deals with the growth of avocado exports from Peru to the strategic European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886512/avocado-uva-e-mirtilli-in-crescita-europa-mercato-strategico-per-il-peru/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות בין מקורות</div><div class=\"news-title\">פרו מגבירה את ייצוא האבוקדו לאירופה -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">על פי נתונים מהתקופה שבין ינואר לאוגוסט 2026, פרו מחזקת את נוכחותה בשווקים העולמיים. האבוקדו נמנה עם המוצרים שייצואם נמצא בצמיחה. אירופה נותרת השוק האסטרטגי המועדף עבור משלוחי פירות טריים אלו מפרו. <span class=\"news-reason\">המאמר עוסק בצמיחת ייצוא האבוקדו מפרו לעבר השוק האירופי האסטרטגי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886512/avocado-uva-e-mirtilli-in-crescita-europa-mercato-strategico-per-il-peru/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -1090,7 +1107,7 @@
     {
       "id": "1793010883_2",
       "timestamp": "2026-10-26T10:34:43.588350+00:00",
-      "title": "Les exportateurs mexicains d&#x27;avocats se mobilisent pour le marché américain",
+      "title": "Mobilisation des exportateurs mexicains d&#x27;avocats pour le marché américain",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -1102,7 +1119,7 @@
         "MEX",
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Les exportateurs mexicains d&#x27;avocats se mobilisent pour le marché américain -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">L&#x27;Association des producteurs et exportateurs d&#x27;avocats de l&#x27;État du Mexique (APEAMEX) indique avoir rempli toutes les conditions techniques pour exporter vers les États-Unis. Le début effectif des expéditions dépend désormais uniquement de la finalisation d&#x27;une procédure administrative interne aux autorités américaines. <span class=\"news-reason\">Information sur l&#x27;accès au marché d&#x27;une origine concurrente majeure pour l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885204/se-domani-dovessero-darci-il-via-libera-potremmo-cominciare-a-spedire-subito/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Mobilisation des exportateurs mexicains d&#x27;avocats pour le marché américain -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">L&#x27;Association des producteurs et exportateurs d&#x27;avocats de l&#x27;État du Mexique (APEAMEX) indique avoir rempli toutes les conditions techniques pour exporter vers les États-Unis. Le début effectif des expéditions dépend désormais uniquement de la finalisation d&#x27;une procédure administrative interne aux autorités américaines. <span class=\"news-reason\">Information sur l&#x27;accès au marché d&#x27;une origine concurrente majeure pour l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885204/se-domani-dovessero-darci-il-via-libera-potremmo-cominciare-a-spedire-subito/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Mexican avocado exporters ready for the US market -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">The Association of Avocado Producers and Exporters of the State of Mexico (APEAMEX) indicates it has met all technical requirements to export to the United States. The actual start of shipments now depends solely on the completion of an internal administrative procedure by US authorities. <span class=\"news-reason\">Information on market access for a major competing avocado origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885204/se-domani-dovessero-darci-il-via-libera-potremmo-cominciare-a-spedire-subito/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">יצואני אבוקדו מקסיקנים מוכנים לשוק האמריקאי -- <span class=\"news-date\">26/10/2026 06:00</span></div><div class=\"news-body\">איגוד המגדלים והיצואנים של אבוקדו ממדינת מקסיקו (APEAMEX) מציין כי מילא את כל התנאים הטכניים לייצוא לארצות הברית. תחילת המשלוחים בפועל תלויה כעת אך ורק בהשלמת הליך מנהלי פנימי של הרשויות האמריקאיות. <span class=\"news-reason\">מידע על הגישה לשוק של מקור מתחרה מרכזי עבור אבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885204/se-domani-dovessero-darci-il-via-libera-potremmo-cominciare-a-spedire-subito/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -1142,25 +1159,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Fin de la campagne des avocats à peau verte et lancement de la saison du Hass israélien -- <span class=\"news-date\">26/10/2026 10:36</span></div><div class=\"news-body\">La saison des avocats Hass du Chili et d&#x27;Israël commence avec des niveaux de prix élevés. En Israël, l&#x27;offre actuelle se concentre sur les petits calibres et les Baby Hass, mais une augmentation des volumes dans toutes les tailles est attendue prochainement. Parallèlement, la saison des avocats à peau verte se termine sur des prix records. <span class=\"news-reason\">Information directe sur le début de la campagne Hass en Israël avec détails sur les calibres et les prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9885572/greenskin-avocadosaison-mit-beispiellos-hohen-preisen-abgeschlossen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">End of season for green-skinned avocados and launch of Israeli Hass -- <span class=\"news-date\">26/10/2026 10:36</span></div><div class=\"news-body\">The Hass avocado season from Chile and Israel is starting with high price levels. In Israel, the current supply focuses on small sizes and Baby Hass, but an increase in volumes across all sizes is expected soon. Meanwhile, the green-skinned avocado season is ending with record prices. <span class=\"news-reason\">Direct information on the start of the Hass season in Israel with details on sizes and prices.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9885572/greenskin-avocadosaison-mit-beispiellos-hohen-preisen-abgeschlossen/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיום עונת אבוקדו קליפה ירוקה ותחילת עונת ההאס הישראלי -- <span class=\"news-date\">26/10/2026 10:36</span></div><div class=\"news-body\">עונת אבוקדו ההאס מצ'ילה ומישראל מתחילה עם רמות מחירים גבוהות. בישראל, ההיצע הנוכחי מתמקד בגדלים קטנים ובבייבי האס, אך צפויה עלייה בכמויות בכל הגדלים בקרוב. במקביל, עונת אבוקדו הקליפה הירוקה מסתיימת במחירי שיא. <span class=\"news-reason\">מידע ישיר על תחילת עונת ההאס בישראל עם פרטים על הגדלים והמחירים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9885572/greenskin-avocadosaison-mit-beispiellos-hohen-preisen-abgeschlossen/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793005402_0",
-      "timestamp": "2026-10-26T09:03:22.386488+00:00",
-      "title": "Trops décuple ses capacités de transformation industrielle pour l&#x27;avocat et la mangue -- 26/10/2026 08:47",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat",
-        "mango"
-      ],
-      "origins": [
-        "ESP"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Trops décuple ses capacités de transformation industrielle pour l&#x27;avocat et la mangue -- <span class=\"news-date\">26/10/2026 08:47</span></div><div class=\"news-body\">La coopérative espagnole Trops a annoncé une multiplication par dix de sa capacité de transformation pour l&#x27;avocat et la mangue. Ce saut industriel passe par le développement de nouvelles installations dédiées aux produits de IVème et Vème gamme, incluant le transformé et le surgelé. Cet investissement vise à répondre plus efficacement aux nouvelles attentes des consommateurs européens. <span class=\"news-reason\">Expansion industrielle majeure d&#x27;un concurrent clé en Espagne sur l&#x27;avocat et la mangue.</span></div><div class=\"news-source\"><a href=\"https://revistamercados.com/trops-multiplicara-por-diez-su-capacidad-de-procesado-en-aguacate-y-mango/\" target=\"_blank\">Revista Mercados -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Trops increases its industrial processing capacity tenfold for avocado and mango -- <span class=\"news-date\">26/10/2026 08:47</span></div><div class=\"news-body\">The Spanish cooperative Trops has announced a tenfold increase in its processing capacity for avocado and mango. This industrial leap involves the development of new facilities dedicated to 4th and 5th range products, including processed and frozen products. This investment aims to respond more effectively to the new expectations of European consumers. <span class=\"news-reason\">Major industrial expansion of a key competitor in Spain for avocado and mango.</span></div><div class=\"news-source\"><a href=\"https://revistamercados.com/trops-multiplicara-por-diez-su-capacidad-de-procesado-en-aguacate-y-mango/\" target=\"_blank\">Revista Mercados -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תנועות ברשתות שיווק</div><div class=\"news-title\">Trops מגדילה פי עשרה את יכולות העיבוד התעשייתי שלה עבור אבוקדו ומנגו -- <span class=\"news-date\">26/10/2026 08:47</span></div><div class=\"news-body\">הקואופרטיב הספרדי Trops הודיע על הגדלת כושר העיבוד שלו עבור אבוקדו ומנגו פי עשרה. קפיצת מדרגה תעשייתית זו מתבצעת באמצעות פיתוח מתקנים חדשים המוקדשים למוצרי הדור הרביעי והחמישי (IV ו-V), הכוללים מוצרים מעובדים וקפואים. השקעה זו נועדה לתת מענה יעיל יותר לציפיות החדשות של הצרכנים באירופה. <span class=\"news-reason\">התרחבות תעשייתית משמעותית של מתחרה מרכזי בספרד בתחומי האבוקדו והמנגו.</span></div><div class=\"news-source\"><a href=\"https://revistamercados.com/trops-multiplicara-por-diez-su-capacidad-de-procesado-en-aguacate-y-mango/\" target=\"_blank\">Revista Mercados -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
