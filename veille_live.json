@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-30T18:06:41.620539+00:00",
-  "article_count": 57,
+  "last_updated": "2026-10-30T19:37:03.847754+00:00",
+  "article_count": 59,
   "attention_points": [
+    {
+      "id": "attention-bb3731e69aac77e8",
+      "article_id": "1793389023_0",
+      "url": "https://agrodataperu.com/2026/10/mandarina-peru-exportacion-2026-septiembre.html",
+      "source": "Agrodata Perú",
+      "title": "Exportations de mandarines du Pérou en septembre 2026",
+      "summary": "Les rapports sur les volumes exportés de mandarines sont officiellement publiés",
+      "origin_code": "PER",
+      "origin_label": "Pérou",
+      "published_at": "2026-10-30T18:28:36+00:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "volume",
+      "products": [
+        "mandarine"
+      ],
+      "age_hours": 1
+    },
     {
       "id": "attention-0bb4eb0163b2cb12",
       "article_id": "1793372878_1",
@@ -19,7 +38,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 3
+      "age_hours": 5
     },
     {
       "id": "attention-74af3b15e0064e37",
@@ -39,7 +58,7 @@
         "avocat",
         "orange"
       ],
-      "age_hours": 3
+      "age_hours": 5
     },
     {
       "id": "attention-d9e8c363da8aee54",
@@ -56,29 +75,63 @@
       "signal_label": "Alerte",
       "icon": "alert",
       "products": [],
-      "age_hours": 5
-    },
-    {
-      "id": "attention-73d53a2cab5162d6",
-      "article_id": "1793351264_0",
-      "url": "https://east-fruit.com/en/trending/up-to-60-of-georgia%e2%80%99s-mandarin-crop-may-fail-to-meet-market-standards/",
-      "source": "EastFruit",
-      "title": "Dégradation de la qualité des mandarines en Géorgie",
-      "summary": "La météo réduit fortement les volumes de mandarines géorgiennes répondant aux critères du marché",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-10-30T08:16:04+00:00",
-      "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [
-        "mandarine"
-      ],
-      "age_hours": 9
+      "age_hours": 7
     }
   ],
   "articles": [
+    {
+      "id": "1793389023_2",
+      "timestamp": "2026-10-30T19:37:03.847754+00:00",
+      "title": "Expansion européenne de la mandarine Halloweena pour sa quatrième saison -- 29/10/2026 15:55",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Expansion européenne de la mandarine Halloweena pour sa quatrième saison -- <span class=\"news-date\">29/10/2026 15:55</span></div><div class=\"news-body\">La mandarine Halloweena, produite par le groupe AMFRESH, entame sa quatrième saison avec une distribution élargie. Au Royaume-Uni, elle est désormais disponible dans les enseignes M&amp;S et Tesco. Elle fait également son entrée sur le marché danois via un détaillant en ligne. Le développement est soutenu par de nouveaux formats d&#x27;emballage et des promotions saisonnières. <span class=\"news-reason\">Concerne la distribution d&#x27;une variété de mandarine (produit Mehadrin) sur les marchés du Royaume-Uni et du Danemark.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/29/halloweena-2026/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">European expansion of the Halloweena mandarin for its fourth season -- <span class=\"news-date\">29/10/2026 15:55</span></div><div class=\"news-body\">The Halloweena mandarin, produced by the AMFRESH group, begins its fourth season with expanded distribution. In the UK, it is now available in M&amp;S and Tesco stores. It is also entering the Danish market via an online retailer. The development is supported by new packaging formats and seasonal promotions. <span class=\"news-reason\">Relates to the distribution of a mandarin variety (Mehadrin product) in the UK and Danish markets.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/29/halloweena-2026/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות ברשתות השיווק</div><div class=\"news-title\">התרחבות אירופית של מנדרינת Halloweena לעונתה הרביעית -- <span class=\"news-date\">29/10/2026 15:55</span></div><div class=\"news-body\">מנדרינת Halloweena, המיוצרת על ידי קבוצת AMFRESH, מתחילה את העונה הרביעית שלה עם הפצה מורחבת. בבריטניה, היא זמינה כעת ברשתות M&amp;S ו-Tesco. היא נכנסת גם לשוק הדני דרך קמעונאי מקוון. הפיתוח נתמך על ידי פורמטי אריזה חדשים ומבצעים עונתיים. <span class=\"news-reason\">נוגע להפצה של זן מנדרינה (מוצר מהדרין) בשווקי בריטניה ודנמרק.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/29/halloweena-2026/\" target=\"_blank\">Fresh Fruit Portal -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793389023_1",
+      "timestamp": "2026-10-30T19:37:03.847754+00:00",
+      "title": "Expansion de la mandarine Halloweena au sein de la distribution européenne -- 30/10/2026 10:27",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "DEU",
+        "NLD"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Expansion de la mandarine Halloweena au sein de la distribution européenne -- <span class=\"news-date\">30/10/2026 10:27</span></div><div class=\"news-body\">Pour sa quatrième saison, la mandarine Halloweena renforce sa distribution en Europe. Elle est disponible au Royaume-Uni via M&amp;S et Tesco, en Allemagne chez Kaufland, au Danemark sur nemlig.com et aux Pays-Bas via Picnic. <span class=\"news-reason\">Nouveaux débouchés commerciaux et partenariats avec des enseignes majeures en Europe pour un produit Mehadrin (mandarine).</span></div><div class=\"news-source\"><a href=\"https://www.fruchthandel.de/news/halloweenatm-neue-maerkte-formate-und-wachstumschancen\" target=\"_blank\">Fruchthandel -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Expansion of the Halloweena mandarin within European distribution -- <span class=\"news-date\">30/10/2026 10:27</span></div><div class=\"news-body\">For its fourth season, the Halloweena mandarin is strengthening its distribution in Europe. It is available in the UK via M&amp;S and Tesco, in Germany at Kaufland, in Denmark on nemlig.com and in the Netherlands via Picnic. <span class=\"news-reason\">New commercial outlets and partnerships with major retailers in Europe for a Mehadrin product (mandarin).</span></div><div class=\"news-source\"><a href=\"https://www.fruchthandel.de/news/halloweenatm-neue-maerkte-formate-und-wachstumschancen\" target=\"_blank\">Fruchthandel -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות ברשתות השיווק</div><div class=\"news-title\">התרחבות מנדרינת Halloweena בתוך רשתות ההפצה האירופיות -- <span class=\"news-date\">30/10/2026 10:27</span></div><div class=\"news-body\">לקראת העונה הרביעית שלה, מנדרינת Halloweena מחזקת את ההפצה שלה באירופה. היא זמינה בבריטניה דרך M&amp;S ו-Tesco, בגרמניה ב-Kaufland, בדנמרק באתר nemlig.com ובהולנד דרך Picnic. <span class=\"news-reason\">שווקים מסחריים חדשים ושותפויות עם רשתות שיווק מרכזיות באירופה עבור מוצר מהדרין (מנדרינה).</span></div><div class=\"news-source\"><a href=\"https://www.fruchthandel.de/news/halloweenatm-neue-maerkte-formate-und-wachstumschancen\" target=\"_blank\">Fruchthandel -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793389023_0",
+      "timestamp": "2026-10-30T19:37:03.847754+00:00",
+      "title": "Exportations de mandarines du Pérou en septembre 2026 -- 30/10/2026 18:28",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "PER"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Exportations de mandarines du Pérou en septembre 2026 -- <span class=\"news-date\">30/10/2026 18:28</span></div><div class=\"news-body\">Le portail Agrodata Perú a publié les données relatives aux exportations de mandarines pour le mois de septembre 2026, fournissant un suivi des performances d&#x27;expédition du pays. <span class=\"news-reason\">Rapport statistique sur les volumes d&#x27;exportation d&#x27;un produit Mehadrin (mandarine) depuis une origine clé (Pérou).</span></div><div class=\"news-source\"><a href=\"https://agrodataperu.com/2026/10/mandarina-peru-exportacion-2026-septiembre.html\" target=\"_blank\">Agrodata Perú -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Peru mandarin exports in September 2026 -- <span class=\"news-date\">30/10/2026 18:28</span></div><div class=\"news-body\">The Agrodata Perú portal has published mandarin export data for September 2026, providing a tracking of the country&#x27;s shipping performance. <span class=\"news-reason\">Statistical report on export volumes of a Mehadrin product (mandarin) from a key origin (Peru).</span></div><div class=\"news-source\"><a href=\"https://agrodataperu.com/2026/10/mandarina-peru-exportacion-2026-septiembre.html\" target=\"_blank\">Agrodata Perú -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ייצוא מנדרינות מפרו בספטמבר 2026 -- <span class=\"news-date\">30/10/2026 18:28</span></div><div class=\"news-body\">פורטל Agrodata Perú פרסם את הנתונים הנוגעים לייצוא מנדרינות לחודש ספטמבר 2026, ומספק מעקב אחר ביצועי המשלוחים של המדינה. <span class=\"news-reason\">דו\"ח סטטיסטי על כמויות הייצוא של מוצר מהדרין (מנדרינה) ממקור מרכזי (פרו).</span></div><div class=\"news-source\"><a href=\"https://agrodataperu.com/2026/10/mandarina-peru-exportacion-2026-septiembre.html\" target=\"_blank\">Agrodata Perú -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1793383601_1",
       "timestamp": "2026-10-30T18:06:41.620539+00:00",
@@ -403,7 +456,7 @@
     {
       "id": "1793291932_6",
       "timestamp": "2026-10-29T16:38:52.418362+00:00",
-      "title": "Recul des volumes d&#x27;avocats mexicains vers les États-Unis suite à une grève",
+      "title": "Baisse des volumes d&#x27;avocats mexicains vers les États-Unis suite à une grève",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -415,7 +468,7 @@
         "MEX",
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul des volumes d&#x27;avocats mexicains vers les États-Unis suite à une grève -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">Une grève déclenchée par l&#x27;Union des petits producteurs du Michoacán (PUAM) au Mexique paralyse près de la moitié des expéditions d&#x27;avocats prévues vers les États-Unis. Les producteurs exigent un prix de 45 pesos par kilo, alors qu&#x27;ils n&#x27;en reçoivent actuellement que 13 de la part des entreprises exportatrices et des empacadoras. <span class=\"news-reason\">Article contenant des chiffres précis sur les prix et les volumes d&#x27;un produit Mehadrin (avocat) sur un marché majeur (USA).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887555/la-huelga-de-aguacateros-en-michoacan-reduce-a-casi-la-mitad-los-envios-previstos-a-estados-unidos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse des volumes d&#x27;avocats mexicains vers les États-Unis suite à une grève -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">Une grève déclenchée par l&#x27;Union des petits producteurs du Michoacán (PUAM) au Mexique paralyse près de la moitié des expéditions d&#x27;avocats prévues vers les États-Unis. Les producteurs exigent un prix de 45 pesos par kilo, alors qu&#x27;ils n&#x27;en reçoivent actuellement que 13 de la part des entreprises exportatrices et des empacadoras. <span class=\"news-reason\">Article contenant des chiffres précis sur les prix et les volumes d&#x27;un produit Mehadrin (avocat) sur un marché majeur (USA).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887555/la-huelga-de-aguacateros-en-michoacan-reduce-a-casi-la-mitad-los-envios-previstos-a-estados-unidos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decrease in Mexican avocado volumes to the United States following strike -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">A strike launched by the Union of Small Producers of Michoacán (PUAM) in Mexico is paralyzing nearly half of the planned avocado shipments to the United States. Producers are demanding a price of 45 pesos per kilo, while they currently receive only 13 from exporting companies and packers. <span class=\"news-reason\">Article containing specific figures on prices and volumes for a Mehadrin product (avocado) in a major market (USA).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887555/la-huelga-de-aguacateros-en-michoacan-reduce-a-casi-la-mitad-los-envios-previstos-a-estados-unidos/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה בכמויות האבוקדו המקסיקני לארצות הברית בעקבות שביתה -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">שביתה שהחלה על ידי איגוד היצרנים הקטנים של מיצ'ואקן (PUAM) במקסיקו משתקת כמעט מחצית ממשלוחי האבוקדו המתוכננים לארצות הברית. היצרנים דורשים מחיר של 45 פסו לקילוגרם, בעוד שהם מקבלים כיום רק 13 מהחברות המייצאות ומבתי האריזה. <span class=\"news-reason\">כתבה הכוללת נתונים מדויקים על מחירים וכמויות של מוצר מהדרין (אבוקדו) בשוק מרכזי (ארה\"ב).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887555/la-huelga-de-aguacateros-en-michoacan-reduce-a-casi-la-mitad-los-envios-previstos-a-estados-unidos/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -438,7 +491,7 @@
     {
       "id": "1793291932_4",
       "timestamp": "2026-10-29T16:38:52.418362+00:00",
-      "title": "La Turquie accentue la pression sur les cours du pomélo espagnol",
+      "title": "La Turquie intensifie la pression sur les cours du pomélo espagnol",
       "category": "PRIX &amp VOLUMES",
       "commercials": [],
       "products": [
@@ -449,7 +502,7 @@
         "ESP",
         "TUR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La Turquie accentue la pression sur les cours du pomélo espagnol -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">La campagne espagnole de pomélo et de citron subit la concurrence croissante de la Turquie sur le marché européen. La Turquie dispose d&#x27;une récolte plus importante cette année et pratique des prix bas. L&#x27;augmentation de la disponibilité des produits turcs crée une pression sur les cotations espagnoles alors que la saison européenne prend forme. <span class=\"news-reason\">Contient des informations sur la concurrence entre deux origines Mehadrin (Espagne et Turquie) avec un impact direct sur les prix en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887589/parece-que-esta-campana-vamos-a-tener-una-mayor-presion-de-turquia-en-los-precios-del-limon-y-el-pomelo/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La Turquie intensifie la pression sur les cours du pomélo espagnol -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">La campagne espagnole de pomélo et de citron subit la concurrence croissante de la Turquie sur le marché européen. La Turquie dispose d&#x27;une récolte plus importante cette année et pratique des prix bas. L&#x27;augmentation de la disponibilité des produits turcs crée une pression sur les cotations espagnoles alors que la saison européenne prend forme. <span class=\"news-reason\">Contient des informations sur la concurrence entre deux origines Mehadrin (Espagne et Turquie) avec un impact direct sur les prix en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887589/parece-que-esta-campana-vamos-a-tener-una-mayor-presion-de-turquia-en-los-precios-del-limon-y-el-pomelo/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Turkey increases price pressure on Spanish pomelo -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">The Spanish pomelo and lemon season is facing growing competition from Turkey in the European market. Turkey has a larger harvest this year and is offering low prices. The increased availability of Turkish products is creating pressure on Spanish quotes as the European season takes shape. <span class=\"news-reason\">Contains information on competition between two Mehadrin origins (Spain and Turkey) with a direct impact on prices in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887589/parece-que-esta-campana-vamos-a-tener-una-mayor-presion-de-turquia-en-los-precios-del-limon-y-el-pomelo/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">טורקיה מגבירה את הלחץ על מחירי הפומלו הספרדי -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">עונת הפומלו והלימון הספרדית סופגת תחרות גוברת מצד טורקיה בשוק האירופי. לטורקיה יש יבול גדול יותר השנה והיא מציעה מחירים נמוכים. העלייה בזמינות המוצרים הטורקיים יוצרת לחץ על המחירים הספרדיים בעוד העונה האירופית מתגבשת. <span class=\"news-reason\">מכיל מידע על התחרות בין שני מקורות של מהדרין (ספרד וטורקיה) עם השפעה ישירה על המחירים באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887589/parece-que-esta-campana-vamos-a-tener-una-mayor-presion-de-turquia-en-los-precios-del-limon-y-el-pomelo/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -649,14 +702,14 @@
     {
       "id": "1793253971_2",
       "timestamp": "2026-10-29T06:06:11.256514+00:00",
-      "title": "Omer-Decugis implante ses activités de fruits exotiques au port de Dunkerque",
+      "title": "Omer-Decugis déploie ses activités de fruits exotiques au port de Dunkerque",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [],
       "products": [],
       "origins": [
         "FRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Omer-Decugis implante ses activités de fruits exotiques au port de Dunkerque -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">Le groupe Omer-Decugis &amp; Cie s&#x27;associe à la SEMMARIS pour implanter un pôle logistique de 25 000 mètres carrés au port de Dunkerque. Ce site sera spécialisé dans le stockage, le conditionnement et le mûrissage des fruits frais et exotiques importés par voie maritime à destination du marché français. <span class=\"news-reason\">Partenariat pour la création d&#x27;un pôle logistique de 25 000 m2 à Dunkerque dédié aux fruits exotiques.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886498/sviluppo-di-un-polo-logistico-di-25-000-metri-quadrati-presso-il-porto-di-dunkerque/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Omer-Decugis déploie ses activités de fruits exotiques au port de Dunkerque -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">Le groupe Omer-Decugis &amp; Cie s&#x27;associe à la SEMMARIS pour implanter un pôle logistique de 25 000 mètres carrés au port de Dunkerque. Ce site sera spécialisé dans le stockage, le conditionnement et le mûrissage des fruits frais et exotiques importés par voie maritime à destination du marché français. <span class=\"news-reason\">Partenariat pour la création d&#x27;un pôle logistique de 25 000 m2 à Dunkerque dédié aux fruits exotiques.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886498/sviluppo-di-un-polo-logistico-di-25-000-metri-quadrati-presso-il-porto-di-dunkerque/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Omer-Decugis establishes itself at the port of Dunkirk for its exotic fruit activity -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">The Omer-Decugis &amp; Cie group is partnering with SEMMARIS to establish a 25,000-square-meter logistics hub at the port of Dunkirk. This site will specialize in the storage, packaging, and ripening of fresh and exotic fruits imported by sea for the French market. <span class=\"news-reason\">Partnership for the creation of a 25,000 m2 logistics hub in Dunkirk dedicated to exotic fruits.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886498/sviluppo-di-un-polo-logistico-di-25-000-metri-quadrati-presso-il-porto-di-dunkerque/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות רשתות שיווק</div><div class=\"news-title\">Omer-Decugis מתבססת בנמל דנקרק עבור פעילות הפירות האקזוטיים שלה -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">קבוצת Omer-Decugis &amp; Cie חוברת ל-SEMMARIS כדי להקים מרכז לוגיסטי בשטח של 25,000 מטרים רבועים בנמל דנקרק. אתר זה יתמחה באחסון, אריזה והבשלה של פירות טריים ואקזוטיים המיובאים בדרך הים המיועדים לשוק הצרפתי. <span class=\"news-reason\">שותפות להקמת מרכז לוגיסטי בשטח 25,000 מ\"ר בדנקרק המוקדש לפירות אקזוטיים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886498/sviluppo-di-un-polo-logistico-di-25-000-metri-quadrati-presso-il-porto-di-dunkerque/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -801,7 +854,7 @@
     {
       "id": "1793200016_5",
       "timestamp": "2026-10-28T15:06:56.882539+00:00",
-      "title": "Augmentation des prix de la mangue dans la grande distribution aux Pays-Bas",
+      "title": "Augmentation des prix de la mangue au sein de la grande distribution aux Pays-Bas",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -812,7 +865,7 @@
       "origins": [
         "NLD"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Augmentation des prix de la mangue dans la grande distribution aux Pays-Bas -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">Au cours de la semaine 43, les prix de vente au détail aux Pays-Bas ont enregistré une augmentation notable. La mangue s&#x27;est renchérie en moyenne de 18 centimes pour s&#x27;établir à un prix moyen de 1,73 euro, reflétant des tensions sur l&#x27;offre disponible en rayon. <span class=\"news-reason\">Article contenant des chiffres de prix précis pour un produit Mehadrin sur un marché clé.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886397/el-pepino-mantiene-la-tendencia-a-la-baja-y-suben-los-precios-de-fresas-y-mango-en-el-retail-holandes/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Augmentation des prix de la mangue au sein de la grande distribution aux Pays-Bas -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">Au cours de la semaine 43, les prix de vente au détail aux Pays-Bas ont enregistré une augmentation notable. La mangue s&#x27;est renchérie en moyenne de 18 centimes pour s&#x27;établir à un prix moyen de 1,73 euro, reflétant des tensions sur l&#x27;offre disponible en rayon. <span class=\"news-reason\">Article contenant des chiffres de prix précis pour un produit Mehadrin sur un marché clé.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886397/el-pepino-mantiene-la-tendencia-a-la-baja-y-suben-los-precios-de-fresas-y-mango-en-el-retail-holandes/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Rise in mango prices in Dutch retail -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">During week 43, retail sales prices in the Netherlands recorded a notable increase. Mangoes became more expensive by an average of 18 cents to reach an average price of 1.73 euros, reflecting tensions in the available shelf supply. <span class=\"news-reason\">Article containing precise price figures for a Mehadrin product in a key market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886397/el-pepino-mantiene-la-tendencia-a-la-baja-y-suben-los-precios-de-fresas-y-mango-en-el-retail-holandes/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עלייה במחירי המנגו ברשתות השיווק בהולנד -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">במהלך שבוע 43, מחירי המכירה הקמעונאיים בהולנד רשמו עלייה ניכרת. מחיר המנגו עלה בממוצע ב-18 סנט ונעמד על מחיר ממוצע של 1.73 אירו, מה שמשקף מתחים בהיצע הזמין על המדפים. <span class=\"news-reason\">כתבה הכוללת נתוני מחירים מדויקים עבור מוצר של מהדרין בשוק מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886397/el-pepino-mantiene-la-tendencia-a-la-baja-y-suben-los-precios-de-fresas-y-mango-en-el-retail-holandes/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -874,7 +927,7 @@
     {
       "id": "1793194586_5",
       "timestamp": "2026-10-28T13:36:26.664092+00:00",
-      "title": "Tensions d&#x27;approvisionnement et contraction de l&#x27;offre de dattes Medjool pour Noël en Europe",
+      "title": "Tensions d’approvisionnement et contraction de l’offre de dattes Medjool pour Noël en Europe",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica"
@@ -886,7 +939,7 @@
         "ISR",
         "JOR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tensions d&#x27;approvisionnement et contraction de l&#x27;offre de dattes Medjool pour Noël en Europe -- <span class=\"news-date\">28/10/2026 10:42</span></div><div class=\"news-body\">Les livraisons de dattes Medjool d&#x27;Israël, de Palestine et de Jordanie accusent un retard de trois à quatre semaines car les fruits n&#x27;ont pas atteint leur pleine maturité. Les premières estimations indiquent une baisse des volumes de 15 à 20 % pour la campagne actuelle vers l&#x27;Europe. <span class=\"news-reason\">Produit phare en saison, origine Israël, chiffres précis sur les pertes de volumes et les retards de campagne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9886854/weniger-medjool-angebot-fur-das-weihnachtsgeschaft-in-europa/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tensions d’approvisionnement et contraction de l’offre de dattes Medjool pour Noël en Europe -- <span class=\"news-date\">28/10/2026 10:42</span></div><div class=\"news-body\">Les livraisons de dattes Medjool d&#x27;Israël, de Palestine et de Jordanie accusent un retard de trois à quatre semaines car les fruits n&#x27;ont pas atteint leur pleine maturité. Les premières estimations indiquent une baisse des volumes de 15 à 20 % pour la campagne actuelle vers l&#x27;Europe. <span class=\"news-reason\">Produit phare en saison, origine Israël, chiffres précis sur les pertes de volumes et les retards de campagne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9886854/weniger-medjool-angebot-fur-das-weihnachtsgeschaft-in-europa/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Supply delays and lower Medjool date supply for Christmas in Europe -- <span class=\"news-date\">28/10/2026 10:42</span></div><div class=\"news-body\">Deliveries of Medjool dates from Israel, Palestine, and Jordan are experiencing a three-to-four-week delay as the fruit has not reached full maturity. Initial estimates indicate a 15 to 20% decrease in volumes for the current campaign to Europe. <span class=\"news-reason\">Seasonal flagship product, Israel origin, precise figures on volume losses and campaign delays.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9886854/weniger-medjool-angebot-fur-das-weihnachtsgeschaft-in-europa/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עיכובים באספקה וירידה בהיצע תמרי המג'הול לקראת חג המולד באירופה -- <span class=\"news-date\">28/10/2026 10:42</span></div><div class=\"news-body\">משלוחי תמרי המג'הול מישראל, פלסטין וירדן בעיכוב של שלושה עד ארבעה שבועות כיוון שהפירות לא הגיעו לבשילה מלאה. הערכות ראשוניות מצביעות על ירידה של 15 עד 20 אחוזים בהיקפים לעונה הנוכחית לאירופה. <span class=\"news-reason\">מוצר דגל בעונה, מקור ישראל, נתונים מדויקים על הפסדי היקפים ועיכובים בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9886854/weniger-medjool-angebot-fur-das-weihnachtsgeschaft-in-europa/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -1020,7 +1073,7 @@
     {
       "id": "1793167520_1",
       "timestamp": "2026-10-28T06:05:20.969472+00:00",
-      "title": "Innovation et promotion au service de la valorisation des clémentines de Calabre",
+      "title": "L&#x27;innovation et la promotion au service de la valorisation des clémentines de Calabre",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -1029,7 +1082,7 @@
         "mandarine"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Innovation et promotion au service de la valorisation des clémentines de Calabre -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">Le Clementina Festival à Corigliano-Rossano a réuni les acteurs de la filière pour promouvoir les Clémentines de Calabre IGP. Les discussions ont porté sur l&#x27;innovation et les perspectives commerciales de la filière agrumicole dans la Piana di Sibari. <span class=\"news-reason\">Information sur la stratégie commerciale et l&#x27;innovation d&#x27;une origine concurrente en agrumes (clémentines) sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886899/custodire-la-tradizione-e-aprirsi-all-innovazione-per-crescere-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;innovation et la promotion au service de la valorisation des clémentines de Calabre -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">Le Clementina Festival à Corigliano-Rossano a réuni les acteurs de la filière pour promouvoir les Clémentines de Calabre IGP. Les discussions ont porté sur l&#x27;innovation et les perspectives commerciales de la filière agrumicole dans la Piana di Sibari. <span class=\"news-reason\">Information sur la stratégie commerciale et l&#x27;innovation d&#x27;une origine concurrente en agrumes (clémentines) sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886899/custodire-la-tradizione-e-aprirsi-all-innovazione-per-crescere-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Promotion and innovation for Calabrian clementines -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">The Clementina Festival in Corigliano-Rossano brought together industry players to promote Calabria PGI Clementines. Discussions focused on innovation and commercial prospects for the citrus industry in the Piana di Sibari. <span class=\"news-reason\">Information on the commercial strategy and innovation of a competing citrus origin (clementines) on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886899/custodire-la-tradizione-e-aprirsi-all-innovazione-per-crescere-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקור</div><div class=\"news-title\">קידום וחדשנות עבור קלמנטינות מקלבריה -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">פסטיבל הקלמנטינה בקוריליאנו-רוסאנו הפגיש את הגורמים בענף כדי לקדם את קלמנטינות קלבריה IGP. הדיונים התמקדו בחדשנות ובאופקים המסחריים של ענף ההדרים בפיאנה די סיבארי. <span class=\"news-reason\">מידע על האסטרטגיה המסחרית והחדשנות של מקור מתחרה בהדרים (קלמנטינות) בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886899/custodire-la-tradizione-e-aprirsi-all-innovazione-per-crescere-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -1053,24 +1106,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Fin de saison des avocats sud-africains avec des prix record et début du Chili -- <span class=\"news-date\">27/10/2026 14:25</span></div><div class=\"news-body\">La saison des avocats à peau lisse d&#x27;Afrique du Sud se termine avec des prix historiquement hauts. La campagne des avocats Hass du Chili commence également avec des prix élevés. Les volumes restants du Kenya et de Colombie montrent une qualité variable en raison de la fin des récoltes dans ces zones. <span class=\"news-reason\">L&#x27;article fournit des informations stratégiques sur les prix records en fin de saison pour les variétés à peau lisse et le démarrage de la campagne chilienne à des niveaux de prix élevés.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9885574/la-saison-des-avocats-a-peau-lisse-d-afrique-du-sud-s-est-achevee-sur-des-prix-sans-precedent/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">End of the South African avocado season with record prices and start of Chile -- <span class=\"news-date\">27/10/2026 14:25</span></div><div class=\"news-body\">The South African greenskin avocado season is ending with historically high prices. The Chilean Hass avocado campaign is also starting with high prices. Remaining volumes from Kenya and Colombia show variable quality due to the end of harvests in these areas. <span class=\"news-reason\">The article provides strategic information on record end-of-season prices for greenskin varieties and the start of the Chilean campaign at high price levels.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9885574/la-saison-des-avocats-a-peau-lisse-d-afrique-du-sud-s-est-achevee-sur-des-prix-sans-precedent/\" target=\"_blank\">FreshPlaza FR -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיום עונת האבוקדו הדרום-אפריקאי עם מחירי שיא ותחילת העונה מצ'ילה -- <span class=\"news-date\">27/10/2026 14:25</span></div><div class=\"news-body\">עונת האבוקדו בעל קליפה חלקה מדרום אפריקה מסתיימת עם מחירים גבוהים היסטורית. עונת אבוקדו האס מצ'ילה מתחילה גם היא עם מחירים גבוהים. הכמויות הנותרות מקניה ומקולומביה מציגות איכות משתנה בשל סיום הקטיף באזורים אלו. <span class=\"news-reason\">המאמר מספק מידע אסטרטגי על מחירי שיא בסוף העונה עבור הזנים בעלי קליפה חלקה ותחילת העונה הצ'יליאנית ברמות מחירים גבוהות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9885574/la-saison-des-avocats-a-peau-lisse-d-afrique-du-sud-s-est-achevee-sur-des-prix-sans-precedent/\" target=\"_blank\">FreshPlaza FR -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793129751_0",
-      "timestamp": "2026-10-27T19:35:51.192990+00:00",
-      "title": "Plus de 350 producteurs tanzaniens d’avocats accèdent au marché indien",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "IND"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Plus de 350 producteurs tanzaniens d’avocats accèdent au marché indien -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">Westfalia Fruit accompagne plus de 350 petits producteurs d&#x27;avocats de la région de Njombe en Tanzanie pour exporter vers l&#x27;Inde. Ce programme de développement, qui a débuté avec quatre participants il y a trois ans, permet désormais à certains producteurs d&#x27;atteindre une échelle commerciale sur ce nouveau marché. <span class=\"news-reason\">L&#x27;article traite de l&#x27;ouverture d&#x27;un nouveau marché (l&#x27;Inde, marché Mehadrin) pour un produit concurrent (avocat tanzanien).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886418/mas-de-350-productores-de-aguacate-tanzanos-obtienen-acceso-al-mercado-indio/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">More than 350 Tanzanian avocado producers access the Indian market -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">Westfalia Fruit supports more than 350 small-scale avocado producers from the Njombe region of Tanzania to export to India. This development program, which began with four participants three years ago, now allows certain producers to reach a commercial scale in this new market. <span class=\"news-reason\">The article deals with the opening of a new market (India, Mehadrin market) for a competing product (Tanzanian avocado).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886418/mas-de-350-productores-de-aguacate-tanzanos-obtienen-acceso-al-mercado-indio/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">יותר מ-350 מגדלי אבוקדו טנזנים מקבלים גישה לשוק ההודי -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">חברת Westfalia Fruit מלווה יותר מ-350 מגדלי אבוקדו קטנים מאזור נג'ומבה בטנזניה לצורך ייצוא להודו. תוכנית פיתוח זו, שהחלה עם ארבעה משתתפים לפני שלוש שנים, מאפשרת כעת למגדלים מסוימים להגיע לקנה מידה מסחרי בשוק חדש זה. <span class=\"news-reason\">המאמר עוסק בפתיחת שוק חדש (הודו, שוק מהדרין) עבור מוצר מתחרה (אבוקדו טנזני).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886418/mas-de-350-productores-de-aguacate-tanzanos-obtienen-acceso-al-mercado-indio/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
