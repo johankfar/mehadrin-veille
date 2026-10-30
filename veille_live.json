@@ -1,25 +1,63 @@
 {
-  "last_updated": "2026-10-30T07:37:23.689286+00:00",
-  "article_count": 65,
+  "last_updated": "2026-10-30T09:07:44.935187+00:00",
+  "article_count": 67,
   "attention_points": [
     {
-      "id": "attention-715c60c758c1dd79",
-      "article_id": "1793345843_1",
-      "url": "https://www.freshplaza.it/article/9887171/clementine-di-calabria-igp-un-campione-che-merita-una-vetrina-internazionale/",
-      "source": "FreshPlaza IT",
-      "title": "Promotion des clémentines de Calabre sur le marché",
-      "summary": "Le positionnement stratégique se renforce pour les exportations de ces agrumes",
+      "id": "attention-73d53a2cab5162d6",
+      "article_id": "1793351264_0",
+      "url": "https://east-fruit.com/en/trending/up-to-60-of-georgia%e2%80%99s-mandarin-crop-may-fail-to-meet-market-standards/",
+      "source": "EastFruit",
+      "title": "Dégradation de la qualité des mandarines en Géorgie",
+      "summary": "La météo réduit fortement les volumes de mandarines géorgiennes répondant aux critères du marché",
       "origin_code": null,
       "origin_label": null,
+      "published_at": "2026-10-30T08:16:04+00:00",
+      "published_at_source": "rss",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
+      "products": [
+        "mandarine"
+      ],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-7f5d18b46f65ecef",
+      "article_id": "1793340436_0",
+      "url": "https://www.freshplaza.it/article/9886852/minore-offerta-di-datteri-medjool-in-europa-per-il-periodo-natalizio/",
+      "source": "FreshPlaza IT",
+      "title": "Baisse de l'offre de dattes Medjool israéliennes",
+      "summary": "La maturation tardive réduit les volumes de dattes Medjool",
+      "origin_code": "ISR",
+      "origin_label": "Israël",
       "published_at": "2026-10-30T06:05:00+01:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [
+        "date"
+      ],
+      "age_hours": 4
+    },
+    {
+      "id": "attention-b0ff3dd01423fa8a",
+      "article_id": "1793351264_2",
+      "url": "https://www.freshplaza.it/article/9887233/irrigazione-intelligente-sostenibilita-e-certificazioni-per-rafforzare-la-competitivita/",
+      "source": "FreshPlaza IT",
+      "title": "Innovation et durabilité au service de la clémentine",
+      "summary": "Lors du Clementina Festival des experts ont souligné l'importance de l'irrigation intelligente.",
+      "origin_code": "ITA",
+      "origin_label": "Italie",
+      "published_at": "2026-10-30T06:05:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
+      "products": [
         "mandarine"
       ],
-      "age_hours": 2
+      "age_hours": 4
     },
     {
       "id": "attention-6663c9e7bb921921",
@@ -39,52 +77,46 @@
         "lemon",
         "citrus_grapefruit"
       ],
-      "age_hours": 16
-    },
-    {
-      "id": "attention-9e95eaefa9b70bd7",
-      "article_id": "1793291932_6",
-      "url": "https://www.freshplaza.es/article/9887555/la-huelga-de-aguacateros-en-michoacan-reduce-a-casi-la-mitad-los-envios-previstos-a-estados-unidos/",
-      "source": "FreshPlaza ES",
-      "title": "Baisse des volumes d'avocats mexicains vers les États-Unis",
-      "summary": "Une grève pour les prix réduit de moitié les expéditions d'avocats",
-      "origin_code": "MEX",
-      "origin_label": "Mexique",
-      "published_at": "2026-10-29T16:04:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 16
-    },
-    {
-      "id": "attention-2ab61914077f58cc",
-      "article_id": "1793297310_6",
-      "url": "https://www.freshplaza.com/article/9887380/horticulture-accounts-for-51-3-of-south-africa-s-agricultural-exports-in-q2/",
-      "source": "FreshPlaza",
-      "title": "L’horticulture domine les exportations agricoles sud-africaines au T",
-      "summary": "Le surplus commercial agricole enregistre une hausse significative sur la période concernée.",
-      "origin_code": "ZAF",
-      "origin_label": "Afrique du Sud",
-      "published_at": "2026-10-29T13:35:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "volume",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 19
+      "age_hours": 18
     }
   ],
   "articles": [
     {
+      "id": "1793351264_2",
+      "timestamp": "2026-10-30T09:07:44.935187+00:00",
+      "title": "Innovation et durabilité au service de la clémentine de Calabre -- 30/10/2026 06:05",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "ITA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Innovation et durabilité au service de la clémentine de Calabre -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">Lors du Clementina Festival, des experts ont souligné l&#x27;importance de l&#x27;irrigation intelligente et des certifications de filière pour l&#x27;avenir de la Clémentine de Calabre IGP. Ces mesures visent à renforcer la durabilité et la compétitivité du produit sur les marchés. <span class=\"news-reason\">Informations sur la stratégie de compétitivité et les certifications pour la clémentine de Calabre en Italie.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887233/irrigazione-intelligente-sostenibilita-e-certificazioni-per-rafforzare-la-competitivita/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Innovation and sustainability for the Calabrian clementine -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">During the Clementina Festival, experts highlighted the importance of smart irrigation and supply chain certifications for the future of the Calabria PGI Clementine. These measures aim to strengthen the sustainability and competitiveness of the product in the markets. <span class=\"news-reason\">Information on the competitiveness strategy and certifications for the Calabrian clementine in Italy.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887233/irrigazione-intelligente-sostenibilita-e-certificazioni-per-raffozzare-la-competitivita/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">חדשנות וקיימות בשירות הקלמנטינה מקלבריה -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">במהלך פסטיבל הקלמנטינה, מומחים הדגישו את חשיבות ההשקיה החכמה והסמכות שרשרת האספקה לעתיד הקלמנטינה מקלבריה IGP. צעדים אלו נועדו לחזק את הקיימות והתחרותיות של המוצר בשווקים. <span class=\"news-reason\">מידע על אסטרטגיית התחרותיות וההסמכות עבור הקלמנטינה מקלבריה באיטליה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887233/irrigazione-intelligente-sostenibilita-e-certificazioni-per-rafforzare-la-competitivita/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793351264_0",
+      "timestamp": "2026-10-30T09:07:44.935187+00:00",
+      "title": "Dégradation de la qualité des mandarines en Géorgie -- 30/10/2026 08:16",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Dégradation de la qualité des mandarines en Géorgie -- <span class=\"news-date\">30/10/2026 08:16</span></div><div class=\"news-body\">Selon des données d&#x27;EastFruit, des conditions météorologiques défavorables en Géorgie devraient fortement réduire la qualité de la récolte de mandarines pour la saison 2026. Environ 60 % de la production pourrait ne pas atteindre les standards du marché. Seuls 30 à 40 % de la récolte seraient commercialisables, contre 60 à 70 % l&#x27;année précédente. <span class=\"news-reason\">Alerte sur la disponibilité de mandarines conformes aux standards d&#x27;exportation vers l&#x27;Europe en raison de la météo.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/trending/up-to-60-of-georgia%e2%80%99s-mandarin-crop-may-fail-to-meet-market-standards/\" target=\"_blank\">EastFruit -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Degradation of mandarin quality in Georgia -- <span class=\"news-date\">30/10/2026 08:16</span></div><div class=\"news-body\">According to EastFruit data, unfavorable weather conditions in Georgia are expected to significantly reduce the quality of the mandarin harvest for the 2026 season. Approximately 60% of production may fail to meet market standards. Only 30 to 40% of the harvest would be marketable, compared to 60 to 70% the previous year. <span class=\"news-reason\">Alert on the availability of mandarins meeting export standards to Europe due to weather.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/trending/up-to-60-of-georgia%e2%80%99s-mandarin-crop-may-fail-to-meet-market-standards/\" target=\"_blank\">EastFruit -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ירידה באיכות המנדרינות בגיאורגיה -- <span class=\"news-date\">30/10/2026 08:16</span></div><div class=\"news-body\">לפי נתוני EastFruit, תנאי מזג אוויר קשים בגיאורגיה צפויים להוריד משמעותית את איכות יבול המנדרינות לעונת 2026. כ-60% מהייצור עלולים שלא לעמוד בסטנדרטים של השוק. רק 30% עד 40% מהיבול יהיו ברי שיווק, לעומת 60% עד 70% בשנה הקודמת. <span class=\"news-reason\">התראה על זמינות מנדרינות העומדות בתקני ייצוא לאירופה בשל תנאי מזג האוויר.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/trending/up-to-60-of-georgia%e2%80%99s-mandarin-crop-may-fail-to-meet-market-standards/\" target=\"_blank\">EastFruit -- קרא את הכתבה</a></div></div>"
+    },
+    {
       "id": "1793345843_1",
       "timestamp": "2026-10-30T07:37:23.689286+00:00",
-      "title": "Promotion des clémentines de Calabre sur le marché international -- 30/10/2026 06:05",
+      "title": "Promotion des clémentines de Calabre sur les marchés internationaux",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -93,21 +125,21 @@
         "mandarine"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Promotion des clémentines de Calabre sur le marché international -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">Le président de Macfrut a souligné l&#x27;importance stratégique de la Calabre pour la production de clémentines. Le territoire de Corigliano-Rossano est présenté comme un modèle pour le développement international de la filière. <span class=\"news-reason\">L&#x27;article traite de la stratégie de positionnement et de visibilité internationale pour une origine concurrente majeure d&#x27;agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887171/clementine-di-calabria-igp-un-campione-che-merita-una-vetrina-internazionale/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Promotion des clémentines de Calabre sur les marchés internationaux -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">Le président de Macfrut a souligné l&#x27;importance stratégique de la Calabre pour la production de clémentines. Le territoire de Corigliano-Rossano est présenté comme un modèle pour le développement international de la filière. <span class=\"news-reason\">L&#x27;article traite de la stratégie de positionnement et de visibilité internationale pour une origine concurrente majeure d&#x27;agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887171/clementine-di-calabria-igp-un-campione-che-merita-una-vetrina-internazionale/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Promotion of Calabria clementines on the international market -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">The president of Macfrut highlighted the strategic importance of Calabria for clementine production. The Corigliano-Rossano territory is presented as a model for the international development of the sector. <span class=\"news-reason\">The article discusses the positioning strategy and international visibility for a major competing citrus origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887171/clementine-di-calabria-igp-un-campione-che-merita-una-vetrina-internazionale/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">קידום קלמנטינות מקלבריה בשוק הבינלאומי -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">נשיא Macfrut הדגיש את החשיבות האסטרטגית של קלבריה לייצור קלמנטינות. אזור קוריליאנו-רוסאנו מוצג כמודל לפיתוח הבינלאומי של הענף. <span class=\"news-reason\">המאמר עוסק באסטרטגיית המיצוב והנראות הבינלאומית עבור מקור תחרותי מרכזי של פירות הדר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887171/clementine-di-calabria-igp-un-campione-che-merita-una-vetrina-internazionale/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1793340436_3",
       "timestamp": "2026-10-30T06:07:16.286098+00:00",
-      "title": "Grève des transports : perturbations dans l&#x27;approvisionnement en clémentines de Calabre",
+      "title": "Grève des transports : l&#x27;approvisionnement en clémentines de Calabre perturbé",
       "category": "ALERTES SUPPLY",
       "commercials": [],
       "products": [
         "mandarine"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Grève des transports : perturbations dans l&#x27;approvisionnement en clémentines de Calabre -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">Le début de la campagne des clémentines en Calabre est perturbé par une grève des transports et des retards dans les expéditions. Ces complications logistiques freinent la valorisation des produits sur les marchés européens au moment de leur lancement. <span class=\"news-reason\">Alerte logistique impactant la disponibilité et les délais d&#x27;un produit concurrent direct au début de la saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887723/campagna-clementine-sciopero-dei-trasporti-e-ritardi-nelle-spedizioni-complicano-l-esordio-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Grève des transports : l&#x27;approvisionnement en clémentines de Calabre perturbé -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">Le début de la campagne des clémentines en Calabre est perturbé par une grève des transports et des retards dans les expéditions. Ces complications logistiques freinent la valorisation des produits sur les marchés européens au moment de leur lancement. <span class=\"news-reason\">Alerte logistique impactant la disponibilité et les délais d&#x27;un produit concurrent direct au début de la saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887723/campagna-clementine-sciopero-dei-trasporti-e-ritardi-nelle-spedizioni-complicano-l-esordio-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Transport strike: delays for Calabrian clementines -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">The start of the clementine season in Calabria is disrupted by a transport strike and shipping delays. These logistical complications are slowing down product valuation on European markets at the time of their launch. <span class=\"news-reason\">Logistics alert impacting the availability and lead times of a direct competitor product at the start of the season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887723/campagna-clementine-sciopero-dei-trasporti-e-ritardi-nelle-spedizioni-complicano-l-esordio-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">שביתת הובלה: עיכובים בקלמנטינות מקלבריה -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">תחילת עונת הקלמנטינות בקלבריה משובשת על ידי שביתת הובלה ועיכובים במשלוחים. סיבוכים לוגיסטיים אלו מעכבים את שיווק המוצרים בשווקים האירופיים בזמן השקתם. <span class=\"news-reason\">התראה לוגיסטית המשפיעה על הזמינות ולוחות הזמנים של מוצר מתחרה ישיר בתחילת העונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887723/campagna-clementine-sciopero-dei-trasporti-e-ritardi-nelle-spedizioni-complicano-l-esordio-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -255,7 +287,7 @@
     {
       "id": "1793291932_6",
       "timestamp": "2026-10-29T16:38:52.418362+00:00",
-      "title": "Baisse des volumes d&#x27;avocats mexicains vers les États-Unis suite à une grève",
+      "title": "Recul des volumes d&#x27;avocats mexicains vers les États-Unis à la suite d&#x27;une grève",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -267,7 +299,7 @@
         "MEX",
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse des volumes d&#x27;avocats mexicains vers les États-Unis suite à une grève -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">Une grève déclenchée par l&#x27;Union des petits producteurs du Michoacán (PUAM) au Mexique paralyse près de la moitié des expéditions d&#x27;avocats prévues vers les États-Unis. Les producteurs exigent un prix de 45 pesos par kilo, alors qu&#x27;ils n&#x27;en reçoivent actuellement que 13 de la part des entreprises exportatrices et des empacadoras. <span class=\"news-reason\">Article contenant des chiffres précis sur les prix et les volumes d&#x27;un produit Mehadrin (avocat) sur un marché majeur (USA).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887555/la-huelga-de-aguacateros-en-michoacan-reduce-a-casi-la-mitad-los-envios-previstos-a-estados-unidos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul des volumes d&#x27;avocats mexicains vers les États-Unis à la suite d&#x27;une grève -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">Une grève déclenchée par l&#x27;Union des petits producteurs du Michoacán (PUAM) au Mexique paralyse près de la moitié des expéditions d&#x27;avocats prévues vers les États-Unis. Les producteurs exigent un prix de 45 pesos par kilo, alors qu&#x27;ils n&#x27;en reçoivent actuellement que 13 de la part des entreprises exportatrices et des empacadoras. <span class=\"news-reason\">Article contenant des chiffres précis sur les prix et les volumes d&#x27;un produit Mehadrin (avocat) sur un marché majeur (USA).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887555/la-huelga-de-aguacateros-en-michoacan-reduce-a-casi-la-mitad-los-envios-previstos-a-estados-unidos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decrease in Mexican avocado volumes to the United States following strike -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">A strike launched by the Union of Small Producers of Michoacán (PUAM) in Mexico is paralyzing nearly half of the planned avocado shipments to the United States. Producers are demanding a price of 45 pesos per kilo, while they currently receive only 13 from exporting companies and packers. <span class=\"news-reason\">Article containing specific figures on prices and volumes for a Mehadrin product (avocado) in a major market (USA).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887555/la-huelga-de-aguacateros-en-michoacan-reduce-a-casi-la-mitad-los-envios-previstos-a-estados-unidos/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה בכמויות האבוקדו המקסיקני לארצות הברית בעקבות שביתה -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">שביתה שהחלה על ידי איגוד היצרנים הקטנים של מיצ'ואקן (PUAM) במקסיקו משתקת כמעט מחצית ממשלוחי האבוקדו המתוכננים לארצות הברית. היצרנים דורשים מחיר של 45 פסו לקילוגרם, בעוד שהם מקבלים כיום רק 13 מהחברות המייצאות ומבתי האריזה. <span class=\"news-reason\">כתבה הכוללת נתונים מדויקים על מחירים וכמויות של מוצר מהדרין (אבוקדו) בשוק מרכזי (ארה\"ב).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887555/la-huelga-de-aguacateros-en-michoacan-reduce-a-casi-la-mitad-los-envios-previstos-a-estados-unidos/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -308,7 +340,7 @@
     {
       "id": "1793291932_3",
       "timestamp": "2026-10-29T16:38:52.418362+00:00",
-      "title": "Lancement d&#x27;une campagne de mangues cruciale au Pérou",
+      "title": "Lancement d&#x27;une campagne de mangues décisive au Pérou",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -319,7 +351,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Lancement d&#x27;une campagne de mangues cruciale au Pérou -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">La campagne de mangue au Pérou démarre avec une production réduite et des fruits manquant de maturité pour certains marchés. Cette situation est aggravée par un phénomène El Niño précoce. Les producteurs de Piura et Casma craignent que si les pluies débutent fin novembre, la campagne ne s&#x27;arrête prématurément, limitant l&#x27;offre globale. <span class=\"news-reason\">Alerte sur la production et la qualité d&#x27;une origine concurrente majeure (Pérou) pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887570/hoy-no-hay-campana-y-si-las-lluvias-empiezan-a-fines-de-noviembre-se-acabo-la-campana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Lancement d&#x27;une campagne de mangues décisive au Pérou -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">La campagne de mangue au Pérou démarre avec une production réduite et des fruits manquant de maturité pour certains marchés. Cette situation est aggravée par un phénomène El Niño précoce. Les producteurs de Piura et Casma craignent que si les pluies débutent fin novembre, la campagne ne s&#x27;arrête prématurément, limitant l&#x27;offre globale. <span class=\"news-reason\">Alerte sur la production et la qualité d&#x27;une origine concurrente majeure (Pérou) pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887570/hoy-no-hay-campana-y-si-las-lluvias-empiezan-a-fines-de-noviembre-se-acabo-la-campana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Critical season opening for mangoes in Peru -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">The mango season in Peru starts with reduced production and fruit lacking maturity for certain markets. This situation is worsened by an early El Niño phenomenon. Producers in Piura and Casma fear that if rains start at the end of November, the season will end prematurely, limiting the global supply. <span class=\"news-reason\">Alert on the production and quality of a major competing origin (Peru) for mangoes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887570/hoy-no-hay-campana-y-si-las-lluvias-empiezan-a-fines-de-noviembre-se-acabo-la-campana/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">פתיחת עונה קריטית למנגו בפרו -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">עונת המנגו בפרו מתחילה עם ייצור מופחת ופירות חסרי בשלות עבור שווקים מסוימים. מצב זה מוחמר על ידי תופעת אל ניניו מוקדמת. המגדלים בפיורה ובקסמה חוששים שאם הגשמים יתחילו בסוף נובמבר, העונה תיעצר בטרם עת, מה שיגביל את ההיצע הכולל. <span class=\"news-reason\">התראה על הייצור והאיכות של מקור מתחרה מרכזי (פרו) למנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887570/hoy-no-hay-campana-y-si-las-lluvias-empiezan-a-fines-de-noviembre-se-acabo-la-campana/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -501,21 +533,21 @@
     {
       "id": "1793253971_2",
       "timestamp": "2026-10-29T06:06:11.256514+00:00",
-      "title": "Omer-Decugis déploie ses activités de fruits exotiques au port de Dunkerque",
+      "title": "Omer-Decugis implante ses activités de fruits exotiques au port de Dunkerque",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [],
       "products": [],
       "origins": [
         "FRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Omer-Decugis déploie ses activités de fruits exotiques au port de Dunkerque -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">Le groupe Omer-Decugis &amp; Cie s&#x27;associe à la SEMMARIS pour implanter un pôle logistique de 25 000 mètres carrés au port de Dunkerque. Ce site sera spécialisé dans le stockage, le conditionnement et le mûrissage des fruits frais et exotiques importés par voie maritime à destination du marché français. <span class=\"news-reason\">Partenariat pour la création d&#x27;un pôle logistique de 25 000 m2 à Dunkerque dédié aux fruits exotiques.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886498/sviluppo-di-un-polo-logistico-di-25-000-metri-quadrati-presso-il-porto-di-dunkerque/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Omer-Decugis implante ses activités de fruits exotiques au port de Dunkerque -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">Le groupe Omer-Decugis &amp; Cie s&#x27;associe à la SEMMARIS pour implanter un pôle logistique de 25 000 mètres carrés au port de Dunkerque. Ce site sera spécialisé dans le stockage, le conditionnement et le mûrissage des fruits frais et exotiques importés par voie maritime à destination du marché français. <span class=\"news-reason\">Partenariat pour la création d&#x27;un pôle logistique de 25 000 m2 à Dunkerque dédié aux fruits exotiques.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886498/sviluppo-di-un-polo-logistico-di-25-000-metri-quadrati-presso-il-porto-di-dunkerque/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Omer-Decugis establishes itself at the port of Dunkirk for its exotic fruit activity -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">The Omer-Decugis &amp; Cie group is partnering with SEMMARIS to establish a 25,000-square-meter logistics hub at the port of Dunkirk. This site will specialize in the storage, packaging, and ripening of fresh and exotic fruits imported by sea for the French market. <span class=\"news-reason\">Partnership for the creation of a 25,000 m2 logistics hub in Dunkirk dedicated to exotic fruits.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886498/sviluppo-di-un-polo-logistico-di-25-000-metri-quadrati-presso-il-porto-di-dunkerque/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות רשתות שיווק</div><div class=\"news-title\">Omer-Decugis מתבססת בנמל דנקרק עבור פעילות הפירות האקזוטיים שלה -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">קבוצת Omer-Decugis &amp; Cie חוברת ל-SEMMARIS כדי להקים מרכז לוגיסטי בשטח של 25,000 מטרים רבועים בנמל דנקרק. אתר זה יתמחה באחסון, אריזה והבשלה של פירות טריים ואקזוטיים המיובאים בדרך הים המיועדים לשוק הצרפתי. <span class=\"news-reason\">שותפות להקמת מרכז לוגיסטי בשטח 25,000 מ\"ר בדנקרק המוקדש לפירות אקזוטיים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886498/sviluppo-di-un-polo-logistico-di-25-000-metri-quadrati-presso-il-porto-di-dunkerque/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1793253971_1",
       "timestamp": "2026-10-29T06:06:11.256514+00:00",
-      "title": "Coop Italia : hausse de 8,8 % de la consommation de clémentines",
+      "title": "Coop Italia : la consommation de clémentines progresse de 8,8 %",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -526,7 +558,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Coop Italia : hausse de 8,8 % de la consommation de clémentines -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">La consommation de clementines chez Coop Italia affiche une progression de 8,8 %. Germano Fabiani souligne le dynamisme de ce segment et l opportunite commerciale liee a l extension du calendrier varietal pour prolonger la disponibilite des produits en rayon tout au long de la saison. <span class=\"news-reason\">Chiffres precis sur l evolution du marche et de la consommation d agrumes en Italie.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887125/consumi-in-crescita-dell-8-8-per-cento-ma-occorre-ampliare-il-calendario-varietale/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Coop Italia : la consommation de clémentines progresse de 8,8 % -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">La consommation de clementines chez Coop Italia affiche une progression de 8,8 %. Germano Fabiani souligne le dynamisme de ce segment et l opportunite commerciale liee a l extension du calendrier varietal pour prolonger la disponibilite des produits en rayon tout au long de la saison. <span class=\"news-reason\">Chiffres precis sur l evolution du marche et de la consommation d agrumes en Italie.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887125/consumi-in-crescita-dell-8-8-per-cento-ma-occorre-ampliare-il-calendario-varietale/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Coop Italia records an 8.8% increase in clementine consumption -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">Clementine consumption at Coop Italia shows a growth of 8.8%. Germano Fabiani highlights the dynamism of this segment and the commercial opportunity linked to the extension of the varietal calendar to prolong product availability on shelves throughout the season. <span class=\"news-reason\">Precise figures on market trends and citrus consumption in Italy.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887125/consumi-in-crescita-dell-8-8-per-cento-ma-occorre-ampliare-il-calendario-varietale/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">Coop Italia רושמת עלייה של 8.8% בצריכת הקלמנטינות -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">צריכת הקלמנטינות ב-Coop Italia מציגה עלייה של 8.8%. ג'רמנו פביאני מדגיש את הדינמיות של סגמנט זה ואת ההזדמנות העסקית הקשורה להרחבת לוח הזמנים הזני כדי להאריך את זמינות המוצרים על המדפים לאורך כל העונה. <span class=\"news-reason\">נתונים מדויקים על התפתחות השוק וצריכת ההדרים באיטליה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887125/consumi-in-crescita-dell-8-8-per-cento-ma-occorre-ampliare-il-calendario-varietale/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -637,7 +669,7 @@
     {
       "id": "1793200016_6",
       "timestamp": "2026-10-28T15:06:56.882539+00:00",
-      "title": "Lancement de la campagne de promotion de la grenade Mollar d’Elche",
+      "title": "Lancement de la campagne promotionnelle de la grenade Mollar d’Elche",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -646,7 +678,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne de promotion de la grenade Mollar d’Elche -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">La dénomination d&#x27;origine protégée de la grenade Mollar d&#x27;Elche a lancé sa nouvelle campagne de communication intitulée « Lo Mollar ». Cette initiative promotionnelle vise à valoriser l&#x27;origine et la qualité de cette variété espagnole spécifique en début de saison. <span class=\"news-reason\">Information sur la stratégie promotionnelle d&#x27;une origine concurrente sur la grenade.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887107/la-granada-mollar-de-elche-estrena-campana-de-promocion/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne promotionnelle de la grenade Mollar d’Elche -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">La dénomination d&#x27;origine protégée de la grenade Mollar d&#x27;Elche a lancé sa nouvelle campagne de communication intitulée « Lo Mollar ». Cette initiative promotionnelle vise à valoriser l&#x27;origine et la qualité de cette variété espagnole spécifique en début de saison. <span class=\"news-reason\">Information sur la stratégie promotionnelle d&#x27;une origine concurrente sur la grenade.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887107/la-granada-mollar-de-elche-estrena-campana-de-promocion/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Launch of the Mollar de Elche pomegranate promotional campaign -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">The protected designation of origin for the Mollar de Elche pomegranate has launched its new communication campaign titled &quot;Lo Mollar.&quot; This promotional initiative aims to highlight the origin and quality of this specific Spanish variety at the start of the season. <span class=\"news-reason\">Information on the promotional strategy of a competing pomegranate origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887107/la-granada-mollar-de-elche-estrena-campana-de-promocion/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השקת קמפיין הקידום של רימון Mollar d'Elche -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">הכינוי המוגן של הרימון Mollar d'Elche השיק קמפיין פרסומי חדש בשם \"Lo Mollar\". יוזמת קידום זו נועדה להדגיש את המקור והאיכות של זן ספרדי ספציפי זה בתחילת העונה. <span class=\"news-reason\">מידע על אסטרטגיית הקידום של מקור מתחרה עבור הרימון.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887107/la-granada-mollar-de-elche-estrena-campana-de-promocion/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -872,7 +904,7 @@
     {
       "id": "1793167520_1",
       "timestamp": "2026-10-28T06:05:20.969472+00:00",
-      "title": "Innovation et promotion au service des clémentines de Calabre",
+      "title": "L&#x27;innovation et la promotion au service des clémentines de Calabre",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -881,7 +913,7 @@
         "mandarine"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Innovation et promotion au service des clémentines de Calabre -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">Le Clementina Festival à Corigliano-Rossano a réuni les acteurs de la filière pour promouvoir les Clémentines de Calabre IGP. Les discussions ont porté sur l&#x27;innovation et les perspectives commerciales de la filière agrumicole dans la Piana di Sibari. <span class=\"news-reason\">Information sur la stratégie commerciale et l&#x27;innovation d&#x27;une origine concurrente en agrumes (clémentines) sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886899/custodire-la-tradizione-e-aprirsi-all-innovazione-per-crescere-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;innovation et la promotion au service des clémentines de Calabre -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">Le Clementina Festival à Corigliano-Rossano a réuni les acteurs de la filière pour promouvoir les Clémentines de Calabre IGP. Les discussions ont porté sur l&#x27;innovation et les perspectives commerciales de la filière agrumicole dans la Piana di Sibari. <span class=\"news-reason\">Information sur la stratégie commerciale et l&#x27;innovation d&#x27;une origine concurrente en agrumes (clémentines) sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886899/custodire-la-tradizione-e-aprirsi-all-innovazione-per-crescere-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Promotion and innovation for Calabrian clementines -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">The Clementina Festival in Corigliano-Rossano brought together industry players to promote Calabria PGI Clementines. Discussions focused on innovation and commercial prospects for the citrus industry in the Piana di Sibari. <span class=\"news-reason\">Information on the commercial strategy and innovation of a competing citrus origin (clementines) on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886899/custodire-la-tradizione-e-aprirsi-all-innovazione-per-crescere-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקור</div><div class=\"news-title\">קידום וחדשנות עבור קלמנטינות מקלבריה -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">פסטיבל הקלמנטינה בקוריליאנו-רוסאנו הפגיש את הגורמים בענף כדי לקדם את קלמנטינות קלבריה IGP. הדיונים התמקדו בחדשנות ובאופקים המסחריים של ענף ההדרים בפיאנה די סיבארי. <span class=\"news-reason\">מידע על האסטרטגיה המסחרית והחדשנות של מקור מתחרה בהדרים (קלמנטינות) בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886899/custodire-la-tradizione-e-aprirsi-all-innovazione-per-crescere-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -1041,7 +1073,7 @@
     {
       "id": "1793113608_1",
       "timestamp": "2026-10-27T15:06:48.415771+00:00",
-      "title": "Le prix des dattes Medjool palestiniennes augmente de 10 à 15 %",
+      "title": "Augmentation de 10 à 15 % du prix des dattes Medjool palestiniennes",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica"
@@ -1050,7 +1082,7 @@
         "date"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le prix des dattes Medjool palestiniennes augmente de 10 à 15 % -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">La production de dattes Medjool palestiniennes est estimée à 35 000 tonnes pour cette saison. Les exportations ont débuté mi-octobre depuis Jéricho. Les producteurs et exportateurs prévoient une augmentation des prix de l&#x27;ordre de 10 à 15 % en raison de l&#x27;alourdissement des coûts logistiques et de production dans la filière. <span class=\"news-reason\">Info sur les volumes (35 000 t) et prix d&#x27;une origine concurrente directe sur un produit phare Mehadrin</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885603/la-produzione-di-datteri-medjool-palestinesi-e-stimata-a-35-000-tonnellate-in-questa-stagione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Augmentation de 10 à 15 % du prix des dattes Medjool palestiniennes -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">La production de dattes Medjool palestiniennes est estimée à 35 000 tonnes pour cette saison. Les exportations ont débuté mi-octobre depuis Jéricho. Les producteurs et exportateurs prévoient une augmentation des prix de l&#x27;ordre de 10 à 15 % en raison de l&#x27;alourdissement des coûts logistiques et de production dans la filière. <span class=\"news-reason\">Info sur les volumes (35 000 t) et prix d&#x27;une origine concurrente directe sur un produit phare Mehadrin</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885603/la-produzione-di-datteri-medjool-palestinesi-e-stimata-a-35-000-tonnellate-in-questa-stagione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">10 to 15% increase in the price of Palestinian Medjool dates -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">Palestinian Medjool date production is estimated at 35,000 tons for this season. Exports began in mid-October from Jericho. Growers and exporters anticipate a price increase of 10 to 15% due to higher logistical and production costs in the industry. <span class=\"news-reason\">Info on volumes (35,000 t) and prices of a direct competing origin on a flagship Mehadrin product</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885603/la-produzione-di-datteri-medjool-palestinesi-e-stimata-a-35-000-tonnellate-in-questa-stagione/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">עלייה של 10% עד 15% במחיר תמרי המג&#x27;הול הפלסטיניים -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">ייצור תמרי המג&#x27;הול הפלסטיניים מוערך ב-35,000 טון לעונה זו. הייצוא החל באמצע אוקטובר מיריחו. המגדלים והיצואנים צופים עליית מחירים בשיעור של 10% עד 15% בשל התייקרות עלויות הלוגיסטיקה והייצור בענף. <span class=\"news-reason\">מידע על כמויות (35,000 טון) ומחירים של מקור מתחרה ישיר במוצר דגל של מהדרין</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885603/la-produzione-di-datteri-medjool-palestinesi-e-stimata-a-35-000-tonnellate-in-questa-stagione/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
