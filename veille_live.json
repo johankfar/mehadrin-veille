@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T09:07:44.935187+00:00",
-  "article_count": 67,
+  "last_updated": "2026-10-30T10:39:52.457199+00:00",
+  "article_count": 70,
   "attention_points": [
     {
       "id": "attention-73d53a2cab5162d6",
@@ -19,7 +19,7 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-7f5d18b46f65ecef",
@@ -38,7 +38,7 @@
       "products": [
         "date"
       ],
-      "age_hours": 4
+      "age_hours": 5
     },
     {
       "id": "attention-b0ff3dd01423fa8a",
@@ -57,7 +57,7 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 4
+      "age_hours": 5
     },
     {
       "id": "attention-6663c9e7bb921921",
@@ -77,14 +77,66 @@
         "lemon",
         "citrus_grapefruit"
       ],
-      "age_hours": 18
+      "age_hours": 19
     }
   ],
   "articles": [
     {
+      "id": "1793356792_2",
+      "timestamp": "2026-10-30T10:39:52.457199+00:00",
+      "title": "Turquie : recul de 30,9 % de la production fruitière en 2025",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Jessica",
+        "Nadia"
+      ],
+      "products": [
+        "pomegranate"
+      ],
+      "origins": [
+        "TUR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Turquie : recul de 30,9 % de la production fruitière en 2025 -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">Selon l&#x27;Institut statistique turc (TÜİK), la production de fruits en Turquie a enregistré une chute de 30,9 % en 2025, totalisant 19,6 millions de tonnes. La production de légumes a également reculé de 0,9 % pour atteindre 33,3 millions de tonnes. <span class=\"news-reason\">L&#x27;article présente des chiffres de production pour une origine concurrente majeure sur le segment des agrumes et des grenades.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884814/la-produzione-di-frutta-cala-del-30-9-per-cento-e-quella-orticola-dello-0-9-per-cento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">30.9% decline in fruit production in Turkey in 2025 -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">According to the Turkish Statistical Institute (TÜİK), fruit production in Turkey recorded a 30.9% drop in 2025, totaling 19.6 million tons. Vegetable production also fell by 0.9% to reach 33.3 million tons. <span class=\"news-reason\">The article presents production figures for a major competing origin in the citrus and pomegranate segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884814/la-produzione-di-frutta-cala-del-30-9-per-cento-e-quella-orticola-dello-0-9-per-cento/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 30.9% בייצור הפירות בטורקיה בשנת 2025 -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">לפי המכון הטורקי לסטטיסטיקה (TÜİK), ייצור הפירות בטורקיה רשם ירידה של 30.9% בשנת 2025, והסתכם ב-19.6 מיליון טון. ייצור הירקות ירד אף הוא ב-0.9% והגיע ל-33.3 מיליון טון. <span class=\"news-reason\">הכתבה מציגה נתוני ייצור עבור מקור תחרותי מרכזי במגזרי ההדרים והרימונים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884814/la-produzione-di-frutta-cala-del-30-9-per-cento-e-quella-orticola-dello-0-9-per-cento/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793356792_1",
+      "timestamp": "2026-10-30T10:39:52.457199+00:00",
+      "title": "Démarrage dynamique de la campagne du kaki en Italie",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "ITA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Démarrage dynamique de la campagne du kaki en Italie -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">La saison des kakis a débuté en Émilie-Romagne avec les variétés Loto di Romagna et Rosso Brillante. La demande est actuellement très soutenue sur les marchés de gros et auprès de la grande distribution, malgré un démarrage ralenti par les conditions météorologiques. <span class=\"news-reason\">L&#x27;article traite du lancement de la campagne de kakis (fruit exotique) sur un marché majeur pour Mehadrin avec une analyse de la demande.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887430/buona-partenza-per-i-kaki-con-un-mercato-vivace-in-italia-e-all-estero/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Dynamic launch of the persimmon campaign in Italy -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">The persimmon season has begun in Emilia-Romagna with the Loto di Romagna and Rosso Brillante varieties. Demand is currently very strong on wholesale markets and with major retailers, despite a start slowed down by weather conditions. <span class=\"news-reason\">The article covers the launch of the persimmon (exotic fruit) campaign in a major market for Mehadrin with an analysis of demand.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887430/buona-partenza-per-i-kaki-con-un-mercato-vivace-in-italia-e-all-estero/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">השקה דינמית של עונת האפרסמון באיטליה -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">עונת האפרסמונים החלה באמיליה-רומאניה עם הזנים Loto di Romagna ו-Rosso Brillante. הביקוש כיום גבוה מאוד בשווקים הסיטונאיים וברשתות השיווק, למרות התחלה איטית בשל תנאי מזג האוויר. <span class=\"news-reason\">הכתבה עוסקת בהשקת עונת האפרסמון (פרי אקזוטי) בשוק מרכזי עבור מהדרין, הכוללת ניתוח של הביקוש.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887430/buona-partenza-per-i-kaki-con-un-mercato-vivace-in-italia-e-all-estero/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793356792_0",
+      "timestamp": "2026-10-30T10:39:52.457199+00:00",
+      "title": "Analyse de la spécialisation des exportations de fruits au Brésil -- 29/10/2026 13:35",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango",
+        "papaya"
+      ],
+      "origins": [
+        "BRA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Analyse de la spécialisation des exportations de fruits au Brésil -- <span class=\"news-date\">29/10/2026 13:35</span></div><div class=\"news-body\">Selon une étude du Cepea, la papaye et la mangue figurent parmi les fruits brésiliens les plus spécialisés pour l&#x27;exportation. L&#x27;analyse révèle que sept des neuf catégories de fruits étudiées ont augmenté leur présence sur les marchés internationaux entre 2016 et 2024. <span class=\"news-reason\">Analyse économique sur les exportations de mangues et papayes, produits Mehadrin, depuis le Brésil.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/latin-america/article/9887343/papayas-melons-and-mangoes-lead-brazil-s-fruit-export-ranking/\" target=\"_blank\">FreshPlaza LatAm -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Analysis of fruit export specialization in Brazil -- <span class=\"news-date\">29/10/2026 13:35</span></div><div class=\"news-body\">According to a study by Cepea, papaya and mango are among the most specialized Brazilian fruits for export. The analysis reveals that seven of the nine fruit categories studied increased their presence in international markets between 2016 and 2024. <span class=\"news-reason\">Economic analysis of mango and papaya exports, Mehadrin products, from Brazil.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/latin-america/article/9887343/papayas-melons-and-mangoes-lead-brazil-s-fruit-export-ranking/\" target=\"_blank\">FreshPlaza LatAm -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ניתוח התמחות יצוא הפירות בברזיל -- <span class=\"news-date\">29/10/2026 13:35</span></div><div class=\"news-body\">לפי מחקר של Cepea, הפפאיה והמנגו נמנים עם הפירות הברזילאיים המתמחים ביותר ליצוא. הניתוח מגלה כי שבע מתוך תשע קטגוריות הפירות שנחקרו הגדילו את נוכחותן בשווקים הבינלאומיים בין השנים 2016 ו-2024. <span class=\"news-reason\">ניתוח כלכלי על יצוא מנגו ופפאיה, מוצרי מהדרין, מברזיל.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/latin-america/article/9887343/papayas-melons-and-mangoes-lead-brazil-s-fruit-export-ranking/\" target=\"_blank\">FreshPlaza LatAm -- לקריאת הכתבה</a></div></div>"
+    },
+    {
       "id": "1793351264_2",
       "timestamp": "2026-10-30T09:07:44.935187+00:00",
-      "title": "Innovation et durabilité au service de la clémentine de Calabre -- 30/10/2026 06:05",
+      "title": "Innovation et durabilité au service de la clémentine de Calabre",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [],
       "products": [
@@ -287,7 +339,7 @@
     {
       "id": "1793291932_6",
       "timestamp": "2026-10-29T16:38:52.418362+00:00",
-      "title": "Recul des volumes d&#x27;avocats mexicains vers les États-Unis à la suite d&#x27;une grève",
+      "title": "Baisse des volumes d&#x27;avocats mexicains vers les États-Unis suite à une grève",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -299,7 +351,7 @@
         "MEX",
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul des volumes d&#x27;avocats mexicains vers les États-Unis à la suite d&#x27;une grève -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">Une grève déclenchée par l&#x27;Union des petits producteurs du Michoacán (PUAM) au Mexique paralyse près de la moitié des expéditions d&#x27;avocats prévues vers les États-Unis. Les producteurs exigent un prix de 45 pesos par kilo, alors qu&#x27;ils n&#x27;en reçoivent actuellement que 13 de la part des entreprises exportatrices et des empacadoras. <span class=\"news-reason\">Article contenant des chiffres précis sur les prix et les volumes d&#x27;un produit Mehadrin (avocat) sur un marché majeur (USA).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887555/la-huelga-de-aguacateros-en-michoacan-reduce-a-casi-la-mitad-los-envios-previstos-a-estados-unidos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse des volumes d&#x27;avocats mexicains vers les États-Unis suite à une grève -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">Une grève déclenchée par l&#x27;Union des petits producteurs du Michoacán (PUAM) au Mexique paralyse près de la moitié des expéditions d&#x27;avocats prévues vers les États-Unis. Les producteurs exigent un prix de 45 pesos par kilo, alors qu&#x27;ils n&#x27;en reçoivent actuellement que 13 de la part des entreprises exportatrices et des empacadoras. <span class=\"news-reason\">Article contenant des chiffres précis sur les prix et les volumes d&#x27;un produit Mehadrin (avocat) sur un marché majeur (USA).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887555/la-huelga-de-aguacateros-en-michoacan-reduce-a-casi-la-mitad-los-envios-previstos-a-estados-unidos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decrease in Mexican avocado volumes to the United States following strike -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">A strike launched by the Union of Small Producers of Michoacán (PUAM) in Mexico is paralyzing nearly half of the planned avocado shipments to the United States. Producers are demanding a price of 45 pesos per kilo, while they currently receive only 13 from exporting companies and packers. <span class=\"news-reason\">Article containing specific figures on prices and volumes for a Mehadrin product (avocado) in a major market (USA).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887555/la-huelga-de-aguacateros-en-michoacan-reduce-a-casi-la-mitad-los-envios-previstos-a-estados-unidos/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה בכמויות האבוקדו המקסיקני לארצות הברית בעקבות שביתה -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">שביתה שהחלה על ידי איגוד היצרנים הקטנים של מיצ'ואקן (PUAM) במקסיקו משתקת כמעט מחצית ממשלוחי האבוקדו המתוכננים לארצות הברית. היצרנים דורשים מחיר של 45 פסו לקילוגרם, בעוד שהם מקבלים כיום רק 13 מהחברות המייצאות ומבתי האריזה. <span class=\"news-reason\">כתבה הכוללת נתונים מדויקים על מחירים וכמויות של מוצר מהדרין (אבוקדו) בשוק מרכזי (ארה\"ב).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887555/la-huelga-de-aguacateros-en-michoacan-reduce-a-casi-la-mitad-los-envios-previstos-a-estados-unidos/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -498,7 +550,7 @@
     {
       "id": "1793259424_1",
       "timestamp": "2026-10-29T07:37:04.624193+00:00",
-      "title": "L’innovation au cœur de la stratégie des clémentines de Calabre sur le marché français",
+      "title": "L&#x27;innovation au cœur de la stratégie des clémentines de Calabre sur le marché français",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [],
       "products": [
@@ -508,7 +560,7 @@
         "FRA",
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’innovation au cœur de la stratégie des clémentines de Calabre sur le marché français -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">Lors d&#x27;un colloque spécialisé, des opérateurs du marché de Rungis ont analysé le positionnement des clémentines italiennes en France. Ils préconisent une innovation variétale et des relations commerciales plus stables pour s&#x27;imposer face à la concurrence. <span class=\"news-reason\">Analyse de la concurrence italienne sur le marché stratégique de Rungis en France.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887131/clementine-calabresi-sul-mercato-francese-il-gusto-fa-la-differenza-ma-servono-innovazione-e-relazioni-durature/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;innovation au cœur de la stratégie des clémentines de Calabre sur le marché français -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">Lors d&#x27;un colloque spécialisé, des opérateurs du marché de Rungis ont analysé le positionnement des clémentines italiennes en France. Ils préconisent une innovation variétale et des relations commerciales plus stables pour s&#x27;imposer face à la concurrence. <span class=\"news-reason\">Analyse de la concurrence italienne sur le marché stratégique de Rungis en France.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887131/clementine-calabresi-sul-mercato-francese-il-gusto-fa-la-differenza-ma-servono-innovazione-e-relazioni-durature/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Calabrian clementines focus on innovation for the French market -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">During a specialized symposium, Rungis market operators analyzed the positioning of Italian clementines in France. They recommend varietal innovation and more stable commercial relations to prevail against the competition. <span class=\"news-reason\">Analysis of Italian competition on the strategic Rungis market in France.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887131/clementine-calabresi-sul-mercato-francese-il-gusto-fa-la-differenza-ma-servono-innovazione-e-relazioni-durature/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות ומקורות</div><div class=\"news-title\">הקלמנטינות מקלבריה מהמרות על חדשנות עבור השוק הצרפתי -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">במהלך כנס מקצועי, מפעילי שוק רונז'יס ניתחו את מיצוב הקלמנטינות האיטלקיות בצרפת. הם ממליצים על חדשנות זנית ועל קשרים מסחריים יציבים יותר כדי להתבסס מול התחרות. <span class=\"news-reason\">ניתוח של התחרות האיטלקית בשוק האסטרטגי של רונז'יס בצרפת.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887131/clementine-calabresi-sul-mercato-francese-il-gusto-fa-la-differenza-ma-servono-innovazione-e-relazioni-durature/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -669,7 +721,7 @@
     {
       "id": "1793200016_6",
       "timestamp": "2026-10-28T15:06:56.882539+00:00",
-      "title": "Lancement de la campagne promotionnelle de la grenade Mollar d’Elche",
+      "title": "Lancement de la campagne de promotion de la grenade Mollar d’Elche",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -678,7 +730,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne promotionnelle de la grenade Mollar d’Elche -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">La dénomination d&#x27;origine protégée de la grenade Mollar d&#x27;Elche a lancé sa nouvelle campagne de communication intitulée « Lo Mollar ». Cette initiative promotionnelle vise à valoriser l&#x27;origine et la qualité de cette variété espagnole spécifique en début de saison. <span class=\"news-reason\">Information sur la stratégie promotionnelle d&#x27;une origine concurrente sur la grenade.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887107/la-granada-mollar-de-elche-estrena-campana-de-promocion/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne de promotion de la grenade Mollar d’Elche -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">La dénomination d&#x27;origine protégée de la grenade Mollar d&#x27;Elche a lancé sa nouvelle campagne de communication intitulée « Lo Mollar ». Cette initiative promotionnelle vise à valoriser l&#x27;origine et la qualité de cette variété espagnole spécifique en début de saison. <span class=\"news-reason\">Information sur la stratégie promotionnelle d&#x27;une origine concurrente sur la grenade.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887107/la-granada-mollar-de-elche-estrena-campana-de-promocion/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Launch of the Mollar de Elche pomegranate promotional campaign -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">The protected designation of origin for the Mollar de Elche pomegranate has launched its new communication campaign titled &quot;Lo Mollar.&quot; This promotional initiative aims to highlight the origin and quality of this specific Spanish variety at the start of the season. <span class=\"news-reason\">Information on the promotional strategy of a competing pomegranate origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887107/la-granada-mollar-de-elche-estrena-campana-de-promocion/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השקת קמפיין הקידום של רימון Mollar d'Elche -- <span class=\"news-date\">28/10/2026 15:43</span></div><div class=\"news-body\">הכינוי המוגן של הרימון Mollar d'Elche השיק קמפיין פרסומי חדש בשם \"Lo Mollar\". יוזמת קידום זו נועדה להדגיש את המקור והאיכות של זן ספרדי ספציפי זה בתחילת העונה. <span class=\"news-reason\">מידע על אסטרטגיית הקידום של מקור מתחרה עבור הרימון.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887107/la-granada-mollar-de-elche-estrena-campana-de-promocion/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -885,7 +937,7 @@
     {
       "id": "1793167520_2",
       "timestamp": "2026-10-28T06:05:20.969472+00:00",
-      "title": "La demande européenne de grenades indiennes s’affranchit de la saisonnalité",
+      "title": "La demande européenne pour les grenades indiennes s’affranchit de la saisonnalité",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -897,7 +949,7 @@
         "ESP",
         "IND"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La demande européenne de grenades indiennes s’affranchit de la saisonnalité -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">Les acheteurs européens maintiennent leurs commandes d&#x27;arilles de grenades indiennes même pendant la saison espagnole. Prashant Indalkar de Sam Agritech note un changement de comportement du marché, la demande devenant moins dépendante des cycles de production locaux. <span class=\"news-reason\">Analyse de la concurrence sur la grenade (produit Mehadrin) montrant une évolution de la demande européenne au profit de l&#x27;origine Inde.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885990/la-demanda-europea-de-arilos-de-granada-india-muestra-senales-de-volverse-menos-estacional/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La demande européenne pour les grenades indiennes s’affranchit de la saisonnalité -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">Les acheteurs européens maintiennent leurs commandes d&#x27;arilles de grenades indiennes même pendant la saison espagnole. Prashant Indalkar de Sam Agritech note un changement de comportement du marché, la demande devenant moins dépendante des cycles de production locaux. <span class=\"news-reason\">Analyse de la concurrence sur la grenade (produit Mehadrin) montrant une évolution de la demande européenne au profit de l&#x27;origine Inde.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885990/la-demanda-europea-de-arilos-de-granada-india-muestra-senales-de-volverse-menos-estacional/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">European demand for Indian pomegranates breaks free from seasonality -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">European buyers are maintaining their orders for Indian pomegranate arils even during the Spanish season. Prashant Indalkar of Sam Agritech notes a shift in market behavior, with demand becoming less dependent on local production cycles. <span class=\"news-reason\">Analysis of competition in pomegranates (Mehadrin product) showing an evolution in European demand in favor of India.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885990/la-demanda-europea-de-arilos-de-granada-india-muestra-senales-de-volverse-moins-estacional/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקור</div><div class=\"news-title\">הביקוש האירופי לרימונים הודים משתחרר מהעונתיות -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">הקונים האירופאים ממשיכים להזמין גרגרי רימון מהודו גם במהלך העונה הספרדית. פראשנט אינדלקאר מחברת Sam Agritech מציין שינוי בהתנהגות השוק, כאשר הביקוש הופך לפחות תלוי במחזורי הייצור המקומיים. <span class=\"news-reason\">ניתוח התחרות בתחום הרימונים (מוצר של מהדרין) המראה שינוי בביקוש האירופי לטובת המקור ההודי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9885990/la-demanda-europea-de-arilos-de-granada-india-muestra-senales-de-volverse-moins-estacional/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -1057,7 +1109,7 @@
     {
       "id": "1793113608_2",
       "timestamp": "2026-10-27T15:06:48.415771+00:00",
-      "title": "Les enjeux de compétitivité de la filière chilienne des agrumes",
+      "title": "Enjeux de compétitivité de la filière chilienne des agrumes",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -1066,14 +1118,14 @@
       "origins": [
         "CHL"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Les enjeux de compétitivité de la filière chilienne des agrumes -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">La compétitivité des exportations chiliennes d&#x27;agrumes pour les saisons à venir dépendra de la qualité des fruits et du contrôle sanitaire. L&#x27;innovation variétale est jugée essentielle par les experts locaux pour maintenir le positionnement du Chili sur les marchés internationaux face à la concurrence croissante. <span class=\"news-reason\">Analyse strategique d&#x27;une origine concurrente (Chili) sur les agrumes</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886721/calidad-variedades-y-sanidad-definiran-la-competitividad-citricola-chilena/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Enjeux de compétitivité de la filière chilienne des agrumes -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">La compétitivité des exportations chiliennes d&#x27;agrumes pour les saisons à venir dépendra de la qualité des fruits et du contrôle sanitaire. L&#x27;innovation variétale est jugée essentielle par les experts locaux pour maintenir le positionnement du Chili sur les marchés internationaux face à la concurrence croissante. <span class=\"news-reason\">Analyse strategique d&#x27;une origine concurrente (Chili) sur les agrumes</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886721/calidad-variedades-y-sanidad-definiran-la-competitividad-citricola-chilena/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETING ORIGINS</div><div class=\"news-title\">Competitiveness challenges for the Chilean citrus industry -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">The competitiveness of Chilean citrus exports for upcoming seasons will depend on fruit quality and phytosanitary control. Varietal innovation is considered essential by local experts to maintain Chile&#x27;s positioning in international markets in the face of growing competition. <span class=\"news-reason\">Strategic analysis of a competing origin (Chile) on citrus</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886721/calidad-variedades-y-sanidad-definiran-la-competitividad-citricola-chilena/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">אתגרי התחרותיות של תעשיית ההדרים הצ&#x27;יליאנית -- <span class=\"news-date\">27/10/2026 15:43</span></div><div class=\"news-body\">התחרותיות של יצוא ההדרים מצ&#x27;ילה בעונות הבאות תלויה באיכות הפרי ובבקרה התברואתית. חדשנות זנית נחשבת לחיונית על ידי מומחים מקומיים כדי לשמור על מיקומה של צ&#x27;ילה בשווקים הבינלאומיים מול התחרות הגוברת. <span class=\"news-reason\">ניתוח אסטרטגי של מקור מתחרה (צ&#x27;ילה) בתחום ההדרים</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9886721/calidad-variedades-y-sanidad-definiran-la-competitividad-citricola-chilena/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1793113608_1",
       "timestamp": "2026-10-27T15:06:48.415771+00:00",
-      "title": "Augmentation de 10 à 15 % du prix des dattes Medjool palestiniennes",
+      "title": "Le prix des dattes Medjool palestiniennes en hausse de 10 à 15 %",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica"
@@ -1082,7 +1134,7 @@
         "date"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Augmentation de 10 à 15 % du prix des dattes Medjool palestiniennes -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">La production de dattes Medjool palestiniennes est estimée à 35 000 tonnes pour cette saison. Les exportations ont débuté mi-octobre depuis Jéricho. Les producteurs et exportateurs prévoient une augmentation des prix de l&#x27;ordre de 10 à 15 % en raison de l&#x27;alourdissement des coûts logistiques et de production dans la filière. <span class=\"news-reason\">Info sur les volumes (35 000 t) et prix d&#x27;une origine concurrente directe sur un produit phare Mehadrin</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885603/la-produzione-di-datteri-medjool-palestinesi-e-stimata-a-35-000-tonnellate-in-questa-stagione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le prix des dattes Medjool palestiniennes en hausse de 10 à 15 % -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">La production de dattes Medjool palestiniennes est estimée à 35 000 tonnes pour cette saison. Les exportations ont débuté mi-octobre depuis Jéricho. Les producteurs et exportateurs prévoient une augmentation des prix de l&#x27;ordre de 10 à 15 % en raison de l&#x27;alourdissement des coûts logistiques et de production dans la filière. <span class=\"news-reason\">Info sur les volumes (35 000 t) et prix d&#x27;une origine concurrente directe sur un produit phare Mehadrin</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885603/la-produzione-di-datteri-medjool-palestinesi-e-stimata-a-35-000-tonnellate-in-questa-stagione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">10 to 15% increase in the price of Palestinian Medjool dates -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">Palestinian Medjool date production is estimated at 35,000 tons for this season. Exports began in mid-October from Jericho. Growers and exporters anticipate a price increase of 10 to 15% due to higher logistical and production costs in the industry. <span class=\"news-reason\">Info on volumes (35,000 t) and prices of a direct competing origin on a flagship Mehadrin product</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885603/la-produzione-di-datteri-medjool-palestinesi-e-stimata-a-35-000-tonnellate-in-questa-stagione/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">עלייה של 10% עד 15% במחיר תמרי המג&#x27;הול הפלסטיניים -- <span class=\"news-date\">27/10/2026 06:05</span></div><div class=\"news-body\">ייצור תמרי המג&#x27;הול הפלסטיניים מוערך ב-35,000 טון לעונה זו. הייצוא החל באמצע אוקטובר מיריחו. המגדלים והיצואנים צופים עליית מחירים בשיעור של 10% עד 15% בשל התייקרות עלויות הלוגיסטיקה והייצור בענף. <span class=\"news-reason\">מידע על כמויות (35,000 טון) ומחירים של מקור מתחרה ישיר במוצר דגל של מהדרין</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9885603/la-produzione-di-datteri-medjool-palestinesi-e-stimata-a-35-000-tonnellate-in-questa-stagione/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
