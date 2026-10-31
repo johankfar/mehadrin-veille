@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T06:05:49.205418+00:00",
-  "article_count": 57,
+  "last_updated": "2026-10-31T07:34:58.474655+00:00",
+  "article_count": 56,
   "attention_points": [
     {
       "id": "attention-bb3731e69aac77e8",
@@ -19,7 +19,7 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 11
+      "age_hours": 13
     },
     {
       "id": "attention-0bb4eb0163b2cb12",
@@ -38,7 +38,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 15
+      "age_hours": 17
     },
     {
       "id": "attention-74af3b15e0064e37",
@@ -58,7 +58,7 @@
         "avocat",
         "orange"
       ],
-      "age_hours": 15
+      "age_hours": 17
     },
     {
       "id": "attention-d9e8c363da8aee54",
@@ -75,7 +75,7 @@
       "signal_label": "Alerte",
       "icon": "alert",
       "products": [],
-      "age_hours": 17
+      "age_hours": 19
     }
   ],
   "articles": [
@@ -220,7 +220,7 @@
     {
       "id": "1793356792_2",
       "timestamp": "2026-10-30T10:39:52.457199+00:00",
-      "title": "Turquie : baisse de 30,9 % de la production fruitière anticipée pour 2025",
+      "title": "Turquie : baisse de 30,9 % de la production fruitière prévue pour 2025",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica",
@@ -232,7 +232,7 @@
       "origins": [
         "TUR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Turquie : baisse de 30,9 % de la production fruitière anticipée pour 2025 -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">Selon l&#x27;Institut statistique turc (TÜİK), la production de fruits en Turquie a enregistré une chute de 30,9 % en 2025, totalisant 19,6 millions de tonnes. La production de légumes a également reculé de 0,9 % pour atteindre 33,3 millions de tonnes. <span class=\"news-reason\">L&#x27;article présente des chiffres de production pour une origine concurrente majeure sur le segment des agrumes et des grenades.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884814/la-produzione-di-frutta-cala-del-30-9-per-cento-e-quella-orticola-dello-0-9-per-cento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Turquie : baisse de 30,9 % de la production fruitière prévue pour 2025 -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">Selon l&#x27;Institut statistique turc (TÜİK), la production de fruits en Turquie a enregistré une chute de 30,9 % en 2025, totalisant 19,6 millions de tonnes. La production de légumes a également reculé de 0,9 % pour atteindre 33,3 millions de tonnes. <span class=\"news-reason\">L&#x27;article présente des chiffres de production pour une origine concurrente majeure sur le segment des agrumes et des grenades.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884814/la-produzione-di-frutta-cala-del-30-9-per-cento-e-quella-orticola-dello-0-9-per-cento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">30.9% decline in fruit production in Turkey in 2025 -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">According to the Turkish Statistical Institute (TÜİK), fruit production in Turkey recorded a 30.9% drop in 2025, totaling 19.6 million tons. Vegetable production also fell by 0.9% to reach 33.3 million tons. <span class=\"news-reason\">The article presents production figures for a major competing origin in the citrus and pomegranate segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884814/la-produzione-di-frutta-cala-del-30-9-per-cento-e-quella-orticola-dello-0-9-per-cento/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 30.9% בייצור הפירות בטורקיה בשנת 2025 -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">לפי המכון הטורקי לסטטיסטיקה (TÜİK), ייצור הפירות בטורקיה רשם ירידה של 30.9% בשנת 2025, והסתכם ב-19.6 מיליון טון. ייצור הירקות ירד אף הוא ב-0.9% והגיע ל-33.3 מיליון טון. <span class=\"news-reason\">הכתבה מציגה נתוני ייצור עבור מקור תחרותי מרכזי במגזרי ההדרים והרימונים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884814/la-produzione-di-frutta-cala-del-30-9-per-cento-e-quella-orticola-dello-0-9-per-cento/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -320,14 +320,14 @@
     {
       "id": "1793340436_3",
       "timestamp": "2026-10-30T06:07:16.286098+00:00",
-      "title": "Grève des transports : l&#x27;approvisionnement en clémentines de Calabre perturbé",
+      "title": "Grève des transports : perturbations de l&#x27;approvisionnement en clémentines de Calabre",
       "category": "ALERTES SUPPLY",
       "commercials": [],
       "products": [
         "mandarine"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Grève des transports : l&#x27;approvisionnement en clémentines de Calabre perturbé -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">Le début de la campagne des clémentines en Calabre est perturbé par une grève des transports et des retards dans les expéditions. Ces complications logistiques freinent la valorisation des produits sur les marchés européens au moment de leur lancement. <span class=\"news-reason\">Alerte logistique impactant la disponibilité et les délais d&#x27;un produit concurrent direct au début de la saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887723/campagna-clementine-sciopero-dei-trasporti-e-ritardi-nelle-spedizioni-complicano-l-esordio-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Grève des transports : perturbations de l&#x27;approvisionnement en clémentines de Calabre -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">Le début de la campagne des clémentines en Calabre est perturbé par une grève des transports et des retards dans les expéditions. Ces complications logistiques freinent la valorisation des produits sur les marchés européens au moment de leur lancement. <span class=\"news-reason\">Alerte logistique impactant la disponibilité et les délais d&#x27;un produit concurrent direct au début de la saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887723/campagna-clementine-sciopero-dei-trasporti-e-ritardi-nelle-spedizioni-complicano-l-esordio-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Transport strike: delays for Calabrian clementines -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">The start of the clementine season in Calabria is disrupted by a transport strike and shipping delays. These logistical complications are slowing down product valuation on European markets at the time of their launch. <span class=\"news-reason\">Logistics alert impacting the availability and lead times of a direct competitor product at the start of the season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887723/campagna-clementine-sciopero-dei-trasporti-e-ritardi-nelle-spedizioni-complicano-l-esordio-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">שביתת הובלה: עיכובים בקלמנטינות מקלבריה -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">תחילת עונת הקלמנטינות בקלבריה משובשת על ידי שביתת הובלה ועיכובים במשלוחים. סיבוכים לוגיסטיים אלו מעכבים את שיווק המוצרים בשווקים האירופיים בזמן השקתם. <span class=\"news-reason\">התראה לוגיסטית המשפיעה על הזמינות ולוחות הזמנים של מוצר מתחרה ישיר בתחילת העונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887723/campagna-clementine-sciopero-dei-trasporti-e-ritardi-nelle-spedizioni-complicano-l-esordio-sui-mercati/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -387,7 +387,7 @@
     {
       "id": "1793297310_7",
       "timestamp": "2026-10-29T18:08:30.964961+00:00",
-      "title": "Hausse du prix moyen de la mangue sur le marché en ligne néerlandais",
+      "title": "Augmentation du prix moyen de la mangue sur le marché en ligne néerlandais",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -399,7 +399,7 @@
       "origins": [
         "NLD"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Hausse du prix moyen de la mangue sur le marché en ligne néerlandais -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">Au cours de la semaine 43 de 2026, le prix moyen de la mangue a enregistré une hausse de 18 centimes sur le marché de détail en ligne aux Pays-Bas. Cette tendance à la hausse est partagée avec les fraises, contrairement aux concombres qui voient leurs prix baisser. <span class=\"news-reason\">L&#x27;article contient des données chiffrées sur les prix de la mangue (produit Mehadrin) sur un marché européen important.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886396/retail-online-olandese-per-i-cetrioli-continua-il-trend-al-ribasso-fragole-e-mango-piu-cari/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Augmentation du prix moyen de la mangue sur le marché en ligne néerlandais -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">Au cours de la semaine 43 de 2026, le prix moyen de la mangue a enregistré une hausse de 18 centimes sur le marché de détail en ligne aux Pays-Bas. Cette tendance à la hausse est partagée avec les fraises, contrairement aux concombres qui voient leurs prix baisser. <span class=\"news-reason\">L&#x27;article contient des données chiffrées sur les prix de la mangue (produit Mehadrin) sur un marché européen important.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886396/retail-online-olandese-per-i-cetrioli-continua-il-trend-al-ribasso-fragole-e-mango-piu-cari/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Increase in the average price of mangoes on the Dutch online market -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">During week 43 of 2026, the average price of mangoes recorded an increase of 18 cents on the online retail market in the Netherlands. This upward trend is shared with strawberries, unlike cucumbers which see their prices fall. <span class=\"news-reason\">The article contains numerical data on mango prices (a Mehadrin product) in an important European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886396/retail-online-olandese-per-i-cetrioli-continua-il-trend-al-ribasso-fragole-e-mango-piu-cari/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עלייה במחיר הממוצע של מנגו בשוק המקוון ההולנדי -- <span class=\"news-date\">29/10/2026 06:05</span></div><div class=\"news-body\">במהלך שבוע 43 של 2026, המחיר הממוצע של מנגו רשם עלייה של 18 סנט בשוק הקמעונאי המקוון בהולנד. מגמת עלייה זו משותפת גם לתותים, בניגוד למלפפונים שמחיריהם יורדים. <span class=\"news-reason\">הכתבה מכילה נתונים מספריים על מחירי המנגו (מוצר מהדרין) בשוק אירופי חשוב.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886396/retail-online-olandese-per-i-cetrioli-continua-il-trend-al-ribasso-fragole-e-mango-piu-cari/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -494,7 +494,7 @@
     {
       "id": "1793291932_5",
       "timestamp": "2026-10-29T16:38:52.418362+00:00",
-      "title": "Expansion de la mandarine citrouille sur le marché européen",
+      "title": "L’expansion de la mandarine citrouille sur le marché européen",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -503,14 +503,14 @@
         "mandarine"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Expansion de la mandarine citrouille sur le marché européen -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">La mandarine en forme de citrouille développée par GENESIS FRESH et commercialisée par AMFRESH Group entame sa quatrième saison. Ce produit renforce sa présence dans la distribution européenne avec de nouveaux formats d&#x27;emballage et des actions marketing saisonnières pour stimuler sa croissance sur les marchés d&#x27;Europe de l&#x27;Ouest. <span class=\"news-reason\">Mouvement commercial concernant une variété spécifique de mandarine sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887627/recibimos-consultas-de-todo-el-mundo-reflejo-de-la-curiosidad-que-despierta-esta-fruta-tan-singular/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’expansion de la mandarine citrouille sur le marché européen -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">La mandarine en forme de citrouille développée par GENESIS FRESH et commercialisée par AMFRESH Group entame sa quatrième saison. Ce produit renforce sa présence dans la distribution européenne avec de nouveaux formats d&#x27;emballage et des actions marketing saisonnières pour stimuler sa croissance sur les marchés d&#x27;Europe de l&#x27;Ouest. <span class=\"news-reason\">Mouvement commercial concernant une variété spécifique de mandarine sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887627/recibimos-consultas-de-todo-el-mundo-reflejo-de-la-curiosidad-que-despierta-esta-fruta-tan-singular/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">European expansion of the pumpkin-shaped mandarin -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">The pumpkin-shaped mandarin developed by GENESIS FRESH and marketed by AMFRESH Group is starting its fourth season. This product is strengthening its presence in European distribution with new packaging formats and seasonal marketing actions to stimulate its growth in Western European markets. <span class=\"news-reason\">Commercial movement concerning a specific variety of mandarin on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887627/recibimos-consultas-de-todo-el-mundo-reflejo-de-la-curiosidad-que-despierta-esta-fruta-tan-singular/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">התרחבות אירופית של המנדרינה בצורת דלעת -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">המנדרינה בצורת דלעת שפותחה על ידי GENESIS FRESH ומשווקת על ידי קבוצת AMFRESH מתחילה את עונתה הרביעית. מוצר זה מחזק את נוכחותו בהפצה האירופית עם פורמטים חדשים של אריזה ופעולות שיווק עונתיות לעידוד צמיחתו בשווקי מערב אירופה. <span class=\"news-reason\">מהלך מסחרי הנוגע לזן ספציפי של מנדרינה בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887627/recibimos-consultas-de-todo-el-mundo-reflejo-de-la-curiosidad-que-despierta-this-fruit-so-unique/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1793291932_4",
       "timestamp": "2026-10-29T16:38:52.418362+00:00",
-      "title": "La Turquie intensifie la pression sur les cours du pomélo espagnol",
+      "title": "La Turquie accentue la pression sur les cours du pomélo espagnol",
       "category": "PRIX &amp VOLUMES",
       "commercials": [],
       "products": [
@@ -521,14 +521,14 @@
         "ESP",
         "TUR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La Turquie intensifie la pression sur les cours du pomélo espagnol -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">La campagne espagnole de pomélo et de citron subit la concurrence croissante de la Turquie sur le marché européen. La Turquie dispose d&#x27;une récolte plus importante cette année et pratique des prix bas. L&#x27;augmentation de la disponibilité des produits turcs crée une pression sur les cotations espagnoles alors que la saison européenne prend forme. <span class=\"news-reason\">Contient des informations sur la concurrence entre deux origines Mehadrin (Espagne et Turquie) avec un impact direct sur les prix en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887589/parece-que-esta-campana-vamos-a-tener-una-mayor-presion-de-turquia-en-los-precios-del-limon-y-el-pomelo/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La Turquie accentue la pression sur les cours du pomélo espagnol -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">La campagne espagnole de pomélo et de citron subit la concurrence croissante de la Turquie sur le marché européen. La Turquie dispose d&#x27;une récolte plus importante cette année et pratique des prix bas. L&#x27;augmentation de la disponibilité des produits turcs crée une pression sur les cotations espagnoles alors que la saison européenne prend forme. <span class=\"news-reason\">Contient des informations sur la concurrence entre deux origines Mehadrin (Espagne et Turquie) avec un impact direct sur les prix en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887589/parece-que-esta-campana-vamos-a-tener-una-mayor-presion-de-turquia-en-los-precios-del-limon-y-el-pomelo/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Turkey increases price pressure on Spanish pomelo -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">The Spanish pomelo and lemon season is facing growing competition from Turkey in the European market. Turkey has a larger harvest this year and is offering low prices. The increased availability of Turkish products is creating pressure on Spanish quotes as the European season takes shape. <span class=\"news-reason\">Contains information on competition between two Mehadrin origins (Spain and Turkey) with a direct impact on prices in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887589/parece-que-esta-campana-vamos-a-tener-una-mayor-presion-de-turquia-en-los-precios-del-limon-y-el-pomelo/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">טורקיה מגבירה את הלחץ על מחירי הפומלו הספרדי -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">עונת הפומלו והלימון הספרדית סופגת תחרות גוברת מצד טורקיה בשוק האירופי. לטורקיה יש יבול גדול יותר השנה והיא מציעה מחירים נמוכים. העלייה בזמינות המוצרים הטורקיים יוצרת לחץ על המחירים הספרדיים בעוד העונה האירופית מתגבשת. <span class=\"news-reason\">מכיל מידע על התחרות בין שני מקורות של מהדרין (ספרד וטורקיה) עם השפעה ישירה על המחירים באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887589/parece-que-esta-campana-vamos-a-tener-una-mayor-presion-de-turquia-en-los-precios-del-limon-y-el-pomelo/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1793291932_3",
       "timestamp": "2026-10-29T16:38:52.418362+00:00",
-      "title": "Lancement d&#x27;une campagne de mangues décisive au Pérou",
+      "title": "Lancement d&#x27;une campagne de la mangue décisive au Pérou",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -539,7 +539,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Lancement d&#x27;une campagne de mangues décisive au Pérou -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">La campagne de mangue au Pérou démarre avec une production réduite et des fruits manquant de maturité pour certains marchés. Cette situation est aggravée par un phénomène El Niño précoce. Les producteurs de Piura et Casma craignent que si les pluies débutent fin novembre, la campagne ne s&#x27;arrête prématurément, limitant l&#x27;offre globale. <span class=\"news-reason\">Alerte sur la production et la qualité d&#x27;une origine concurrente majeure (Pérou) pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887570/hoy-no-hay-campana-y-si-las-lluvias-empiezan-a-fines-de-noviembre-se-acabo-la-campana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Lancement d&#x27;une campagne de la mangue décisive au Pérou -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">La campagne de mangue au Pérou démarre avec une production réduite et des fruits manquant de maturité pour certains marchés. Cette situation est aggravée par un phénomène El Niño précoce. Les producteurs de Piura et Casma craignent que si les pluies débutent fin novembre, la campagne ne s&#x27;arrête prématurément, limitant l&#x27;offre globale. <span class=\"news-reason\">Alerte sur la production et la qualité d&#x27;une origine concurrente majeure (Pérou) pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887570/hoy-no-hay-campana-y-si-las-lluvias-empiezan-a-fines-de-noviembre-se-acabo-la-campana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Critical season opening for mangoes in Peru -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">The mango season in Peru starts with reduced production and fruit lacking maturity for certain markets. This situation is worsened by an early El Niño phenomenon. Producers in Piura and Casma fear that if rains start at the end of November, the season will end prematurely, limiting the global supply. <span class=\"news-reason\">Alert on the production and quality of a major competing origin (Peru) for mangoes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887570/hoy-no-hay-campana-y-si-las-lluvias-empiezan-a-fines-de-noviembre-se-acabo-la-campana/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">פתיחת עונה קריטית למנגו בפרו -- <span class=\"news-date\">29/10/2026 16:04</span></div><div class=\"news-body\">עונת המנגו בפרו מתחילה עם ייצור מופחת ופירות חסרי בשלות עבור שווקים מסוימים. מצב זה מוחמר על ידי תופעת אל ניניו מוקדמת. המגדלים בפיורה ובקסמה חוששים שאם הגשמים יתחילו בסוף נובמבר, העונה תיעצר בטרם עת, מה שיגביל את ההיצע הכולל. <span class=\"news-reason\">התראה על הייצור והאיכות של מקור מתחרה מרכזי (פרו) למנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887570/hoy-no-hay-campana-y-si-las-lluvias-empiezan-a-fines-de-noviembre-se-acabo-la-campana/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -806,7 +806,7 @@
     {
       "id": "1793200016_9",
       "timestamp": "2026-10-28T15:06:56.882539+00:00",
-      "title": "Ralentissement du marché de la mangue et augmentation des charges d&#x27;exploitation",
+      "title": "Ralentissement du marché de la mangue et hausse des charges d&#x27;exploitation",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -817,7 +817,7 @@
       "origins": [
         "BRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Ralentissement du marché de la mangue et augmentation des charges d&#x27;exploitation -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">Le marché de la mangue traverse une phase complexe caractérisée par des ventes inférieures aux attentes malgré des arrivages réguliers du Brésil. Les difficultés logistiques, les périodes de vacances et la prudence des consommateurs pèsent sur la demande. Ces facteurs freinent la fluidité du marché et compliquent la répercussion de la hausse des coûts de production et de transport auprès des acheteurs finaux. <span class=\"news-reason\">L&#x27;article analyse la situation actuelle du marché de la mangue, produit Mehadrin, en provenance du Brésil vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886400/le-vendite-di-mango-procedono-a-rilento-e-rendono-difficile-trasferire-gli-aumenti-dei-costi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Ralentissement du marché de la mangue et hausse des charges d&#x27;exploitation -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">Le marché de la mangue traverse une phase complexe caractérisée par des ventes inférieures aux attentes malgré des arrivages réguliers du Brésil. Les difficultés logistiques, les périodes de vacances et la prudence des consommateurs pèsent sur la demande. Ces facteurs freinent la fluidité du marché et compliquent la répercussion de la hausse des coûts de production et de transport auprès des acheteurs finaux. <span class=\"news-reason\">L&#x27;article analyse la situation actuelle du marché de la mangue, produit Mehadrin, en provenance du Brésil vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886400/le-vendite-di-mango-procedono-a-rilento-e-rendono-difficile-trasferire-gli-aumenti-dei-costi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Mango market slowdown and rising operating costs -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">The mango market is undergoing a complex phase characterized by sales below expectations despite regular arrivals from Brazil. Logistical difficulties, holiday periods, and consumer caution are weighing on demand. These factors hinder market fluidity and complicate passing on increased production and transport costs to end buyers. <span class=\"news-reason\">The article analyzes the current situation of the mango market, a Mehadrin product, from Brazil to Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886400/le-vendite-di-mango-procedono-a-rilento-e-rendono-difficile-trasferire-gli-aumenti-dei-costi/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">האטה בשוק המנגו ועלייה בעלויות התפעול -- <span class=\"news-date\">28/10/2026 06:05</span></div><div class=\"news-body\">שוק המנגו עובר שלב מורכב המאופיין במכירות נמוכות מהצפוי למרות הגעות סדירות מברזיל. קשיים לוגיסטיים, תקופות חגים וזהירות הצרכנים מכבידים על הביקוש. גורמים אלו פוגעים בזרימת השוק ומקשים על גלגול עליית עלויות הייצור וההובלה אל הקונים הסופיים. <span class=\"news-reason\">הכתבה מנתחת את המצב הנוכחי בשוק המנגו, מוצר של מהדרין, המגיע מברזיל לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886400/le-vendite-di-mango-procedono-a-rilento-e-rendono-difficile-trasferire-gli-aumenti-dei-costi/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -1051,24 +1051,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Mission Produce accélère sa croissance sur les marchés de l&#x27;avocat et de la mangue -- <span class=\"news-date\">28/10/2026 08:00</span></div><div class=\"news-body\">Près d&#x27;un an après la finalisation de son accord avec Calavo, Mission Produce entre dans une nouvelle phase de croissance. Le spécialiste de l&#x27;avocat et de la mangue affiche désormais une offre d&#x27;approvisionnement plus large et une structure commerciale renforcée à l&#x27;échelle mondiale. <span class=\"news-reason\">Information sur un mouvement d&#x27;entreprise majeur (accord avec Calavo) impactant l&#x27;offre mondiale d&#x27;avocats et de mangues.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/28/mission-ifpa/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Mission Produce accelerates its growth in the avocado and mango markets -- <span class=\"news-date\">28/10/2026 08:00</span></div><div class=\"news-body\">Nearly one year after finalising its agreement with Calavo, Mission Produce is entering a new phase of growth. The avocado and mango specialist now boasts a broader supply offering and a strengthened commercial structure on a global scale. <span class=\"news-reason\">Information on a major corporate move (agreement with Calavo) impacting the global supply of avocados and mangoes.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/28/mission-ifpa/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכים עסקיים</div><div class=\"news-title\">Mission Produce מאיצה את צמיחתה בשוקי האבוקדו והמנגו -- <span class=\"news-date\">28/10/2026 08:00</span></div><div class=\"news-body\">כמעט שנה לאחר השלמת ההסכם שלה עם Calavo, חברת Mission Produce נכנסת לשלב צמיחה חדש. המומחית לאבוקדו ומנגו מציגה כעת היצע אספקה רחב יותר ומבנה מסחרי מחוזק בקנה מידה עולמי. <span class=\"news-reason\">מידע על מהלך עסקי משמעותי (הסכם עם Calavo) המשפיע על ההיצע העולמי של אבוקדו ומנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/28/mission-ifpa/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793172913_0",
-      "timestamp": "2026-10-28T07:35:13.017656+00:00",
-      "title": "Optimisation du suivi des exportations de mangues via une plateforme numérique -- 27/10/2026 13:45",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "mango"
-      ],
-      "origins": [
-        "PER"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Optimisation du suivi des exportations de mangues via une plateforme numérique -- <span class=\"news-date\">27/10/2026 13:45</span></div><div class=\"news-body\">L&#x27;entreprise FairFruit utilise désormais une plateforme numérique pour améliorer le suivi en temps réel de ses exportations de mangues fraîches. Ce système permet une gestion optimisée de la chaîne d&#x27;approvisionnement depuis les sites de production au Pérou jusqu&#x27;au marché européen, facilitant ainsi la coordination logistique et la traçabilité pour les importateurs. <span class=\"news-reason\">Information sur l&#x27;amélioration de la chaîne logistique d&#x27;un concurrent pour les mangues péruviennes vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9886757/digital-platform-improves-fresh-produce-shipment-tracking/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Optimization of mango export tracking via a digital platform -- <span class=\"news-date\">27/10/2026 13:45</span></div><div class=\"news-body\">FairFruit is now using a digital platform to improve real-time tracking of its fresh mango exports. This system allows for optimized supply chain management from production sites in Peru to the European market, thus facilitating logistical coordination and traceability for importers. <span class=\"news-reason\">Information on the logistics chain improvement of a competitor for Peruvian mangoes to Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9886757/digital-platform-improves-fresh-produce-shipment-tracking/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">אופטימיזציה של מעקב אחר ייצוא מנגו באמצעות פלטפורמה דיגיטלית -- <span class=\"news-date\">27/10/2026 13:45</span></div><div class=\"news-body\">חברת FairFruit משתמשת כעת בפלטפורמה דיגיטלית כדי לשפר את המעקב בזמן אמת אחר ייצוא המנגו הטרי שלה. מערכת זו מאפשרת ניהול אופטימלי של שרשרת האספקה מאתרי הייצור בפרו ועד לשוק האירופי, ובכך מקלה על התיאום הלוגיסטי והעקיבות עבור היבואנים. <span class=\"news-reason\">מידע על שיפור שרשרת הלוגיסטיקה של מתחרה עבור מנגו פרואני לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9886757/digital-platform-improves-fresh-produce-shipment-tracking/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
