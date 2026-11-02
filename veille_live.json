@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-02T10:33:28.335675+00:00",
-  "article_count": 19,
+  "last_updated": "2026-11-02T12:02:57.564181+00:00",
+  "article_count": 17,
   "attention_points": [
     {
       "id": "attention-3912e9e2bbf247b5",
       "article_id": "1793610139_0",
       "url": "https://www.freshplaza.de/article/9888135/peruanische-avocadosaison-endet-mit-guten-preisen/",
       "source": "FreshPlaza DE",
-      "title": "Campagne des avocats péruviens se clôture",
+      "title": "Campagne de l'avocat au Pérou s'achève",
       "summary": "La baisse des rendements favorise le maintien des prix pour les avocats péruviens",
       "origin_code": "PER",
       "origin_label": "Pérou",
@@ -19,7 +19,26 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 1
+      "age_hours": 3
+    },
+    {
+      "id": "attention-7b966f949df4a3e8",
+      "article_id": "1793620977_0",
+      "url": "https://www.freshfruitportal.com/news/2026/11/02/state-of-mexico-avo/",
+      "source": "Fresh Fruit Portal",
+      "title": "Le secteur des avocats cible le marché mondial",
+      "summary": "Les producteurs certifiés prévoient de renforcer leur présence commerciale sur le marché mondial",
+      "origin_code": "MEX",
+      "origin_label": "Mexique",
+      "published_at": "2026-11-02T08:00:29+00:00",
+      "published_at_source": "rss",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 4
     },
     {
       "id": "attention-39114fc949b32f79",
@@ -39,7 +58,7 @@
         "mango",
         "pitahaya"
       ],
-      "age_hours": 5
+      "age_hours": 7
     },
     {
       "id": "attention-bb3731e69aac77e8",
@@ -58,29 +77,29 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 64
-    },
-    {
-      "id": "attention-17d49bd266c55792",
-      "article_id": "1793464499_0",
-      "url": "https://www.freshplaza.es/article/9887264/la-importacion-de-batatas-es-actualmente-un-negocio-puramente-deficitario/",
-      "source": "FreshPlaza ES",
-      "title": "Saturation du marché et repli des cours",
-      "summary": "Le marché est saturé de produits entraînant des baisses de prix très importantes",
-      "origin_code": "EGY",
-      "origin_label": "Égypte",
-      "published_at": "2026-10-30T15:19:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "price",
-      "signal_label": "Prix",
-      "icon": "price",
-      "products": [
-        "sweet_potato"
-      ],
-      "age_hours": 68
+      "age_hours": 65
     }
   ],
   "articles": [
+    {
+      "id": "1793620977_0",
+      "timestamp": "2026-11-02T12:02:57.564181+00:00",
+      "title": "La filière mexicaine de l&#x27;avocat cible le marché européen -- 02/11/2026 08:00",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MEX",
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La filière mexicaine de l&#x27;avocat cible le marché européen -- <span class=\"news-date\">02/11/2026 08:00</span></div><div class=\"news-body\">Le secteur de l&#x27;avocat au Mexique attend des autorisations pour augmenter ses exportations. L&#x27;organisation APEAMEX souligne que des vergers certifiés sont prêts pour le commerce transfrontalier. Au-delà des États-Unis, les exportateurs mexicains cherchent activement à étendre leur portée sur les marchés du Canada, du Japon et de l&#x27;Europe, ainsi que sur d&#x27;autres marchés émergents. <span class=\"news-reason\">L&#x27;article détaille la stratégie d&#x27;expansion des exportateurs mexicains d&#x27;avocats vers l&#x27;Europe et d&#x27;autres marchés mondiaux.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/02/state-of-mexico-avo/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">The Mexican avocado industry targets the European market -- <span class=\"news-date\">02/11/2026 08:00</span></div><div class=\"news-body\">The avocado sector in Mexico is awaiting authorizations to increase its exports. The APEAMEX organization highlights that certified orchards are ready for cross-border trade. Beyond the United States, Mexican exporters are actively seeking to expand their reach in the markets of Canada, Japan, and Europe, as well as other emerging markets. <span class=\"news-reason\">The article details the expansion strategy of Mexican avocado exporters toward Europe and other global markets.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/02/state-of-mexico-avo/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">ענף האבוקדו המקסיקני מכוון לשוק האירופי -- <span class=\"news-date\">02/11/2026 08:00</span></div><div class=\"news-body\">מגזר האבוקדו במקסיקו ממתין לאישורים להגדלת הייצוא שלו. ארגון APEAMEX מציין כי מטעים מאושרים מוכנים לסחר חוצה גבולות. מעבר לארצות הברית, היצואנים המקסיקנים פועלים באופן פעיל להרחבת תפוצתם בשווקי קנדה, יפן ואירופה, כמו גם בשווקים מתעוררים נוספים. <span class=\"news-reason\">המאמר מפרט את אסטרטגיית ההתרחבות של יצואני האבוקדו המקסיקנים לאירופה ולשווקים עולמיים אחרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/02/state-of-mexico-avo/\" target=\"_blank\">Fresh Fruit Portal -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1793615608_0",
       "timestamp": "2026-11-02T10:33:28.335675+00:00",
@@ -100,7 +119,7 @@
     {
       "id": "1793610139_0",
       "timestamp": "2026-11-02T09:02:19.886664+00:00",
-      "title": "La campagne des avocats péruviens se clôture sur des prix satisfaisants",
+      "title": "La campagne de l&#x27;avocat au Pérou s&#x27;achève sur des prix satisfaisants",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -111,7 +130,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La campagne des avocats péruviens se clôture sur des prix satisfaisants -- <span class=\"news-date\">02/11/2026 09:57</span></div><div class=\"news-body\">La saison de l&#x27;avocat au Pérou se termine cette année avec des rendements plus faibles, mais compensés par de bons niveaux de prix sur le marché. Le changement climatique a perturbé le calendrier et les volumes de production globale par rapport aux années précédentes. <span class=\"news-reason\">L&#x27;article traite de la fin de campagne d&#x27;un produit Mehadrin (avocat) chez une origine concurrente (Pérou) avec des indications sur les prix et le rendement.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9888135/peruanische-avocadosaison-endet-mit-guten-preisen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La campagne de l&#x27;avocat au Pérou s&#x27;achève sur des prix satisfaisants -- <span class=\"news-date\">02/11/2026 09:57</span></div><div class=\"news-body\">La saison de l&#x27;avocat au Pérou se termine cette année avec des rendements plus faibles, mais compensés par de bons niveaux de prix sur le marché. Le changement climatique a perturbé le calendrier et les volumes de production globale par rapport aux années précédentes. <span class=\"news-reason\">L&#x27;article traite de la fin de campagne d&#x27;un produit Mehadrin (avocat) chez une origine concurrente (Pérou) avec des indications sur les prix et le rendement.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9888135/peruanische-avocadosaison-endet-mit-guten-preisen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Closing of the Peruvian avocado season with satisfactory prices -- <span class=\"news-date\">02/11/2026 09:57</span></div><div class=\"news-body\">The avocado season in Peru is ending this year with lower yields, but offset by good price levels on the market. Climate change has disrupted the schedule and overall production volumes compared to previous years. <span class=\"news-reason\">The article discusses the end of the season for a Mehadrin product (avocado) from a competing origin (Peru) with indications of prices and yield.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9888135/peruanische-avocadosaison-endet-mit-guten-preisen/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיום עונת האבוקדו הפרואני עם מחירים משביעי רצון -- <span class=\"news-date\">02/11/2026 09:57</span></div><div class=\"news-body\">עונת האבוקדו בפרו מסתיימת השנה עם יבולים נמוכים יותר, אך הם פוצו על ידי רמות מחירים טובות בשוק. שינויי האקלים שיבשו את לוח הזמנים ואת כמויות הייצור הכוללות בהשוואה לשנים קודמות. <span class=\"news-reason\">המאמר עוסק בסיום העונה של מוצר מהדרין (אבוקדו) במקור מתחרה (פרו) עם אינדיקציות לגבי המחירים והיבול.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9888135/peruanische-avocadosaison-endet-mit-guten-preisen/\" target=\"_blank\">FreshPlaza DE -- לקריאת המאמר</a></div></div>"
     },
@@ -355,58 +374,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Manifestation des agriculteurs espagnols contre l&#x27;accord commercial Maroc-UE -- <span class=\"news-date\">30/10/2026 12:06</span></div><div class=\"news-body\">Les organisations agricoles espagnoles ont manifesté à Madrid pour exiger le rejet de l&#x27;accord commercial entre l&#x27;UE et le Maroc. Elles dénoncent une concurrence déloyale, une situation qui préoccupe les exportateurs marocains de fruits et légumes. <span class=\"news-reason\">L&#x27;article concerne une menace réglementaire et une contestation de l&#x27;accès au marché pour les produits en provenance du Maroc, une origine clé de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/tractorada-de-madrid-laccord-ue-maroc-dans-les-revendications-des-agriculteurs-espagnols/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Spanish farmers' protest against the Morocco-EU trade agreement -- <span class=\"news-date\">30/10/2026 12:06</span></div><div class=\"news-body\">Spanish agricultural organizations protested in Madrid to demand the rejection of the trade agreement between the EU and Morocco. They denounce unfair competition, a situation that concerns Moroccan fruit and vegetable exporters. <span class=\"news-reason\">The article concerns a regulatory threat and a challenge to market access for products from Morocco, a key origin for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/tractorada-de-madrid-laccord-ue-maroc-dans-les-revendications-des-agriculteurs-espagnols/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">הפגנת חקלאים ספרדים נגד הסכם הסחר מרוקו-האיחוד האירופי -- <span class=\"news-date\">30/10/2026 12:06</span></div><div class=\"news-body\">ארגונים חקלאיים ספרדיים הפגינו במדריד בדרישה לדחות את הסכם הסחר בין האיחוד האירופי למרוקו. הם מוקיעים תחרות בלתי הוגנת, מצב המדאיג את יצואני הפירות והירקות המרוקאים. <span class=\"news-reason\">המאמר עוסק באיום רגולטורי ובערעור על הגישה לשוק עבור מוצרים ממרוקו, מקור מרכזי עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/tractorada-de-madrid-laccord-ue-maroc-dans-les-revendications-des-agriculteurs-espagnols/\" target=\"_blank\">AgriMaroc -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793356792_2",
-      "timestamp": "2026-10-30T10:39:52.457199+00:00",
-      "title": "Turquie : la production fruitière devrait reculer de 30,9 % en 2025",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Jessica",
-        "Nadia"
-      ],
-      "products": [
-        "pomegranate"
-      ],
-      "origins": [
-        "TUR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Turquie : la production fruitière devrait reculer de 30,9 % en 2025 -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">Selon l&#x27;Institut statistique turc (TÜİK), la production de fruits en Turquie a enregistré une chute de 30,9 % en 2025, totalisant 19,6 millions de tonnes. La production de légumes a également reculé de 0,9 % pour atteindre 33,3 millions de tonnes. <span class=\"news-reason\">L&#x27;article présente des chiffres de production pour une origine concurrente majeure sur le segment des agrumes et des grenades.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884814/la-produzione-di-frutta-cala-del-30-9-per-cento-e-quella-orticola-dello-0-9-per-cento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">30.9% decline in fruit production in Turkey in 2025 -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">According to the Turkish Statistical Institute (TÜİK), fruit production in Turkey recorded a 30.9% drop in 2025, totaling 19.6 million tons. Vegetable production also fell by 0.9% to reach 33.3 million tons. <span class=\"news-reason\">The article presents production figures for a major competing origin in the citrus and pomegranate segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884814/la-produzione-di-frutta-cala-del-30-9-per-cento-e-quella-orticola-dello-0-9-per-cento/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 30.9% בייצור הפירות בטורקיה בשנת 2025 -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">לפי המכון הטורקי לסטטיסטיקה (TÜİK), ייצור הפירות בטורקיה רשם ירידה של 30.9% בשנת 2025, והסתכם ב-19.6 מיליון טון. ייצור הירקות ירד אף הוא ב-0.9% והגיע ל-33.3 מיליון טון. <span class=\"news-reason\">הכתבה מציגה נתוני ייצור עבור מקור תחרותי מרכזי במגזרי ההדרים והרימונים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9884814/la-produzione-di-frutta-cala-del-30-9-per-cento-e-quella-orticola-dello-0-9-per-cento/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793356792_1",
-      "timestamp": "2026-10-30T10:39:52.457199+00:00",
-      "title": "Démarrage dynamique de la campagne du kaki en Italie",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [],
-      "products": [],
-      "origins": [
-        "ITA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Démarrage dynamique de la campagne du kaki en Italie -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">La saison des kakis a débuté en Émilie-Romagne avec les variétés Loto di Romagna et Rosso Brillante. La demande est actuellement très soutenue sur les marchés de gros et auprès de la grande distribution, malgré un démarrage ralenti par les conditions météorologiques. <span class=\"news-reason\">L&#x27;article traite du lancement de la campagne de kakis (fruit exotique) sur un marché majeur pour Mehadrin avec une analyse de la demande.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887430/buona-partenza-per-i-kaki-con-un-mercato-vivace-in-italia-e-all-estero/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Dynamic launch of the persimmon campaign in Italy -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">The persimmon season has begun in Emilia-Romagna with the Loto di Romagna and Rosso Brillante varieties. Demand is currently very strong on wholesale markets and with major retailers, despite a start slowed down by weather conditions. <span class=\"news-reason\">The article covers the launch of the persimmon (exotic fruit) campaign in a major market for Mehadrin with an analysis of demand.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887430/buona-partenza-per-i-kaki-con-un-mercato-vivace-in-italia-e-all-estero/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">השקה דינמית של עונת האפרסמון באיטליה -- <span class=\"news-date\">30/10/2026 06:05</span></div><div class=\"news-body\">עונת האפרסמונים החלה באמיליה-רומאניה עם הזנים Loto di Romagna ו-Rosso Brillante. הביקוש כיום גבוה מאוד בשווקים הסיטונאיים וברשתות השיווק, למרות התחלה איטית בשל תנאי מזג האוויר. <span class=\"news-reason\">הכתבה עוסקת בהשקת עונת האפרסמון (פרי אקזוטי) בשוק מרכזי עבור מהדרין, הכוללת ניתוח של הביקוש.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887430/buona-partenza-per-i-kaki-con-un-mercato-vivace-in-italia-e-all-estero/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793356792_0",
-      "timestamp": "2026-10-30T10:39:52.457199+00:00",
-      "title": "Analyse de la spécialisation des exportations de fruits au Brésil -- 29/10/2026 13:35",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "mango",
-        "papaya"
-      ],
-      "origins": [
-        "BRA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Analyse de la spécialisation des exportations de fruits au Brésil -- <span class=\"news-date\">29/10/2026 13:35</span></div><div class=\"news-body\">Selon une étude du Cepea, la papaye et la mangue figurent parmi les fruits brésiliens les plus spécialisés pour l&#x27;exportation. L&#x27;analyse révèle que sept des neuf catégories de fruits étudiées ont augmenté leur présence sur les marchés internationaux entre 2016 et 2024. <span class=\"news-reason\">Analyse économique sur les exportations de mangues et papayes, produits Mehadrin, depuis le Brésil.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/latin-america/article/9887343/papayas-melons-and-mangoes-lead-brazil-s-fruit-export-ranking/\" target=\"_blank\">FreshPlaza LatAm -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Analysis of fruit export specialization in Brazil -- <span class=\"news-date\">29/10/2026 13:35</span></div><div class=\"news-body\">According to a study by Cepea, papaya and mango are among the most specialized Brazilian fruits for export. The analysis reveals that seven of the nine fruit categories studied increased their presence in international markets between 2016 and 2024. <span class=\"news-reason\">Economic analysis of mango and papaya exports, Mehadrin products, from Brazil.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/latin-america/article/9887343/papayas-melons-and-mangoes-lead-brazil-s-fruit-export-ranking/\" target=\"_blank\">FreshPlaza LatAm -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ניתוח התמחות יצוא הפירות בברזיל -- <span class=\"news-date\">29/10/2026 13:35</span></div><div class=\"news-body\">לפי מחקר של Cepea, הפפאיה והמנגו נמנים עם הפירות הברזילאיים המתמחים ביותר ליצוא. הניתוח מגלה כי שבע מתוך תשע קטגוריות הפירות שנחקרו הגדילו את נוכחותן בשווקים הבינלאומיים בין השנים 2016 ו-2024. <span class=\"news-reason\">ניתוח כלכלי על יצוא מנגו ופפאיה, מוצרי מהדרין, מברזיל.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/latin-america/article/9887343/papayas-melons-and-mangoes-lead-brazil-s-fruit-export-ranking/\" target=\"_blank\">FreshPlaza LatAm -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
