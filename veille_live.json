@@ -1,86 +1,170 @@
 {
-  "last_updated": "2026-11-02T12:02:57.564181+00:00",
-  "article_count": 17,
+  "last_updated": "2026-11-02T13:33:44.921346+00:00",
+  "article_count": 21,
   "attention_points": [
     {
-      "id": "attention-3912e9e2bbf247b5",
-      "article_id": "1793610139_0",
-      "url": "https://www.freshplaza.de/article/9888135/peruanische-avocadosaison-endet-mit-guten-preisen/",
-      "source": "FreshPlaza DE",
-      "title": "Campagne de l'avocat au Pérou s'achève",
-      "summary": "La baisse des rendements favorise le maintien des prix pour les avocats péruviens",
-      "origin_code": "PER",
-      "origin_label": "Pérou",
-      "published_at": "2026-11-02T09:57:00+01:00",
+      "id": "attention-9c655459326f5159",
+      "article_id": "1793626424_2",
+      "url": "https://www.freshplaza.fr/article/9887253/avocats-mexicains-un-exportateur-reorganise-ses-expeditions-face-aux-annulations-de-vols-et-a-la-hausse-des-couts-de-transport/",
+      "source": "FreshPlaza FR",
+      "title": "Exportateurs mexicains d'avocats privilégient le maritime",
+      "summary": "Les exportateurs mexicains réorganisent leurs expéditions vers l'Europe face aux coûts aériens",
+      "origin_code": "MEX",
+      "origin_label": "Mexique",
+      "published_at": "2026-11-02T13:58:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-23500e196e9b6c88",
+      "article_id": "1793626424_0",
+      "url": "https://www.freshplaza.com/article/9888248/south-african-citrus-litchi-and-grape-exports-face-uncertainty-over-agoa-eligibility/",
+      "source": "FreshPlaza",
+      "title": "Incertitudes entourant les exportations sud-africaines d'agrumes",
+      "summary": "Un examen réglementaire menace l'accès préférentiel pour les exportations d'agrumes",
+      "origin_code": "ZAF",
+      "origin_label": "Afrique du Sud",
+      "published_at": "2026-11-02T13:30:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "volume",
+      "products": [],
+      "age_hours": 1
+    },
+    {
+      "id": "attention-65809e855798d439",
+      "article_id": "1793626424_3",
+      "url": "https://www.freshplaza.com/article/9888266/early-alphonso-mango-arrivals-in-india-fetch-us-293-per-six-dozen-lot/",
+      "source": "FreshPlaza",
+      "title": "Prix record pour l'arrivée précoce des premières mangues",
+      "summary": "Un lot de mangues indiennes précoces s'est vendu pour deux cent quatre-vingt-treize dollars",
+      "origin_code": "IND",
+      "origin_label": "Inde",
+      "published_at": "2026-11-02T13:30:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "price",
+      "signal_label": "Prix",
+      "icon": "price",
+      "products": [
+        "mango"
+      ],
+      "age_hours": 1
+    },
+    {
+      "id": "attention-f43a186091ac8800",
+      "article_id": "1793626424_1",
+      "url": "https://www.freshplaza.com/article/9888235/usda-plans-20-million-in-u-s-orange-and-grapefruit-purchases/",
+      "source": "FreshPlaza",
+      "title": "L'USDA prévoit l'achat d'oranges et de pamplemousses",
+      "summary": "Le département de l'agriculture investit vingt millions de dollars dans les agrumes américains",
+      "origin_code": "USA",
+      "origin_label": "États-Unis",
+      "published_at": "2026-11-02T13:30:00+01:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [
-        "avocat"
+        "orange",
+        "citrus_grapefruit"
       ],
-      "age_hours": 3
-    },
-    {
-      "id": "attention-7b966f949df4a3e8",
-      "article_id": "1793620977_0",
-      "url": "https://www.freshfruitportal.com/news/2026/11/02/state-of-mexico-avo/",
-      "source": "Fresh Fruit Portal",
-      "title": "Le secteur des avocats cible le marché mondial",
-      "summary": "Les producteurs certifiés prévoient de renforcer leur présence commerciale sur le marché mondial",
-      "origin_code": "MEX",
-      "origin_label": "Mexique",
-      "published_at": "2026-11-02T08:00:29+00:00",
-      "published_at_source": "rss",
-      "signal_type": "information",
-      "signal_label": "Information",
-      "icon": "information",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 4
-    },
-    {
-      "id": "attention-39114fc949b32f79",
-      "article_id": "1793599424_0",
-      "url": "https://www.freshplaza.it/article/9887240/le-piogge-riducono-l-offerta-di-pitaya-e-mango-in-ecuador-in-vista-dell-alta-stagione/",
-      "source": "FreshPlaza IT",
-      "title": "L'impact des précipitations sur l'offre équatorienne de mangues",
-      "summary": "Les précipitations intenses perturbent la production et la logistique des mangues",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-11-02T06:00:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [
-        "mango",
-        "pitahaya"
-      ],
-      "age_hours": 7
-    },
-    {
-      "id": "attention-bb3731e69aac77e8",
-      "article_id": "1793389023_0",
-      "url": "https://agrodataperu.com/2026/10/mandarina-peru-exportacion-2026-septiembre.html",
-      "source": "Agrodata Perú",
-      "title": "Exportations de mandarines du Pérou en septembre 2026",
-      "summary": "Les rapports sur les volumes exportés de mandarines sont officiellement publiés",
-      "origin_code": "PER",
-      "origin_label": "Pérou",
-      "published_at": "2026-10-30T18:28:36+00:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "volume",
-      "products": [
-        "mandarine"
-      ],
-      "age_hours": 65
+      "age_hours": 1
     }
   ],
   "articles": [
+    {
+      "id": "1793626424_4",
+      "timestamp": "2026-11-02T13:33:44.921346+00:00",
+      "title": "Le début de la saison des clémentines perturbé par des grèves et des retards -- 02/11/2026 13:30",
+      "category": "ALERTES SUPPLY",
+      "commercials": [],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le début de la saison des clémentines perturbé par des grèves et des retards -- <span class=\"news-date\">02/11/2026 13:30</span></div><div class=\"news-body\">Le démarrage de la campagne des clémentines en Calabre est actuellement entravé par des grèves dans le secteur des transports et des retards d&#x27;expédition. Ces complications logistiques surviennent alors que les exploitations tentent de mettre en avant la fraîcheur et la durabilité de leurs produits lors du Clementina Festival. Plusieurs organisations de producteurs locales signalent des difficultés à acheminer les volumes prévus vers les marchés de consommation. <span class=\"news-reason\">Alerte supply sur les clémentines italiennes (concurrence directe) en début de saison, impactant la disponibilité en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888127/transport-strikes-and-shipment-delays-complicate-the-start-of-the-clementine-season/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Start of clementine season disrupted by strikes and delays -- <span class=\"news-date\">02/11/2026 13:30</span></div><div class=\"news-body\">The start of the clementine campaign in Calabria is currently hindered by transport sector strikes and shipping delays. These logistical complications arise as farms attempt to highlight the freshness and sustainability of their products during the Clementina Festival. Several local producer organizations report difficulties in delivering planned volumes to consumer markets. <span class=\"news-reason\">Supply alert on Italian clementines (direct competition) at the start of the season, impacting availability in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888127/transport-strikes-and-shipment-delays-complicate-the-start-of-the-clementine-season/\" target=\"_blank\">FreshPlaza -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">תחילת עונת הקלמנטינות משובשת עקב שביתות ועיכובים -- <span class=\"news-date\">02/11/2026 13:30</span></div><div class=\"news-body\">תחילת קמפיין הקלמנטינות בקלבריה מעוכבת כעת עקב שביתות במגזר ההובלה ועיכובים במשלוחים. סיבוכים לוגיסטיים אלו מתרחשים בזמן שהמשקים מנסים להדגיש את הטריות והקיימות של מוצריהם במהלך פסטיבל הקלמנטינה (Clementina Festival). מספר ארגוני מגדלים מקומיים מדווחים על קשיים בשינוע הכמויות המתוכננות לשווקי הצריכה. <span class=\"news-reason\">התראת אספקה על קלמנטינות איטלקיות (תחרות ישירה) בתחילת העונה, המשפיעה על הזמינות באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888127/transport-strikes-and-shipment-delays-complicate-the-start-of-the-clementine-season/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793626424_3",
+      "timestamp": "2026-11-02T13:33:44.921346+00:00",
+      "title": "Prix record pour l&#x27;arrivée précoce des premières mangues Alphonso en Inde -- 02/11/2026 13:30",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [
+        "IND"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prix record pour l&#x27;arrivée précoce des premières mangues Alphonso en Inde -- <span class=\"news-date\">02/11/2026 13:30</span></div><div class=\"news-body\">Les premières mangues Devgad Alphonso sont arrivées sur le marché de Mumbai avec quatre mois d&#x27;avance sur la saison habituelle. Un lot de six douzaines (72 fruits) a atteint le prix exceptionnel de 26 000 roupies, soit environ 293 dollars. Ce résultat a été obtenu par un producteur de Sindhudurg ayant provoqué une floraison précoce durant les mois de juin et juillet. <span class=\"news-reason\">Données chiffrées précises sur les prix de vente d&#x27;un produit Mehadrin (mangue) dans une origine clé (Inde).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888266/early-alphonso-mango-arrivals-in-india-fetch-us-293-per-six-dozen-lot/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Record price for early arrival of the first Alphonso mangoes in India -- <span class=\"news-date\">02/11/2026 13:30</span></div><div class=\"news-body\">The first Devgad Alphonso mangoes arrived at the Mumbai market four months ahead of the usual season. A lot of six dozen (72 fruits) reached the exceptional price of 26,000 rupees, or approximately $293. This result was achieved by a producer from Sindhudurg who induced early flowering during the months of June and July. <span class=\"news-reason\">Precise figures on sales prices for a Mehadrin product (mango) in a key origin (India).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888266/early-alphonso-mango-arrivals-in-india-fetch-us-293-per-six-dozen-lot/\" target=\"_blank\">FreshPlaza -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מחירי שיא להגעתם המוקדמת של פירות המנגו מסוג אלפונסו הראשונים בהודו -- <span class=\"news-date\">02/11/2026 13:30</span></div><div class=\"news-body\">פירות המנגו הראשונים מסוג Devgad Alphonso הגיעו לשוק במומבאי ארבעה חודשים לפני העונה הרגילה. משלוח של שש תריסרים (72 פירות) הגיע למחיר יוצא דופן של 26,000 רופי, שהם כ-293 דולר. תוצאה זו הושגה על ידי מגדל מסינדהודורג שגרם לפריחה מוקדמת במהלך חודשי יוני ויולי. <span class=\"news-reason\">נתונים מספריים מדויקים על מחירי המכירה של מוצר מהדרין (מנגו) במקור מרכזי (הודו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888266/early-alphonso-mango-arrivals-in-india-fetch-us-293-per-six-dozen-lot/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793626424_2",
+      "timestamp": "2026-11-02T13:33:44.921346+00:00",
+      "title": "Les exportateurs mexicains d&#x27;avocats privilégient le maritime face aux coûts du fret aérien -- 02/11/2026 13:58",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MEX"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Les exportateurs mexicains d&#x27;avocats privilégient le maritime face aux coûts du fret aérien -- <span class=\"news-date\">02/11/2026 13:58</span></div><div class=\"news-body\">L&#x27;exportateur mexicain R.S. Avocados réorganise ses flux logistiques vers l&#x27;Europe en raison de l&#x27;augmentation des coûts de transport et des annulations de vols. L&#x27;entreprise, qui ciblait initialement le Moyen-Orient par avion, commence à utiliser le transport maritime pour ses expéditions d&#x27;avocats vers les marchés européens. Ce changement de stratégie vise à maintenir la compétitivité malgré les pressions sur les tarifs aériens. <span class=\"news-reason\">Alerte logistique majeure chez un concurrent direct (Mexique) sur l&#x27;avocat, impactant le mode de transport vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9887253/avocats-mexicains-un-exportateur-reorganise-ses-expeditions-face-aux-annulations-de-vols-et-a-la-hausse-des-couts-de-transport/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Mexican avocado exporters prioritize sea freight over air freight costs -- <span class=\"news-date\">02/11/2026 13:58</span></div><div class=\"news-body\">Mexican exporter R.S. Avocados is reorganizing its logistics flows to Europe due to increased transport costs and flight cancellations. The company, which initially targeted the Middle East by air, is beginning to use sea transport for its avocado shipments to European markets. This strategy shift aims to maintain competitiveness despite pressure on air rates. <span class=\"news-reason\">Major logistics alert from a direct competitor (Mexico) on avocados, impacting the mode of transport to Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9887253/avocats-mexicains-un-exportateur-reorganise-ses-expeditions-face-aux-annulations-de-vols-et-a-la-hausse-des-couts-de-transport/\" target=\"_blank\">FreshPlaza FR -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">יצואני אבוקדו מקסיקנים מעדיפים הובלה ימית בשל עלויות ההובלה האווירית -- <span class=\"news-date\">02/11/2026 13:58</span></div><div class=\"news-body\">יצואן האבוקדו המקסיקני R.S. Avocados מארגן מחדש את הלוגיסטיקה שלו לאירופה עקב עליית עלויות ההובלה וביטולי טיסות. החברה, שכוונה בתחילה למזרח התיכון בדרך אווירית, מתחילה להשתמש בהובלה ימית עבור משלוחי אבוקדו לשווקים האירופיים. שינוי אסטרטגי זה נועד לשמור על תחרותיות למרות הלחצים על תעריפי ההובלה האווירית. <span class=\"news-reason\">התראת לוגיסטיקה משמעותית אצל מתחרה ישיר (מקסיקו) בתחום האבוקדו, המשפיעה על אופן ההובלה לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9887253/avocats-mexicains-un-exportateur-reorganise-ses-expeditions-face-aux-annulations-de-vols-et-a-la-hausse-des-couts-de-transport/\" target=\"_blank\">FreshPlaza FR -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793626424_1",
+      "timestamp": "2026-11-02T13:33:44.921346+00:00",
+      "title": "L&#x27;USDA prévoit l&#x27;achat d&#x27;oranges et de pamplemousses pour un montant de 20 millions de dollars -- 02/11/2026 13:30",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange",
+        "citrus_grapefruit"
+      ],
+      "origins": [
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;USDA prévoit l&#x27;achat d&#x27;oranges et de pamplemousses pour un montant de 20 millions de dollars -- <span class=\"news-date\">02/11/2026 13:30</span></div><div class=\"news-body\">Le Département de l&#x27;Agriculture des États-Unis (USDA) a annoncé son intention d&#x27;acheter pour 20 millions de dollars d&#x27;agrumes dans le cadre d&#x27;un programme de soutien aux producteurs. Cette enveloppe se répartit équitablement avec 10 millions de dollars alloués aux pamplemousses et 10 millions de dollars aux oranges. Cette initiative fait partie d&#x27;un plan plus vaste de 472,5 millions de dollars destiné à l&#x27;aide alimentaire. <span class=\"news-reason\">Informations sur des volumes d&#x27;achat massifs par le gouvernement américain pour le pamplemousse et l&#x27;orange, influençant l&#x27;équilibre offre/demande mondial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888235/usda-plans-20-million-in-u-s-orange-and-grapefruit-purchases/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">USDA plans $20 million purchase of oranges and grapefruits -- <span class=\"news-date\">02/11/2026 13:30</span></div><div class=\"news-body\">The United States Department of Agriculture (USDA) has announced its intention to purchase $20 million worth of citrus fruits as part of a producer support program. This budget is split equally with $10 million allocated to grapefruits and $10 million to oranges. This initiative is part of a larger $472.5 million food assistance plan. <span class=\"news-reason\">Information on massive purchase volumes by the U.S. government for grapefruit and oranges, influencing the global supply/demand balance.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888235/usda-plans-20-million-in-u-s-orange-and-grapefruit-purchases/\" target=\"_blank\">FreshPlaza -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ה-USDA מתכנן רכישת תפוזים ואשכוליות בסך 20 מיליון דולר -- <span class=\"news-date\">02/11/2026 13:30</span></div><div class=\"news-body\">מחלקת החקלאות של ארצות הברית (USDA) הודיעה על כוונתה לרכוש פירות הדר בשווי 20 מיליון דולר במסגרת תוכנית תמיכה במגדלים. סכום זה מחולק שווה בשווה, עם 10 מיליון דולר המוקצים לאשכוליות ו-10 מיליון דולר לתפוזים. יוזמה זו היא חלק מתוכנית רחבה יותר בסך 472.5 מיליון דולר המיועדת לסיוע במזון. <span class=\"news-reason\">מידע על נפחי רכישה אדירים של הממשל האמריקאי עבור אשכוליות ותפוזים, המשפיעים על מאזן ההיצע והביקוש העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888235/usda-plans-20-million-in-u-s-orange-and-grapefruit-purchases/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793626424_0",
+      "timestamp": "2026-11-02T13:33:44.921346+00:00",
+      "title": "Incertitudes entourant les exportations sud-africaines d&#x27;agrumes et de litchis vers les États-Unis -- 02/11/2026 13:30",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "ZAF",
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Incertitudes entourant les exportations sud-africaines d&#x27;agrumes et de litchis vers les États-Unis -- <span class=\"news-date\">02/11/2026 13:30</span></div><div class=\"news-body\">L&#x27;éligibilité de l&#x27;Afrique du Sud au programme américain AGOA pour l&#x27;année 2027 est en cours de révision, avec un résultat attendu le 2 novembre. Cette situation crée une incertitude pour les exportateurs sud-africains d&#x27;agrumes et de litchis, dont l&#x27;accès préférentiel au marché américain est actuellement réexaminé par les autorités commerciales. <span class=\"news-reason\">Concerne l&#x27;accès au marché d&#x27;une origine concurrente majeure (Afrique du Sud) pour les agrumes et les litchis, ce qui peut impacter les flux mondiaux.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888248/south-african-citrus-litchi-and-grape-exports-face-uncertainty-over-agoa-eligibility/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Uncertainty surrounding South African citrus and lychee exports to the United States -- <span class=\"news-date\">02/11/2026 13:30</span></div><div class=\"news-body\">South Africa&#x27;s eligibility for the U.S. AGOA program for the year 2027 is currently under review, with a result expected on November 2. This situation creates uncertainty for South African citrus and lychee exporters, whose preferential access to the American market is currently being re-examined by trade authorities. <span class=\"news-reason\">Concerns market access for a major competing origin (South Africa) for citrus and lychees, which may impact global flows.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888248/south-african-citrus-litchi-and-grape-exports-face-uncertainty-over-agoa-eligibility/\" target=\"_blank\">FreshPlaza -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">אי-ודאות סביב יצוא פירות הדר וליצ'י מדרום אפריקה לארצות הברית -- <span class=\"news-date\">02/11/2026 13:30</span></div><div class=\"news-body\">זכאותה של דרום אפריקה לתוכנית ה-AGOA האמריקאית לשנת 2027 נמצאת בבחינה, כאשר התוצאות צפויות ב-2 בנובמבר. מצב זה יוצר אי-ודאות עבור יצואני פירות הדר וליצ'י דרום אפריקאים, שגישתם המועדפת לשוק האמריקאי נבחנת כעת מחדש על ידי רשויות הסחר. <span class=\"news-reason\">נוגע לגישה לשוק של מקור מתחרה מרכזי (דרום אפריקה) עבור פירות הדר וליצ'י, דבר העלול להשפיע על תזרימי הסחר העולמיים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888248/south-african-citrus-litchi-and-grape-exports-face-uncertainty-over-agoa-eligibility/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1793620977_0",
       "timestamp": "2026-11-02T12:02:57.564181+00:00",
@@ -103,7 +187,7 @@
     {
       "id": "1793615608_0",
       "timestamp": "2026-11-02T10:33:28.335675+00:00",
-      "title": "Stratégies pour les clémentines de Calabre : innovation et agrégation de l&#x27;offre",
+      "title": "Stratégies pour les clémentines de Calabre : innovation et concentration de l&#x27;offre",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [],
       "products": [
@@ -112,14 +196,14 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Stratégies pour les clémentines de Calabre : innovation et agrégation de l&#x27;offre -- <span class=\"news-date\">02/11/2026 06:00</span></div><div class=\"news-body\">Lors du Clementina Festival, les acteurs de la filière en Calabre ont souligné l&#x27;importance de l&#x27;agrégation de l&#x27;offre et de l&#x27;innovation variétale. Des investissements dans la conservation du produit sont jugés nécessaires pour prolonger la présence sur les marchés et répondre aux défis commerciaux actuels. <span class=\"news-reason\">L&#x27;article traite de la stratégie de compétitivité d&#x27;un concurrent majeur (Italie) sur un produit clé (clémentine).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887306/clementine-calabresi-non-solo-produrre-di-piu-ma-vendere-meglio-e-piu-a-lungo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Stratégies pour les clémentines de Calabre : innovation et concentration de l&#x27;offre -- <span class=\"news-date\">02/11/2026 06:00</span></div><div class=\"news-body\">Lors du Clementina Festival, les acteurs de la filière en Calabre ont souligné l&#x27;importance de l&#x27;agrégation de l&#x27;offre et de l&#x27;innovation variétale. Des investissements dans la conservation du produit sont jugés nécessaires pour prolonger la présence sur les marchés et répondre aux défis commerciaux actuels. <span class=\"news-reason\">L&#x27;article traite de la stratégie de compétitivité d&#x27;un concurrent majeur (Italie) sur un produit clé (clémentine).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887306/clementine-calabresi-non-solo-produrre-di-piu-ma-vendere-meglio-e-piu-a-lungo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Strategies for Calabria clementines: innovation and supply aggregation -- <span class=\"news-date\">02/11/2026 06:00</span></div><div class=\"news-body\">During the Clementina Festival, industry stakeholders in Calabria highlighted the importance of supply aggregation and varietal innovation. Investments in product preservation are considered necessary to extend market presence and meet current commercial challenges. <span class=\"news-reason\">The article discusses the competitiveness strategy of a major competitor (Italy) for a key product (clementine).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887306/clementine-calabresi-non-solo-produrre-di-piu-ma-vendere-meglio-e-piu-a-lungo/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">אסטרטגיות עבור הקלמנטינות של קלבריה: חדשנות ואיגוד ההיצע -- <span class=\"news-date\">02/11/2026 06:00</span></div><div class=\"news-body\">במהלך פסטיבל הקלמנטינה (Clementina Festival), הגורמים בענף בקלבריה הדגישו את חשיבות איגוד ההיצע והחדשנות הזנית. השקעות בשימור המוצר נחשבות לנחוצות כדי להאריך את הנוכחות בשווקים ולהתמודד עם האתגרים המסחריים הנוכחיים. <span class=\"news-reason\">המאמר עוסק באסטרטגיית התחרותיות של מתחרה מרכזי (איטליה) במוצר מפתח (קלמנטינה).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887306/clementine-calabresi-non-solo-produrre-di-piu-ma-vendere-meglio-e-piu-a-lungo/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>"
     },
     {
       "id": "1793610139_0",
       "timestamp": "2026-11-02T09:02:19.886664+00:00",
-      "title": "La campagne de l&#x27;avocat au Pérou s&#x27;achève sur des prix satisfaisants",
+      "title": "La campagne de l&#x27;avocat au Pérou se clôture sur des prix satisfaisants",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -130,7 +214,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La campagne de l&#x27;avocat au Pérou s&#x27;achève sur des prix satisfaisants -- <span class=\"news-date\">02/11/2026 09:57</span></div><div class=\"news-body\">La saison de l&#x27;avocat au Pérou se termine cette année avec des rendements plus faibles, mais compensés par de bons niveaux de prix sur le marché. Le changement climatique a perturbé le calendrier et les volumes de production globale par rapport aux années précédentes. <span class=\"news-reason\">L&#x27;article traite de la fin de campagne d&#x27;un produit Mehadrin (avocat) chez une origine concurrente (Pérou) avec des indications sur les prix et le rendement.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9888135/peruanische-avocadosaison-endet-mit-guten-preisen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La campagne de l&#x27;avocat au Pérou se clôture sur des prix satisfaisants -- <span class=\"news-date\">02/11/2026 09:57</span></div><div class=\"news-body\">La saison de l&#x27;avocat au Pérou se termine cette année avec des rendements plus faibles, mais compensés par de bons niveaux de prix sur le marché. Le changement climatique a perturbé le calendrier et les volumes de production globale par rapport aux années précédentes. <span class=\"news-reason\">L&#x27;article traite de la fin de campagne d&#x27;un produit Mehadrin (avocat) chez une origine concurrente (Pérou) avec des indications sur les prix et le rendement.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9888135/peruanische-avocadosaison-endet-mit-guten-preisen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Closing of the Peruvian avocado season with satisfactory prices -- <span class=\"news-date\">02/11/2026 09:57</span></div><div class=\"news-body\">The avocado season in Peru is ending this year with lower yields, but offset by good price levels on the market. Climate change has disrupted the schedule and overall production volumes compared to previous years. <span class=\"news-reason\">The article discusses the end of the season for a Mehadrin product (avocado) from a competing origin (Peru) with indications of prices and yield.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9888135/peruanische-avocadosaison-endet-mit-guten-preisen/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיום עונת האבוקדו הפרואני עם מחירים משביעי רצון -- <span class=\"news-date\">02/11/2026 09:57</span></div><div class=\"news-body\">עונת האבוקדו בפרו מסתיימת השנה עם יבולים נמוכים יותר, אך הם פוצו על ידי רמות מחירים טובות בשוק. שינויי האקלים שיבשו את לוח הזמנים ואת כמויות הייצור הכוללות בהשוואה לשנים קודמות. <span class=\"news-reason\">המאמר עוסק בסיום העונה של מוצר מהדרין (אבוקדו) במקור מתחרה (פרו) עם אינדיקציות לגבי המחירים והיבול.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9888135/peruanische-avocadosaison-endet-mit-guten-preisen/\" target=\"_blank\">FreshPlaza DE -- לקריאת המאמר</a></div></div>"
     },
@@ -155,7 +239,7 @@
     {
       "id": "1793599424_0",
       "timestamp": "2026-11-02T06:03:44.861353+00:00",
-      "title": "L&#x27;impact des précipitations sur l&#x27;offre équatorienne de mangues et de pitayas",
+      "title": "Impact des précipitations sur l&#x27;offre équatorienne de mangues et de pitayas",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -165,7 +249,7 @@
         "pitahaya"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;impact des précipitations sur l&#x27;offre équatorienne de mangues et de pitayas -- <span class=\"news-date\">02/11/2026 06:00</span></div><div class=\"news-body\">En Équateur, de fortes pluies impactent lourdement la production horticole et la logistique d&#x27;exportation des mangues et des pitayas à l&#x27;approche de la haute saison. <span class=\"news-reason\">Les intempéries en Équateur perturbent la production et la logistique d&#x27;exportation de mangues et de pitayas avant la haute saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887240/le-piogge-riducono-l-offerta-di-pitaya-e-mango-in-ecuador-in-vista-dell-alta-stagione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact des précipitations sur l&#x27;offre équatorienne de mangues et de pitayas -- <span class=\"news-date\">02/11/2026 06:00</span></div><div class=\"news-body\">En Équateur, de fortes pluies impactent lourdement la production horticole et la logistique d&#x27;exportation des mangues et des pitayas à l&#x27;approche de la haute saison. <span class=\"news-reason\">Les intempéries en Équateur perturbent la production et la logistique d&#x27;exportation de mangues et de pitayas avant la haute saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887240/le-piogge-riducono-l-offerta-di-pitaya-e-mango-in-ecuador-in-vista-dell-alta-stagione/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Rainfall impacts Ecuadorian mango and pitaya supply -- <span class=\"news-date\">02/11/2026 06:00</span></div><div class=\"news-body\">In Ecuador, heavy rains are heavily impacting horticultural production and export logistics for mangoes and pitayas as the peak season approaches. <span class=\"news-reason\">Bad weather in Ecuador is disrupting production and export logistics for mangoes and pitayas before the peak season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887240/le-piogge-riducono-l-offerta-di-pitaya-e-mango-in-ecuador-in-vista-dell-alta-stagione/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">המשקעים משפיעים על היצע המנגו והפיטאיה מאקוודור -- <span class=\"news-date\">02/11/2026 06:00</span></div><div class=\"news-body\">באקוודור, גשמים כבדים משפיעים קשות על הייצור החקלאי ועל הלוגיסטיקה של ייצוא המנגו והפיטאיה לקראת עונת השיא. <span class=\"news-reason\">מזג האוויר הסוער באקוודור משבש את הייצור ואת לוגיסטיקת הייצוא של מנגו ופיטאיה לפני עונת השיא.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887240/le-piogge-riducono-l-offerta-di-pitaya-e-mango-in-ecuador-in-vista-dell-alta-stagione/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -208,7 +292,7 @@
     {
       "id": "1793448304_4",
       "timestamp": "2026-10-31T12:05:04.328824+00:00",
-      "title": "Recours à la main-d&#x27;œuvre étrangère pour sécuriser les récoltes en Espagne",
+      "title": "Mobilisation de la main-d&#x27;œuvre étrangère pour sécuriser les récoltes en Espagne",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Jessica"
@@ -217,7 +301,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Recours à la main-d&#x27;œuvre étrangère pour sécuriser les récoltes en Espagne -- <span class=\"news-date\">30/10/2026 15:19</span></div><div class=\"news-body\">Pour faire face au manque de travailleurs saisonniers dans le secteur horticole espagnol, une organisation de Grenade facilite le recrutement de personnel en provenance d&#x27;Amérique centrale. Ce programme vise à garantir le bon déroulement des campagnes de récolte face aux défis de personnel. <span class=\"news-reason\">La pénurie de main-d&#x27;œuvre en Espagne impacte directement la disponibilité et les coûts des produits Mehadrin provenant de cette origine.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9888160/una-entidad-de-granada-conecta-a-empresas-agricolas-espanolas-con-trabajadores-de-centroamerica/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Mobilisation de la main-d&#x27;œuvre étrangère pour sécuriser les récoltes en Espagne -- <span class=\"news-date\">30/10/2026 15:19</span></div><div class=\"news-body\">Pour faire face au manque de travailleurs saisonniers dans le secteur horticole espagnol, une organisation de Grenade facilite le recrutement de personnel en provenance d&#x27;Amérique centrale. Ce programme vise à garantir le bon déroulement des campagnes de récolte face aux défis de personnel. <span class=\"news-reason\">La pénurie de main-d&#x27;œuvre en Espagne impacte directement la disponibilité et les coûts des produits Mehadrin provenant de cette origine.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9888160/una-entidad-de-granada-conecta-a-empresas-agricolas-espanolas-con-trabajadores-de-centroamerica/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Recruitment of foreign labor to secure harvests in Spain -- <span class=\"news-date\">30/10/2026 15:19</span></div><div class=\"news-body\">To address the shortage of seasonal workers in the Spanish horticultural sector, an organization in Granada is facilitating the recruitment of personnel from Central America. This program aims to ensure the smooth running of harvest campaigns in the face of staffing challenges. <span class=\"news-reason\">The labor shortage in Spain directly impacts the availability and costs of Mehadrin products from this origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9888160/una-entidad-de-granada-conecta-a-empresas-agricolas-espanolas-con-trabajadores-de-centroamerica/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">גיוס כוח אדם זר להבטחת היבולים בספרד -- <span class=\"news-date\">30/10/2026 15:19</span></div><div class=\"news-body\">כדי להתמודד עם המחסור בעובדים עונתיים במגזר החקלאי הספרדי, ארגון מגרנדה מסייע בגיוס כוח אדם ממרכז אמריקה. תוכנית זו נועדה להבטיח את התנהלותן התקינה של עונות הקטיף לנוכח אתגרי כוח האדם. <span class=\"news-reason\">המחסור בכוח אדם בספרד משפיע ישירות על הזמינות והעלויות של מוצרי מהדרין ממקור זה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9888160/una-entidad-de-granada-conecta-a-empresas-agricolas-espanolas-con-trabajadores-de-centroamerica/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -360,20 +444,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Lancement de la campagne de l&#x27;orange Navelina en Espagne -- <span class=\"news-date\">30/10/2026 15:19</span></div><div class=\"news-body\">La récolte des oranges Navelina a débuté dans la Vega del Guadalquivir avec un rendement estimé à 50 000 kilos par hectare. Les prix payés aux producteurs se situent actuellement entre 23 et 25 centimes d&#x27;euro par kilo. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur les rendements et les prix de vente en champ pour un produit phare de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887978/buen-inicio-para-la-navelina-de-la-vega-del-guadalquivir/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Start of the Navelina orange season in Spain -- <span class=\"news-date\">30/10/2026 15:19</span></div><div class=\"news-body\">The Navelina orange harvest has begun in the Vega del Guadalquivir with an estimated yield of 50,000 kilos per hectare. Prices paid to producers are currently between 23 and 25 euro cents per kilo. <span class=\"news-reason\">The article provides precise figures on yields and field sales prices for a flagship Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887978/buen-inicio-para-la-navelina-de-la-vega-del-guadalquivir/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">תחילת עונת תפוזי הנבלינה בספרד -- <span class=\"news-date\">30/10/2026 15:19</span></div><div class=\"news-body\">קטיף תפוזי הנבלינה החל ב-Vega del Guadalquivir עם יבול מוערך של 50,000 קילו להקטר. המחירים המשולמים למגדלים נעים כיום בין 23 ל-25 סנט אירו לקילו. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על היבולים ומחירי המכירה בשטח עבור מוצר דגל של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887978/buen-inicio-para-la-navelina-de-la-vega-del-guadalquivir/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793362101_0",
-      "timestamp": "2026-10-30T12:08:21.013333+00:00",
-      "title": "Manifestation des agriculteurs espagnols contre l&#x27;accord commercial Maroc-UE -- 30/10/2026 12:06",
-      "category": "ALERTES SUPPLY",
-      "commercials": [],
-      "products": [],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Manifestation des agriculteurs espagnols contre l&#x27;accord commercial Maroc-UE -- <span class=\"news-date\">30/10/2026 12:06</span></div><div class=\"news-body\">Les organisations agricoles espagnoles ont manifesté à Madrid pour exiger le rejet de l&#x27;accord commercial entre l&#x27;UE et le Maroc. Elles dénoncent une concurrence déloyale, une situation qui préoccupe les exportateurs marocains de fruits et légumes. <span class=\"news-reason\">L&#x27;article concerne une menace réglementaire et une contestation de l&#x27;accès au marché pour les produits en provenance du Maroc, une origine clé de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/tractorada-de-madrid-laccord-ue-maroc-dans-les-revendications-des-agriculteurs-espagnols/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Spanish farmers' protest against the Morocco-EU trade agreement -- <span class=\"news-date\">30/10/2026 12:06</span></div><div class=\"news-body\">Spanish agricultural organizations protested in Madrid to demand the rejection of the trade agreement between the EU and Morocco. They denounce unfair competition, a situation that concerns Moroccan fruit and vegetable exporters. <span class=\"news-reason\">The article concerns a regulatory threat and a challenge to market access for products from Morocco, a key origin for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/tractorada-de-madrid-laccord-ue-maroc-dans-les-revendications-des-agriculteurs-espagnols/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">הפגנת חקלאים ספרדים נגד הסכם הסחר מרוקו-האיחוד האירופי -- <span class=\"news-date\">30/10/2026 12:06</span></div><div class=\"news-body\">ארגונים חקלאיים ספרדיים הפגינו במדריד בדרישה לדחות את הסכם הסחר בין האיחוד האירופי למרוקו. הם מוקיעים תחרות בלתי הוגנת, מצב המדאיג את יצואני הפירות והירקות המרוקאים. <span class=\"news-reason\">המאמר עוסק באיום רגולטורי ובערעור על הגישה לשוק עבור מוצרים ממרוקו, מקור מרכזי עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/tractorada-de-madrid-laccord-ue-maroc-dans-les-revendications-des-agriculteurs-espagnols/\" target=\"_blank\">AgriMaroc -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
