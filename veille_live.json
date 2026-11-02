@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-11-02T13:33:44.921346+00:00",
-  "article_count": 21,
+  "last_updated": "2026-11-02T15:03:57.600134+00:00",
+  "article_count": 23,
   "attention_points": [
     {
-      "id": "attention-9c655459326f5159",
-      "article_id": "1793626424_2",
-      "url": "https://www.freshplaza.fr/article/9887253/avocats-mexicains-un-exportateur-reorganise-ses-expeditions-face-aux-annulations-de-vols-et-a-la-hausse-des-couts-de-transport/",
-      "source": "FreshPlaza FR",
-      "title": "Exportateurs mexicains d'avocats privilégient le maritime",
-      "summary": "Les exportateurs mexicains réorganisent leurs expéditions vers l'Europe face aux coûts aériens",
+      "id": "attention-e1062b4c37f7107e",
+      "article_id": "1793631837_1",
+      "url": "https://www.freshplaza.es/article/9888453/lamentablemente-estamos-teniendo-precios-historicamente-bajos/",
+      "source": "FreshPlaza ES",
+      "title": "Prix historiquement bas pour l'avocat mexicain",
+      "summary": "La disponibilité accrue en vergers provoque une chute significative des prix",
       "origin_code": "MEX",
       "origin_label": "Mexique",
-      "published_at": "2026-11-02T13:58:00+01:00",
+      "published_at": "2026-11-02T15:42:00+01:00",
       "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
       "products": [
         "avocat"
       ],
@@ -36,7 +36,26 @@
       "signal_label": "Volumes",
       "icon": "volume",
       "products": [],
-      "age_hours": 1
+      "age_hours": 2
+    },
+    {
+      "id": "attention-2662c90ccc4afb4a",
+      "article_id": "1793626424_4",
+      "url": "https://www.freshplaza.com/article/9888127/transport-strikes-and-shipment-delays-complicate-the-start-of-the-clementine-season/",
+      "source": "FreshPlaza",
+      "title": "Début de la saison des clémentines perturbé",
+      "summary": "Les grèves de transport compliquent le début de la campagne des clémentines italiennes",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-11-02T13:30:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
+      "products": [
+        "mandarine"
+      ],
+      "age_hours": 2
     },
     {
       "id": "attention-65809e855798d439",
@@ -55,30 +74,44 @@
       "products": [
         "mango"
       ],
-      "age_hours": 1
-    },
-    {
-      "id": "attention-f43a186091ac8800",
-      "article_id": "1793626424_1",
-      "url": "https://www.freshplaza.com/article/9888235/usda-plans-20-million-in-u-s-orange-and-grapefruit-purchases/",
-      "source": "FreshPlaza",
-      "title": "L'USDA prévoit l'achat d'oranges et de pamplemousses",
-      "summary": "Le département de l'agriculture investit vingt millions de dollars dans les agrumes américains",
-      "origin_code": "USA",
-      "origin_label": "États-Unis",
-      "published_at": "2026-11-02T13:30:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "orange",
-        "citrus_grapefruit"
-      ],
-      "age_hours": 1
+      "age_hours": 2
     }
   ],
   "articles": [
+    {
+      "id": "1793631837_1",
+      "timestamp": "2026-11-02T15:03:57.600134+00:00",
+      "title": "Prix historiquement bas pour l&#x27;avocat mexicain en raison d&#x27;une production élevée",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MEX"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Prix historiquement bas pour l&#x27;avocat mexicain en raison d&#x27;une production élevée -- <span class=\"news-date\">02/11/2026 15:42</span></div><div class=\"news-body\">La saison actuelle de l&#x27;avocat au Mexique se caractérise par une disponibilité accrue de fruits en raison de cycles de floraison optimaux. Cette production importante entraîne des prix historiquement bas, ce qui représente une opportunité pour renforcer la présence commerciale sur les marchés internationaux. <span class=\"news-reason\">Info marché sur un produit Mehadrin (avocat) chez un concurrent majeur avec mention de la tendance des prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9888453/lamentablemente-estamos-teniendo-precios-historicamente-bajos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Historically low prices for Mexican avocados due to high production -- <span class=\"news-date\">02/11/2026 15:42</span></div><div class=\"news-body\">The current avocado season in Mexico is characterized by increased fruit availability due to optimal flowering cycles. This significant production is leading to historically low prices, representing an opportunity to strengthen commercial presence in international markets. <span class=\"news-reason\">Market info on a Mehadrin product (avocado) from a major competitor with mention of price trends.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9888453/lamentablemente-estamos-teniendo-precios-historicamente-bajos/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מחירים נמוכים היסטורית עבור האבוקדו המקסיקני בשל ייצור גבוה -- <span class=\"news-date\">02/11/2026 15:42</span></div><div class=\"news-body\">עונת האבוקדו הנוכחית במקסיקו מתאפיינת בזמינות מוגברת של פירות בשל מחזורי פריחה אופטימליים. ייצור משמעותי זה מוביל למחירים נמוכים היסטורית, המהווים הזדמנות לחיזוק הנוכחות המסחרית בשווקים הבינלאומיים. <span class=\"news-reason\">מידע שוק על מוצר מהדרין (אבוקדו) אצל מתחרה מרכזי עם אזכור של מגמת המחירים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9888453/lamentablemente-estamos-teniendo-precios-historicamente-bajos/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793631837_0",
+      "timestamp": "2026-11-02T15:03:57.600134+00:00",
+      "title": "La promotion des agrumes en Floride génère 17,4 millions de dollars de ventes -- 02/11/2026 13:30",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La promotion des agrumes en Floride génère 17,4 millions de dollars de ventes -- <span class=\"news-date\">02/11/2026 13:30</span></div><div class=\"news-body\">Le Florida Department of Citrus a mis en œuvre des initiatives marketing qui ont généré 17,4 millions de dollars de ventes de jus d&#x27;orange en septembre. Plus de 800 programmes promotionnels sont actuellement actifs pour stimuler la demande de jus et d&#x27;agrumes frais alors que la saison de récolte commence. <span class=\"news-reason\">Contient des chiffres de ventes et des informations sur la promotion d&#x27;un produit Mehadrin (agrumes/orange).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888236/florida-citrus-marketing-generates-17-4-million-in-orange-juice-sales/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Florida citrus promotion generates 17.4 million dollars in sales -- <span class=\"news-date\">02/11/2026 13:30</span></div><div class=\"news-body\">The Florida Department of Citrus implemented marketing initiatives that generated 17.4 million dollars in orange juice sales in September. More than 800 promotional programs are currently active to stimulate demand for juice and fresh citrus as the harvest season begins. <span class=\"news-reason\">Contains sales figures and information on the promotion of a Mehadrin product (citrus/orange).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888236/florida-citrus-marketing-generates-17-4-million-in-orange-juice-sales/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">קידום מכירות ההדרים בפלורידה מניב מכירות בשווי 17.4 מיליון דולר -- <span class=\"news-date\">02/11/2026 13:30</span></div><div class=\"news-body\">מחלקת ההדרים של פלורידה הטמיעה יוזמות שיווקיות שהניבו מכירות של מיץ תפוזים בשווי 17.4 מיליון דולר בספטמבר. למעלה מ-800 תוכניות קידום מכירות פעילות כיום כדי לעורר את הביקוש למיץ ולהדרים טריים עם תחילת עונת הקטיף. <span class=\"news-reason\">מכיל נתוני מכירות ומידע על קידום מוצר של מהדרין (הדרים/תפוז).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888236/florida-citrus-marketing-generates-17-4-million-in-orange-juice-sales/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1793626424_4",
       "timestamp": "2026-11-02T13:33:44.921346+00:00",
@@ -256,7 +289,7 @@
     {
       "id": "1793464499_0",
       "timestamp": "2026-10-31T16:34:59.170123+00:00",
-      "title": "Saturation du marché et repli des cours de la patate douce d’Égypte",
+      "title": "Saturation du marché et fléchissement des cours de la patate douce d’Égypte",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -267,7 +300,7 @@
       "origins": [
         "EGY"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Saturation du marché et repli des cours de la patate douce d’Égypte -- <span class=\"news-date\">30/10/2026 15:19</span></div><div class=\"news-body\">La campagne égyptienne de patates douces entamée en juillet connaît des difficultés majeures en Europe. Malgré une qualité et des volumes jugés corrects, l&#x27;offre excédentaire sur le marché provoque une baisse significative des prix de vente par rapport aux prévisions initiales. <span class=\"news-reason\">Information sur la situation de marché, les volumes et la chute des prix pour la patate douce égyptienne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887264/la-importacion-de-batatas-es-actualmente-un-negocio-puramente-deficitario/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Saturation du marché et fléchissement des cours de la patate douce d’Égypte -- <span class=\"news-date\">30/10/2026 15:19</span></div><div class=\"news-body\">La campagne égyptienne de patates douces entamée en juillet connaît des difficultés majeures en Europe. Malgré une qualité et des volumes jugés corrects, l&#x27;offre excédentaire sur le marché provoque une baisse significative des prix de vente par rapport aux prévisions initiales. <span class=\"news-reason\">Information sur la situation de marché, les volumes et la chute des prix pour la patate douce égyptienne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887264/la-importacion-de-batatas-es-actualmente-un-negocio-puramente-deficitario/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Market saturation and falling prices for Egyptian sweet potatoes -- <span class=\"news-date\">30/10/2026 15:19</span></div><div class=\"news-body\">The Egyptian sweet potato campaign started in July is facing major difficulties in Europe. Despite quality and volumes considered correct, oversupply on the market is causing a significant drop in selling prices compared to initial forecasts. <span class=\"news-reason\">Information on the market situation, volumes, and the drop in prices for Egyptian sweet potatoes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887264/la-importacion-de-batatas-es-actualmente-un-negocio-puramente-deficitario/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">רוויה בשוק וירידת מחירים עבור הבטטה המצרית -- <span class=\"news-date\">30/10/2026 15:19</span></div><div class=\"news-body\">עונת הבטטות המצרית שהחלה ביולי חווה קשיים משמעותיים באירופה. למרות איכות וכמויות שנחשבות תקינות, עודף ההיצע בשוק גורם לירידה משמעותית במחירי המכירה בהשוואה לתחזיות הראשוניות. <span class=\"news-reason\">מידע על מצב השוק, הכמויות וירידת המחירים עבור הבטטה המצרית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887264/la-importacion-de-batatas-es-actualmente-un-negocio-puramente-deficitario/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -412,7 +445,7 @@
     {
       "id": "1793372878_2",
       "timestamp": "2026-10-30T15:07:58.828929+00:00",
-      "title": "Valence accueillera le Forum international de la culture de l&#x27;avocat",
+      "title": "Valence accueillera le Forum international de la culture de l’avocat",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -423,7 +456,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Valence accueillera le Forum international de la culture de l&#x27;avocat -- <span class=\"news-date\">30/10/2026 15:19</span></div><div class=\"news-body\">Le 24 novembre 2026 se tiendra l&#x27;AguacateForum à Valence. Organisé par les associations de producteurs, cet événement réunira les professionnels pour discuter de l&#x27;évolution et des défis du secteur de l&#x27;avocat. <span class=\"news-reason\">L&#x27;article annonce un événement majeur pour la filière avocat en Espagne, origine clé pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887995/valencia-acogera-el-iv-foro-internacional-del-cultivo-del-aguacate/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Valence accueillera le Forum international de la culture de l’avocat -- <span class=\"news-date\">30/10/2026 15:19</span></div><div class=\"news-body\">Le 24 novembre 2026 se tiendra l&#x27;AguacateForum à Valence. Organisé par les associations de producteurs, cet événement réunira les professionnels pour discuter de l&#x27;évolution et des défis du secteur de l&#x27;avocat. <span class=\"news-reason\">L&#x27;article annonce un événement majeur pour la filière avocat en Espagne, origine clé pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887995/valencia-acogera-el-iv-foro-internacional-del-cultivo-del-aguacate/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Valencia to host the International Avocado Growing Forum -- <span class=\"news-date\">30/10/2026 15:19</span></div><div class=\"news-body\">On November 24, 2026, the AguacateForum will be held in Valencia. Organized by producer associations, this event will bring together professionals to discuss the evolution and challenges of the avocado sector. <span class=\"news-reason\">The article announces a major event for the avocado sector in Spain, a key origin for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887995/valencia-acogera-el-iv-foro-internacional-del-cultivo-del-aguacate/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מקורות מתחרים</div><div class=\"news-title\">ולנסיה תארח את הפורום הבינלאומי לגידול אבוקדו -- <span class=\"news-date\">30/10/2026 15:19</span></div><div class=\"news-body\">ב-24 בנובמבר 2026 יתקיים פורום האבוקדו (AguacateForum) בוולנסיה. האירוע, המאורגן על ידי איגודי המגדלים, יפגיש אנשי מקצוע כדי לדון בהתפתחות ובאתגרים של ענף האבוקדו. <span class=\"news-reason\">המאמר מכריז על אירוע משמעותי עבור ענף האבוקדו בספרד, מקור מפתח עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9887995/valencia-acogera-el-iv-foro-internacional-del-cultivo-del-aguacate/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
