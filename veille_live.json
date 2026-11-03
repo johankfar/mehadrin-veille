@@ -1,13 +1,32 @@
 {
-  "last_updated": "2026-11-02T15:03:57.600134+00:00",
-  "article_count": 20,
+  "last_updated": "2026-11-03T06:03:31.053833+00:00",
+  "article_count": 18,
   "attention_points": [
+    {
+      "id": "attention-8ea14ed168ee8366",
+      "article_id": "1793685811_0",
+      "url": "https://www.freshplaza.it/article/9887695/riceviamo-richieste-da-tutto-il-mondo-a-testimonianza-della-curiosita-che-suscita-questo-frutto-davvero-unico/",
+      "source": "FreshPlaza IT",
+      "title": "Expansion des mandarines sur le marché européen",
+      "summary": "Le groupe Amfresh développe sa mandarine unique dans le secteur du détail européen",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-11-03T06:05:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
+      "products": [
+        "mandarine"
+      ],
+      "age_hours": 0
+    },
     {
       "id": "attention-e1062b4c37f7107e",
       "article_id": "1793631837_1",
       "url": "https://www.freshplaza.es/article/9888453/lamentablemente-estamos-teniendo-precios-historicamente-bajos/",
       "source": "FreshPlaza ES",
-      "title": "Prix de l’avocat mexicain atteint un plus bas",
+      "title": "Prix de l'avocat mexicain atteint un plus bas",
       "summary": "La disponibilité accrue en vergers provoque une chute significative des prix",
       "origin_code": "MEX",
       "origin_label": "Mexique",
@@ -19,7 +38,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 0
+      "age_hours": 15
     },
     {
       "id": "attention-23500e196e9b6c88",
@@ -36,26 +55,7 @@
       "signal_label": "Volumes",
       "icon": "volume",
       "products": [],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-2662c90ccc4afb4a",
-      "article_id": "1793626424_4",
-      "url": "https://www.freshplaza.com/article/9888127/transport-strikes-and-shipment-delays-complicate-the-start-of-the-clementine-season/",
-      "source": "FreshPlaza",
-      "title": "Début de la saison des clémentines perturbé",
-      "summary": "Les grèves de transport compliquent le début de la campagne des clémentines italiennes",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-11-02T13:30:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [
-        "mandarine"
-      ],
-      "age_hours": 2
+      "age_hours": 17
     },
     {
       "id": "attention-65809e855798d439",
@@ -74,14 +74,30 @@
       "products": [
         "mango"
       ],
-      "age_hours": 2
+      "age_hours": 17
     }
   ],
   "articles": [
     {
+      "id": "1793685811_0",
+      "timestamp": "2026-11-03T06:03:31.053833+00:00",
+      "title": "Amfresh : expansion des mandarines sur le marché européen -- 03/11/2026 06:05",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Amfresh : expansion des mandarines sur le marché européen -- <span class=\"news-date\">03/11/2026 06:05</span></div><div class=\"news-body\">Le mandarinier à la forme de citrouille de Genesis Fresh entame sa quatrième saison commerciale avec de nouveaux formats d&#x27;emballage pour le détail européen. <span class=\"news-reason\">Innovation produit et renforcement de la présence d&#x27;un concurrent majeur sur le segment des agrumes en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887695/riceviamo-richieste-da-tutto-il-mondo-a-testimonianza-della-curiosita-che-suscita-questo-frutto-davvero-unico/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Amfresh: mandarin expansion in the European market -- <span class=\"news-date\">03/11/2026 06:05</span></div><div class=\"news-body\">Genesis Fresh's pumpkin-shaped mandarin is entering its fourth commercial season with new packaging formats for European retail. <span class=\"news-reason\">Product innovation and strengthening the presence of a major competitor in the European citrus segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887695/riceviamo-richieste-da-tutto-il-mondo-a-testimonianza-della-curiosita-che-suscita-questo-frutto-davvero-unico/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תנועות ברשתות השיווק</div><div class=\"news-title\">Amfresh: התרחבות המנדרינות בשוק האירופי -- <span class=\"news-date\">03/11/2026 06:05</span></div><div class=\"news-body\">המנדרינה בצורת דלעת של Genesis Fresh מתחילה את העונה המסחרית הרביעית שלה עם פורמטי אריזה חדשים לקמעונאות האירופית. <span class=\"news-reason\">חדשנות במוצר וחיזוק הנוכחות של מתחרה מרכזי במקטע פירות ההדר באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887695/riceviamo-richieste-da-tutto-il-mondo-a-testimonianza-della-curiosita-che-suscita-questo-frutto-davvero-unico/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
+    {
       "id": "1793631837_1",
       "timestamp": "2026-11-02T15:03:57.600134+00:00",
-      "title": "Le prix de l’avocat mexicain atteint un plus bas historique en raison d’une production élevée",
+      "title": "Le prix de l&#x27;avocat mexicain atteint un plus bas historique en raison d&#x27;une production élevée",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -92,7 +108,7 @@
       "origins": [
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le prix de l’avocat mexicain atteint un plus bas historique en raison d’une production élevée -- <span class=\"news-date\">02/11/2026 15:42</span></div><div class=\"news-body\">La saison actuelle de l&#x27;avocat au Mexique se caractérise par une disponibilité accrue de fruits en raison de cycles de floraison optimaux. Cette production importante entraîne des prix historiquement bas, ce qui représente une opportunité pour renforcer la présence commerciale sur les marchés internationaux. <span class=\"news-reason\">Info marché sur un produit Mehadrin (avocat) chez un concurrent majeur avec mention de la tendance des prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9888453/lamentablemente-estamos-teniendo-precios-historicamente-bajos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le prix de l&#x27;avocat mexicain atteint un plus bas historique en raison d&#x27;une production élevée -- <span class=\"news-date\">02/11/2026 15:42</span></div><div class=\"news-body\">La saison actuelle de l&#x27;avocat au Mexique se caractérise par une disponibilité accrue de fruits en raison de cycles de floraison optimaux. Cette production importante entraîne des prix historiquement bas, ce qui représente une opportunité pour renforcer la présence commerciale sur les marchés internationaux. <span class=\"news-reason\">Info marché sur un produit Mehadrin (avocat) chez un concurrent majeur avec mention de la tendance des prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9888453/lamentablemente-estamos-teniendo-precios-historicamente-bajos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Historically low prices for Mexican avocados due to high production -- <span class=\"news-date\">02/11/2026 15:42</span></div><div class=\"news-body\">The current avocado season in Mexico is characterized by increased fruit availability due to optimal flowering cycles. This significant production is leading to historically low prices, representing an opportunity to strengthen commercial presence in international markets. <span class=\"news-reason\">Market info on a Mehadrin product (avocado) from a major competitor with mention of price trends.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9888453/lamentablemente-estamos-teniendo-precios-historicamente-bajos/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מחירים נמוכים היסטורית עבור האבוקדו המקסיקני בשל ייצור גבוה -- <span class=\"news-date\">02/11/2026 15:42</span></div><div class=\"news-body\">עונת האבוקדו הנוכחית במקסיקו מתאפיינת בזמינות מוגברת של פירות בשל מחזורי פריחה אופטימליים. ייצור משמעותי זה מוביל למחירים נמוכים היסטורית, המהווים הזדמנות לחיזוק הנוכחות המסחרית בשווקים הבינלאומיים. <span class=\"news-reason\">מידע שוק על מוצר מהדרין (אבוקדו) אצל מתחרה מרכזי עם אזכור של מגמת המחירים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9888453/lamentablemente-estamos-teniendo-precios-historicamente-bajos/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -372,59 +388,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Expansion des exportations égyptiennes de produits frais vers l&#x27;Afrique -- <span class=\"news-date\">30/10/2026 13:38</span></div><div class=\"news-body\">Les exportations égyptiennes de fruits et légumes frais vers les marchés africains ont atteint 491,4 millions de dollars US en 2025. Le gouvernement égyptien cherche à diversifier ses destinations d&#x27;exportation et à renforcer ses partenariats commerciaux pour accroître sa présence sur le continent. <span class=\"news-reason\">Information sur les flux d&#x27;exportation d&#x27;une origine concurrente majeure pour les agrumes et patates douces.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9887796/egypt-s-fruit-and-vegetable-exports-to-africa-reach-us-491-4-million-in-2025/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Expansion of Egyptian fresh produce exports to Africa -- <span class=\"news-date\">30/10/2026 13:38</span></div><div class=\"news-body\">Egyptian fresh fruit and vegetable exports to African markets reached US $491.4 million in 2025. The Egyptian government seeks to diversify its export destinations and strengthen its trade partnerships to increase its presence on the continent. <span class=\"news-reason\">Information on export flows from a major competing origin for citrus and sweet potatoes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9887796/egypt-s-fruit-and-vegetable-exports-to-africa-reach-us-491-4-million-in-2025/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">התרחבות הייצוא המצרי של תוצרת טרייה לאפריקה -- <span class=\"news-date\">30/10/2026 13:38</span></div><div class=\"news-body\">ייצוא הפירות והירקות הטריים של מצרים לשווקים באפריקה הגיע ל-491.4 מיליון דולר בשנת 2025. הממשלה המצרית מבקשת לגוון את יעדי הייצוא שלה ולחזק את השותפויות המסחריות שלה כדי להגדיל את נוכחותה ביבשת. <span class=\"news-reason\">מידע על זרמי ייצוא ממקור מתחרה עיקרי עבור הדרים ובטטות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9887796/egypt-s-fruit-and-vegetable-exports-to-africa-reach-us-491-4-million-in-2025/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793389023_2",
-      "timestamp": "2026-10-30T19:37:03.847754+00:00",
-      "title": "Expansion européenne de la mandarine Halloweena pour sa quatrième saison -- 29/10/2026 15:55",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "mandarine"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Expansion européenne de la mandarine Halloweena pour sa quatrième saison -- <span class=\"news-date\">29/10/2026 15:55</span></div><div class=\"news-body\">La mandarine Halloweena, produite par le groupe AMFRESH, entame sa quatrième saison avec une distribution élargie. Au Royaume-Uni, elle est désormais disponible dans les enseignes M&amp;S et Tesco. Elle fait également son entrée sur le marché danois via un détaillant en ligne. Le développement est soutenu par de nouveaux formats d&#x27;emballage et des promotions saisonnières. <span class=\"news-reason\">Concerne la distribution d&#x27;une variété de mandarine (produit Mehadrin) sur les marchés du Royaume-Uni et du Danemark.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/29/halloweena-2026/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">European expansion of the Halloweena mandarin for its fourth season -- <span class=\"news-date\">29/10/2026 15:55</span></div><div class=\"news-body\">The Halloweena mandarin, produced by the AMFRESH group, begins its fourth season with expanded distribution. In the UK, it is now available in M&amp;S and Tesco stores. It is also entering the Danish market via an online retailer. The development is supported by new packaging formats and seasonal promotions. <span class=\"news-reason\">Relates to the distribution of a mandarin variety (Mehadrin product) in the UK and Danish markets.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/29/halloweena-2026/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות ברשתות השיווק</div><div class=\"news-title\">התרחבות אירופית של מנדרינת Halloweena לעונתה הרביעית -- <span class=\"news-date\">29/10/2026 15:55</span></div><div class=\"news-body\">מנדרינת Halloweena, המיוצרת על ידי קבוצת AMFRESH, מתחילה את העונה הרביעית שלה עם הפצה מורחבת. בבריטניה, היא זמינה כעת ברשתות M&amp;S ו-Tesco. היא נכנסת גם לשוק הדני דרך קמעונאי מקוון. הפיתוח נתמך על ידי פורמטי אריזה חדשים ומבצעים עונתיים. <span class=\"news-reason\">נוגע להפצה של זן מנדרינה (מוצר מהדרין) בשווקי בריטניה ודנמרק.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/29/halloweena-2026/\" target=\"_blank\">Fresh Fruit Portal -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793389023_1",
-      "timestamp": "2026-10-30T19:37:03.847754+00:00",
-      "title": "Expansion de la mandarine Halloweena au sein de la distribution européenne -- 30/10/2026 10:27",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "mandarine"
-      ],
-      "origins": [
-        "DEU",
-        "NLD"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Expansion de la mandarine Halloweena au sein de la distribution européenne -- <span class=\"news-date\">30/10/2026 10:27</span></div><div class=\"news-body\">Pour sa quatrième saison, la mandarine Halloweena renforce sa distribution en Europe. Elle est disponible au Royaume-Uni via M&amp;S et Tesco, en Allemagne chez Kaufland, au Danemark sur nemlig.com et aux Pays-Bas via Picnic. <span class=\"news-reason\">Nouveaux débouchés commerciaux et partenariats avec des enseignes majeures en Europe pour un produit Mehadrin (mandarine).</span></div><div class=\"news-source\"><a href=\"https://www.fruchthandel.de/news/halloweenatm-neue-maerkte-formate-und-wachstumschancen\" target=\"_blank\">Fruchthandel -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Expansion of the Halloweena mandarin within European distribution -- <span class=\"news-date\">30/10/2026 10:27</span></div><div class=\"news-body\">For its fourth season, the Halloweena mandarin is strengthening its distribution in Europe. It is available in the UK via M&amp;S and Tesco, in Germany at Kaufland, in Denmark on nemlig.com and in the Netherlands via Picnic. <span class=\"news-reason\">New commercial outlets and partnerships with major retailers in Europe for a Mehadrin product (mandarin).</span></div><div class=\"news-source\"><a href=\"https://www.fruchthandel.de/news/halloweenatm-neue-maerkte-formate-und-wachstumschancen\" target=\"_blank\">Fruchthandel -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות ברשתות השיווק</div><div class=\"news-title\">התרחבות מנדרינת Halloweena בתוך רשתות ההפצה האירופיות -- <span class=\"news-date\">30/10/2026 10:27</span></div><div class=\"news-body\">לקראת העונה הרביעית שלה, מנדרינת Halloweena מחזקת את ההפצה שלה באירופה. היא זמינה בבריטניה דרך M&amp;S ו-Tesco, בגרמניה ב-Kaufland, בדנמרק באתר nemlig.com ובהולנד דרך Picnic. <span class=\"news-reason\">שווקים מסחריים חדשים ושותפויות עם רשתות שיווק מרכזיות באירופה עבור מוצר מהדרין (מנדרינה).</span></div><div class=\"news-source\"><a href=\"https://www.fruchthandel.de/news/halloweenatm-neue-maerkte-formate-und-wachstumschancen\" target=\"_blank\">Fruchthandel -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793389023_0",
-      "timestamp": "2026-10-30T19:37:03.847754+00:00",
-      "title": "Exportations de mandarines du Pérou en septembre 2026 -- 30/10/2026 18:28",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "mandarine"
-      ],
-      "origins": [
-        "PER"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Exportations de mandarines du Pérou en septembre 2026 -- <span class=\"news-date\">30/10/2026 18:28</span></div><div class=\"news-body\">Le portail Agrodata Perú a publié les données relatives aux exportations de mandarines pour le mois de septembre 2026, fournissant un suivi des performances d&#x27;expédition du pays. <span class=\"news-reason\">Rapport statistique sur les volumes d&#x27;exportation d&#x27;un produit Mehadrin (mandarine) depuis une origine clé (Pérou).</span></div><div class=\"news-source\"><a href=\"https://agrodataperu.com/2026/10/mandarina-peru-exportacion-2026-septiembre.html\" target=\"_blank\">Agrodata Perú -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Peru mandarin exports in September 2026 -- <span class=\"news-date\">30/10/2026 18:28</span></div><div class=\"news-body\">The Agrodata Perú portal has published mandarin export data for September 2026, providing a tracking of the country&#x27;s shipping performance. <span class=\"news-reason\">Statistical report on export volumes of a Mehadrin product (mandarin) from a key origin (Peru).</span></div><div class=\"news-source\"><a href=\"https://agrodataperu.com/2026/10/mandarina-peru-exportacion-2026-septiembre.html\" target=\"_blank\">Agrodata Perú -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ייצוא מנדרינות מפרו בספטמבר 2026 -- <span class=\"news-date\">30/10/2026 18:28</span></div><div class=\"news-body\">פורטל Agrodata Perú פרסם את הנתונים הנוגעים לייצוא מנדרינות לחודש ספטמבר 2026, ומספק מעקב אחר ביצועי המשלוחים של המדינה. <span class=\"news-reason\">דו\"ח סטטיסטי על כמויות הייצוא של מוצר מהדרין (מנדרינה) ממקור מרכזי (פרו).</span></div><div class=\"news-source\"><a href=\"https://agrodataperu.com/2026/10/mandarina-peru-exportacion-2026-septiembre.html\" target=\"_blank\">Agrodata Perú -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
