@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-05T10:33:23.590817+00:00",
-  "article_count": 35,
+  "last_updated": "2026-11-05T12:04:13.290120+00:00",
+  "article_count": 40,
   "attention_points": [
     {
       "id": "attention-f771bfbf36d7889a",
@@ -23,6 +23,26 @@
       "age_hours": 0
     },
     {
+      "id": "attention-e2dcedb7d39e7edf",
+      "article_id": "1793880253_0",
+      "url": "https://www.freshfruitportal.com/news/2026/11/05/chinas-citrus/",
+      "source": "Fresh Fruit Portal",
+      "title": "Forte hausse des exportations d'agrumes de la Chine",
+      "summary": "Les expéditions chinoises de pomelos augmentent alors que les volumes turcs de mandarines chutent",
+      "origin_code": "TUR",
+      "origin_label": "Turquie",
+      "published_at": "2026-11-05T08:00:11+00:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "volume",
+      "products": [
+        "mandarine",
+        "citrus_grapefruit"
+      ],
+      "age_hours": 4
+    },
+    {
       "id": "attention-0d1139bc8708a5f1",
       "article_id": "1793858690_1",
       "url": "https://www.agrimaroc.ma/orages-et-grele-vigilance-orange-sur-47-provinces-les-3-et-4-novembre-le-souss-en-premiere-ligne/",
@@ -39,7 +59,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 12
+      "age_hours": 13
     },
     {
       "id": "attention-a354d5cc520e486a",
@@ -58,29 +78,116 @@
       "products": [
         "orange"
       ],
-      "age_hours": 20
-    },
-    {
-      "id": "attention-32b2338eb3de16d9",
-      "article_id": "1793808063_0",
-      "url": "https://www.freshplaza.com/article/9888988/despite-price-pressure-from-large-volumes-of-egyptian-sweet-potatoes-the-outlook-remains-positive/",
-      "source": "FreshPlaza",
-      "title": "Volumes importants pèsent sur les prix des patates",
-      "summary": "Les volumes importants impactent les cours sur le marché européen actuellement",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-11-04T13:25:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "price",
-      "signal_label": "Prix",
-      "icon": "price",
-      "products": [
-        "sweet_potato"
-      ],
-      "age_hours": 22
+      "age_hours": 21
     }
   ],
   "articles": [
+    {
+      "id": "1793880253_5",
+      "timestamp": "2026-11-05T12:04:13.290120+00:00",
+      "title": "Expansion de la distribution des mandarines Halloweena au Royaume-Uni et au Danemark -- 29/10/2026 15:55",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Expansion de la distribution des mandarines Halloweena au Royaume-Uni et au Danemark -- <span class=\"news-date\">29/10/2026 15:55</span></div><div class=\"news-body\">La mandarine Halloweena, développée par Genesis Fresh et commercialisée par Amfresh Group, étend sa distribution européenne pour sa quatrième saison. Le produit intègre les rayons des enseignes M&amp;S et Tesco au Royaume-Uni ainsi que le distributeur en ligne Nemlig au Danemark. <span class=\"news-reason\">Information sur l&#x27;expansion commerciale et les nouveaux canaux de distribution d&#x27;un produit concurrent sur un marché cible.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/29/halloweena-2026/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Expansion of Halloweena mandarin distribution in the United Kingdom and Denmark -- <span class=\"news-date\">29/10/2026 15:55</span></div><div class=\"news-body\">The Halloweena mandarin, developed by Genesis Fresh and marketed by Amfresh Group, is expanding its European distribution for its fourth season. The product is entering the shelves of retailers M&amp;S and Tesco in the United Kingdom as well as the online retailer Nemlig au Danemark. <span class=\"news-reason\">Information on the commercial expansion and new distribution channels of a competing product in a target market.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/29/halloweena-2026/\" target=\"_blank\">Fresh Fruit Portal -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות</div><div class=\"news-title\">הרחבת הפצת מנדרינות Halloweena בבריטניה ובדנמרק -- <span class=\"news-date\">29/10/2026 15:55</span></div><div class=\"news-body\">מנדרינת Halloweena, שפותחה על ידי Genesis Fresh ומשווקת על ידי Amfresh Group, מרחיבה את ההפצה האירופית שלה בעונתה הרביעית. המוצר נכנס למדפי הרשתות M&amp;S ו-Tesco בבריטניה וכן למפיץ המקוון Nemlig בדנמרק. <span class=\"news-reason\">מידע על התרחבות מסחרית וערוצי הפצה חדשים של מוצר מתחרה בשוק יעד.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/29/halloweena-2026/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793880253_4",
+      "timestamp": "2026-11-05T12:04:13.290120+00:00",
+      "title": "Hausse de 11 % de la production de dattes au Maroc pour 2026-2027 -- 29/10/2026 15:45",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [
+        "date"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Hausse de 11 % de la production de dattes au Maroc pour 2026-2027 -- <span class=\"news-date\">29/10/2026 15:45</span></div><div class=\"news-body\">Lors de l&#x27;ouverture du Salon International des Dattes à Erfoud, le Maroc a annoncé une production prévisionnelle de 177 000 tonnes pour la campagne 2026-2027. Ce volume représente une augmentation de 11 % par rapport à la saison précédente. <span class=\"news-reason\">Information chiffrée cruciale sur les volumes de production de dattes d&#x27;une origine majeure.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/ouverture-de-la-15eme-edition-du-salon-international-des-dattes-au-maroc-a-erfoud/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">11% increase in date production in Morocco for 2026-2027 -- <span class=\"news-date\">29/10/2026 15:45</span></div><div class=\"news-body\">At the opening of the International Dates Fair in Erfoud, Morocco announced a forecast production of 177,000 tonnes for the 2026-2027 campaign. This volume represents an 11% increase compared to the previous season. <span class=\"news-reason\">Crucial numerical information on date production volumes from a major origin.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/ouverture-de-la-15eme-edition-du-salon-international-des-dattes-au-maroc-a-erfoud/\" target=\"_blank\">AgriMaroc -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עלייה של 11% בייצור התמרים במרוקו לשנים 2026-2027 -- <span class=\"news-date\">29/10/2026 15:45</span></div><div class=\"news-body\">עם פתיחת התערוכה הבינלאומית לתמרים בארפוד, הכריזה מרוקו על ייצור חזוי של 177,000 טון לעונת 2026-2027. כמות זו מהווה עלייה של 11% לעומת העונה הקודמת. <span class=\"news-reason\">מידע כמותי קריטי על היקפי ייצור התמרים ממקור מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/ouverture-de-la-15eme-edition-du-salon-international-des-dattes-au-maroc-a-erfoud/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793880253_3",
+      "timestamp": "2026-11-05T12:04:13.290120+00:00",
+      "title": "Le Bureau du Procureur général de Colombie nomme ses dirigeants pour 2026-2027 -- 29/10/2026 15:23",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "COL",
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Le Bureau du Procureur général de Colombie nomme ses dirigeants pour 2026-2027 -- <span class=\"news-date\">29/10/2026 15:23</span></div><div class=\"news-body\">Le Colombia Avocado Board (CAB) a annoncé la composition de son nouveau conseil d&#x27;administration pour la période 2026-2027. Les neuf membres élus représentent les exportateurs colombiens et les importateurs américains pour soutenir le développement de la filière sur le marché des États-Unis. <span class=\"news-reason\">Nomination d&#x27;un nouveau conseil d&#x27;administration pour l&#x27;organisation gérant les exportations d&#x27;avocats colombiens.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/29/colombia-avocado-board/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">The Attorney General&#x27;s Office of Colombia appoints its leaders for 2026-2027 -- <span class=\"news-date\">29/10/2026 15:23</span></div><div class=\"news-body\">The Colombia Avocado Board (CAB) has announced the composition of its new board of directors for the 2026-2027 period. The nine elected members represent Colombian exporters and American importers to support the development of the sector in the United States market. <span class=\"news-reason\">Appointment of a new board of directors for the organization managing Colombian avocado exports.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/29/colombia-avocado-board/\" target=\"_blank\">Fresh Fruit Portal -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות</div><div class=\"news-title\">לשכת התובע הכללי של קולומביה ממנה את מנהיגיה לשנים 2026-2027 -- <span class=\"news-date\">29/10/2026 15:23</span></div><div class=\"news-body\">מועצת האבוקדו של קולומביה (CAB) הודיעה על הרכב הדירקטוריון החדש שלה לתקופה 2026-2027. תשעת החברים שנבחרו מייצגים את היצואנים הקולומביאנים ואת היבואנים האמריקאים כדי לתמוך בפיתוח הענף בשוק של ארצות הברית. <span class=\"news-reason\">מינוי דירקטוריון חדש לארגון המנהל את ייצוא האבוקדו מקולומביה.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/10/29/colombia-avocado-board/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793880253_2",
+      "timestamp": "2026-11-05T12:04:13.290120+00:00",
+      "title": "Progression de la demande d&#x27;avocats sur le marché européen -- 04/11/2026 14:13",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Progression de la demande d&#x27;avocats sur le marché européen -- <span class=\"news-date\">04/11/2026 14:13</span></div><div class=\"news-body\">La consommation d&#x27;avocats en Europe continue de progresser malgré des volumes records sur le marché. Cependant, la chaîne d&#x27;approvisionnement mondiale est confrontée à des défis majeurs tels que les impacts climatiques d&#x27;El Niño, l&#x27;augmentation des coûts de production et la concurrence croissante du marché asiatique. Zac Bard du groupe Westfalia précise que ces facteurs mettent à l&#x27;épreuve la logistique vers l&#x27;Europe. <span class=\"news-reason\">Analyse stratégique de la consommation d&#x27;avocats en Europe et des menaces pesant sur la supply chain (El Niño, coûts).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9888569/l-appetit-de-l-europe-pour-les-avocats-n-en-est-qu-a-ses-debuts/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Growth in avocado demand on the European market -- <span class=\"news-date\">04/11/2026 14:13</span></div><div class=\"news-body\">Avocado consumption in Europe continues to grow despite record volumes on the market. However, the global supply chain is facing major challenges such as the climate impacts of El Niño, increasing production costs, and growing competition from the Asian market. Zac Bard from the Westfalia group specifies that these factors are testing logistics to Europe. <span class=\"news-reason\">Strategic analysis of avocado consumption in Europe and threats to the supply chain (El Niño, costs).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9888569/l-appetit-de-l-europe-pour-les-avocats-n-en-est-qu-a-ses-debuts/\" target=\"_blank\">FreshPlaza FR -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">עלייה בביקוש לאבוקדו בשוק האירופי -- <span class=\"news-date\">04/11/2026 14:13</span></div><div class=\"news-body\">צריכת האבוקדו באירופה ממשיכה לעלות למרות כמויות שיא בשוק. עם זאת, שרשרת האספקה העולמית מתמודדת עם אתגרים משמעותיים כגון השפעות האקלים של אל ניניו (El Niño), עליית עלויות הייצור והתחרות הגוברת מהשוק האסייתי. זאק בארד מקבוצת Westfalia מציין כי גורמים אלו מעמידים למבחן את הלוגיסטיקה לאירופה. <span class=\"news-reason\">ניתוח אסטרטגי של צריכת האבוקדו באירופה והאיומים על שרשרת האספקה (אל ניניו, עלויות).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9888569/l-appetit-de-l-europe-pour-les-avocats-n-en-est-qu-a-ses-debuts/\" target=\"_blank\">FreshPlaza FR -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793880253_1",
+      "timestamp": "2026-11-05T12:04:13.290120+00:00",
+      "title": "Fin de la grève et reprise de la récolte d&#x27;avocats au Mexique -- 05/11/2026 08:00",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MEX"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Fin de la grève et reprise de la récolte d&#x27;avocats au Mexique -- <span class=\"news-date\">05/11/2026 08:00</span></div><div class=\"news-body\">L&#x27;industrie de l&#x27;avocat dans l&#x27;État de Michoacán reprend ses activités ce 5 novembre après une grève de dix jours. Un accord entre les autorités et les travailleurs permet de relancer la cueillette de manière ordonnée. <span class=\"news-reason\">Annonce la fin d&#x27;un blocage de production majeur chez un concurrent clé, impactant la disponibilité mondiale de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/05/avocado-strike-mx/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">End of strike and resumption of avocado harvesting in Mexico -- <span class=\"news-date\">05/11/2026 08:00</span></div><div class=\"news-body\">The avocado industry in the State of Michoacán is resuming operations this November 5th after a ten-day strike. An agreement between authorities and workers allows for the resumption of harvesting in an orderly manner. <span class=\"news-reason\">Announces the end of a major production blockage at a key competitor, impacting global avocado availability.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/05/avocado-strike-mx/\" target=\"_blank\">Fresh Fruit Portal -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות שרשרת אספקה</div><div class=\"news-title\">סיום השביתה וחידוש קטיף האבוקדו במקסיקו -- <span class=\"news-date\">05/11/2026 08:00</span></div><div class=\"news-body\">תעשיית האבוקדו במדינת מיצ'ואקאן חוזרת לפעילות ב-5 בנובמבר לאחר שביתה של עשרה ימים. הסכם בין הרשויות לעובדים מאפשר את חידוש הקטיף בצורה מסודרת. <span class=\"news-reason\">הודעה על סיום חסימת ייצור משמעותית אצל מתחרה מרכזי, המשפיעה על הזמינות העולמית של האבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/05/avocado-strike-mx/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1793880253_0",
+      "timestamp": "2026-11-05T12:04:13.290120+00:00",
+      "title": "Forte hausse des exportations d&#x27;agrumes de la Chine vers la Russie en septembre -- 05/11/2026 08:00",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine",
+        "citrus_grapefruit"
+      ],
+      "origins": [
+        "CHN"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Forte hausse des exportations d&#x27;agrumes de la Chine vers la Russie en septembre -- <span class=\"news-date\">05/11/2026 08:00</span></div><div class=\"news-body\">En septembre, les exportations chinoises de pamplemousses et de pomelos vers la Russie ont été multipliées par six par rapport au mois précédent. Simultanément, les approvisionnements en mandarines turques ont enregistré une baisse brutale sur le marché russe. <span class=\"news-reason\">L&#x27;article contient des données de volumes sur des produits concurrents (pomelos, mandarines) impactant l&#x27;offre sur un marché d&#x27;exportation.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/05/chinas-citrus/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Sharp increase in China&#x27;s citrus exports to Russia in September -- <span class=\"news-date\">05/11/2026 08:00</span></div><div class=\"news-body\">In September, Chinese exports of grapefruits and pomelos to Russia increased sixfold compared to the previous month. Simultaneously, supplies of Turkish mandarins recorded a sharp decline on the Russian market. <span class=\"news-reason\">The article contains volume data on competing products (pomelos, mandarins) impacting supply in an export market.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/05/chinas-citrus/\" target=\"_blank\">Fresh Fruit Portal -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עלייה חדה בייצוא פירות הדר מסין לרוסיה בספטמבר -- <span class=\"news-date\">05/11/2026 08:00</span></div><div class=\"news-body\">בספטמבר, ייצוא האשכוליות והפומלות מסין לרוסיה גדל פי שישה לעומת החודש הקודם. במקביל, חלה ירידה חדה באספקת המנדרינות הטורקיות לשוק הרוסי. <span class=\"news-reason\">המאמר מכיל נתונים על כמויות של מוצרים מתחרים (פומלות, מנדרינות) המשפיעים על ההיצע בשוק הייצוא.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/05/chinas-citrus/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1793874803_3",
       "timestamp": "2026-11-05T10:33:23.590817+00:00",
@@ -227,14 +334,14 @@
     {
       "id": "1793810043_1",
       "timestamp": "2026-11-04T16:34:03.179551+00:00",
-      "title": "Chili : la filière fruitière prévoit une saison stable malgré les intempéries",
+      "title": "Chili : la filière fruitière anticipe une saison stable malgré les intempéries",
       "category": "PRIX &amp VOLUMES",
       "commercials": [],
       "products": [],
       "origins": [
         "CHL"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Chili : la filière fruitière prévoit une saison stable malgré les intempéries -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">Malgré des inondations dans la région de Maule et une grève des camionneurs à San Antonio, le secteur fruitier chilien prévoit une campagne 2026-2027 stable. Frutas de Chile estime que les volumes d&#x27;exportation se maintiendront autour de 3 millions de tonnes, avec une attention particulière portée à la logistique des expéditions. <span class=\"news-reason\">Information sur les volumes globaux d&#x27;exportation d&#x27;une origine Mehadrin avec chiffres.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889390/pese-a-lluvias-en-el-maule-y-paro-en-san-antonio-el-sector-fruticola-chileno-espera-una-temporada-estable/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Chili : la filière fruitière anticipe une saison stable malgré les intempéries -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">Malgré des inondations dans la région de Maule et une grève des camionneurs à San Antonio, le secteur fruitier chilien prévoit une campagne 2026-2027 stable. Frutas de Chile estime que les volumes d&#x27;exportation se maintiendront autour de 3 millions de tonnes, avec une attention particulière portée à la logistique des expéditions. <span class=\"news-reason\">Information sur les volumes globaux d&#x27;exportation d&#x27;une origine Mehadrin avec chiffres.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889390/pese-a-lluvias-en-el-maule-y-paro-en-san-antonio-el-sector-fruticola-chileno-espera-una-temporada-estable/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">The Chilean fruit sector anticipates a stable season despite bad weather -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">Despite floods in the Maule region and a truckers' strike in San Antonio, the Chilean fruit sector forecasts a stable 2026-2027 campaign. Frutas de Chile estimates that export volumes will remain around 3 million tonnes, with particular attention paid to shipping logistics. <span class=\"news-reason\">Information on global export volumes of a Mehadrin origin with figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889390/pese-a-lluvias-en-el-maule-y-paro-en-san-antonio-el-sector-fruticola-chileno-espera-una-temporada-estable/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מגזר הפירות הצ&#x27;יליאני צופה עונה יציבה למרות פגעי מזג האוויר -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">למרות שיטפונות באזור מאולה ושביתת נהגי משאיות בסן אנטוניו, מגזר הפירות הצ&#x27;יליאני צופה עונה יציבה ב-2026-2027. Frutas de Chile מעריכה שנפחי הייצוא יישארו סביב 3 מיליון טון, עם דגש מיוחד על לוגיסטיקת המשלוחים. <span class=\"news-reason\">מידע על נפחי הייצוא הכוללים ממקור מהדרין עם נתונים מספריים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889390/pese-a-lluvias-en-el-maule-y-paro-en-san-antonio-el-sector-fruticola-chileno-espera-una-temporada-estable/\" target=\"_blank\">FreshPlaza ES -- לקריאת המאמר</a></div></div>"
     },
@@ -293,7 +400,7 @@
     {
       "id": "1793808063_3",
       "timestamp": "2026-11-04T16:01:03.829349+00:00",
-      "title": "Le cours de l&#x27;avocat mexicain double suite à la suspension de la récolte",
+      "title": "Le cours de l&#x27;avocat mexicain double à la suite de la suspension de la récolte",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -304,7 +411,7 @@
       "origins": [
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le cours de l&#x27;avocat mexicain double suite à la suspension de la récolte -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">Les producteurs d&#x27;avocats au Mexique ont suspendu la récolte pour protester contre les prix bas. Cette décision a entraîné un manque de fruits à la frontière et un doublement des prix en seulement quelques jours. <span class=\"news-reason\">Information critique sur un changement brutal du marché (prix doublés) suite à un arrêt de récolte par les producteurs mexicains.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889095/el-aguacate-mexicano-frena-su-cosecha-y-los-precios-se-duplican-en-pocos-dias/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le cours de l&#x27;avocat mexicain double à la suite de la suspension de la récolte -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">Les producteurs d&#x27;avocats au Mexique ont suspendu la récolte pour protester contre les prix bas. Cette décision a entraîné un manque de fruits à la frontière et un doublement des prix en seulement quelques jours. <span class=\"news-reason\">Information critique sur un changement brutal du marché (prix doublés) suite à un arrêt de récolte par les producteurs mexicains.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889095/el-aguacate-mexicano-frena-su-cosecha-y-los-precios-se-duplican-en-pocos-dias/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Mexican avocado prices double following harvest suspension -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">Avocado producers in Mexico have suspended the harvest to protest low prices. This decision led to a shortage of fruit at the border and a doubling of prices in just a few days. <span class=\"news-reason\">Critical information on a sudden market change (doubled prices) following a harvest halt by Mexican producers.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889095/el-aguacate-mexicano-frena-su-cosecha-y-los-precios-se-duplican-en-pocos-dias/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מחירי האבוקדו המקסיקני מכפילים את עצמם בעקבות השעיית הקטיף -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">מגדלי האבוקדו במקסיקו השעו את הקטיף במחאה על המחירים הנמוכים. החלטה זו הובילה למחסור בפירות בגבול ולהכפלת המחירים תוך ימים ספורים בלבד. <span class=\"news-reason\">מידע קריטי על שינוי חד בשוק (הכפלת מחירים) בעקבות הפסקת קטיף על ידי המגדלים המקסיקנים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889095/el-aguacate-mexicano-frena-su-cosecha-y-los-precios-se-duplican-en-pocos-dias/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -677,25 +784,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Incertitudes entourant les exportations sud-africaines d&#x27;agrumes et de litchis vers les États-Unis -- <span class=\"news-date\">02/11/2026 13:30</span></div><div class=\"news-body\">L&#x27;éligibilité de l&#x27;Afrique du Sud au programme américain AGOA pour l&#x27;année 2027 est en cours de révision, avec un résultat attendu le 2 novembre. Cette situation crée une incertitude pour les exportateurs sud-africains d&#x27;agrumes et de litchis, dont l&#x27;accès préférentiel au marché américain est actuellement réexaminé par les autorités commerciales. <span class=\"news-reason\">Concerne l&#x27;accès au marché d&#x27;une origine concurrente majeure (Afrique du Sud) pour les agrumes et les litchis, ce qui peut impacter les flux mondiaux.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888248/south-african-citrus-litchi-and-grape-exports-face-uncertainty-over-agoa-eligibility/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Uncertainty surrounding South African citrus and lychee exports to the United States -- <span class=\"news-date\">02/11/2026 13:30</span></div><div class=\"news-body\">South Africa&#x27;s eligibility for the U.S. AGOA program for the year 2027 is currently under review, with a result expected on November 2. This situation creates uncertainty for South African citrus and lychee exporters, whose preferential access to the American market is currently being re-examined by trade authorities. <span class=\"news-reason\">Concerns market access for a major competing origin (South Africa) for citrus and lychees, which may impact global flows.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888248/south-african-citrus-litchi-and-grape-exports-face-uncertainty-over-agoa-eligibility/\" target=\"_blank\">FreshPlaza -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">אי-ודאות סביב יצוא פירות הדר וליצ'י מדרום אפריקה לארצות הברית -- <span class=\"news-date\">02/11/2026 13:30</span></div><div class=\"news-body\">זכאותה של דרום אפריקה לתוכנית ה-AGOA האמריקאית לשנת 2027 נמצאת בבחינה, כאשר התוצאות צפויות ב-2 בנובמבר. מצב זה יוצר אי-ודאות עבור יצואני פירות הדר וליצ'י דרום אפריקאים, שגישתם המועדפת לשוק האמריקאי נבחנת כעת מחדש על ידי רשויות הסחר. <span class=\"news-reason\">נוגע לגישה לשוק של מקור מתחרה מרכזי (דרום אפריקה) עבור פירות הדר וליצ'י, דבר העלול להשפיע על תזרימי הסחר העולמיים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888248/south-african-citrus-litchi-and-grape-exports-face-uncertainty-over-agoa-eligibility/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793620977_0",
-      "timestamp": "2026-11-02T12:02:57.564181+00:00",
-      "title": "La filière mexicaine de l&#x27;avocat cible le marché européen -- 02/11/2026 08:00",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "MEX",
-        "USA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La filière mexicaine de l&#x27;avocat cible le marché européen -- <span class=\"news-date\">02/11/2026 08:00</span></div><div class=\"news-body\">Le secteur de l&#x27;avocat au Mexique attend des autorisations pour augmenter ses exportations. L&#x27;organisation APEAMEX souligne que des vergers certifiés sont prêts pour le commerce transfrontalier. Au-delà des États-Unis, les exportateurs mexicains cherchent activement à étendre leur portée sur les marchés du Canada, du Japon et de l&#x27;Europe, ainsi que sur d&#x27;autres marchés émergents. <span class=\"news-reason\">L&#x27;article détaille la stratégie d&#x27;expansion des exportateurs mexicains d&#x27;avocats vers l&#x27;Europe et d&#x27;autres marchés mondiaux.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/02/state-of-mexico-avo/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">The Mexican avocado industry targets the European market -- <span class=\"news-date\">02/11/2026 08:00</span></div><div class=\"news-body\">The avocado sector in Mexico is awaiting authorizations to increase its exports. The APEAMEX organization highlights that certified orchards are ready for cross-border trade. Beyond the United States, Mexican exporters are actively seeking to expand their reach in the markets of Canada, Japan, and Europe, as well as other emerging markets. <span class=\"news-reason\">The article details the expansion strategy of Mexican avocado exporters toward Europe and other global markets.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/02/state-of-mexico-avo/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">ענף האבוקדו המקסיקני מכוון לשוק האירופי -- <span class=\"news-date\">02/11/2026 08:00</span></div><div class=\"news-body\">מגזר האבוקדו במקסיקו ממתין לאישורים להגדלת הייצוא שלו. ארגון APEAMEX מציין כי מטעים מאושרים מוכנים לסחר חוצה גבולות. מעבר לארצות הברית, היצואנים המקסיקנים פועלים באופן פעיל להרחבת תפוצתם בשווקי קנדה, יפן ואירופה, כמו גם בשווקים מתעוררים נוספים. <span class=\"news-reason\">המאמר מפרט את אסטרטגיית ההתרחבות של יצואני האבוקדו המקסיקנים לאירופה ולשווקים עולמיים אחרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/02/state-of-mexico-avo/\" target=\"_blank\">Fresh Fruit Portal -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
