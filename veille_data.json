@@ -1,6 +1,45 @@
 {
-  "last_generated": "2026-11-06T09:05:21.314917+00:00",
+  "last_generated": "2026-11-06T10:33:58.340823+00:00",
   "articles": [
+    {
+      "id": "1793961238_0",
+      "timestamp": "2026-11-06T10:33:58.340823+00:00",
+      "title": "Clôture de la campagne d&#x27;exportation d&#x27;avocats en Afrique du Sud",
+      "title_hash": "clôture campagne dx27exportation dx27avocats afrique sud",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ZAF"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Clôture de la campagne d&#x27;exportation d&#x27;avocats en Afrique du Sud -- <span class=\"news-date\">06/11/2026 10:28</span></div><div class=\"news-body\">The Fruit Farm Group South Africa a pratiquement terminé ses exportations d&#x27;avocats pour cette année. L&#x27;entreprise réoriente désormais son activité vers l&#x27;approvisionnement de son marché local, qu&#x27;elle dessert tout au long de l&#x27;année. Des volumes résiduels d&#x27;avocats seront toutefois encore expédiés au cours des six à huit prochaines semaines avant la clôture définitive de la saison d&#x27;exportation. <span class=\"news-reason\">Annonce de la fin de campagne d&#x27;exportation d&#x27;une origine concurrente majeure (Afrique du Sud) pour l&#x27;avocat, avec basculement vers le marché local.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9890029/wir-haben-noch-spielraum-unseren-anteil-am-avocado-markt-zu-steigern/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Closing of the avocado export campaign in South Africa -- <span class=\"news-date\">06/11/2026 10:28</span></div><div class=\"news-body\">The Fruit Farm Group South Africa has practically finished its avocado exports for this year. The company is now refocusing its business on supplying its local market, which it serves year-round. However, residual volumes of avocados will still be shipped over the next six to eight weeks before the final close of the export season. <span class=\"news-reason\">Announcement of the end of the export campaign of a major competing origin (South Africa) for avocados, with a shift to the local market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9890029/wir-haben-noch-spielraum-unseren-anteil-am-avocado-markt-zu-steigern/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיום עונת ייצוא האבוקדו בדרום אפריקה -- <span class=\"news-date\">06/11/2026 10:28</span></div><div class=\"news-body\">קבוצת The Fruit Farm South Africa כמעט סיימה את ייצוא האבוקדו שלה לשנה זו. החברה מפנה כעת את פעילותה לאספקת השוק המקומי שלה, לו היא נותנת שירות לאורך כל השנה. עם זאת, כמויות שיוריות של אבוקדו עדיין יישלחו במהלך ששת עד שמונת השבועות הקרובים לפני הסגירה הסופית של עונת הייצוא. <span class=\"news-reason\">הודעה על סיום עונת הייצוא של מקור מתחרה מרכזי (דרום אפריקה) עבור האבוקדו, עם מעבר לשוק המקומי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9890029/wir-haben-noch-spielraum-unseren-anteil-am-avocado-markt-zu-steigern/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>",
+      "rss_metadata": {
+        "id": "rss-e25b64341a80cf6a",
+        "title": "\"Wir haben noch Spielraum unseren Anteil am Avocado-Markt zu steigern\"",
+        "summary": "\"Wir haben unsere Avocado-Exporte für dieses Jahr im Grunde gerade abgeschlossen\", sagt Trevor Dukes, CEO der Fruit Farm Group South Africa, \"und nun wird sich der Fokus auf den lokalen Markt verlagern, den wir zwölf Monate im Jahr beliefern.\" Die Avocados, die in den nächsten sechs bis acht Wochen noch…",
+        "url": "https://www.freshplaza.de/article/9890029/wir-haben-noch-spielraum-unseren-anteil-am-avocado-markt-zu-steigern/",
+        "source": "FreshPlaza DE",
+        "published_at": "2026-11-06T10:28:00+01:00",
+        "language": "de",
+        "products": [
+          "avocat"
+        ],
+        "origins": [
+          "ZAF"
+        ]
+      },
+      "attention_enrichment": {
+        "title_fr": "Clôture de la saison d'exportation des avocats",
+        "summary_fr": "Les exportations annuelles s'achèvent tandis que le marché local devient la priorité absolue."
+      },
+      "gemini_score": 8
+    },
     {
       "id": "1793955921_1",
       "timestamp": "2026-11-06T09:05:21.314917+00:00",
@@ -81,7 +120,7 @@
     {
       "id": "1793950453_0",
       "timestamp": "2026-11-06T07:34:13.337703+00:00",
-      "title": "Le Maroc, la Turquie et l’Égypte renforcent leur présence sur le marché européen",
+      "title": "Le Maroc, la Turquie et l’Égypte confortent leur position sur le marché européen",
       "title_hash": "maroc turquie lx27égypte consolident leur position marché européen",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [],
@@ -91,7 +130,7 @@
         "EGY",
         "TUR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Maroc, la Turquie et l’Égypte renforcent leur présence sur le marché européen -- <span class=\"news-date\">06/11/2026 06:05</span></div><div class=\"news-body\">On observe un déplacement structurel de la production horticole vers des pays à bas coûts de main-d&#x27;œuvre tels que le Maroc, la Turquie et l&#x27;Égypte. Cette tendance s&#x27;accentue dans le secteur des fruits et légumes en Europe, où ces origines gagnent des parts de marché significatives dans les rayons des distributeurs au détriment des producteurs locaux traditionnels. <span class=\"news-reason\">L&#x27;article analyse le positionnement stratégique de trois origines concurrentes majeures sur le marché européen des fruits et légumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886452/marocco-turchia-ed-egitto-guadagnano-terreno-sugli-scaffali-europei/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Maroc, la Turquie et l’Égypte confortent leur position sur le marché européen -- <span class=\"news-date\">06/11/2026 06:05</span></div><div class=\"news-body\">On observe un déplacement structurel de la production horticole vers des pays à bas coûts de main-d&#x27;œuvre tels que le Maroc, la Turquie et l&#x27;Égypte. Cette tendance s&#x27;accentue dans le secteur des fruits et légumes en Europe, où ces origines gagnent des parts de marché significatives dans les rayons des distributeurs au détriment des producteurs locaux traditionnels. <span class=\"news-reason\">L&#x27;article analyse le positionnement stratégique de trois origines concurrentes majeures sur le marché européen des fruits et légumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886452/marocco-turchia-ed-egitto-guadagnano-terreno-sugli-scaffali-europei/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Morocco, Turkey and Egypt consolidate their position on the European market -- <span class=\"news-date\">06/11/2026 06:05</span></div><div class=\"news-body\">A structural shift in horticultural production towards low labor-cost countries such as Morocco, Turkey and Egypt is being observed. This trend is intensifying in the fruit and vegetable sector in Europe, where these origins are gaining significant market share on retail shelves at the expense of traditional local producers. <span class=\"news-reason\">The article analyzes the strategic positioning of three major competing origins in the European fruit and vegetable market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886452/marocco-turchia-ed-egitto-guadagnano-terreno-sugli-scaffali-europei/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מרוקו, טורקיה ומצרים מחזקות את מעמדן בשוק האירופי -- <span class=\"news-date\">06/11/2026 06:05</span></div><div class=\"news-body\">ניתן להבחין בהעתקה מבנית של הייצור החקלאי למדינות בעלות עלויות עבודה נמוכות כגון מרוקו, טורקיה ומצרים. מגמה זו מתעצמת במגזר הפירות והירקות באירופה, שם מקורות אלו כובשים נתחי שוק משמעותיים על מדפי המפיצים על חשבון היצרנים המקומיים המסורתיים. <span class=\"news-reason\">המאמר מנתח את המיצוב האסטרטגי של שלושה מקורות מתחרים עיקריים בשוק הפירות והירקות האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886452/marocco-turchia-ed-egitto-guadagnano-terreno-sugli-scaffali-europei/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>",
       "rss_metadata": {
@@ -149,7 +188,7 @@
     {
       "id": "1793896483_2",
       "timestamp": "2026-11-05T16:34:43.964308+00:00",
-      "title": "Les cours de l&#x27;avocat mexicain au plus bas malgré une offre abondante",
+      "title": "Les cours de l&#x27;avocat mexicain à leur plus bas niveau malgré une offre abondante",
       "title_hash": "prix avocats mexicains plus bas malgré offre abondante",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
@@ -161,7 +200,7 @@
       "origins": [
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les cours de l&#x27;avocat mexicain au plus bas malgré une offre abondante -- <span class=\"news-date\">05/11/2026 06:05</span></div><div class=\"news-body\">L&#x27;avocat mexicain enregistre une disponibilité accrue grâce à des conditions de culture favorables dans toutes les régions de production. La campagne s&#x27;oriente vers des volumes significatifs, mais les prix de vente sur le terrain se situent actuellement à des niveaux historiquement bas. Cette situation offre des opportunités pour augmenter les volumes sur les marchés mondiaux. <span class=\"news-reason\">Informations stratégiques sur les prix historiquement bas et les volumes élevés de l&#x27;origine concurrente Mexique.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9888638/purtroppo-i-prezzi-sono-ai-minimi-storici/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les cours de l&#x27;avocat mexicain à leur plus bas niveau malgré une offre abondante -- <span class=\"news-date\">05/11/2026 06:05</span></div><div class=\"news-body\">L&#x27;avocat mexicain enregistre une disponibilité accrue grâce à des conditions de culture favorables dans toutes les régions de production. La campagne s&#x27;oriente vers des volumes significatifs, mais les prix de vente sur le terrain se situent actuellement à des niveaux historiquement bas. Cette situation offre des opportunités pour augmenter les volumes sur les marchés mondiaux. <span class=\"news-reason\">Informations stratégiques sur les prix historiquement bas et les volumes élevés de l&#x27;origine concurrente Mexique.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9888638/purtroppo-i-prezzi-sono-ai-minimi-storici/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Mexican avocado prices at their lowest despite abundant supply -- <span class=\"news-date\">05/11/2026 06:05</span></div><div class=\"news-body\">Mexican avocados are seeing increased availability thanks to favorable growing conditions in all production regions. The campaign is moving toward significant volumes, but field sales prices are currently at historically low levels. This situation offers opportunities to increase volumes on global markets. <span class=\"news-reason\">Strategic information on historically low prices and high volumes of the competing origin Mexico.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9888638/purtroppo-i-prezzi-sono-ai-minimi-storici/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מחירי האבוקדו המקסיקני בשפל למרות היצע שופע -- <span class=\"news-date\">05/11/2026 06:05</span></div><div class=\"news-body\">האבוקדו המקסיקני רושם זמינות מוגברת בזכות תנאי גידול נוחים בכל אזורי הייצור. העונה פונה לכמויות משמעותיות, אך מחירי המכירה בשטח נמצאים כיום ברמות נמוכות היסטורית. מצב זה מציע הזדמנויות להגדלת הכמויות בשווקים העולמיים. <span class=\"news-reason\">מידע אסטרטגי על מחירים נמוכים היסטורית וכמויות גבוהות מהמקור המתחרה מקסיקו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9888638/purtroppo-i-prezzi-sono-ai-minimi-storici/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -186,7 +225,7 @@
     {
       "id": "1793896483_0",
       "timestamp": "2026-11-05T16:34:43.964308+00:00",
-      "title": "La Tanzanie surpasse ses objectifs d&#x27;exportation d&#x27;avocats pour 2030 avec quatre ans d&#x27;avance",
+      "title": "La Tanzanie dépasse ses objectifs d&#x27;exportation d&#x27;avocats pour 2030 avec quatre ans d&#x27;avance",
       "title_hash": "tanzanie surpasse objectifs dx27exportation dx27avocats quatre ans dx27avance",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
@@ -196,7 +235,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La Tanzanie surpasse ses objectifs d&#x27;exportation d&#x27;avocats pour 2030 avec quatre ans d&#x27;avance -- <span class=\"news-date\">05/11/2026 15:53</span></div><div class=\"news-body\">La Tanzanie a exporté 52 000 tonnes d&#x27;avocats pour une valeur de 97,2 millions de dollars durant la saison 2025/2026. Ce résultat surpasse l&#x27;objectif initial de 40 000 tonnes fixé pour l&#x27;année 2030, marquant une avance de quatre ans sur les prévisions de l&#x27;Autorité régulatrice (COPRA). <span class=\"news-reason\">Rapport sur les volumes et valeurs d&#x27;exportation d&#x27;une origine concurrente majeure (avocats) avec des chiffres précis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889051/tanzania-supera-con-cuatro-anos-de-antelacion-su-objetivo-de-exportacion-de-aguacate-para-2030/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La Tanzanie dépasse ses objectifs d&#x27;exportation d&#x27;avocats pour 2030 avec quatre ans d&#x27;avance -- <span class=\"news-date\">05/11/2026 15:53</span></div><div class=\"news-body\">La Tanzanie a exporté 52 000 tonnes d&#x27;avocats pour une valeur de 97,2 millions de dollars durant la saison 2025/2026. Ce résultat surpasse l&#x27;objectif initial de 40 000 tonnes fixé pour l&#x27;année 2030, marquant une avance de quatre ans sur les prévisions de l&#x27;Autorité régulatrice (COPRA). <span class=\"news-reason\">Rapport sur les volumes et valeurs d&#x27;exportation d&#x27;une origine concurrente majeure (avocats) avec des chiffres précis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889051/tanzania-supera-con-cuatro-anos-de-antelacion-su-objetivo-de-exportacion-de-aguacate-para-2030/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Tanzania surpasses its avocado export targets for 2030 four years ahead of schedule -- <span class=\"news-date\">05/11/2026 15:53</span></div><div class=\"news-body\">Tanzania exported 52,000 tons of avocados worth $97.2 million during the 2025/2026 season. This result surpasses the initial target of 40,000 tons set for the year 2030, marking a four-year lead over the regulatory authority (COPRA) forecasts. <span class=\"news-reason\">Report on export volumes and values of a major competing origin (avocados) with precise figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889051/tanzania-supera-con-cuatro-anos-de-antelacion-su-objetivo-de-exportacion-de-aguacate-para-2030/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">טנזניה עוקפת את יעדי ייצוא האבוקדו שלה לשנת 2030 בארבע שנים מראש -- <span class=\"news-date\">05/11/2026 15:53</span></div><div class=\"news-body\">טנזניה ייצאה 52,000 טונות של אבוקדו בשווי של 97.2 מיליון דולר במהלך עונת 2025/2026. תוצאה זו עוקפת את היעד המקורי של 40,000 טונות שנקבע לשנת 2030, ומסמנת הקדמה של ארבע שנים ביחס לתחזיות של הרשות הרגולטורית (COPRA). <span class=\"news-reason\">דיווח על כמויות וערכי ייצוא של מקור מתחרה מרכזי (אבוקדו) עם נתונים מדויקים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889051/tanzania-supera-con-cuatro-anos-de-antelacion-su-objetivo-de-exportacion-de-aguacate-para-2030/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -1229,7 +1268,7 @@
     {
       "id": "1793808063_3",
       "timestamp": "2026-11-04T16:01:03.829349+00:00",
-      "title": "Le cours de l&#x27;avocat mexicain double suite à la suspension de la récolte",
+      "title": "Le cours de l&#x27;avocat mexicain double après la suspension de la récolte",
       "title_hash": "cours lx27avocat mexicain doublent suite à suspension récolte",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
@@ -1241,7 +1280,7 @@
       "origins": [
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le cours de l&#x27;avocat mexicain double suite à la suspension de la récolte -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">Les producteurs d&#x27;avocats au Mexique ont suspendu la récolte pour protester contre les prix bas. Cette décision a entraîné un manque de fruits à la frontière et un doublement des prix en seulement quelques jours. <span class=\"news-reason\">Information critique sur un changement brutal du marché (prix doublés) suite à un arrêt de récolte par les producteurs mexicains.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889095/el-aguacate-mexicano-frena-su-cosecha-y-los-precios-se-duplican-en-pocos-dias/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le cours de l&#x27;avocat mexicain double après la suspension de la récolte -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">Les producteurs d&#x27;avocats au Mexique ont suspendu la récolte pour protester contre les prix bas. Cette décision a entraîné un manque de fruits à la frontière et un doublement des prix en seulement quelques jours. <span class=\"news-reason\">Information critique sur un changement brutal du marché (prix doublés) suite à un arrêt de récolte par les producteurs mexicains.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889095/el-aguacate-mexicano-frena-su-cosecha-y-los-precios-se-duplican-en-pocos-dias/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Mexican avocado prices double following harvest suspension -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">Avocado producers in Mexico have suspended the harvest to protest low prices. This decision led to a shortage of fruit at the border and a doubling of prices in just a few days. <span class=\"news-reason\">Critical information on a sudden market change (doubled prices) following a harvest halt by Mexican producers.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889095/el-aguacate-mexicano-frena-su-cosecha-y-los-precios-se-duplican-en-pocos-dias/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מחירי האבוקדו המקסיקני מכפילים את עצמם בעקבות השעיית הקטיף -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">מגדלי האבוקדו במקסיקו השעו את הקטיף במחאה על המחירים הנמוכים. החלטה זו הובילה למחסור בפירות בגבול ולהכפלת המחירים תוך ימים ספורים בלבד. <span class=\"news-reason\">מידע קריטי על שינוי חד בשוק (הכפלת מחירים) בעקבות הפסקת קטיף על ידי המגדלים המקסיקנים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889095/el-aguacate-mexicano-frena-su-cosecha-y-los-precios-se-duplican-en-pocos-dias/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -1650,8 +1689,27 @@
       "gemini_score": 5
     }
   ],
-  "article_count": 44,
+  "article_count": 45,
   "attention_points": [
+    {
+      "id": "attention-e25b64341a80cf6a",
+      "article_id": "1793961238_0",
+      "url": "https://www.freshplaza.de/article/9890029/wir-haben-noch-spielraum-unseren-anteil-am-avocado-markt-zu-steigern/",
+      "source": "FreshPlaza DE",
+      "title": "Clôture de la campagne d'exportation d'avocats en Afrique",
+      "summary": "Les exportations annuelles s'achèvent tandis que le marché local devient la priorité absolue.",
+      "origin_code": "ZAF",
+      "origin_label": "Afrique du Sud",
+      "published_at": "2026-11-06T10:28:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 1
+    },
     {
       "id": "attention-8784d633278f6ced",
       "article_id": "1793955921_0",
@@ -1670,31 +1728,14 @@
         "avocat",
         "mango"
       ],
-      "age_hours": 1
-    },
-    {
-      "id": "attention-22dc68ede4c3929d",
-      "article_id": "1793950453_0",
-      "url": "https://www.freshplaza.it/article/9886452/marocco-turchia-ed-egitto-guadagnano-terreno-sugli-scaffali-europei/",
-      "source": "FreshPlaza IT",
-      "title": "Maroc la Turquie et l’Égypte renforcent leur présence",
-      "summary": "On observe un déplacement structurel de la production horticole vers des pays à bas.",
-      "origin_code": "MAR",
-      "origin_label": "Maroc",
-      "published_at": "2026-11-06T06:05:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [],
-      "age_hours": 4
+      "age_hours": 3
     },
     {
       "id": "attention-3623a7244e0f0b14",
       "article_id": "1793896483_0",
       "url": "https://www.freshplaza.es/article/9889051/tanzania-supera-con-cuatro-anos-de-antelacion-su-objetivo-de-exportacion-de-aguacate-para-2030/",
       "source": "FreshPlaza ES",
-      "title": "Tanzanie surpasse ses objectifs d'exportation d'avocats pour 2030",
+      "title": "Tanzanie dépasse ses objectifs d'exportation d'avocats pour 2030",
       "summary": "Les volumes expédiés dépassent largement les objectifs initiaux fixés pour la fin de décennie",
       "origin_code": null,
       "origin_label": null,
@@ -1706,7 +1747,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 18
+      "age_hours": 19
     },
     {
       "id": "attention-4eb8d63826373fd5",
@@ -1725,7 +1766,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 20
+      "age_hours": 21
     }
   ]
 }
