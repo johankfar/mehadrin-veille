@@ -1,25 +1,64 @@
 {
-  "last_updated": "2026-11-06T12:03:33.637971+00:00",
+  "last_updated": "2026-11-06T13:35:01.183788+00:00",
   "article_count": 45,
   "attention_points": [
     {
-      "id": "attention-f785b8b32d81ca26",
-      "article_id": "1793966613_0",
-      "url": "https://www.agf.nl/article/9890093/spaanse-clasol-breidt-citrusteelt-uit-met-bijna-800-hectare/",
-      "source": "AGF.nl",
-      "title": "L'espagnol Clasol accroît sa production d'agrumes de 800",
-      "summary": "L'entreprise espagnole Clasol a finalisé l'acquisition de près de 800 hectares de terres agricoles.",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-11-06T12:18:00+01:00",
+      "id": "attention-a7f79a0dbebf2805",
+      "article_id": "1793972101_0",
+      "url": "https://www.freshplaza.com/article/9889890/israeli-citrus-sector-focuses-on-premium-varieties-amid-weather-pressures/",
+      "source": "FreshPlaza",
+      "title": "Israël prévoit une production de 450 000",
+      "summary": "La récolte de mandarines privilégie les variétés premium cette saison",
+      "origin_code": "ISR",
+      "origin_label": "Israël",
+      "published_at": "2026-11-06T13:23:00+01:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [
-        "orange"
+        "mandarine"
       ],
-      "age_hours": 0
+      "age_hours": 1
+    },
+    {
+      "id": "attention-c0bae6f30aea63f3",
+      "article_id": "1793972101_2",
+      "url": "https://www.freshplaza.com/article/9890175/northeast-brazil-exports-383-900-tons-of-fruit-in-first-half-of-2026/",
+      "source": "FreshPlaza",
+      "title": "Nord-Est du Brésil a exporté 383 900 tonnes",
+      "summary": "Au premier semestre 2026 les exportations de fruits du Nord-Est du Brésil ont totalisé.",
+      "origin_code": "BRA",
+      "origin_label": "Brésil",
+      "published_at": "2026-11-06T13:23:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "volume",
+      "products": [
+        "mango",
+        "melon"
+      ],
+      "age_hours": 1
+    },
+    {
+      "id": "attention-e61eb0f18b7ab354",
+      "article_id": "1793972101_1",
+      "url": "https://www.freshplaza.com/article/9890370/kenya-s-laikipia-county-encourages-avocado-and-macadamia-cultivation/",
+      "source": "FreshPlaza",
+      "title": "Comté de Laikipia au Kenya promeut la culture",
+      "summary": "Le comté de Laikipia incite les agriculteurs kényans à produire des avocats",
+      "origin_code": "KEN",
+      "origin_label": "Kenya",
+      "published_at": "2026-11-06T13:23:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 1
     },
     {
       "id": "attention-8784d633278f6ced",
@@ -39,52 +78,86 @@
         "avocat",
         "mango"
       ],
-      "age_hours": 4
-    },
-    {
-      "id": "attention-3623a7244e0f0b14",
-      "article_id": "1793896483_0",
-      "url": "https://www.freshplaza.es/article/9889051/tanzania-supera-con-cuatro-anos-de-antelacion-su-objetivo-de-exportacion-de-aguacate-para-2030/",
-      "source": "FreshPlaza ES",
-      "title": "Tanzanie dépasse ses objectifs d'exportation d'avocats pour 2030",
-      "summary": "Les volumes expédiés dépassent largement les objectifs initiaux fixés pour la fin de décennie",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-11-05T15:53:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "volume",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 21
-    },
-    {
-      "id": "attention-370386fcc7cadd68",
-      "article_id": "1793966613_1",
-      "url": "https://www.freshplaza.es/article/9889929/michoacan-retoma-las-exportaciones-de-aguacate-tras-alcanzar-un-acuerdo/",
-      "source": "FreshPlaza ES",
-      "title": "Reprise des exportations d'avocats du Michoacán",
-      "summary": "Un accord entre producteurs et emballeurs permet la reprise des exportations mondiales",
-      "origin_code": "MEX",
-      "origin_label": "Mexique",
-      "published_at": "2026-11-05T15:53:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 21
+      "age_hours": 6
     }
   ],
   "articles": [
     {
+      "id": "1793972101_3",
+      "timestamp": "2026-11-06T13:35:01.183788+00:00",
+      "title": "Retard de récolte et recul de la production pour la clémentine espagnole -- 06/11/2026 13:23",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Retard de récolte et recul de la production pour la clémentine espagnole -- <span class=\"news-date\">06/11/2026 13:23</span></div><div class=\"news-body\">La transition entre les variétés de clémentines Oronules et Clemenules est actuellement bloquée par un défaut de coloration des fruits. Des températures supérieures aux normales saisonnières ont ralenti le changement de couleur de l&#x27;écorce, repoussant le début de la récolte. En conséquence, une campagne plus courte avec des volumes réduits est anticipée pour la Clemenules. <span class=\"news-reason\">L&#x27;article signale un retard de récolte et une baisse des volumes sur une variété majeure de clémentine (Clemenules), impactant directement le marché européen des agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890072/the-clemenules-harvest-has-been-delayed-due-to-lack-of-coloration-and-is-expected-to-be-shorter/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Harvest delay and production decline for Spanish clementines -- <span class=\"news-date\">06/11/2026 13:23</span></div><div class=\"news-body\">The transition between the Oronules and Clemenules clementine varieties is currently blocked by a lack of fruit coloration. Temperatures above seasonal norms have slowed the change in peel color, delaying the start of the harvest. As a result, a shorter campaign with reduced volumes is anticipated for Clemenules. <span class=\"news-reason\">The article reports a harvest delay and a decrease in volumes for a major clementine variety (Clemenules), directly impacting the European citrus market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890072/the-clemenules-harvest-has-been-delayed-due-to-lack-of-coloration-and-is-expected-to-be-shorter/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות שרשרת אספקה</div><div class=\"news-title\">עיכוב בקטיף וירידה בייצור של הקלמנטינה הספרדית -- <span class=\"news-date\">06/11/2026 13:23</span></div><div class=\"news-body\">המעבר בין זני הקלמנטינות Oronules ל-Clemenules חסום כרגע בשל ליקוי בצביעת הפירות. טמפרטורות גבוהות מהרגיל לעונה האטו את שינוי צבע הקליפה, מה שדחה את תחילת הקטיף. כתוצאה מכך, צפויה עונה קצרה יותר עם כמויות מופחתות עבור זן ה-Clemenules. <span class=\"news-reason\">המאמר מדווח על עיכוב בקטיף וירידה בכמויות בזן עיקרי של קלמנטינה (Clemenules), מה שמשפיע ישירות על שוק ההדרים האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890072/the-clemenules-harvest-has-been-delayed-due-to-lack-of-coloration-and-is-expected-to-be-shorter/\" target=\"_blank\">FreshPlaza -- קרא את המאמר</a></div></div>"
+    },
+    {
+      "id": "1793972101_2",
+      "timestamp": "2026-11-06T13:35:01.183788+00:00",
+      "title": "Le Nord-Est du Brésil a exporté 383 900 tonnes de fruits au premier semestre 2026 -- 06/11/2026 13:23",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [
+        "BRA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le Nord-Est du Brésil a exporté 383 900 tonnes de fruits au premier semestre 2026 -- <span class=\"news-date\">06/11/2026 13:23</span></div><div class=\"news-body\">Au premier semestre 2026, les exportations de fruits du Nord-Est du Brésil ont totalisé 383 900 tonnes pour une valeur de 400,9 millions USD. La mangue a été le produit principal en termes de revenus d&#x27;exportation générés, selon les données de l&#x27;association de producteurs Abrafrutas. <span class=\"news-reason\">Données chiffrées précises sur les exportations de mangues (produit Mehadrin) depuis le Brésil.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890175/northeast-brazil-exports-383-900-tons-of-fruit-in-first-half-of-2026/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Northeast Brazil exported 383,900 tons of fruit in the first half of 2026 -- <span class=\"news-date\">06/11/2026 13:23</span></div><div class=\"news-body\">In the first half of 2026, fruit exports from Northeast Brazil totaled 383,900 tons with a value of 400.9 million USD. Mango was the main product in terms of generated export revenue, according to data from the producers&#x27; association Abrafrutas. <span class=\"news-reason\">Precise numerical data on mango exports (a Mehadrin product) from Brazil.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890175/northeast-brazil-exports-383-900-tons-of-fruit-in-first-half-of-2026/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">צפון-מזרח ברזיל ייצאה 383,900 טונות פירות במחצית הראשונה של 2026 -- <span class=\"news-date\">06/11/2026 13:23</span></div><div class=\"news-body\">במחצית הראשונה של 2026, ייצוא הפירות מצפון-מזרח ברזיל הסתכם ב-383,900 טונות בשווי של 400.9 מיליון דולר. המנגו היה המוצר העיקרי במונחים של הכנסות מייצוא, על פי נתוני איגוד המגדלים Abrafrutas. <span class=\"news-reason\">נתונים מספריים מדויקים על ייצוא מנגו (מוצר של מהדרין) מברזיל.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890175/northeast-brazil-exports-383-900-tons-of-fruit-in-first-half-of-2026/\" target=\"_blank\">FreshPlaza -- קרא את המאמר</a></div></div>"
+    },
+    {
+      "id": "1793972101_1",
+      "timestamp": "2026-11-06T13:35:01.183788+00:00",
+      "title": "Le comté de Laikipia au Kenya promeut la culture de l&#x27;avocat -- 06/11/2026 13:23",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "KEN"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le comté de Laikipia au Kenya promeut la culture de l&#x27;avocat -- <span class=\"news-date\">06/11/2026 13:23</span></div><div class=\"news-body\">Le comté de Laikipia, au Kenya, encourage ses agriculteurs à se diversifier vers des cultures à haute valeur ajoutée, notamment l&#x27;avocat, pour faire face aux défis climatiques et améliorer les revenus ruraux. Cette initiative a été mise en avant lors des célébrations de la Journée mondiale de l&#x27;alimentation achevées le 5 novembre 2026. <span class=\"news-reason\">Information sur l&#x27;expansion de la production d&#x27;avocats dans une origine concurrente de Mehadrin (Kenya).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890370/kenya-s-laikipia-county-encourages-avocado-and-macadamia-cultivation/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Laikipia County in Kenya promotes avocado cultivation -- <span class=\"news-date\">06/11/2026 13:23</span></div><div class=\"news-body\">Laikipia County, Kenya, is encouraging its farmers to diversify into high-value crops, including avocado, to address climate challenges and improve rural incomes. This initiative was highlighted during the World Food Day celebrations concluded on November 5, 2026. <span class=\"news-reason\">Information on the expansion of avocado production in a competing origin for Mehadrin (Kenya).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890370/kenya-s-laikipia-county-encourages-avocado-and-macadamia-cultivation/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">מחוז לייקיפיה בקניה מקדם את גידול האבוקדו -- <span class=\"news-date\">06/11/2026 13:23</span></div><div class=\"news-body\">מחוז לייקיפיה שבקניה מעודד את חקלאיו לגוון לגידולים בעלי ערך מוסף גבוה, ובמיוחד אבוקדו, כדי להתמודד עם אתגרי האקלים ולשפר את הכנסות הכפר. יוזמה זו הודגשה במהלך חגיגות יום המזון העולמי שהסתיימו ב-5 בנובמבר 2026. <span class=\"news-reason\">מידע על הרחבת ייצור האבוקדו במקור מתחרה למהדרין (קניה).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890370/kenya-s-laikipia-county-encourages-avocado-and-macadamia-cultivation/\" target=\"_blank\">FreshPlaza -- קרא את המאמר</a></div></div>"
+    },
+    {
+      "id": "1793972101_0",
+      "timestamp": "2026-11-06T13:35:01.183788+00:00",
+      "title": "Israël prévoit une production de 450 000 à 480 000 tonnes d&#x27;agrumes -- 06/11/2026 13:23",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "ISR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Israël prévoit une production de 450 000 à 480 000 tonnes d&#x27;agrumes -- <span class=\"news-date\">06/11/2026 13:23</span></div><div class=\"news-body\">Le secteur israélien des agrumes entame sa campagne d&#x27;exportation 2026/2027 avec un volume de production estimé entre 450 000 et 480 000 tonnes métriques. Malgré une chaleur estivale et une sécheresse ayant impacté le calibre des fruits ainsi que les calendriers de maturité, la filière maintient sa stratégie sur les variétés premium, notamment la mandarine Orri. <span class=\"news-reason\">L&#x27;article fournit des estimations chiffrées précises sur la production d&#x27;agrumes en Israël pour la saison en cours.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9889890/israeli-citrus-sector-focuses-on-premium-varieties-amid-weather-pressures/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Israel forecasts production of 450,000 to 480,000 tons of citrus -- <span class=\"news-date\">06/11/2026 13:23</span></div><div class=\"news-body\">The Israeli citrus sector begins its 2026/2027 export campaign with an estimated production volume between 450,000 and 480,000 metric tons. Despite summer heat and drought impacting fruit size as well as maturity schedules, the industry maintains its strategy on premium varieties, notably the Orri mandarin. <span class=\"news-reason\">The article provides precise numerical estimates for citrus production in Israel for the current season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9889890/israeli-citrus-sector-focuses-on-premium-varieties-amid-weather-pressures/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ישראל צופה ייצור של 450,000 עד 480,000 טונות הדרים -- <span class=\"news-date\">06/11/2026 13:23</span></div><div class=\"news-body\">מגזר ההדרים הישראלי מתחיל את עונת הייצוא 2026/2027 עם נפח ייצור המוערך בין 450,000 ל-480,000 טונות מטריות. למרות חום הקיץ והבצורת שהשפיעו על גודל הפרי ועל לוחות הזמנים של ההבשלה, הענף שומר על האסטרטגיה שלו לגבי זני פרימיום, ובמיוחד מנדרינת אורי (Orri). <span class=\"news-reason\">המאמר מספק הערכות מספריות מדויקות על ייצור ההדרים בישראל לעונה הנוכחית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9889890/israeli-citrus-sector-focuses-on-premium-varieties-amid-weather-pressures/\" target=\"_blank\">FreshPlaza -- קרא את המאמר</a></div></div>"
+    },
+    {
       "id": "1793966613_1",
       "timestamp": "2026-11-06T12:03:33.637971+00:00",
-      "title": "Reprise des exportations d&#x27;avocats du Michoacán suite à la conclusion d&#x27;un accord de fin de grève",
+      "title": "Reprise des exportations d&#x27;avocats du Michoacán après la conclusion d&#x27;un accord de fin de grève",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -95,7 +168,7 @@
       "origins": [
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Reprise des exportations d&#x27;avocats du Michoacán suite à la conclusion d&#x27;un accord de fin de grève -- <span class=\"news-date\">05/11/2026 15:53</span></div><div class=\"news-body\">Après trois semaines de paralysie dues à une grève des petits producteurs d&#x27;avocats, le ministère de l&#x27;Agriculture mexicain a annoncé la conclusion d&#x27;un accord entre les emballeurs et les travailleurs. Cette entente permet la reprise immédiate des exportations depuis l&#x27;État du Michoacán vers les marchés internationaux. <span class=\"news-reason\">Résolution d&#x27;un conflit social majeur au Mexique (origine clé), permettant le retour des volumes sur le marché mondial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889929/michoacan-retoma-las-exportaciones-de-aguacate-tras-alcanzar-un-acuerdo/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Reprise des exportations d&#x27;avocats du Michoacán après la conclusion d&#x27;un accord de fin de grève -- <span class=\"news-date\">05/11/2026 15:53</span></div><div class=\"news-body\">Après trois semaines de paralysie dues à une grève des petits producteurs d&#x27;avocats, le ministère de l&#x27;Agriculture mexicain a annoncé la conclusion d&#x27;un accord entre les emballeurs et les travailleurs. Cette entente permet la reprise immédiate des exportations depuis l&#x27;État du Michoacán vers les marchés internationaux. <span class=\"news-reason\">Résolution d&#x27;un conflit social majeur au Mexique (origine clé), permettant le retour des volumes sur le marché mondial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889929/michoacan-retoma-las-exportaciones-de-aguacate-tras-alcanzar-un-acuerdo/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Michoacán avocado exports resume following strike end agreement -- <span class=\"news-date\">05/11/2026 15:53</span></div><div class=\"news-body\">After three weeks of paralysis due to a strike by small avocado producers, the Mexican Ministry of Agriculture announced the conclusion of an agreement between packers and workers. This agreement allows for the immediate resumption of exports from the state of Michoacán to international markets. <span class=\"news-reason\">Resolution of a major social conflict in Mexico (key origin), allowing volumes to return to the global market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889929/michoacan-retoma-las-exportaciones-de-aguacate-tras-alcanzar-un-acuerdo/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">חידוש ייצוא האבוקדו ממיצ'ואקן בעקבות הסכם לסיום שביתה -- <span class=\"news-date\">05/11/2026 15:53</span></div><div class=\"news-body\">לאחר שלושה שבועות של שיתוק עקב שביתה של מגדלי אבוקדו קטנים, משרד החקלאות המקסיקני הודיע על השגת הסכם בין האורזים לעובדים. הסכם זה מאפשר את חידוש הייצוא המיידי ממדינת מיצ'ואקן לשווקים הבינלאומיים. <span class=\"news-reason\">פתרון סכסוך עבודה משמעותי במקסיקו (מקור מפתח), המאפשר את חזרת הכמויות לשוק העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889929/michoacan-retoma-las-exportaciones-de-aguacate-tras-alcanzar-un-acuerdo/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -174,7 +247,7 @@
     {
       "id": "1793950453_0",
       "timestamp": "2026-11-06T07:34:13.337703+00:00",
-      "title": "Le Maroc, la Turquie et l’Égypte consolident leur position sur le marché européen",
+      "title": "Le Maroc, la Turquie et l’Égypte consolident leur présence sur le marché européen",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [],
       "products": [],
@@ -183,7 +256,7 @@
         "EGY",
         "TUR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Maroc, la Turquie et l’Égypte consolident leur position sur le marché européen -- <span class=\"news-date\">06/11/2026 06:05</span></div><div class=\"news-body\">On observe un déplacement structurel de la production horticole vers des pays à bas coûts de main-d&#x27;œuvre tels que le Maroc, la Turquie et l&#x27;Égypte. Cette tendance s&#x27;accentue dans le secteur des fruits et légumes en Europe, où ces origines gagnent des parts de marché significatives dans les rayons des distributeurs au détriment des producteurs locaux traditionnels. <span class=\"news-reason\">L&#x27;article analyse le positionnement stratégique de trois origines concurrentes majeures sur le marché européen des fruits et légumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886452/marocco-turchia-ed-egitto-guadagnano-terreno-sugli-scaffali-europei/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Maroc, la Turquie et l’Égypte consolident leur présence sur le marché européen -- <span class=\"news-date\">06/11/2026 06:05</span></div><div class=\"news-body\">On observe un déplacement structurel de la production horticole vers des pays à bas coûts de main-d&#x27;œuvre tels que le Maroc, la Turquie et l&#x27;Égypte. Cette tendance s&#x27;accentue dans le secteur des fruits et légumes en Europe, où ces origines gagnent des parts de marché significatives dans les rayons des distributeurs au détriment des producteurs locaux traditionnels. <span class=\"news-reason\">L&#x27;article analyse le positionnement stratégique de trois origines concurrentes majeures sur le marché européen des fruits et légumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886452/marocco-turchia-ed-egitto-guadagnano-terreno-sugli-scaffali-europei/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Morocco, Turkey and Egypt consolidate their position on the European market -- <span class=\"news-date\">06/11/2026 06:05</span></div><div class=\"news-body\">A structural shift in horticultural production towards low labor-cost countries such as Morocco, Turkey and Egypt is being observed. This trend is intensifying in the fruit and vegetable sector in Europe, where these origins are gaining significant market share on retail shelves at the expense of traditional local producers. <span class=\"news-reason\">The article analyzes the strategic positioning of three major competing origins in the European fruit and vegetable market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886452/marocco-turchia-ed-egitto-guadagnano-terreno-sugli-scaffali-europei/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מרוקו, טורקיה ומצרים מחזקות את מעמדן בשוק האירופי -- <span class=\"news-date\">06/11/2026 06:05</span></div><div class=\"news-body\">ניתן להבחין בהעתקה מבנית של הייצור החקלאי למדינות בעלות עלויות עבודה נמוכות כגון מרוקו, טורקיה ומצרים. מגמה זו מתעצמת במגזר הפירות והירקות באירופה, שם מקורות אלו כובשים נתחי שוק משמעותיים על מדפי המפיצים על חשבון היצרנים המקומיים המסורתיים. <span class=\"news-reason\">המאמר מנתח את המיצוב האסטרטגי של שלושה מקורות מתחרים עיקריים בשוק הפירות והירקות האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9886452/marocco-turchia-ed-egitto-guadagnano-terreno-sugli-scaffali-europei/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>"
     },
@@ -204,7 +277,7 @@
     {
       "id": "1793896483_2",
       "timestamp": "2026-11-05T16:34:43.964308+00:00",
-      "title": "Les cours de l&#x27;avocat mexicain au plus bas malgré une offre abondante",
+      "title": "Les cours de l&#x27;avocat mexicain à leur plus bas niveau malgré une offre abondante",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -215,7 +288,7 @@
       "origins": [
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les cours de l&#x27;avocat mexicain au plus bas malgré une offre abondante -- <span class=\"news-date\">05/11/2026 06:05</span></div><div class=\"news-body\">L&#x27;avocat mexicain enregistre une disponibilité accrue grâce à des conditions de culture favorables dans toutes les régions de production. La campagne s&#x27;oriente vers des volumes significatifs, mais les prix de vente sur le terrain se situent actuellement à des niveaux historiquement bas. Cette situation offre des opportunités pour augmenter les volumes sur les marchés mondiaux. <span class=\"news-reason\">Informations stratégiques sur les prix historiquement bas et les volumes élevés de l&#x27;origine concurrente Mexique.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9888638/purtroppo-i-prezzi-sono-ai-minimi-storici/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les cours de l&#x27;avocat mexicain à leur plus bas niveau malgré une offre abondante -- <span class=\"news-date\">05/11/2026 06:05</span></div><div class=\"news-body\">L&#x27;avocat mexicain enregistre une disponibilité accrue grâce à des conditions de culture favorables dans toutes les régions de production. La campagne s&#x27;oriente vers des volumes significatifs, mais les prix de vente sur le terrain se situent actuellement à des niveaux historiquement bas. Cette situation offre des opportunités pour augmenter les volumes sur les marchés mondiaux. <span class=\"news-reason\">Informations stratégiques sur les prix historiquement bas et les volumes élevés de l&#x27;origine concurrente Mexique.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9888638/purtroppo-i-prezzi-sono-ai-minimi-storici/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Mexican avocado prices at their lowest despite abundant supply -- <span class=\"news-date\">05/11/2026 06:05</span></div><div class=\"news-body\">Mexican avocados are seeing increased availability thanks to favorable growing conditions in all production regions. The campaign is moving toward significant volumes, but field sales prices are currently at historically low levels. This situation offers opportunities to increase volumes on global markets. <span class=\"news-reason\">Strategic information on historically low prices and high volumes of the competing origin Mexico.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9888638/purtroppo-i-prezzi-sono-ai-minimi-storici/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מחירי האבוקדו המקסיקני בשפל למרות היצע שופע -- <span class=\"news-date\">05/11/2026 06:05</span></div><div class=\"news-body\">האבוקדו המקסיקני רושם זמינות מוגברת בזכות תנאי גידול נוחים בכל אזורי הייצור. העונה פונה לכמויות משמעותיות, אך מחירי המכירה בשטח נמצאים כיום ברמות נמוכות היסטורית. מצב זה מציע הזדמנויות להגדלת הכמויות בשווקים העולמיים. <span class=\"news-reason\">מידע אסטרטגי על מחירים נמוכים היסטורית וכמויות גבוהות מהמקור המתחרה מקסיקו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9888638/purtroppo-i-prezzi-sono-ai-minimi-storici/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -793,77 +866,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Promotion des agrumes siciliens lors d&#x27;un événement à Munich -- <span class=\"news-date\">04/11/2026 14:15</span></div><div class=\"news-body\">Une conférence intitulée « DIE ORANGE » s&#x27;est tenue à Munich pour promouvoir les oranges de Sicile et de Campanie, mettant en avant le bien-être, la durabilité et l&#x27;origine de ces agrumes. <span class=\"news-reason\">Information sur la stratégie de promotion et le positionnement des oranges italiennes sur un marché européen clé.</span></div><div class=\"news-source\"><a href=\"https://www.fruchthandel.de/news/sizilien-und-kampanien-eine-sueditalienische-begegnung-mit-geschmack-im-herzen-muenchens-bei\" target=\"_blank\">Fruchthandel -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Promotion of Sicilian citrus fruits at an event in Munich -- <span class=\"news-date\">04/11/2026 14:15</span></div><div class=\"news-body\">A conference entitled \"DIE ORANGE\" was held in Munich to promote oranges from Sicily and Campania, highlighting well-being, sustainability, and the origin of these citrus fruits. <span class=\"news-reason\">Information on the promotion strategy and positioning of Italian oranges in a key European market.</span></div><div class=\"news-source\"><a href=\"https://www.fruchthandel.de/news/sizilien-und-kampanien-eine-sueditalienische-begegnung-mit-geschmack-im-herzen-muenchens-bei\" target=\"_blank\">Fruchthandel -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">קידום פירות הדר סיציליאניים באירוע במינכן -- <span class=\"news-date\">04/11/2026 14:15</span></div><div class=\"news-body\">ועידה בשם « DIE ORANGE » נערכה במינכן לקידום תפוזים מסיציליה וקמפניה, תוך שימת דגש על רווחה, קיימות והמקור של פירות הדר אלו. <span class=\"news-reason\">מידע על אסטרטגיית הקידום והמיצוב של תפוזים איטלקיים בשוק אירופי מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.fruchthandel.de/news/sizilien-und-kampanien-eine-sueditalienische-begegnung-mit-geschmack-im-herzen-muenchens-bei\" target=\"_blank\">Fruchthandel -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793712909_4",
-      "timestamp": "2026-11-03T13:35:09.695063+00:00",
-      "title": "Budget de six millions d&#x27;euros pour la promotion des agrumes espagnols -- 03/11/2026 13:43",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "mandarine",
-        "orange"
-      ],
-      "origins": [
-        "FRA",
-        "ESP"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Budget de six millions d&#x27;euros pour la promotion des agrumes espagnols -- <span class=\"news-date\">03/11/2026 13:43</span></div><div class=\"news-body\">La Commission européenne a validé la proposition d&#x27;Intercitrus pour le programme de promotion 2026. Ce projet bénéficiera d&#x27;un cofinancement à hauteur de 70 % pour mener des campagnes publicitaires en faveur des oranges et des mandarines espagnoles sur les marchés français et européen entre 2027 et 2029. <span class=\"news-reason\">Information sur la stratégie promotionnelle d&#x27;un concurrent direct (Espagne) sur les marchés cibles de Mehadrin (France, Europe).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888642/over-eur6-million-to-promote-spanish-oranges-and-mandarins-from-2027-to-2029/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Six million euro budget for the promotion of Spanish citrus -- <span class=\"news-date\">03/11/2026 13:43</span></div><div class=\"news-body\">The European Commission has approved the Intercitrus proposal for the 2026 promotion program. This project will benefit from 70% co-financing to carry out advertising campaigns for Spanish oranges and mandarins in the French and European markets between 2027 and 2029. <span class=\"news-reason\">Information on the promotional strategy of a direct competitor (Spain) in Mehadrin's target markets (France, Europe).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888642/over-eur6-million-to-promote-spanish-oranges-and-mandarins-from-2027-to-2029/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">תקציב של שישה מיליון אירו לקידום הדרים ספרדיים -- <span class=\"news-date\">03/11/2026 13:43</span></div><div class=\"news-body\">הנציבות האירופית אישרה את הצעת Intercitrus לתוכנית הקידום לשנת 2026. פרויקט זה ייהנה ממימון משותף בגובה 70% לביצוע קמפיינים פרסומיים עבור תפוזים ומנדרינות ספרדיים בשוק הצרפתי והאירופי בין השנים 2027 ל-2029. <span class=\"news-reason\">מידע על אסטרטגיית הקידום של מתחרה ישיר (ספרד) בשוקי היעד של מהדרין (צרפת, אירופה).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888642/over-eur6-million-to-promote-spanish-oranges-and-mandarins-from-2027-to-2029/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793712909_3",
-      "timestamp": "2026-11-03T13:35:09.695063+00:00",
-      "title": "Analyse d&#x27;une campagne d&#x27;agrumes historique en Afrique du Sud -- 03/11/2026 13:43",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [
-        "ZAF"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Analyse d&#x27;une campagne d&#x27;agrumes historique en Afrique du Sud -- <span class=\"news-date\">03/11/2026 13:43</span></div><div class=\"news-body\">Le directeur général de Grown4u, Snyman Kritzinger, revient sur le bilan dressé par la Citrus Growers&#x27; Association (CGA). Cette analyse porte sur l&#x27;une des saisons les plus complexes de l&#x27;histoire de l&#x27;industrie des agrumes en Afrique du Sud, marquée par des difficultés opérationnelles et climatiques majeures. <span class=\"news-reason\">Information stratégique sur la campagne d&#x27;agrumes d&#x27;une origine concurrente majeure (Afrique du Sud).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888806/farm-better-before-you-farm-bigger/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Analysis of a historic citrus campaign in South Africa -- <span class=\"news-date\">03/11/2026 13:43</span></div><div class=\"news-body\">Grown4u Managing Director Snyman Kritzinger reviews the report compiled by the Citrus Growers' Association (CGA). This analysis covers one of the most complex seasons in the history of the South African citrus industry, marked by major operational and climatic difficulties. <span class=\"news-reason\">Strategic information on the citrus campaign of a major competing origin (South Africa).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888806/farm-better-before-you-farm-bigger/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">ניתוח עונת הדרים היסטורית בדרום אפריקה -- <span class=\"news-date\">03/11/2026 13:43</span></div><div class=\"news-body\">המנהל הכללי של Grown4u, סניימן קריצינגר, מתייחס לסיכום שערך איגוד מגדלי ההדרים (CGA). ניתוח זה עוסק באחת העונות המורכבות ביותר בתולדות תעשיית ההדרים בדרום אפריקה, שהתאפיינה בקשיים תפעוליים ואקלימיים משמעותיים. <span class=\"news-reason\">מידע אסטרטגי על עונת ההדרים של מקור מתחרה מרכזי (דרום אפריקה).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888806/farm-better-before-you-farm-bigger/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793712909_2",
-      "timestamp": "2026-11-03T13:35:09.695063+00:00",
-      "title": "Tanzanie : les exportations d&#x27;avocats franchissent le cap des 52 000 tonnes -- 03/11/2026 13:43",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tanzanie : les exportations d&#x27;avocats franchissent le cap des 52 000 tonnes -- <span class=\"news-date\">03/11/2026 13:43</span></div><div class=\"news-body\">La Tanzanie a exporté 52 000 tonnes d&#x27;avocats pour une valeur de 97,2 millions de dollars au cours de la saison 2025/2026. Ce résultat surpasse l&#x27;objectif initial fixé pour 2030, qui était de 40 000 tonnes, avec quatre ans d&#x27;avance. Les volumes d&#x27;exportation ont enregistré une croissance massive de 237 % par rapport aux 15 432,77 tonnes de la période précédente selon les données de la COPRA. <span class=\"news-reason\">Informations chiffrées sur les volumes d&#x27;une origine concurrente sur le marché mondial de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888911/tanzania-s-avocado-exports-reach-52-000-tons-exceeding-2030-target/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Tanzania: avocado exports cross the 52,000-ton mark -- <span class=\"news-date\">03/11/2026 13:43</span></div><div class=\"news-body\">Tanzania exported 52,000 tons of avocados worth $97.2 million during the 2025/2026 season. This result exceeds the initial target set for 2030, which was 40,000 tons, four years ahead of schedule. Export volumes recorded a massive growth of 237% compared to the 15,432.77 tons in the previous period according to COPRA data. <span class=\"news-reason\">Quantitative information on the volumes of a competing origin in the global avocado market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888911/tanzania-s-avocado-exports-reach-52-000-tons-exceeding-2030-target/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">טנזניה: יצוא האבוקדו חצה את רף 52,000 הטונות -- <span class=\"news-date\">03/11/2026 13:43</span></div><div class=\"news-body\">טנזניה ייצאה 52,000 טונות של אבוקדו בשווי של 97.2 מיליון דולר במהלך עונת 2025/2026. תוצאה זו עולה על היעד הראשוני שנקבע לשנת 2030, שעמד על 40,000 טונות, ארבע שנים לפני המועד. נפחי היצוא רשמו צמיחה אדירה של 237% בהשוואה ל-15,432.77 הטונות בתקופה הקודמת על פי נתוני COPRA. <span class=\"news-reason\">מידע כמותי על הנפחים של מקור מתחרה בשוק האבוקדו העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888911/tanzania-s-avocado-exports-reach-52-000-tons-exceeding-2030-target/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793712909_0",
-      "timestamp": "2026-11-03T13:35:09.695063+00:00",
-      "title": "L&#x27;Afrique du Sud examine la relocalisation climatique des agrumes et avocats -- 03/11/2026 13:43",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Nadia",
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "ZAF"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;Afrique du Sud examine la relocalisation climatique des agrumes et avocats -- <span class=\"news-date\">03/11/2026 13:43</span></div><div class=\"news-body\">Une étude du Conseil sud-africain de la recherche agricole suggère de déplacer les zones de production d&#x27;agrumes et d&#x27;avocats vers des régions au climat plus favorable. Cette recherche vise à garantir la sécurité alimentaire et la rentabilité économique face aux évolutions climatiques modélisées. <span class=\"news-reason\">Analyse de la stratégie d&#x27;adaptation climatique pour des produits et une origine majeurs pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888757/south-african-study-examines-relocating-crops-to-climate-suitable-regions/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">South Africa examines climate relocation for citrus and avocados -- <span class=\"news-date\">03/11/2026 13:43</span></div><div class=\"news-body\">A study by the South African Agricultural Research Council suggests moving citrus and avocado production areas to regions with more favorable climates. This research aims to ensure food security and economic profitability in the face of modeled climate changes. <span class=\"news-reason\">Analysis of the climate adaptation strategy for major products and an origin for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888757/south-african-study-examines-relocating-crops-to-climate-suitable-regions/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">דרום אפריקה בוחנת את העתקת גידולי ההדרים והאבוקדו בשל שינויי אקלים -- <span class=\"news-date\">03/11/2026 13:43</span></div><div class=\"news-body\">מחקר של המועצה למחקר חקלאי של דרום אפריקה מציע להעביר את אזורי ייצור ההדרים והאבוקדו לאזורים בעלי אקלים נוח יותר. מחקר זה נועד להבטיח ביטחון תזונתי ורווחיות כלכלית מול שינויי האקלים החזויים. <span class=\"news-reason\">ניתוח אסטרטגיית ההסתגלות לאקלים עבור מוצרים ומקור מרכזיים עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9888757/south-african-study-examines-relocating-crops-to-climate-suitable-regions/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
