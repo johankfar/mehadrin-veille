@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T19:34:03.203515+00:00",
+  "last_updated": "2026-11-06T06:04:49.464099+00:00",
   "article_count": 44,
   "attention_points": [
     {
@@ -7,7 +7,7 @@
       "article_id": "1793896483_0",
       "url": "https://www.freshplaza.es/article/9889051/tanzania-supera-con-cuatro-anos-de-antelacion-su-objetivo-de-exportacion-de-aguacate-para-2030/",
       "source": "FreshPlaza ES",
-      "title": "Tanzanie surpasse ses objectifs d'exportation d'avocats pour 2030",
+      "title": "Tanzanie dépasse ses objectifs d'exportation d'avocats pour 2030",
       "summary": "Les volumes expédiés dépassent largement les objectifs initiaux fixés pour la fin de décennie",
       "origin_code": null,
       "origin_label": null,
@@ -19,7 +19,24 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 4
+      "age_hours": 15
+    },
+    {
+      "id": "attention-46e9a2157ae2d503",
+      "article_id": "1793945089_0",
+      "url": "https://www.freshplaza.com/article/9889681/syrian-citrus-harvest-rises-to-639-000-tons-as-prices-remain-low/",
+      "source": "FreshPlaza",
+      "title": "Production syrienne d'agrumes atteint 639 000 tonnes",
+      "summary": "La production d'agrumes en Syrie principalement localisée dans le gouvernorat de Lattaquié est estimée.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-11-05T13:34:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [],
+      "age_hours": 17
     },
     {
       "id": "attention-4eb8d63826373fd5",
@@ -38,7 +55,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 7
+      "age_hours": 17
     },
     {
       "id": "attention-56dc08d3ca17c7c9",
@@ -57,27 +74,24 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 7
-    },
-    {
-      "id": "attention-77428a4fa55257e4",
-      "article_id": "1793885689_5",
-      "url": "https://www.agf.nl/article/9889757/amerikaanse-invoerheffingen-zetten-zuid-afrikaanse-citrusexport-onder-druk/",
-      "source": "AGF.nl",
-      "title": "L’exclusion de l’AGOA menace les exportations d’agrumes",
-      "summary": "La décision prévue d'exclure l'Afrique du Sud de l'AGOA au 1 er janvier 2027.",
-      "origin_code": "ZAF",
-      "origin_label": "Afrique du Sud",
-      "published_at": "2026-11-05T12:07:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [],
-      "age_hours": 8
+      "age_hours": 17
     }
   ],
   "articles": [
+    {
+      "id": "1793945089_0",
+      "timestamp": "2026-11-06T06:04:49.464099+00:00",
+      "title": "La production syrienne d&#x27;agrumes atteint 639 000 tonnes en dépit de la faiblesse des prix. -- 05/11/2026 13:34",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La production syrienne d&#x27;agrumes atteint 639 000 tonnes en dépit de la faiblesse des prix. -- <span class=\"news-date\">05/11/2026 13:34</span></div><div class=\"news-body\">La production d&#x27;agrumes en Syrie, principalement localisée dans le gouvernorat de Lattaquié, est estimée à 639 000 tonnes pour la campagne actuelle, marquant une nette progression par rapport aux 415 000 tonnes de l&#x27;année précédente. Malgré cette augmentation des volumes sur une surface de 30 000 hectares, les cultivateurs sont confrontés à des prix de vente très bas, une hausse des coûts de production et des difficultés d&#x27;accès aux marchés extérieurs. <span class=\"news-reason\">Informations chiffrées sur la production d&#x27;un pays concurrent en agrumes dans le bassin méditerranéen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9889681/syrian-citrus-harvest-rises-to-639-000-tons-as-prices-remain-low/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Syrian citrus production reaches 639,000 tons despite weak prices. -- <span class=\"news-date\">05/11/2026 13:34</span></div><div class=\"news-body\">Citrus production in Syria, mainly located in the Latakia governorate, is estimated at 639,000 tons for the current season, marking a clear increase compared to 415,000 tons the previous year. Despite this increase in volumes over an area of 30,000 hectares, growers are facing very low selling prices, rising production costs, and difficulties accessing external markets. <span class=\"news-reason\">Quantitative information on citrus production in a competing country in the Mediterranean basin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9889681/syrian-citrus-harvest-rises-to-639-000-tons-as-prices-remain-low/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">ייצור ההדרים בסוריה מגיע ל-639 000 טון למרות המחירים הנמוכים. -- <span class=\"news-date\">05/11/2026 13:34</span></div><div class=\"news-body\">ייצור ההדרים בסוריה, המרוכז בעיקר במחוז לטקיה, מוערך ב-639 000 טון לעונה הנוכחית, המהווה עלייה משמעותית לעומת 415 000 טון בשנה שעברה. למרות העלייה בכמויות על פני שטח של 30 000 הקטר, המגדלים מתמודדים עם מחירי מכירה נמוכים מאוד, עלייה בעלויות הייצור וקשיים בגישה לשווקים חיצוניים. <span class=\"news-reason\">מידע מספרי על ייצור הדרים במדינה מתחרה באגן הים התיכון.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9889681/syrian-citrus-harvest-rises-to-639-000-tons-as-prices-remain-low/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1793896483_2",
       "timestamp": "2026-11-05T16:34:43.964308+00:00",
@@ -99,7 +113,7 @@
     {
       "id": "1793896483_0",
       "timestamp": "2026-11-05T16:34:43.964308+00:00",
-      "title": "La Tanzanie surpasse ses objectifs d&#x27;exportation d&#x27;avocats pour 2030 avec quatre ans d&#x27;avance",
+      "title": "La Tanzanie dépasse ses objectifs d&#x27;exportation d&#x27;avocats pour 2030 avec quatre ans d&#x27;avance",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -108,7 +122,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La Tanzanie surpasse ses objectifs d&#x27;exportation d&#x27;avocats pour 2030 avec quatre ans d&#x27;avance -- <span class=\"news-date\">05/11/2026 15:53</span></div><div class=\"news-body\">La Tanzanie a exporté 52 000 tonnes d&#x27;avocats pour une valeur de 97,2 millions de dollars durant la saison 2025/2026. Ce résultat surpasse l&#x27;objectif initial de 40 000 tonnes fixé pour l&#x27;année 2030, marquant une avance de quatre ans sur les prévisions de l&#x27;Autorité régulatrice (COPRA). <span class=\"news-reason\">Rapport sur les volumes et valeurs d&#x27;exportation d&#x27;une origine concurrente majeure (avocats) avec des chiffres précis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889051/tanzania-supera-con-cuatro-anos-de-antelacion-su-objetivo-de-exportacion-de-aguacate-para-2030/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La Tanzanie dépasse ses objectifs d&#x27;exportation d&#x27;avocats pour 2030 avec quatre ans d&#x27;avance -- <span class=\"news-date\">05/11/2026 15:53</span></div><div class=\"news-body\">La Tanzanie a exporté 52 000 tonnes d&#x27;avocats pour une valeur de 97,2 millions de dollars durant la saison 2025/2026. Ce résultat surpasse l&#x27;objectif initial de 40 000 tonnes fixé pour l&#x27;année 2030, marquant une avance de quatre ans sur les prévisions de l&#x27;Autorité régulatrice (COPRA). <span class=\"news-reason\">Rapport sur les volumes et valeurs d&#x27;exportation d&#x27;une origine concurrente majeure (avocats) avec des chiffres précis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889051/tanzania-supera-con-cuatro-anos-de-antelacion-su-objetivo-de-exportacion-de-aguacate-para-2030/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Tanzania surpasses its avocado export targets for 2030 four years ahead of schedule -- <span class=\"news-date\">05/11/2026 15:53</span></div><div class=\"news-body\">Tanzania exported 52,000 tons of avocados worth $97.2 million during the 2025/2026 season. This result surpasses the initial target of 40,000 tons set for the year 2030, marking a four-year lead over the regulatory authority (COPRA) forecasts. <span class=\"news-reason\">Report on export volumes and values of a major competing origin (avocados) with precise figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889051/tanzania-supera-con-cuatro-anos-de-antelacion-su-objetivo-de-exportacion-de-aguacate-para-2030/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">טנזניה עוקפת את יעדי ייצוא האבוקדו שלה לשנת 2030 בארבע שנים מראש -- <span class=\"news-date\">05/11/2026 15:53</span></div><div class=\"news-body\">טנזניה ייצאה 52,000 טונות של אבוקדו בשווי של 97.2 מיליון דולר במהלך עונת 2025/2026. תוצאה זו עוקפת את היעד המקורי של 40,000 טונות שנקבע לשנת 2030, ומסמנת הקדמה של ארבע שנים ביחס לתחזיות של הרשות הרגולטורית (COPRA). <span class=\"news-reason\">דיווח על כמויות וערכי ייצוא של מקור מתחרה מרכזי (אבוקדו) עם נתונים מדויקים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889051/tanzania-supera-con-cuatro-anos-de-antelacion-su-objetivo-de-exportacion-de-aguacate-para-2030/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -518,14 +532,14 @@
     {
       "id": "1793810043_1",
       "timestamp": "2026-11-04T16:34:03.179551+00:00",
-      "title": "Chili : la filière fruitière prévoit une saison stable malgré les intempéries",
+      "title": "Chili : perspectives de stabilité pour la filière fruitière malgré les intempéries",
       "category": "PRIX &amp VOLUMES",
       "commercials": [],
       "products": [],
       "origins": [
         "CHL"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Chili : la filière fruitière prévoit une saison stable malgré les intempéries -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">Malgré des inondations dans la région de Maule et une grève des camionneurs à San Antonio, le secteur fruitier chilien prévoit une campagne 2026-2027 stable. Frutas de Chile estime que les volumes d&#x27;exportation se maintiendront autour de 3 millions de tonnes, avec une attention particulière portée à la logistique des expéditions. <span class=\"news-reason\">Information sur les volumes globaux d&#x27;exportation d&#x27;une origine Mehadrin avec chiffres.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889390/pese-a-lluvias-en-el-maule-y-paro-en-san-antonio-el-sector-fruticola-chileno-espera-una-temporada-estable/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Chili : perspectives de stabilité pour la filière fruitière malgré les intempéries -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">Malgré des inondations dans la région de Maule et une grève des camionneurs à San Antonio, le secteur fruitier chilien prévoit une campagne 2026-2027 stable. Frutas de Chile estime que les volumes d&#x27;exportation se maintiendront autour de 3 millions de tonnes, avec une attention particulière portée à la logistique des expéditions. <span class=\"news-reason\">Information sur les volumes globaux d&#x27;exportation d&#x27;une origine Mehadrin avec chiffres.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889390/pese-a-lluvias-en-el-maule-y-paro-en-san-antonio-el-sector-fruticola-chileno-espera-una-temporada-estable/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">The Chilean fruit sector anticipates a stable season despite bad weather -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">Despite floods in the Maule region and a truckers' strike in San Antonio, the Chilean fruit sector forecasts a stable 2026-2027 campaign. Frutas de Chile estimates that export volumes will remain around 3 million tonnes, with particular attention paid to shipping logistics. <span class=\"news-reason\">Information on global export volumes of a Mehadrin origin with figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889390/pese-a-lluvias-en-el-maule-y-paro-en-san-antonio-el-sector-fruticola-chileno-espera-una-temporada-estable/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מגזר הפירות הצ&#x27;יליאני צופה עונה יציבה למרות פגעי מזג האוויר -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">למרות שיטפונות באזור מאולה ושביתת נהגי משאיות בסן אנטוניו, מגזר הפירות הצ&#x27;יליאני צופה עונה יציבה ב-2026-2027. Frutas de Chile מעריכה שנפחי הייצוא יישארו סביב 3 מיליון טון, עם דגש מיוחד על לוגיסטיקת המשלוחים. <span class=\"news-reason\">מידע על נפחי הייצוא הכוללים ממקור מהדרין עם נתונים מספריים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889390/pese-a-lluvias-en-el-maule-y-paro-en-san-antonio-el-sector-fruticola-chileno-espera-una-temporada-estable/\" target=\"_blank\">FreshPlaza ES -- לקריאת המאמר</a></div></div>"
     },
@@ -584,7 +598,7 @@
     {
       "id": "1793808063_3",
       "timestamp": "2026-11-04T16:01:03.829349+00:00",
-      "title": "Le cours de l&#x27;avocat mexicain double après la suspension de la récolte",
+      "title": "Le cours de l&#x27;avocat mexicain double suite à la suspension de la récolte",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -595,7 +609,7 @@
       "origins": [
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le cours de l&#x27;avocat mexicain double après la suspension de la récolte -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">Les producteurs d&#x27;avocats au Mexique ont suspendu la récolte pour protester contre les prix bas. Cette décision a entraîné un manque de fruits à la frontière et un doublement des prix en seulement quelques jours. <span class=\"news-reason\">Information critique sur un changement brutal du marché (prix doublés) suite à un arrêt de récolte par les producteurs mexicains.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889095/el-aguacate-mexicano-frena-su-cosecha-y-los-precios-se-duplican-en-pocos-dias/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le cours de l&#x27;avocat mexicain double suite à la suspension de la récolte -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">Les producteurs d&#x27;avocats au Mexique ont suspendu la récolte pour protester contre les prix bas. Cette décision a entraîné un manque de fruits à la frontière et un doublement des prix en seulement quelques jours. <span class=\"news-reason\">Information critique sur un changement brutal du marché (prix doublés) suite à un arrêt de récolte par les producteurs mexicains.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889095/el-aguacate-mexicano-frena-su-cosecha-y-los-precios-se-duplican-en-pocos-dias/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Mexican avocado prices double following harvest suspension -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">Avocado producers in Mexico have suspended the harvest to protest low prices. This decision led to a shortage of fruit at the border and a doubling of prices in just a few days. <span class=\"news-reason\">Critical information on a sudden market change (doubled prices) following a harvest halt by Mexican producers.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889095/el-aguacate-mexicano-frena-su-cosecha-y-los-precios-se-duplican-en-pocos-dias/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מחירי האבוקדו המקסיקני מכפילים את עצמם בעקבות השעיית הקטיף -- <span class=\"news-date\">04/11/2026 15:42</span></div><div class=\"news-body\">מגדלי האבוקדו במקסיקו השעו את הקטיף במחאה על המחירים הנמוכים. החלטה זו הובילה למחסור בפירות בגבול ולהכפלת המחירים תוך ימים ספורים בלבד. <span class=\"news-reason\">מידע קריטי על שינוי חד בשוק (הכפלת מחירים) בעקבות הפסקת קטיף על ידי המגדלים המקסיקנים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889095/el-aguacate-mexicano-frena-su-cosecha-y-los-precios-se-duplican-en-pocos-dias/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -818,7 +832,7 @@
     {
       "id": "1793691228_0",
       "timestamp": "2026-11-03T07:33:48.693569+00:00",
-      "title": "Recul des volumes et déficit de maturité des mangues du Pérou",
+      "title": "Baisse des volumes et déficit de maturité des mangues du Pérou",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -829,25 +843,9 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Recul des volumes et déficit de maturité des mangues du Pérou -- <span class=\"news-date\">03/11/2026 06:05</span></div><div class=\"news-body\">La saison des mangues au Pérou débute avec une production réduite et des fruits n&#x27;ayant pas encore atteint les niveaux de matière sèche requis par certains marchés. Le phénomène El Niño se manifeste plus tôt que prévu, impactant directement les récoltes. Selon le producteur Milton Calle, ces facteurs climatiques et qualitatifs mettent la campagne sous pression dès son ouverture. <span class=\"news-reason\">Alerte sur la disponibilité et la qualité d&#x27;un produit Mehadrin (mangue) d&#x27;une origine majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887682/la-stagione-peruviana-dei-mango-parte-sotto-pressione-per-l-arrivo-anticipato-di-el-nino-e-la-riduzione-dei-volumi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Baisse des volumes et déficit de maturité des mangues du Pérou -- <span class=\"news-date\">03/11/2026 06:05</span></div><div class=\"news-body\">La saison des mangues au Pérou débute avec une production réduite et des fruits n&#x27;ayant pas encore atteint les niveaux de matière sèche requis par certains marchés. Le phénomène El Niño se manifeste plus tôt que prévu, impactant directement les récoltes. Selon le producteur Milton Calle, ces facteurs climatiques et qualitatifs mettent la campagne sous pression dès son ouverture. <span class=\"news-reason\">Alerte sur la disponibilité et la qualité d&#x27;un produit Mehadrin (mangue) d&#x27;une origine majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887682/la-stagione-peruviana-dei-mango-parte-sotto-pressione-per-l-arrivo-anticipato-di-el-nino-e-la-riduzione-dei-volumi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Decreased volumes and maturity deficit for Peruvian mangoes -- <span class=\"news-date\">03/11/2026 06:05</span></div><div class=\"news-body\">The mango season in Peru is beginning with reduced production and fruit that has not yet reached the dry matter levels required by certain markets. The El Niño phenomenon is appearing earlier than expected, directly impacting harvests. According to producer Milton Calle, these climatic and qualitative factors are putting the campaign under pressure from its start. <span class=\"news-reason\">Alert on the availability and quality of a Mehadrin product (mango) from a major origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887682/la-stagione-peruviana-dei-mango-parte-sotto-pressione-per-l-arrivo-anticipato-di-el-nino-e-la-riduzione-dei-volumi/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ירידה בכמויות וחוסר בשלות במנגו מפרו -- <span class=\"news-date\">03/11/2026 06:05</span></div><div class=\"news-body\">עונת המנגו בפרו מתחילה עם ייצור מופחת ופירות שטרם הגיעו לרמות החומר היבש הנדרשות על ידי שווקים מסוימים. תופעת אל ניניו מופיעה מוקדם מהצפוי, ומשפיעה ישירות על היבולים. לדברי היצרן מילטון קאיה (Milton Calle), גורמים אקלימיים ואיכותיים אלו מציבים את העונה תחת לחץ כבר עם פתיחתה. <span class=\"news-reason\">התראה על זמינות ואיכות של מוצר מהדרין (מנגו) ממקור מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887682/la-stagione-peruviana-dei-mango-parte-sotto-pressione-per-l-arrivo-anticipato-di-el-nino-e-la-riduzione-dei-volumi/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793685811_0",
-      "timestamp": "2026-11-03T06:03:31.053833+00:00",
-      "title": "Amfresh : expansion de la mandarine sur le marché européen",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "mandarine"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Amfresh : expansion de la mandarine sur le marché européen -- <span class=\"news-date\">03/11/2026 06:05</span></div><div class=\"news-body\">Le mandarinier à la forme de citrouille de Genesis Fresh entame sa quatrième saison commerciale avec de nouveaux formats d&#x27;emballage pour le détail européen. <span class=\"news-reason\">Innovation produit et renforcement de la présence d&#x27;un concurrent majeur sur le segment des agrumes en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887695/riceviamo-richieste-da-tutto-il-mondo-a-testimonianza-della-curiosita-che-suscita-questo-frutto-davvero-unico/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Amfresh: mandarin expansion in the European market -- <span class=\"news-date\">03/11/2026 06:05</span></div><div class=\"news-body\">Genesis Fresh's pumpkin-shaped mandarin is entering its fourth commercial season with new packaging formats for European retail. <span class=\"news-reason\">Product innovation and strengthening the presence of a major competitor in the European citrus segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887695/riceviamo-richieste-da-tutto-il-mondo-a-testimonianza-della-curiosita-che-suscita-questo-frutto-davvero-unico/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תנועות ברשתות השיווק</div><div class=\"news-title\">Amfresh: התרחבות המנדרינות בשוק האירופי -- <span class=\"news-date\">03/11/2026 06:05</span></div><div class=\"news-body\">המנדרינה בצורת דלעת של Genesis Fresh מתחילה את העונה המסחרית הרביעית שלה עם פורמטי אריזה חדשים לקמעונאות האירופית. <span class=\"news-reason\">חדשנות במוצר וחיזוק הנוכחות של מתחרה מרכזי במקטע פירות ההדר באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9887695/riceviamo-richieste-da-tutto-il-mondo-a-testimonianza-della-curiosita-che-suscita-questo-frutto-davvero-unico/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
