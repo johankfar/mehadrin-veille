@@ -1,33 +1,49 @@
 {
-  "last_updated": "2026-11-09T10:31:54.584628+00:00",
-  "article_count": 15,
+  "last_updated": "2026-11-09T12:02:26.996072+00:00",
+  "article_count": 16,
   "attention_points": [
     {
-      "id": "attention-e6878399c4a18433",
-      "article_id": "1794220314_0",
-      "url": "https://fyh.es/el-reino-del-exquisito-mango-espanol-la-axarquia-malaguena-produce-el-90-del-fruto/",
-      "source": "Frutas y Hortalizas",
-      "title": "Espagne : l'Axarquía concentre la production nationale de mangues",
-      "summary": "La région de l'Axarquía concentre quatre-vingt-dix pour cent de la production espagnole de mangues",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-11-09T08:09:59+00:00",
+      "id": "attention-ce45862c770f6847",
+      "article_id": "1794225747_1",
+      "url": "https://www.agf.nl/article/9889472/biologische-avocado-s-uit-kreta-oogst-bijna-twee-keer-zo-groot-als-vorig-jaar/",
+      "source": "AGF.nl",
+      "title": "La production d'avocats biologiques double en Crète",
+      "summary": "Les nouvelles plantations augmentent les volumes de récolte des avocats biologiques",
+      "origin_code": "GRC",
+      "origin_label": "Grèce",
+      "published_at": "2026-11-09T12:10:00+01:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [
-        "avocat",
-        "mango"
+        "avocat"
       ],
-      "age_hours": 2
+      "age_hours": 0
+    },
+    {
+      "id": "attention-3ca05eae874ee6f3",
+      "article_id": "1794225747_0",
+      "url": "https://www.freshfruitportal.com/news/2026/11/09/colombian-citrus-woes/",
+      "source": "Fresh Fruit Portal",
+      "title": "Perte de compétitivité de la filière des agrumes",
+      "summary": "La filière colombienne des agrumes subit l'appréciation du peso et la hausse des coûts.",
+      "origin_code": "COL",
+      "origin_label": "Colombie",
+      "published_at": "2026-11-09T08:00:24+00:00",
+      "published_at_source": "rss",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
+      "products": [],
+      "age_hours": 4
     },
     {
       "id": "attention-2bbf0c0b3c452457",
       "article_id": "1794204138_1",
       "url": "https://www.freshplaza.it/article/9888566/l-appetito-dell-europa-per-gli-avocado-e-appena-iniziato/",
       "source": "FreshPlaza IT",
-      "title": "Perspectives de croissance du marché de l'avocat",
+      "title": "Perspectives de croissance du marché de l’avocat",
       "summary": "La demande pour ce fruit poursuit sa croissance malgré les contraintes du secteur.",
       "origin_code": null,
       "origin_label": null,
@@ -39,7 +55,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 5
+      "age_hours": 7
     },
     {
       "id": "attention-cd97d223aa221cb1",
@@ -58,29 +74,44 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 5
-    },
-    {
-      "id": "attention-f2bfb64a1e486eac",
-      "article_id": "1793993774_0",
-      "url": "https://www.fruitbookmagazine.it/arance-importate-consorzio-arancia-rossa-sicilia-igp-controlli/",
-      "source": "Fruitbook Magazine",
-      "title": "Consortium de l'Orange Sanguine de Sicile appelle",
-      "summary": "Le Consortium de l'Orange Sanguine de Sicile IGP a interpellé les ministres italiens.",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
-      "published_at": "2026-11-06T18:41:47+00:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "volume",
-      "products": [
-        "orange"
-      ],
-      "age_hours": 63
+      "age_hours": 7
     }
   ],
   "articles": [
+    {
+      "id": "1794225747_1",
+      "timestamp": "2026-11-09T12:02:26.996072+00:00",
+      "title": "La production d&#x27;avocats biologiques double en Crète -- 09/11/2026 12:10",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "GRC"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La production d&#x27;avocats biologiques double en Crète -- <span class=\"news-date\">09/11/2026 12:10</span></div><div class=\"news-body\">L&#x27;exportateur grec Edem Organic Fruits s&#x27;attend à une production presque deux fois supérieure à celle de l&#x27;année précédente. Cette croissance est portée par l&#x27;entrée en production de nouveaux vergers, malgré quelques chutes de fruits survenues à la fin de l&#x27;été. <span class=\"news-reason\">Prévisions de volumes pour un pays concurrent (Grèce) sur le marché de l&#x27;avocat en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9889472/biologische-avocado-s-uit-kreta-oogst-bijna-twee-keer-zo-groot-als-vorig-jaar/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Organic avocado production doubles in Crete -- <span class=\"news-date\">09/11/2026 12:10</span></div><div class=\"news-body\">Greek exporter Edem Organic Fruits expects production to be almost twice as high as the previous year. This growth is driven by the entry into production of new orchards, despite some fruit drop at the end of summer. <span class=\"news-reason\">Volume forecasts for a competing country (Greece) in the European avocado market.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9889472/biologische-avocado-s-uit-kreta-oogst-bijna-twee-keer-zo-groot-als-vorig-jaar/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">ייצור האבוקדו האורגני בכרתים מכפיל את עצמו -- <span class=\"news-date\">09/11/2026 12:10</span></div><div class=\"news-body\">היצואן היווני Edem Organic Fruits מצפה לייצור גבוה כמעט פי שניים מזה של השנה שעברה. צמיחה זו מונעת מכניסתם של מטעים חדשים לשלב הניב, למרות נשירת פירות מסוימת שהתרחשה בסוף הקיץ. <span class=\"news-reason\">תחזיות כמויות עבור מדינה מתחרה (יוון) בשוק האבוקדו באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9889472/biologische-avocado-s-uit-kreta-oogst-bijna-twee-keer-zo-groot-als-vorig-jaar/\" target=\"_blank\">AGF.nl -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794225747_0",
+      "timestamp": "2026-11-09T12:02:26.996072+00:00",
+      "title": "Perte de compétitivité de la filière des agrumes en Colombie -- 09/11/2026 08:00",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "COL"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Perte de compétitivité de la filière des agrumes en Colombie -- <span class=\"news-date\">09/11/2026 08:00</span></div><div class=\"news-body\">La filière colombienne des agrumes subit l&#x27;appréciation du peso et la hausse des coûts de la main-d&#x27;œuvre. Une potentielle taxe de 19 % sur les produits agricoles pourrait aggraver la crise de compétitivité du secteur face à la concurrence internationale. <span class=\"news-reason\">Informations sur la perte de compétitivité d&#x27;une origine concurrente pour les agrumes, incluant des facteurs de coût et de fiscalité.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/09/colombian-citrus-woes/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Loss of competitiveness of the citrus sector in Colombia -- <span class=\"news-date\">09/11/2026 08:00</span></div><div class=\"news-body\">The Colombian citrus sector is suffering from the appreciation of the peso and rising labor costs. A potential 19% tax on agricultural products could worsen the sector&#x27;s competitiveness crisis in the face of international competition. <span class=\"news-reason\">Information on the loss of competitiveness of a competing origin for citrus fruits, including cost and taxation factors.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/09/colombian-citrus-woes/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">אובדן התחרותיות של ענף ההדרים בקולומביה -- <span class=\"news-date\">09/11/2026 08:00</span></div><div class=\"news-body\">ענף ההדרים הקולומביאני סובל מייסוף הפסו ומעלייה בעלויות העבודה. מס פוטנציאלי של 19% על מוצרים חקלאיים עלול להחמיר את משבר התחרותיות של המגזר מול התחרות הבינלאומית. <span class=\"news-reason\">מידע על אובדן התחרותיות של מקור מתחרה להדרים, כולל גורמי עלות ומיסוי.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/09/colombian-citrus-woes/\" target=\"_blank\">Fresh Fruit Portal -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1794220314_0",
       "timestamp": "2026-11-09T10:31:54.584628+00:00",
@@ -103,7 +134,7 @@
     {
       "id": "1794204138_1",
       "timestamp": "2026-11-09T06:02:18.623261+00:00",
-      "title": "Perspectives de croissance du marché de l&#x27;avocat en Europe",
+      "title": "Perspectives de croissance du marché de l’avocat en Europe",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -112,7 +143,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Perspectives de croissance du marché de l&#x27;avocat en Europe -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">Le Westfalia Fruit Group observe que la consommation d&#x27;avocats continue de croître en Europe malgré des volumes record. Le secteur doit toutefois surmonter des défis majeurs tels que le phénomène climatique El Niño, l&#x27;augmentation des coûts de production et la recherche de nouveaux débouchés en Asie. <span class=\"news-reason\">Analyse stratégique sur la croissance de la consommation d&#x27;avocats en Europe et les défis climatiques globaux.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9888566/l-appetito-dell-europa-per-gli-avocado-e-appena-iniziato/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Perspectives de croissance du marché de l’avocat en Europe -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">Le Westfalia Fruit Group observe que la consommation d&#x27;avocats continue de croître en Europe malgré des volumes record. Le secteur doit toutefois surmonter des défis majeurs tels que le phénomène climatique El Niño, l&#x27;augmentation des coûts de production et la recherche de nouveaux débouchés en Asie. <span class=\"news-reason\">Analyse stratégique sur la croissance de la consommation d&#x27;avocats en Europe et les défis climatiques globaux.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9888566/l-appetito-dell-europa-per-gli-avocado-e-appena-iniziato/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGINS COMPETITION</div><div class=\"news-title\">Growth prospects for the avocado market in Europe -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">The Westfalia Fruit Group observes that avocado consumption continues to grow in Europe despite record volumes. However, the sector must overcome major challenges such as the El Niño climate phenomenon, rising production costs, and the search for new markets in Asia. <span class=\"news-reason\">Strategic analysis on the growth of avocado consumption in Europe and global climate challenges.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9888566/l-appetito-dell-europa-per-gli-avocado-e-appena-iniziato/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות ומקורות</div><div class=\"news-title\">תחזיות צמיחה לשוק האבוקדו באירופה -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">קבוצת Westfalia Fruit מציינת כי צריכת האבוקדו ממשיכה לגדול באירופה למרות כמויות שיא. המגזר חייב להתגבר על אתגרים משמעותיים כגון תופעת האקלים אל ניניו, העלייה בעלויות הייצור והחיפוש אחר שווקים חדשים באסיה. <span class=\"news-reason\">ניתוח אסטרטגי על צמיחת צריכת האבוקדו באירופה והאתגרים האקלימיים הגלובליים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9888566/l-appetito-dell-europa-per-gli-avocado-e-appena-iniziato/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -209,7 +240,7 @@
     {
       "id": "1793977520_0",
       "timestamp": "2026-11-06T15:05:20.559476+00:00",
-      "title": "Afrique du Sud : les impératifs de qualité des agrumes face à la croissance des volumes",
+      "title": "Afrique du Sud : les enjeux de la qualité des agrumes face à la croissance des volumes",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -218,7 +249,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Afrique du Sud : les impératifs de qualité des agrumes face à la croissance des volumes -- <span class=\"news-date\">06/11/2026 15:50</span></div><div class=\"news-body\">Snyman Kritzinger, directeur général de Grown4u, souligne la nécessité pour la filière des agrumes en Afrique du Sud de privilégier la qualité sur l&#x27;expansion des volumes. Cette analyse fait suite aux rapports de la Citrus Growers&#x27; Association sur les défis structurels du secteur. <span class=\"news-reason\">Article stratégique sur la production d&#x27;agrumes dans une origine majeure concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889071/producir-mejor-antes-de-producir-mas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Afrique du Sud : les enjeux de la qualité des agrumes face à la croissance des volumes -- <span class=\"news-date\">06/11/2026 15:50</span></div><div class=\"news-body\">Snyman Kritzinger, directeur général de Grown4u, souligne la nécessité pour la filière des agrumes en Afrique du Sud de privilégier la qualité sur l&#x27;expansion des volumes. Cette analyse fait suite aux rapports de la Citrus Growers&#x27; Association sur les défis structurels du secteur. <span class=\"news-reason\">Article stratégique sur la production d&#x27;agrumes dans une origine majeure concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889071/producir-mejor-antes-de-producir-mas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">South Africa: prioritizing citrus quality over volume expansion -- <span class=\"news-date\">06/11/2026 15:50</span></div><div class=\"news-body\">Snyman Kritzinger, managing director of Grown4u, emphasizes the need for South Africa's citrus industry to prioritize quality over volume expansion. This analysis follows reports from the Citrus Growers' Association on structural challenges in the sector. <span class=\"news-reason\">Strategic article on citrus production in a major competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889071/producir-mejor-antes-de-producir-mas/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">דרום אפריקה: העדפת איכות ההדרים על פני הגדלת הכמויות -- <span class=\"news-date\">06/11/2026 15:50</span></div><div class=\"news-body\">סנימן קריצינגר, מנכ\"ל Grown4u, מדגיש את הצורך של ענף ההדרים בדרום אפריקה לתת עדיפות לאיכות על פני הגדלת הכמויות. ניתוח זה מגיע בעקבות דוחות של איגוד מגדלי ההדרים (Citrus Growers&#x27; Association) על האתגרים המבניים בענף. <span class=\"news-reason\">מאמר אסטרטגי על ייצור הדרים במקור מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889071/producir-mejor-antes-de-producir-mas/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -297,7 +328,7 @@
     {
       "id": "1793966613_1",
       "timestamp": "2026-11-06T12:03:33.637971+00:00",
-      "title": "Reprise des exportations d’avocats du Michoacán suite à un accord de fin de grève",
+      "title": "Reprise des exportations d&#x27;avocats du Michoacán suite à un accord mettant fin à la grève",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -308,7 +339,7 @@
       "origins": [
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Reprise des exportations d’avocats du Michoacán suite à un accord de fin de grève -- <span class=\"news-date\">05/11/2026 15:53</span></div><div class=\"news-body\">Après trois semaines de paralysie dues à une grève des petits producteurs d&#x27;avocats, le ministère de l&#x27;Agriculture mexicain a annoncé la conclusion d&#x27;un accord entre les emballeurs et les travailleurs. Cette entente permet la reprise immédiate des exportations depuis l&#x27;État du Michoacán vers les marchés internationaux. <span class=\"news-reason\">Résolution d&#x27;un conflit social majeur au Mexique (origine clé), permettant le retour des volumes sur le marché mondial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889929/michoacan-retoma-las-exportaciones-de-aguacate-tras-alcanzar-un-acuerdo/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Reprise des exportations d&#x27;avocats du Michoacán suite à un accord mettant fin à la grève -- <span class=\"news-date\">05/11/2026 15:53</span></div><div class=\"news-body\">Après trois semaines de paralysie dues à une grève des petits producteurs d&#x27;avocats, le ministère de l&#x27;Agriculture mexicain a annoncé la conclusion d&#x27;un accord entre les emballeurs et les travailleurs. Cette entente permet la reprise immédiate des exportations depuis l&#x27;État du Michoacán vers les marchés internationaux. <span class=\"news-reason\">Résolution d&#x27;un conflit social majeur au Mexique (origine clé), permettant le retour des volumes sur le marché mondial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889929/michoacan-retoma-las-exportaciones-de-aguacate-tras-alcanzar-un-acuerdo/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Michoacán avocado exports resume following strike end agreement -- <span class=\"news-date\">05/11/2026 15:53</span></div><div class=\"news-body\">After three weeks of paralysis due to a strike by small avocado producers, the Mexican Ministry of Agriculture announced the conclusion of an agreement between packers and workers. This agreement allows for the immediate resumption of exports from the state of Michoacán to international markets. <span class=\"news-reason\">Resolution of a major social conflict in Mexico (key origin), allowing volumes to return to the global market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889929/michoacan-retoma-las-exportaciones-de-aguacate-tras-alcanzar-un-acuerdo/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">חידוש ייצוא האבוקדו ממיצ'ואקן בעקבות הסכם לסיום שביתה -- <span class=\"news-date\">05/11/2026 15:53</span></div><div class=\"news-body\">לאחר שלושה שבועות של שיתוק עקב שביתה של מגדלי אבוקדו קטנים, משרד החקלאות המקסיקני הודיע על השגת הסכם בין האורזים לעובדים. הסכם זה מאפשר את חידוש הייצוא המיידי ממדינת מיצ'ואקן לשווקים הבינלאומיים. <span class=\"news-reason\">פתרון סכסוך עבודה משמעותי במקסיקו (מקור מפתח), המאפשר את חזרת הכמויות לשוק העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889929/michoacan-retoma-las-exportaciones-de-aguacate-tras-alcanzar-un-acuerdo/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -327,24 +358,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">L&#x27;espagnol Clasol accroît sa production d&#x27;agrumes de 800 hectares -- <span class=\"news-date\">06/11/2026 12:18</span></div><div class=\"news-body\">L&#x27;entreprise espagnole Clasol a finalisé l&#x27;acquisition de près de 800 hectares de terres agricoles dans la province de Valence. Cette opération s&#x27;inscrit dans une stratégie de croissance visant à développer sa propre production d&#x27;agrumes sur de grandes parcelles pour sécuriser son approvisionnement. <span class=\"news-reason\">Expansion majeure d&#x27;un concurrent direct sur le segment des agrumes en Espagne via une acquisition de terres.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9890093/spaanse-clasol-breidt-citrusteelt-uit-met-bijna-800-hectare/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Spanish company Clasol increases citrus production by 800 hectares -- <span class=\"news-date\">06/11/2026 12:18</span></div><div class=\"news-body\">Spanish company Clasol has finalized the acquisition of nearly 800 hectares of agricultural land in the province of Valencia. This operation is part of a growth strategy aimed at developing its own citrus production on large plots to secure its supply. <span class=\"news-reason\">Major expansion of a direct competitor in the citrus segment in Spain through a land acquisition.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9890093/spaanse-clasol-breidt-citrusteelt-uit-met-bijna-800-hectare/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות ברשתות</div><div class=\"news-title\">Clasol הספרדית מגדילה את ייצור פירות ההדר שלה ב-800 הקטר -- <span class=\"news-date\">06/11/2026 12:18</span></div><div class=\"news-body\">חברת Clasol הספרדית השלימה את רכישתם של כמעט 800 הקטר של קרקעות חקלאיות במחוז ולנסיה. פעולה זו היא חלק מאסטרטגיית צמיחה שמטרתה לפתח ייצור עצמי של פירות הדר על חלקות גדולות כדי להבטיח את האספקה שלה. <span class=\"news-reason\">התרחבות משמעותית של מתחרה ישיר במגזר פירות ההדר בספרד באמצעות רכישת קרקעות.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9890093/spaanse-clasol-breidt-citrusteelt-uit-met-bijna-800-hectare/\" target=\"_blank\">AGF.nl -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1793961238_0",
-      "timestamp": "2026-11-06T10:33:58.340823+00:00",
-      "title": "Clôture de la campagne d&#x27;exportation d&#x27;avocats en Afrique du Sud",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "ZAF"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Clôture de la campagne d&#x27;exportation d&#x27;avocats en Afrique du Sud -- <span class=\"news-date\">06/11/2026 10:28</span></div><div class=\"news-body\">The Fruit Farm Group South Africa a pratiquement terminé ses exportations d&#x27;avocats pour cette année. L&#x27;entreprise réoriente désormais son activité vers l&#x27;approvisionnement de son marché local, qu&#x27;elle dessert tout au long de l&#x27;année. Des volumes résiduels d&#x27;avocats seront toutefois encore expédiés au cours des six à huit prochaines semaines avant la clôture définitive de la saison d&#x27;exportation. <span class=\"news-reason\">Annonce de la fin de campagne d&#x27;exportation d&#x27;une origine concurrente majeure (Afrique du Sud) pour l&#x27;avocat, avec basculement vers le marché local.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9890029/wir-haben-noch-spielraum-unseren-anteil-am-avocado-markt-zu-steigern/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Closing of the avocado export campaign in South Africa -- <span class=\"news-date\">06/11/2026 10:28</span></div><div class=\"news-body\">The Fruit Farm Group South Africa has practically finished its avocado exports for this year. The company is now refocusing its business on supplying its local market, which it serves year-round. However, residual volumes of avocados will still be shipped over the next six to eight weeks before the final close of the export season. <span class=\"news-reason\">Announcement of the end of the export campaign of a major competing origin (South Africa) for avocados, with a shift to the local market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9890029/wir-haben-noch-spielraum-unseren-anteil-am-avocado-markt-zu-steigern/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיום עונת ייצוא האבוקדו בדרום אפריקה -- <span class=\"news-date\">06/11/2026 10:28</span></div><div class=\"news-body\">קבוצת The Fruit Farm South Africa כמעט סיימה את ייצוא האבוקדו שלה לשנה זו. החברה מפנה כעת את פעילותה לאספקת השוק המקומי שלה, לו היא נותנת שירות לאורך כל השנה. עם זאת, כמויות שיוריות של אבוקדו עדיין יישלחו במהלך ששת עד שמונת השבועות הקרובים לפני הסגירה הסופית של עונת הייצוא. <span class=\"news-reason\">הודעה על סיום עונת הייצוא של מקור מתחרה מרכזי (דרום אפריקה) עבור האבוקדו, עם מעבר לשוק המקומי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9890029/wir-haben-noch-spielraum-unseren-anteil-am-avocado-markt-zu-steigern/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
