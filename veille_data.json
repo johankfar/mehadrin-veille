@@ -1,6 +1,46 @@
 {
-  "last_generated": "2026-11-09T16:33:46.661892+00:00",
+  "last_generated": "2026-11-09T19:33:24.458450+00:00",
   "articles": [
+    {
+      "id": "1794252804_0",
+      "timestamp": "2026-11-09T19:33:24.458450+00:00",
+      "title": "Suspension de la récolte d&#x27;avocats au Mexique afin de soutenir les cours -- 09/11/2026 13:10",
+      "title_hash": "suspension récolte dx27avocats mexique afin soutenir cours",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MEX",
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Suspension de la récolte d&#x27;avocats au Mexique afin de soutenir les cours -- <span class=\"news-date\">09/11/2026 13:10</span></div><div class=\"news-body\">Les producteurs d&#x27;avocats du Michoacán au Mexique ont suspendu la récolte depuis deux semaines face à des prix jugés trop bas sur le marché américain. Cette action concerne plus de 50 tonnes de fruits et vise à réduire l&#x27;offre pour forcer une hausse des tarifs de vente. <span class=\"news-reason\">L&#x27;article traite d&#x27;une suspension de récolte chez un concurrent majeur de l&#x27;avocat avec des chiffres de volumes (50 tonnes).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890554/mexican-avocado-growers-suspend-harvesting-to-push-prices-up/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Suspension of avocado harvesting in Mexico to support prices -- <span class=\"news-date\">09/11/2026 13:10</span></div><div class=\"news-body\">Avocado growers in Michoacán, Mexico, have suspended harvesting for two weeks in response to prices deemed too low on the US market. This action involves more than 50 tons of fruit and aims to reduce supply to force an increase in selling prices. <span class=\"news-reason\">The article discusses a harvest suspension by a major avocado competitor with volume figures (50 tons).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890554/mexican-avocado-growers-suspend-harvesting-to-push-prices-up/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השעיית קטיף האבוקדו במקסיקו במטרה לתמוך במחירים -- <span class=\"news-date\">09/11/2026 13:10</span></div><div class=\"news-body\">מגדלי האבוקדו במיצ'ואקאן שבמקסיקו השעו את הקטיף מזה שבועיים בשל מחירים הנחשבים לנמוכים מדי בשוק האמריקאי. פעולה זו נוגעת ליותר מ-50 טונות של פרי ומטרתה לצמצם את ההיצע כדי לאלץ עלייה במחירי המכירה. <span class=\"news-reason\">הכתבה עוסקת בהשעיית קטיף אצל מתחרה מרכזי בענף האבוקדו עם נתוני נפחים (50 טונות).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890554/mexican-avocado-growers-suspend-harvesting-to-push-prices-up/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>",
+      "rss_metadata": {
+        "id": "rss-bd2419716c238a52",
+        "title": "Mexican avocado growers suspend harvesting to push prices up",
+        "summary": "Faced with a second year of bumper harvests and prices deemed insufficiently profitable on the U.S. market, avocado growers in Michoacán - Mexico's main producing region - have suspended harvesting for the past couple of weeks. This action comes as more than 50 tons of avocados destined for the United…",
+        "url": "https://www.freshplaza.com/article/9890554/mexican-avocado-growers-suspend-harvesting-to-push-prices-up/",
+        "source": "FreshPlaza",
+        "published_at": "2026-11-09T13:10:00+01:00",
+        "language": "en",
+        "products": [
+          "avocat"
+        ],
+        "origins": [
+          "MEX"
+        ]
+      },
+      "attention_enrichment": {
+        "title_fr": "Suspension de la récolte des avocats",
+        "summary_fr": "Des producteurs cessent la récolte pour provoquer une hausse des prix"
+      },
+      "gemini_score": 9
+    },
     {
       "id": "1794242026_0",
       "timestamp": "2026-11-09T16:33:46.661892+00:00",
@@ -180,7 +220,7 @@
     {
       "id": "1794236667_2",
       "timestamp": "2026-11-09T15:04:27.340137+00:00",
-      "title": "Inde : hausse des prix de l&#x27;avocat face à la contraction de l&#x27;offre",
+      "title": "Inde : flambée des prix de l&#x27;avocat face à la contraction de l&#x27;offre",
       "title_hash": "inde hausse prix avocats suite à baisse lx27offre",
       "category": "ALERTES SUPPLY",
       "commercials": [
@@ -192,7 +232,7 @@
       "origins": [
         "IND"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Inde : hausse des prix de l&#x27;avocat face à la contraction de l&#x27;offre -- <span class=\"news-date\">09/11/2026 15:32</span></div><div class=\"news-body\">L&#x27;offre d&#x27;avocats tanzaniens sur le marché indien commence à se raréfier en raison de la clôture imminente de la saison. Cette diminution des arrivages hebdomadaires, combinée à une demande intérieure qui reste solide, entraîne une hausse mécanique des prix. Les importateurs prévoient de nouvelles baisses de volumes tout au long du mois de novembre. <span class=\"news-reason\">Alerte sur la disponibilité et l&#x27;évolution des prix de l&#x27;avocat sur le marché indien.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889982/las-menores-llegadas-de-aguacate-tanzano-elevan-los-precios-en-la-india/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Inde : flambée des prix de l&#x27;avocat face à la contraction de l&#x27;offre -- <span class=\"news-date\">09/11/2026 15:32</span></div><div class=\"news-body\">L&#x27;offre d&#x27;avocats tanzaniens sur le marché indien commence à se raréfier en raison de la clôture imminente de la saison. Cette diminution des arrivages hebdomadaires, combinée à une demande intérieure qui reste solide, entraîne une hausse mécanique des prix. Les importateurs prévoient de nouvelles baisses de volumes tout au long du mois de novembre. <span class=\"news-reason\">Alerte sur la disponibilité et l&#x27;évolution des prix de l&#x27;avocat sur le marché indien.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889982/las-menores-llegadas-de-aguacate-tanzano-elevan-los-precios-en-la-india/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">India: rise in avocado prices following drop in supply -- <span class=\"news-date\">09/11/2026 15:32</span></div><div class=\"news-body\">The supply of Tanzanian avocados on the Indian market is starting to become scarce due to the imminent close of the season. This decrease in weekly arrivals, combined with a demand that remains solid, is leading to a mechanical rise in prices. Importers expect further volume decreases throughout the month of November. <span class=\"news-reason\">Alert on the availability and price evolution of avocados in the Indian market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889982/las-menores-llegadas-de-aguacate-tanzano-elevan-los-precios-en-la-india/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">הודו: עלייה במחירי האבוקדו בעקבות ירידה בהיצע -- <span class=\"news-date\">09/11/2026 15:32</span></div><div class=\"news-body\">היצע האבוקדו הטנזני בשוק ההודי מתחיל להצטמצם עקב הסיום הקרוב של העונה. ירידה זו במשלוחים השבועיים, בשילוב עם ביקוש מקומי איתן, מובילה לעליית מחירים אוטומטית. היבואנים צופים ירידות נוספות בנפחים במהלך חודש נובמבר. <span class=\"news-reason\">התראה על זמינות ומגמת מחירי האבוקדו בשוק ההודי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889982/las-menores-llegadas-de-aguacate-tanzano-elevan-los-precios-en-la-india/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>",
       "rss_metadata": {
@@ -560,7 +600,7 @@
     {
       "id": "1794204138_0",
       "timestamp": "2026-11-09T06:02:18.623261+00:00",
-      "title": "Baisse de 10,6 % du prix des clémentines sur le marché italien",
+      "title": "Le prix des clémentines recule de 10,6 % sur le marché italien",
       "title_hash": "recul 106 prix clémentines marché italien",
       "category": "PRIX &amp VOLUMES",
       "commercials": [],
@@ -570,7 +610,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse de 10,6 % du prix des clémentines sur le marché italien -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, les prix des clémentines sur le marché italien ont enregistré une baisse de 10,6 % en une semaine. Cette analyse hebdomadaire aide à orienter les achats des consommateurs vers des produits dont l&#x27;offre est abondante. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur la baisse des prix des clémentines en Italie durant la campagne actuelle.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890579/clementine-in-calo-del-10-6-per-cento-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le prix des clémentines recule de 10,6 % sur le marché italien -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, les prix des clémentines sur le marché italien ont enregistré une baisse de 10,6 % en une semaine. Cette analyse hebdomadaire aide à orienter les achats des consommateurs vers des produits dont l&#x27;offre est abondante. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur la baisse des prix des clémentines en Italie durant la campagne actuelle.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890579/clementine-in-calo-del-10-6-per-cento-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">10.6% decline in clementine prices on the Italian market -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">According to data from BMTI and Italmercati, clementine prices on the Italian market recorded a 10.6% decrease in one week. This weekly analysis helps guide consumer purchases toward products with an abundant supply. <span class=\"news-reason\">The article provides precise figures on the drop in clementine prices in Italy during the current campaign.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890579/clementine-in-calo-del-10-6-per-cento-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 10.6% במחירי הקלמנטינות בשוק האיטלקי -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">לפי נתוני BMTI ו-Italmercati, מחירי הקלמנטינות בשוק האיטלקי רשמו ירידה של 10.6% בתוך שבוע. ניתוח שבועי זה עוזר לכוון את רכישות הצרכנים למוצרים שההיצע שלהם בשפע. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על ירידת מחירי הקלמנטינות באיטליה במהלך העונה הנוכחית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890579/clementine-in-calo-del-10-6-per-cento-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>",
       "rss_metadata": {
@@ -668,47 +708,6 @@
         "summary_fr": "Le Consortium de Sicile demande des inspections renforcées sur les agrumes importés en Italie"
       },
       "gemini_score": 4
-    },
-    {
-      "id": "1793988356_0",
-      "timestamp": "2026-11-06T18:05:56.517702+00:00",
-      "title": "Suspension des récoltes d&#x27;avocats au Mexique pour stabiliser les prix -- 06/11/2026 14:53",
-      "title_hash": "suspension récoltes dx27avocats mexique stabiliser prix",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "MEX",
-        "USA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Suspension des récoltes d&#x27;avocats au Mexique pour stabiliser les prix -- <span class=\"news-date\">06/11/2026 14:53</span></div><div class=\"news-body\">Dans le Michoacán, principale région productrice du Mexique, les producteurs d&#x27;avocats ont interrompu les récoltes depuis une dizaine de jours. Cette mesure vise à faire remonter les prix sur le marché américain, jugés trop bas suite à deux années consécutives de production abondante. Ce blocage de l&#x27;offre pourrait influencer les dynamiques de prix mondiales. <span class=\"news-reason\">Action directe des producteurs impactant l&#x27;offre mondiale et les prix d&#x27;un produit Mehadrin phare.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9890415/les-producteurs-d-avocats-mexicains-suspendent-les-recoltes-pour-faire-remonter-les-prix/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Suspension of avocado harvests in Mexico to stabilize prices -- <span class=\"news-date\">06/11/2026 14:53</span></div><div class=\"news-body\">In Michoacán, Mexico&#x27;s main producing region, avocado growers have suspended harvests for about ten days. This measure aims to drive up prices on the American market, which are considered too low following two consecutive years of abundant production. This supply blockage could influence global price dynamics. <span class=\"news-reason\">Direct action by producers impacting global supply and the prices of a flagship Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9890415/les-producteurs-d-avocats-mexicains-suspendent-les-recoltes-pour-faire-remonter-les-prix/\" target=\"_blank\">FreshPlaza FR -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השעיית קטיף האבוקדו במקסיקו לייצוב המחירים -- <span class=\"news-date\">06/11/2026 14:53</span></div><div class=\"news-body\">במיצ'ואקן, אזור הייצור העיקרי במקסיקו, מגדלי האבוקדו הפסיקו את הקטיף מזה כעשרה ימים. צעד זה נועד להעלות את המחירים בשוק האמריקאי, שנחשבים לנמוכים מדי בעקבות שנתיים רצופות של ייצור שופע. חסימת היצע זו עשויה להשפיע על דינמיקת המחירים העולמית. <span class=\"news-reason\">פעולה ישירה של המגדלים המשפיעה על ההיצע העולמי ועל המחירים של מוצר דגל של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9890415/les-producteurs-d-avocats-mexicains-suspendent-les-recoltes-pour-faire-remonter-les-prix/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>",
-      "rss_metadata": {
-        "id": "rss-ab2ac9603a8c8768",
-        "title": "Les producteurs d'avocats mexicains suspendent les récoltes pour faire remonter les prix",
-        "summary": "Face à une deuxième année consécutive de production abondante et à des prix jugés insuffisamment rémunérateurs sur le marché américain, les producteurs d'avocats du Michoacán, principale région productrice du Mexique, ont interrompu leurs récoltes depuis une dizaine de jours. Ce mouvement intervient…",
-        "url": "https://www.freshplaza.fr/article/9890415/les-producteurs-d-avocats-mexicains-suspendent-les-recoltes-pour-faire-remonter-les-prix/",
-        "source": "FreshPlaza FR",
-        "published_at": "2026-11-06T14:53:00+01:00",
-        "language": "fr",
-        "products": [
-          "avocat"
-        ],
-        "origins": [
-          "MEX",
-          "USA"
-        ]
-      },
-      "attention_enrichment": {
-        "title_fr": "Les producteurs mexicains suspendent les récoltes",
-        "summary_fr": "Une suspension des récoltes vise à stabiliser les prix de l'avocat mexicain"
-      },
-      "gemini_score": 8
     }
   ],
   "article_count": 19,
@@ -730,7 +729,7 @@
       "products": [
         "sweet_potato"
       ],
-      "age_hours": 2
+      "age_hours": 5
     },
     {
       "id": "attention-354684b38b0e1187",
@@ -749,7 +748,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 3
+      "age_hours": 6
     },
     {
       "id": "attention-f8f1a254b291b3a0",
@@ -768,7 +767,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 3
+      "age_hours": 6
     },
     {
       "id": "attention-3ca05eae874ee6f3",
@@ -785,7 +784,7 @@
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 8
+      "age_hours": 11
     }
   ]
 }
