@@ -1,42 +1,59 @@
 {
-  "last_updated": "2026-11-10T12:04:27.618514+00:00",
-  "article_count": 21,
+  "last_updated": "2026-11-10T13:35:29.111081+00:00",
+  "article_count": 33,
   "attention_points": [
     {
-      "id": "attention-3e64b85a3e8f26a2",
-      "article_id": "1794312267_2",
-      "url": "https://www.fruchthandel.de/news/peruanische-mangos-zwischen-el-nino-und-der-konkurrenz-aus-brasilien",
-      "source": "Fruchthandel",
-      "title": "La menace d'El Niño et la concurrence brésilienne",
-      "summary": "Le phénomène El Niño et la concurrence brésilienne menacent la production de mangues péruviennes.",
-      "origin_code": "PER",
-      "origin_label": "Pérou",
-      "published_at": "2026-11-10T10:34:38+00:00",
+      "id": "attention-7e4bd2e208d7b8d1",
+      "article_id": "1794317729_11",
+      "url": "https://www.freshplaza.fr/article/9890075/l-absence-de-coloration-retarde-la-recolte-des-clemenules-qui-devrait-etre-plus-courte-que-prevu/",
+      "source": "FreshPlaza FR",
+      "title": "Le retard de coloration perturbe la récolte",
+      "summary": "Des températures élevées ralentissent le changement de couleur de la peau des fruits",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
+      "published_at": "2026-11-10T13:35:00+01:00",
       "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
       "products": [
-        "mango"
+        "mandarine"
       ],
       "age_hours": 1
     },
     {
-      "id": "attention-ccc2a12747277236",
-      "article_id": "1794312267_0",
-      "url": "https://www.freshpointmagazine.it/innovazione-e-ricerca/all-citrus-ai-energia-agrumi/",
-      "source": "FreshPoint Magazine",
-      "title": "All Citrus optimise sa consommation énergétique",
-      "summary": "Le distributeur italien All Citrus utilise l'intelligence artificielle pour optimiser tous ses coûts énergétiques.",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
-      "published_at": "2026-11-10T09:32:41+00:00",
+      "id": "attention-3d71edcab0542206",
+      "article_id": "1794317729_12",
+      "url": "https://www.freshplaza.com/article/9891129/economist-calls-for-south-african-fruit-export-diversification-following-agoa-exclusion/",
+      "source": "FreshPlaza",
+      "title": "L’exclusion de l’AGOA menace les exportations agricoles sud-africaines",
+      "summary": "La modification des accords commerciaux augmentera les tarifs douaniers pour les exportateurs de fruits.",
+      "origin_code": "ZAF",
+      "origin_label": "Afrique du Sud",
+      "published_at": "2026-11-10T13:26:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
+      "products": [],
+      "age_hours": 1
+    },
+    {
+      "id": "attention-4b462b3a367c2dcc",
+      "article_id": "1794317729_8",
+      "url": "https://www.freshplaza.com/article/9891132/egyptian-juice-manufacturer-secures-us-36-million-for-citrus-processing-line/",
+      "source": "FreshPlaza",
+      "title": "Producteur égyptien de jus investit 36 millions",
+      "summary": "Une entreprise investit dans de nouveaux équipements pour sa production de jus",
+      "origin_code": "EGY",
+      "origin_label": "Égypte",
+      "published_at": "2026-11-10T13:26:00+01:00",
       "published_at_source": "rss",
       "signal_type": "information",
       "signal_label": "Information",
       "icon": "information",
       "products": [],
-      "age_hours": 2
+      "age_hours": 1
     },
     {
       "id": "attention-a97421f198cb001a",
@@ -56,29 +73,219 @@
         "avocat",
         "mango"
       ],
-      "age_hours": 5
-    },
-    {
-      "id": "attention-40212cc5a4347ba4",
-      "article_id": "1794236667_1",
-      "url": "https://www.freshplaza.es/article/9888990/el-mercado-europeo-de-la-batata-gana-estabilidad-tras-meses-de-fuerte-presion-sobre-los-precios/",
-      "source": "FreshPlaza ES",
-      "title": "Stabilisation du marché européen de la patate douce",
-      "summary": "Le marché international gagne en stabilité après une période de forte pression tarifaire",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-11-09T15:32:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "sweet_potato"
-      ],
-      "age_hours": 21
+      "age_hours": 6
     }
   ],
   "articles": [
+    {
+      "id": "1794317729_12",
+      "timestamp": "2026-11-10T13:35:29.111081+00:00",
+      "title": "L’exclusion de l’AGOA menace les exportations agricoles sud-africaines -- 10/11/2026 13:26",
+      "category": "ALERTES SUPPLY",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "ZAF",
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L’exclusion de l’AGOA menace les exportations agricoles sud-africaines -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">L&#x27;Afrique du Sud sera retirée de l&#x27;AGOA le 1er janvier 2027, entraînant une hausse des tarifs douaniers pour ses exportateurs agricoles vers les États-Unis. Cette mesure pousse les producteurs sud-africains à diversifier leurs marchés d&#x27;exportation pour maintenir leur compétitivité face à l&#x27;augmentation des coûts. <span class=\"news-reason\">L&#x27;exclusion de l&#x27;accord AGOA impacte les tarifs douaniers d&#x27;une origine concurrente majeure de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891129/economist-calls-for-south-african-fruit-export-diversification-following-agoa-exclusion/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Exclusion from AGOA threatens South African agricultural exports -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">South Africa will be removed from AGOA on January 1, 2027, leading to an increase in tariffs for its agricultural exporters to the United States. This measure is pushing South African producers to diversify their export markets to maintain competitiveness in the face of rising costs. <span class=\"news-reason\">The exclusion from the AGOA agreement impacts the customs tariffs of a major competing origin for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891129/economist-calls-for-south-african-fruit-export-diversification-following-agoa-exclusion/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ההדרה מ-AGOA מאיימת על היצוא החקלאי מדרום אפריקה -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">דרום אפריקה תוסר מ-AGOA ב-1 בינואר 2027, מה שיוביל לעלייה בתעריפי המכס עבור היצואנים החקלאיים שלה לארצות הברית. צעד זה דוחף את המגדלים הדרום אפריקאים לגוון את שוקי היצוא שלהם כדי לשמור על תחרותיות מול העלייה בעלויות. <span class=\"news-reason\">ההדרה מהסכם AGOA משפיעה על תעריפי המכס של מקור מתחרה מרכזי של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891129/economist-calls-for-south-african-fruit-export-diversification-following-agoa-exclusion/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794317729_11",
+      "timestamp": "2026-11-10T13:35:29.111081+00:00",
+      "title": "Le manque de coloration retarde la récolte des clémentines Clemenules -- 10/11/2026 13:35",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Le manque de coloration retarde la récolte des clémentines Clemenules -- <span class=\"news-date\">10/11/2026 13:35</span></div><div class=\"news-body\">Le passage entre les variétés Oronules et Clemenules est perturbé par un retard de coloration dû à des températures élevées. Ce retard de récolte devrait entraîner une campagne plus courte que prévu pour la variété Clemenules. <span class=\"news-reason\">Alerte supply majeure sur les agrumes (clémentines) en Espagne, impactant la disponibilité sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9890075/l-absence-de-coloration-retarde-la-recolte-des-clemenules-qui-devrait-etre-plus-courte-que-prevu/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Lack of coloring delays the harvest of Clemenules clementines -- <span class=\"news-date\">10/11/2026 13:35</span></div><div class=\"news-body\">The transition between the Oronules and Clemenules varieties is disrupted by a delay in coloring due to high temperatures. This harvest delay is expected to lead to a shorter season than planned for the Clemenules variety. <span class=\"news-reason\">Major supply alert on citrus (clementines) in Spain, impacting availability on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9890075/l-absence-de-coloration-retarde-la-recolte-des-clemenules-qui-devrait-etre-plus-courte-que-prevu/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">חוסר בצבע מעכב את קטיף קלמנטינות הקלמנולס -- <span class=\"news-date\">10/11/2026 13:35</span></div><div class=\"news-body\">המעבר בין הזנים אורונולס וקלמנולס משתבש עקב עיכוב בצביעה הנגרם מטמפרטורות גבוהות. עיכוב זה בקטיף צפוי להוביל לעונה קצרה מהצפוי עבור זן הקלמנולס. <span class=\"news-reason\">התראת אספקה משמעותית על הדרים (קלמנטינות) בספרד, המשפיעה על הזמינות בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9890075/l-absence-de-coloration-retarde-la-recolte-des-clemenules-qui-devrait-etre-plus-courte-que-prevu/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794317729_10",
+      "timestamp": "2026-11-10T13:35:29.111081+00:00",
+      "title": "Bonnes perspectives pour la saison des grenades biologiques turques -- 10/11/2026 13:35",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [
+        "pomegranate"
+      ],
+      "origins": [
+        "NLD",
+        "TUR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Bonnes perspectives pour la saison des grenades biologiques turques -- <span class=\"news-date\">10/11/2026 13:35</span></div><div class=\"news-body\">L&#x27;importateur néerlandais El Dorado Netherlands prévoit une bonne campagne pour les grenades biologiques turques. Bien que l&#x27;entreprise traite aussi du conventionnel, la gamme bio sous la marque EDN représente la majorité de ses volumes actuels. <span class=\"news-reason\">Information sur la campagne de grenades (produit Mehadrin) en Turquie, origine concurrente directe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9890900/de-bonnes-perspectives-pour-la-saison-des-grenades-bio-turques/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Good outlook for the Turkish organic pomegranate season -- <span class=\"news-date\">10/11/2026 13:35</span></div><div class=\"news-body\">Dutch importer El Dorado Netherlands expects a good season for Turkish organic pomegranates. Although the company also handles conventional fruit, the organic range under the EDN brand represents the majority of its current volumes. <span class=\"news-reason\">Information on the pomegranate season (a Mehadrin product) in Turkey, a direct competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9890900/de-bonnes-perspectives-pour-la-saison-des-grenades-bio-turques/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">תחזיות טובות לעונת הרימונים האורגניים מטורקיה -- <span class=\"news-date\">10/11/2026 13:35</span></div><div class=\"news-body\">היבואן ההולנדי El Dorado Netherlands צופה עונה טובה לרימונים אורגניים מטורקיה. למרות שהחברה מטפלת גם במוצרים קונבנציונליים, המגוון האורגני תחת המותג EDN מהווה את רוב הכמויות הנוכחיות שלה. <span class=\"news-reason\">מידע על עונת הרימונים (מוצר של מהדרין) בטורקיה, מקור מתחרה ישיר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9890900/de-bonnes-perspectives-pour-la-saison-des-grenades-bio-turques/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794317729_9",
+      "timestamp": "2026-11-10T13:35:29.111081+00:00",
+      "title": "Jusqu&#x27;à 40 % de la production de mangues australiennes écartée pour motifs esthétiques -- 10/11/2026 13:26",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Jusqu&#x27;à 40 % de la production de mangues australiennes écartée pour motifs esthétiques -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">La récolte de mangues en Australie a débuté avec retard. Entre 20 % et 40 % de la production annuelle, estimée entre 100 et 140 millions de fruits, est rejetée par les supermarchés en raison de défauts cosmétiques, malgré une offre disponible jusqu&#x27;en automne. <span class=\"news-reason\">Info marché sur les mangues, produit Mehadrin, concernant la qualité et les volumes commercialisables.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891106/up-to-40-of-australian-mangoes-rejected-over-cosmetic-defects/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Up to 40% of Australian mango production rejected for cosmetic reasons -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">The mango harvest in Australia has begun with a delay. Between 20% and 40% of the annual production, estimated between 100 and 140 million fruits, is rejected by supermarkets due to cosmetic defects, despite supply being available until autumn. <span class=\"news-reason\">Market info on mangoes, a Mehadrin product, regarding quality and marketable volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891106/up-to-40-of-australian-mangoes-rejected-over-cosmetic-defects/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עד 40% מייצור המנגו האוסטרלי נפסל מסיבות אסתטיות -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">קטיף המנגו באוסטרליה החל באיחור. בין 20% ל-40% מהייצור השנתי, המוערך ב-100 עד 140 מיליון פירות, נדחה על ידי המרכולים בשל פגמים קוסמטיים, למרות היצע זמין עד הסתיו. <span class=\"news-reason\">מידע שוק על מנגו, מוצר של מהדרין, בנוגע לאיכות ולכמויות הניתנות לשיווק.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891106/up-to-40-of-australian-mangoes-rejected-over-cosmetic-defects/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794317729_8",
+      "timestamp": "2026-11-10T13:35:29.111081+00:00",
+      "title": "Un producteur égyptien de jus investit 36 millions de dollars dans le secteur des agrumes -- 10/11/2026 13:26",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "EGY"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Un producteur égyptien de jus investit 36 millions de dollars dans le secteur des agrumes -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">Le fabricant égyptien Juhayna Food Industries a obtenu un prêt de 36 millions de dollars auprès de la Commercial International Bank-Egypt pour financer une nouvelle ligne de transformation d&#x27;agrumes. Le financement se compose de 31,6 millions de dollars et 255 millions de livres égyptiennes. <span class=\"news-reason\">Information sur l&#x27;investissement dans les capacités de transformation d&#x27;agrumes en Égypte, origine concurrente majeure.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891132/egyptian-juice-manufacturer-secures-us-36-million-for-citrus-processing-line/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">An Egyptian juice producer invests 36 million dollars in the citrus sector -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">Egyptian manufacturer Juhayna Food Industries has secured a $36 million loan from Commercial International Bank-Egypt to finance a new citrus processing line. The funding consists of $31.6 million and 255 million Egyptian pounds. <span class=\"news-reason\">Information on investment in citrus processing capacity in Egypt, a major competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891132/egyptian-juice-manufacturer-secures-us-36-million-for-citrus-processing-line/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">יצרן מיצים מצרי משקיע 36 מיליון דולר במגזר ההדרים -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">יצרנית המזון המצרית Juhayna Food Industries השיגה הלוואה של 36 מיליון דולר מהבנק המסחרי הבינלאומי-מצרים למימון קו עיבוד הדרים חדש. המימון מורכב מ-31.6 מיליון דולר ו-255 מיליון לירות מצריות. <span class=\"news-reason\">מידע על השקעה ביכולות עיבוד הדרים במצרים, מקור מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891132/egyptian-juice-manufacturer-secures-us-36-million-for-citrus-processing-line/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794317729_7",
+      "timestamp": "2026-11-10T13:35:29.111081+00:00",
+      "title": "L&#x27;offre israélienne d&#x27;avocats à bas prix déstabilise le début de la saison grecque -- 10/11/2026 13:26",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ISR",
+        "GRC"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;offre israélienne d&#x27;avocats à bas prix déstabilise le début de la saison grecque -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">Le lancement des exportations d&#x27;avocats grecs est freiné par la forte présence de fruits israéliens proposés à des prix compétitifs. Les opérateurs s&#x27;attendent à des conditions de marché difficiles en Europe pour les prochaines semaines. <span class=\"news-reason\">Information critique sur le positionnement prix de l&#x27;origine Israël (Mehadrin) par rapport à la concurrence grecque.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891280/a-difficult-first-seven-days-for-avocados-the-next-twenty-may-be-challenging-too/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Low-priced Israeli avocado supply destabilizes the start of the Greek season -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">The launch of Greek avocado exports is being held back by the strong presence of Israeli fruit offered at competitive prices. Operators expect difficult market conditions in Europe for the coming weeks. <span class=\"news-reason\">Critical information on the price positioning of the Israel origin (Mehadrin) compared to Greek competition.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891280/a-difficult-first-seven-days-for-avocados-the-next-twenty-may-be-challenging-too/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ההיצע הישראלי של אבוקדו במחירים נמוכים מערער את תחילת העונה ביוון -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">השקת יצוא האבוקדו היווני נבלמת עקב נוכחות חזקה של פירות ישראליים המוצעים במחירים תחרותיים. המפעילים מצפים לתנאי שוק קשים באירופה בשבועות הקרובים. <span class=\"news-reason\">מידע קריטי על מיצוב המחירים של המקור הישראלי (מהדרין) ביחס למתחרים מיוון.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891280/a-difficult-first-seven-days-for-avocados-the-next-twenty-may-be-challenging-too/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794317729_6",
+      "timestamp": "2026-11-10T13:35:29.111081+00:00",
+      "title": "Les exportateurs égyptiens prévoient une hausse de la demande européenne pour la patate douce -- 10/11/2026 13:35",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "sweet_potato"
+      ],
+      "origins": [
+        "EGY"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les exportateurs égyptiens prévoient une hausse de la demande européenne pour la patate douce -- <span class=\"news-date\">10/11/2026 13:35</span></div><div class=\"news-body\">La campagne égyptienne de patate douce bat son plein avec une stabilité relative malgré des prix bas initiaux. Les exportateurs anticipent une forte demande en Europe cet hiver pour compenser la hausse des coûts de production. <span class=\"news-reason\">Article contenant des indicateurs de prix, de coûts et de prévisions de demande sur un produit Mehadrin en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9890993/les-exportateurs-egyptiens-de-patates-douces-anticipent-une-hausse-de-la-demande-europeenne-cet-hiver/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Egyptian exporters expect an increase in European demand for sweet potatoes -- <span class=\"news-date\">10/11/2026 13:35</span></div><div class=\"news-body\">The Egyptian sweet potato season is in full swing with relative stability despite initial low prices. Exporters anticipate strong demand in Europe this winter to offset rising production costs. <span class=\"news-reason\">Article containing price, cost indicators, and demand forecasts for a seasonal Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9890993/les-exportateurs-egyptiens-de-patates-douces-anticipent-une-hausse-de-la-demande-europeenne-cet-hiver/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">היצואנים המצרים צופים עלייה בביקוש האירופי לבטטה -- <span class=\"news-date\">10/11/2026 13:35</span></div><div class=\"news-body\">עונת הבטטה המצרית נמצאת בשיאה עם יציבות יחסית למרות מחירים נמוכים בתחילה. היצואנים צופים ביקוש חזק באירופה החורף כדי לפצות על העלייה בעלויות הייצור. <span class=\"news-reason\">כתבה הכוללת מדדי מחירים, עלויות ותחזיות ביקוש למוצר של מהדרין הנמצא בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9890993/les-exportateurs-egyptiens-de-patates-douces-anticipent-une-hausse-de-la-demande-europeenne-cet-hiver/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794317729_5",
+      "timestamp": "2026-11-10T13:35:29.111081+00:00",
+      "title": "Lancement de la campagne des avocats espagnols sur le marché européen -- 10/11/2026 13:26",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Lancement de la campagne des avocats espagnols sur le marché européen -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">Les avocats espagnols de variété Bacon arrivent sur le marché européen, complétant l&#x27;offre actuelle de Hass mexicains. Le rapport de BioTropic souligne une transition entre les origines avec des prévisions de volumes satisfaisantes pour l&#x27;Espagne. <span class=\"news-reason\">Information stratégique sur le début de saison d&#x27;une origine concurrente majeure (Espagne) pour l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891090/spanish-organic-avocado-season-begins-as-mexican-supplies-continue/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Launch of the Spanish avocado season on the European market -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">Spanish Bacon variety avocados are arriving on the European market, supplementing the current supply of Mexican Hass. The BioTropic report highlights a transition between origins with satisfactory volume forecasts for Spain. <span class=\"news-reason\">Strategic information on the start of the season for a major competing origin (Spain) for avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891090/spanish-organic-avocado-season-begins-as-mexican-supplies-continue/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השקת עונת האבוקדו הספרדי בשוק האירופי -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">אבוקדו ספרדי מזן בייקון מגיע לשוק האירופי ומשלים את ההיצע הנוכחי של אבוקדו האס מקסיקני. הדו\"ח של BioTropic מדגיש מעבר בין מקורות עם תחזיות לכמויות מספקות עבור ספרד. <span class=\"news-reason\">מידע אסטרטגי על תחילת העונה של מקור מתחרה מרכזי (ספרד) לאבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891090/spanish-organic-avocado-season-begins-as-mexican-supplies-continue/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794317729_4",
+      "timestamp": "2026-11-10T13:35:29.111081+00:00",
+      "title": "Perspectives positives pour la campagne des grenades et patates douces turques -- 10/11/2026 13:26",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Jessica",
+        "Ophélie"
+      ],
+      "products": [
+        "sweet_potato",
+        "pomegranate"
+      ],
+      "origins": [
+        "TUR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Perspectives positives pour la campagne des grenades et patates douces turques -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">L&#x27;importateur EDN rapporte une activité soutenue pour les grenades et les patates douces biologiques de Turquie. Les prévisions indiquent une bonne disponibilité de ces produits pour le marché européen durant la campagne actuelle. <span class=\"news-reason\">L&#x27;article traite de la disponibilité des grenades et des patates douces, deux produits Mehadrin, en provenance de Turquie.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890896/positive-outlook-for-turkey-s-organic-pomegranate-season/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Positive outlook for the Turkish pomegranate and sweet potato season -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">Importer EDN reports sustained activity for organic pomegranates and sweet potatoes from Turkey. Forecasts indicate good availability of these products for the European market during the current season. <span class=\"news-reason\">The article discusses the availability of pomegranates and sweet potatoes, two Mehadrin products, from Turkey.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890896/positive-outlook-for-turkey-s-organic-pomegranate-season/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">תחזיות חיוביות לעונת הרימונים והבטטות מטורקיה -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">היבואן EDN מדווח על פעילות ערה עבור רימונים ובטטות אורגניים מטורקיה. התחזיות מצביעות על זמינות טובה של מוצרים אלו עבור השוק האירופי במהלך העונה הנוכחית. <span class=\"news-reason\">הכתבה עוסקת בזמינות הרימונים והבטטות, שני מוצרים של מהדרין, שמקורם בטורקיה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890896/positive-outlook-for-turkey-s-organic-pomegranate-season/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794317729_3",
+      "timestamp": "2026-11-10T13:35:29.111081+00:00",
+      "title": "Baisse de 20 % de la récolte d&#x27;agrumes au Maroc -- 10/11/2026 13:26",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse de 20 % de la récolte d&#x27;agrumes au Maroc -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">La récolte d&#x27;agrumes au Maroc devrait reculer de 20 % pour la saison 2026-2027, s&#x27;établissant à environ 1,8 million de tonnes contre 2,2 millions l&#x27;an dernier. Selon Maroc Citrus, cette baisse est due aux fortes chaleurs estivales ayant provoqué la chute des fleurs et des jeunes fruits. <span class=\"news-reason\">Alerte majeure sur les volumes d&#x27;une origine concurrente clé pour les agrumes, avec des chiffres précis de baisse de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891133/citrus-harvest-forecast-to-fall-20-to-1-8-million-tons-in-morocco/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">20% drop in Moroccan citrus harvest -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">The citrus harvest in Morocco is expected to decline by 20% for the 2026-2027 season, reaching approximately 1.8 million tons compared to 2.2 million last year. According to Maroc Citrus, this drop is due to extreme summer heat causing flowers and young fruit to drop. <span class=\"news-reason\">Major alert on volumes from a key competing origin for citrus, with precise production decline figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891133/citrus-harvest-forecast-to-fall-20-to-1-8-million-tons-in-morocco/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 20% ביבול ההדרים במרוקו -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">יבול ההדרים במרוקו צפוי לרדת ב-20% בעונת 2026-2027, ולעמוד על כ-1.8 מיליון טון לעומת 2.2 מיליון בשנה שעברה. על פי Maroc Citrus, הירידה נובעת מהחום הכבד בקיץ שגרם לנשירת פרחים ופירות צעירים. <span class=\"news-reason\">התראה משמעותית על כמויות ממקור מתחרה מרכזי להדרים, עם נתונים מדויקים על הירידה בייצור.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891133/citrus-harvest-forecast-to-fall-20-to-1-8-million-tons-in-morocco/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794317729_1",
+      "timestamp": "2026-11-10T13:35:29.111081+00:00",
+      "title": "Évolution des prix des fruits et légumes en Italie au 9 novembre -- 10/11/2026 06:00",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "ITA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Évolution des prix des fruits et légumes en Italie au 9 novembre -- <span class=\"news-date\">10/11/2026 06:00</span></div><div class=\"news-body\">Le marché italien entre dans la saison automnale avec des prix influencés par les températures plus froides qui soutiennent la demande de certains produits. Cependant, l&#x27;abondance de l&#x27;offre pèse sur les cours d&#x27;autres références en ce début novembre. <span class=\"news-reason\">Analyse de marché sur un territoire Mehadrin (Italie) mentionnant les tendances pour les produits de saison comme les clémentines.</span></div><div class=\"news-source\"><a href=\"https://www.freshpointmagazine.it/retail-marketing/gdo/andamento-prezzi-ortofrutta-in-italia-al-9-novembre-2026/\" target=\"_blank\">FreshPoint Magazine -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Evolution of fruit and vegetable prices in Italy as of November 9 -- <span class=\"news-date\">10/11/2026 06:00</span></div><div class=\"news-body\">The Italian market is entering the autumn season with prices influenced by colder temperatures that are supporting demand for certain products. However, the abundance of supply is weighing on prices for other references in early November. <span class=\"news-reason\">Market analysis in a Mehadrin territory (Italy) mentioning trends for seasonal products like clementines.</span></div><div class=\"news-source\"><a href=\"https://www.freshpointmagazine.it/retail-marketing/gdo/andamento-prezzi-ortofrutta-in-italia-al-9-novembre-2026/\" target=\"_blank\">FreshPoint Magazine -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מגמות מחירי הפירות והירקות באיטליה נכון ל-9 בנובמבר -- <span class=\"news-date\">10/11/2026 06:00</span></div><div class=\"news-body\">השוק האיטלקי נכנס לעונת הסתיו עם מחירים המושפעים מהטמפרטורות הקרות יותר התומכות בביקוש למוצרים מסוימים. עם זאת, שפע ההיצע מעיב על המחירים של מוצרים אחרים בתחילת נובמבר. <span class=\"news-reason\">ניתוח שוק באזור פעילות של מהדרין (איטליה) המציין מגמות עבור מוצרי עונה כגון קלמנטינות.</span></div><div class=\"news-source\"><a href=\"https://www.freshpointmagazine.it/retail-marketing/gdo/andamento-prezzi-ortofrutta-in-italia-al-9-novembre-2026/\" target=\"_blank\">FreshPoint Magazine -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794317729_0",
+      "timestamp": "2026-11-10T13:35:29.111081+00:00",
+      "title": "La demande d&#x27;avocats Hass marocains demeure modérée -- 10/11/2026 13:26",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La demande d&#x27;avocats Hass marocains demeure modérée -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">La campagne de l&#x27;avocat Hass marocain entre dans sa troisième semaine. Les prix sont comparables à ceux de l&#x27;année dernière, mais la demande reste timide, les acheteurs se montrant prudents en ce début de saison selon le PDG d&#x27;Export Optimum. <span class=\"news-reason\">Information directe sur le début de campagne, les prix et la demande d&#x27;un produit Mehadrin majeur (avocat Hass) dans une origine clé (Maroc).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891279/demand-for-moroccan-avocados-is-still-slow/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Demand for Moroccan Hass avocados remains moderate -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">The Moroccan Hass avocado season is entering its third week. Prices are comparable to last year, but demand remains sluggish, with buyers showing caution at the start of the season according to the CEO of Export Optimum. <span class=\"news-reason\">Direct information on the start of the season, prices, and demand for a major Mehadrin product (Hass avocado) in a key origin (Morocco).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891279/demand-for-moroccan-avocados-is-still-slow/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">הביקוש לאבוקדו האס מרוקאי נותר מתון -- <span class=\"news-date\">10/11/2026 13:26</span></div><div class=\"news-body\">עונת האבוקדו האס המרוקאי נכנסת לשבוע השלישי שלה. המחירים דומים לאלו של השנה שעברה, אך הביקוש נותר חלש, כאשר הקונים מגלים זהירות בתחילת העונה, כך לדברי מנכ\"ל Export Optimum. <span class=\"news-reason\">מידע ישיר על תחילת העונה, המחירים והביקוש למוצר מרכזי של מהדרין (אבוקדו האס) במקור מפתח (מרוקו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891279/demand-for-moroccan-avocados-is-still-slow/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1794312267_2",
       "timestamp": "2026-11-10T12:04:27.618514+00:00",
@@ -137,7 +344,7 @@
     {
       "id": "1794306834_2",
       "timestamp": "2026-11-10T10:33:54.783589+00:00",
-      "title": "L’entreprise espagnole Montosa vise un chiffre d’affaires de 350 millions d’euros à l’horizon 2030",
+      "title": "L’espagnol Montosa vise un chiffre d’affaires de 350 millions d’euros à l’horizon 2030",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -148,7 +355,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L’entreprise espagnole Montosa vise un chiffre d’affaires de 350 millions d’euros à l’horizon 2030 -- <span class=\"news-date\">10/11/2026 10:13</span></div><div class=\"news-body\">L&#x27;entreprise espagnole Montosa, basée à Malaga et spécialisée dans les fruits tropicaux, a annoncé son ambition d&#x27;atteindre un chiffre d&#x27;affaires de 350 millions d&#x27;euros d&#x27;ici 2030. Pour soutenir cette stratégie de croissance, la société a nommé Magali Barniol au poste de directrice générale en charge du développement commercial international. <span class=\"news-reason\">Annonce de résultats et d&#x27;objectifs de croissance d&#x27;un concurrent majeur de l&#x27;avocat en Espagne avec nomination d&#x27;une nouvelle direction.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891146/avocado-saison-startet-mit-guten-aussichten/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L’espagnol Montosa vise un chiffre d’affaires de 350 millions d’euros à l’horizon 2030 -- <span class=\"news-date\">10/11/2026 10:13</span></div><div class=\"news-body\">L&#x27;entreprise espagnole Montosa, basée à Malaga et spécialisée dans les fruits tropicaux, a annoncé son ambition d&#x27;atteindre un chiffre d&#x27;affaires de 350 millions d&#x27;euros d&#x27;ici 2030. Pour soutenir cette stratégie de croissance, la société a nommé Magali Barniol au poste de directrice générale en charge du développement commercial international. <span class=\"news-reason\">Annonce de résultats et d&#x27;objectifs de croissance d&#x27;un concurrent majeur de l&#x27;avocat en Espagne avec nomination d&#x27;une nouvelle direction.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891146/avocado-saison-startet-mit-guten-aussichten/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spanish company Montosa aims for a turnover of 350 million euros by 2030 -- <span class=\"news-date\">10/11/2026 10:13</span></div><div class=\"news-body\">The Spanish company Montosa, based in Malaga and specialized in tropical fruits, has announced its ambition to reach a turnover of 350 million euros by 2030. To support this growth strategy, the company has appointed Magali Barniol as General Manager in charge of international business development. <span class=\"news-reason\">Announcement of results and growth targets for a major avocado competitor in Spain with the appointment of new management.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891146/avocado-saison-startet-mit-guten-aussichten/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">החברה הספרדית Montosa שואפת למחזור מכירות של 350 מיליון אירו עד שנת 2030 -- <span class=\"news-date\">10/11/2026 10:13</span></div><div class=\"news-body\">החברה הספרדית Montosa, שבסיסה במאלגה והמתמחה בפירות טרופיים, הודיעה על שאיפתה להגיע למחזור מכירות של 350 מיליון אירו עד שנת 2030. כדי לתמוך באסטרטגיית צמיחה זו, מינתה החברה את מגאלי ברניול לתפקיד המנכ\"לית האחראית על הפיתוח העסקי הבינלאומי. <span class=\"news-reason\">הודעה על תוצאות ויעדי צמיחה של מתחרה מרכזי בתחום האבוקדו בספרד עם מינוי הנהלה חדשה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891146/avocado-saison-startet-mit-guten-aussichten/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
@@ -435,7 +642,7 @@
     {
       "id": "1794204138_0",
       "timestamp": "2026-11-09T06:02:18.623261+00:00",
-      "title": "Baisse de 10,6 % du prix des clémentines sur le marché italien",
+      "title": "Recul de 10,6 % du prix des clémentines sur le marché italien",
       "category": "PRIX &amp VOLUMES",
       "commercials": [],
       "products": [
@@ -444,7 +651,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse de 10,6 % du prix des clémentines sur le marché italien -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, les prix des clémentines sur le marché italien ont enregistré une baisse de 10,6 % en une semaine. Cette analyse hebdomadaire aide à orienter les achats des consommateurs vers des produits dont l&#x27;offre est abondante. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur la baisse des prix des clémentines en Italie durant la campagne actuelle.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890579/clementine-in-calo-del-10-6-per-cento-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul de 10,6 % du prix des clémentines sur le marché italien -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, les prix des clémentines sur le marché italien ont enregistré une baisse de 10,6 % en une semaine. Cette analyse hebdomadaire aide à orienter les achats des consommateurs vers des produits dont l&#x27;offre est abondante. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur la baisse des prix des clémentines en Italie durant la campagne actuelle.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890579/clementine-in-calo-del-10-6-per-cento-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">10.6% decline in clementine prices on the Italian market -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">According to data from BMTI and Italmercati, clementine prices on the Italian market recorded a 10.6% decrease in one week. This weekly analysis helps guide consumer purchases toward products with an abundant supply. <span class=\"news-reason\">The article provides precise figures on the drop in clementine prices in Italy during the current campaign.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890579/clementine-in-calo-del-10-6-per-cento-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 10.6% במחירי הקלמנטינות בשוק האיטלקי -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">לפי נתוני BMTI ו-Italmercati, מחירי הקלמנטינות בשוק האיטלקי רשמו ירידה של 10.6% בתוך שבוע. ניתוח שבועי זה עוזר לכוון את רכישות הצרכנים למוצרים שההיצע שלהם בשפע. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על ירידת מחירי הקלמנטינות באיטליה במהלך העונה הנוכחית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890579/clementine-in-calo-del-10-6-per-cento-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     }
