@@ -1,25 +1,62 @@
 {
-  "last_updated": "2026-11-10T10:33:54.783589+00:00",
-  "article_count": 18,
+  "last_updated": "2026-11-10T12:04:27.618514+00:00",
+  "article_count": 21,
   "attention_points": [
     {
-      "id": "attention-075e9386bd361ad4",
-      "article_id": "1794306834_2",
-      "url": "https://www.freshplaza.de/article/9891146/avocado-saison-startet-mit-guten-aussichten/",
-      "source": "FreshPlaza DE",
-      "title": "L’entreprise espagnole Montosa vise un chiffre d’affaires",
-      "summary": "Une entreprise nomme une nouvelle directrice générale afin de piloter son expansion commerciale",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-11-10T10:13:00+01:00",
+      "id": "attention-3e64b85a3e8f26a2",
+      "article_id": "1794312267_2",
+      "url": "https://www.fruchthandel.de/news/peruanische-mangos-zwischen-el-nino-und-der-konkurrenz-aus-brasilien",
+      "source": "Fruchthandel",
+      "title": "La menace d'El Niño et la concurrence brésilienne",
+      "summary": "Le phénomène El Niño et la concurrence brésilienne menacent la production de mangues péruviennes.",
+      "origin_code": "PER",
+      "origin_label": "Pérou",
+      "published_at": "2026-11-10T10:34:38+00:00",
+      "published_at_source": "rss",
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
+      "products": [
+        "mango"
+      ],
+      "age_hours": 1
+    },
+    {
+      "id": "attention-ccc2a12747277236",
+      "article_id": "1794312267_0",
+      "url": "https://www.freshpointmagazine.it/innovazione-e-ricerca/all-citrus-ai-energia-agrumi/",
+      "source": "FreshPoint Magazine",
+      "title": "All Citrus optimise sa consommation énergétique",
+      "summary": "Le distributeur italien All Citrus utilise l'intelligence artificielle pour optimiser tous ses coûts énergétiques.",
+      "origin_code": "ITA",
+      "origin_label": "Italie",
+      "published_at": "2026-11-10T09:32:41+00:00",
       "published_at_source": "rss",
       "signal_type": "information",
       "signal_label": "Information",
       "icon": "information",
+      "products": [],
+      "age_hours": 2
+    },
+    {
+      "id": "attention-a97421f198cb001a",
+      "article_id": "1794312267_1",
+      "url": "https://revistamercados.com/warakko-se-consolida-en-el-mercado-europeo/",
+      "source": "Revista Mercados",
+      "title": "L'espagnol WARAKKÓ renforce ses exportations d'avocats",
+      "summary": "La société malaguène WARAKKÓ consolide sa stratégie en Europe après une première campagne d'exportation.",
+      "origin_code": "FRA",
+      "origin_label": "France",
+      "published_at": "2026-11-10T07:00:09+00:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "volume",
       "products": [
-        "avocat"
+        "avocat",
+        "mango"
       ],
-      "age_hours": 1
+      "age_hours": 5
     },
     {
       "id": "attention-40212cc5a4347ba4",
@@ -38,52 +75,69 @@
       "products": [
         "sweet_potato"
       ],
-      "age_hours": 20
-    },
-    {
-      "id": "attention-354684b38b0e1187",
-      "article_id": "1794236667_3",
-      "url": "https://www.freshplaza.fr/article/9889560/malgre-les-pluies-dans-la-region-du-maule-et-la-greve-a-san-antonio-le-secteur-fruitier-chilien-s-attend-a-une-saison-stable/",
-      "source": "FreshPlaza FR",
-      "title": "Chili prévoit une saison fruitière stable malgré",
-      "summary": "Malgré les fortes pluies dans la région du Maule et les mouvements sociaux.",
-      "origin_code": "CHL",
-      "origin_label": "Chili",
-      "published_at": "2026-11-09T13:39:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 21
-    },
-    {
-      "id": "attention-f8f1a254b291b3a0",
-      "article_id": "1794231264_0",
-      "url": "https://www.freshplaza.fr/article/9890031/dans-l-ensemble-l-afrique-du-sud-a-encore-de-la-marge-pour-accroitre-sa-part-de-marche-dans-l-avocat/",
-      "source": "FreshPlaza FR",
-      "title": "L'Afrique du Sud achève ses exportations d'avocats",
-      "summary": "La période des exportations se termine au profit de la consommation locale.",
-      "origin_code": "ZAF",
-      "origin_label": "Afrique du Sud",
-      "published_at": "2026-11-09T13:39:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "volume",
-      "products": [
-        "avocat"
-      ],
       "age_hours": 21
     }
   ],
   "articles": [
     {
+      "id": "1794312267_2",
+      "timestamp": "2026-11-10T12:04:27.618514+00:00",
+      "title": "Mangues péruviennes : la menace d&#x27;El Niño et la concurrence brésilienne -- 10/11/2026 10:34",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [
+        "PER",
+        "BRA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Mangues péruviennes : la menace d&#x27;El Niño et la concurrence brésilienne -- <span class=\"news-date\">10/11/2026 10:34</span></div><div class=\"news-body\">La production de mangues au Pérou fait face à des prévisions alarmantes liées au phénomène El Niño, qui pourrait entraîner un événement climatique extrême dépassant les crises précédentes. En plus du climat, les exportateurs péruviens subissent la pression concurrentielle croissante du Brésil sur le marché international. <span class=\"news-reason\">Alerte sur la production de mangues au Pérou (origine Mehadrin) en raison du climat et de la concurrence.</span></div><div class=\"news-source\"><a href=\"https://www.fruchthandel.de/news/peruanische-mangos-zwischen-el-nino-und-der-konkurrenz-aus-brasilien\" target=\"_blank\">Fruchthandel -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Peruvian mangoes: the threat of El Niño and Brazilian competition -- <span class=\"news-date\">10/11/2026 10:34</span></div><div class=\"news-body\">Mango production in Peru faces alarming forecasts related to the El Niño phenomenon, which could lead to an extreme climate event exceeding previous crises. In addition to the climate, Peruvian exporters are facing increasing competitive pressure from Brazil in the international market. <span class=\"news-reason\">Alert on mango production in Peru (Mehadrin origin) due to climate and competition.</span></div><div class=\"news-source\"><a href=\"https://www.fruchthandel.de/news/peruanische-mangos-zwischen-el-nino-und-der-konkurrenz-aus-brasilien\" target=\"_blank\">Fruchthandel -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מנגו פרואני: איום ה\"אל ניניו\" והתחרות הברזילאית -- <span class=\"news-date\">10/11/2026 10:34</span></div><div class=\"news-body\">ייצור המנגו בפרו עומד בפני תחזיות מדאיגות הקשורות לתופעת אל ניניו, שעלולה להוביל לאירוע אקלימי קיצוני שיעלה על משברים קודמים. בנוסף לאקלים, יצואני המנגו הפרואנים נתונים ללחץ תחרותי גובר מצד ברזיל בשוק הבינלאומי. <span class=\"news-reason\">התראה על ייצור המנגו בפרו (מקור מהדרין) עקב האקלים והתחרות.</span></div><div class=\"news-source\"><a href=\"https://www.fruchthandel.de/news/peruanische-mangos-zwischen-el-nino-und-der-konkurrenz-aus-brasilien\" target=\"_blank\">Fruchthandel -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794312267_1",
+      "timestamp": "2026-11-10T12:04:27.618514+00:00",
+      "title": "L&#x27;espagnol WARAKKÓ renforce ses exportations d&#x27;avocats et de mangues -- 10/11/2026 07:00",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat",
+        "mango"
+      ],
+      "origins": [
+        "FRA",
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;espagnol WARAKKÓ renforce ses exportations d&#x27;avocats et de mangues -- <span class=\"news-date\">10/11/2026 07:00</span></div><div class=\"news-body\">La société malaguène WARAKKÓ consolide sa stratégie en Europe après une première campagne d&#x27;exportation réussie. L&#x27;entreprise a débuté ses envois d&#x27;avocats et de mangues vers la France et la Belgique, des marchés prioritaires malgré une forte concurrence sectorielle constatée par la direction. <span class=\"news-reason\">Expansion d&#x27;un concurrent espagnol direct sur les marchés français et belge pour l&#x27;avocat et la mangue.</span></div><div class=\"news-source\"><a href=\"https://revistamercados.com/warakko-se-consolida-en-el-mercado-europeo/\" target=\"_blank\">Revista Mercados -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Spanish company WARAKKÓ strengthens its avocado and mango exports -- <span class=\"news-date\">10/11/2026 07:00</span></div><div class=\"news-body\">The Malaga-based company WARAKKÓ is consolidating its strategy in Europe after a successful first export campaign. The company has begun shipping avocados and mangoes to France and Belgium, priority markets despite strong sectoral competition noted by management. <span class=\"news-reason\">Expansion of a direct Spanish competitor in the French and Belgian markets for avocados and mangoes.</span></div><div class=\"news-source\"><a href=\"https://revistamercados.com/warakko-se-consolida-en-el-mercado-europeo/\" target=\"_blank\">Revista Mercados -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">WARAKKÓ הספרדית מחזקת את ייצוא האבוקדו והמנגו שלה -- <span class=\"news-date\">10/11/2026 07:00</span></div><div class=\"news-body\">חברת WARAKKÓ ממלאגה מבססת את האסטרטגיה שלה באירופה לאחר עונת ייצוא ראשונה מוצלחת. החברה החלה במשלוחי אבוקדו ומנגו לצרפת ולבלגיה, שווקים בעדיפות עליונה למרות תחרות ענפית עזה שזיהתה ההנהלה. <span class=\"news-reason\">התרחבות של מתחרה ספרדי ישיר בשווקי צרפת ובלגיה עבור אבוקדו ומנגו.</span></div><div class=\"news-source\"><a href=\"https://revistamercados.com/warakko-se-consolida-en-el-mercado-europeo/\" target=\"_blank\">Revista Mercados -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794312267_0",
+      "timestamp": "2026-11-10T12:04:27.618514+00:00",
+      "title": "All Citrus investit dans l&#x27;IA au service de l&#x27;efficacité énergétique -- 10/11/2026 09:32",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "ITA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">All Citrus investit dans l&#x27;IA au service de l&#x27;efficacité énergétique -- <span class=\"news-date\">10/11/2026 09:32</span></div><div class=\"news-body\">L&#x27;entreprise italienne All Citrus, spécialisée dans le conditionnement et la distribution d&#x27;agrumes pour la grande distribution, collabore avec le projet TalentOn. Cette initiative vise à intégrer l&#x27;intelligence artificielle pour optimiser la consommation d&#x27;énergie au sein de ses infrastructures logistiques. <span class=\"news-reason\">Entreprise italienne spécialisée dans les agrumes optimisant ses coûts de distribution.</span></div><div class=\"news-source\"><a href=\"https://www.freshpointmagazine.it/innovazione-e-ricerca/all-citrus-ai-energia-agrumi/\" target=\"_blank\">FreshPoint Magazine -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">All Citrus invests in AI for energy efficiency -- <span class=\"news-date\">10/11/2026 09:32</span></div><div class=\"news-body\">The Italian company All Citrus, specialized in the packaging and distribution of citrus fruits for large-scale retail, is collaborating with the TalentOn project. This initiative aims to integrate artificial intelligence to optimize energy consumption within its logistics infrastructure. <span class=\"news-reason\">Italian company specialized in citrus fruits optimizing its distribution costs.</span></div><div class=\"news-source\"><a href=\"https://www.freshpointmagazine.it/innovazione-e-ricerca/all-citrus-ai-energia-agrumi/\" target=\"_blank\">FreshPoint Magazine -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות שיווק</div><div class=\"news-title\">All Citrus משקיעה בבינה מלאכותית לטובת התייעלות אנרגטית -- <span class=\"news-date\">10/11/2026 09:32</span></div><div class=\"news-body\">החברה האיטלקית All Citrus, המתמחה באריזה והפצה של פירות הדר עבור הקמעונאות הגדולה, משתפת פעולה עם פרויקט TalentOn. יוזמה זו נועדה לשלב בינה מלאכותית כדי לייעל את צריכת האנרגיה בתוך התשתיות הלוגיסטיות שלה. <span class=\"news-reason\">חברה איטלקית המתמחה בהדרים המייעלת את עלויות ההפצה שלה.</span></div><div class=\"news-source\"><a href=\"https://www.freshpointmagazine.it/innovazione-e-ricerca/all-citrus-ai-energia-agrumi/\" target=\"_blank\">FreshPoint Magazine -- לקריאת הכתבה</a></div></div>"
+    },
+    {
       "id": "1794306834_2",
       "timestamp": "2026-11-10T10:33:54.783589+00:00",
-      "title": "L’entreprise espagnole Montosa vise un chiffre d’affaires de 350 millions d’euros d’ici 2030",
+      "title": "L’entreprise espagnole Montosa vise un chiffre d’affaires de 350 millions d’euros à l’horizon 2030",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -94,7 +148,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L’entreprise espagnole Montosa vise un chiffre d’affaires de 350 millions d’euros d’ici 2030 -- <span class=\"news-date\">10/11/2026 10:13</span></div><div class=\"news-body\">L&#x27;entreprise espagnole Montosa, basée à Malaga et spécialisée dans les fruits tropicaux, a annoncé son ambition d&#x27;atteindre un chiffre d&#x27;affaires de 350 millions d&#x27;euros d&#x27;ici 2030. Pour soutenir cette stratégie de croissance, la société a nommé Magali Barniol au poste de directrice générale en charge du développement commercial international. <span class=\"news-reason\">Annonce de résultats et d&#x27;objectifs de croissance d&#x27;un concurrent majeur de l&#x27;avocat en Espagne avec nomination d&#x27;une nouvelle direction.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891146/avocado-saison-startet-mit-guten-aussichten/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L’entreprise espagnole Montosa vise un chiffre d’affaires de 350 millions d’euros à l’horizon 2030 -- <span class=\"news-date\">10/11/2026 10:13</span></div><div class=\"news-body\">L&#x27;entreprise espagnole Montosa, basée à Malaga et spécialisée dans les fruits tropicaux, a annoncé son ambition d&#x27;atteindre un chiffre d&#x27;affaires de 350 millions d&#x27;euros d&#x27;ici 2030. Pour soutenir cette stratégie de croissance, la société a nommé Magali Barniol au poste de directrice générale en charge du développement commercial international. <span class=\"news-reason\">Annonce de résultats et d&#x27;objectifs de croissance d&#x27;un concurrent majeur de l&#x27;avocat en Espagne avec nomination d&#x27;une nouvelle direction.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891146/avocado-saison-startet-mit-guten-aussichten/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spanish company Montosa aims for a turnover of 350 million euros by 2030 -- <span class=\"news-date\">10/11/2026 10:13</span></div><div class=\"news-body\">The Spanish company Montosa, based in Malaga and specialized in tropical fruits, has announced its ambition to reach a turnover of 350 million euros by 2030. To support this growth strategy, the company has appointed Magali Barniol as General Manager in charge of international business development. <span class=\"news-reason\">Announcement of results and growth targets for a major avocado competitor in Spain with the appointment of new management.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891146/avocado-saison-startet-mit-guten-aussichten/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">החברה הספרדית Montosa שואפת למחזור מכירות של 350 מיליון אירו עד שנת 2030 -- <span class=\"news-date\">10/11/2026 10:13</span></div><div class=\"news-body\">החברה הספרדית Montosa, שבסיסה במאלגה והמתמחה בפירות טרופיים, הודיעה על שאיפתה להגיע למחזור מכירות של 350 מיליון אירו עד שנת 2030. כדי לתמוך באסטרטגיית צמיחה זו, מינתה החברה את מגאלי ברניול לתפקיד המנכ\"לית האחראית על הפיתוח העסקי הבינלאומי. <span class=\"news-reason\">הודעה על תוצאות ויעדי צמיחה של מתחרה מרכזי בתחום האבוקדו בספרד עם מינוי הנהלה חדשה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891146/avocado-saison-startet-mit-guten-aussichten/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
@@ -381,7 +435,7 @@
     {
       "id": "1794204138_0",
       "timestamp": "2026-11-09T06:02:18.623261+00:00",
-      "title": "Recul de 10,6 % du prix des clémentines sur le marché italien",
+      "title": "Baisse de 10,6 % du prix des clémentines sur le marché italien",
       "category": "PRIX &amp VOLUMES",
       "commercials": [],
       "products": [
@@ -390,7 +444,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul de 10,6 % du prix des clémentines sur le marché italien -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, les prix des clémentines sur le marché italien ont enregistré une baisse de 10,6 % en une semaine. Cette analyse hebdomadaire aide à orienter les achats des consommateurs vers des produits dont l&#x27;offre est abondante. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur la baisse des prix des clémentines en Italie durant la campagne actuelle.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890579/clementine-in-calo-del-10-6-per-cento-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse de 10,6 % du prix des clémentines sur le marché italien -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, les prix des clémentines sur le marché italien ont enregistré une baisse de 10,6 % en une semaine. Cette analyse hebdomadaire aide à orienter les achats des consommateurs vers des produits dont l&#x27;offre est abondante. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur la baisse des prix des clémentines en Italie durant la campagne actuelle.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890579/clementine-in-calo-del-10-6-per-cento-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">10.6% decline in clementine prices on the Italian market -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">According to data from BMTI and Italmercati, clementine prices on the Italian market recorded a 10.6% decrease in one week. This weekly analysis helps guide consumer purchases toward products with an abundant supply. <span class=\"news-reason\">The article provides precise figures on the drop in clementine prices in Italy during the current campaign.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890579/clementine-in-calo-del-10-6-per-cento-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 10.6% במחירי הקלמנטינות בשוק האיטלקי -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">לפי נתוני BMTI ו-Italmercati, מחירי הקלמנטינות בשוק האיטלקי רשמו ירידה של 10.6% בתוך שבוע. ניתוח שבועי זה עוזר לכוון את רכישות הצרכנים למוצרים שההיצע שלהם בשפע. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על ירידת מחירי הקלמנטינות באיטליה במהלך העונה הנוכחית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890579/clementine-in-calo-del-10-6-per-cento-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     }
