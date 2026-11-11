@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-11T15:04:46.984094+00:00",
-  "article_count": 50,
+  "last_updated": "2026-11-11T16:34:37.781587+00:00",
+  "article_count": 52,
   "attention_points": [
+    {
+      "id": "attention-1119ca2a65579abd",
+      "article_id": "1794414877_1",
+      "url": "https://www.freshplaza.es/article/9891366/imposible-competir-a-nivel-de-precios-con-paises-donde-la-produccion-se-realiza-a-mayor-escala/",
+      "source": "FreshPlaza ES",
+      "title": "Production belge de patates douces freinée",
+      "summary": "La concurrence internationale et les coûts de récolte freinent la production de patates douces.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-11-11T15:51:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "sweet_potato"
+      ],
+      "age_hours": 1
+    },
     {
       "id": "attention-babef23b45ef8bdc",
       "article_id": "1794404100_0",
@@ -19,7 +38,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 1
+      "age_hours": 3
     },
     {
       "id": "attention-774745715946bcba",
@@ -38,24 +57,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-de5d667d891312d7",
-      "article_id": "1794404100_7",
-      "url": "https://www.freshplaza.fr/article/9890096/clasol-augmente-sa-production-d-agrumes-de-pres-de-800-hectares/",
-      "source": "FreshPlaza FR",
-      "title": "Clasol étend ses surfaces d'agrumes espagnols",
-      "summary": "Une expansion de huit cents hectares renforce la production d'agrumes de l'entreprise Clasol",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-11-11T13:47:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [],
-      "age_hours": 2
+      "age_hours": 3
     },
     {
       "id": "attention-7c44926beb545338",
@@ -74,10 +76,45 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 8
+      "age_hours": 9
     }
   ],
   "articles": [
+    {
+      "id": "1794414877_1",
+      "timestamp": "2026-11-11T16:34:37.781587+00:00",
+      "title": "La production belge de patates douces freinée par la concurrence internationale -- 11/11/2026 15:51",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "sweet_potato"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La production belge de patates douces freinée par la concurrence internationale -- <span class=\"news-date\">11/11/2026 15:51</span></div><div class=\"news-body\">La culture de la patate douce en Belgique reste un défi majeur face à la concurrence des pays produisant à grande échelle avec des coûts inférieurs. L’entreprise De Aardappelhoeve souligne que la récolte intensive et les coûts de main-d’œuvre limitent l&#x27;expansion du secteur belge par rapport aux importations. <span class=\"news-reason\">Analyse du marché européen de la patate douce et des difficultés de production locale face aux grands exportateurs.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9891366/imposible-competir-a-nivel-de-precios-con-paises-donde-la-produccion-se-realiza-a-mayor-escala/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Belgian sweet potato production slowed by international competition -- <span class=\"news-date\">11/11/2026 15:51</span></div><div class=\"news-body\">Sweet potato cultivation in Belgium remains a major challenge in the face of competition from countries producing on a large scale with lower costs. The company De Aardappelhoeve highlights that intensive harvesting and labor costs limit the expansion of the Belgian sector compared to imports. <span class=\"news-reason\">Analysis of the European sweet potato market and local production difficulties in the face of major exporters.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9891366/imposible-competir-a-nivel-de-precios-con-paises-donde-la-produccion-se-realiza-a-mayor-escala/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">ייצור הבטטות בבלגיה נבלם בשל התחרות הבינלאומית -- <span class=\"news-date\">11/11/2026 15:51</span></div><div class=\"news-body\">גידול הבטטה בבלגיה נותר אתגר מרכזי מול תחרות מצד מדינות המייצרות בקנה מידה גדול ובעלויות נמוכות יותר. חברת De Aardappelhoeve מדגישה כי הקטיף האינטנסיבי ועלויות העבודה מגבילים את התרחבות המגזר הבלגי בהשוואה ליבוא. <span class=\"news-reason\">ניתוח של שוק הבטטות האירופי וקשיי הייצור המקומי מול היצואנים הגדולים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9891366/imposible-competir-a-nivel-de-precios-con-paises-donde-la-produccion-se-realiza-a-mayor-escala/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794414877_0",
+      "timestamp": "2026-11-11T16:34:37.781587+00:00",
+      "title": "Impact des aléas climatiques et de la concurrence brésilienne sur les mangues du Pérou -- 11/11/2026 13:38",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [
+        "PER",
+        "BRA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact des aléas climatiques et de la concurrence brésilienne sur les mangues du Pérou -- <span class=\"news-date\">11/11/2026 13:38</span></div><div class=\"news-body\">L&#x27;expert agricole Jim Ruiz avertit que plus de 90 % de la récolte de mangues péruviennes est encore aux champs. Des précipitations inhabituelles à Piura, dépassant 70 mm, combinées à la pression concurrentielle du Brésil, font peser des risques importants sur les projections de la saison 2026/27. <span class=\"news-reason\">Informations sur les risques climatiques (pluies) et la concurrence du Brésil pour la campagne de mangues péruviennes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891512/an-expert-warns-brazil-poses-a-greater-threat-to-peruvian-mangoes-than-el-nino/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Impact of climate hazards and Brazilian competition on Peruvian mangoes -- <span class=\"news-date\">11/11/2026 13:38</span></div><div class=\"news-body\">Agricultural expert Jim Ruiz warns that more than 90% of the Peruvian mango harvest is still in the fields. Unusual rainfall in Piura, exceeding 70 mm, combined with competitive pressure from Brazil, poses significant risks to the 2026/27 season projections. <span class=\"news-reason\">Information on climate risks (rain) and competition from Brazil for the Peruvian mango season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891512/an-expert-warns-brazil-poses-a-greater-threat-to-peruvian-mangoes-than-el-nino/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השפעת פגעי האקלים והתחרות הברזילאית על המנגו מפרו -- <span class=\"news-date\">11/11/2026 13:38</span></div><div class=\"news-body\">המומחה החקלאי ג'ים רואיז מזהיר כי יותר מ-90% מיבול המנגו הפרואני עדיין נמצא בשדות. משקעים חריגים בפיורה, העולים על 70 מ\"מ, בשילוב עם לחץ התחרות מברזיל, מציבים סיכונים משמעותיים לתחזיות עונת 2026/27. <span class=\"news-reason\">מידע על סיכוני אקלים (גשמים) והתחרות מברזיל עבור עונת המנגו הפרואני.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9891512/an-expert-warns-brazil-poses-a-greater-threat-to-peruvian-mangoes-than-el-nino/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1794409486_2",
       "timestamp": "2026-11-11T15:04:46.984094+00:00",
@@ -941,7 +978,7 @@
     {
       "id": "1794204138_0",
       "timestamp": "2026-11-09T06:02:18.623261+00:00",
-      "title": "Le prix des clémentines chute de 10,6 % sur le marché italien",
+      "title": "Baisse de 10,6 % du prix des clémentines sur le marché italien",
       "category": "PRIX &amp VOLUMES",
       "commercials": [],
       "products": [
@@ -950,7 +987,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le prix des clémentines chute de 10,6 % sur le marché italien -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, les prix des clémentines sur le marché italien ont enregistré une baisse de 10,6 % en une semaine. Cette analyse hebdomadaire aide à orienter les achats des consommateurs vers des produits dont l&#x27;offre est abondante. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur la baisse des prix des clémentines en Italie durant la campagne actuelle.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890579/clementine-in-calo-del-10-6-per-cento-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse de 10,6 % du prix des clémentines sur le marché italien -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">Selon les données de BMTI et Italmercati, les prix des clémentines sur le marché italien ont enregistré une baisse de 10,6 % en une semaine. Cette analyse hebdomadaire aide à orienter les achats des consommateurs vers des produits dont l&#x27;offre est abondante. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur la baisse des prix des clémentines en Italie durant la campagne actuelle.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890579/clementine-in-calo-del-10-6-per-cento-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">10.6% decline in clementine prices on the Italian market -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">According to data from BMTI and Italmercati, clementine prices on the Italian market recorded a 10.6% decrease in one week. This weekly analysis helps guide consumer purchases toward products with an abundant supply. <span class=\"news-reason\">The article provides precise figures on the drop in clementine prices in Italy during the current campaign.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890579/clementine-in-calo-del-10-6-per-cento-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 10.6% במחירי הקלמנטינות בשוק האיטלקי -- <span class=\"news-date\">09/11/2026 06:00</span></div><div class=\"news-body\">לפי נתוני BMTI ו-Italmercati, מחירי הקלמנטינות בשוק האיטלקי רשמו ירידה של 10.6% בתוך שבוע. ניתוח שבועי זה עוזר לכוון את רכישות הצרכנים למוצרים שההיצע שלהם בשפע. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על ירידת מחירי הקלמנטינות באיטליה במהלך העונה הנוכחית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890579/clementine-in-calo-del-10-6-per-cento-in-una-settimana/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     }
