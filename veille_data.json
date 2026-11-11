@@ -1,5 +1,5 @@
 {
-  "last_generated": "2026-11-11T10:33:20.601754+00:00",
+  "last_generated": "2026-11-11T12:03:44.257048+00:00",
   "articles": [
     {
       "id": "1794393200_0",
@@ -1542,7 +1542,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-fce274533d1523db",
@@ -1561,7 +1561,7 @@
       "products": [
         "date"
       ],
-      "age_hours": 3
+      "age_hours": 5
     },
     {
       "id": "attention-839bd8d61b4d0914",
@@ -1580,7 +1580,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 5
+      "age_hours": 7
     },
     {
       "id": "attention-3d71edcab0542206",
@@ -1597,7 +1597,7 @@
       "signal_label": "Alerte",
       "icon": "alert",
       "products": [],
-      "age_hours": 22
+      "age_hours": 23
     }
   ]
 }
