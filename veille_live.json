@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12T13:36:00.562554+00:00",
-  "article_count": 64,
+  "last_updated": "2026-11-12T15:06:38.290701+00:00",
+  "article_count": 61,
   "attention_points": [
     {
       "id": "attention-0a1caa4f514ae12c",
@@ -19,7 +19,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-b27330f6ed70504f",
@@ -38,7 +38,24 @@
       "products": [
         "pomegranate"
       ],
-      "age_hours": 0
+      "age_hours": 2
+    },
+    {
+      "id": "attention-419190282bef496d",
+      "article_id": "1794495998_3",
+      "url": "https://www.freshplaza.com/article/9892041/texas-citrus-shipments-drop-to-80-445-cartons-from-219-613-last-season/",
+      "source": "FreshPlaza",
+      "title": "Baisse des volumes d'agrumes au Texas",
+      "summary": "La sécheresse réduit fortement les volumes d'agrumes expédiés par les producteurs du Texas",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-11-12T13:37:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
+      "products": [],
+      "age_hours": 2
     },
     {
       "id": "attention-7ed79e0b147d53eb",
@@ -57,29 +74,76 @@
       "products": [
         "date"
       ],
-      "age_hours": 0
-    },
-    {
-      "id": "attention-7d4dde9f3bd3c9ee",
-      "article_id": "1794485083_3",
-      "url": "https://www.freshplaza.de/article/9891937/lieferunterbrechungen-bei-avocados-konnten-die-konsolidierung-der-branche-beschleunigen/",
-      "source": "FreshPlaza DE",
-      "title": "Mexique : les grèves pourraient accélérer la consolidation",
-      "summary": "Les mouvements sociaux entraînent une hausse des prix mondiaux du fruit",
-      "origin_code": "MEX",
-      "origin_label": "Mexique",
-      "published_at": "2026-11-12T10:38:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 3
+      "age_hours": 2
     }
   ],
   "articles": [
+    {
+      "id": "1794495998_5",
+      "timestamp": "2026-11-12T15:06:38.290701+00:00",
+      "title": "L&#x27;industrie colombienne des agrumes confrontée à une perte de compétitivité -- 09/11/2026 08:00",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "COL"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;industrie colombienne des agrumes confrontée à une perte de compétitivité -- <span class=\"news-date\">09/11/2026 08:00</span></div><div class=\"news-body\">La filière agrumicole colombienne traverse une crise due à l&#x27;appréciation du peso et à la hausse des coûts de main-d&#x27;œuvre. L&#x27;instauration potentielle d&#x27;une taxe de 19 % sur les produits agricoles aggrave les difficultés commerciales du secteur. <span class=\"news-reason\">L&#x27;article traite des agrumes en Colombie, une origine Mehadrin, et mentionne des chiffres liés aux coûts et taxes.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/09/colombian-citrus-woes/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Colombian citrus industry facing a loss of competitiveness -- <span class=\"news-date\">09/11/2026 08:00</span></div><div class=\"news-body\">The Colombian citrus sector is going through a crisis due to the appreciation of the peso and rising labor costs. The potential introduction of a 19% tax on agricultural products exacerbates the sector&#x27;s commercial difficulties. <span class=\"news-reason\">The article deals with citrus in Colombia, a Mehadrin origin, and mentions figures related to costs and taxes.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/09/colombian-citrus-woes/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">תעשיית ההדרים בקולומביה מתמודדת עם אובדן כושר התחרות -- <span class=\"news-date\">09/11/2026 08:00</span></div><div class=\"news-body\">ענף ההדרים בקולומביה חווה משבר עקב התחזקות הפסו ועלייה בעלויות העבודה. הטלה פוטנציאלית של מס בגובה 19% על מוצרים חקלאיים מחמירה את הקשיים המסחריים במגזר. <span class=\"news-reason\">המאמר עוסק בהדרים בקולומביה, מקור של מהדרין, ומציין נתונים הקשורים לעלויות ומיסים.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/09/colombian-citrus-woes/\" target=\"_blank\">Fresh Fruit Portal -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794495998_4",
+      "timestamp": "2026-11-12T15:06:38.290701+00:00",
+      "title": "Les avocats grecs face à la concurrence de l’offre israélienne à bas prix -- 12/11/2026 12:08",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ISR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Les avocats grecs face à la concurrence de l’offre israélienne à bas prix -- <span class=\"news-date\">12/11/2026 12:08</span></div><div class=\"news-body\">Le début de campagne des avocats grecs de Crète, notamment les variétés Zutano et Ettinger, est perturbé par une forte présence de produits israéliens. La disponibilité abondante d&#x27;avocats d&#x27;Israël à bas prix sature le marché et exerce une pression sur les prix de vente grecs avant Noël. <span class=\"news-reason\">Analyse de la concurrence directe entre les avocats grecs (Zutano, Ettinger) et l&#x27;origine Israël sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9891406/zutano-ettinger-en-bacon-vroege-kretenzer-avocado-s-moeten-voor-kerst-van-de-boom/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Greek avocados face competition from low-priced Israeli supply -- <span class=\"news-date\">12/11/2026 12:08</span></div><div class=\"news-body\">The start of the Greek avocado campaign from Crete, particularly the Zutano and Ettinger varieties, is disrupted by a strong presence of Israeli products. The abundant availability of low-priced avocados from Israel is saturating the market and putting pressure on Greek selling prices before Christmas. <span class=\"news-reason\">Analysis of direct competition between Greek avocados (Zutano, Ettinger) and the Israeli origin on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9891406/zutano-ettinger-en-bacon-vroege-kretenzer-avocado-s-moeten-voor-kerst-van-de-boom/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">האבוקדו היווני מתמודד עם תחרות מצד ההיצע הישראלי במחירים נמוכים -- <span class=\"news-date\">12/11/2026 12:08</span></div><div class=\"news-body\">תחילת עונת האבוקדו היווני מכרתים, במיוחד הזנים זוטאנו ואטינגר, משתבשת עקב נוכחות חזקה של מוצרים ישראליים. הזמינות השופעת של אבוקדו מישראל במחירים נמוכים מציפה את השוק ומפעילה לחץ על מחירי המכירה היווניים לפני חג המולד. <span class=\"news-reason\">ניתוח התחרות הישירה בין האבוקדו היווני (זוטאנו, אטינגר) למקור הישראלי בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9891406/zutano-ettinger-en-bacon-vroege-kretenzer-avocado-s-moeten-voor-kerst-van-de-boom/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794495998_3",
+      "timestamp": "2026-11-12T15:06:38.290701+00:00",
+      "title": "Baisse des volumes d&#x27;agrumes au Texas en raison de la sécheresse -- 12/11/2026 13:37",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse des volumes d&#x27;agrumes au Texas en raison de la sécheresse -- <span class=\"news-date\">12/11/2026 13:37</span></div><div class=\"news-body\">La récolte d&#x27;agrumes 2026-2027 au Texas enregistre un retard important avec seulement 80 445 cartons expédiés contre 219 613 la saison passée. Cette baisse est causée par une sécheresse prolongée et des températures records qui ont limité le calibre des fruits. <span class=\"news-reason\">Information chiffrée sur la baisse de production d&#x27;un pays concurrent sur le segment des agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9892041/texas-citrus-shipments-drop-to-80-445-cartons-from-219-613-last-season/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Decrease in citrus volumes in Texas due to drought -- <span class=\"news-date\">12/11/2026 13:37</span></div><div class=\"news-body\">The 2026-2027 citrus harvest in Texas is recording a significant delay with only 80,445 cartons shipped compared to 219,613 last season. This decrease is caused by a prolonged drought and record temperatures that limited fruit size. <span class=\"news-reason\">Quantified information on the production decline of a competing country in the citrus segment.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9892041/texas-citrus-shipments-drop-to-80-445-cartons-from-219-613-last-season/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה בכמויות ההדרים בטקסס עקב הבצורת -- <span class=\"news-date\">12/11/2026 13:37</span></div><div class=\"news-body\">קטיף ההדרים 2026-2027 בטקסס רושם עיכוב משמעותי עם 80,445 קרטונים בלבד שנשלחו לעומת 219,613 בעונה שעברה. ירידה זו נגרמה עקב בצורת ממושכת וטמפרטורות שיא שהגבילו את גודל הפירות. <span class=\"news-reason\">מידע מספרי על הירידה בייצור של מדינה מתחרה במגזר ההדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9892041/texas-citrus-shipments-drop-to-80-445-cartons-from-219-613-last-season/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794495998_0",
+      "timestamp": "2026-11-12T15:06:38.290701+00:00",
+      "title": "Intensification de la concurrence sur le marché des agrumes aux États-Unis face aux défis de la Californie -- 12/11/2026 13:37",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Intensification de la concurrence sur le marché des agrumes aux États-Unis face aux défis de la Californie -- <span class=\"news-date\">12/11/2026 13:37</span></div><div class=\"news-body\">La saison des agrumes en Californie a débuté exceptionnellement tôt en septembre. Toutefois, peu de vergers étaient prêts, créant des défis d&#x27;exportation alors que les fournisseurs étrangers ciblent le marché américain. <span class=\"news-reason\">L&#x27;article traite de la précocité de la récolte des oranges Navel en Californie et de la concurrence internationale, ce qui influence l&#x27;équilibre mondial du marché des agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9892126/foreign-citrus-suppliers-target-u-s-market-while-california-growers-face-export-challenges/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Intensification of competition in the US citrus market facing California&#x27;s challenges -- <span class=\"news-date\">12/11/2026 13:37</span></div><div class=\"news-body\">The citrus season in California began exceptionally early in September. However, few orchards were ready, creating export challenges as foreign suppliers target the American market. <span class=\"news-reason\">The article discusses the early harvest of Navel oranges in California and international competition, which influences the global balance of the citrus market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9892126/foreign-citrus-suppliers-target-u-s-market-while-california-growers-face-export-challenges/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">התגברות התחרות בשוק ההדרים בארצות הברית אל מול האתגרים בקליפורניה -- <span class=\"news-date\">12/11/2026 13:37</span></div><div class=\"news-body\">עונת ההדרים בקליפורניה החלה מוקדם מהרגיל בחודש ספטמבר. עם זאת, מעט פרדסים היו מוכנים, מה שיצר אתגרי ייצוא בעוד ספקים זרים מכוונים לשוק האמריקאי. <span class=\"news-reason\">המאמר עוסק בהקדמת קטיף תפוזי הטבור (Navel) בקליפורניה ובתחרות הבינלאומית, המשפיעה על המאזן העולמי של שוק ההדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9892126/foreign-citrus-suppliers-target-u-s-market-while-california-growers-face-export-challenges/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1794490560_9",
       "timestamp": "2026-11-12T13:36:00.562554+00:00",
@@ -185,7 +249,7 @@
     {
       "id": "1794490560_2",
       "timestamp": "2026-11-12T13:36:00.562554+00:00",
-      "title": "La demande européenne pour les avocats Hass marocains reste faible",
+      "title": "La demande européenne pour les avocats Hass marocains demeure faible",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -196,7 +260,7 @@
       "origins": [
         "MAR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La demande européenne pour les avocats Hass marocains reste faible -- <span class=\"news-date\">12/11/2026 10:38</span></div><div class=\"news-body\">En cette troisième semaine de campagne, les exportateurs marocains constatent que les prix des avocats Hass stagnent au niveau de l&#x27;an dernier car les acheteurs européens se montrent prudents. <span class=\"news-reason\">Info prix et demande en saison pour l&#x27;avocat Hass du Maroc, origine et produit prioritaires.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891414/die-nachfrage-nach-marokkanischen-avocados-ist-nach-wie-vor-schleppend/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La demande européenne pour les avocats Hass marocains demeure faible -- <span class=\"news-date\">12/11/2026 10:38</span></div><div class=\"news-body\">En cette troisième semaine de campagne, les exportateurs marocains constatent que les prix des avocats Hass stagnent au niveau de l&#x27;an dernier car les acheteurs européens se montrent prudents. <span class=\"news-reason\">Info prix et demande en saison pour l&#x27;avocat Hass du Maroc, origine et produit prioritaires.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891414/die-nachfrage-nach-marokkanischen-avocados-ist-nach-wie-vor-schleppend/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">European demand for Moroccan Hass avocados remains weak -- <span class=\"news-date\">12/11/2026 10:38</span></div><div class=\"news-body\">In this third week of the campaign, Moroccan exporters note that Hass avocado prices are stagnating at last year&#x27;s level as European buyers remain cautious. <span class=\"news-reason\">Price and demand information during the season for Moroccan Hass avocados, priority origin and product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891414/die-nachfrage-nach-marokkanischen-avocados-ist-nach-wie-vor-schleppend/\" target=\"_blank\">FreshPlaza DE -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">הביקוש האירופי לאבוקדו האס ממרוקו נותר נמוך -- <span class=\"news-date\">12/11/2026 10:38</span></div><div class=\"news-body\">בשבוע השלישי של העונה, היצואנים המרוקאים מבחינים כי מחירי אבוקדו האס קופאים על רמתם מהשנה שעברה מכיוון שהקונים האירופים מגלים זהירות. <span class=\"news-reason\">מידע על מחירים וביקוש בעונה עבור אבוקדו האס ממרוקו, מקור ומוצר בעדיפות גבוהה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891414/die-nachfrage-nach-marokkanischen-avocados-ist-nach-wie-vor-schleppend/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -259,7 +323,7 @@
     {
       "id": "1794485083_4",
       "timestamp": "2026-11-12T12:04:43.318810+00:00",
-      "title": "Espagne : la récolte de mangues dépasse les prévisions avec 40 000 tonnes",
+      "title": "Espagne : la production de mangues dépasse les prévisions avec 40 000 tonnes",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -270,7 +334,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la récolte de mangues dépasse les prévisions avec 40 000 tonnes -- <span class=\"news-date\">12/11/2026 10:38</span></div><div class=\"news-body\">L&#x27;Espagne a récolté plus de 40 000 tonnes de mangues lors de la saison 2026, selon l&#x27;Association Espagnole des Fruits Tropicaux (AET). Ce volume dépasse les estimations initiales de plus de 10 000 tonnes, malgré les contraintes climatiques subies par les 500 producteurs de l&#x27;organisation. <span class=\"news-reason\">Volumes de production réels pour un produit Mehadrin chez un concurrent direct.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891516/mango-ernte-ubertraf-die-ursprungliche-schatzung/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production de mangues dépasse les prévisions avec 40 000 tonnes -- <span class=\"news-date\">12/11/2026 10:38</span></div><div class=\"news-body\">L&#x27;Espagne a récolté plus de 40 000 tonnes de mangues lors de la saison 2026, selon l&#x27;Association Espagnole des Fruits Tropicaux (AET). Ce volume dépasse les estimations initiales de plus de 10 000 tonnes, malgré les contraintes climatiques subies par les 500 producteurs de l&#x27;organisation. <span class=\"news-reason\">Volumes de production réels pour un produit Mehadrin chez un concurrent direct.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891516/mango-ernte-ubertraf-die-ursprungliche-schatzung/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spanish mango harvest exceeds forecasts with 40,000 tons -- <span class=\"news-date\">12/11/2026 10:38</span></div><div class=\"news-body\">Spain harvested more than 40,000 tons of mangoes during the 2026 season, according to the Spanish Tropical Fruit Association (AET). This volume exceeds initial estimates by more than 10,000 tons, despite the climatic constraints suffered by the 500 producers of the organization. <span class=\"news-reason\">Actual production volumes for a Mehadrin product from a direct competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891516/mango-ernte-ubertraf-die-ursprungliche-schatzung/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">יבול המנגו הספרדי עולה על התחזיות עם 40,000 טון -- <span class=\"news-date\">12/11/2026 10:38</span></div><div class=\"news-body\">ספרד קטפה למעלה מ-40,000 טון מנגו בעונת 2026, על פי התאחדות הפירות הטרופיים הספרדית (AET). כמות זו עולה על ההערכות הראשוניות ביותר מ-10,000 טון, למרות המגבלות האקלימיות שחוו 500 המגדלים בארגון. <span class=\"news-reason\">כמויות ייצור ריאליות למוצר של מהדרין אצל מתחרה ישיר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891516/mango-ernte-ubertraf-die-ursprungliche-schatzung/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -684,7 +748,7 @@
     {
       "id": "1794376972_1",
       "timestamp": "2026-11-11T06:02:52.410118+00:00",
-      "title": "Conférence sur l&#x27;excellence de l&#x27;orange sanguine sicilienne à Frutech",
+      "title": "Conférence sur l’excellence de l’orange sanguine sicilienne à Frutech",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -695,7 +759,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Conférence sur l&#x27;excellence de l&#x27;orange sanguine sicilienne à Frutech -- <span class=\"news-date\">11/11/2026 06:00</span></div><div class=\"news-body\">Une conférence intitulée « Arancia Rossa, eccellenza che diventa arte » se tiendra le 26 novembre 2026 en Sicile lors du salon Frutech. L&#x27;événement, promu par le consortium de tutelle de l&#x27;orange sanguine de Sicile IGP, portera sur la valorisation de cet agrume en tant qu&#x27;ingrédient gastronomique et levier de narration culinaire pour le marché italien et international. <span class=\"news-reason\">L&#x27;article traite de la valorisation de l&#x27;orange sanguine, un agrume stratégique, sur un marché concurrent européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891559/a-frutech-incontro-su-arancia-rossa-eccellenza-che-diventa-arte/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Conférence sur l’excellence de l’orange sanguine sicilienne à Frutech -- <span class=\"news-date\">11/11/2026 06:00</span></div><div class=\"news-body\">Une conférence intitulée « Arancia Rossa, eccellenza che diventa arte » se tiendra le 26 novembre 2026 en Sicile lors du salon Frutech. L&#x27;événement, promu par le consortium de tutelle de l&#x27;orange sanguine de Sicile IGP, portera sur la valorisation de cet agrume en tant qu&#x27;ingrédient gastronomique et levier de narration culinaire pour le marché italien et international. <span class=\"news-reason\">L&#x27;article traite de la valorisation de l&#x27;orange sanguine, un agrume stratégique, sur un marché concurrent européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891559/a-frutech-incontro-su-arancia-rossa-eccellenza-che-diventa-arte/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Conference on the excellence of the Sicilian blood orange at Frutech -- <span class=\"news-date\">11/11/2026 06:00</span></div><div class=\"news-body\">A conference titled \"Arancia Rossa, eccellenza che diventa arte\" will be held on November 26, 2026, in Sicily during the Frutech trade fair. The event, promoted by the Sicilian Blood Orange PGI protection consortium, will focus on the valorization of this citrus fruit as a gastronomic ingredient and a culinary storytelling lever for the Italian and international markets. <span class=\"news-reason\">The article discusses the valorization of blood oranges, a strategic citrus fruit, in a competing European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891559/a-frutech-incontro-su-arancia-rossa-eccellenza-che-diventa-arte/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">ועידה על מצוינות תפוז הדם הסיציליאני ב-Frutech -- <span class=\"news-date\">11/11/2026 06:00</span></div><div class=\"news-body\">ועידה בשם \"Arancia Rossa, eccellenza che diventa arte\" תיערך ב-26 בנובמבר 2026 בסיציליה במהלך תערוכת Frutech. האירוע, המקודם על ידי קונסורציום ההגנה של תפוז הדם הסיציליאני IGP, יעסוק בקידום פרי הדר זה כמרכיב גסטרונומי וכמנוף לסיפור קולינרי עבור השוק האיטלקי והבינלאומי. <span class=\"news-reason\">הכתבה עוסקת בקידום תפוז הדם, פרי הדר אסטרטגי, בשוק אירופי תחרותי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891559/a-frutech-incontro-su-arancia-rossa-eccellenza-che-diventa-arte/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -1081,128 +1145,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Une nouvelle technologie divise par deux le temps de maturation des avocats -- <span class=\"news-date\">09/11/2026 12:10</span></div><div class=\"news-body\">Une nouvelle technique de maturation permet de réduire le délai de traitement des avocats après récolte à environ 2,5 ou 3 jours. Cette méthode répond à une demande croissante de standardisation sur le marché européen tout en cherchant à pallier les défauts qualitatifs des procédés chimiques traditionnels. Cette innovation a été présentée pour optimiser la gestion des stocks de fruits mûrs et améliorer la qualité globale des produits disponibles en rayon. <span class=\"news-reason\">Information sur l&#x27;optimisation des délais de maturation et de la qualité pour les avocats sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9890533/avocado-s-sneller-rijp-narijping-gehalveerd-naar-2-5-tot-3-dagen/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">New technology halves avocado ripening time -- <span class=\"news-date\">09/11/2026 12:10</span></div><div class=\"news-body\">A new ripening technique reduces the post-harvest processing time for avocados to approximately 2.5 or 3 days. This method meets a growing demand for standardization in the European market while seeking to address the qualitative shortcomings of traditional chemical processes. This innovation was presented to optimize the management of ripe fruit stocks and improve the overall quality of products available on shelves. <span class=\"news-reason\">Information on the optimization of ripening times and quality for avocados on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9890533/avocado-s-sneller-rijp-narijping-gehalveerd-naar-2-5-tot-3-dagen/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">טכנולוגיה חדשה מקצרת בחצי את זמן הבשלת האבוקדו -- <span class=\"news-date\">09/11/2026 12:10</span></div><div class=\"news-body\">טכניקת הבשלה חדשה מאפשרת לצמצם את זמן הטיפול באבוקדו לאחר הקטיף לכ-2.5 עד 3 ימים. שיטה זו נותנת מענה לביקוש הגובר לסטנדרטיזציה בשוק האירופי, תוך ניסיון להתגבר על פגמי האיכות של התהליכים הכימיים המסורתיים. חדשנות זו הוצגה במטרה לייעל את ניהול מלאי הפירות הבשלים ולשפר את האיכות הכוללת של המוצרים הזמינים על המדף. <span class=\"news-reason\">מידע על ייעול זמני ההבשלה והאיכות עבור אבוקדו בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9890533/avocado-s-sneller-rijp-narijping-gehalveerd-naar-2-5-tot-3-dagen/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1794236667_6",
-      "timestamp": "2026-11-09T15:04:27.340137+00:00",
-      "title": "La récolte d&#x27;avocats en Tanzanie devrait progresser de 25 % -- 09/11/2026 13:10",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La récolte d&#x27;avocats en Tanzanie devrait progresser de 25 % -- <span class=\"news-date\">09/11/2026 13:10</span></div><div class=\"news-body\">Selon un rapport de l&#x27;USDA, la récolte d&#x27;avocats en Tanzanie devrait augmenter de 25 % pour atteindre 250 000 tonnes en 2026, contre 200 000 tonnes en 2025. Cette croissance s&#x27;explique par l&#x27;expansion des zones de culture et la maturation de nouveaux vergers. <span class=\"news-reason\">Chiffres précis sur l&#x27;augmentation de production d&#x27;une origine concurrente sur le marché de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890650/tanzania-s-avocado-harvest-forecast-to-rise-25-in-2026/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Tanzania's avocado harvest expected to grow by 25% -- <span class=\"news-date\">09/11/2026 13:10</span></div><div class=\"news-body\">According to a USDA report, Tanzania's avocado harvest is expected to increase by 25% to reach 250,000 tons in 2026, compared to 200,000 tons in 2025. This growth is explained by the expansion of growing areas and the maturation of new orchards. <span class=\"news-reason\">Specific figures on the production increase of a competing origin in the avocado market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890650/tanzania-s-avocado-harvest-forecast-to-rise-25-in-2026/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">יבול האבוקדו בטנזניה צפוי לעלות ב-25% -- <span class=\"news-date\">09/11/2026 13:10</span></div><div class=\"news-body\">לפי דו\"ח של ה-USDA, יבול האבוקדו בטנזניה צפוי לגדול ב-25% ולהגיע ל-250,000 טון בשנת 2026, לעומת 200,000 טון בשנת 2025. צמיחה זו מוסברת על ידי התרחבות שטחי הגידול והבשלה של מטעים חדשים. <span class=\"news-reason\">נתונים מדויקים על עליית הייצור של מקור אספקה מתחרה בשוק האבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890650/tanzania-s-avocado-harvest-forecast-to-rise-25-in-2026/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1794236667_5",
-      "timestamp": "2026-11-09T15:04:27.340137+00:00",
-      "title": "Lancement anticipé de la saison des agrumes en Californie -- 09/11/2026 13:10",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Lancement anticipé de la saison des agrumes en Californie -- <span class=\"news-date\">09/11/2026 13:10</span></div><div class=\"news-body\">La saison des agrumes en Californie commence plus tôt cette année en raison d&#x27;une vague de chaleur printanière ayant provoqué une floraison précoce en mars. Cette situation offre des stocks importants et des opportunités promotionnelles anticipées pour les détaillants sur plusieurs variétés. <span class=\"news-reason\">Information sur le calendrier de campagne et la disponibilité d&#x27;une origine concurrente sur les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890583/early-california-citrus-season-brings-strong-supplies-and-promotional-opportunities/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Early launch of the California citrus season -- <span class=\"news-date\">09/11/2026 13:10</span></div><div class=\"news-body\">The California citrus season is starting earlier this year due to a spring heatwave that caused early flowering in March. This situation offers significant stocks and early promotional opportunities for retailers across several varieties. <span class=\"news-reason\">Information on the campaign schedule and availability of a competing origin for citrus.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890583/early-california-citrus-season-brings-strong-supplies-and-promotional-opportunities/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השקה מוקדמת של עונת ההדרים בקליפורניה -- <span class=\"news-date\">09/11/2026 13:10</span></div><div class=\"news-body\">עונת ההדרים בקליפורניה מתחילה מוקדם יותר השנה בשל גל חום אביבי שגרם לפריחה מוקדמת במרץ. מצב זה מאפשר מלאים משמעותיים והזדמנויות לקידום מכירות מוקדם עבור הקמעונאים במגוון זנים. <span class=\"news-reason\">מידע על לוח הזמנים של העונה וזמינות של מקור אספקה מתחרה בתחום ההדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890583/early-california-citrus-season-brings-strong-supplies-and-promotional-opportunities/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1794236667_4",
-      "timestamp": "2026-11-09T15:04:27.340137+00:00",
-      "title": "La Bolivie autorise l&#x27;importation de pitahayas fraîches en provenance du Pérou -- 09/11/2026 13:10",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [],
-      "products": [
-        "pitahaya"
-      ],
-      "origins": [
-        "PER"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La Bolivie autorise l&#x27;importation de pitahayas fraîches en provenance du Pérou -- <span class=\"news-date\">09/11/2026 13:10</span></div><div class=\"news-body\">Le Service national de santé agricole du Pérou (Senasa) a établi les exigences phytosanitaires permettant l&#x27;entrée des pitahayas fraîches péruviennes sur le marché bolivien. Cette décision ouvre une nouvelle route commerciale pour les producteurs et associations agricoles du pays. <span class=\"news-reason\">Information sur l&#x27;accès au marché et la réglementation d&#x27;un produit exotique Mehadrin depuis une origine clé.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890512/bolivia-approves-imports-of-fresh-pitahaya-from-peru/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Bolivia authorizes the import of fresh pitahayas from Peru -- <span class=\"news-date\">09/11/2026 13:10</span></div><div class=\"news-body\">Peru's National Agricultural Health Service (Senasa) has established the phytosanitary requirements allowing the entry of fresh Peruvian pitahayas into the Bolivian market. This decision opens a new trade route for the country's producers and agricultural associations. <span class=\"news-reason\">Information on market access and regulation of a Mehadrin exotic product from a key origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890512/bolivia-approves-imports-of-fresh-pitahaya-from-peru/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות אספקה</div><div class=\"news-title\">בוליביה מאשרת יבוא פיטאיה טרייה מפרו -- <span class=\"news-date\">09/11/2026 13:10</span></div><div class=\"news-body\">השירות הלאומי לבריאות חקלאית של פרו (Senasa) קבע את הדרישות הפיטוסניטריות המאפשרות כניסת פיטאיה טרייה מפרו לשוק הבוליביאני. החלטה זו פותחת נתיב סחר חדש עבור יצרנים ואיגודים חקלאיים במדינה. <span class=\"news-reason\">מידע על גישה לשוק ורגולציה של מוצר אקזוטי מהדרין ממקור מפתח.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9890512/bolivia-approves-imports-of-fresh-pitahaya-from-peru/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1794236667_3",
-      "timestamp": "2026-11-09T15:04:27.340137+00:00",
-      "title": "Le Chili prévoit une saison fruitière stable malgré les intempéries -- 09/11/2026 13:39",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia",
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "CHL"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le Chili prévoit une saison fruitière stable malgré les intempéries -- <span class=\"news-date\">09/11/2026 13:39</span></div><div class=\"news-body\">Malgré les fortes pluies dans la région du Maule et les mouvements sociaux au port de San Antonio, l&#x27;organisation Frutas de Chile prévoit une saison 2026-2027 stable. Les volumes d&#x27;exportation devraient se maintenir autour de 3 millions de tonnes, sans dégâts majeurs quantifiables pour l&#x27;instant sur les cultures fruitières. <span class=\"news-reason\">Informations sur les prévisions de volumes d&#x27;exportation d&#x27;une origine majeure pour les avocats et agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9889560/malgre-les-pluies-dans-la-region-du-maule-et-la-greve-a-san-antonio-le-secteur-fruitier-chilien-s-attend-a-une-saison-stable/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Chile expects a stable fruit season despite bad weather -- <span class=\"news-date\">09/11/2026 13:39</span></div><div class=\"news-body\">Despite heavy rains in the Maule region and social movements at the port of San Antonio, the Frutas de Chile organization predicts a stable 2026-2027 season. Export volumes are expected to remain around 3 million tons, with no quantifiable major damage to fruit crops for now. <span class=\"news-reason\">Information on export volume forecasts from a major origin for avocados and citrus.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9889560/malgre-les-pluies-dans-la-region-du-maule-et-la-greve-a-san-antonio-le-secteur-fruitier-chilien-s-attend-a-une-saison-stable/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">צ'ילה צופה עונת פירות יציבה למרות פגעי מזג האוויר -- <span class=\"news-date\">09/11/2026 13:39</span></div><div class=\"news-body\">למרות גשמים עזים באזור מאולה (Maule) והשביתות בנמל סן אנטוניו, ארגון Frutas de Chile צופה עונה יציבה בשנים 2026-2027. נפחי הייצוא צפויים להישאר סביב 3 מיליון טון, ללא נזקים משמעותיים הניתנים למדידה בשלב זה לגידולי הפירות. <span class=\"news-reason\">מידע על תחזיות נפחי ייצוא ממקור אספקה מרכזי לאבוקדו והדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9889560/malgre-les-pluies-dans-la-region-du-maule-et-la-greve-a-san-antonio-le-secteur-fruitier-chilien-s-attend-a-une-saison-stable/\" target=\"_blank\">FreshPlaza FR -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1794236667_2",
-      "timestamp": "2026-11-09T15:04:27.340137+00:00",
-      "title": "Inde : flambée des cours de l&#x27;avocat face à la contraction de l&#x27;offre",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "IND"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Inde : flambée des cours de l&#x27;avocat face à la contraction de l&#x27;offre -- <span class=\"news-date\">09/11/2026 15:32</span></div><div class=\"news-body\">L&#x27;offre d&#x27;avocats tanzaniens sur le marché indien commence à se raréfier en raison de la clôture imminente de la saison. Cette diminution des arrivages hebdomadaires, combinée à une demande intérieure qui reste solide, entraîne une hausse mécanique des prix. Les importateurs prévoient de nouvelles baisses de volumes tout au long du mois de novembre. <span class=\"news-reason\">Alerte sur la disponibilité et l&#x27;évolution des prix de l&#x27;avocat sur le marché indien.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889982/las-menores-llegadas-de-aguacate-tanzano-elevan-los-precios-en-la-india/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">India: rise in avocado prices following drop in supply -- <span class=\"news-date\">09/11/2026 15:32</span></div><div class=\"news-body\">The supply of Tanzanian avocados on the Indian market is starting to become scarce due to the imminent close of the season. This decrease in weekly arrivals, combined with a demand that remains solid, is leading to a mechanical rise in prices. Importers expect further volume decreases throughout the month of November. <span class=\"news-reason\">Alert on the availability and price evolution of avocados in the Indian market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889982/las-menores-llegadas-de-aguacate-tanzano-elevan-los-precios-en-la-india/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">הודו: עלייה במחירי האבוקדו בעקבות ירידה בהיצע -- <span class=\"news-date\">09/11/2026 15:32</span></div><div class=\"news-body\">היצע האבוקדו הטנזני בשוק ההודי מתחיל להצטמצם עקב הסיום הקרוב של העונה. ירידה זו במשלוחים השבועיים, בשילוב עם ביקוש מקומי איתן, מובילה לעליית מחירים אוטומטית. היבואנים צופים ירידות נוספות בנפחים במהלך חודש נובמבר. <span class=\"news-reason\">התראה על זמינות ומגמת מחירי האבוקדו בשוק ההודי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9889982/las-menores-llegadas-de-aguacate-tanzano-elevan-los-precios-en-la-india/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1794236667_1",
-      "timestamp": "2026-11-09T15:04:27.340137+00:00",
-      "title": "Stabilisation du marché européen de la patate douce -- 09/11/2026 15:32",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "sweet_potato"
-      ],
-      "origins": [
-        "ESP",
-        "EGY",
-        "USA",
-        "PRT"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Stabilisation du marché européen de la patate douce -- <span class=\"news-date\">09/11/2026 15:32</span></div><div class=\"news-body\">L&#x27;Égypte s&#x27;impose comme le principal fournisseur actuel de patates douces pour le marché européen. Parallèlement, l&#x27;Espagne, le Portugal et les États-Unis se préparent à une excellente saison de récolte. Après plusieurs mois de forte pression sur les tarifs, le marché international montre des signes de stabilisation et maintient son dynamisme commercial. <span class=\"news-reason\">Analyse de la concurrence entre l&#x27;Égypte et l&#x27;Espagne sur le marché européen de la patate douce.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9888990/el-mercado-europeo-de-la-batata-gana-estabilidad-tras-meses-de-fuerte-presion-sobre-los-precios/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Stabilization of the European sweet potato market -- <span class=\"news-date\">09/11/2026 15:32</span></div><div class=\"news-body\">Egypt is establishing itself as the main current supplier of sweet potatoes for the European market. Meanwhile, Spain, Portugal, and the United States are preparing for an excellent harvest season. After several months of strong price pressure, the international market is showing signs of stabilization and maintaining its commercial dynamism. <span class=\"news-reason\">Analysis of the competition between Egypt and Spain in the European sweet potato market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9888990/el-mercado-europeo-de-la-batata-gana-estabilidad-tras-meses-de-fuerte-presion-sobre-los-precios/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות אספקה</div><div class=\"news-title\">התייצבות שוק הבטטה האירופי -- <span class=\"news-date\">09/11/2026 15:32</span></div><div class=\"news-body\">מצרים מתבססת כספקית הבטטות העיקרית כיום לשוק האירופי. במקביל, ספרד, פורטוגל וארצות הברית נערכות לעונת קטיף מצוינת. לאחר מספר חודשים של לחץ מחירים כבד, השוק הבינלאומי מראה סימני התייצבות ושומר על דינמיות מסחרית. <span class=\"news-reason\">ניתוח התחרות בין מצרים לספרד בשוק הבטטה האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9888990/el-mercado-europeo-de-la-batata-gana-estabilidad-tras-meses-de-fuerte-presion-sobre-los-precios/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1794236667_0",
-      "timestamp": "2026-11-09T15:04:27.340137+00:00",
-      "title": "Woolworths inaugure un nouveau magasin d&#x27;alimentation à Tzaneen -- 09/11/2026 13:57",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "ZAF"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Woolworths inaugure un nouveau magasin d&#x27;alimentation à Tzaneen -- <span class=\"news-date\">09/11/2026 13:57</span></div><div class=\"news-body\">L&#x27;enseigne Woolworths Food a ouvert son premier magasin autonome à Tzaneen, dans le Limpopo, région considérée comme le pôle majeur de production d&#x27;avocats en Afrique du Sud. Cette implantation stratégique au Tzaneen Lifestyle Centre marque le développement du réseau de distribution du groupe au cœur d&#x27;une zone agricole clé. <span class=\"news-reason\">Expansion d&#x27;un distributeur majeur dans la principale région de production d&#x27;avocats en Afrique du Sud.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9890765/waitrose-is-set-to-open-a-new-supermarket-in-dubai-s-uptown-district/\" target=\"_blank\">HortiDaily -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Woolworths opens a new food store in Tzaneen -- <span class=\"news-date\">09/11/2026 13:57</span></div><div class=\"news-body\">Woolworths Food has opened its first standalone store in Tzaneen, Limpopo, a region considered the major avocado production hub in South Africa. This strategic location at the Tzaneen Lifestyle Centre marks the expansion of the group's distribution network in the heart of a key agricultural area. <span class=\"news-reason\">Expansion of a major retailer in South Africa's main avocado production region.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9890765/waitrose-is-set-to-open-a-new-supermarket-in-dubai-s-uptown-district/\" target=\"_blank\">HortiDaily -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות רשתות שיווק</div><div class=\"news-title\">וולוורת'ס חונכת חנות מזון חדשה בצאנין -- <span class=\"news-date\">09/11/2026 13:57</span></div><div class=\"news-body\">רשת Woolworths Food פתחה את החנות העצמאית הראשונה שלה בצאנין, לימפופו, אזור הנחשב למרכז ייצור האבוקדו המרכזי בדרום אפריקה. מיקום אסטרטגי זה ב-Tzaneen Lifestyle Centre מסמל את הרחבת רשת ההפצה של הקבוצה בלב אזור חקלאי מרכזי. <span class=\"news-reason\">התרחבות של מפיץ גדול באזור ייצור האבוקדו העיקרי בדרום אפריקה.</span></div><div class=\"news-source\"><a href=\"https://www.hortidaily.com/article/9890765/waitrose-is-set-to-open-a-new-supermarket-in-dubai-s-uptown-district/\" target=\"_blank\">HortiDaily -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
