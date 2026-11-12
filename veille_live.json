@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T09:05:31.044967+00:00",
+  "last_updated": "2026-11-12T10:34:26.486493+00:00",
   "article_count": 55,
   "attention_points": [
     {
@@ -17,7 +17,7 @@
       "signal_label": "Volumes",
       "icon": "volume",
       "products": [],
-      "age_hours": 0
+      "age_hours": 1
     },
     {
       "id": "attention-8f43e47e1137ee60",
@@ -36,7 +36,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 0
+      "age_hours": 1
     },
     {
       "id": "attention-67c257a79c4d1854",
@@ -55,7 +55,7 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 4
+      "age_hours": 5
     },
     {
       "id": "attention-128d70ed432c694a",
@@ -72,10 +72,26 @@
       "signal_label": "Alerte",
       "icon": "alert",
       "products": [],
-      "age_hours": 5
+      "age_hours": 7
     }
   ],
   "articles": [
+    {
+      "id": "1794479666_2",
+      "timestamp": "2026-11-12T10:34:26.486493+00:00",
+      "title": "Tanzanie : la production d&#x27;avocats devrait augmenter de 25 % en 2026",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tanzanie : la production d&#x27;avocats devrait augmenter de 25 % en 2026 -- <span class=\"news-date\">11/11/2026 15:51</span></div><div class=\"news-body\">Selon un rapport de l&#x27;USDA, la récolte d&#x27;avocats en Tanzanie devrait atteindre 250 000 tonnes en 2026, contre 200 000 tonnes en 2025. Cette hausse de 25 % s&#x27;explique par l&#x27;augmentation des surfaces cultivées et l&#x27;arrivée à maturité des jeunes vergers. <span class=\"news-reason\">Chiffres de production et prévisions de récolte pour une origine concurrente de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9890967/la-cosecha-de-aguacate-de-tanzania-esta-previsto-que-crezca-un-25-en-2026/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Tanzania: avocado production expected to jump by 25% in 2026 -- <span class=\"news-date\">11/11/2026 15:51</span></div><div class=\"news-body\">According to a report by the USDA, the avocado harvest in Tanzania is expected to reach 250,000 tonnes in 2026, compared to 200,000 tonnes in 2025. This 25% increase is explained by the increase in cultivated areas and the reaching of maturity of young orchards. <span class=\"news-reason\">Production figures and harvest forecasts for a competing avocado origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9890967/la-cosecha-de-aguacate-de-tanzania-esta-previsto-que-crezca-un-25-en-2026/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">טנזניה: ייצור האבוקדו צפוי לזנק ב-25% בשנת 2026 -- <span class=\"news-date\">11/11/2026 15:51</span></div><div class=\"news-body\">לפי דו\"ח של ה-USDA, יבול האבוקדו בטנזניה צפוי להגיע ל-250,000 טון בשנת 2026, לעומת 200,000 טון בשנת 2025. עלייה זו של 25% מוסברת על ידי הגדלת שטחי הגידול והתבגרותם של מטעים צעירים. <span class=\"news-reason\">נתוני ייצור ותחזיות יבול עבור מקור מתחרה של אבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9890967/la-cosecha-de-aguacate-de-tanzania-esta-previsto-que-crezca-un-25-en-2026/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1794474331_2",
       "timestamp": "2026-11-12T09:05:31.044967+00:00",
@@ -146,7 +162,7 @@
     {
       "id": "1794463469_0",
       "timestamp": "2026-11-12T06:04:29.745773+00:00",
-      "title": "Campagne d&#x27;agrumes en Italie : volumes abondants et calibres réduits",
+      "title": "Campagne d&#x27;agrumes en Italie : volumes importants et calibres réduits",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -158,7 +174,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Campagne d&#x27;agrumes en Italie : volumes abondants et calibres réduits -- <span class=\"news-date\">12/11/2026 06:00</span></div><div class=\"news-body\">La campagne agrumicole italienne prévoit une forte disponibilité de clémentines, mandarines et oranges. Les volumes sont jugés généreux, mais les fruits présentent des calibres plus petits que les saisons précédentes en raison des conditions climatiques. La qualité gustative est cependant rapportée comme étant très élevée. <span class=\"news-reason\">Analyse de la campagne d&#x27;agrumes (clémentines, oranges) sur un marché majeur pour Mehadrin, précisant la qualité et le profil des calibres.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891810/campagna-agrumicola-generosa-nei-volumi-ma-con-calibri-piu-piccoli/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Campagne d&#x27;agrumes en Italie : volumes importants et calibres réduits -- <span class=\"news-date\">12/11/2026 06:00</span></div><div class=\"news-body\">La campagne agrumicole italienne prévoit une forte disponibilité de clémentines, mandarines et oranges. Les volumes sont jugés généreux, mais les fruits présentent des calibres plus petits que les saisons précédentes en raison des conditions climatiques. La qualité gustative est cependant rapportée comme étant très élevée. <span class=\"news-reason\">Analyse de la campagne d&#x27;agrumes (clémentines, oranges) sur un marché majeur pour Mehadrin, précisant la qualité et le profil des calibres.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891810/campagna-agrumicola-generosa-nei-volumi-ma-con-calibri-piu-piccoli/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Citrus campaign in Italy: abundant volumes and limited sizes -- <span class=\"news-date\">12/11/2026 06:00</span></div><div class=\"news-body\">The Italian citrus campaign expects high availability of clementines, mandarins, and oranges. Volumes are considered generous, but the fruits show smaller sizes than previous seasons due to climatic conditions. However, the taste quality is reported to be very high. <span class=\"news-reason\">Analysis of the citrus campaign (clementines, oranges) in a major market for Mehadrin, specifying the quality and size profile.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891810/campagna-agrumicola-generosa-nei-volumi-ma-con-calibri-piu-piccoli/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">עונת ההדרים באיטליה: כמויות בשפע וגדלים קטנים -- <span class=\"news-date\">12/11/2026 06:00</span></div><div class=\"news-body\">עונת ההדרים האיטלקית צופה זמינות גבוהה של קלמנטינות, מנדרינות ותפוזים. הכמויות נחשבות לנדיבות, אך הפירות מציגים גדלים קטנים יותר מהעונות הקודמות בשל תנאי האקלים. איכות הטעם, לעומת זאת, מוגדרת כגבוהה מאוד. <span class=\"news-reason\">ניתוח עונת ההדרים (קלמנטינות, תפוזים) בשוק מרכזי עבור מהדרין, תוך פירוט האיכות ומאפייני הגדלים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891810/campagna-agrumicola-generosa-nei-volumi-ma-con-calibri-piu-piccoli/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -1021,25 +1037,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Perte de compétitivité de la filière des agrumes en Colombie -- <span class=\"news-date\">09/11/2026 08:00</span></div><div class=\"news-body\">La filière colombienne des agrumes subit l&#x27;appréciation du peso et la hausse des coûts de la main-d&#x27;œuvre. Une potentielle taxe de 19 % sur les produits agricoles pourrait aggraver la crise de compétitivité du secteur face à la concurrence internationale. <span class=\"news-reason\">Informations sur la perte de compétitivité d&#x27;une origine concurrente pour les agrumes, incluant des facteurs de coût et de fiscalité.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/09/colombian-citrus-woes/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Loss of competitiveness of the citrus sector in Colombia -- <span class=\"news-date\">09/11/2026 08:00</span></div><div class=\"news-body\">The Colombian citrus sector is suffering from the appreciation of the peso and rising labor costs. A potential 19% tax on agricultural products could worsen the sector&#x27;s competitiveness crisis in the face of international competition. <span class=\"news-reason\">Information on the loss of competitiveness of a competing origin for citrus fruits, including cost and taxation factors.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/09/colombian-citrus-woes/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">אובדן התחרותיות של ענף ההדרים בקולומביה -- <span class=\"news-date\">09/11/2026 08:00</span></div><div class=\"news-body\">ענף ההדרים הקולומביאני סובל מייסוף הפסו ומעלייה בעלויות העבודה. מס פוטנציאלי של 19% על מוצרים חקלאיים עלול להחמיר את משבר התחרותיות של המגזר מול התחרות הבינלאומית. <span class=\"news-reason\">מידע על אובדן התחרותיות של מקור מתחרה להדרים, כולל גורמי עלות ומיסוי.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/09/colombian-citrus-woes/\" target=\"_blank\">Fresh Fruit Portal -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1794220314_0",
-      "timestamp": "2026-11-09T10:31:54.584628+00:00",
-      "title": "Espagne : l&#x27;Axarquía concentre la production nationale de mangues et d&#x27;avocats -- 09/11/2026 08:09",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat",
-        "mango"
-      ],
-      "origins": [
-        "ESP"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : l&#x27;Axarquía concentre la production nationale de mangues et d&#x27;avocats -- <span class=\"news-date\">09/11/2026 08:09</span></div><div class=\"news-body\">L&#x27;Espagne totalise désormais 6 000 hectares de plantations de mangues, dont 5 000 hectares situés dans la région de l&#x27;Axarquía à Malaga, zone qui assure 90 % de la production nationale. En complément, la superficie consacrée à la culture de l&#x27;avocat sur l&#x27;ensemble du territoire espagnol atteint 25 000 hectares. <span class=\"news-reason\">Données chiffrées précises sur les surfaces de culture de mangues et d&#x27;avocats en Espagne</span></div><div class=\"news-source\"><a href=\"https://fyh.es/el-reino-del-exquisito-mango-espanol-la-axarquia-malaguena-produce-el-90-del-fruto/\" target=\"_blank\">Frutas y Hortalizas -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: Axarquía concentrates the national production of mangoes and avocados -- <span class=\"news-date\">09/11/2026 08:09</span></div><div class=\"news-body\">Spain now has a total of 6,000 hectares of mango plantations, including 5,000 hectares located in the Axarquía region of Malaga, an area that accounts for 90% of national production. In addition, the area dedicated to avocado cultivation across the entire Spanish territory reaches 25,000 hectares. <span class=\"news-reason\">Precise numerical data on mango and avocado cultivation areas in Spain</span></div><div class=\"news-source\"><a href=\"https://fyh.es/el-reino-del-exquisito-mango-espanol-la-axarquia-malaguena-produce-el-90-del-fruto/\" target=\"_blank\">Frutas y Hortalizas -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">ספרד: אקסארקיה מרכזת את הייצור הלאומי של מנגו ואבוקדו -- <span class=\"news-date\">09/11/2026 08:09</span></div><div class=\"news-body\">ספרד מונה כיום 6,000 הקטרים של מטעי מנגו, מתוכם 5,000 הקטרים ממוקמים באזור אקסארקיה שבמלאגה, אזור המבטיח 90% מהייצור הלאומי. בנוסף, השטח המוקדש לגידול אבוקדו בכל רחבי ספרד מגיע ל-25,000 הקטרים. <span class=\"news-reason\">נתונים מספריים מדויקים על שטחי גידול המנגו והאבוקדו בספרד</span></div><div class=\"news-source\"><a href=\"https://fyh.es/el-reino-del-exquisito-mango-espanol-la-axarquia-malaguena-produce-el-90-del-fruto/\" target=\"_blank\">Frutas y Hortalizas -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
