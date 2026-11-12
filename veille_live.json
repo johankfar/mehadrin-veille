@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-11-12T07:36:00.390210+00:00",
-  "article_count": 52,
+  "last_updated": "2026-11-12T09:05:31.044967+00:00",
+  "article_count": 55,
   "attention_points": [
+    {
+      "id": "attention-3eb3240dbbbebfb4",
+      "article_id": "1794474331_1",
+      "url": "https://www.agrimaroc.ma/certifications-a-lexport-globalgap-bio-et-normes-privees-au-maroc/",
+      "source": "AgriMaroc",
+      "title": "Certifications requises pour l'exportation des fruits et légumes",
+      "summary": "Les exportateurs doivent cumuler plusieurs certifications pour accéder au marché cible",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-11-12T09:10:03+00:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "volume",
+      "products": [],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-8f43e47e1137ee60",
+      "article_id": "1794474331_0",
+      "url": "https://www.freshpointmagazine.it/retail-marketing/sostenibilita/avocado-mercato-sostenibilita-wao/",
+      "source": "FreshPoint Magazine",
+      "title": "Italie : la consommation d'avocats en hausse de 60 %",
+      "summary": "La consommation par habitant augmente fortement sur le marché de destination",
+      "origin_code": "ITA",
+      "origin_label": "Italie",
+      "published_at": "2026-11-12T08:50:14+00:00",
+      "published_at_source": "rss",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 0
+    },
     {
       "id": "attention-67c257a79c4d1854",
       "article_id": "1794463469_1",
@@ -19,67 +55,75 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 2
+      "age_hours": 4
     },
     {
-      "id": "attention-babef23b45ef8bdc",
-      "article_id": "1794404100_0",
-      "url": "https://www.agrimaroc.ma/jusqua-110-mm-sur-le-rif-et-80-mm-sur-le-loukkos-dici-jeudi-midi/",
-      "source": "AgriMaroc",
-      "title": "Vigilance orange pour fortes pluies au Maroc",
-      "summary": "Des précipitations intenses et des risques de grêle menacent les cultures du Maroc.",
-      "origin_code": "MAR",
-      "origin_label": "Maroc",
-      "published_at": "2026-11-11T13:05:17+00:00",
+      "id": "attention-128d70ed432c694a",
+      "article_id": "1794474331_2",
+      "url": "https://www.producereport.com/article/south-africa-rwanda-turn-china-amid-us-trade-shift",
+      "source": "Produce Report",
+      "title": "L'Afrique du Sud réoriente ses exportations",
+      "summary": "Les flux commerciaux se réorientent suite à la suspension des avantages commerciaux",
+      "origin_code": "ZAF",
+      "origin_label": "Afrique du Sud",
+      "published_at": "2026-11-12T03:06:58+00:00",
       "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [
-        "orange"
-      ],
-      "age_hours": 18
-    },
-    {
-      "id": "attention-774745715946bcba",
-      "article_id": "1794404100_1",
-      "url": "https://www.freshplaza.fr/article/9889555/la-colombie-prevoit-sa-premiere-baisse-des-exportations-d-avocats-au-cours-d-une-annee-marquee-par-des-marges-serrees/",
-      "source": "FreshPlaza FR",
-      "title": "Baisse importante des exportations colombiennes d'avocats",
-      "summary": "Les exportations passeront de 202 000 à 140 000 tonnes cette année",
-      "origin_code": "COL",
-      "origin_label": "Colombie",
-      "published_at": "2026-11-11T13:47:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "volume",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 18
-    },
-    {
-      "id": "attention-7c44926beb545338",
-      "article_id": "1794382382_0",
-      "url": "https://revistamercados.com/luna-y-lamb-hass-alternativas-reales-a-hass/",
-      "source": "Revista Mercados",
-      "title": "Variétés Luna et Lamb Hass se positionnent comme",
-      "summary": "Le secteur développe des variétés alternatives pour étendre la période de vente annuelle",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-11-11T07:01:50+00:00",
-      "published_at_source": "rss",
-      "signal_type": "information",
-      "signal_label": "Information",
-      "icon": "information",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 24
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
+      "products": [],
+      "age_hours": 5
     }
   ],
   "articles": [
+    {
+      "id": "1794474331_2",
+      "timestamp": "2026-11-12T09:05:31.044967+00:00",
+      "title": "L&#x27;Afrique du Sud réoriente ses exportations vers la Chine face aux restrictions américaines -- 12/11/2026 03:06",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "ZAF",
+        "USA",
+        "CHN"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;Afrique du Sud réoriente ses exportations vers la Chine face aux restrictions américaines -- <span class=\"news-date\">12/11/2026 03:06</span></div><div class=\"news-body\">Suite à la décision des États-Unis de suspendre l&#x27;accès en franchise de droits pour l&#x27;Afrique du Sud au premier janvier 2027, le pays cherche à renforcer ses exportations vers le marché chinois. <span class=\"news-reason\">La suspension de l&#x27;accès préférentiel au marché américain force une origine concurrente majeure à modifier ses flux d&#x27;exportation.</span></div><div class=\"news-source\"><a href=\"https://www.producereport.com/article/south-africa-rwanda-turn-china-amid-us-trade-shift\" target=\"_blank\">Produce Report -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">South Africa redirects its exports to China in the face of US restrictions -- <span class=\"news-date\">12/11/2026 03:06</span></div><div class=\"news-body\">Following the United States' decision to suspend duty-free access for South Africa as of January 1, 2027, the country is looking to strengthen its exports to the Chinese market. <span class=\"news-reason\">The suspension of preferential access to the US market forces a major competing origin to modify its export flows.</span></div><div class=\"news-source\"><a href=\"https://www.producereport.com/article/south-africa-rwanda-turn-china-amid-us-trade-shift\" target=\"_blank\">Produce Report -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מתחרים ומקורות</div><div class=\"news-title\">דרום אפריקה מכוונת מחדש את היצוא שלה לסין בעקבות ההגבלות האמריקאיות -- <span class=\"news-date\">12/11/2026 03:06</span></div><div class=\"news-body\">בעקבות החלטת ארצות הברית להשעות את הגישה בפטור ממכס עבור דרום אפריקה ב-1 בינואר 2027, המדינה פועלת לחיזוק היצוא שלה לשוק הסיני. <span class=\"news-reason\">השעיית הגישה המועדפת לשוק האמריקאי מאלצת מקור מתחרה מרכזי לשנות את נתיבי היצוא שלו.</span></div><div class=\"news-source\"><a href=\"https://www.producereport.com/article/south-africa-rwanda-turn-china-amid-us-trade-shift\" target=\"_blank\">Produce Report -- לקריאת המאמר</a></div></div>"
+    },
+    {
+      "id": "1794474331_1",
+      "timestamp": "2026-11-12T09:05:31.044967+00:00",
+      "title": "Les certifications requises pour l&#x27;exportation des fruits et légumes marocains -- 12/11/2026 09:10",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Les certifications requises pour l&#x27;exportation des fruits et légumes marocains -- <span class=\"news-date\">12/11/2026 09:10</span></div><div class=\"news-body\">Les exportateurs du Maroc doivent obtenir diverses certifications comme GlobalGAP, BRCGS ou SMETA pour accéder aux marchés internationaux. La réglementation concernant le bio pour l&#x27;Europe a évolué depuis 2025. <span class=\"news-reason\">L&#x27;article détaille les normes réglementaires et certifications nécessaires pour l&#x27;accès au marché européen depuis le Maroc.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/certifications-a-lexport-globalgap-bio-et-normes-privees-au-maroc/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Certifications required for the export of Moroccan fruits and vegetables -- <span class=\"news-date\">12/11/2026 09:10</span></div><div class=\"news-body\">Exporters from Morocco must obtain various certifications such as GlobalGAP, BRCGS, or SMETA to access international markets. Organic regulations for Europe have evolved since 2025. <span class=\"news-reason\">The article details the regulatory standards and certifications necessary for access to the European market from Morocco.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/certifications-a-lexport-globalgap-bio-et-normes-privees-au-maroc/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מתחרים ומקורות</div><div class=\"news-title\">ההסמכות הנדרשות לייצוא פירות וירקות ממרוקו -- <span class=\"news-date\">12/11/2026 09:10</span></div><div class=\"news-body\">יצואנים ממרוקו נדרשים להשיג הסמכות שונות כגון GlobalGAP, BRCGS או SMETA כדי לגשת לשווקים הבינלאומיים. הרגולציה בנוגע לגידולים אורגניים באירופה השתנתה מאז 2025. <span class=\"news-reason\">המאמר מפרט את התקנים הרגולטוריים וההסמכות הנדרשים לגישה לשוק האירופי ממרוקו.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/certifications-a-lexport-globalgap-bio-et-normes-privees-au-maroc/\" target=\"_blank\">AgriMaroc -- לקריאת המאמר</a></div></div>"
+    },
+    {
+      "id": "1794474331_0",
+      "timestamp": "2026-11-12T09:05:31.044967+00:00",
+      "title": "Italie : la consommation d&#x27;avocats en hausse de 60 % entre 2023 et 2025 -- 12/11/2026 08:50",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ITA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Italie : la consommation d&#x27;avocats en hausse de 60 % entre 2023 et 2025 -- <span class=\"news-date\">12/11/2026 08:50</span></div><div class=\"news-body\">En Italie, la consommation d&#x27;avocat par habitant a progressé de 60 % en deux ans, passant de 0,7 kg en 2023 à 1,12 kg en 2025. Cette tendance confirme l&#x27;intégration croissante du fruit dans les habitudes alimentaires nationales. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur l&#x27;augmentation de la consommation d&#x27;avocats sur un marché clé pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshpointmagazine.it/retail-marketing/sostenibilita/avocado-mercato-sostenibilita-wao/\" target=\"_blank\">FreshPoint Magazine -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Italy: avocado consumption up 60% between 2023 and 2025 -- <span class=\"news-date\">12/11/2026 08:50</span></div><div class=\"news-body\">In Italy, per capita avocado consumption increased by 60% in two years, rising from 0.7 kg in 2023 to 1.12 kg in 2025. This trend confirms the growing integration of the fruit into national dietary habits. <span class=\"news-reason\">The article provides specific figures on the increase in avocado consumption in a key market for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshpointmagazine.it/retail-marketing/sostenibilita/avocado-mercato-sostenibilita-wao/\" target=\"_blank\">FreshPoint Magazine -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">איטליה: צריכת האבוקדו עלתה ב-60% בין 2023 ל-2025 -- <span class=\"news-date\">12/11/2026 08:50</span></div><div class=\"news-body\">באיטליה, צריכת האבוקדו לנפש עלתה ב-60% בתוך שנתיים, מ-0.7 ק\"ג בשנת 2023 ל-1.12 ק\"ג בשנת 2025. מגמה זו מאשרת את השתלבותו הגוברת של הפרי בהרגלי התזונה הלאומיים. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על העלייה בצריכת האבוקדו בשוק מרכזי עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshpointmagazine.it/retail-marketing/sostenibilita/avocado-mercato-sostenibilita-wao/\" target=\"_blank\">מגזין FreshPoint -- לקריאת המאמר</a></div></div>"
+    },
     {
       "id": "1794463469_1",
       "timestamp": "2026-11-12T06:04:29.745773+00:00",
@@ -404,7 +448,7 @@
     {
       "id": "1794328431_1",
       "timestamp": "2026-11-10T16:33:51.923878+00:00",
-      "title": "Développement de la production de patates douces violettes aux États-Unis pour le marché britannique",
+      "title": "Expansion de la production de patates douces violettes aux États-Unis à destination du marché britannique",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -415,7 +459,7 @@
       "origins": [
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Développement de la production de patates douces violettes aux États-Unis pour le marché britannique -- <span class=\"news-date\">10/11/2026 15:48</span></div><div class=\"news-body\">En Caroline du Nord, la récolte de patates douces de cette année présente une bonne qualité malgré une sécheresse estivale persistante. Bien que les volumes globaux soient légèrement inférieurs à la moyenne, l&#x27;intérêt marqué du Royaume-Uni encourage l&#x27;expansion des surfaces cultivées pour la variété de patate douce violette. <span class=\"news-reason\">L&#x27;article traite de la production de patates douces (produit Mehadrin) et de l&#x27;intérêt croissant du marché britannique (marché Mehadrin).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9890947/el-creciente-interes-del-reino-unido-impulsa-la-expansion-del-cultivo-de-batata-morada-en-carolina-del-norte/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Expansion de la production de patates douces violettes aux États-Unis à destination du marché britannique -- <span class=\"news-date\">10/11/2026 15:48</span></div><div class=\"news-body\">En Caroline du Nord, la récolte de patates douces de cette année présente une bonne qualité malgré une sécheresse estivale persistante. Bien que les volumes globaux soient légèrement inférieurs à la moyenne, l&#x27;intérêt marqué du Royaume-Uni encourage l&#x27;expansion des surfaces cultivées pour la variété de patate douce violette. <span class=\"news-reason\">L&#x27;article traite de la production de patates douces (produit Mehadrin) et de l&#x27;intérêt croissant du marché britannique (marché Mehadrin).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9890947/el-creciente-interes-del-reino-unido-impulsa-la-expansion-del-cultivo-de-batata-morada-en-carolina-del-norte/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Expansion of purple sweet potato in the United States for the British market -- <span class=\"news-date\">10/11/2026 15:48</span></div><div class=\"news-body\">In North Carolina, this year's sweet potato harvest shows good quality despite a persistent summer drought. Although overall volumes are slightly below average, strong interest from the United Kingdom is encouraging the expansion of cultivated areas for the purple sweet potato variety. <span class=\"news-reason\">The article discusses sweet potato production (Mehadrin product) and the growing interest from the British market (Mehadrin market).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9890947/el-creciente-interes-del-reino-unido-impulsa-la-expansion-del-cultivo-de-batata-morada-en-carolina-del-norte/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">התרחבות גידול בטטה סגולה בארצות הברית עבור השוק הבריטי -- <span class=\"news-date\">10/11/2026 15:48</span></div><div class=\"news-body\">בצפון קרוליינה, יבול הבטטה השנה מציג איכות טובה למרות בצורת קיצית מתמשכת. למרות שהכמויות הכוללות נמוכות מעט מהממוצע, העניין הרב מצד בריטניה מעודד את הרחבת שטחי הגידול עבור זן הבטטה הסגולה. <span class=\"news-reason\">המאמר עוסק בייצור בטטות (מוצר מהדרין) ובביקוש הגובר מצד השוק הבריטי (שוק מהדרין).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9890947/el-creciente-interes-del-reino-unido-impulsa-la-expansion-del-cultivo-de-batata-morada-en-carolina-del-norte/\" target=\"_blank\">FreshPlaza ES -- קרא את המאמר</a></div></div>"
     },
