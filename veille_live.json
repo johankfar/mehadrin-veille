@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-11-13T16:37:01.315766+00:00",
-  "article_count": 65,
+  "last_updated": "2026-11-13T18:05:44.666817+00:00",
+  "article_count": 69,
   "attention_points": [
     {
-      "id": "attention-8b288f83bc5bdef2",
-      "article_id": "1794582399_1",
-      "url": "https://www.freshplaza.es/article/9892380/california-preve-un-ligero-aumento-en-la-produccion-de-citricos-pero-los-mercados-de-exportacion-siguen-bajo-presion/",
+      "id": "attention-1e0c01494477332d",
+      "article_id": "1794593144_4",
+      "url": "https://www.freshplaza.es/article/9892493/cuatro-hermanas-aprovechan-con-astucia-la-ventana-de-mercado-del-aguacate-ecuatoriano/",
       "source": "FreshPlaza ES",
-      "title": "Démarrage anticipé de la campagne des agrumes",
-      "summary": "La récolte précoce des oranges Navel commence dès le mois de septembre",
+      "title": "L'Équateur consolide sa position sur le marché mondial",
+      "summary": "Un producteur familial équatorien domine désormais le marché national de l'exportation.",
       "origin_code": null,
       "origin_label": null,
       "published_at": "2026-11-13T14:41:00+01:00",
@@ -17,9 +17,9 @@
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [
-        "orange"
+        "avocat"
       ],
-      "age_hours": 2
+      "age_hours": 4
     },
     {
       "id": "attention-c77b0d659670cbca",
@@ -39,7 +39,7 @@
         "sweet_potato",
         "pomegranate"
       ],
-      "age_hours": 2
+      "age_hours": 4
     },
     {
       "id": "attention-d93e2456f57bd3c2",
@@ -56,7 +56,7 @@
       "signal_label": "Volumes",
       "icon": "volume",
       "products": [],
-      "age_hours": 2
+      "age_hours": 4
     },
     {
       "id": "attention-e508587e68e115d4",
@@ -75,10 +75,93 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 3
+      "age_hours": 5
     }
   ],
   "articles": [
+    {
+      "id": "1794593144_5",
+      "timestamp": "2026-11-13T18:05:44.666817+00:00",
+      "title": "Pérou : la production d&#x27;avocats d&#x27;altitude pour approvisionner le marché en février et mars -- 13/11/2026 12:14",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "PER"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Pérou : la production d&#x27;avocats d&#x27;altitude pour approvisionner le marché en février et mars -- <span class=\"news-date\">13/11/2026 12:14</span></div><div class=\"news-body\">Une entreprise familiale située dans les Andes péruviennes a développé une vaste exploitation d&#x27;avocats à haute altitude. Cette localisation permet une maturation décalée et une récolte durant les mois de février et mars, période où la production des autres régions est traditionnellement hors saison. <span class=\"news-reason\">L&#x27;article traite de l&#x27;avocat (produit Mehadrin) au Pérou (origine Mehadrin) et identifie une fenêtre de récolte stratégique en période de faible disponibilité.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9892495/vier-zussen-vullen-het-gat-in-de-avocadomarkt-in-februari-en-maart/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Peru: High-altitude avocado production to supply the market in February and March -- <span class=\"news-date\">13/11/2026 12:14</span></div><div class=\"news-body\">A family business located in the Peruvian Andes has developed a vast high-altitude avocado farm. This location allows for delayed maturation and a harvest during the months of February and March, a period when production in other regions is traditionally out of season. <span class=\"news-reason\">The article discusses avocados (Mehadrin product) in Peru (Mehadrin origin) and identifies a strategic harvest window during a period of low availability.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9892495/vier-zussen-vullen-het-gat-in-de-avocadomarkt-in-februari-en-maart/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">פרו: ייצור אבוקדו בגובה רב לאספקת השוק בפברואר ומרץ -- <span class=\"news-date\">13/11/2026 12:14</span></div><div class=\"news-body\">חברה משפחתית הממוקמת בהרי האנדים הפרואניים פיתחה מטע אבוקדו רחב היקף בגובה רב. מיקום זה מאפשר הבשלה במועדים שונים וקטיף במהלך חודשי פברואר ומרץ, תקופה שבה הייצור באזורים אחרים נמצא באופן מסורתי מחוץ לעונה. <span class=\"news-reason\">המאמר עוסק באבוקדו (מוצר מהדרין) בפרו (מקור מהדרין) ומזהה חלון קטיף אסטרטגי בתקופה של זמינות נמוכה.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9892495/vier-zussen-vullen-het-gat-in-de-avocadomarkt-in-februari-en-maart/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794593144_4",
+      "timestamp": "2026-11-13T18:05:44.666817+00:00",
+      "title": "L&#x27;Équateur consolide sa position sur le marché mondial de l&#x27;avocat",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;Équateur consolide sa position sur le marché mondial de l&#x27;avocat -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">Une entreprise familiale équatorienne est devenue le plus grand producteur d&#x27;avocats du pays. Sa stratégie repose sur une production planifiée pour approvisionner le marché mondial durant les semaines de faible disponibilité chez les concurrents, optimisant ainsi sa présence commerciale. <span class=\"news-reason\">L&#x27;article décrit l&#x27;expansion d&#x27;un concurrent majeur sur le marché de l&#x27;avocat, visant spécifiquement les fenêtres d&#x27;exportation internationales.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892493/cuatro-hermanas-aprovechan-con-astucia-la-ventana-de-mercado-del-aguacate-ecuatoriano/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Ecuador solidifies its positioning in the global avocado market -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">An Ecuadorian family business has become the country's largest avocado producer. Its strategy is based on planned production to supply the global market during weeks of low availability among competitors, thus optimizing its commercial presence. <span class=\"news-reason\">The article describes the expansion of a major competitor in the avocado market, specifically targeting international export windows.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892493/cuatro-hermanas-aprovechan-con-astucia-la-ventana-de-mercado-del-aguacate-ecuatoriano/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">אקוודור מבססת את מעמדה בשוק האבוקדו העולמי -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">חברה משפחתית מאקוודור הפכה ליצרנית האבוקדו הגדולה ביותר במדינה. האסטרטגיה שלה מתבססת על ייצור מתוכנן לאספקת השוק העולמי במהלך שבועות של זמינות נמוכה אצל המתחרים, ובכך היא מייעלת את נוכחותה המסחרית. <span class=\"news-reason\">הכתבה מתארת את התרחבותו של מתחרה מרכזי בשוק האבוקדו, המכוון ספציפית לחלונות הייצוא הבינלאומיים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892493/cuatro-hermanas-aprovechan-con-astucia-la-ventana-de-mercado-del-aguacate-ecuatoriano/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794593144_3",
+      "timestamp": "2026-11-13T18:05:44.666817+00:00",
+      "title": "Forte baisse de l&#x27;emploi dans le secteur agricole au Maroc fin 2026 -- 12/11/2026 07:10",
+      "category": "ALERTES SUPPLY",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Forte baisse de l&#x27;emploi dans le secteur agricole au Maroc fin 2026 -- <span class=\"news-date\">12/11/2026 07:10</span></div><div class=\"news-body\">Le secteur agricole marocain a perdu 145 000 postes entre le deuxième et le troisième trimestre 2026. Malgré cette baisse, l&#x27;agriculture continue d&#x27;employer plus d&#x27;une personne rémunérée sur deux dans les zones rurales, soulignant l&#x27;importance de la main-d&#x27;œuvre pour les campagnes de récolte saisonnières. <span class=\"news-reason\">La perte massive de main-d&#x27;œuvre agricole au Maroc constitue une menace pour la capacité de récolte et de conditionnement.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/emploi-agricole-au-maroc-offres-metiers-saisons-et-smag/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Sharp decline in agricultural sector employment in Morocco at the end of 2026 -- <span class=\"news-date\">12/11/2026 07:10</span></div><div class=\"news-body\">The Moroccan agricultural sector lost 145,000 positions between the second and third quarters of 2026. Despite this decline, agriculture continues to employ more than one in two paid workers in rural areas, highlighting the importance of labor for seasonal harvest campaigns. <span class=\"news-reason\">The massive loss of agricultural labor in Morocco poses a threat to harvesting and packaging capacity.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/emploi-agricole-au-maroc-offres-metiers-saisons-et-smag/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ירידה חדה בתעסוקה במגזר החקלאי במרוקו בסוף 2026 -- <span class=\"news-date\">12/11/2026 07:10</span></div><div class=\"news-body\">המגזר החקלאי במרוקו איבד 145,000 משרות בין הרבעון השני והשלישי של 2026. למרות ירידה זו, החקלאות ממשיכה להעסיק יותר מאדם אחד מכל שני שכירים באזורים הכפריים, דבר המדגיש את חשיבות כוח האדם לעונות הקטיף העונתיות. <span class=\"news-reason\">האובדן המסיבי של כוח אדם חקלאי במרוקו מהווה איום על יכולת הקטיף והאריזה.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/emploi-agricole-au-maroc-offres-metiers-saisons-et-smag/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794593144_2",
+      "timestamp": "2026-11-13T18:05:44.666817+00:00",
+      "title": "Développement de la production d&#x27;avocats pour la fenêtre d&#x27;exportation de février et mars -- 13/11/2026 13:41",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Développement de la production d&#x27;avocats pour la fenêtre d&#x27;exportation de février et mars -- <span class=\"news-date\">13/11/2026 13:41</span></div><div class=\"news-body\">Dans les Andes, une entreprise familiale a développé la plus importante exploitation d&#x27;avocats du pays. La production est planifiée pour arriver à maturité durant les semaines de février et mars, période où les producteurs concurrents sont hors saison, offrant un avantage commercial stratégique pour l&#x27;exportation. <span class=\"news-reason\">Information stratégique sur une fenêtre d&#x27;exportation concurrente pour l&#x27;avocat en période de transition.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9892496/four-sisters-make-a-smart-play-for-the-february-march-export-window-for-avocados/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Development of avocado production for the February and March export window -- <span class=\"news-date\">13/11/2026 13:41</span></div><div class=\"news-body\">In the Andes, a family-run business has developed the largest avocado farm in the country. Production is planned to reach maturity during the weeks of February and March, a period when competing producers are out of season, offering a strategic commercial advantage for export. <span class=\"news-reason\">Strategic information on a competing export window for avocados during a transition period.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9892496/four-sisters-make-a-smart-play-for-the-february-march-export-window-for-avocados/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">פיתוח ייצור אבוקדו עבור חלון הייצוא של פברואר ומרץ -- <span class=\"news-date\">13/11/2026 13:41</span></div><div class=\"news-body\">בהרי האנדים, חברה משפחתית פיתחה את משק האבוקדו הגדול ביותר במדינה. הייצור מתוכנן להגיע להבשלה במהלך שבועות פברואר ומרץ, תקופה שבה היצרנים המתחרים נמצאים מחוץ לעונה, מה שמעניק יתרון מסחרי אסטרטגי לייצוא. <span class=\"news-reason\">מידע אסטרטגי על חלון ייצוא מתחרה לאבוקדו בתקופת מעבר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9892496/four-sisters-make-a-smart-play-for-the-february-march-export-window-for-avocados/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794593144_1",
+      "timestamp": "2026-11-13T18:05:44.666817+00:00",
+      "title": "Front commun européen pour la protection des cultures et le contrôle des importations -- 13/11/2026 07:25",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "FRA",
+        "ITA",
+        "ESP",
+        "PRT"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Front commun européen pour la protection des cultures et le contrôle des importations -- <span class=\"news-date\">13/11/2026 07:25</span></div><div class=\"news-body\">Le Comité Mixto réunissant l&#x27;Espagne, la France, l&#x27;Italie et le Portugal s&#x27;est réuni à Lisbonne. Les membres ont réclamé une meilleure protection des cultures et ont exprimé leur opposition à la modification de l&#x27;Accord UE-Marruecos en raison de la pression croissante des importations sur les marchés européens. <span class=\"news-reason\">Concerne la politique commerciale et la protection des cultures face aux importations marocaines, impactant la concurrence sur les agrumes.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/frente-comun-de-espana-francia-italia-y-portugal-por-las-ayudas-europeas-y-mejorar-la-proteccion-de-los-cultivos/\" target=\"_blank\">Hortoinfo -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">European common front for crop protection and import control -- <span class=\"news-date\">13/11/2026 07:25</span></div><div class=\"news-body\">The Mixed Committee bringing together Spain, France, Italy, and Portugal met in Lisbon. Members called for better crop protection and expressed their opposition to the modification of the EU-Morocco Agreement due to increasing import pressure on European markets. <span class=\"news-reason\">Concerns trade policy and crop protection against Moroccan imports, impacting competition in citrus fruits.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/frente-comun-de-espana-francia-italia-y-portugal-por-las-ayudas-europeas-y-mejorar-la-proteccion-de-los-cultivos/\" target=\"_blank\">Hortoinfo -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">חזית אירופית משותפת להגנת הגידולים ובקרת היבוא -- <span class=\"news-date\">13/11/2026 07:25</span></div><div class=\"news-body\">הוועדה המשותפת המאגדת את ספרד, צרפת, איטליה ופורטוגל התכנסה בליסבון. החברים דרשו הגנה טובה יותר על הגידולים והביעו את התנגדותם לשינוי בהסכם האיחוד האירופי-מרוקו בשל הלחץ הגובר של היבוא על השווקים האירופיים. <span class=\"news-reason\">נוגע למדיניות הסחר ולהגנה על הגידולים מפני היבוא ממרוקו, דבר המשפיע על התחרות בענף פירות ההדר.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/frente-comun-de-espana-francia-italia-y-portugal-por-las-ayudas-europeas-y-mejorar-la-proteccion-de-los-cultivos/\" target=\"_blank\">Hortoinfo -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1794587821_2",
       "timestamp": "2026-11-13T16:37:01.315766+00:00",
@@ -99,26 +182,9 @@
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מפלסי הסכרים ומשאבי מים לחקלאות במרוקו -- <span class=\"news-date\">13/11/2026 13:05</span></div><div class=\"news-body\">מרוקו חווה את ההשלכות של שבע שנים רצופות של בצורת, המשפיעה קשות על מפלסי הסכרים ומי התהום. פרויקטים של התפלה, במיוחד בשטוקה ובדאחלה, מוצגים כפתרונות להבטחת ההשקיה החקלאית. הנתונים הרשמיים מפרטים את המצב הקריטי של עתודות המים לפי אגן. <span class=\"news-reason\">התראה על זמינות המים במרוקו, מקור קריטי לאבוקדו ופירות הדר של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/taux-de-remplissage-des-barrages-et-eau-agricole-au-maroc/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
     },
     {
-      "id": "1794587821_1",
-      "timestamp": "2026-11-13T16:37:01.315766+00:00",
-      "title": "Comparaison de l&#x27;utilisation des pesticides en Espagne, en Israël et au Maroc -- 13/11/2026 07:36",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [],
-      "products": [],
-      "origins": [
-        "ESP",
-        "MAR",
-        "ISR",
-        "TUR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Comparaison de l&#x27;utilisation des pesticides en Espagne, en Israël et au Maroc -- <span class=\"news-date\">13/11/2026 07:36</span></div><div class=\"news-body\">Selon la FAO, Israël utilise 18,08 kg de pesticides par hectare, contre 3,63 kg en Espagne et 1,52 kg au Maroc. Sur dix ans, l&#x27;Espagne a réduit son usage de 19,15 % tandis que le Maroc a enregistré une légère hausse de 0,66 %. La Turquie affiche également une augmentation de son utilisation de 35,58 % pour atteindre 2,21 kg/ha. <span class=\"news-reason\">Données comparatives sur les résidus et pratiques phytosanitaires affectant l&#x27;image et l&#x27;accès au marché des produits israéliens et marocains.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/en-los-cultivos-de-israel-se-usa-un-4189-mas-pesticidas-que-en-espana-y-en-los-de-marruecos-un-5813-menos-que-en-los-espanoles/\" target=\"_blank\">Hortoinfo -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Comparison of pesticide use in Spain, Israel, and Morocco -- <span class=\"news-date\">13/11/2026 07:36</span></div><div class=\"news-body\">According to the FAO, Israel uses 18.08 kg of pesticides per hectare, compared to 3.63 kg in Spain and 1.52 kg in Morocco. Over ten years, Spain has reduced its use by 19.15% while Morocco recorded a slight increase of 0.66%. Turkey also shows an increase in its use of 35.58% to reach 2.21 kg/ha. <span class=\"news-reason\">Comparative data on residues and phytosanitary practices affecting the image and market access of Israeli and Moroccan products.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/en-los-cultivos-de-israel-se-usa-un-4189-mas-pesticidas-que-en-espana-y-en-los-de-marruecos-un-5813-menos-que-en-los-espanoles/\" target=\"_blank\">Hortoinfo -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השוואת השימוש בחומרי הדברה בספרד, בישראל ובמרוקו -- <span class=\"news-date\">13/11/2026 07:36</span></div><div class=\"news-body\">לפי ה-FAO, ישראל משתמשת ב-18.08 ק\"ג חומרי הדברה להקטר, לעומת 3.63 ק\"ג בספרד ו-1.52 ק\"ג במרוקו. לאורך עשר שנים, ספרד הפחיתה את השימוש שלה ב-19.15% בעוד שמרוקו רשמה עלייה קלה של 0.66%. טורקיה מציגה גם היא עלייה בשימוש של 35.58% המגיעה ל-2.21 ק\"ג/הקטר. <span class=\"news-reason\">נתונים השוואתיים על שאריות ושיטות פיטוסניטריות המשפיעות על התדמית והגישה לשוק של מוצרים ישראליים ומרוקאיים.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/en-los-cultivos-de-israel-se-usa-un-4189-mas-pesticidas-que-en-espana-y-en-los-de-marruecos-un-5813-menos-que-en-los-espanoles/\" target=\"_blank\">Hortoinfo -- לקריאת הכתבה</a></div></div>"
-    },
-    {
       "id": "1794582399_7",
       "timestamp": "2026-11-13T15:06:39.187347+00:00",
-      "title": "La hausse des températures entrave la floraison des mangues à Piura",
+      "title": "L&#x27;augmentation des températures impacte la floraison des mangues à Piura",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -129,21 +195,21 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La hausse des températures entrave la floraison des mangues à Piura -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">Dans la région de Piura au Pérou, les températures élevées ont limité la floraison des mangues à seulement 35 % ou 40 % des zones cultivées pour la saison 2026/2027. Bien que 60 % à 65 % des surfaces aient initialement fleuri, les pluies compliquent le développement des fruits. <span class=\"news-reason\">Alerte sur la production et la floraison d&#x27;une origine majeure impactant la disponibilité future.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892707/lluvias-y-baja-floracion-complican-la-campana-de-mango-de-piura/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">L&#x27;augmentation des températures impacte la floraison des mangues à Piura -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">Dans la région de Piura au Pérou, les températures élevées ont limité la floraison des mangues à seulement 35 % ou 40 % des zones cultivées pour la saison 2026/2027. Bien que 60 % à 65 % des surfaces aient initialement fleuri, les pluies compliquent le développement des fruits. <span class=\"news-reason\">Alerte sur la production et la floraison d&#x27;une origine majeure impactant la disponibilité future.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892707/lluvias-y-baja-floracion-complican-la-campana-de-mango-de-piura/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Mango flowering in Piura limited by high temperatures -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">In the Piura region of Peru, high temperatures limited mango flowering to only 35% or 40% of the cultivated areas for the 2026/2027 season. Although 60% to 65% of the areas initially flowered, rains are complicating fruit development. <span class=\"news-reason\">Alert on production and flowering of a major origin impacting future availability.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892707/lluvias-y-baja-floracion-complican-la-campana-de-mango-de-piura/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">פריחת המנגו בפיורה מוגבלת בשל הטמפרטורות הגבוהות -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">באזור פיורה שבפרו, הטמפרטורות הגבוהות הגבילו את פריחת המנגו ל-35% או 40% בלבד מהאזורים המעובדים לעונת 2026/2027. למרות ש-60% עד 65% מהשטחים פרחו בתחילה, הגשמים מקשים על התפתחות הפרי. <span class=\"news-reason\">התראה על הייצור והפריחה ממקור מרכזי המשפיע על הזמינות העתידית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892707/lluvias-y-baja-floracion-complican-la-campana-de-mango-de-piura/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1794582399_6",
       "timestamp": "2026-11-13T15:06:39.187347+00:00",
-      "title": "Recul des exportations d&#x27;agrumes d&#x27;Afrique australe à 201 millions de cartons",
+      "title": "Les exportations d&#x27;agrumes d&#x27;Afrique australe reculent à 201 millions de cartons",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
       ],
       "products": [],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul des exportations d&#x27;agrumes d&#x27;Afrique australe à 201 millions de cartons -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">Les exportateurs d&#x27;agrumes d&#x27;Afrique australe ont expédié 201 millions de cartons de 15 kg en 2026, enregistrant une baisse de 1,5 % par rapport aux 204 millions de cartons de 2025. Ce volume final est inférieur de 4 % à l&#x27;estimation initiale d&#x27;avril qui tablait sur 209,4 millions de cartons. <span class=\"news-reason\">Volumes d&#x27;exportation d&#x27;une origine concurrente majeure avec des chiffres précis et comparaison annuelle.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892382/las-exportaciones-de-citricos-del-sur-de-africa-caen-un-1-5-hasta-los-201-millones-de-cajas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les exportations d&#x27;agrumes d&#x27;Afrique australe reculent à 201 millions de cartons -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">Les exportateurs d&#x27;agrumes d&#x27;Afrique australe ont expédié 201 millions de cartons de 15 kg en 2026, enregistrant une baisse de 1,5 % par rapport aux 204 millions de cartons de 2025. Ce volume final est inférieur de 4 % à l&#x27;estimation initiale d&#x27;avril qui tablait sur 209,4 millions de cartons. <span class=\"news-reason\">Volumes d&#x27;exportation d&#x27;une origine concurrente majeure avec des chiffres précis et comparaison annuelle.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892382/las-exportaciones-de-citricos-del-sur-de-africa-caen-un-1-5-hasta-los-201-millones-de-cajas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Southern African citrus exports decline to 201 million cartons -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">Southern African citrus exporters shipped 201 million 15kg cartons in 2026, recording a 1.5% decrease compared to 204 million cartons in 2025. This final volume is 4% lower than the initial April estimate which projected 209.4 million cartons. <span class=\"news-reason\">Export volumes from a major competing origin with precise figures and annual comparison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892382/las-exportaciones-de-citricos-del-sur-de-africa-caen-un-1-5-hasta-los-201-millones-de-cajas/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">נסיגה בייצוא פירות הדר מדרום אפריקה ל-201 מיליון קרטונים -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">יצואני פירות ההדר מדרום אפריקה שלחו 201 מיליון קרטונים של 15 ק\"ג בשנת 2026, תוך רשימת ירידה של 1.5% בהשוואה ל-204 מיליון הקרטונים בשנת 2025. נפח סופי זה נמוך ב-4% מההערכה הראשונית מאפריל שצפתה 209.4 מיליון קרטונים. <span class=\"news-reason\">נפחי ייצוא ממקור מתחרה מרכזי עם נתונים מדויקים והשוואה שנתית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892382/las-exportaciones-de-citricos-del-sur-de-africa-caen-un-1-5-hasta-los-201-millones-de-cajas/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -461,7 +527,7 @@
     {
       "id": "1794549977_1",
       "timestamp": "2026-11-13T06:06:17.023250+00:00",
-      "title": "Coup d&#x27;envoi de la campagne de récolte des avocats Hass et Bacon dans les Pouilles",
+      "title": "Lancement de la campagne de récolte des avocats Hass et Bacon dans les Pouilles",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -472,7 +538,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Coup d&#x27;envoi de la campagne de récolte des avocats Hass et Bacon dans les Pouilles -- <span class=\"news-date\">13/11/2026 06:05</span></div><div class=\"news-body\">La récolte des avocats est désormais active dans la province de Lecce, en Italie. Les variétés Hass et Bacon, ainsi que quelques volumes de Fuerte, marquent le développement de cette culture en pleine expansion dans le sud du pays. Cette production représente une nouvelle opportunité de diversification pour l&#x27;agriculture locale. <span class=\"news-reason\">Lancement de la campagne d&#x27;une origine concurrente pour l&#x27;avocat sur le marché italien.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892491/al-via-a-lecce-la-raccolta-di-avocado-hass-e-bacon/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne de récolte des avocats Hass et Bacon dans les Pouilles -- <span class=\"news-date\">13/11/2026 06:05</span></div><div class=\"news-body\">La récolte des avocats est désormais active dans la province de Lecce, en Italie. Les variétés Hass et Bacon, ainsi que quelques volumes de Fuerte, marquent le développement de cette culture en pleine expansion dans le sud du pays. Cette production représente une nouvelle opportunité de diversification pour l&#x27;agriculture locale. <span class=\"news-reason\">Lancement de la campagne d&#x27;une origine concurrente pour l&#x27;avocat sur le marché italien.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892491/al-via-a-lecce-la-raccolta-di-avocado-hass-e-bacon/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Launch of the Hass and Bacon avocado harvest in Puglia -- <span class=\"news-date\">13/11/2026 06:05</span></div><div class=\"news-body\">The avocado harvest is now active in the province of Lecce, Italy. The Hass and Bacon varieties, as well as some volumes of Fuerte, mark the development of this rapidly expanding crop in the south of the country. This production represents a new opportunity for diversification for local agriculture. <span class=\"news-reason\">Launch of a competing origin&#x27;s campaign for avocados on the Italian market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892491/al-via-a-lecce-la-raccolta-di-avocado-hass-e-bacon/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">תחילת קטיף האבוקדו מזני האס ובייקון בפוליה -- <span class=\"news-date\">13/11/2026 06:05</span></div><div class=\"news-body\">קטיף האבוקדו החל כעת במחוז לצ'ה, איטליה. הזנים האס ובייקון, לצד כמויות מסוימות של פוארטה, מסמנים את התפתחות הגידול המתרחב בדרום המדינה. ייצור זה מהווה הזדמנות חדשה לגיוון החקלאות המקומית. <span class=\"news-reason\">השקת קמפיין של מקור מתחרה לאבוקדו בשוק האיטלקי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892491/al-via-a-lecce-la-raccolta-di-avocado-hass-e-bacon/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -831,7 +897,7 @@
     {
       "id": "1794479666_2",
       "timestamp": "2026-11-12T10:34:26.486493+00:00",
-      "title": "Tanzanie : la production d’avocats devrait enregistrer une croissance de 25 % en 2026",
+      "title": "Tanzanie : la production d’avocats devrait progresser de 25 % en 2026",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -840,7 +906,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tanzanie : la production d’avocats devrait enregistrer une croissance de 25 % en 2026 -- <span class=\"news-date\">11/11/2026 15:51</span></div><div class=\"news-body\">Selon un rapport de l&#x27;USDA, la récolte d&#x27;avocats en Tanzanie devrait atteindre 250 000 tonnes en 2026, contre 200 000 tonnes en 2025. Cette hausse de 25 % s&#x27;explique par l&#x27;augmentation des surfaces cultivées et l&#x27;arrivée à maturité des jeunes vergers. <span class=\"news-reason\">Chiffres de production et prévisions de récolte pour une origine concurrente de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9890967/la-cosecha-de-aguacate-de-tanzania-esta-previsto-que-crezca-un-25-en-2026/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tanzanie : la production d’avocats devrait progresser de 25 % en 2026 -- <span class=\"news-date\">11/11/2026 15:51</span></div><div class=\"news-body\">Selon un rapport de l&#x27;USDA, la récolte d&#x27;avocats en Tanzanie devrait atteindre 250 000 tonnes en 2026, contre 200 000 tonnes en 2025. Cette hausse de 25 % s&#x27;explique par l&#x27;augmentation des surfaces cultivées et l&#x27;arrivée à maturité des jeunes vergers. <span class=\"news-reason\">Chiffres de production et prévisions de récolte pour une origine concurrente de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9890967/la-cosecha-de-aguacate-de-tanzania-esta-previsto-que-crezca-un-25-en-2026/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Tanzania: avocado production expected to jump by 25% in 2026 -- <span class=\"news-date\">11/11/2026 15:51</span></div><div class=\"news-body\">According to a report by the USDA, the avocado harvest in Tanzania is expected to reach 250,000 tonnes in 2026, compared to 200,000 tonnes in 2025. This 25% increase is explained by the increase in cultivated areas and the reaching of maturity of young orchards. <span class=\"news-reason\">Production figures and harvest forecasts for a competing avocado origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9890967/la-cosecha-de-aguacate-de-tanzania-esta-previsto-que-crezca-un-25-en-2026/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">טנזניה: ייצור האבוקדו צפוי לזנק ב-25% בשנת 2026 -- <span class=\"news-date\">11/11/2026 15:51</span></div><div class=\"news-body\">לפי דו\"ח של ה-USDA, יבול האבוקדו בטנזניה צפוי להגיע ל-250,000 טון בשנת 2026, לעומת 200,000 טון בשנת 2025. עלייה זו של 25% מוסברת על ידי הגדלת שטחי הגידול והתבגרותם של מטעים צעירים. <span class=\"news-reason\">נתוני ייצור ותחזיות יבול עבור מקור מתחרה של אבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9890967/la-cosecha-de-aguacate-de-tanzania-esta-previsto-que-crezca-un-25-en-2026/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -914,7 +980,7 @@
     {
       "id": "1794463469_0",
       "timestamp": "2026-11-12T06:04:29.745773+00:00",
-      "title": "Campagne agrumicole en Italie : volumes conséquents et prédominance de petits calibres",
+      "title": "Campagne agrumicole en Italie : volumes importants et prédominance de petits calibres",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -926,14 +992,14 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Campagne agrumicole en Italie : volumes conséquents et prédominance de petits calibres -- <span class=\"news-date\">12/11/2026 06:00</span></div><div class=\"news-body\">La campagne agrumicole italienne prévoit une forte disponibilité de clémentines, mandarines et oranges. Les volumes sont jugés généreux, mais les fruits présentent des calibres plus petits que les saisons précédentes en raison des conditions climatiques. La qualité gustative est cependant rapportée comme étant très élevée. <span class=\"news-reason\">Analyse de la campagne d&#x27;agrumes (clémentines, oranges) sur un marché majeur pour Mehadrin, précisant la qualité et le profil des calibres.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891810/campagna-agrumicola-generosa-nei-volumi-ma-con-calibri-piu-piccoli/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Campagne agrumicole en Italie : volumes importants et prédominance de petits calibres -- <span class=\"news-date\">12/11/2026 06:00</span></div><div class=\"news-body\">La campagne agrumicole italienne prévoit une forte disponibilité de clémentines, mandarines et oranges. Les volumes sont jugés généreux, mais les fruits présentent des calibres plus petits que les saisons précédentes en raison des conditions climatiques. La qualité gustative est cependant rapportée comme étant très élevée. <span class=\"news-reason\">Analyse de la campagne d&#x27;agrumes (clémentines, oranges) sur un marché majeur pour Mehadrin, précisant la qualité et le profil des calibres.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891810/campagna-agrumicola-generosa-nei-volumi-ma-con-calibri-piu-piccoli/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Citrus campaign in Italy: abundant volumes and limited sizes -- <span class=\"news-date\">12/11/2026 06:00</span></div><div class=\"news-body\">The Italian citrus campaign expects high availability of clementines, mandarins, and oranges. Volumes are considered generous, but the fruits show smaller sizes than previous seasons due to climatic conditions. However, the taste quality is reported to be very high. <span class=\"news-reason\">Analysis of the citrus campaign (clementines, oranges) in a major market for Mehadrin, specifying the quality and size profile.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891810/campagna-agrumicola-generosa-nei-volumi-ma-con-calibri-piu-piccoli/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">עונת ההדרים באיטליה: כמויות בשפע וגדלים קטנים -- <span class=\"news-date\">12/11/2026 06:00</span></div><div class=\"news-body\">עונת ההדרים האיטלקית צופה זמינות גבוהה של קלמנטינות, מנדרינות ותפוזים. הכמויות נחשבות לנדיבות, אך הפירות מציגים גדלים קטנים יותר מהעונות הקודמות בשל תנאי האקלים. איכות הטעם, לעומת זאת, מוגדרת כגבוהה מאוד. <span class=\"news-reason\">ניתוח עונת ההדרים (קלמנטינות, תפוזים) בשוק מרכזי עבור מהדרין, תוך פירוט האיכות ומאפייני הגדלים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891810/campagna-agrumicola-generosa-nei-volumi-ma-con-calibri-piu-piccoli/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1794414877_1",
       "timestamp": "2026-11-11T16:34:37.781587+00:00",
-      "title": "La filière belge de la patate douce face à la pression de la concurrence internationale",
+      "title": "La filière belge de la patate douce sous pression face à la concurrence internationale",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -942,7 +1008,7 @@
         "sweet_potato"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La filière belge de la patate douce face à la pression de la concurrence internationale -- <span class=\"news-date\">11/11/2026 15:51</span></div><div class=\"news-body\">La culture de la patate douce en Belgique reste un défi majeur face à la concurrence des pays produisant à grande échelle avec des coûts inférieurs. L’entreprise De Aardappelhoeve souligne que la récolte intensive et les coûts de main-d’œuvre limitent l&#x27;expansion du secteur belge par rapport aux importations. <span class=\"news-reason\">Analyse du marché européen de la patate douce et des difficultés de production locale face aux grands exportateurs.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9891366/imposible-competir-a-nivel-de-precios-con-paises-donde-la-produccion-se-realiza-a-mayor-escala/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La filière belge de la patate douce sous pression face à la concurrence internationale -- <span class=\"news-date\">11/11/2026 15:51</span></div><div class=\"news-body\">La culture de la patate douce en Belgique reste un défi majeur face à la concurrence des pays produisant à grande échelle avec des coûts inférieurs. L’entreprise De Aardappelhoeve souligne que la récolte intensive et les coûts de main-d’œuvre limitent l&#x27;expansion du secteur belge par rapport aux importations. <span class=\"news-reason\">Analyse du marché européen de la patate douce et des difficultés de production locale face aux grands exportateurs.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9891366/imposible-competir-a-nivel-de-precios-con-paises-donde-la-produccion-se-realiza-a-mayor-escala/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Belgian sweet potato production slowed by international competition -- <span class=\"news-date\">11/11/2026 15:51</span></div><div class=\"news-body\">Sweet potato cultivation in Belgium remains a major challenge in the face of competition from countries producing on a large scale with lower costs. The company De Aardappelhoeve highlights that intensive harvesting and labor costs limit the expansion of the Belgian sector compared to imports. <span class=\"news-reason\">Analysis of the European sweet potato market and local production difficulties in the face of major exporters.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9891366/imposible-competir-a-nivel-de-precios-con-paises-donde-la-produccion-se-realiza-a-mayor-escala/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">ייצור הבטטות בבלגיה נבלם בשל התחרות הבינלאומית -- <span class=\"news-date\">11/11/2026 15:51</span></div><div class=\"news-body\">גידול הבטטה בבלגיה נותר אתגר מרכזי מול תחרות מצד מדינות המייצרות בקנה מידה גדול ובעלויות נמוכות יותר. חברת De Aardappelhoeve מדגישה כי הקטיף האינטנסיבי ועלויות העבודה מגבילים את התרחבות המגזר הבלגי בהשוואה ליבוא. <span class=\"news-reason\">ניתוח של שוק הבטטות האירופי וקשיי הייצור המקומי מול היצואנים הגדולים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9891366/imposible-competir-a-nivel-de-precios-con-paises-donde-la-produccion-se-realiza-a-mayor-escala/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
