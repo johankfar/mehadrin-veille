@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-14T07:37:41.486387+00:00",
-  "article_count": 70,
+  "last_updated": "2026-11-14T09:05:21.236723+00:00",
+  "article_count": 71,
   "attention_points": [
     {
       "id": "attention-212f09d2d3ee06a0",
@@ -19,7 +19,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 14
+      "age_hours": 16
     },
     {
       "id": "attention-ce8bc8b056829702",
@@ -36,7 +36,7 @@
       "signal_label": "Alerte",
       "icon": "alert",
       "products": [],
-      "age_hours": 15
+      "age_hours": 16
     },
     {
       "id": "attention-8b288f83bc5bdef2",
@@ -55,7 +55,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 17
+      "age_hours": 19
     },
     {
       "id": "attention-d93e2456f57bd3c2",
@@ -72,10 +72,24 @@
       "signal_label": "Volumes",
       "icon": "volume",
       "products": [],
-      "age_hours": 17
+      "age_hours": 19
     }
   ],
   "articles": [
+    {
+      "id": "1794647121_1",
+      "timestamp": "2026-11-14T09:05:21.236723+00:00",
+      "title": "Campagne de promotion de la chérimole espagnole à Madrid et Barcelone -- 13/11/2026 14:41",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Campagne de promotion de la chérimole espagnole à Madrid et Barcelone -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">La Dénomination d&#x27;Origine Protégée Chirimoya de la Costa Tropical a lancé une campagne de promotion intitulée « Unique par son onctuosité » sur les marchés municipaux de Madrid, Barcelone et Séville. Cette initiative, prévue pour les mois de novembre et décembre, vise à renforcer la visibilité de ce fruit exotique auprès des consommateurs espagnols durant la saison de récolte. <span class=\"news-reason\">Information sur la promotion commerciale d&#x27;un fruit exotique en Espagne, origine et marché majeurs pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892237/la-chirimoya-de-la-costa-tropical-de-granada-malaga-se-acerca-a-los-consumidores-con-una-campana-de-promocion/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Spanish cherimoya promotion campaign in Madrid and Barcelona -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">The Protected Designation of Origin Chirimoya de la Costa Tropical has launched a promotional campaign titled \"Unique for its creaminess\" in the municipal markets of Madrid, Barcelona, and Seville. This initiative, scheduled for the months of November and December, aims to strengthen the visibility of this exotic fruit among Spanish consumers during the harvest season. <span class=\"news-reason\">Information on the commercial promotion of an exotic fruit in Spain, a major origin and market for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892237/la-chirimoya-de-la-costa-tropical-de-granada-malaga-se-acerca-a-los-consumidores-con-una-campana-de-promocion/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">קמפיין לקידום האנונה הספרדית במדריד וברצלונה -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">הכינוי המוגן למקור (DOP) של Chirimoya de la Costa Tropical השיק קמפיין קידום מכירות תחת הכותרת \"ייחודית במרקם הקרמי שלה\" בשווקים העירוניים של מדריד, ברצלונה וסביליה. יוזמה זו, המתוכננת לחודשים נובמבר ודצמבר, שואפת לחזק את הנראות של פרי אקזוטי זה בקרב הצרכנים הספרדים במהלך עונת הקטיף. <span class=\"news-reason\">מידע על קידום מסחרי של פרי אקזוטי בספרד, מקור ושוק מרכזיים עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892237/la-chirimoya-de-la-costa-tropical-de-granada-malaga-se-acerca-a-los-consumidores-con-una-campana-de-promocion/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1794641861_1",
       "timestamp": "2026-11-14T07:37:41.486387+00:00",
@@ -264,7 +278,7 @@
     {
       "id": "1794582399_7",
       "timestamp": "2026-11-13T15:06:39.187347+00:00",
-      "title": "Incidence de l&#x27;augmentation des températures sur la floraison des manguiers à Piura",
+      "title": "Incidence de la hausse des températures sur la floraison des manguiers à Piura",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -275,7 +289,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Incidence de l&#x27;augmentation des températures sur la floraison des manguiers à Piura -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">Dans la région de Piura au Pérou, les températures élevées ont limité la floraison des mangues à seulement 35 % ou 40 % des zones cultivées pour la saison 2026/2027. Bien que 60 % à 65 % des surfaces aient initialement fleuri, les pluies compliquent le développement des fruits. <span class=\"news-reason\">Alerte sur la production et la floraison d&#x27;une origine majeure impactant la disponibilité future.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892707/lluvias-y-baja-floracion-complican-la-campana-de-mango-de-piura/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Incidence de la hausse des températures sur la floraison des manguiers à Piura -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">Dans la région de Piura au Pérou, les températures élevées ont limité la floraison des mangues à seulement 35 % ou 40 % des zones cultivées pour la saison 2026/2027. Bien que 60 % à 65 % des surfaces aient initialement fleuri, les pluies compliquent le développement des fruits. <span class=\"news-reason\">Alerte sur la production et la floraison d&#x27;une origine majeure impactant la disponibilité future.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892707/lluvias-y-baja-floracion-complican-la-campana-de-mango-de-piura/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Mango flowering in Piura limited by high temperatures -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">In the Piura region of Peru, high temperatures limited mango flowering to only 35% or 40% of the cultivated areas for the 2026/2027 season. Although 60% to 65% of the areas initially flowered, rains are complicating fruit development. <span class=\"news-reason\">Alert on production and flowering of a major origin impacting future availability.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892707/lluvias-y-baja-floracion-complican-la-campana-de-mango-de-piura/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">פריחת המנגו בפיורה מוגבלת בשל הטמפרטורות הגבוהות -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">באזור פיורה שבפרו, הטמפרטורות הגבוהות הגבילו את פריחת המנגו ל-35% או 40% בלבד מהאזורים המעובדים לעונת 2026/2027. למרות ש-60% עד 65% מהשטחים פרחו בתחילה, הגשמים מקשים על התפתחות הפרי. <span class=\"news-reason\">התראה על הייצור והפריחה ממקור מרכזי המשפיע על הזמינות העתידית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892707/lluvias-y-baja-floracion-complican-la-campana-de-mango-de-piura/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -1114,7 +1128,7 @@
     {
       "id": "1794409486_2",
       "timestamp": "2026-11-11T15:04:46.984094+00:00",
-      "title": "L&#x27;avocat grec face à la concurrence des fruits israéliens",
+      "title": "L’avocat grec confronté à la concurrence des fruits israéliens",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -1126,7 +1140,7 @@
         "ISR",
         "GRC"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;avocat grec face à la concurrence des fruits israéliens -- <span class=\"news-date\">11/11/2026 10:40</span></div><div class=\"news-body\">Le début de la campagne des avocats grecs est marqué par une forte pression concurrentielle. Les exportateurs grecs, comme Creta Taste, signalent une large disponibilité d&#x27;avocats israéliens à bas prix sur le marché européen, compliquant les premières ventes de la saison. <span class=\"news-reason\">Analyse de la concurrence directe entre l&#x27;origine Grèce et l&#x27;origine Israël sur le marché de l&#x27;avocat en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891409/eine-schwierige-erste-woche-fur-avocados/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’avocat grec confronté à la concurrence des fruits israéliens -- <span class=\"news-date\">11/11/2026 10:40</span></div><div class=\"news-body\">Le début de la campagne des avocats grecs est marqué par une forte pression concurrentielle. Les exportateurs grecs, comme Creta Taste, signalent une large disponibilité d&#x27;avocats israéliens à bas prix sur le marché européen, compliquant les premières ventes de la saison. <span class=\"news-reason\">Analyse de la concurrence directe entre l&#x27;origine Grèce et l&#x27;origine Israël sur le marché de l&#x27;avocat en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891409/eine-schwierige-erste-woche-fur-avocados/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Greek avocados facing competition from Israeli fruit -- <span class=\"news-date\">11/11/2026 10:40</span></div><div class=\"news-body\">The start of the Greek avocado campaign is marked by strong competitive pressure. Greek exporters, such as Creta Taste, report wide availability of low-priced Israeli avocados on the European market, complicating early-season sales. <span class=\"news-reason\">Analysis of the direct competition between the Greek origin and the Israeli origin in the European avocado market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891409/eine-schwierige-erste-woche-fur-avocados/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">האבוקדו היווני מול התחרות מהפירות הישראליים -- <span class=\"news-date\">11/11/2026 10:40</span></div><div class=\"news-body\">תחילת עונת האבוקדו היווני מאופיינת בלחץ תחרותי חזק. יצואנים יווניים, כמו Creta Taste, מדווחים על זמינות רחבה של אבוקדו ישראלי במחירים נמוכים בשוק האירופי, דבר המקשה על המכירות הראשונות של העונה. <span class=\"news-reason\">ניתוח התחרות הישירה בין המקור היווני למקור הישראלי בשוק האבוקדו באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9891409/eine-schwierige-erste-woche-fur-avocados/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
