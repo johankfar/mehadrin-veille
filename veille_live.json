@@ -1,17 +1,36 @@
 {
-  "last_updated": "2026-11-16T15:05:46.440477+00:00",
-  "article_count": 37,
+  "last_updated": "2026-11-16T16:34:59.146860+00:00",
+  "article_count": 38,
   "attention_points": [
     {
-      "id": "attention-9a3858e4929f6218",
-      "article_id": "1794836160_2",
-      "url": "https://www.freshplaza.fr/article/9892500/quatre-soeurs-tirent-habilement-parti-de-la-fenetre-de-marche-de-l-avocat-equatorien/",
-      "source": "FreshPlaza FR",
-      "title": "Développement de la production d'avocats en Équateur",
-      "summary": "La production équatorienne cible les fenêtres de marché délaissées par les concurrents mondiaux",
+      "id": "attention-b1fcb9060acdf96e",
+      "article_id": "1794846899_0",
+      "url": "https://www.freshplaza.es/article/9893251/el-mercado-esta-presionando-los-precios-del-pomelo-hasta-niveles-dificilmente-sostenibles/",
+      "source": "FreshPlaza ES",
+      "title": "Prix du pomelo espagnol sous pression",
+      "summary": "La campagne espagnole de pomelo 2026 2027 a débuté avec des volumes de production.",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
+      "published_at": "2026-11-16T16:06:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "price",
+      "signal_label": "Prix",
+      "icon": "price",
+      "products": [
+        "citrus_grapefruit"
+      ],
+      "age_hours": 1
+    },
+    {
+      "id": "attention-f71f1199acfa6828",
+      "article_id": "1794846899_1",
+      "url": "https://www.freshplaza.es/article/9890955/los-productores-estan-listos-para-trabajar-a-mayor-escala-ahora-todo-depende-del-mercado/",
+      "source": "FreshPlaza ES",
+      "title": "Croissance soutenue du marché mondial de l'avocat biologique",
+      "summary": "Les ventes d'avocats biologiques ont progressé de 18 % sur l'année écoulée",
       "origin_code": null,
       "origin_label": null,
-      "published_at": "2026-11-16T13:42:00+01:00",
+      "published_at": "2026-11-16T16:06:00+01:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
@@ -19,7 +38,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 2
+      "age_hours": 1
     },
     {
       "id": "attention-3fadd5dce3555f02",
@@ -38,26 +57,7 @@
       "products": [
         "pomegranate"
       ],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-e331981f3412eb98",
-      "article_id": "1794836160_1",
-      "url": "https://www.freshplaza.com/article/9892954/mexican-avocado-sector-explores-oil-processing-as-alternative-market/",
-      "source": "FreshPlaza",
-      "title": "Filière mexicaine de l'avocat explore la transformation",
-      "summary": "Les producteurs mexicains réorientent leur production face à la baisse des prix du marché",
-      "origin_code": "PER",
-      "origin_label": "Pérou",
-      "published_at": "2026-11-16T13:36:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "price",
-      "signal_label": "Prix",
-      "icon": "price",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 2
+      "age_hours": 3
     },
     {
       "id": "attention-b8e7240b9e6cf5ca",
@@ -74,27 +74,44 @@
       "signal_label": "Météo",
       "icon": "weather",
       "products": [],
-      "age_hours": 3
+      "age_hours": 4
     }
   ],
   "articles": [
     {
-      "id": "1794841546_0",
-      "timestamp": "2026-11-16T15:05:46.440477+00:00",
-      "title": "Synthèse des notifications RASFF relatives aux résidus de pesticides par pays -- 16/11/2026 06:25",
+      "id": "1794846899_1",
+      "timestamp": "2026-11-16T16:34:59.146860+00:00",
+      "title": "Croissance soutenue du marché mondial de l&#x27;avocat biologique",
       "category": "PRIX &amp VOLUMES",
-      "commercials": [],
-      "products": [],
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Croissance soutenue du marché mondial de l&#x27;avocat biologique -- <span class=\"news-date\">16/11/2026 16:06</span></div><div class=\"news-body\">Le marché de l&#x27;avocat biologique a enregistré une croissance d&#x27;environ 18 % l&#x27;année dernière, bien qu&#x27;il reste inférieur au segment conventionnel. Dennis de Wit, de la société Eosta, souligne un potentiel de développement important. Les producteurs sont prêts à augmenter les échelles de production, mais l&#x27;expansion dépend désormais de la capacité d&#x27;absorption du marché et de la demande des consommateurs. <span class=\"news-reason\">Informations sur l&#x27;évolution du marché de l&#x27;avocat biologique avec des données de croissance.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9890955/los-productores-estan-listos-para-trabajar-a-mayor-escala-ahora-todo-depende-del-mercado/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Sustained growth of the global organic avocado market -- <span class=\"news-date\">16/11/2026 16:06</span></div><div class=\"news-body\">The organic avocado market recorded growth of approximately 18% last year, although it remains smaller than the conventional segment. Dennis de Wit, from the company Eosta, highlights significant development potential. Producers are ready to increase production scales, but expansion now depends on the market's absorption capacity and consumer demand. <span class=\"news-reason\">Information on the evolution of the organic avocado market with growth data.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9890955/los-productores-estan-listos-para-trabajar-a-mayor-escala-ahora-todo-depende-del-mercado/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">צמיחה מתמדת בשוק העולמי של אבוקדו אורגני -- <span class=\"news-date\">16/11/2026 16:06</span></div><div class=\"news-body\">שוק האבוקדו האורגני רשם צמיחה של כ-18% בשנה האחרונה, למרות שהוא נותר קטן יותר מהמגזר הקונבנציונלי. דניס דה ויט מחברת Eosta מדגיש פוטנציאל פיתוח משמעותי. המגדלים מוכנים להגדיל את היקפי הייצור, אך ההתרחבות תלויה כעת ביכולת הספיגה של השוק ובביקוש מצד הצרכנים. <span class=\"news-reason\">מידע על התפתחות שוק האבוקדו האורגני עם נתוני צמיחה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9890955/los-productores-estan-listos-para-trabajar-a-mayor-escala-ahora-todo-depende-del-mercado/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794846899_0",
+      "timestamp": "2026-11-16T16:34:59.146860+00:00",
+      "title": "Les prix du pomelo espagnol sous pression face à la concurrence turque -- 16/11/2026 16:06",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "citrus_grapefruit"
+      ],
       "origins": [
-        "ITA",
         "ESP",
-        "MAR",
-        "EGY",
         "TUR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Synthèse des notifications RASFF relatives aux résidus de pesticides par pays -- <span class=\"news-date\">16/11/2026 06:25</span></div><div class=\"news-body\">Le système RASFF a identifié 671 cas de résidus de pesticides au cours de la campagne. La Turquie enregistre le plus grand nombre de signalements avec 406 cas. Parmi les autres fournisseurs de l&#x27;Union européenne, l&#x27;Égypte compte 99 notifications, l&#x27;Espagne 43, l&#x27;Italie 37 et le Maroc 13. <span class=\"news-reason\">L&#x27;article fournit des données chiffrées sur les alertes sanitaires impactant des origines concurrentes et partenaires majeures de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/el-rasff-notifico-en-la-campana-671-casos-por-pesticidas-en-hortalizas-y-frutas-de-los-que-406-correspondieron-a-turquia/\" target=\"_blank\">Hortoinfo -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Summary of RASFF notifications regarding pesticide residues by country -- <span class=\"news-date\">16/11/2026 06:25</span></div><div class=\"news-body\">The RASFF system identified 671 cases of pesticide residues during the campaign. Turkey recorded the highest number of reports with 406 cases. Among other European Union suppliers, Egypt has 99 notifications, Spain 43, Italy 37 and Morocco 13. <span class=\"news-reason\">The article provides numerical data on health alerts impacting competing origins and major partners of Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/el-rasff-notifico-en-la-campana-671-casos-por-pesticidas-en-hortalizas-y-frutas-de-los-que-406-correspondieron-a-turquia/\" target=\"_blank\">Hortoinfo -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיכום הודעות RASFF בנוגע לשאריות חומרי הדברה לפי מדינה -- <span class=\"news-date\">16/11/2026 06:25</span></div><div class=\"news-body\">מערכת ה-RASFF זיהתה 671 מקרים של שאריות חומרי הדברה במהלך העונה. טורקיה רשמה את מספר הדיווחים הגבוה ביותר עם 406 מקרים. בין שאר הספקים לאיחוד האירופי, מצרים רשמה 99 הודעות, ספרד 43, איטליה 37 ומרוקו 13. <span class=\"news-reason\">המאמר מספק נתונים מספריים על התראות בריאותיות המשפיעות על מקורות מתחרים ושותפים מרכזיים של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/el-rasff-notifico-en-la-campana-671-casos-por-pesticidas-en-hortalizas-y-frutas-de-los-que-406-correspondieron-a-turquia/\" target=\"_blank\">Hortoinfo -- קרא את הכתבה</a></div></div>"
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les prix du pomelo espagnol sous pression face à la concurrence turque -- <span class=\"news-date\">16/11/2026 16:06</span></div><div class=\"news-body\">La campagne espagnole de pomelo 2026/2027 a débuté avec des volumes de production supérieurs à ceux de la saison précédente. Cette offre accrue, combinée à une concurrence agressive de la Turquie, exerce une pression significative sur les prix de vente. Les exportateurs signalent que les niveaux de prix actuels sont difficilement tenables compte tenu de l&#x27;augmentation des coûts de production. <span class=\"news-reason\">Article traitant de l&#x27;évolution des prix et de la production de pomelos en Espagne avec des chiffres et une analyse de la concurrence.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893251/el-mercado-esta-presionando-los-precios-del-pomelo-hasta-niveles-dificilmente-sostenibles/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spanish pomelo prices under pressure from Turkish competition -- <span class=\"news-date\">16/11/2026 16:06</span></div><div class=\"news-body\">The 2026/2027 Spanish pomelo campaign has started with production volumes higher than those of the previous season. This increased supply, combined with aggressive competition from Turkey, is exerting significant pressure on selling prices. Exporters report that current price levels are barely sustainable given the increase in production costs. <span class=\"news-reason\">Article dealing with the evolution of prices and production of pomelos in Spain with figures and an analysis of the competition.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893251/el-mercado-esta-presionando-los-precios-del-pomelo-hasta-niveles-dificilmente-sostenibles/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מחירי הפומלה הספרדית תחת לחץ מול התחרות הטורקית -- <span class=\"news-date\">16/11/2026 16:06</span></div><div class=\"news-body\">עונת הפומלה הספרדית 2026/2027 החלה עם כמויות ייצור גבוהות מאלו של העונה הקודמת. היצע מוגבר זה, בשילוב עם תחרות אגרסיבית מצד טורקיה, מפעיל לחץ משמעותי על מחירי המכירה. היצואנים מדווחים כי רמות המחירים הנוכחיות קשות לתחזוקה בהתחשב בעלייה בעלויות הייצור. <span class=\"news-reason\">מאמר העוסק בהתפתחות המחירים והייצור של פומלה בספרד עם נתונים וניתוח התחרות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893251/el-mercado-esta-presionando-los-precios-del-pomelo-hasta-niveles-dificilmente-sostenibles/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1794836160_6",
@@ -377,14 +394,14 @@
     {
       "id": "1794825212_0",
       "timestamp": "2026-11-16T10:33:32.154407+00:00",
-      "title": "Recul de 1,5 % des exportations d&#x27;agrumes de l&#x27;Afrique australe en 2026",
+      "title": "Afrique australe : recul de 1,5 % des exportations d&#x27;agrumes en 2026",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
       ],
       "products": [],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul de 1,5 % des exportations d&#x27;agrumes de l&#x27;Afrique australe en 2026 -- <span class=\"news-date\">16/11/2026 06:00</span></div><div class=\"news-body\">En 2026, les exportations d&#x27;agrumes de l&#x27;Afrique australe ont totalisé 201 millions de cartons de 15 kg, marquant une baisse de 1,5 % par rapport aux 204 millions de 2025. Ce volume final est également inférieur de 4 % aux prévisions initiales d&#x27;avril qui s&#x27;élevaient à 209,4 millions de cartons. <span class=\"news-reason\">Chiffres précis sur les volumes d&#x27;exportation d&#x27;une origine concurrente majeure pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892381/le-esportazioni-di-agrumi-dell-africa-meridionale-flettono-dell-1-5-per-cento-a-201-milioni-di-cartoni/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique australe : recul de 1,5 % des exportations d&#x27;agrumes en 2026 -- <span class=\"news-date\">16/11/2026 06:00</span></div><div class=\"news-body\">En 2026, les exportations d&#x27;agrumes de l&#x27;Afrique australe ont totalisé 201 millions de cartons de 15 kg, marquant une baisse de 1,5 % par rapport aux 204 millions de 2025. Ce volume final est également inférieur de 4 % aux prévisions initiales d&#x27;avril qui s&#x27;élevaient à 209,4 millions de cartons. <span class=\"news-reason\">Chiffres précis sur les volumes d&#x27;exportation d&#x27;une origine concurrente majeure pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892381/le-esportazioni-di-agrumi-dell-africa-meridionale-flettono-dell-1-5-per-cento-a-201-milioni-di-cartoni/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">1.5% decline in Southern African citrus exports in 2026 -- <span class=\"news-date\">16/11/2026 06:00</span></div><div class=\"news-body\">In 2026, Southern African citrus exports totaled 201 million 15 kg cartons, marking a 1.5% decrease compared to 204 million in 2025. This final volume is also 4% lower than the initial April forecasts which amounted to 209.4 million cartons. <span class=\"news-reason\">Precise figures on export volumes from a major competing origin for citrus fruits.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892381/le-esportazioni-di-agrumi-dell-africa-meridionale-flettono-dell-1-5-per-cento-a-201-milioni-di-cartoni/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 1.5% בייצוא ההדרים מאפריקה הדרומית בשנת 2026 -- <span class=\"news-date\">16/11/2026 06:00</span></div><div class=\"news-body\">בשנת 2026, ייצוא ההדרים מאפריקה הדרומית הסתכם ב-201 מיליון קרטונים של 15 ק\"ג, המהווה ירידה של 1.5% לעומת 204 מיליון בשנת 2025. נפח סופי זה נמוך ב-4% מהתחזיות הראשוניות של אפריל, שעמדו על 209.4 מיליון קרטונים. <span class=\"news-reason\">נתונים מדויקים על נפחי הייצוא של מקור מתחרה מרכזי בתחום ההדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892381/le-esportazioni-di-agrumi-dell-africa-meridionale-flettono-dell-1-5-per-cento-a-201-milioni-di-cartoni/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
