@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-17T16:36:51.332034+00:00",
-  "article_count": 50,
+  "last_updated": "2026-11-17T18:06:43.557550+00:00",
+  "article_count": 57,
   "attention_points": [
     {
       "id": "attention-1d9dc0cc386bd296",
@@ -19,7 +19,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 2
+      "age_hours": 3
     },
     {
       "id": "attention-262e0efbd6757fa5",
@@ -38,7 +38,7 @@
       "products": [
         "mango"
       ],
-      "age_hours": 2
+      "age_hours": 3
     },
     {
       "id": "attention-0650e8a90fd52510",
@@ -57,29 +57,144 @@
       "products": [
         "citrus_grapefruit"
       ],
-      "age_hours": 3
+      "age_hours": 5
     },
     {
-      "id": "attention-6fc139d792cf47ef",
-      "article_id": "1794933411_1",
-      "url": "https://www.freshplaza.com/article/9893360/the-market-is-pushing-grapefruit-prices-to-levels-that-are-hardly-sustainable/",
+      "id": "attention-16329d5696fd43dd",
+      "article_id": "1794938803_4",
+      "url": "https://www.freshplaza.com/article/9893462/chinese-mandarin-prices-in-malaysia-expected-to-fall-by-20-to-30/",
       "source": "FreshPlaza",
-      "title": "Prix records et concurrence accrue",
-      "summary": "La production de pomelos dépasse légèrement les volumes de la campagne précédente",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
+      "title": "Baisse anticipée des prix des mandarines chinoises",
+      "summary": "Les tarifs des mandarines devraient diminuer de vingt à trente pour cent.",
+      "origin_code": "CHN",
+      "origin_label": "Chine",
       "published_at": "2026-11-17T13:39:00+01:00",
       "published_at_source": "rss",
       "signal_type": "price",
       "signal_label": "Prix",
       "icon": "price",
       "products": [
-        "citrus_grapefruit"
+        "mandarine"
       ],
-      "age_hours": 3
+      "age_hours": 5
     }
   ],
   "articles": [
+    {
+      "id": "1794938803_6",
+      "timestamp": "2026-11-17T18:06:43.557550+00:00",
+      "title": "Importants dégâts sur les agrumes en Espagne après une violente tempête de grêle -- 17/11/2026 12:11",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Importants dégâts sur les agrumes en Espagne après une violente tempête de grêle -- <span class=\"news-date\">17/11/2026 12:11</span></div><div class=\"news-body\">Une violente tempête de grêle a frappé la région du Baix Maestrat dans la province de Castellón en Espagne, causant des dommages considérables aux cultures d&#x27;agrumes. L&#x27;organisation agricole La Unió Llauradora évalue les pertes à plusieurs millions d&#x27;euros. Cette intempérie impacte directement la qualité et la disponibilité des agrumes dans cette zone de production majeure. <span class=\"news-reason\">L&#x27;article rapporte des dégâts météorologiques majeurs affectant les agrumes en Espagne, une origine concurrente clé.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9893364/miljoenschade-aan-citrus-en-groenten-na-zware-hagelbui-in-spanje/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Significant damage to citrus in Spain after a violent hailstorm -- <span class=\"news-date\">17/11/2026 12:11</span></div><div class=\"news-body\">A violent hailstorm hit the Baix Maestrat region in the province of Castellón, Spain, causing significant damage to citrus crops. The agricultural organization La Unió Llauradora estimates losses at several million euros. This weather event directly impacts the quality and availability of citrus in this major production area. <span class=\"news-reason\">The article reports major weather damage affecting citrus in Spain, a key competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9893364/miljoenschade-aan-citrus-en-groenten-na-zware-hagelbui-in-spanje/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">נזקים כבדים לפירות הדר בספרד בעקבות סופת ברד עזה -- <span class=\"news-date\">17/11/2026 12:11</span></div><div class=\"news-body\">סופת ברד עזה פגעה באזור Baix Maestrat במחוז קסטלון שבספרד, וגרמה לנזקים כבדים לגידולי ההדרים. הארגון החקלאי La Unió Llauradora מעריך את ההפסדים במיליוני אירו. פגעי מזג אוויר אלו משפיעים ישירות על האיכות והזמינות של פירות ההדר באזור ייצור מרכזי זה. <span class=\"news-reason\">הכתבה מדווחת על נזקי מזג אוויר משמעותיים המשפיעים על פירות הדר בספרד, מקור אספקה מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9893364/miljoenschade-aan-citrus-en-groenten-na-zware-hagelbui-in-spanje/\" target=\"_blank\">AGF.nl -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794938803_5",
+      "timestamp": "2026-11-17T18:06:43.557550+00:00",
+      "title": "Renforcement des relations commerciales entre l&#x27;UE et le Kenya via le port de Mombasa -- 17/11/2026 13:39",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "KEN"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Renforcement des relations commerciales entre l&#x27;UE et le Kenya via le port de Mombasa -- <span class=\"news-date\">17/11/2026 13:39</span></div><div class=\"news-body\">L&#x27;Union Européenne a confirmé son engagement à renforcer les relations commerciales avec le Kenya, désignant le port de Mombasa comme une infrastructure stratégique pour l&#x27;expansion des exportations vers les marchés internationaux. <span class=\"news-reason\">Information logistique sur une porte de sortie majeure pour les avocats kenyans vers l&#x27;Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893456/eu-strengthens-trade-ties-with-kenya-through-port-of-mombasa/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Strengthening of trade relations between the EU and Kenya via the port of Mombasa -- <span class=\"news-date\">17/11/2026 13:39</span></div><div class=\"news-body\">The European Union confirmed its commitment to strengthening trade relations with Kenya, designating the port of Mombasa as strategic infrastructure for expanding exports to international markets. <span class=\"news-reason\">Logistics information on a major exit point for Kenyan avocados to Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893456/eu-strengthens-trade-ties-with-kenya-through-port-of-mombasa/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות אספקה</div><div class=\"news-title\">חיזוק קשרי המסחר בין האיחוד האירופי לקניה דרך נמל מומבסה -- <span class=\"news-date\">17/11/2026 13:39</span></div><div class=\"news-body\">האיחוד האירופי אישר את מחויבותו לחיזוק קשרי המסחר עם קניה, תוך סימון נמל מומבסה כתשתית אסטרטגית להרחבת הייצוא לשווקים הבינלאומיים. <span class=\"news-reason\">מידע לוגיסטי על שער יציאה מרכזי עבור אבוקדו קנייתי לאירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893456/eu-strengthens-trade-ties-with-kenya-through-port-of-mombasa/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794938803_4",
+      "timestamp": "2026-11-17T18:06:43.557550+00:00",
+      "title": "Baisse anticipée des prix des mandarines chinoises en Malaisie -- 17/11/2026 13:39",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "CHN"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse anticipée des prix des mandarines chinoises en Malaisie -- <span class=\"news-date\">17/11/2026 13:39</span></div><div class=\"news-body\">En Malaisie, les prix des mandarines Red Beauty en provenance du Sichuan devraient baisser de 20 à 30 % par rapport à la saison dernière. Cette baisse est attribuée à l&#x27;arrivée précoce des cargaisons avant le Nouvel An chinois. <span class=\"news-reason\">Prix et tendances de marché avec des chiffres précis sur un produit phare Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893462/chinese-mandarin-prices-in-malaysia-expected-to-fall-by-20-to-30/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Anticipated drop in Chinese mandarin prices in Malaysia -- <span class=\"news-date\">17/11/2026 13:39</span></div><div class=\"news-body\">In Malaysia, prices for Red Beauty mandarins from Sichuan are expected to fall by 20 to 30% compared to last season. This decrease is attributed to the early arrival of shipments before the Chinese New Year. <span class=\"news-reason\">Market prices and trends with precise figures for a flagship Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893462/chinese-mandarin-prices-in-malaysia-expected-to-fall-by-20-to-30/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה צפויה במחירי המנדרינות הסיניות במלזיה -- <span class=\"news-date\">17/11/2026 13:39</span></div><div class=\"news-body\">במלזיה, מחירי מנדרינות ה-Red Beauty המגיעות מסצ'ואן צפויים לרדת ב-20 עד 30 אחוזים בהשוואה לעונה שעברה. ירידה זו מיוחסת להגעה המוקדמת של המטענים לפני ראש השנה הסיני. <span class=\"news-reason\">מחירים ומגמות שוק עם נתונים מדויקים על מוצר דגל של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893462/chinese-mandarin-prices-in-malaysia-expected-to-fall-by-20-to-30/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794938803_3",
+      "timestamp": "2026-11-17T18:06:43.557550+00:00",
+      "title": "Élargissement de la zone de quarantaine contre le HLB en Californie -- 17/11/2026 13:39",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Élargissement de la zone de quarantaine contre le HLB en Californie -- <span class=\"news-date\">17/11/2026 13:39</span></div><div class=\"news-body\">Les autorités phytosanitaires américaines ont étendu la zone de quarantaine pour le verdissement des agrumes (HLB) en Californie de 165 kilomètres carrés supplémentaires afin de freiner la propagation de la maladie. <span class=\"news-reason\">Information réglementaire sur une maladie majeure impactant la production d&#x27;agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893488/california-expands-citrus-greening-quarantine-by-64-square-miles/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Expansion of HLB quarantine zone in California -- <span class=\"news-date\">17/11/2026 13:39</span></div><div class=\"news-body\">US phytosanitary authorities have expanded the citrus greening (HLB) quarantine zone in California by an additional 165 square kilometers to curb the spread of the disease. <span class=\"news-reason\">Regulatory information on a major disease impacting citrus production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893488/california-expands-citrus-greening-quarantine-by-64-square-miles/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">הרחבת אזור ההסגר נגד HLB בקליפורניה -- <span class=\"news-date\">17/11/2026 13:39</span></div><div class=\"news-body\">רשויות הגנת הצומח בארה\"ב הרחיבו את אזור ההסגר עבור מחלת ה-HLB (התיירוק ההדרים) בקליפורניה ב-165 קילומטרים רבועים נוספים כדי לבלום את התפשטות המחלה. <span class=\"news-reason\">מידע רגולטורי על מחלה מרכזית המשפיעה על ייצור פירות הדר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893488/california-expands-citrus-greening-quarantine-by-64-square-miles/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794938803_2",
+      "timestamp": "2026-11-17T18:06:43.557550+00:00",
+      "title": "Espagne : 7,29 millions d&#x27;euros de pertes après une tempête de grêle -- 17/11/2026 13:39",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Espagne : 7,29 millions d&#x27;euros de pertes après une tempête de grêle -- <span class=\"news-date\">17/11/2026 13:39</span></div><div class=\"news-body\">Une tempête de grêle et des vents violents ont frappé 5 600 hectares dans la région du Baix Maestrat à Castellón, impactant sévèrement les agrumes. L&#x27;Unió Llauradora estime les pertes financières à 7,29 millions d&#x27;euros pour l&#x27;ensemble des cultures. <span class=\"news-reason\">Dégâts climatiques majeurs touchant les agrumes dans une zone de production clé (Castellón).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893365/a-hailstorm-hit-5-600-hectares-in-spain-s-baix-maestrat-causing-millions-of-euros-in-damage/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Spain: 7.29 million euros in losses after a hailstorm -- <span class=\"news-date\">17/11/2026 13:39</span></div><div class=\"news-body\">A hailstorm and strong winds hit 5,600 hectares in the Baix Maestrat region of Castellón, severely impacting citrus. The Unió Llauradora estimates financial losses at 7.29 million euros for all crops. <span class=\"news-reason\">Major weather damage affecting citrus in a key production area (Castellón).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893365/a-hailstorm-hit-5-600-hectares-in-spain-s-baix-maestrat-causing-millions-of-euros-in-damage/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ספרד: הפסדים של 7.29 מיליון אירו לאחר סופת ברד -- <span class=\"news-date\">17/11/2026 13:39</span></div><div class=\"news-body\">סופת ברד ורוחות עזות פגעו ב-5,600 הקטאר באזור Baix Maestrat שבקסטלון, והשפיעו קשות על פירות ההדר. ארגון ה-Unió Llauradora מעריך את ההפסדים הכספיים ב-7.29 מיליון אירו לכלל הגידולים. <span class=\"news-reason\">נזקי אקלים משמעותיים המשפיעים על פירות הדר באזור ייצור מרכזי (קסטלון).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893365/a-hailstorm-hit-5-600-hectares-in-spain-s-baix-maestrat-causing-millions-of-euros-in-damage/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794938803_1",
+      "timestamp": "2026-11-17T18:06:43.557550+00:00",
+      "title": "L&#x27;Abkhazie exporte 2 200 tonnes de mandarines vers la Russie -- 17/11/2026 13:49",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">L&#x27;Abkhazie exporte 2 200 tonnes de mandarines vers la Russie -- <span class=\"news-date\">17/11/2026 13:49</span></div><div class=\"news-body\">Depuis le début de la saison d&#x27;automne 2026, l&#x27;Abkhazie a exporté plus de 2 200 tonnes de mandarines vers la Russie. Les expéditions totales de fruits et d&#x27;agrumes de la région ont atteint environ 3 500 tonnes pour cette période. <span class=\"news-reason\">Information sur les volumes d&#x27;une origine concurrente pour les petits agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893669/abkhazia-exports-2-200-tonnes-of-mandarins-to-russia-as-citrus-season-progresses/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Abkhazia exports 2,200 tonnes of mandarins to Russia -- <span class=\"news-date\">17/11/2026 13:49</span></div><div class=\"news-body\">Since the start of the 2026 autumn season, Abkhazia has exported more than 2,200 tonnes of mandarins to Russia. Total fruit and citrus shipments from the region reached approximately 3,500 tonnes for this period. <span class=\"news-reason\">Information on volumes from a competing origin for small citrus fruits.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893669/abkhazia-exports-2-200-tonnes-of-mandarins-to-russia-as-citrus-season-progresses/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">אבחזיה מייצאת 2,200 טון מנדרינות לרוסיה -- <span class=\"news-date\">17/11/2026 13:49</span></div><div class=\"news-body\">מאז תחילת עונת הסתיו 2026, אבחזיה ייצאה יותר מ-2,200 טון מנדרינות לרוסיה. סך משלוחי הפירות וההדרים מהאזור הגיע לכ-3,500 טון בתקופה זו. <span class=\"news-reason\">מידע על כמויות ממקור אספקה מתחרה עבור פירות הדר קטנים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893669/abkhazia-exports-2-200-tonnes-of-mandarins-to-russia-as-citrus-season-progresses/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794938803_0",
+      "timestamp": "2026-11-17T18:06:43.557550+00:00",
+      "title": "Notifications du RASFF relatives aux résidus de pesticides dans les fruits importés -- 16/11/2026 06:25",
+      "category": "ALERTES SUPPLY",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "ITA",
+        "ESP",
+        "MAR",
+        "EGY"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Notifications du RASFF relatives aux résidus de pesticides dans les fruits importés -- <span class=\"news-date\">16/11/2026 06:25</span></div><div class=\"news-body\">Le RASFF a recensé 671 notifications pour dépassement de résidus de pesticides lors de la dernière campagne. Parmi les principaux fournisseurs de l&#x27;Union européenne, l&#x27;Égypte a fait l&#x27;objet de 99 signalements, l&#x27;Espagne 43, l&#x27;Italie 37 et le Maroc 13. <span class=\"news-reason\">L&#x27;article traite de la réglementation et de l&#x27;accès au marché européen concernant les résidus de pesticides pour des origines clés (Égypte, Maroc, Espagne, Italie).</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/el-rasff-notifico-en-la-campana-671-casos-por-pesticidas-en-hortalizas-y-frutas-de-los-que-406-correspondieron-a-turquia/\" target=\"_blank\">Hortoinfo -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">RASFF notifications regarding pesticide residues in imported fruits -- <span class=\"news-date\">16/11/2026 06:25</span></div><div class=\"news-body\">RASFF recorded 671 notifications for exceeding pesticide residues during the last campaign. Among the European Union's main suppliers, Egypt was the subject of 99 reports, Spain 43, Italy 37, and Morocco 13. <span class=\"news-reason\">The article discusses regulation and European market access regarding pesticide residues for key origins (Egypt, Morocco, Spain, Italy).</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/el-rasff-notifico-en-la-campana-671-casos-por-pesticidas-en-hortalizas-y-frutas-de-los-que-406-correspondieron-a-turquia/\" target=\"_blank\">Hortoinfo -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">התראות RASFF בנוגע לשאריות חומרי הדברה בפירות מיובאים -- <span class=\"news-date\">16/11/2026 06:25</span></div><div class=\"news-body\">מערכת ה-RASFF תיעדה 671 התראות על חריגות בשאריות חומרי הדברה במהלך העונה האחרונה. בין הספקיות העיקריות לאיחוד האירופי, מצרים הייתה יעד ל-99 דיווחים, ספרד 43, איטליה 37 ומרוקו 13. <span class=\"news-reason\">המאמר עוסק ברגולציה ובגישה לשוק האירופי בנוגע לשאריות חומרי הדברה עבור מקורות אספקה מרכזיים (מצרים, מרוקו, ספרד, איטליה).</span></div><div class=\"news-source\"><a href=\"https://hortoinfo.es/el-rasff-notifico-en-la-campana-671-casos-por-pesticidas-en-hortalizas-y-frutas-de-los-que-406-correspondieron-a-turquia/\" target=\"_blank\">Hortoinfo -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1794933411_2",
       "timestamp": "2026-11-17T16:36:51.332034+00:00",
@@ -120,7 +235,7 @@
     {
       "id": "1794933411_0",
       "timestamp": "2026-11-17T16:36:51.332034+00:00",
-      "title": "Un producteur d&#x27;avocats californien se sépare d&#x27;une part majeure de son exploitation",
+      "title": "Un producteur d’avocats californien cède une part majeure de son exploitation",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -129,7 +244,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Un producteur d&#x27;avocats californien se sépare d&#x27;une part majeure de son exploitation -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">Un producteur d&#x27;avocats en Californie, Todd Schwarz, a décidé de cesser l&#x27;irrigation de 700 arbres sur son exploitation de 4,05 hectares. Cette décision radicale est motivée par l&#x27;augmentation constante des coûts de production et l&#x27;insuffisance des revenus générés par la vente des fruits. <span class=\"news-reason\">Concerne l&#x27;avocat (produit Mehadrin) et traite de l&#x27;abandon de vergers pour des raisons de rentabilité dans une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893331/un-productor-de-aguacate-de-california-abandona-el-70-de-su-finca-por-el-aumento-de-los-costos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Un producteur d’avocats californien cède une part majeure de son exploitation -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">Un producteur d&#x27;avocats en Californie, Todd Schwarz, a décidé de cesser l&#x27;irrigation de 700 arbres sur son exploitation de 4,05 hectares. Cette décision radicale est motivée par l&#x27;augmentation constante des coûts de production et l&#x27;insuffisance des revenus générés par la vente des fruits. <span class=\"news-reason\">Concerne l&#x27;avocat (produit Mehadrin) et traite de l&#x27;abandon de vergers pour des raisons de rentabilité dans une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893331/un-productor-de-aguacate-de-california-abandona-el-70-de-su-finca-por-el-aumento-de-los-costos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">A Californian avocado producer abandons a major part of his farm -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">An avocado producer in California, Todd Schwarz, has decided to stop irrigating 700 trees on his 4.05-hectare farm. This radical decision is motivated by the constant increase in production costs and the insufficient income generated by fruit sales. <span class=\"news-reason\">Concerns avocado (Mehadrin product) and deals with the abandonment of orchards for profitability reasons in a competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893331/un-productor-de-aguacate-de-california-abandona-el-70-de-su-finca-por-el-aumento-de-los-costos/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מגדל אבוקדו מקליפורניה זונח חלק משמעותי מהמטע שלו -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">מגדל אבוקדו בקליפורניה, טוד שוורץ, החליט להפסיק להשקות 700 עצים במטע שלו המשתרע על פני 4.05 הקטר. החלטה דרסטית זו נובעת מהעלייה המתמדת בעלויות הייצור ומהכנסות לא מספיקות ממכירת הפירות. <span class=\"news-reason\">נוגע לאבוקדו (מוצר מהדרין) ועוסק בנטישת מטעים מסיבות של רווחיות במקור מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893331/un-productor-de-aguacate-de-california-abandona-el-70-de-su-finca-por-el-aumento-de-los-costos/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -383,7 +498,7 @@
     {
       "id": "1794911657_0",
       "timestamp": "2026-11-17T10:34:17.842794+00:00",
-      "title": "Mexique : une récolte record d&#x27;avocats est attendue pour 2026/2027",
+      "title": "Mexique : récolte record d&#x27;avocats attendue pour 2026/2027",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -394,7 +509,7 @@
       "origins": [
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Mexique : une récolte record d&#x27;avocats est attendue pour 2026/2027 -- <span class=\"news-date\">17/11/2026 11:14</span></div><div class=\"news-body\">Le Mexique anticipe une récolte d&#x27;avocats record pour la saison 2026/2027, avec un volume estimé à un peu plus de 1,3 million de tonnes. Selon l&#x27;APEAM, cette production représente une hausse de 10 % par rapport à la campagne précédente. Les conditions météorologiques favorables soutiennent ces prévisions alors que la filière entre dans sa phase de commercialisation la plus active pour l&#x27;exportation. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur l&#x27;augmentation des volumes (10%) et la production totale (1,3 million de tonnes) d&#x27;un produit phare (avocat) d&#x27;une origine majeure influençant le marché mondial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9892871/mexikanische-avocados-auf-kurs-fur-eine-rekordernte-ernte-steigt-um-10/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Mexique : récolte record d&#x27;avocats attendue pour 2026/2027 -- <span class=\"news-date\">17/11/2026 11:14</span></div><div class=\"news-body\">Le Mexique anticipe une récolte d&#x27;avocats record pour la saison 2026/2027, avec un volume estimé à un peu plus de 1,3 million de tonnes. Selon l&#x27;APEAM, cette production représente une hausse de 10 % par rapport à la campagne précédente. Les conditions météorologiques favorables soutiennent ces prévisions alors que la filière entre dans sa phase de commercialisation la plus active pour l&#x27;exportation. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur l&#x27;augmentation des volumes (10%) et la production totale (1,3 million de tonnes) d&#x27;un produit phare (avocat) d&#x27;une origine majeure influençant le marché mondial.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9892871/mexikanische-avocados-auf-kurs-fur-eine-rekordernte-ernte-steigt-um-10/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Mexico: forecasts of a record avocado harvest for 2026/2027 -- <span class=\"news-date\">17/11/2026 11:14</span></div><div class=\"news-body\">Mexico anticipates a record avocado harvest for the 2026/2027 season, with an estimated volume of just over 1.3 million tonnes. According to APEAM, this production represents a 10% increase compared to the previous campaign. Favorable weather conditions support these forecasts as the industry enters its most active marketing phase for export. <span class=\"news-reason\">The article provides precise figures on the volume increase (10%) and total production (1.3 million tonnes) of a flagship product (avocado) from a major origin influencing the global market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9892871/mexikanische-avocados-auf-kurs-fur-eine-rekordernte-ernte-steigt-um-10/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">מקסיקו: תחזיות ליבול שיא של אבוקדו לשנת 2026/2027 -- <span class=\"news-date\">17/11/2026 11:14</span></div><div class=\"news-body\">מקסיקו צופה יבול אבוקדו שובר שיאים לעונת 2026/2027, עם היקף ייצור מוערך של קצת יותר מ-1.3 מיליון טונות. לפי ה-APEAM, ייצור זה מהווה עלייה של 10% בהשוואה לעונה הקודמת. תנאי מזג אוויר נוחים תומכים בתחזיות אלו בעוד הענף נכנס לשלב השיווק הפעיל ביותר שלו לייצוא. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על העלייה בהיקפים (10%) ועל סך הייצור (1.3 מיליון טונות) של מוצר דגל (אבוקדו) ממקור מרכזי המשפיע על השוק העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9892871/mexikanische-avocados-auf-kurs-fur-eine-rekordernte-ernte-steigt-um-10/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -417,7 +532,7 @@
     {
       "id": "1794900900_2",
       "timestamp": "2026-11-17T07:35:00.831241+00:00",
-      "title": "Maroc : une baisse de 20 % de la récolte d&#x27;agrumes est anticipée",
+      "title": "Maroc : une baisse de 20 % de la récolte d&#x27;agrumes est attendue",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -426,7 +541,7 @@
       "origins": [
         "MAR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Maroc : une baisse de 20 % de la récolte d&#x27;agrumes est anticipée -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">La production marocaine d&#x27;agrumes devrait chuter de 20 % pour la campagne 2026/27 selon Maroc Citrus. Le volume est estimé à 1,8 million de tonnes, contre 2,2 millions lors de la saison précédente. Cette baisse est principalement attribuée aux températures estivales extrêmes qui ont affecté le développement des fruits. <span class=\"news-reason\">Information cruciale sur les volumes d&#x27;une origine concurrente directe pour la campagne d&#x27;agrumes en cours, avec des chiffres précis de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891428/in-marocco-si-prevede-un-calo-del-20-per-cento-nel-raccolto-di-agrumi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Maroc : une baisse de 20 % de la récolte d&#x27;agrumes est attendue -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">La production marocaine d&#x27;agrumes devrait chuter de 20 % pour la campagne 2026/27 selon Maroc Citrus. Le volume est estimé à 1,8 million de tonnes, contre 2,2 millions lors de la saison précédente. Cette baisse est principalement attribuée aux températures estivales extrêmes qui ont affecté le développement des fruits. <span class=\"news-reason\">Information cruciale sur les volumes d&#x27;une origine concurrente directe pour la campagne d&#x27;agrumes en cours, avec des chiffres précis de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891428/in-marocco-si-prevede-un-calo-del-20-per-cento-nel-raccolto-di-agrumi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Morocco: a 20% drop in citrus harvest anticipated -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">Moroccan citrus production is expected to drop by 20% for the 2026/27 campaign according to Maroc Citrus. The volume is estimated at 1.8 million tonnes, compared to 2.2 million in the previous season. This decline is mainly attributed to extreme summer temperatures that affected fruit development. <span class=\"news-reason\">Crucial information on volumes from a direct competing origin for the current citrus season, with precise production figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891428/in-marocco-si-prevede-un-calo-del-20-per-cento-nel-raccolto-di-agrumi/\" target=\"_blank\">FreshPlaza IT -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מרוקו: ירידה צפויה של 20% ביבול פירות ההדר -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">ייצור פירות ההדר במרוקו צפוי לרדת ב-20% בעונת 2026/27 לפי Maroc Citrus. הכמות מוערכת ב-1.8 מיליון טונות, לעומת 2.2 מיליון בעונה הקודמת. ירידה זו מיוחסת בעיקר לטמפרטורות קיץ קיצוניות שהשפיעו על התפתחות הפירות. <span class=\"news-reason\">מידע חיוני על כמויות ממקור מתחרה ישיר לעונת פירות ההדר הנוכחית, עם נתוני ייצור מדויקים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891428/in-marocco-si-prevede-un-calo-del-20-per-cento-nel-raccolto-di-agrumi/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -449,7 +564,7 @@
     {
       "id": "1794895473_3",
       "timestamp": "2026-11-17T06:04:33.529234+00:00",
-      "title": "5 600 hectares de cultures ravagés par la grêle dans le Baix Maestrat",
+      "title": "5 600 hectares de cultures ravagées par la grêle dans le Baix Maestrat",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -458,14 +573,14 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">5 600 hectares de cultures ravagés par la grêle dans le Baix Maestrat -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">Une violente tempête de grêle et des vents forts ont frappé le Baix Maestrat en Espagne samedi dernier, endommageant 5 600 hectares de cultures. Les agrumes sont les plus durement touchés par cet événement climatique, entraînant des pertes financières estimées à plusieurs millions d&#x27;euros selon La Unió Llauradora. <span class=\"news-reason\">Alerte supply majeure suite à des intempéries touchant les agrumes en Espagne, une origine concurrente et fournisseur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893366/una-grandinata-causa-danni-a-5-600-ettari-agricoli-del-baix-maestrat-e-perdite-milionarie/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">5 600 hectares de cultures ravagées par la grêle dans le Baix Maestrat -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">Une violente tempête de grêle et des vents forts ont frappé le Baix Maestrat en Espagne samedi dernier, endommageant 5 600 hectares de cultures. Les agrumes sont les plus durement touchés par cet événement climatique, entraînant des pertes financières estimées à plusieurs millions d&#x27;euros selon La Unió Llauradora. <span class=\"news-reason\">Alerte supply majeure suite à des intempéries touchant les agrumes en Espagne, une origine concurrente et fournisseur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893366/una-grandinata-causa-danni-a-5-600-ettari-agricoli-del-baix-maestrat-e-perdite-milionarie/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Hail ravages 5,600 hectares of crops in Baix Maestrat -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">A violent hailstorm and strong winds hit Baix Maestrat in Spain last Saturday, damaging 5,600 hectares of crops. Citrus fruits are the hardest hit by this weather event, resulting in financial losses estimated at several million euros according to La Unió Llauradora. <span class=\"news-reason\">Major supply alert following severe weather affecting citrus fruits in Spain, a competing origin and supplier to Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893366/una-grandinata-causa-danni-a-5-600-ettari-agricoli-del-baix-maestrat-e-perdite-milionarie/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">הברד מחריב 5,600 הקטרים של גידולים בבאש מאסטראט -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">סופת ברד עזה ורוחות חזקות פקדו את אזור באש מאסטראט בספרד בשבת האחרונה, וגרמו נזק ל-5,600 הקטרים של גידולים. פירות ההדר הם הנפגעים הקשים ביותר מאירוע אקלימי זה, מה שהוביל להפסדים כספיים המוערכים במיליוני אירו על פי La Unió Llauradora. <span class=\"news-reason\">התראת אספקה משמעותית בעקבות פגעי מזג אוויר המשפיעים על פירות ההדר בספרד, מקור מתחרה וספק של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893366/una-grandinata-causa-danni-a-5-600-ettari-agricoli-del-baix-maestrat-e-perdite-milionarie/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1794895473_2",
       "timestamp": "2026-11-17T06:04:33.529234+00:00",
-      "title": "Espagne : la production de mangues excède les 40 000 tonnes",
+      "title": "Espagne : la production de mangues dépasse les 40 000 tonnes",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -476,7 +591,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production de mangues excède les 40 000 tonnes -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">La saison 2026 de la mangue en Espagne s&#x27;est achevée avec une récolte de plus de 40 000 tonnes, dépassant les estimations initiales. Ce volume représente une hausse de 10 000 tonnes par rapport à l&#x27;année précédente, bien que l&#x27;Association Espagnole des Fruits Tropicaux souligne des enjeux de rentabilité. <span class=\"news-reason\">Chiffres définitifs de fin de campagne pour une origine concurrente majeure sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891515/coltivare-uno-dei-migliori-mango-al-mondo-non-e-sufficiente-dobbiamo-assicurarci-che-la-coltivazione-sia-redditizia/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production de mangues dépasse les 40 000 tonnes -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">La saison 2026 de la mangue en Espagne s&#x27;est achevée avec une récolte de plus de 40 000 tonnes, dépassant les estimations initiales. Ce volume représente une hausse de 10 000 tonnes par rapport à l&#x27;année précédente, bien que l&#x27;Association Espagnole des Fruits Tropicaux souligne des enjeux de rentabilité. <span class=\"news-reason\">Chiffres définitifs de fin de campagne pour une origine concurrente majeure sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891515/coltivare-uno-dei-migliori-mango-al-mondo-non-e-sufficiente-dobbiamo-assicurarci-che-la-coltivazione-sia-redditizia/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: mango production exceeds 40,000 tons -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">The 2026 mango season in Spain ended with a harvest of over 40,000 tons, exceeding initial estimates. This volume represents an increase of 10,000 tons compared to the previous year, although the Spanish Tropical Fruit Association highlights profitability challenges. <span class=\"news-reason\">Final end-of-campaign figures for a major competing origin on a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891515/coltivare-uno-dei-migliori-mango-al-mondo-non-e-sufficiente-dobbiamo-assicurarci-che-la-coltivazione-sia-redditizia/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד: ייצור המנגו עולה על 40,000 טון -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">עונת המנגו לשנת 2026 בספרד הסתיימה עם יבול של למעלה מ-40,000 טון, מעל ההערכות הראשוניות. נפח זה מייצג עלייה של 10,000 טון לעומת השנה הקודמת, למרות שאיגוד הפירות הטרופיים הספרדי מדגיש אתגרי רווחיות. <span class=\"news-reason\">נתונים סופיים של סוף העונה עבור מקור מתחרה מרכזי במוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891515/coltivare-uno-dei-migliori-mango-al-mondo-non-e-sufficiente-dobbiamo-assicurarci-che-la-coltivazione-sia-redditizia/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
