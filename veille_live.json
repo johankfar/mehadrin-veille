@@ -1,7 +1,63 @@
 {
-  "last_updated": "2026-11-16T18:05:16.288182+00:00",
-  "article_count": 32,
+  "last_updated": "2026-11-17T06:04:33.529234+00:00",
+  "article_count": 34,
   "attention_points": [
+    {
+      "id": "attention-087437f541d39771",
+      "article_id": "1794895473_3",
+      "url": "https://www.freshplaza.it/article/9893366/una-grandinata-causa-danni-a-5-600-ettari-agricoli-del-baix-maestrat-e-perdite-milionarie/",
+      "source": "FreshPlaza IT",
+      "title": "Grêle dévaste 5 600 hectares de cultures",
+      "summary": "La grêle a endommagé cinq mille six cents hectares d'agrumes espagnols",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
+      "published_at": "2026-11-17T06:05:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "weather",
+      "signal_label": "Météo",
+      "icon": "weather",
+      "products": [],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-13659fa4544f6131",
+      "article_id": "1794895473_2",
+      "url": "https://www.freshplaza.it/article/9891515/coltivare-uno-dei-migliori-mango-al-mondo-non-e-sufficiente-dobbiamo-assicurarci-che-la-coltivazione-sia-redditizia/",
+      "source": "FreshPlaza IT",
+      "title": "Production de mangues excède les 40 000 tonnes",
+      "summary": "La production finale dépasse largement les estimations prévues pour cette saison spécifique.",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
+      "published_at": "2026-11-17T06:05:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "mango"
+      ],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-6885b63d065fc1c2",
+      "article_id": "1794895473_0",
+      "url": "https://www.gob.pe/institucion/midagri/noticias/1474367-midagri-agroexportaciones-alcanzan-casi-us-10-mil-millones-en-ventas-de-alimentos-al-mundo",
+      "source": "MIDAGRI (Pérou)",
+      "title": "Pérou : les exportations agroalimentaires atteignent dix milliards",
+      "summary": "Les ventes de fruits soutiennent la croissance globale des expéditions de marchandises",
+      "origin_code": "PER",
+      "origin_label": "Pérou",
+      "published_at": "2026-11-16T22:46:00+00:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "volume",
+      "products": [
+        "mango",
+        "asparagus"
+      ],
+      "age_hours": 7
+    },
     {
       "id": "attention-b1fcb9060acdf96e",
       "article_id": "1794846899_0",
@@ -19,65 +75,81 @@
       "products": [
         "citrus_grapefruit"
       ],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-f71f1199acfa6828",
-      "article_id": "1794846899_1",
-      "url": "https://www.freshplaza.es/article/9890955/los-productores-estan-listos-para-trabajar-a-mayor-escala-ahora-todo-depende-del-mercado/",
-      "source": "FreshPlaza ES",
-      "title": "Croissance soutenue du marché mondial de l'avocat biologique",
-      "summary": "Les ventes d'avocats biologiques ont progressé de 18 % sur l'année écoulée",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-11-16T16:06:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-3fadd5dce3555f02",
-      "article_id": "1794836160_4",
-      "url": "https://www.freshplaza.com/article/9892484/the-quality-and-volumes-of-this-year-s-french-pomegranate-have-exceeded-our-expectations/",
-      "source": "FreshPlaza",
-      "title": "Qualité et volumes records pour la grenade française",
-      "summary": "Les volumes de grenades françaises dépassent les prévisions malgré la fin de récolte",
-      "origin_code": "FRA",
-      "origin_label": "France",
-      "published_at": "2026-11-16T13:36:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "volume",
-      "products": [
-        "pomegranate"
-      ],
-      "age_hours": 5
-    },
-    {
-      "id": "attention-b8e7240b9e6cf5ca",
-      "article_id": "1794830708_6",
-      "url": "https://www.agrimaroc.ma/agrumes-gharb-vergers-inondations-irrigation/",
-      "source": "AgriMaroc",
-      "title": "Inondations dans les vergers de production",
-      "summary": "Des crues menacent les plantations de fruits par un risque d'asphyxie racinaire.",
-      "origin_code": "MAR",
-      "origin_label": "Maroc",
-      "published_at": "2026-11-16T12:03:42+00:00",
-      "published_at_source": "rss",
-      "signal_type": "weather",
-      "signal_label": "Météo",
-      "icon": "weather",
-      "products": [],
-      "age_hours": 6
+      "age_hours": 14
     }
   ],
   "articles": [
+    {
+      "id": "1794895473_3",
+      "timestamp": "2026-11-17T06:04:33.529234+00:00",
+      "title": "La grêle dévaste 5 600 hectares de cultures dans le Baix Maestrat",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">La grêle dévaste 5 600 hectares de cultures dans le Baix Maestrat -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">Une violente tempête de grêle et des vents forts ont frappé le Baix Maestrat en Espagne samedi dernier, endommageant 5 600 hectares de cultures. Les agrumes sont les plus durement touchés par cet événement climatique, entraînant des pertes financières estimées à plusieurs millions d&#x27;euros selon La Unió Llauradora. <span class=\"news-reason\">Alerte supply majeure suite à des intempéries touchant les agrumes en Espagne, une origine concurrente et fournisseur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893366/una-grandinata-causa-danni-a-5-600-ettari-agricoli-del-baix-maestrat-e-perdite-milionarie/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Hail ravages 5,600 hectares of crops in Baix Maestrat -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">A violent hailstorm and strong winds hit Baix Maestrat in Spain last Saturday, damaging 5,600 hectares of crops. Citrus fruits are the hardest hit by this weather event, resulting in financial losses estimated at several million euros according to La Unió Llauradora. <span class=\"news-reason\">Major supply alert following severe weather affecting citrus fruits in Spain, a competing origin and supplier to Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893366/una-grandinata-causa-danni-a-5-600-ettari-agricoli-del-baix-maestrat-e-perdite-milionarie/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">הברד מחריב 5,600 הקטרים של גידולים בבאש מאסטראט -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">סופת ברד עזה ורוחות חזקות פקדו את אזור באש מאסטראט בספרד בשבת האחרונה, וגרמו נזק ל-5,600 הקטרים של גידולים. פירות ההדר הם הנפגעים הקשים ביותר מאירוע אקלימי זה, מה שהוביל להפסדים כספיים המוערכים במיליוני אירו על פי La Unió Llauradora. <span class=\"news-reason\">התראת אספקה משמעותית בעקבות פגעי מזג אוויר המשפיעים על פירות ההדר בספרד, מקור מתחרה וספק של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893366/una-grandinata-causa-danni-a-5-600-ettari-agricoli-del-baix-maestrat-e-perdite-milionarie/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794895473_2",
+      "timestamp": "2026-11-17T06:04:33.529234+00:00",
+      "title": "Espagne : la production de mangues excède les 40 000 tonnes",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production de mangues excède les 40 000 tonnes -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">La saison 2026 de la mangue en Espagne s&#x27;est achevée avec une récolte de plus de 40 000 tonnes, dépassant les estimations initiales. Ce volume représente une hausse de 10 000 tonnes par rapport à l&#x27;année précédente, bien que l&#x27;Association Espagnole des Fruits Tropicaux souligne des enjeux de rentabilité. <span class=\"news-reason\">Chiffres définitifs de fin de campagne pour une origine concurrente majeure sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891515/coltivare-uno-dei-migliori-mango-al-mondo-non-e-sufficiente-dobbiamo-assicurarci-che-la-coltivazione-sia-redditizia/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: mango production exceeds 40,000 tons -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">The 2026 mango season in Spain ended with a harvest of over 40,000 tons, exceeding initial estimates. This volume represents an increase of 10,000 tons compared to the previous year, although the Spanish Tropical Fruit Association highlights profitability challenges. <span class=\"news-reason\">Final end-of-campaign figures for a major competing origin on a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891515/coltivare-uno-dei-migliori-mango-al-mondo-non-e-sufficiente-dobbiamo-assicurarci-che-la-coltivazione-sia-redditizia/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד: ייצור המנגו עולה על 40,000 טון -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">עונת המנגו לשנת 2026 בספרד הסתיימה עם יבול של למעלה מ-40,000 טון, מעל ההערכות הראשוניות. נפח זה מייצג עלייה של 10,000 טון לעומת השנה הקודמת, למרות שאיגוד הפירות הטרופיים הספרדי מדגיש אתגרי רווחיות. <span class=\"news-reason\">נתונים סופיים של סוף העונה עבור מקור מתחרה מרכזי במוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891515/coltivare-uno-dei-migliori-mango-al-mondo-non-e-sufficiente-dobbiamo-assicurarci-che-la-coltivazione-sia-redditizia/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794895473_1",
+      "timestamp": "2026-11-17T06:04:33.529234+00:00",
+      "title": "Hausse de l&#x27;offre de clémentines espagnoles en Allemagne",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "DEU"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Hausse de l&#x27;offre de clémentines espagnoles en Allemagne -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">Au cours de la semaine 45, la disponibilité des clémentines espagnoles a fortement progressé sur le marché allemand, dominant l&#x27;offre aux côtés des produits italiens. Les principales variétés disponibles sont les Oronules, Clemenules, Marisol et Loretina selon les données de l&#x27;organisme BLE. <span class=\"news-reason\">Information sur les volumes et variétés d&#x27;agrumes en saison sur un marché européen clé avec mention de l&#x27;origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892000/la-disponibilita-delle-clementine-spagnole-e-aumentata-sul-mercato-tedesco/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Increase in the supply of Spanish clementines in Germany -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">During week 45, the availability of Spanish clementines increased sharply on the German market, dominating the supply alongside Italian products. The main varieties available are Oronules, Clemenules, Marisol and Loretina according to data from the BLE organization. <span class=\"news-reason\">Information on citrus volumes and varieties in season in a key European market with mention of the competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892000/la-disponibilita-delle-clementine-spagnole-e-aumentata-sul-mercato-tedesco/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">עלייה בהיצע הקלמנטינות הספרדיות בגרמניה -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">במהלך שבוע 45, הזמינות של קלמנטינות ספרדיות עלתה משמעותית בשוק הגרמני, כשהן שולטות בהיצע לצד מוצרים איטלקיים. הזנים העיקריים הזמינים הם Oronules, Clemenules, Marisol ו-Loretina על פי נתוני ארגון ה-BLE. <span class=\"news-reason\">מידע על כמויות וזני פירות הדר בעונה בשוק אירופי מרכזי עם אזכור של מקור מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892000/la-disponibilita-delle-clementine-spagnole-e-aumentata-sul-mercato-tedesco/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1794895473_0",
+      "timestamp": "2026-11-17T06:04:33.529234+00:00",
+      "title": "Pérou : les exportations agroalimentaires atteignent dix milliards de dollars, portées par l&#x27;avocat -- 16/11/2026 22:46",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat",
+        "mango"
+      ],
+      "origins": [
+        "PER"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Pérou : les exportations agroalimentaires atteignent dix milliards de dollars, portées par l&#x27;avocat -- <span class=\"news-date\">16/11/2026 22:46</span></div><div class=\"news-body\">À la fin du mois de septembre 2026, les exportations agricoles du Pérou ont atteint une valeur de près de 10 milliards de dollars, enregistrant une hausse de 1,2 %. Cette croissance est principalement soutenue par les performances à l&#x27;exportation de produits phares tels que les avocats et les mangues. <span class=\"news-reason\">Article factuel contenant des chiffres officiels sur la croissance des exportations d&#x27;avocats et de mangues, origines concurrentes majeures.</span></div><div class=\"news-source\"><a href=\"https://www.gob.pe/institucion/midagri/noticias/1474367-midagri-agroexportaciones-alcanzan-casi-us-10-mil-millones-en-ventas-de-alimentos-al-mundo\" target=\"_blank\">MIDAGRI (Pérou) -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Peru: agri-food exports reach ten billion dollars, driven by avocados -- <span class=\"news-date\">16/11/2026 22:46</span></div><div class=\"news-body\">At the end of September 2026, Peru&#x27;s agricultural exports reached a value of nearly 10 billion dollars, recording an increase of 1.2%. This growth is mainly supported by the export performance of flagship products such as avocados and mangoes. <span class=\"news-reason\">Factual article containing official figures on the growth of avocado and mango exports, major competing origins.</span></div><div class=\"news-source\"><a href=\"https://www.gob.pe/institucion/midagri/noticias/1474367-midagri-agroexportaciones-alcanzan-casi-us-10-mil-millones-en-ventas-de-alimentos-al-mundo\" target=\"_blank\">MIDAGRI (Peru) -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">פרו: יצוא המזון החקלאי מגיע לעשרה מיליארד דולר, בהובלת האבוקדו -- <span class=\"news-date\">16/11/2026 22:46</span></div><div class=\"news-body\">בסוף חודש ספטמבר 2026, יצוא החקלאות של פרו הגיע לשווי של כמעט 10 מיליארד דולר, תוך רישום עלייה של 1.2%. צמיחה זו נתמכת בעיקר על ידי ביצועי הייצוא של מוצרי דגל כמו אבוקדו ומנגו. <span class=\"news-reason\">מאמר עובדתי המכיל נתונים רשמיים על הצמיחה בייצוא אבוקדו ומנגו, מקורות מתחרים עיקריים.</span></div><div class=\"news-source\"><a href=\"https://www.gob.pe/institucion/midagri/noticias/1474367-midagri-agroexportaciones-alcanzan-casi-us-10-mil-millones-en-ventas-de-alimentos-al-mundo\" target=\"_blank\">MIDAGRI (פרו) -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1794846899_1",
       "timestamp": "2026-11-16T16:34:59.146860+00:00",
@@ -408,14 +480,14 @@
     {
       "id": "1794819769_0",
       "timestamp": "2026-11-16T09:02:49.862285+00:00",
-      "title": "Accélération des exportations de clémentines de Corse après une entame de campagne laborieuse",
+      "title": "Accélération des exportations de clémentines de Corse après un début de campagne laborieux",
       "category": "ALERTES SUPPLY",
       "commercials": [],
       "products": [
         "mandarine"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Accélération des exportations de clémentines de Corse après une entame de campagne laborieuse -- <span class=\"news-date\">16/11/2026 09:34</span></div><div class=\"news-body\">Après un démarrage de saison ralenti par de fortes précipitations et des températures clémentes, la commercialisation des clémentines de Corse entre dans une phase active. La variété Fine de Corse ayant atteint sa pleine maturité, les expéditeurs prévoient une augmentation rapide des volumes destinés à l&#x27;exportation. <span class=\"news-reason\">Info sur le début de campagne d&#x27;une origine concurrente sur un produit Mehadrin (clémentines).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9892895/clementine-aus-korsika-nach-einem-holprigen-start-gewinnen-die-exporte-an-fahrt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Accélération des exportations de clémentines de Corse après un début de campagne laborieux -- <span class=\"news-date\">16/11/2026 09:34</span></div><div class=\"news-body\">Après un démarrage de saison ralenti par de fortes précipitations et des températures clémentes, la commercialisation des clémentines de Corse entre dans une phase active. La variété Fine de Corse ayant atteint sa pleine maturité, les expéditeurs prévoient une augmentation rapide des volumes destinés à l&#x27;exportation. <span class=\"news-reason\">Info sur le début de campagne d&#x27;une origine concurrente sur un produit Mehadrin (clémentines).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9892895/clementine-aus-korsika-nach-einem-holprigen-start-gewinnen-die-exporte-an-fahrt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Acceleration of Corsican clementine exports after a difficult start -- <span class=\"news-date\">16/11/2026 09:34</span></div><div class=\"news-body\">After a start to the season slowed by heavy rainfall and mild temperatures, the marketing of Corsican clementines is entering an active phase. With the Fine de Corse variety having reached full maturity, shippers are forecasting a rapid increase in volumes destined for export. <span class=\"news-reason\">Information on the start of the campaign for a competing origin on a Mehadrin product (clementines).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9892895/clementine-aus-korsika-nach-einem-holprigen-start-gewinnen-die-exporte-an-fahrt/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">האצת ייצוא הקלמנטינות מקורסיקה לאחר התחלה קשה -- <span class=\"news-date\">16/11/2026 09:34</span></div><div class=\"news-body\">לאחר תחילת עונה שהואטה בשל משקעים כבדים וטמפרטורות מתונות, שיווק הקלמנטינות מקורסיקה נכנס לשלב פעיל. מאחר שזן ה-Fine de Corse הגיע לבשלות מלאה, המשלחים צופים עלייה מהירה בכמויות המיועדות לייצוא. <span class=\"news-reason\">מידע על תחילת עונה של מקור מתחרה עבור מוצר מהדרין (קלמנטינות).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9892895/clementine-aus-korsika-nach-einem-holprigen-start-gewinnen-die-exporte-an-fahrt/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -530,14 +602,14 @@
     {
       "id": "1794647121_1",
       "timestamp": "2026-11-14T09:05:21.236723+00:00",
-      "title": "Lancement d’une campagne de promotion de la chérimole espagnole à Madrid et Barcelone",
+      "title": "Lancement d&#x27;une campagne de promotion de la chérimole espagnole à Madrid et Barcelone",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [],
       "products": [],
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement d’une campagne de promotion de la chérimole espagnole à Madrid et Barcelone -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">La Dénomination d&#x27;Origine Protégée Chirimoya de la Costa Tropical a lancé une campagne de promotion intitulée « Unique par son onctuosité » sur les marchés municipaux de Madrid, Barcelone et Séville. Cette initiative, prévue pour les mois de novembre et décembre, vise à renforcer la visibilité de ce fruit exotique auprès des consommateurs espagnols durant la saison de récolte. <span class=\"news-reason\">Information sur la promotion commerciale d&#x27;un fruit exotique en Espagne, origine et marché majeurs pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892237/la-chirimoya-de-la-costa-tropical-de-granada-malaga-se-acerca-a-los-consumidores-con-una-campana-de-promocion/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement d&#x27;une campagne de promotion de la chérimole espagnole à Madrid et Barcelone -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">La Dénomination d&#x27;Origine Protégée Chirimoya de la Costa Tropical a lancé une campagne de promotion intitulée « Unique par son onctuosité » sur les marchés municipaux de Madrid, Barcelone et Séville. Cette initiative, prévue pour les mois de novembre et décembre, vise à renforcer la visibilité de ce fruit exotique auprès des consommateurs espagnols durant la saison de récolte. <span class=\"news-reason\">Information sur la promotion commerciale d&#x27;un fruit exotique en Espagne, origine et marché majeurs pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892237/la-chirimoya-de-la-costa-tropical-de-granada-malaga-se-acerca-a-los-consumidores-con-una-campana-de-promocion/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Spanish cherimoya promotion campaign in Madrid and Barcelona -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">The Protected Designation of Origin Chirimoya de la Costa Tropical has launched a promotional campaign titled \"Unique for its creaminess\" in the municipal markets of Madrid, Barcelona, and Seville. This initiative, scheduled for the months of November and December, aims to strengthen the visibility of this exotic fruit among Spanish consumers during the harvest season. <span class=\"news-reason\">Information on the commercial promotion of an exotic fruit in Spain, a major origin and market for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892237/la-chirimoya-de-la-costa-tropical-de-granada-malaga-se-acerca-a-los-consumidores-con-una-campana-de-promocion/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">קמפיין לקידום האנונה הספרדית במדריד וברצלונה -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">הכינוי המוגן למקור (DOP) של Chirimoya de la Costa Tropical השיק קמפיין קידום מכירות תחת הכותרת \"ייחודית במרקם הקרמי שלה\" בשווקים העירוניים של מדריד, ברצלונה וסביליה. יוזמה זו, המתוכננת לחודשים נובמבר ודצמבר, שואפת לחזק את הנראות של פרי אקזוטי זה בקרב הצרכנים הספרדים במהלך עונת הקטיף. <span class=\"news-reason\">מידע על קידום מסחרי של פרי אקזוטי בספרד, מקור ושוק מרכזיים עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892237/la-chirimoya-de-la-costa-tropical-de-granada-malaga-se-acerca-a-los-consumidores-con-una-campana-de-promocion/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -590,39 +662,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La récolte d&#x27;avocats en Tanzanie devrait augmenter de 25 % en 2026 -- <span class=\"news-date\">13/11/2026 13:56</span></div><div class=\"news-body\">La production tanzanienne d&#x27;avocats devrait atteindre 250 000 tonnes en 2026, contre 200 000 tonnes en 2025, soit une progression de 25 %. Cette croissance, attribuée à l&#x27;extension des surfaces de culture, soutient une hausse des exportations vers l&#x27;Union européenne et le Royaume-Uni. <span class=\"news-reason\">L&#x27;article fournit des données chiffrées précises sur l&#x27;augmentation de la production et des exportations d&#x27;avocats, un produit stratégique pour Mehadrin, vers le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9890970/la-recolte-d-avocats-de-tanzanie-devrait-augmenter-de-25-en-2026/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Tanzania&#x27;s avocado harvest expected to increase by 25% in 2026 -- <span class=\"news-date\">13/11/2026 13:56</span></div><div class=\"news-body\">Tanzanian avocado production is expected to reach 250,000 tons in 2026, compared to 200,000 tons in 2025, representing a 25% increase. This growth, attributed to the expansion of cultivation areas, supports a rise in exports to the European Union and the United Kingdom. <span class=\"news-reason\">The article provides precise data on the increase in production and exports of avocados, a strategic product for Mehadrin, to the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9890970/la-recolte-d-avocats-de-tanzanie-devrait-augmenter-de-25-en-2026/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">יבול האבוקדו בטנזניה צפוי לעלות ב-25% בשנת 2026 -- <span class=\"news-date\">13/11/2026 13:56</span></div><div class=\"news-body\">ייצור האבוקדו בטנזניה צפוי להגיע ל-250,000 טון בשנת 2026, לעומת 200,000 טון בשנת 2025, המהווה עלייה של 25%. צמיחה זו, המיוחסת להרחבת שטחי הגידול, תומכת בעלייה בייצוא לאיחוד האירופי ולבריטניה. <span class=\"news-reason\">המאמר מספק נתונים מספריים מדויקים על העלייה בייצור ובייצוא של אבוקדו, מוצר אסטרטגי עבור מהדרין, לשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9890970/la-recolte-d-avocats-de-tanzanie-devrait-augmenter-de-25-en-2026/\" target=\"_blank\">FreshPlaza FR -- לקריאת המאמר</a></div></div>"
-    },
-    {
-      "id": "1794598543_3",
-      "timestamp": "2026-11-13T19:35:43.105324+00:00",
-      "title": "Surproduction et effondrement des cours de la patate douce égyptienne",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie",
-        "Sébastien"
-      ],
-      "products": [
-        "sweet_potato"
-      ],
-      "origins": [
-        "EGY"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Surproduction et effondrement des cours de la patate douce égyptienne -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">Le secteur égyptien de la patate douce fait face à un excédent d&#x27;offre massif provoquant un effondrement des prix. Selon Mohamed Maatouk de RM Fresh, ce problème est dû à une mauvaise coordination des exportations plutôt qu&#x27;à une faible demande. Une restructuration est nécessaire pour stabiliser les cotations sur les marchés européens. <span class=\"news-reason\">Analyse chiffrée de la situation du marché de la patate douce chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9891908/el-exceso-de-oferta-no-significa-que-el-mercado-no-tenga-futuro/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Supply surplus and price collapse for Egyptian sweet potatoes -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">The Egyptian sweet potato sector is facing a massive supply surplus causing a price collapse. According to Mohamed Maatouk of RM Fresh, this problem is due to poor export coordination rather than low demand. Restructuring is necessary to stabilize prices on European markets. <span class=\"news-reason\">Quantified analysis of the sweet potato market situation for a major competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9891908/el-exceso-de-oferta-no-significa-que-el-mercado-no-tenga-futuro/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עודף היצע וירידת מחירים עבור הבטטה המצרית -- <span class=\"news-date\">13/11/2026 14:41</span></div><div class=\"news-body\">ענף הבטטה המצרי מתמודד עם עודף היצע מסיבי הגורם לקריסת מחירים. לדברי מוחמד מעתוק מ-RM Fresh, בעיה זו נובעת מתיאום לקוי של הייצוא ולא מביקוש נמוך. נדרש ארגון מחדש כדי לייצב את המחירים בשווקים האירופיים. <span class=\"news-reason\">ניתוח כמותי של מצב שוק הבטטה אצל מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9891908/el-exceso-de-oferta-no-significa-que-el-mercado-no-tenga-futuro/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1794598543_1",
-      "timestamp": "2026-11-13T19:35:43.105324+00:00",
-      "title": "Persistance des menaces sur les exportations chiliennes malgré une trêve partielle -- 13/11/2026 16:20",
-      "category": "ALERTES SUPPLY",
-      "commercials": [],
-      "products": [],
-      "origins": [
-        "CHL"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Persistance des menaces sur les exportations chiliennes malgré une trêve partielle -- <span class=\"news-date\">13/11/2026 16:20</span></div><div class=\"news-body\">La grève des camionneurs au Chili, qui a duré trois jours, touche à sa fin après un accord avec le gouvernement. Toutefois, la situation reste précaire car des organisations syndicales du sud du pays rejettent les termes de l&#x27;accord, maintenant une menace sur la logistique des exportations de fruits frais en pleine période de pointe. <span class=\"news-reason\">Alerte logistique sur une origine Mehadrin (Chili) durant la haute saison d&#x27;exportation.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/13/trucker-strike-cl/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Persistent threats to Chilean exports despite a partial truce -- <span class=\"news-date\">13/11/2026 16:20</span></div><div class=\"news-body\">The truckers' strike in Chile, which lasted three days, is coming to an end after an agreement with the government. However, the situation remains precarious as trade union organizations in the south of the country reject the terms of the agreement, maintaining a threat to the logistics of fresh fruit exports during the peak period. <span class=\"news-reason\">Logistics alert on a Mehadrin origin (Chile) during the peak export season.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/13/trucker-strike-cl/\" target=\"_blank\">Fresh Fruit Portal -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">איומים מתמשכים על הייצוא הצ'יליאני למרות הפוגה חלקית -- <span class=\"news-date\">13/11/2026 16:20</span></div><div class=\"news-body\">שביתת נהגי המשאיות בצ'ילה, שנמשכה שלושה ימים, מתקרבת לסיומה לאחר הסכם עם הממשלה. עם זאת, המצב נותר רעוע שכן ארגוני עובדים בדרום המדינה דוחים את תנאי ההסכם, דבר השומר על איום על הלוגיסטיקה של ייצוא פירות טריים בעיצומה של תקופת השיא. <span class=\"news-reason\">התראת לוגיסטיקה על מקור מהדרין (צ'ילה) במהלך עונת הייצוא הבוערת.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/13/trucker-strike-cl/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
