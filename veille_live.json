@@ -1,85 +1,201 @@
 {
-  "last_updated": "2026-11-18T12:06:09.103303+00:00",
-  "article_count": 66,
+  "last_updated": "2026-11-18T13:37:11.531933+00:00",
+  "article_count": 73,
   "attention_points": [
     {
-      "id": "attention-db7cd1134d958b52",
-      "article_id": "1795003569_0",
-      "url": "https://www.agf.nl/article/9893618/we-zetten-volop-in-op-de-groei-van-hass-avocado-s/",
-      "source": "AGF.nl",
-      "title": "Granot mise sur l'exportation directe des avocats Hass",
-      "summary": "La coopérative israélienne Granot développe ses propres exportations d'avocats Hass",
-      "origin_code": "ISR",
-      "origin_label": "Israël",
-      "published_at": "2026-11-18T12:21:00+01:00",
+      "id": "attention-aa2a916444a66a67",
+      "article_id": "1795009031_4",
+      "url": "https://www.freshplaza.com/article/9893916/vietnamese-bang-luan-pomelos-secure-first-uk-export-contract/",
+      "source": "FreshPlaza",
+      "title": "Premières exportations de pomelos du Vietnam",
+      "summary": "Une nouvelle zone de production commence expédier ses fruits frais",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-11-18T13:58:00+01:00",
       "published_at_source": "rss",
       "signal_type": "volume",
       "signal_label": "Volumes",
       "icon": "volume",
+      "products": [
+        "citrus_grapefruit"
+      ],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-b2606c95296bd19c",
+      "article_id": "1795009031_2",
+      "url": "https://www.freshplaza.fr/article/9893832/l-argument-selon-lequel-les-oranges-ne-se-vendent-que-si-elles-sont-bon-marche-ne-tient-pas-la-route/",
+      "source": "FreshPlaza FR",
+      "title": "Stratégie de valorisation des agrumes",
+      "summary": "Une marque innove pour stabiliser la consommation face à la baisse des ventes",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-11-18T13:52:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "orange"
+      ],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-f960083a64be9852",
+      "article_id": "1795009031_5",
+      "url": "https://www.freshplaza.fr/article/9891939/les-perturbations-de-l-approvisionnement-en-avocats-mexicains-pourraient-accelerer-la-consolidation-du-secteur/",
+      "source": "FreshPlaza FR",
+      "title": "Perturbations de approvisionnement en avocats",
+      "summary": "Des grèves de producteurs provoquent une hausse des prix de vente",
+      "origin_code": "USA",
+      "origin_label": "États-Unis",
+      "published_at": "2026-11-18T13:52:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
       "products": [
         "avocat"
       ],
       "age_hours": 0
     },
     {
-      "id": "attention-1ded06c41f6c3122",
-      "article_id": "1795003569_2",
-      "url": "https://www.freshfruitportal.com/news/2026/11/18/uk-avocado-gas/",
-      "source": "Fresh Fruit Portal",
-      "title": "Le développement de la demande d'avocats",
-      "summary": "Ce fruit devient un produit de consommation hebdomadaire pour les ménages.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-11-18T08:00:12+00:00",
-      "published_at_source": "rss",
-      "signal_type": "information",
-      "signal_label": "Information",
-      "icon": "information",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 4
-    },
-    {
-      "id": "attention-58c6c09e7f20eadf",
-      "article_id": "1794981954_3",
-      "url": "https://www.agrimaroc.ma/clementine-berkane-entre-a-rungis-face-a-une-espagne-moins-chere/",
-      "source": "AgriMaroc",
-      "title": "Marché de la clémentine en saison",
-      "summary": "Le prix de la clémentine affiche une baisse par rapport à la saison précédente",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-11-18T06:03:30+00:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "mandarine"
-      ],
-      "age_hours": 6
-    },
-    {
-      "id": "attention-ebb54e89347abbd6",
-      "article_id": "1794981954_2",
-      "url": "https://www.freshplaza.it/article/9893859/exploit-dei-mandarini-e-rilancio-del-pompelmo-scenari-e-prospettive-del-comparto-agrumi-nel-2026/",
-      "source": "FreshPlaza IT",
-      "title": "Perspectives du marché de la mandarine",
-      "summary": "Le marché des mandarines et pomelos évolue selon la météo et la demande",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-11-18T06:00:00+01:00",
+      "id": "attention-010d96f77bd04473",
+      "article_id": "1795009031_8",
+      "url": "https://www.freshplaza.com/article/9893942/california-growers-expand-pomegranate-cultivation-on-drought-prone-and-saline-soils/",
+      "source": "FreshPlaza",
+      "title": "Expansion de la culture de la grenade",
+      "summary": "Les producteurs californiens augmentent les surfaces de grenades sur des sols salins et arides",
+      "origin_code": "USA",
+      "origin_label": "États-Unis",
+      "published_at": "2026-11-18T13:28:00+01:00",
       "published_at_source": "rss",
       "signal_type": "weather",
       "signal_label": "Météo",
       "icon": "weather",
       "products": [
-        "citrus_grapefruit"
+        "pomegranate"
       ],
-      "age_hours": 7
+      "age_hours": 1
     }
   ],
   "articles": [
+    {
+      "id": "1795009031_8",
+      "timestamp": "2026-11-18T13:37:11.531933+00:00",
+      "title": "Expansion de la culture de la grenade sur sols salins en Californie -- 18/11/2026 13:28",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [],
+      "origins": [
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Expansion de la culture de la grenade sur sols salins en Californie -- <span class=\"news-date\">18/11/2026 13:28</span></div><div class=\"news-body\">Le secteur de la grenade en Californie attire un intérêt croissant des producteurs en raison de la tolérance de cette culture à la sécheresse et aux sols salins. La culture commerciale s&#x27;est largement étendue depuis 2002. Selon le ministère de l&#x27;Agriculture des États-Unis, les superficies augmentent pour s&#x27;adapter aux conditions de vergers variables et au climat aride. <span class=\"news-reason\">Information sur l&#x27;expansion des surfaces de culture d&#x27;un produit Mehadrin (grenade) chez un concurrent international.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893942/california-growers-expand-pomegranate-cultivation-on-drought-prone-and-saline-soils/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Expansion of pomegranate cultivation on saline soils in California -- <span class=\"news-date\">18/11/2026 13:28</span></div><div class=\"news-body\">California's pomegranate sector is attracting growing interest from growers due to the crop's tolerance to drought and saline soils. Commercial cultivation has expanded significantly since 2002. According to the United States Department of Agriculture, acreages are increasing to adapt to variable orchard conditions and the arid climate. <span class=\"news-reason\">Information on the expansion of cultivation areas for a Mehadrin product (pomegranate) at an international competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893942/california-growers-expand-pomegranate-cultivation-on-drought-prone-and-saline-soils/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">התרחבות גידול הרימונים על קרקעות מלוחות בקליפורניה -- <span class=\"news-date\">18/11/2026 13:28</span></div><div class=\"news-body\">מגזר הרימונים בקליפורניה מעורר עניין גובר בקרב מגדלים בשל סבילות הגידול ליובש ולקרקעות מלוחות. הגידול המסחרי התרחב במידה ניכרת מאז 2002. לפי משרד החקלאות של ארצות הברית, השטחים גדלים כדי להסתגל לתנאי מטעים משתנים ולאקלים צחיח. <span class=\"news-reason\">מידע על התרחבות שטחי הגידול של מוצר מהדרין (רימון) אצל מתחרה בינלאומי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893942/california-growers-expand-pomegranate-cultivation-on-drought-prone-and-saline-soils/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795009031_5",
+      "timestamp": "2026-11-18T13:37:11.531933+00:00",
+      "title": "Les perturbations mexicaines pourraient accélérer la consolidation du secteur de l&#x27;avocat -- 18/11/2026 13:52",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Les perturbations mexicaines pourraient accélérer la consolidation du secteur de l&#x27;avocat -- <span class=\"news-date\">18/11/2026 13:52</span></div><div class=\"news-body\">Des arrêts de travail chez les producteurs mexicains perturbent l&#x27;approvisionnement mondial en avocats, provoquant une hausse immédiate des prix. Cette situation souligne la vulnérabilité de la chaîne logistique et pourrait favoriser une consolidation des acteurs du secteur. <span class=\"news-reason\">Alertes sur l&#x27;approvisionnement et hausse des prix de l&#x27;avocat suite à des arrêts de travail chez un concurrent majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9891939/les-perturbations-de-l-approvisionnement-en-avocats-mexicains-pourraient-accelerer-la-consolidation-du-secteur/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Mexican disruptions could accelerate the consolidation of the avocado sector -- <span class=\"news-date\">18/11/2026 13:52</span></div><div class=\"news-body\">Labor strikes among Mexican producers are disrupting the global avocado supply, causing an immediate price hike. This situation highlights the vulnerability of the logistics chain and could encourage consolidation among industry players. <span class=\"news-reason\">Supply alerts and rising avocado prices following labor strikes at a major competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9891939/les-perturbations-de-l-approvisionnement-en-avocats-mexicains-pourraient-accelerer-la-consolidation-du-secteur/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השיבושים במקסיקו עשויים להאיץ את הקונסולידציה בענף האבוקדו -- <span class=\"news-date\">18/11/2026 13:52</span></div><div class=\"news-body\">שביתות עבודה אצל המגדלים המקסיקנים משבשות את אספקת האבוקדו העולמית, וגורמות לעליית מחירים מיידית. מצב זה מדגיש את הפגיעות של שרשרת האספקה ועשוי לעודד קונסולידציה של השחקנים בענף. <span class=\"news-reason\">התראות על האספקה ועליית מחירי האבוקדו בעקבות שביתות עבודה אצל מתחרה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9891939/les-perturbations-de-l-approvisionnement-en-avocats-mexicains-pourraient-accelerer-la-consolidation-du-secteur/\" target=\"_blank\">FreshPlaza FR -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795009031_4",
+      "timestamp": "2026-11-18T13:37:11.531933+00:00",
+      "title": "Premières exportations de pomelos du Vietnam vers le Royaume-Uni -- 18/11/2026 13:58",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "citrus_grapefruit"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Premières exportations de pomelos du Vietnam vers le Royaume-Uni -- <span class=\"news-date\">18/11/2026 13:58</span></div><div class=\"news-body\">La commune de Bang Luan au Vietnam a signé son premier contrat d&#x27;exportation de pomelos vers le Royaume-Uni. La zone dispose de 780 hectares de vergers, dont 700 hectares sont déjà en production, ouvrant un nouveau canal commercial vers l&#x27;Europe. <span class=\"news-reason\">Nouvelle origine concurrente (780 hectares) pour le pomelo sur un marché stratégique de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893916/vietnamese-bang-luan-pomelos-secure-first-uk-export-contract/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">First pomelo exports from Vietnam to the United Kingdom -- <span class=\"news-date\">18/11/2026 13:58</span></div><div class=\"news-body\">The commune of Bang Luan in Vietnam has signed its first pomelo export contract to the United Kingdom. The area has 780 hectares of orchards, 700 of which are already in production, opening a new commercial channel to Europe. <span class=\"news-reason\">New competing origin (780 hectares) for pomelos in a strategic Mehadrin market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893916/vietnamese-bang-luan-pomelos-secure-first-uk-export-contract/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">ייצוא ראשון של פומלות מווייטנאם לבריטניה -- <span class=\"news-date\">18/11/2026 13:58</span></div><div class=\"news-body\">קומונת באנג לואן (Bang Luan) שבווייטנאם חתמה על חוזה הייצוא הראשון שלה של פומלות לבריטניה. באזור ישנם 780 הקטרים של מטעים, מתוכם 700 הקטרים כבר נמצאים בייצור, מה שפותח ערוץ מסחרי חדש לאירופה. <span class=\"news-reason\">מקור מתחרה חדש (780 הקטרים) לפומלה בשוק אסטרטגי של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893916/vietnamese-bang-luan-pomelos-secure-first-uk-export-contract/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795009031_3",
+      "timestamp": "2026-11-18T13:37:11.531933+00:00",
+      "title": "Érosion du pouvoir d’achat et transition saisonnière des agrumes en Europe",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "ZAF"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Érosion du pouvoir d’achat et transition saisonnière des agrumes en Europe -- <span class=\"news-date\">18/11/2026 11:37</span></div><div class=\"news-body\">Le marché européen vit son changement de saison annuel. Alors que les clémentines espagnoles Oronules arrivent, certains clients conservent les variétés Nadorcott et Orri d&#x27;Afrique du Sud jusqu&#x27;à l&#x27;épuisement des stocks, malgré une baisse du pouvoir d&#x27;achat impactant la distribution. <span class=\"news-reason\">Informations sur le passage de saison entre les stocks de l&#x27;hémisphère sud (Orri, Nadorcott) et les clémentines espagnoles (Oronules).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9892155/sinkende-kaufkraft-macht-sich-im-vertrieb-bemerkbar/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Erosion of purchasing power and seasonal citrus transition in Europe -- <span class=\"news-date\">18/11/2026 11:37</span></div><div class=\"news-body\">The European market is undergoing its annual season change. While Spanish Oronules clementines are arriving, some customers are keeping South African Nadorcott and Orri varieties until stocks are exhausted, despite a decline in purchasing power impacting distribution. <span class=\"news-reason\">Information on the seasonal transition between Southern Hemisphere stocks (Orri, Nadorcott) and Spanish clementines (Oronules).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9892155/sinkende-kaufkraft-macht-sich-im-vertrieb-bemerkbar/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">שחיקת כוח הקנייה ומעבר עונתי של פירות הדר באירופה -- <span class=\"news-date\">18/11/2026 11:37</span></div><div class=\"news-body\">השוק האירופי חווה את חילופי העונות השנתיים שלו. בעוד שהקלמנטינות הספרדיות מסוג אורונולס (Oronules) מגיעות, חלק מהלקוחות שומרים על זני נאדורקוט (Nadorcott) ואורי (Orri) מדרום אפריקה עד גמר המלאי, למרות הירידה בכוח הקנייה המשפיעה על ההפצה. <span class=\"news-reason\">מידע על מעבר העונה בין המלאי של חצי הכדור הדרומי (אורי, נאדורקוט) לבין הקלמנטינות הספרדיות (אורונולס).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9892155/sinkende-kaufkraft-macht-sich-im-vertrieb-bemerkbar/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795009031_2",
+      "timestamp": "2026-11-18T13:37:11.531933+00:00",
+      "title": "Stratégie de valorisation des agrumes face à la baisse des ventes -- 18/11/2026 13:52",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Stratégie de valorisation des agrumes face à la baisse des ventes -- <span class=\"news-date\">18/11/2026 13:52</span></div><div class=\"news-body\">La marque d&#x27;agrumes I LOVE U cherche à réinventer l&#x27;offre traditionnelle en grande distribution pour contrer la baisse continue des ventes d&#x27;oranges. Cette initiative mise sur le renouvellement de l&#x27;expérience de consommation et un positionnement qualitatif pour stabiliser la présence des agrumes en rayon en Europe. <span class=\"news-reason\">Analyse des tendances de consommation et des stratégies de positionnement pour les oranges sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9893832/l-argument-selon-lequel-les-oranges-ne-se-vendent-que-si-elles-sont-bon-marche-ne-tient-pas-la-route/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Citrus value-enhancement strategy in the face of falling sales -- <span class=\"news-date\">18/11/2026 13:52</span></div><div class=\"news-body\">The citrus brand I LOVE U seeks to reinvent the traditional mass retail offering to counter the continuous decline in orange sales. This initiative relies on renewing the consumption experience and qualitative positioning to stabilize the presence of citrus fruits on shelves in Europe. <span class=\"news-reason\">Analysis of consumption trends and positioning strategies for oranges in the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9893832/l-argument-selon-lequel-les-oranges-ne-se-vendent-que-si-elles-sont-bon-marche-ne-tient-pas-la-route/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">אסטרטגיה להעלאת ערך פירות ההדר אל מול הירידה במכירות -- <span class=\"news-date\">18/11/2026 13:52</span></div><div class=\"news-body\">מותג פירות ההדר I LOVE U שואף להמציא מחדש את ההיצע המסורתי ברשתות השיווק כדי להתמודד עם הירידה המתמשכת במכירות התפוזים. יוזמה זו מתבססת על חידוש חוויית הצריכה ומיצוב איכותי כדי לייצב את נוכחות פירות ההדר על המדפים באירופה. <span class=\"news-reason\">ניתוח מגמות צריכה ואסטרטגיות מיצוב עבור תפוזים בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9893832/l-argument-selon-lequel-les-oranges-ne-se-vendent-que-si-elles-sont-bon-marche-ne-tient-pas-la-route/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795009031_1",
+      "timestamp": "2026-11-18T13:37:11.531933+00:00",
+      "title": "Valorisation des variétés traditionnelles de mandarines en Italie -- 18/11/2026 12:00",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "ITA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Valorisation des variétés traditionnelles de mandarines en Italie -- <span class=\"news-date\">18/11/2026 12:00</span></div><div class=\"news-body\">Les agrumiculteurs de l&#x27;Arc ionique tarantin récoltent différentes variétés de mandarines entre décembre et mai. L&#x27;accent est mis sur la préservation et la valorisation des variétés historiques locales pour maintenir la compétitivité du secteur. <span class=\"news-reason\">Information sur le calendrier de récolte et le positionnement des mandarines de la région de Tarente.</span></div><div class=\"news-source\"><a href=\"https://www.fruitjournal.com/2026/11/18/agrumi-di-palagiano-il-valore-delle-varieta-storiche/\" target=\"_blank\">Fruit Journal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Promotion of traditional mandarin varieties in Italy -- <span class=\"news-date\">18/11/2026 12:00</span></div><div class=\"news-body\">Citrus growers in the Tarantine Ionian Arch harvest different varieties of mandarins between December and May. The focus is on preserving and promoting local historical varieties to maintain the sector's competitiveness. <span class=\"news-reason\">Information on the harvest schedule and positioning of mandarins from the Taranto region.</span></div><div class=\"news-source\"><a href=\"https://www.fruitjournal.com/2026/11/18/agrumi-di-palagiano-il-valore-delle-varieta-storiche/\" target=\"_blank\">Fruit Journal -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השבחת זני מנדרינות מסורתיים באיטליה -- <span class=\"news-date\">18/11/2026 12:00</span></div><div class=\"news-body\">מגדלי פירות ההדר בקשת היונית של טרנטו קוטפים זנים שונים של מנדרינות בין דצמבר למאי. הדגש מושם על שימור והשבחה של זנים היסטוריים מקומיים כדי לשמור על התחרותיות של הענף. <span class=\"news-reason\">מידע על לוח זמני הקטיף ומיצוב המנדרינות מאזור טרנטו.</span></div><div class=\"news-source\"><a href=\"https://www.fruitjournal.com/2026/11/18/agrumi-di-palagiano-il-valore-delle-varieta-storiche/\" target=\"_blank\">Fruit Journal -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795009031_0",
+      "timestamp": "2026-11-18T13:37:11.531933+00:00",
+      "title": "Stratégie de valorisation des oranges via la marque ombrelle I Love U -- 18/11/2026 13:28",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Stratégie de valorisation des oranges via la marque ombrelle I Love U -- <span class=\"news-date\">18/11/2026 13:28</span></div><div class=\"news-body\">La marque I Love U tente de transformer l&#x27;expérience de consommation des oranges en mettant l&#x27;accent sur les saveurs et les arômes plutôt que sur les prix bas. Cette stratégie vise à stabiliser les ventes en grande distribution face au déclin structurel de la demande. <span class=\"news-reason\">Analyse de la stratégie de valorisation des oranges en rayon pour contrer la baisse des ventes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893829/we-won-t-accept-the-argument-that-oranges-only-sell-if-they-re-cheap/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Orange value-enhancement strategy via the I Love U umbrella brand -- <span class=\"news-date\">18/11/2026 13:28</span></div><div class=\"news-body\">The I Love U brand is attempting to transform the orange consumption experience by focusing on flavors and aromas rather than low prices. This strategy aims to stabilize mass retail sales in the face of structural demand decline. <span class=\"news-reason\">Analysis of the orange value-enhancement strategy on shelves to counter falling sales.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893829/we-won-t-accept-the-argument-that-oranges-only-sell-if-they-re-cheap/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">שינויים ברשתות השיווק</div><div class=\"news-title\">אסטרטגיה להעלאת ערך התפוזים באמצעות מותג העל I Love U -- <span class=\"news-date\">18/11/2026 13:28</span></div><div class=\"news-body\">המותג I Love U מנסה לשנות את חוויית הצריכה של תפוזים על ידי התמקדות בטעמים ובארומות במקום במחירים נמוכים. אסטרטגיה זו נועדה לייצב את המכירות ברשתות השיווק הגדולות אל מול הירידה המבנית בביקוש. <span class=\"news-reason\">ניתוח אסטרטגיית העלאת הערך של תפוזים על המדף כדי להתמודד עם הירידה במכירות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893829/we-won-t-accept-the-argument-that-oranges-only-sell-if-they-re-cheap/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1795003569_2",
       "timestamp": "2026-11-18T12:06:09.103303+00:00",
@@ -117,7 +233,7 @@
     {
       "id": "1794981954_5",
       "timestamp": "2026-11-18T06:05:54.641490+00:00",
-      "title": "Programme de promotion visant à stimuler la consommation de patates douces",
+      "title": "Programme de promotion pour dynamiser la consommation de patates douces",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -126,7 +242,7 @@
         "sweet_potato"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Programme de promotion visant à stimuler la consommation de patates douces -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">La Caroline du Nord a alloué une subvention de 104 181 dollars pour lancer l&#x27;initiative « Harvesting Knowledge, Growing Consumption ». Ce programme de deux ans vise à accroître la demande de patates douces par des actions éducatives et promotionnelles. <span class=\"news-reason\">L&#x27;article mentionne un investissement chiffré pour promouvoir la consommation de patates douces sur un marché de production majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892812/carolina-del-norte-impulsa-el-consumo-de-batata-con-un-programa-educativo-de-dos-anos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Programme de promotion pour dynamiser la consommation de patates douces -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">La Caroline du Nord a alloué une subvention de 104 181 dollars pour lancer l&#x27;initiative « Harvesting Knowledge, Growing Consumption ». Ce programme de deux ans vise à accroître la demande de patates douces par des actions éducatives et promotionnelles. <span class=\"news-reason\">L&#x27;article mentionne un investissement chiffré pour promouvoir la consommation de patates douces sur un marché de production majeur.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892812/carolina-del-norte-impulsa-el-consumo-de-batata-con-un-programa-educativo-de-dos-anos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Promotion program aimed at boosting sweet potato consumption -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">North Carolina has allocated a $104,181 grant to launch the \"Harvesting Knowledge, Growing Consumption\" initiative. This two-year program aims to increase demand for sweet potatoes through educational and promotional actions. <span class=\"news-reason\">The article mentions a quantified investment to promote sweet potato consumption in a major production market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892812/carolina-del-norte-impulsa-el-consumo-de-batata-con-un-programa-educativo-de-dos-anos/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">תוכנית קידום מכירות לעידוד צריכת בטטות -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">צפון קרוליינה הקצתה מענק של 104,181 דולר להשקת היוזמה \"קצירת ידע, הגדלת הצריכה\". תוכנית דו-שנתית זו נועדה להגדיל את הביקוש לבטטות באמצעות פעולות חינוכיות וקידומיות. <span class=\"news-reason\">המאמר מציין השקעה כספית לקידום צריכת בטטות בשוק ייצור מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892812/carolina-del-norte-impulsa-el-consumo-de-batata-con-un-programa-educativo-de-dos-anos/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -392,7 +508,7 @@
     {
       "id": "1794933411_0",
       "timestamp": "2026-11-17T16:36:51.332034+00:00",
-      "title": "Un producteur d’avocats californien cède une participation majeure dans son exploitation.",
+      "title": "Un producteur californien d&#x27;avocats cède une participation majeure dans ses activités.",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -401,7 +517,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Un producteur d’avocats californien cède une participation majeure dans son exploitation. -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">Un producteur d&#x27;avocats en Californie, Todd Schwarz, a décidé de cesser l&#x27;irrigation de 700 arbres sur son exploitation de 4,05 hectares. Cette décision radicale est motivée par l&#x27;augmentation constante des coûts de production et l&#x27;insuffisance des revenus générés par la vente des fruits. <span class=\"news-reason\">Concerne l&#x27;avocat (produit Mehadrin) et traite de l&#x27;abandon de vergers pour des raisons de rentabilité dans une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893331/un-productor-de-aguacate-de-california-abandona-el-70-de-su-finca-por-el-aumento-de-los-costos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Un producteur californien d&#x27;avocats cède une participation majeure dans ses activités. -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">Un producteur d&#x27;avocats en Californie, Todd Schwarz, a décidé de cesser l&#x27;irrigation de 700 arbres sur son exploitation de 4,05 hectares. Cette décision radicale est motivée par l&#x27;augmentation constante des coûts de production et l&#x27;insuffisance des revenus générés par la vente des fruits. <span class=\"news-reason\">Concerne l&#x27;avocat (produit Mehadrin) et traite de l&#x27;abandon de vergers pour des raisons de rentabilité dans une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893331/un-productor-de-aguacate-de-california-abandona-el-70-de-su-finca-por-el-aumento-de-los-costos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">A Californian avocado producer abandons a major part of his farm -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">An avocado producer in California, Todd Schwarz, has decided to stop irrigating 700 trees on his 4.05-hectare farm. This radical decision is motivated by the constant increase in production costs and the insufficient income generated by fruit sales. <span class=\"news-reason\">Concerns avocado (Mehadrin product) and deals with the abandonment of orchards for profitability reasons in a competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893331/un-productor-de-aguacate-de-california-abandona-el-70-de-su-finca-por-el-aumento-de-los-costos/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מגדל אבוקדו מקליפורניה זונח חלק משמעותי מהמטע שלו -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">מגדל אבוקדו בקליפורניה, טוד שוורץ, החליט להפסיק להשקות 700 עצים במטע שלו המשתרע על פני 4.05 הקטר. החלטה דרסטית זו נובעת מהעלייה המתמדת בעלויות הייצור ומהכנסות לא מספיקות ממכירת הפירות. <span class=\"news-reason\">נוגע לאבוקדו (מוצר מהדרין) ועוסק בנטישת מטעים מסיבות של רווחיות במקור מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893331/un-productor-de-aguacate-de-california-abandona-el-70-de-su-finca-por-el-aumento-de-los-costos/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -689,7 +805,7 @@
     {
       "id": "1794900900_2",
       "timestamp": "2026-11-17T07:35:00.831241+00:00",
-      "title": "Maroc : une baisse de 20 % de la récolte d&#x27;agrumes est attendue",
+      "title": "Maroc : baisse de 20 % de la récolte d&#x27;agrumes attendue",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -698,7 +814,7 @@
       "origins": [
         "MAR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Maroc : une baisse de 20 % de la récolte d&#x27;agrumes est attendue -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">La production marocaine d&#x27;agrumes devrait chuter de 20 % pour la campagne 2026/27 selon Maroc Citrus. Le volume est estimé à 1,8 million de tonnes, contre 2,2 millions lors de la saison précédente. Cette baisse est principalement attribuée aux températures estivales extrêmes qui ont affecté le développement des fruits. <span class=\"news-reason\">Information cruciale sur les volumes d&#x27;une origine concurrente directe pour la campagne d&#x27;agrumes en cours, avec des chiffres précis de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891428/in-marocco-si-prevede-un-calo-del-20-per-cento-nel-raccolto-di-agrumi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Maroc : baisse de 20 % de la récolte d&#x27;agrumes attendue -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">La production marocaine d&#x27;agrumes devrait chuter de 20 % pour la campagne 2026/27 selon Maroc Citrus. Le volume est estimé à 1,8 million de tonnes, contre 2,2 millions lors de la saison précédente. Cette baisse est principalement attribuée aux températures estivales extrêmes qui ont affecté le développement des fruits. <span class=\"news-reason\">Information cruciale sur les volumes d&#x27;une origine concurrente directe pour la campagne d&#x27;agrumes en cours, avec des chiffres précis de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891428/in-marocco-si-prevede-un-calo-del-20-per-cento-nel-raccolto-di-agrumi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Morocco: a 20% drop in citrus harvest anticipated -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">Moroccan citrus production is expected to drop by 20% for the 2026/27 campaign according to Maroc Citrus. The volume is estimated at 1.8 million tonnes, compared to 2.2 million in the previous season. This decline is mainly attributed to extreme summer temperatures that affected fruit development. <span class=\"news-reason\">Crucial information on volumes from a direct competing origin for the current citrus season, with precise production figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891428/in-marocco-si-prevede-un-calo-del-20-per-cento-nel-raccolto-di-agrumi/\" target=\"_blank\">FreshPlaza IT -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מרוקו: ירידה צפויה של 20% ביבול פירות ההדר -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">ייצור פירות ההדר במרוקו צפוי לרדת ב-20% בעונת 2026/27 לפי Maroc Citrus. הכמות מוערכת ב-1.8 מיליון טונות, לעומת 2.2 מיליון בעונה הקודמת. ירידה זו מיוחסת בעיקר לטמפרטורות קיץ קיצוניות שהשפיעו על התפתחות הפירות. <span class=\"news-reason\">מידע חיוני על כמויות ממקור מתחרה ישיר לעונת פירות ההדר הנוכחית, עם נתוני ייצור מדויקים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891428/in-marocco-si-prevede-un-calo-del-20-per-cento-nel-raccolto-di-agrumi/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -1119,14 +1235,14 @@
     {
       "id": "1794819769_0",
       "timestamp": "2026-11-16T09:02:49.862285+00:00",
-      "title": "Intensification des exportations de clémentines de Corse après un début de campagne complexe",
+      "title": "Accélération des exportations de clémentines de Corse après un début de campagne complexe",
       "category": "ALERTES SUPPLY",
       "commercials": [],
       "products": [
         "mandarine"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Intensification des exportations de clémentines de Corse après un début de campagne complexe -- <span class=\"news-date\">16/11/2026 09:34</span></div><div class=\"news-body\">Après un démarrage de saison ralenti par de fortes précipitations et des températures clémentes, la commercialisation des clémentines de Corse entre dans une phase active. La variété Fine de Corse ayant atteint sa pleine maturité, les expéditeurs prévoient une augmentation rapide des volumes destinés à l&#x27;exportation. <span class=\"news-reason\">Info sur le début de campagne d&#x27;une origine concurrente sur un produit Mehadrin (clémentines).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9892895/clementine-aus-korsika-nach-einem-holprigen-start-gewinnen-die-exporte-an-fahrt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Accélération des exportations de clémentines de Corse après un début de campagne complexe -- <span class=\"news-date\">16/11/2026 09:34</span></div><div class=\"news-body\">Après un démarrage de saison ralenti par de fortes précipitations et des températures clémentes, la commercialisation des clémentines de Corse entre dans une phase active. La variété Fine de Corse ayant atteint sa pleine maturité, les expéditeurs prévoient une augmentation rapide des volumes destinés à l&#x27;exportation. <span class=\"news-reason\">Info sur le début de campagne d&#x27;une origine concurrente sur un produit Mehadrin (clémentines).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9892895/clementine-aus-korsika-nach-einem-holprigen-start-gewinnen-die-exporte-an-fahrt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Acceleration of Corsican clementine exports after a difficult start -- <span class=\"news-date\">16/11/2026 09:34</span></div><div class=\"news-body\">After a start to the season slowed by heavy rainfall and mild temperatures, the marketing of Corsican clementines is entering an active phase. With the Fine de Corse variety having reached full maturity, shippers are forecasting a rapid increase in volumes destined for export. <span class=\"news-reason\">Information on the start of the campaign for a competing origin on a Mehadrin product (clementines).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9892895/clementine-aus-korsika-nach-einem-holprigen-start-gewinnen-die-exporte-an-fahrt/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">האצת ייצוא הקלמנטינות מקורסיקה לאחר התחלה קשה -- <span class=\"news-date\">16/11/2026 09:34</span></div><div class=\"news-body\">לאחר תחילת עונה שהואטה בשל משקעים כבדים וטמפרטורות מתונות, שיווק הקלמנטינות מקורסיקה נכנס לשלב פעיל. מאחר שזן ה-Fine de Corse הגיע לבשלות מלאה, המשלחים צופים עלייה מהירה בכמויות המיועדות לייצוא. <span class=\"news-reason\">מידע על תחילת עונה של מקור מתחרה עבור מוצר מהדרין (קלמנטינות).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9892895/clementine-aus-korsika-nach-einem-holprigen-start-gewinnen-die-exporte-an-fahrt/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
