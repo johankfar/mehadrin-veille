@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-11-18T19:36:42.647661+00:00",
-  "article_count": 75,
+  "last_updated": "2026-11-19T06:06:57.616970+00:00",
+  "article_count": 73,
   "attention_points": [
     {
-      "id": "attention-ff1cb782c3f5b420",
-      "article_id": "1795019763_0",
-      "url": "https://www.freshplaza.es/article/9894144/incorporamos-1-000-toneladas-de-aguacate-en-portugal-para-reforzar-nuestra-oferta-en-febrero-y-marzo/",
-      "source": "FreshPlaza ES",
-      "title": "Alcoaxarquía sécurise l'approvisionnement de 1 000 tonnes d'avocats",
-      "summary": "Une exploitation supplémentaire permettra de soutenir l'offre commerciale durant la prochaine saison",
-      "origin_code": "PRT",
-      "origin_label": "Portugal",
-      "published_at": "2026-11-18T15:52:00+01:00",
+      "id": "attention-75b167090f9bfc8f",
+      "article_id": "1795068417_0",
+      "url": "https://www.agrimaroc.ma/barrages-663-la-semaine-des-pluies-na-ajoute-quun-demi-point/",
+      "source": "AgriMaroc",
+      "title": "Faible hausse du niveau de remplissage des barrages",
+      "summary": "Le taux de remplissage atteint 66,3 % après les récentes précipitations",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-11-19T07:00:01+00:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [
-        "avocat"
+        "orange"
       ],
-      "age_hours": 4
+      "age_hours": 0
     },
     {
       "id": "attention-aa2a916444a66a67",
@@ -38,7 +38,7 @@
       "products": [
         "citrus_grapefruit"
       ],
-      "age_hours": 6
+      "age_hours": 17
     },
     {
       "id": "attention-6ec3235ec1026cae",
@@ -57,7 +57,7 @@
       "products": [
         "mango"
       ],
-      "age_hours": 6
+      "age_hours": 17
     },
     {
       "id": "attention-f960083a64be9852",
@@ -76,10 +76,45 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 6
+      "age_hours": 17
     }
   ],
   "articles": [
+    {
+      "id": "1795068417_2",
+      "timestamp": "2026-11-19T06:06:57.616970+00:00",
+      "title": "Les producteurs mexicains d&#x27;avocats suspendent la récolte pour soutenir les cours",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MEX",
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Les producteurs mexicains d&#x27;avocats suspendent la récolte pour soutenir les cours -- <span class=\"news-date\">19/11/2026 06:05</span></div><div class=\"news-body\">Dans la région du Michoacán, principal pôle de production d&#x27;avocats au Mexique, les agriculteurs ont interrompu la récolte depuis deux semaines. Cette décision fait suite à une deuxième année consécutive de récoltes exceptionnelles qui a entraîné des prix de vente jugés insuffisants sur le marché des États-Unis. <span class=\"news-reason\">Action directe d&#x27;un concurrent majeur (Mexique) sur un produit phare (avocat) impactant l&#x27;offre mondiale.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890556/i-produttori-messicani-di-avocado-sospendono-la-raccolta-per-sostenere-i-prezzi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Mexican avocado producers suspend harvest to support prices -- <span class=\"news-date\">19/11/2026 06:05</span></div><div class=\"news-body\">In the Michoacán region, Mexico's main avocado production hub, farmers have halted the harvest for two weeks. This decision follows a second consecutive year of bumper harvests which led to selling prices deemed insufficient in the United States market. <span class=\"news-reason\">Direct action by a major competitor (Mexico) on a flagship product (avocado) impacting global supply.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890556/i-produttori-messicani-di-avocado-sospendono-la-raccolta-per-sostenere-i-prezzi/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מגדלי האבוקדו במקסיקו משעים את הקטיף כדי לתמוך במחירים -- <span class=\"news-date\">19/11/2026 06:05</span></div><div class=\"news-body\">באזור מיצ'ואקן, מרכז ייצור האבוקדו העיקרי במקסיקו, החקלאים הפסיקו את הקטיף מזה שבועיים. החלטה זו מגיעה בעקבות שנה שנייה ברציפות של יבולים יוצאי דופן שהובילו למחירי מכירה שנחשבו ללא מספיקים בשוק של ארצות הברית. <span class=\"news-reason\">פעולה ישירה של מתחרה מרכזי (מקסיקו) במוצר מוביל (אבוקדו) המשפיעה על ההיצע העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890556/i-produttori-messicani-di-avocado-sospendono-la-raccolta-per-sostenere-i-prezzi/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795068417_0",
+      "timestamp": "2026-11-19T06:06:57.616970+00:00",
+      "title": "Faible hausse du niveau de remplissage des barrages au Maroc -- 19/11/2026 07:00",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Faible hausse du niveau de remplissage des barrages au Maroc -- <span class=\"news-date\">19/11/2026 07:00</span></div><div class=\"news-body\">Au 15 novembre, les barrages marocains affichent un taux de remplissage de 66,27 %. Malgré une semaine pluvieuse, le niveau n&#x27;a progressé que de 0,53 point. Plus de la moitié des nouveaux apports d&#x27;eau s&#x27;est concentrée dans la région du Souss-Massa, zone stratégique pour la production d&#x27;agrumes. <span class=\"news-reason\">Information sur les réserves hydriques au Maroc, origine clé pour les agrumes, impactant la disponibilité future.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/barrages-663-la-semaine-des-pluies-na-ajoute-quun-demi-point/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Slight increase in dam filling levels in Morocco -- <span class=\"news-date\">19/11/2026 07:00</span></div><div class=\"news-body\">As of November 15, Moroccan dams show a filling rate of 66.27%. Despite a rainy week, the level only increased by 0.53 points. More than half of the new water inflows were concentrated in the Souss-Massa region, a strategic zone for citrus production. <span class=\"news-reason\">Information on water reserves in Morocco, a key origin for citrus, impacting future availability.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/barrages-663-la-semaine-des-pluies-na-ajoute-quun-demi-point/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">עלייה מתונה במפלס מילוי הסכרים במרוקו -- <span class=\"news-date\">19/11/2026 07:00</span></div><div class=\"news-body\">נכון ל-15 בנובמבר, שיעור מילוי הסכרים במרוקו עומד על 66.27%. למרות שבוע גשום, המפלס עלה ב-0.53 נקודות בלבד. למעלה ממחצית מכמויות המים החדשות התרכזו באזור סוס-מאסה, אזור אסטרטגי לייצור פירות הדר. <span class=\"news-reason\">מידע על מאגרי המים במרוקו, מקור מרכזי לפירות הדר, המשפיע על הזמינות העתידית.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/barrages-663-la-semaine-des-pluies-na-ajoute-quun-demi-point/\" target=\"_blank\">AgriMaroc -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1795025137_0",
       "timestamp": "2026-11-18T18:05:37.281947+00:00",
@@ -509,7 +544,7 @@
     {
       "id": "1794933411_2",
       "timestamp": "2026-11-17T16:36:51.332034+00:00",
-      "title": "Pérou : suspension des exportations maritimes de mangues en raison des aléas climatiques",
+      "title": "Pérou : suspension des exportations maritimes de mangues face aux aléas climatiques",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -520,7 +555,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pérou : suspension des exportations maritimes de mangues en raison des aléas climatiques -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">Jim Ruiz du groupe Cultivemos annonce l&#x27;arrêt des exportations de mangues par voie maritime au Pérou en raison de précipitations dépassant 100 mm à Tambogrande. Le risque de maladies fongiques impose un basculement vers le transport aérien pour sécuriser la qualité durant cette campagne complexe. <span class=\"news-reason\">Alerte logistique majeure sur une origine concurrente de mangue avec basculement vers l&#x27;aérien.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893649/no-haremos-mango-maritimo-esta-campana-el-riesgo-no-compensa/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pérou : suspension des exportations maritimes de mangues face aux aléas climatiques -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">Jim Ruiz du groupe Cultivemos annonce l&#x27;arrêt des exportations de mangues par voie maritime au Pérou en raison de précipitations dépassant 100 mm à Tambogrande. Le risque de maladies fongiques impose un basculement vers le transport aérien pour sécuriser la qualité durant cette campagne complexe. <span class=\"news-reason\">Alerte logistique majeure sur une origine concurrente de mangue avec basculement vers l&#x27;aérien.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893649/no-haremos-mango-maritimo-esta-campana-el-riesgo-no-compensa/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Peru abandons sea exports of mangoes due to climate hazards -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">Jim Ruiz of the Cultivemos group announces the suspension of mango exports by sea in Peru due to rainfall exceeding 100 mm in Tambogrande. The risk of fungal diseases requires a shift to air transport to ensure quality during this complex campaign. <span class=\"news-reason\">Major logistics alert on a competing mango origin with a shift to air transport.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893649/no-haremos-mango-maritimo-esta-campana-el-riesgo-no-compensa/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">פרו מוותרת על יצוא מנגו בדרך הים בשל פגעי מזג האוויר -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">ג'ים רואיז מקבוצת Cultivemos מודיע על הפסקת יצוא המנגו בדרך הים מפרו בשל משקעים העולים על 100 מ\"מ בטמבוגרנדה. הסיכון למחלות פטרייתיות מחייב מעבר להובלה אווירית כדי להבטיח את האיכות במהלך עונה מורכבת זו. <span class=\"news-reason\">התראת לוגיסטיקה משמעותית במקור מנגו מתחרה עם מעבר להובלה אווירית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893649/no-haremos-mango-maritimo-esta-campana-el-riesgo-no-compensa/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -546,7 +581,7 @@
     {
       "id": "1794933411_0",
       "timestamp": "2026-11-17T16:36:51.332034+00:00",
-      "title": "Un producteur d&#x27;avocats californien cède une participation majeure dans ses activités.",
+      "title": "Un producteur d’avocats californien cède une participation majeure dans ses activités.",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -555,7 +590,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Un producteur d&#x27;avocats californien cède une participation majeure dans ses activités. -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">Un producteur d&#x27;avocats en Californie, Todd Schwarz, a décidé de cesser l&#x27;irrigation de 700 arbres sur son exploitation de 4,05 hectares. Cette décision radicale est motivée par l&#x27;augmentation constante des coûts de production et l&#x27;insuffisance des revenus générés par la vente des fruits. <span class=\"news-reason\">Concerne l&#x27;avocat (produit Mehadrin) et traite de l&#x27;abandon de vergers pour des raisons de rentabilité dans une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893331/un-productor-de-aguacate-de-california-abandona-el-70-de-su-finca-por-el-aumento-de-los-costos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Un producteur d’avocats californien cède une participation majeure dans ses activités. -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">Un producteur d&#x27;avocats en Californie, Todd Schwarz, a décidé de cesser l&#x27;irrigation de 700 arbres sur son exploitation de 4,05 hectares. Cette décision radicale est motivée par l&#x27;augmentation constante des coûts de production et l&#x27;insuffisance des revenus générés par la vente des fruits. <span class=\"news-reason\">Concerne l&#x27;avocat (produit Mehadrin) et traite de l&#x27;abandon de vergers pour des raisons de rentabilité dans une origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893331/un-productor-de-aguacate-de-california-abandona-el-70-de-su-finca-por-el-aumento-de-los-costos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">A Californian avocado producer abandons a major part of his farm -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">An avocado producer in California, Todd Schwarz, has decided to stop irrigating 700 trees on his 4.05-hectare farm. This radical decision is motivated by the constant increase in production costs and the insufficient income generated by fruit sales. <span class=\"news-reason\">Concerns avocado (Mehadrin product) and deals with the abandonment of orchards for profitability reasons in a competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893331/un-productor-de-aguacate-de-california-abandona-el-70-de-su-finca-por-el-aumento-de-los-costos/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מגדל אבוקדו מקליפורניה זונח חלק משמעותי מהמטע שלו -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">מגדל אבוקדו בקליפורניה, טוד שוורץ, החליט להפסיק להשקות 700 עצים במטע שלו המשתרע על פני 4.05 הקטר. החלטה דרסטית זו נובעת מהעלייה המתמדת בעלויות הייצור ומהכנסות לא מספיקות ממכירת הפירות. <span class=\"news-reason\">נוגע לאבוקדו (מוצר מהדרין) ועוסק בנטישת מטעים מסיבות של רווחיות במקור מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893331/un-productor-de-aguacate-de-california-abandona-el-70-de-su-finca-por-el-aumento-de-los-costos/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -843,7 +878,7 @@
     {
       "id": "1794900900_2",
       "timestamp": "2026-11-17T07:35:00.831241+00:00",
-      "title": "Maroc : baisse de 20 % attendue pour la récolte d&#x27;agrumes",
+      "title": "Maroc : une baisse de 20 % de la récolte d&#x27;agrumes est anticipée",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -852,7 +887,7 @@
       "origins": [
         "MAR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Maroc : baisse de 20 % attendue pour la récolte d&#x27;agrumes -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">La production marocaine d&#x27;agrumes devrait chuter de 20 % pour la campagne 2026/27 selon Maroc Citrus. Le volume est estimé à 1,8 million de tonnes, contre 2,2 millions lors de la saison précédente. Cette baisse est principalement attribuée aux températures estivales extrêmes qui ont affecté le développement des fruits. <span class=\"news-reason\">Information cruciale sur les volumes d&#x27;une origine concurrente directe pour la campagne d&#x27;agrumes en cours, avec des chiffres précis de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891428/in-marocco-si-prevede-un-calo-del-20-per-cento-nel-raccolto-di-agrumi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Maroc : une baisse de 20 % de la récolte d&#x27;agrumes est anticipée -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">La production marocaine d&#x27;agrumes devrait chuter de 20 % pour la campagne 2026/27 selon Maroc Citrus. Le volume est estimé à 1,8 million de tonnes, contre 2,2 millions lors de la saison précédente. Cette baisse est principalement attribuée aux températures estivales extrêmes qui ont affecté le développement des fruits. <span class=\"news-reason\">Information cruciale sur les volumes d&#x27;une origine concurrente directe pour la campagne d&#x27;agrumes en cours, avec des chiffres précis de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891428/in-marocco-si-prevede-un-calo-del-20-per-cento-nel-raccolto-di-agrumi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Morocco: a 20% drop in citrus harvest anticipated -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">Moroccan citrus production is expected to drop by 20% for the 2026/27 campaign according to Maroc Citrus. The volume is estimated at 1.8 million tonnes, compared to 2.2 million in the previous season. This decline is mainly attributed to extreme summer temperatures that affected fruit development. <span class=\"news-reason\">Crucial information on volumes from a direct competing origin for the current citrus season, with precise production figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891428/in-marocco-si-prevede-un-calo-del-20-per-cento-nel-raccolto-di-agrumi/\" target=\"_blank\">FreshPlaza IT -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מרוקו: ירידה צפויה של 20% ביבול פירות ההדר -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">ייצור פירות ההדר במרוקו צפוי לרדת ב-20% בעונת 2026/27 לפי Maroc Citrus. הכמות מוערכת ב-1.8 מיליון טונות, לעומת 2.2 מיליון בעונה הקודמת. ירידה זו מיוחסת בעיקר לטמפרטורות קיץ קיצוניות שהשפיעו על התפתחות הפירות. <span class=\"news-reason\">מידע חיוני על כמויות ממקור מתחרה ישיר לעונת פירות ההדר הנוכחית, עם נתוני ייצור מדויקים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891428/in-marocco-si-prevede-un-calo-del-20-per-cento-nel-raccolto-di-agrumi/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -891,7 +926,7 @@
     {
       "id": "1794895473_2",
       "timestamp": "2026-11-17T06:04:33.529234+00:00",
-      "title": "Espagne : la production de mangues franchit le cap des 40 000 tonnes",
+      "title": "Espagne : la production de mangues dépasse les 40 000 tonnes",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -902,14 +937,14 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production de mangues franchit le cap des 40 000 tonnes -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">La saison 2026 de la mangue en Espagne s&#x27;est achevée avec une récolte de plus de 40 000 tonnes, dépassant les estimations initiales. Ce volume représente une hausse de 10 000 tonnes par rapport à l&#x27;année précédente, bien que l&#x27;Association Espagnole des Fruits Tropicaux souligne des enjeux de rentabilité. <span class=\"news-reason\">Chiffres définitifs de fin de campagne pour une origine concurrente majeure sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891515/coltivare-uno-dei-migliori-mango-al-mondo-non-e-sufficiente-dobbiamo-assicurarci-che-la-coltivazione-sia-redditizia/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la production de mangues dépasse les 40 000 tonnes -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">La saison 2026 de la mangue en Espagne s&#x27;est achevée avec une récolte de plus de 40 000 tonnes, dépassant les estimations initiales. Ce volume représente une hausse de 10 000 tonnes par rapport à l&#x27;année précédente, bien que l&#x27;Association Espagnole des Fruits Tropicaux souligne des enjeux de rentabilité. <span class=\"news-reason\">Chiffres définitifs de fin de campagne pour une origine concurrente majeure sur un produit Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891515/coltivare-uno-dei-migliori-mango-al-mondo-non-e-sufficiente-dobbiamo-assicurarci-che-la-coltivazione-sia-redditizia/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Spain: mango production exceeds 40,000 tons -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">The 2026 mango season in Spain ended with a harvest of over 40,000 tons, exceeding initial estimates. This volume represents an increase of 10,000 tons compared to the previous year, although the Spanish Tropical Fruit Association highlights profitability challenges. <span class=\"news-reason\">Final end-of-campaign figures for a major competing origin on a Mehadrin product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891515/coltivare-uno-dei-migliori-mango-al-mondo-non-e-sufficiente-dobbiamo-assicurarci-che-la-coltivazione-sia-redditizia/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ספרד: ייצור המנגו עולה על 40,000 טון -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">עונת המנגו לשנת 2026 בספרד הסתיימה עם יבול של למעלה מ-40,000 טון, מעל ההערכות הראשוניות. נפח זה מייצג עלייה של 10,000 טון לעומת השנה הקודמת, למרות שאיגוד הפירות הטרופיים הספרדי מדגיש אתגרי רווחיות. <span class=\"news-reason\">נתונים סופיים של סוף העונה עבור מקור מתחרה מרכזי במוצר מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891515/coltivare-uno-dei-migliori-mango-al-mondo-non-e-sufficiente-dobbiamo-assicurarci-che-la-coltivazione-sia-redditizia/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
     {
       "id": "1794895473_1",
       "timestamp": "2026-11-17T06:04:33.529234+00:00",
-      "title": "Hausse de l&#x27;offre de clémentines espagnoles en Allemagne",
+      "title": "Augmentation de l&#x27;offre de clémentines espagnoles en Allemagne",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -920,7 +955,7 @@
       "origins": [
         "DEU"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Hausse de l&#x27;offre de clémentines espagnoles en Allemagne -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">Au cours de la semaine 45, la disponibilité des clémentines espagnoles a fortement progressé sur le marché allemand, dominant l&#x27;offre aux côtés des produits italiens. Les principales variétés disponibles sont les Oronules, Clemenules, Marisol et Loretina selon les données de l&#x27;organisme BLE. <span class=\"news-reason\">Information sur les volumes et variétés d&#x27;agrumes en saison sur un marché européen clé avec mention de l&#x27;origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892000/la-disponibilita-delle-clementine-spagnole-e-aumentata-sul-mercato-tedesco/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Augmentation de l&#x27;offre de clémentines espagnoles en Allemagne -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">Au cours de la semaine 45, la disponibilité des clémentines espagnoles a fortement progressé sur le marché allemand, dominant l&#x27;offre aux côtés des produits italiens. Les principales variétés disponibles sont les Oronules, Clemenules, Marisol et Loretina selon les données de l&#x27;organisme BLE. <span class=\"news-reason\">Information sur les volumes et variétés d&#x27;agrumes en saison sur un marché européen clé avec mention de l&#x27;origine concurrente.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892000/la-disponibilita-delle-clementine-spagnole-e-aumentata-sul-mercato-tedesco/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Increase in the supply of Spanish clementines in Germany -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">During week 45, the availability of Spanish clementines increased sharply on the German market, dominating the supply alongside Italian products. The main varieties available are Oronules, Clemenules, Marisol and Loretina according to data from the BLE organization. <span class=\"news-reason\">Information on citrus volumes and varieties in season in a key European market with mention of the competing origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892000/la-disponibilita-delle-clementine-spagnole-e-aumentata-sul-mercato-tedesco/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">עלייה בהיצע הקלמנטינות הספרדיות בגרמניה -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">במהלך שבוע 45, הזמינות של קלמנטינות ספרדיות עלתה משמעותית בשוק הגרמני, כשהן שולטות בהיצע לצד מוצרים איטלקיים. הזנים העיקריים הזמינים הם Oronules, Clemenules, Marisol ו-Loretina על פי נתוני ארגון ה-BLE. <span class=\"news-reason\">מידע על כמויות וזני פירות הדר בעונה בשוק אירופי מרכזי עם אזכור של מקור מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892000/la-disponibilita-delle-clementine-spagnole-e-aumentata-sul-mercato-tedesco/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -1259,14 +1294,14 @@
     {
       "id": "1794825212_0",
       "timestamp": "2026-11-16T10:33:32.154407+00:00",
-      "title": "Afrique australe : baisse de 1,5 % des exportations d&#x27;agrumes en 2026",
+      "title": "Afrique australe : recul de 1,5 % des exportations d&#x27;agrumes en 2026",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
       ],
       "products": [],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique australe : baisse de 1,5 % des exportations d&#x27;agrumes en 2026 -- <span class=\"news-date\">16/11/2026 06:00</span></div><div class=\"news-body\">En 2026, les exportations d&#x27;agrumes de l&#x27;Afrique australe ont totalisé 201 millions de cartons de 15 kg, marquant une baisse de 1,5 % par rapport aux 204 millions de 2025. Ce volume final est également inférieur de 4 % aux prévisions initiales d&#x27;avril qui s&#x27;élevaient à 209,4 millions de cartons. <span class=\"news-reason\">Chiffres précis sur les volumes d&#x27;exportation d&#x27;une origine concurrente majeure pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892381/le-esportazioni-di-agrumi-dell-africa-meridionale-flettono-dell-1-5-per-cento-a-201-milioni-di-cartoni/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Afrique australe : recul de 1,5 % des exportations d&#x27;agrumes en 2026 -- <span class=\"news-date\">16/11/2026 06:00</span></div><div class=\"news-body\">En 2026, les exportations d&#x27;agrumes de l&#x27;Afrique australe ont totalisé 201 millions de cartons de 15 kg, marquant une baisse de 1,5 % par rapport aux 204 millions de 2025. Ce volume final est également inférieur de 4 % aux prévisions initiales d&#x27;avril qui s&#x27;élevaient à 209,4 millions de cartons. <span class=\"news-reason\">Chiffres précis sur les volumes d&#x27;exportation d&#x27;une origine concurrente majeure pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892381/le-esportazioni-di-agrumi-dell-africa-meridionale-flettono-dell-1-5-per-cento-a-201-milioni-di-cartoni/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">1.5% decline in Southern African citrus exports in 2026 -- <span class=\"news-date\">16/11/2026 06:00</span></div><div class=\"news-body\">In 2026, Southern African citrus exports totaled 201 million 15 kg cartons, marking a 1.5% decrease compared to 204 million in 2025. This final volume is also 4% lower than the initial April forecasts which amounted to 209.4 million cartons. <span class=\"news-reason\">Precise figures on export volumes from a major competing origin for citrus fruits.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892381/le-esportazioni-di-agrumi-dell-africa-meridionale-flettono-dell-1-5-per-cento-a-201-milioni-di-cartoni/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 1.5% בייצוא ההדרים מאפריקה הדרומית בשנת 2026 -- <span class=\"news-date\">16/11/2026 06:00</span></div><div class=\"news-body\">בשנת 2026, ייצוא ההדרים מאפריקה הדרומית הסתכם ב-201 מיליון קרטונים של 15 ק\"ג, המהווה ירידה של 1.5% לעומת 204 מיליון בשנת 2025. נפח סופי זה נמוך ב-4% מהתחזיות הראשוניות של אפריל, שעמדו על 209.4 מיליון קרטונים. <span class=\"news-reason\">נתונים מדויקים על נפחי הייצוא של מקור מתחרה מרכזי בתחום ההדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892381/le-esportazioni-di-agrumi-dell-africa-meridionale-flettono-dell-1-5-per-cento-a-201-milioni-di-cartoni/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -1301,78 +1336,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Efficacité limitée de l&#x27;imazalil sur la perte de poids des grenades au Maroc -- <span class=\"news-date\">16/11/2026 07:00</span></div><div class=\"news-body\">Une étude menée au Maroc par l&#x27;INRA de Tadla démontre que le trempage à l’imazalil n&#x27;empêche pas la déshydratation des grenades stockées à 4 °C. L&#x27;essai, réalisé sur une période de 120 jours avec deux variétés locales, indique que ce traitement fongicide ne permet pas de limiter la perte de poids des fruits après la récolte. <span class=\"news-reason\">Étude technique sur la conservation post-récolte des grenades au Maroc, impactant la qualité et le poids commercialisable.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/au-froid-limazalil-nempeche-pas-la-grenade-de-perdre-du-poids/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Limited efficacy of imazalil on weight loss of pomegranates in Morocco -- <span class=\"news-date\">16/11/2026 07:00</span></div><div class=\"news-body\">A study conducted in Morocco by INRA Tadla demonstrates that imazalil dipping does not prevent the dehydration of pomegranates stored at 4 °C. The trial, conducted over a period of 120 days with two local varieties, indicates that this fungicide treatment does not limit the weight loss of the fruit after harvest. <span class=\"news-reason\">Technical study on the post-harvest preservation of pomegranates in Morocco, impacting quality and marketable weight.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/au-froid-limazalil-nempeche-pas-la-grenade-de-perdre-du-poids/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">יעילות מוגבלת של אימזליל על איבוד משקל ברימונים במרוקו -- <span class=\"news-date\">16/11/2026 07:00</span></div><div class=\"news-body\">מחקר שנערך במרוקו על ידי ה-INRA של תדלה מדגים כי טבילה באימזליל אינה מונעת את התייבשות הרימונים המאוחסנים ב-4 מעלות צלזיוס. הניסוי, שבוצע לאורך תקופה של 120 יום עם שני זנים מקומיים, מצביע על כך שטיפול קוטל פטריות זה אינו מאפשר להגביל את איבוד המשקל של הפירות לאחר הקטיף. <span class=\"news-reason\">מחקר טכני על שימור רימונים לאחר קטיף במרוקו, המשפיע על האיכות והמשקל השיווקי.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/au-froid-limazalil-nempeche-pas-la-grenade-de-perdre-du-poids/\" target=\"_blank\">AgriMaroc -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1794808987_3",
-      "timestamp": "2026-11-16T06:03:07.491442+00:00",
-      "title": "Perturbations de la chaîne d&#x27;approvisionnement et flambée des prix des avocats mexicains",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Ophélie",
-        "Sébastien"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "MEX",
-        "USA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Perturbations de la chaîne d&#x27;approvisionnement et flambée des prix des avocats mexicains -- <span class=\"news-date\">16/11/2026 06:00</span></div><div class=\"news-body\">Les interruptions récentes de l&#x27;activité des producteurs mexicains ont gravement compromis les livraisons d&#x27;avocats vers le marché américain. Cette situation a provoqué une hausse immédiate des prix et met en lumière les vulnérabilités logistiques et productives du Mexique, pouvant mener à une consolidation accrue des acteurs du secteur. <span class=\"news-reason\">Information sur la tension du marché mondial de l&#x27;avocat et l&#x27;impact sur les prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891935/le-difficolta-nelle-forniture-di-avocado-dal-messico-potrebbero-accelerare-il-consolidamento-del-settore/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Mexican avocado supply disruptions and price increases -- <span class=\"news-date\">16/11/2026 06:00</span></div><div class=\"news-body\">Recent interruptions in the activity of Mexican producers have severely compromised avocado deliveries to the US market. This situation has caused an immediate rise in prices and highlights Mexico's logistical and productive vulnerabilities, which could lead to increased consolidation of players in the sector. <span class=\"news-reason\">Information on the global avocado market tension and the impact on prices.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891935/le-difficolta-nelle-forniture-di-avocado-dal-messico-potrebbero-accelerare-il-consolidamento-del-settore/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">שיבושים באספקת האבוקדו המקסיקני ועליית מחירים -- <span class=\"news-date\">16/11/2026 06:00</span></div><div class=\"news-body\">ההפרעות האחרונות בפעילות המגדלים המקסיקנים פגעו קשות במשלוחי האבוקדו לשוק האמריקאי. מצב זה גרם לעליית מחירים מיידית ומדגיש את הפגיעויות הלוגיסטיות והייצוריות של מקסיקו, מה שעלול להוביל לקונסולידציה מוגברת של השחקנים בענף. <span class=\"news-reason\">מידע על המתיחות בשוק האבוקדו העולמי וההשפעה על המחירים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891935/le-difficolta-nelle-forniture-di-avocado-dal-messico-potrebbero-accelerare-il-consolidamento-del-settore/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1794808987_2",
-      "timestamp": "2026-11-16T06:03:07.491442+00:00",
-      "title": "Importante réduction de la surface des vergers d&#x27;agrumes au Maroc -- 15/11/2026 08:11",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Importante réduction de la surface des vergers d&#x27;agrumes au Maroc -- <span class=\"news-date\">15/11/2026 08:11</span></div><div class=\"news-body\">Le verger agrumicole marocain a subi une perte massive de superficie, passant de 130 000 hectares en 2020 à seulement 95 000 hectares actuellement. De plus, le vieillissement du verger est préoccupant, avec plus d&#x27;un arbre sur trois ayant dépassé l&#x27;âge de 20 ans, ce qui menace la productivité future du secteur. <span class=\"news-reason\">Alerte sur la capacité de production d&#x27;un pays concurrent majeur pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/le-verger-dagrumes-a-perdu-35-000-hectares-depuis-2020/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Significant reduction in the area of citrus orchards in Morocco -- <span class=\"news-date\">15/11/2026 08:11</span></div><div class=\"news-body\">The Moroccan citrus orchard has suffered a massive loss of area, falling from 130,000 hectares in 2020 to only 95,000 hectares currently. Furthermore, the aging of the orchard is concerning, with more than one tree in three having exceeded the age of 20, which threatens the future productivity of the sector. <span class=\"news-reason\">Alert on the production capacity of a major competing country for citrus fruits.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/le-verger-dagrumes-a-perdu-35-000-hectares-depuis-2020/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">צמצום משמעותי בשטחי מטעי ההדרים במרוקו -- <span class=\"news-date\">15/11/2026 08:11</span></div><div class=\"news-body\">מטעי ההדרים במרוקו ספגו אובדן מסיבי של שטחים, שירדו מ-130,000 הקטרים בשנת 2020 ל-95,000 הקטרים בלבד כיום. בנוסף, הזדקנות המטעים מדאיגה, כאשר יותר מאחד מכל שלושה עצים עבר את גיל 20, מה שמעמיד בסכנה את הפריון העתידי של הענף. <span class=\"news-reason\">התראה על כושר הייצור של מדינה מתחרה מרכזית בענף ההדרים.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/le-verger-dagrumes-a-perdu-35-000-hectares-depuis-2020/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1794808987_1",
-      "timestamp": "2026-11-16T06:03:07.491442+00:00",
-      "title": "Baisse des prix de gros de l&#x27;orange en Italie",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [
-        "orange"
-      ],
-      "origins": [
-        "ITA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse des prix de gros de l&#x27;orange en Italie -- <span class=\"news-date\">16/11/2026 06:00</span></div><div class=\"news-body\">Selon les données de la Borsa della Spesa (BMTI et Italmercati), les prix de gros des oranges en Italie enregistrent une baisse de 11 %. Cette tendance s&#x27;inscrit dans le cadre du suivi hebdomadaire des produits agroalimentaires pour informer les consommateurs sur la durabilité et le coût des achats. <span class=\"news-reason\">Information sur les prix de gros d&#x27;un produit Mehadrin en saison sur un marché européen clé.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892910/arrivano-le-arance-all-ingrosso-in-calo-dell-11-per-cento/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Decline in wholesale orange prices in Italy -- <span class=\"news-date\">16/11/2026 06:00</span></div><div class=\"news-body\">According to data from the Borsa della Spesa (BMTI and Italmercati), wholesale orange prices in Italy recorded an 11% decrease. This trend is part of the weekly monitoring of agri-food products to inform consumers about the sustainability and cost of purchases. <span class=\"news-reason\">Information on the wholesale prices of a Mehadrin product in season in a key European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892910/arrivano-le-arance-all-ingrosso-in-calo-dell-11-per-cento/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה במחירי הסיטונאות של תפוזים באיטליה -- <span class=\"news-date\">16/11/2026 06:00</span></div><div class=\"news-body\">לפי נתוני ה-Borsa della Spesa (BMTI ו-Italmercati), מחירי הסיטונאות של תפוזים באיטליה רושמים ירידה של 11%. מגמה זו היא חלק מהמעקב השבועי אחר מוצרי מזון חקלאיים כדי ליידע את הצרכנים על קיימות ועלויות הרכישה. <span class=\"news-reason\">מידע על מחירי סיטונאות של מוצר מהדרין בעונה בשוק אירופי מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892910/arrivano-le-arance-all-ingrosso-in-calo-dell-11-per-cento/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1794808987_0",
-      "timestamp": "2026-11-16T06:03:07.491442+00:00",
-      "title": "Prévisions de récolte et importations de dattes au Maroc -- 16/11/2026 04:05",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Jessica"
-      ],
-      "products": [
-        "date"
-      ],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Prévisions de récolte et importations de dattes au Maroc -- <span class=\"news-date\">16/11/2026 04:05</span></div><div class=\"news-body\">Le Maroc prévoit une production de 177 000 tonnes de dattes pour la campagne 2026-2027. Ce chiffre intervient après une année 2025 marquée par l&#x27;importation de 100 000 tonnes de dattes. L&#x27;article détaille également l&#x27;état des oasis, les variétés cultivées et le programme national de plantation pour soutenir la filière. <span class=\"news-reason\">Volumes de production prévus pour la campagne 2026-2027 sur un produit stratégique et un marché concurrent.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/palmier-dattier-et-dattes-au-maroc-varietes-bayoud-marche/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Harvest forecasts and date imports in Morocco -- <span class=\"news-date\">16/11/2026 04:05</span></div><div class=\"news-body\">Morocco forecasts a production of 177,000 tonnes of dates for the 2026-2027 season. This figure comes after a year 2025 marked by the import of 100,000 tonnes of dates. The article also details the state of the oases, the varieties cultivated, and the national planting program to support the sector. <span class=\"news-reason\">Production volumes forecast for the 2026-2027 season for a strategic product and a competing market.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/palmier-dattier-et-dattes-au-maroc-varietes-bayoud-marche/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">תחזיות יבול ויבוא תמרים במרוקו -- <span class=\"news-date\">16/11/2026 04:05</span></div><div class=\"news-body\">מרוקו צופה ייצור של 177,000 טונות תמרים לעונת 2026-2027. נתון זה מגיע לאחר שנת 2025 שאופיינה ביבוא של 100,000 טונות תמרים. המאמר מפרט גם את מצב נאות המדבר, הזנים המעובדים ותוכנית השתילה הלאומית לתמיכה בענף. <span class=\"news-reason\">כמויות ייצור חזויות לעונת 2026-2027 עבור מוצר אסטרטגי ושוק מתחרה.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/palmier-dattier-et-dattes-au-maroc-varietes-bayoud-marche/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
