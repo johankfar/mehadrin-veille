@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-19T13:36:32.498789+00:00",
-  "article_count": 68,
+  "last_updated": "2026-11-19T15:06:31.108989+00:00",
+  "article_count": 74,
   "attention_points": [
+    {
+      "id": "attention-1c869280d39a9c76",
+      "article_id": "1795100791_0",
+      "url": "https://www.agrimaroc.ma/avocat-hass-la-matiere-seche-decide-pas-le-calendrier/",
+      "source": "AgriMaroc",
+      "title": "Calendrier d'exportation et maturité des avocats",
+      "summary": "La fenêtre d'exportation dépend du taux de matière sèche des fruits",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-11-19T16:00:51+00:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "volume",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-2184c430c36d6080",
+      "article_id": "1795100791_2",
+      "url": "https://www.freshplaza.fr/article/9893764/tunisie-debut-du-conditionnement-des-dattes-deglet-nour-apres-un-demarrage-de-campagne-tardif/",
+      "source": "FreshPlaza FR",
+      "title": "Tunisie : Retard de récolte et baisse de rendement",
+      "summary": "La production de dattes tunisiennes chute de vingt pour cent cette saison",
+      "origin_code": "TUN",
+      "origin_label": "Tunisie",
+      "published_at": "2026-11-19T14:33:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "date"
+      ],
+      "age_hours": 1
+    },
     {
       "id": "attention-f685092552d4bb18",
       "article_id": "1795095392_4",
@@ -19,26 +57,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 0
-    },
-    {
-      "id": "attention-464c387eb5a4614f",
-      "article_id": "1795095392_1",
-      "url": "https://www.asaja.com/la-lonja-de-citricos-de-cordoba-inicia-la-campana-con-expectativas-moderadamente-positivas-para-la-naranja/",
-      "source": "ASAJA",
-      "title": "Des prévisions de récolte en baisse",
-      "summary": "Les prévisions de récolte sont inférieures aux premières estimations de la saison",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-11-19T12:34:24+00:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "orange"
-      ],
-      "age_hours": 1
+      "age_hours": 2
     },
     {
       "id": "attention-3d02d0ebee11fd81",
@@ -57,29 +76,116 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 1
-    },
-    {
-      "id": "attention-aa2a916444a66a67",
-      "article_id": "1795009031_4",
-      "url": "https://www.freshplaza.com/article/9893916/vietnamese-bang-luan-pomelos-secure-first-uk-export-contract/",
-      "source": "FreshPlaza",
-      "title": "Premières exportations de pomelos du Vietnam",
-      "summary": "Une nouvelle zone de production commence expédier ses fruits frais",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-11-18T13:58:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "volume",
-      "products": [
-        "citrus_grapefruit"
-      ],
-      "age_hours": 24
+      "age_hours": 3
     }
   ],
   "articles": [
+    {
+      "id": "1795100791_5",
+      "timestamp": "2026-11-19T15:06:31.108989+00:00",
+      "title": "Maintien de la stabilité des grenades turques malgré les coûts logistiques",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Jessica",
+        "Sébastien"
+      ],
+      "products": [
+        "pomegranate"
+      ],
+      "origins": [
+        "TUR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Maintien de la stabilité des grenades turques malgré les coûts logistiques -- <span class=\"news-date\">18/11/2026 15:52</span></div><div class=\"news-body\">La société autrichienne UvaFruit Handels GmbH dresse un bilan positif du premier mois de vente des grenades turques. Malgré une hausse constante des coûts de transport, la disponibilité du produit reste stable sur le marché autrichien, consolidant la position de la Turquie face aux défis logistiques actuels. <span class=\"news-reason\">Information sur la disponibilité et la logistique d&#x27;un concurrent direct sur le produit grenade.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892886/la-granada-turca-consolida-su-posicion-en-el-mercado-austriaco-pese-al-encarecimiento-del-transporte/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Stability of Turkish pomegranates despite logistical costs -- <span class=\"news-date\">18/11/2026 15:52</span></div><div class=\"news-body\">The Austrian company UvaFruit Handels GmbH gives a positive assessment of the first month of sales for Turkish pomegranates. Despite a constant increase in transport costs, product availability remains stable on the Austrian market, consolidating Turkey&#x27;s position in the face of current logistical challenges. <span class=\"news-reason\">Information on the availability and logistics of a direct competitor for the pomegranate product.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892886/la-granada-turca-consolida-su-posicion-en-el-mercado-austriaco-pese-al-encarecimiento-del-transporte/\" target=\"_blank\">FreshPlaza ES -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים ונפחים</div><div class=\"news-title\">יציבות ברימונים הטורקיים למרות עלויות הלוגיסטיקה -- <span class=\"news-date\">18/11/2026 15:52</span></div><div class=\"news-body\">חברת UvaFruit Handels GmbH האוסטרית מציגה סיכום חיובי של חודש המכירות הראשון של רימונים טורקיים. למרות עלייה מתמדת בעלויות ההובלה, זמינות המוצר נותרת יציבה בשוק האוסטרי, מה שמחזק את מעמדה של טורקיה אל מול האתגרים הלוגיסטיים הנוכחיים. <span class=\"news-reason\">מידע על זמינות ולוגיסטיקה של מתחרה ישיר במוצר הרימון.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9892886/la-granada-turca-consolida-su-posicion-en-el-mercado-austriaco-pese-al-encarecimiento-del-transporte/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795100791_4",
+      "timestamp": "2026-11-19T15:06:31.108989+00:00",
+      "title": "Relance de la consommation d&#x27;oranges en Espagne -- 19/11/2026 12:09",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Relance de la consommation d&#x27;oranges en Espagne -- <span class=\"news-date\">19/11/2026 12:09</span></div><div class=\"news-body\">Le secteur espagnol tente de redynamiser les ventes d&#x27;oranges en supermarché, en déclin depuis plusieurs années. À travers la marque ombrelle I LOVE U lancée il y a dix ans, les producteurs misent sur l&#x27;innovation variétale, les couleurs et les saveurs pour attirer de nouveau les consommateurs vers les agrumes. <span class=\"news-reason\">Information stratégique sur le positionnement marketing de l&#x27;origine concurrente Espagne pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9893828/spaanse-telers-blazen-sinaasappelschap-nieuw-leven-in-met-kleur-smaak-en-gezondheidsonderzoek/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Relaunch of orange consumption in Spain -- <span class=\"news-date\">19/11/2026 12:09</span></div><div class=\"news-body\">The Spanish sector is trying to revitalize orange sales in supermarkets, which have been in decline for several years. Through the I LOVE U umbrella brand launched ten years ago, producers are betting on varietal innovation, colors, and flavors to attract consumers back to citrus fruits. <span class=\"news-reason\">Strategic information on the marketing positioning of the competing origin Spain for citrus.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9893828/spaanse-telers-blazen-sinaasappelschap-nieuw-leven-in-met-kleur-smaak-en-gezondheidsonderzoek/\" target=\"_blank\">AGF.nl -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקור</div><div class=\"news-title\">חידוש צריכת התפוזים בספרד -- <span class=\"news-date\">19/11/2026 12:09</span></div><div class=\"news-body\">המגזר הספרדי מנסה להמריץ מחדש את מכירות התפוזים בסופרמרקטים, שנמצאות בירידה מזה מספר שנים. באמצעות מותג העל I LOVE U שהושק לפני עשר שנים, המגדלים מתמקדים בחדשנות זנית, בצבעים ובטעמים כדי למשוך מחדש את הצרכנים לפירות הדר. <span class=\"news-reason\">מידע אסטרטגי על המיצוב השיווקי של ספרד, מקור מתחרה לפירות הדר.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9893828/spaanse-telers-blazen-sinaasappelschap-nieuw-leven-in-met-kleur-smaak-en-gezondheidsonderzoek/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795100791_3",
+      "timestamp": "2026-11-19T15:06:31.108989+00:00",
+      "title": "Syrie : Forte progression attendue des exportations d&#x27;agrumes cette saison -- 19/11/2026 13:10",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Syrie : Forte progression attendue des exportations d&#x27;agrumes cette saison -- <span class=\"news-date\">19/11/2026 13:10</span></div><div class=\"news-body\">La Syrie prévoit une augmentation de sa récolte d&#x27;agrumes de près de 49 % cette saison. Les autorités ciblent des exportations comprises entre 80 000 et 100 000 tonnes, visant principalement les marchés de l&#x27;Irak et des pays du Golfe pour écouler ce surplus de production. <span class=\"news-reason\">Information sur les volumes de production et d&#x27;exportation d&#x27;une origine concurrente régionale pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9894336/syria-targets-citrus-exports-as-harvest-surplus-grows/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Syria: Strong growth expected in citrus exports this season -- <span class=\"news-date\">19/11/2026 13:10</span></div><div class=\"news-body\">Syria expects a nearly 49% increase in its citrus harvest this season. Authorities are targeting exports of between 80,000 and 100,000 tons, primarily aiming for the markets of Iraq and the Gulf countries to sell this production surplus. <span class=\"news-reason\">Information on production and export volumes from a regional competing citrus origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9894336/syria-targets-citrus-exports-as-harvest-surplus-grows/\" target=\"_blank\">FreshPlaza -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים ונפחים</div><div class=\"news-title\">סוריה: צפויה עלייה חדה בייצוא פירות הדר העונה -- <span class=\"news-date\">19/11/2026 13:10</span></div><div class=\"news-body\">סוריה צופה עלייה של כמעט 49% ביבול פירות ההדר העונה. הרשויות מכוונות לייצוא של בין 80,000 ל-100,000 טון, המיועדים בעיקר לשווקי עיראק ומדינות המפרץ במטרה לנקז את עודפי הייצור. <span class=\"news-reason\">מידע על נפחי הייצור והייצוא של מקור אזורי מתחרה לפירות הדר.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9894336/syria-targets-citrus-exports-as-harvest-surplus-grows/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795100791_2",
+      "timestamp": "2026-11-19T15:06:31.108989+00:00",
+      "title": "Tunisie : Retard de récolte et baisse de rendement pour les dattes Deglet Nour -- 19/11/2026 14:33",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [
+        "date"
+      ],
+      "origins": [
+        "TUN"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Tunisie : Retard de récolte et baisse de rendement pour les dattes Deglet Nour -- <span class=\"news-date\">19/11/2026 14:33</span></div><div class=\"news-body\">La campagne des dattes tunisiennes Deglet Nour a débuté avec un retard de deux à trois semaines. Les rendements sont en recul de 20 % par rapport à la normale. Malgré cette baisse de production, la qualité est jugée satisfaisante et les programmes d&#x27;exportation commencent à se mettre en place. <span class=\"news-reason\">Alerte supply majeure sur une origine concurrente des dattes, avec des chiffres de baisse de rendement.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9893764/tunisie-debut-du-conditionnement-des-dattes-deglet-nour-apres-un-demarrage-de-campagne-tardif/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Tunisia: Harvest delay and lower yield for Deglet Nour dates -- <span class=\"news-date\">19/11/2026 14:33</span></div><div class=\"news-body\">The Tunisian Deglet Nour date campaign has begun with a delay of two to three weeks. Yields are down 20% compared to normal. Despite this drop in production, the quality is considered satisfactory and export programs are starting to be put in place. <span class=\"news-reason\">Major supply alert on a competing date origin, with yield decline figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9893764/tunisie-debut-du-conditionnement-des-dattes-deglet-nour-apres-un-demarrage-de-campagne-tardif/\" target=\"_blank\">FreshPlaza FR -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">תוניסיה: עיכוב בקטיף וירידה ביבול של תמרי דגלת נור -- <span class=\"news-date\">19/11/2026 14:33</span></div><div class=\"news-body\">עונת תמרי הדגלת נור התוניסאיים החלה בעיכוב של שבועיים עד שלושה. היבולים נמצאים בירידה של 20% לעומת המצב הרגיל. למרות ירידה זו בייצור, האיכות נחשבת למשביעת רצון ותוכניות הייצוא מתחילות לצאת לפועל. <span class=\"news-reason\">התראת אספקה משמעותית לגבי מקור מתחרה של תמרים, הכוללת נתונים על ירידה ביבול.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9893764/tunisie-debut-du-conditionnement-des-dattes-deglet-nour-apres-un-demarrage-de-campagne-tardif/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795100791_1",
+      "timestamp": "2026-11-19T15:06:31.108989+00:00",
+      "title": "Lancement de la campagne d&#x27;oranges du Portugal sur le marché français -- 19/11/2026 14:33",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "FRA",
+        "PRT"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne d&#x27;oranges du Portugal sur le marché français -- <span class=\"news-date\">19/11/2026 14:33</span></div><div class=\"news-body\">La campagne de l&#x27;orange portugaise a débuté chez Apifood avec le chargement des premiers camions. Les oranges de la marque Agrumine arrivent sur le marché français dès cette fin de semaine. Bien que les volumes prévus soient similaires à ceux de l&#x27;année dernière, la qualité gustative élevée pourrait entraîner une ouverture anticipée de l&#x27;Indication Géographique Protégée (IGP). <span class=\"news-reason\">Lancement de la saison des oranges portugaises sur le marché cible français avec des prévisions de volumes stables.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9894458/la-qualite-gustative-des-oranges-du-portugal-pourrait-avancer-l-ouverture-de-l-igp/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Launch of the Portuguese orange campaign on the French market -- <span class=\"news-date\">19/11/2026 14:33</span></div><div class=\"news-body\">The Portuguese orange campaign has begun at Apifood with the loading of the first trucks. Agrumine brand oranges are arriving on the French market starting this weekend. Although the planned volumes are similar to last year&#x27;s, the high gustatory quality could lead to an early opening of the Protected Geographical Indication (PGI). <span class=\"news-reason\">Launch of the Portuguese orange season on the French target market with stable volume forecasts.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9894458/la-qualite-gustative-des-oranges-du-portugal-pourrait-avancer-l-ouverture-de-l-igp/\" target=\"_blank\">FreshPlaza FR -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקור</div><div class=\"news-title\">השקת עונת התפוזים של פורטוגל בשוק הצרפתי -- <span class=\"news-date\">19/11/2026 14:33</span></div><div class=\"news-body\">עונת התפוזים הפורטוגזיים החלה ב-Apifood עם העמסת המשאיות הראשונות. תפוזים ממותג Agrumine מגיעים לשוק הצרפתי כבר בסוף השבוע הנוכחי. למרות שהנפחים הצפויים דומים לאלו של השנה שעברה, איכות הטעם הגבוהה עשויה להוביל לפתיחה מוקדמת של ה-IGP (ציון גיאוגרפי מוגן). <span class=\"news-reason\">השקת עונת התפוזים הפורטוגזיים בשוק היעד הצרפתי עם תחזיות לנפחים יציבים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9894458/la-qualite-gustative-des-oranges-du-portugal-pourrait-avancer-l-ouverture-de-l-igp/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795100791_0",
+      "timestamp": "2026-11-19T15:06:31.108989+00:00",
+      "title": "Fenêtre d&#x27;exportation et maturité de l&#x27;avocat Hass marocain -- 19/11/2026 16:00",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Fenêtre d&#x27;exportation et maturité de l&#x27;avocat Hass marocain -- <span class=\"news-date\">19/11/2026 16:00</span></div><div class=\"news-body\">L&#x27;exportation de l&#x27;avocat Hass du Maroc débute entre les semaines 45 et 51. La maturité est déterminée par le taux de matière sèche plutôt que par le calendrier seul. Un été particulièrement chaud peut retarder ce processus, impactant la disponibilité des fruits. <span class=\"news-reason\">L&#x27;article définit le calendrier d&#x27;exportation (semaines 45 à 51) et signale des risques de retard de récolte liés aux conditions climatiques.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/avocat-hass-la-matiere-seche-decide-pas-le-calendrier/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Export window and maturity of Moroccan Hass avocado -- <span class=\"news-date\">19/11/2026 16:00</span></div><div class=\"news-body\">The export of Hass avocado from Morocco begins between weeks 45 and 51. Maturity is determined by the dry matter content rather than the calendar alone. A particularly hot summer can delay this process, impacting fruit availability. <span class=\"news-reason\">The article defines the export schedule (weeks 45 to 51) and signals harvest delay risks related to climate conditions.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/avocat-hass-la-matiere-seche-decide-pas-le-calendrier/\" target=\"_blank\">AgriMaroc -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">חלון ייצוא ובשלות של אבוקדו האס המרוקאי -- <span class=\"news-date\">19/11/2026 16:00</span></div><div class=\"news-body\">ייצוא אבוקדו האס ממרוקו מתחיל בין השבועות 45 ל-51. הבשלות נקבעת לפי אחוז החומר היבש ולא רק לפי לוח השנה. קיץ חם במיוחד עלול לעכב תהליך זה, דבר שישפיע על זמינות הפירות. <span class=\"news-reason\">המאמר מגדיר את לוח הזמנים לייצוא (שבועות 45 עד 51) ומציין סיכונים לעיכוב בקטיף הקשורים לתנאי האקלים.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/avocat-hass-la-matiere-seche-decide-pas-le-calendrier/\" target=\"_blank\">AgriMaroc -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1795095392_4",
       "timestamp": "2026-11-19T13:36:32.498789+00:00",
@@ -315,7 +421,7 @@
     {
       "id": "1795073718_0",
       "timestamp": "2026-11-19T07:35:18.844924+00:00",
-      "title": "Stagnation des cours des agrumes à Castellón malgré la hausse des coûts",
+      "title": "Castellón : stagnation des cours des agrumes malgré la hausse des coûts",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -324,7 +430,7 @@
         "mandarine"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Stagnation des cours des agrumes à Castellón malgré la hausse des coûts -- <span class=\"news-date\">19/11/2026 06:05</span></div><div class=\"news-body\">À Castellón, la campagne des clémentines Clemenules s&#x27;accélère avec une hausse des volumes récoltés. Cependant, les prix stagnent à une moyenne de 0,45 euro par kilogramme, variant entre 0,38 et 0,52 euro. Ces tarifs se situent en dessous des niveaux nécessaires pour compenser l&#x27;augmentation des coûts de production subie par les exploitants espagnols. <span class=\"news-reason\">Cotations précises pour les clémentines espagnoles (produit en saison) avec chiffres.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892450/i-costi-di-produzione-degli-agrumi-sono-aumentati-ma-non-c-e-stato-un-adeguamento-dei-prezzi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Castellón : stagnation des cours des agrumes malgré la hausse des coûts -- <span class=\"news-date\">19/11/2026 06:05</span></div><div class=\"news-body\">À Castellón, la campagne des clémentines Clemenules s&#x27;accélère avec une hausse des volumes récoltés. Cependant, les prix stagnent à une moyenne de 0,45 euro par kilogramme, variant entre 0,38 et 0,52 euro. Ces tarifs se situent en dessous des niveaux nécessaires pour compenser l&#x27;augmentation des coûts de production subie par les exploitants espagnols. <span class=\"news-reason\">Cotations précises pour les clémentines espagnoles (produit en saison) avec chiffres.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892450/i-costi-di-produzione-degli-agrumi-sono-aumentati-ma-non-c-e-stato-un-adeguamento-dei-prezzi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Stagnation of citrus prices in Castellón despite rising costs -- <span class=\"news-date\">19/11/2026 06:05</span></div><div class=\"news-body\">In Castellón, the Clemenules clementine campaign is accelerating with an increase in harvested volumes. However, prices are stagnating at an average of 0.45 euro per kilogram, varying between 0.38 and 0.52 euro. These rates are below the levels necessary to compensate for the increase in production costs suffered by Spanish growers. <span class=\"news-reason\">Precise quotes for Spanish clementines (in-season product) with figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892450/i-costi-di-produzione-degli-agrumi-sono-aumentati-ma-non-c-e-stato-un-adeguamento-dei-prezzi/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">קיפאון במחירי ההדרים בקסטלון למרות עליית העלויות -- <span class=\"news-date\">19/11/2026 06:05</span></div><div class=\"news-body\">בקסטלון, עונת הקלמנטינות מסוג Clemenules תופסת תאוצה עם עלייה בכמויות שנקטפו. עם זאת, המחירים קפואים בממוצע של 0.45 אירו לקילוגרם, ונעים בין 0.38 ל-0.52 אירו. מחירים אלו נמצאים מתחת לרמות הדרושות כדי לפצות על העלייה בעלויות הייצור שסופגים המגדלים הספרדים. <span class=\"news-reason\">הצעות מחיר מדויקות לקלמנטינות ספרדיות (מוצר בעונה) עם נתונים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892450/i-costi-di-produzione-degli-agrumi-sono-aumentati-ma-non-c-e-stato-un-adeguamento-dei-prezzi/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -452,7 +558,7 @@
     {
       "id": "1795009031_3",
       "timestamp": "2026-11-18T13:37:11.531933+00:00",
-      "title": "Érosion du pouvoir d&#x27;achat et transition saisonnière des agrumes en Europe",
+      "title": "Érosion du pouvoir d’achat et transition saisonnière des agrumes en Europe",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -463,7 +569,7 @@
       "origins": [
         "ZAF"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Érosion du pouvoir d&#x27;achat et transition saisonnière des agrumes en Europe -- <span class=\"news-date\">18/11/2026 11:37</span></div><div class=\"news-body\">Le marché européen vit son changement de saison annuel. Alors que les clémentines espagnoles Oronules arrivent, certains clients conservent les variétés Nadorcott et Orri d&#x27;Afrique du Sud jusqu&#x27;à l&#x27;épuisement des stocks, malgré une baisse du pouvoir d&#x27;achat impactant la distribution. <span class=\"news-reason\">Informations sur le passage de saison entre les stocks de l&#x27;hémisphère sud (Orri, Nadorcott) et les clémentines espagnoles (Oronules).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9892155/sinkende-kaufkraft-macht-sich-im-vertrieb-bemerkbar/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Érosion du pouvoir d’achat et transition saisonnière des agrumes en Europe -- <span class=\"news-date\">18/11/2026 11:37</span></div><div class=\"news-body\">Le marché européen vit son changement de saison annuel. Alors que les clémentines espagnoles Oronules arrivent, certains clients conservent les variétés Nadorcott et Orri d&#x27;Afrique du Sud jusqu&#x27;à l&#x27;épuisement des stocks, malgré une baisse du pouvoir d&#x27;achat impactant la distribution. <span class=\"news-reason\">Informations sur le passage de saison entre les stocks de l&#x27;hémisphère sud (Orri, Nadorcott) et les clémentines espagnoles (Oronules).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9892155/sinkende-kaufkraft-macht-sich-im-vertrieb-bemerkbar/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Erosion of purchasing power and seasonal citrus transition in Europe -- <span class=\"news-date\">18/11/2026 11:37</span></div><div class=\"news-body\">The European market is undergoing its annual season change. While Spanish Oronules clementines are arriving, some customers are keeping South African Nadorcott and Orri varieties until stocks are exhausted, despite a decline in purchasing power impacting distribution. <span class=\"news-reason\">Information on the seasonal transition between Southern Hemisphere stocks (Orri, Nadorcott) and Spanish clementines (Oronules).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9892155/sinkende-kaufkraft-macht-sich-im-vertrieb-bemerkbar/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">שחיקת כוח הקנייה ומעבר עונתי של פירות הדר באירופה -- <span class=\"news-date\">18/11/2026 11:37</span></div><div class=\"news-body\">השוק האירופי חווה את חילופי העונות השנתיים שלו. בעוד שהקלמנטינות הספרדיות מסוג אורונולס (Oronules) מגיעות, חלק מהלקוחות שומרים על זני נאדורקוט (Nadorcott) ואורי (Orri) מדרום אפריקה עד גמר המלאי, למרות הירידה בכוח הקנייה המשפיעה על ההפצה. <span class=\"news-reason\">מידע על מעבר העונה בין המלאי של חצי הכדור הדרומי (אורי, נאדורקוט) לבין הקלמנטינות הספרדיות (אורונולס).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9892155/sinkende-kaufkraft-macht-sich-im-vertrieb-bemerkbar/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -1126,7 +1232,7 @@
     {
       "id": "1794900900_2",
       "timestamp": "2026-11-17T07:35:00.831241+00:00",
-      "title": "Maroc : baisse prévisionnelle de 20 % de la récolte d&#x27;agrumes",
+      "title": "Maroc : la récolte d&#x27;agrumes devrait accuser une baisse de 20 %",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Nadia"
@@ -1135,7 +1241,7 @@
       "origins": [
         "MAR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Maroc : baisse prévisionnelle de 20 % de la récolte d&#x27;agrumes -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">La production marocaine d&#x27;agrumes devrait chuter de 20 % pour la campagne 2026/27 selon Maroc Citrus. Le volume est estimé à 1,8 million de tonnes, contre 2,2 millions lors de la saison précédente. Cette baisse est principalement attribuée aux températures estivales extrêmes qui ont affecté le développement des fruits. <span class=\"news-reason\">Information cruciale sur les volumes d&#x27;une origine concurrente directe pour la campagne d&#x27;agrumes en cours, avec des chiffres précis de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891428/in-marocco-si-prevede-un-calo-del-20-per-cento-nel-raccolto-di-agrumi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Maroc : la récolte d&#x27;agrumes devrait accuser une baisse de 20 % -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">La production marocaine d&#x27;agrumes devrait chuter de 20 % pour la campagne 2026/27 selon Maroc Citrus. Le volume est estimé à 1,8 million de tonnes, contre 2,2 millions lors de la saison précédente. Cette baisse est principalement attribuée aux températures estivales extrêmes qui ont affecté le développement des fruits. <span class=\"news-reason\">Information cruciale sur les volumes d&#x27;une origine concurrente directe pour la campagne d&#x27;agrumes en cours, avec des chiffres précis de production.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891428/in-marocco-si-prevede-un-calo-del-20-per-cento-nel-raccolto-di-agrumi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Morocco: a 20% drop in citrus harvest anticipated -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">Moroccan citrus production is expected to drop by 20% for the 2026/27 campaign according to Maroc Citrus. The volume is estimated at 1.8 million tonnes, compared to 2.2 million in the previous season. This decline is mainly attributed to extreme summer temperatures that affected fruit development. <span class=\"news-reason\">Crucial information on volumes from a direct competing origin for the current citrus season, with precise production figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891428/in-marocco-si-prevede-un-calo-del-20-per-cento-nel-raccolto-di-agrumi/\" target=\"_blank\">FreshPlaza IT -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מרוקו: ירידה צפויה של 20% ביבול פירות ההדר -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">ייצור פירות ההדר במרוקו צפוי לרדת ב-20% בעונת 2026/27 לפי Maroc Citrus. הכמות מוערכת ב-1.8 מיליון טונות, לעומת 2.2 מיליון בעונה הקודמת. ירידה זו מיוחסת בעיקר לטמפרטורות קיץ קיצוניות שהשפיעו על התפתחות הפירות. <span class=\"news-reason\">מידע חיוני על כמויות ממקור מתחרה ישיר לעונת פירות ההדר הנוכחית, עם נתוני ייצור מדויקים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9891428/in-marocco-si-prevede-un-calo-del-20-per-cento-nel-raccolto-di-agrumi/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -1158,7 +1264,7 @@
     {
       "id": "1794895473_3",
       "timestamp": "2026-11-17T06:04:33.529234+00:00",
-      "title": "5 600 hectares de cultures ravagés par la grêle dans le Baix Maestrat",
+      "title": "5 600 hectares de cultures dévastés par la grêle dans le Baix Maestrat",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -1167,7 +1273,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">5 600 hectares de cultures ravagés par la grêle dans le Baix Maestrat -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">Une violente tempête de grêle et des vents forts ont frappé le Baix Maestrat en Espagne samedi dernier, endommageant 5 600 hectares de cultures. Les agrumes sont les plus durement touchés par cet événement climatique, entraînant des pertes financières estimées à plusieurs millions d&#x27;euros selon La Unió Llauradora. <span class=\"news-reason\">Alerte supply majeure suite à des intempéries touchant les agrumes en Espagne, une origine concurrente et fournisseur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893366/una-grandinata-causa-danni-a-5-600-ettari-agricoli-del-baix-maestrat-e-perdite-milionarie/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">5 600 hectares de cultures dévastés par la grêle dans le Baix Maestrat -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">Une violente tempête de grêle et des vents forts ont frappé le Baix Maestrat en Espagne samedi dernier, endommageant 5 600 hectares de cultures. Les agrumes sont les plus durement touchés par cet événement climatique, entraînant des pertes financières estimées à plusieurs millions d&#x27;euros selon La Unió Llauradora. <span class=\"news-reason\">Alerte supply majeure suite à des intempéries touchant les agrumes en Espagne, une origine concurrente et fournisseur de Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893366/una-grandinata-causa-danni-a-5-600-ettari-agricoli-del-baix-maestrat-e-perdite-milionarie/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Hail ravages 5,600 hectares of crops in Baix Maestrat -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">A violent hailstorm and strong winds hit Baix Maestrat in Spain last Saturday, damaging 5,600 hectares of crops. Citrus fruits are the hardest hit by this weather event, resulting in financial losses estimated at several million euros according to La Unió Llauradora. <span class=\"news-reason\">Major supply alert following severe weather affecting citrus fruits in Spain, a competing origin and supplier to Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893366/una-grandinata-causa-danni-a-5-600-ettari-agricoli-del-baix-maestrat-e-perdite-milionarie/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">הברד מחריב 5,600 הקטרים של גידולים בבאש מאסטראט -- <span class=\"news-date\">17/11/2026 06:05</span></div><div class=\"news-body\">סופת ברד עזה ורוחות חזקות פקדו את אזור באש מאסטראט בספרד בשבת האחרונה, וגרמו נזק ל-5,600 הקטרים של גידולים. פירות ההדר הם הנפגעים הקשים ביותר מאירוע אקלימי זה, מה שהוביל להפסדים כספיים המוערכים במיליוני אירו על פי La Unió Llauradora. <span class=\"news-reason\">התראת אספקה משמעותית בעקבות פגעי מזג אוויר המשפיעים על פירות ההדר בספרד, מקור מתחרה וספק של מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893366/una-grandinata-causa-danni-a-5-600-ettari-agricoli-del-baix-maestrat-e-perdite-milionarie/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
