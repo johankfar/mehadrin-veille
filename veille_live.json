@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-20T10:36:53.381823+00:00",
-  "article_count": 77,
+  "last_updated": "2026-11-20T12:07:07.062285+00:00",
+  "article_count": 78,
   "attention_points": [
+    {
+      "id": "attention-6e1be90b8a5ad5d5",
+      "article_id": "1795176427_1",
+      "url": "https://www.agf.nl/article/9894233/biologische-avocado-s-en-citrus-uit-sicilie-winnen-terrein-in-supermarktschap/",
+      "source": "AGF.nl",
+      "title": "Essor de la production d'agrumes et d'avocats biologiques",
+      "summary": "Le secteur se développe grâce à la croissance d'une marque biologique régionale",
+      "origin_code": "ITA",
+      "origin_label": "Italie",
+      "published_at": "2026-11-20T12:09:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 0
+    },
     {
       "id": "attention-55c5017310687d86",
       "article_id": "1795171013_0",
@@ -19,7 +38,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 0
+      "age_hours": 2
     },
     {
       "id": "attention-5f638a0bf72af7c5",
@@ -38,26 +57,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 3
-    },
-    {
-      "id": "attention-497894ecfc414004",
-      "article_id": "1795154795_3",
-      "url": "https://www.freshplaza.it/article/9892870/il-messico-affronta-il-picco-della-campagna-dell-avocado-con-volumi-in-crescita/",
-      "source": "FreshPlaza IT",
-      "title": "Mexique : les prévisions de production d’avocats dépassent 1,3",
-      "summary": "La récolte mexicaine d'avocats devrait dépasser un million trois cent mille tonnes",
-      "origin_code": "MEX",
-      "origin_label": "Mexique",
-      "published_at": "2026-11-20T06:05:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 5
+      "age_hours": 4
     },
     {
       "id": "attention-219d0950e8577492",
@@ -74,10 +74,68 @@
       "signal_label": "Alerte",
       "icon": "alert",
       "products": [],
-      "age_hours": 16
+      "age_hours": 18
     }
   ],
   "articles": [
+    {
+      "id": "1795176427_2",
+      "timestamp": "2026-11-20T12:07:07.062285+00:00",
+      "title": "Transition saisonnière et incidence de la consommation sur le marché des agrumes -- 19/11/2026 13:10",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Transition saisonnière et incidence de la consommation sur le marché des agrumes -- <span class=\"news-date\">19/11/2026 13:10</span></div><div class=\"news-body\">Le marché européen opère actuellement sa transition saisonnière avec l&#x27;introduction des clémentines Oronules espagnoles. Certains segments conservent toutefois les variétés Orri et Nadorcott d&#x27;outre-mer. L&#x27;article souligne que la baisse globale du pouvoir d&#x27;achat des consommateurs freine actuellement le rythme des ventes dans le secteur des fruits et légumes. <span class=\"news-reason\">L&#x27;article détaille la transition entre les agrumes d&#x27;importation (Orri, Nadorcott) et l&#x27;origine espagnole sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9894287/declining-purchasing-power-is-having-an-impact-on-sales/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Seasonal transition and impact of consumption on the citrus market -- <span class=\"news-date\">19/11/2026 13:10</span></div><div class=\"news-body\">The European market is currently undergoing its seasonal transition with the introduction of Spanish Oronules clementines. However, some segments are still carrying Orri and Nadorcott varieties from overseas. The article highlights that the global decline in consumer purchasing power is currently slowing the pace of sales in the fruit and vegetable sector. <span class=\"news-reason\">The article details the transition between imported citrus (Orri, Nadorcott) and Spanish origin on the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9894287/declining-purchasing-power-is-having-an-impact-on-sales/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות בין מקורות אספקה</div><div class=\"news-title\">מעבר עונתי והשפעת הצריכה על שוק ההדרים -- <span class=\"news-date\">19/11/2026 13:10</span></div><div class=\"news-body\">השוק האירופי מבצע כעת את המעבר העונתי שלו עם כניסתן של קלמנטינות האורונולס (Oronules) הספרדיות. עם זאת, מגזרים מסוימים שומרים על זני האוריי (Orri) והנאדורקוט (Nadorcott) ממדינות מעבר לים. הכתבה מדגישה כי הירידה הכללית בכוח הקנייה של הצרכנים בולמת כעת את קצב המכירות במגזר הפירות והירקות. <span class=\"news-reason\">הכתבה מפרטת את המעבר בין פרי הדר מיבוא (אוריי, נאדורקוט) למקור הספרדי בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9894287/declining-purchasing-power-is-having-an-impact-on-sales/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795176427_1",
+      "timestamp": "2026-11-20T12:07:07.062285+00:00",
+      "title": "Essor de la production d&#x27;agrumes et d&#x27;avocats biologiques en Sicile -- 20/11/2026 12:09",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Nadia",
+        "Ophélie"
+      ],
+      "products": [
+        "avocat",
+        "orange"
+      ],
+      "origins": [
+        "ITA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Essor de la production d&#x27;agrumes et d&#x27;avocats biologiques en Sicile -- <span class=\"news-date\">20/11/2026 12:09</span></div><div class=\"news-body\">La marque biologique Brio enregistre une croissance significative en Sicile grâce à la collaboration avec des entreprises de petite et moyenne taille. Les avocats sont actuellement en pleine expansion tandis que les oranges maintiennent une position solide sur le marché. Cette dynamique renforce la position de l&#x27;origine sicilienne sur les segments locaux et nationaux du bio. <span class=\"news-reason\">Information sur l&#x27;expansion de la production d&#x27;avocats et d&#x27;oranges biologiques en Sicile, une origine clé.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9894233/biologische-avocado-s-en-citrus-uit-sicilie-winnen-terrein-in-supermarktschap/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Rise in organic citrus and avocado production in Sicily -- <span class=\"news-date\">20/11/2026 12:09</span></div><div class=\"news-body\">The organic brand Brio is recording significant growth in Sicily through collaboration with small and medium-sized enterprises. Avocados are currently in full expansion while oranges maintain a solid position in the market. This dynamic strengthens the position of Sicilian origin in local and national organic segments. <span class=\"news-reason\">Information on the expansion of organic avocado and orange production in Sicily, a key origin.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9894233/biologische-avocado-s-en-citrus-uit-sicilie-winnen-terrein-in-supermarktschap/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות שיווק</div><div class=\"news-title\">תנופה בייצור הדרים ואבוקדו אורגניים בסיציליה -- <span class=\"news-date\">20/11/2026 12:09</span></div><div class=\"news-body\">המותג האורגני Brio רושם צמיחה משמעותית בסיציליה הודות לשיתוף פעולה עם חברות קטנות ובינוניות. האבוקדו נמצא כעת בהתרחבות מלאה בעוד שהתפוזים שומרים על מעמד איתן בשוק. דינמיקה זו מחזקת את מעמדו של המקור הסיציליאני במגזרי האורגני המקומיים והארציים. <span class=\"news-reason\">מידע על התרחבות ייצור האבוקדו והתפוזים האורגניים בסיציליה, מקור אספקה מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9894233/biologische-avocado-s-en-citrus-uit-sicilie-winnen-terrein-in-supermarktschap/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795176427_0",
+      "timestamp": "2026-11-20T12:07:07.062285+00:00",
+      "title": "Perspectives de contraction de l&#x27;offre mondiale d&#x27;oranges en 2026/27 -- 20/11/2026 08:00",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "BRA",
+        "MEX",
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Perspectives de contraction de l&#x27;offre mondiale d&#x27;oranges en 2026/27 -- <span class=\"news-date\">20/11/2026 08:00</span></div><div class=\"news-body\">Les récoltes combinées d&#x27;oranges au Brésil, aux États-Unis et au Mexique devraient baisser lors de la prochaine saison 2026/27. Cette diminution de la production entraînera une contraction de l&#x27;offre mondiale, impactant particulièrement le marché du jus. <span class=\"news-reason\">Prévisions de baisse de récolte d&#x27;oranges dans des pays producteurs majeurs impactant l&#x27;offre globale.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/20/orange-supplies/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Prospects for contraction of global orange supply in 2026/27 -- <span class=\"news-date\">20/11/2026 08:00</span></div><div class=\"news-body\">The combined orange harvests in Brazil, the United States, and Mexico are expected to decline in the upcoming 2026/27 season. This decrease in production will lead to a contraction in global supply, particularly impacting the juice market. <span class=\"news-reason\">Forecasts of orange harvest declines in major producing countries impacting global supply.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/20/orange-supplies/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">תחזיות להתכווצות בהיצע התפוזים העולמי ב-2026/27 -- <span class=\"news-date\">20/11/2026 08:00</span></div><div class=\"news-body\">יבולי התפוזים המשולבים בברזיל, ארצות הברית ומקסיקו צפויים לרדת בעונת 2026/27 הקרובה. ירידה זו בייצור תוביל להתכווצות בהיצע העולמי, ותשפיע במיוחד על שוק המיצים. <span class=\"news-reason\">תחזיות לירידה ביבול התפוזים במדינות יצרניות מרכזיות המשפיעה על ההיצע הכולל.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/20/orange-supplies/\" target=\"_blank\">Fresh Fruit Portal -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1795171013_4",
       "timestamp": "2026-11-20T10:36:53.381823+00:00",
@@ -183,7 +241,7 @@
     {
       "id": "1795154795_3",
       "timestamp": "2026-11-20T06:06:35.183290+00:00",
-      "title": "Mexique : les prévisions de production d’avocats dépassent 1,3 million de tonnes",
+      "title": "Mexique : les prévisions de production d&#x27;avocats dépassent 1,3 million de tonnes",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -194,14 +252,14 @@
       "origins": [
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Mexique : les prévisions de production d’avocats dépassent 1,3 million de tonnes -- <span class=\"news-date\">20/11/2026 06:05</span></div><div class=\"news-body\">L&#x27;APEAM prévoit que la production d&#x27;avocats au Mexique pour la saison 2026/27 dépassera légèrement les 1,3 million de tonnes. L&#x27;organisation se prépare à gérer le pic de la campagne alors que les volumes sont en croissance constante. <span class=\"news-reason\">Contient des chiffres de production massifs pour la saison 2026/27 d&#x27;un concurrent mondial majeur de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892870/il-messico-affronta-il-picco-della-campagna-dell-avocado-con-volumi-in-crescita/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Mexique : les prévisions de production d&#x27;avocats dépassent 1,3 million de tonnes -- <span class=\"news-date\">20/11/2026 06:05</span></div><div class=\"news-body\">L&#x27;APEAM prévoit que la production d&#x27;avocats au Mexique pour la saison 2026/27 dépassera légèrement les 1,3 million de tonnes. L&#x27;organisation se prépare à gérer le pic de la campagne alors que les volumes sont en croissance constante. <span class=\"news-reason\">Contient des chiffres de production massifs pour la saison 2026/27 d&#x27;un concurrent mondial majeur de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892870/il-messico-affronta-il-picco-della-campagna-dell-avocado-con-volumi-in-crescita/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Mexico's avocado production forecasts exceed 1.3 million tons -- <span class=\"news-date\">20/11/2026 06:05</span></div><div class=\"news-body\">APEAM forecasts that Mexico's avocado production for the 2026/27 season will slightly exceed 1.3 million tons. The organization is preparing to manage the peak of the campaign as volumes are steadily growing. <span class=\"news-reason\">Contains massive production figures for the 2026/27 season from a major global avocado competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892870/il-messico-affronta-il-picco-della-campagna-dell-avocado-con-volumi-in-crescita/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים ונפחים</div><div class=\"news-title\">תחזיות ייצור האבוקדו במקסיקו עולות על 1.3 מיליון טון -- <span class=\"news-date\">20/11/2026 06:05</span></div><div class=\"news-body\">ארגון APEAM צופה כי ייצור האבוקדו במקסיקו לעונת 2026/27 יעלה מעט על 1.3 מיליון טון. הארגון נערך לניהול שיא העונה כאשר הנפחים נמצאים בצמיחה מתמדת. <span class=\"news-reason\">מכיל נתוני ייצור מאסיביים לעונת 2026/27 של מתחרה עולמי מרכזי בתחום האבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892870/il-messico-affronta-il-picco-della-campagna-dell-avocado-con-volumi-in-crescita/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1795154795_2",
       "timestamp": "2026-11-20T06:06:35.183290+00:00",
-      "title": "Intensification des expéditions de clémentines corses après un début de campagne difficile",
+      "title": "Intensification des flux d&#x27;expédition de clémentines corses après un démarrage de campagne complexe",
       "category": "ALERTES SUPPLY",
       "commercials": [],
       "products": [
@@ -210,7 +268,7 @@
       "origins": [
         "FRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Intensification des expéditions de clémentines corses après un début de campagne difficile -- <span class=\"news-date\">20/11/2026 06:05</span></div><div class=\"news-body\">Après un début de saison ralenti par la pluie et la douceur climatique, la campagne des clémentines corses s&#x27;accélère. La variété Fine de Corse arrive désormais à maturité, ce qui devrait entraîner une augmentation rapide des volumes expédiés vers les marchés. <span class=\"news-reason\">Information pertinente sur le calendrier de récolte et la disponibilité d&#x27;une origine concurrente directe sur le marché français.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892894/dopo-un-avvio-difficile-le-spedizioni-di-clementine-corse-stanno-entrando-nel-vivo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Intensification des flux d&#x27;expédition de clémentines corses après un démarrage de campagne complexe -- <span class=\"news-date\">20/11/2026 06:05</span></div><div class=\"news-body\">Après un début de saison ralenti par la pluie et la douceur climatique, la campagne des clémentines corses s&#x27;accélère. La variété Fine de Corse arrive désormais à maturité, ce qui devrait entraîner une augmentation rapide des volumes expédiés vers les marchés. <span class=\"news-reason\">Information pertinente sur le calendrier de récolte et la disponibilité d&#x27;une origine concurrente directe sur le marché français.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892894/dopo-un-avvio-difficile-le-spedizioni-di-clementine-corse-stanno-entrando-nel-vivo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Intensification of Corsican clementine shipments after a difficult start -- <span class=\"news-date\">20/11/2026 06:05</span></div><div class=\"news-body\">After a start to the season slowed by rain and mild weather, the Corsican clementine campaign is accelerating. The Fine de Corse variety is now reaching maturity, which should lead to a rapid increase in volumes shipped to markets. <span class=\"news-reason\">Relevant information on the harvest schedule and availability of a direct competing origin on the French market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892894/dopo-un-avvio-difficile-le-spedizioni-di-clementine-corse-stanno-entrando-nel-vivo/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">הגברת משלוחי הקלמנטינות מקורסיקה לאחר התחלה קשה -- <span class=\"news-date\">20/11/2026 06:05</span></div><div class=\"news-body\">לאחר תחילת עונה שהתעכבה בשל הגשמים והאקלים המתון, קמפיין הקלמנטינות מקורסיקה מאיצה. זן ה-Fine de Corse מגיע כעת להבשלה, מה שצפוי להוביל לעלייה מהירה בנפחי המשלוחים לשווקים. <span class=\"news-reason\">מידע רלוונטי על לוח הזמנים של הקטיף והזמינות של מקור מתחרה ישיר בשוק הצרפתי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892894/dopo-un-avvio-difficile-le-spedizioni-di-clementine-corse-stanno-entrando-nel-vivo/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -253,7 +311,7 @@
     {
       "id": "1795106249_2",
       "timestamp": "2026-11-19T16:37:28.993008+00:00",
-      "title": "Incidence de la pluviométrie sur les volumes de mangues d&#x27;Amérique du Sud",
+      "title": "Impact des précipitations sur les volumes de mangues d&#x27;Amérique du Sud",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -265,7 +323,7 @@
         "PER",
         "BRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Incidence de la pluviométrie sur les volumes de mangues d&#x27;Amérique du Sud -- <span class=\"news-date\">19/11/2026 16:20</span></div><div class=\"news-body\">La saison des mangues en Amérique du Sud est marquée par une forte incertitude. Si le Brésil maintient des expéditions solides, l&#x27;Équateur et le Pérou enregistrent une chute significative de leur production. Les précipitations hivernales à venir seront déterminantes pour fixer le volume total disponible sur le marché durant cette campagne. <span class=\"news-reason\">Incertitude sur les volumes et baisse significative de production chez des origines clés (Pérou, Équateur).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893791/las-lluvias-determinaran-el-volumen-de-mango-disponible-de-sudamerica-este-invierno/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Impact des précipitations sur les volumes de mangues d&#x27;Amérique du Sud -- <span class=\"news-date\">19/11/2026 16:20</span></div><div class=\"news-body\">La saison des mangues en Amérique du Sud est marquée par une forte incertitude. Si le Brésil maintient des expéditions solides, l&#x27;Équateur et le Pérou enregistrent une chute significative de leur production. Les précipitations hivernales à venir seront déterminantes pour fixer le volume total disponible sur le marché durant cette campagne. <span class=\"news-reason\">Incertitude sur les volumes et baisse significative de production chez des origines clés (Pérou, Équateur).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893791/las-lluvias-determinaran-el-volumen-de-mango-disponible-de-sudamerica-este-invierno/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Impact of rainfall on South American mango volumes -- <span class=\"news-date\">19/11/2026 16:20</span></div><div class=\"news-body\">The mango season in South America is marked by high uncertainty. While Brazil maintains solid shipments, Ecuador and Peru are recording a significant drop in their production. Upcoming winter rainfall will be decisive in determining the total volume available on the market during this campaign. <span class=\"news-reason\">Uncertainty over volumes and significant drop in production from key origins (Peru, Ecuador).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893791/las-lluvias-determinaran-el-volumen-de-mango-disponible-de-sudamerica-este-invierno/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השפעת המשקעים על כמויות המנגו מדרום אמריקה -- <span class=\"news-date\">19/11/2026 16:20</span></div><div class=\"news-body\">עונת המנגו בדרום אמריקה מאופיינת בחוסר ודאות רב. בעוד שברזיל שומרת על משלוחים יציבים, אקוודור ופרו רושמות ירידה משמעותית בייצור שלהן. המשקעים בחורף הקרוב יהיו מכריעים בקביעת הכמות הכוללת שתהיה זמינה בשוק במהלך עונה זו. <span class=\"news-reason\">חוסר ודאות לגבי הכמויות וירידה משמעותית בייצור במקורות מרכזיים (פרו, אקוודור).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893791/las-lluvias-determinaran-el-volumen-de-mango-disponible-de-sudamerica-este-invierno/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -663,7 +721,7 @@
     {
       "id": "1795068417_2",
       "timestamp": "2026-11-19T06:06:57.616970+00:00",
-      "title": "Mexique : suspension de la récolte d&#x27;avocats afin de soutenir les cours",
+      "title": "Mexique : suspension de la récolte d&#x27;avocats pour soutenir les cours",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -675,7 +733,7 @@
         "MEX",
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Mexique : suspension de la récolte d&#x27;avocats afin de soutenir les cours -- <span class=\"news-date\">19/11/2026 06:05</span></div><div class=\"news-body\">Dans la région du Michoacán, principal pôle de production d&#x27;avocats au Mexique, les agriculteurs ont interrompu la récolte depuis deux semaines. Cette décision fait suite à une deuxième année consécutive de récoltes exceptionnelles qui a entraîné des prix de vente jugés insuffisants sur le marché des États-Unis. <span class=\"news-reason\">Action directe d&#x27;un concurrent majeur (Mexique) sur un produit phare (avocat) impactant l&#x27;offre mondiale.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890556/i-produttori-messicani-di-avocado-sospendono-la-raccolta-per-sostenere-i-prezzi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Mexique : suspension de la récolte d&#x27;avocats pour soutenir les cours -- <span class=\"news-date\">19/11/2026 06:05</span></div><div class=\"news-body\">Dans la région du Michoacán, principal pôle de production d&#x27;avocats au Mexique, les agriculteurs ont interrompu la récolte depuis deux semaines. Cette décision fait suite à une deuxième année consécutive de récoltes exceptionnelles qui a entraîné des prix de vente jugés insuffisants sur le marché des États-Unis. <span class=\"news-reason\">Action directe d&#x27;un concurrent majeur (Mexique) sur un produit phare (avocat) impactant l&#x27;offre mondiale.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890556/i-produttori-messicani-di-avocado-sospendono-la-raccolta-per-sostenere-i-prezzi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Mexican avocado producers suspend harvest to support prices -- <span class=\"news-date\">19/11/2026 06:05</span></div><div class=\"news-body\">In the Michoacán region, Mexico's main avocado production hub, farmers have halted the harvest for two weeks. This decision follows a second consecutive year of bumper harvests which led to selling prices deemed insufficient in the United States market. <span class=\"news-reason\">Direct action by a major competitor (Mexico) on a flagship product (avocado) impacting global supply.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890556/i-produttori-messicani-di-avocado-sospendono-la-raccolta-per-sostenere-i-prezzi/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מגדלי האבוקדו במקסיקו משעים את הקטיף כדי לתמוך במחירים -- <span class=\"news-date\">19/11/2026 06:05</span></div><div class=\"news-body\">באזור מיצ'ואקן, מרכז ייצור האבוקדו העיקרי במקסיקו, החקלאים הפסיקו את הקטיף מזה שבועיים. החלטה זו מגיעה בעקבות שנה שנייה ברציפות של יבולים יוצאי דופן שהובילו למחירי מכירה שנחשבו ללא מספיקים בשוק של ארצות הברית. <span class=\"news-reason\">פעולה ישירה של מתחרה מרכזי (מקסיקו) במוצר מוביל (אבוקדו) המשפיעה על ההיצע העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890556/i-produttori-messicani-di-avocado-sospendono-la-raccolta-per-sostenere-i-prezzi/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -1124,7 +1182,7 @@
     {
       "id": "1794933411_2",
       "timestamp": "2026-11-17T16:36:51.332034+00:00",
-      "title": "Pérou : suspension des exportations maritimes de mangues en raison des aléas climatiques",
+      "title": "Pérou : suspension des exportations maritimes de mangues face aux aléas climatiques",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -1135,7 +1193,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pérou : suspension des exportations maritimes de mangues en raison des aléas climatiques -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">Jim Ruiz du groupe Cultivemos annonce l&#x27;arrêt des exportations de mangues par voie maritime au Pérou en raison de précipitations dépassant 100 mm à Tambogrande. Le risque de maladies fongiques impose un basculement vers le transport aérien pour sécuriser la qualité durant cette campagne complexe. <span class=\"news-reason\">Alerte logistique majeure sur une origine concurrente de mangue avec basculement vers l&#x27;aérien.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893649/no-haremos-mango-maritimo-esta-campana-el-riesgo-no-compensa/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pérou : suspension des exportations maritimes de mangues face aux aléas climatiques -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">Jim Ruiz du groupe Cultivemos annonce l&#x27;arrêt des exportations de mangues par voie maritime au Pérou en raison de précipitations dépassant 100 mm à Tambogrande. Le risque de maladies fongiques impose un basculement vers le transport aérien pour sécuriser la qualité durant cette campagne complexe. <span class=\"news-reason\">Alerte logistique majeure sur une origine concurrente de mangue avec basculement vers l&#x27;aérien.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893649/no-haremos-mango-maritimo-esta-campana-el-riesgo-no-compensa/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Peru abandons sea exports of mangoes due to climate hazards -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">Jim Ruiz of the Cultivemos group announces the suspension of mango exports by sea in Peru due to rainfall exceeding 100 mm in Tambogrande. The risk of fungal diseases requires a shift to air transport to ensure quality during this complex campaign. <span class=\"news-reason\">Major logistics alert on a competing mango origin with a shift to air transport.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893649/no-haremos-mango-maritimo-esta-campana-el-riesgo-no-compensa/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">פרו מוותרת על יצוא מנגו בדרך הים בשל פגעי מזג האוויר -- <span class=\"news-date\">17/11/2026 15:35</span></div><div class=\"news-body\">ג'ים רואיז מקבוצת Cultivemos מודיע על הפסקת יצוא המנגו בדרך הים מפרו בשל משקעים העולים על 100 מ\"מ בטמבוגרנדה. הסיכון למחלות פטרייתיות מחייב מעבר להובלה אווירית כדי להבטיח את האיכות במהלך עונה מורכבת זו. <span class=\"news-reason\">התראת לוגיסטיקה משמעותית במקור מנגו מתחרה עם מעבר להובלה אווירית.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9893649/no-haremos-mango-maritimo-esta-campana-el-riesgo-no-compensa/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -1385,41 +1443,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Des acheteurs internationaux à la rencontre des producteurs brésiliens de mangues -- <span class=\"news-date\">17/11/2026 13:39</span></div><div class=\"news-body\">Treize acheteurs internationaux originaires du Canada, du Royaume-Uni, du Portugal, des Pays-Bas et d&#x27;autres pays d&#x27;Amérique du Sud ont visité des exploitations fruitières à Bahia, au Brésil. Ces visites, organisées les 9 et 10 novembre, font partie de la troisième édition du projet e-Agro Buyer visant à renforcer les liens commerciaux pour les mangues brésiliennes. <span class=\"news-reason\">L&#x27;article concerne la mangue, un produit Mehadrin, et des visites commerciales impliquant des marchés européens comme le Royaume-Uni et les Pays-Bas.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893470/international-buyers-visit-brazilian-mango-and-grape-growers/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGINS COMPETITION</div><div class=\"news-title\">International buyers meet Brazilian mango producers -- <span class=\"news-date\">17/11/2026 13:39</span></div><div class=\"news-body\">Thirteen international buyers from Canada, the United Kingdom, Portugal, the Netherlands, and other South American countries visited fruit farms in Bahia, Brazil. These visits, organized on November 9 and 10, are part of the third edition of the e-Agro Buyer project aimed at strengthening commercial ties for Brazilian mangoes. <span class=\"news-reason\">The article concerns mangoes, a Mehadrin product, and commercial visits involving European markets such as the UK and the Netherlands.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893470/international-buyers-visit-brazilian-mango-and-grape-growers/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">קונים בינלאומיים נפגשים עם מגדלי מנגו ברזילאים -- <span class=\"news-date\">17/11/2026 13:39</span></div><div class=\"news-body\">שלושה-עשר קונים בינלאומיים מקנדה, בריטניה, פורטוגל, הולנד ומדינות נוספות בדרום אמריקה ביקרו במטעי פירות בבאהיה, ברזיל. ביקורים אלו, שאורגנו ב-9 וב-10 בנובמבר, הם חלק מהמהדורה השלישית של פרויקט e-Agro Buyer שמטרתו לחזק את הקשרים המסחריים עבור מנגו ברזילאי. <span class=\"news-reason\">המאמר עוסק במנגו, מוצר מהדרין, ובביקורים מסחריים המערבים שווקים אירופיים כמו בריטניה והולנד.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9893470/international-buyers-visit-brazilian-mango-and-grape-growers/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1794917113_1",
-      "timestamp": "2026-11-17T12:05:13.902520+00:00",
-      "title": "Expansion de l&#x27;avocat Hass et potentiel de croissance en Europe -- 17/11/2026 08:00",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Expansion de l&#x27;avocat Hass et potentiel de croissance en Europe -- <span class=\"news-date\">17/11/2026 08:00</span></div><div class=\"news-body\">Le commerce mondial de l&#x27;avocat de variété Hass a atteint 1,2 million de tonnes en 2025. En Europe, la consommation par habitant a fortement progressé, passant de 0,8 kg à 1,8 kg en l&#x27;espace de dix ans, signalant des marchés à fort potentiel pour les exportateurs. <span class=\"news-reason\">Contient des chiffres précis sur les volumes mondiaux et la consommation par habitant en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/17/europe-avo-market/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Expansion of Hass avocado and growth potential in Europe -- <span class=\"news-date\">17/11/2026 08:00</span></div><div class=\"news-body\">Global trade of Hass avocado variety reached 1.2 million tons in 2025. In Europe, per capita consumption has increased significantly, from 0.8 kg to 1.8 kg over ten years, signaling markets with high potential for exporters. <span class=\"news-reason\">Contains precise figures on global volumes and per capita consumption in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/17/europe-avo-market/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">התרחבות אבוקדו האס ופוטנציאל צמיחה באירופה -- <span class=\"news-date\">17/11/2026 08:00</span></div><div class=\"news-body\">הסחר העולמי באבוקדו מזן האס הגיע ל-1.2 מיליון טונות בשנת 2025. באירופה, הצריכה לנפש עלתה משמעותית מ-0.8 ק\"ג ל-1.8 ק\"ג תוך עשור, מה שמעיד על שווקים בעלי פוטנציאל גבוה עבור היצואנים. <span class=\"news-reason\">מכיל נתונים מדויקים על כמויות עולמיות וצריכה לנפש באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/17/europe-avo-market/\" target=\"_blank\">Fresh Fruit Portal -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1794917113_0",
-      "timestamp": "2026-11-17T12:05:13.902520+00:00",
-      "title": "Guide des ravageurs et maladies des agrumes et dattiers au Maroc -- 17/11/2026 10:23",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Jessica",
-        "Nadia"
-      ],
-      "products": [
-        "date"
-      ],
-      "origins": [
-        "MAR"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Guide des ravageurs et maladies des agrumes et dattiers au Maroc -- <span class=\"news-date\">17/11/2026 10:23</span></div><div class=\"news-body\">Un nouveau guide répertorie les principaux ravageurs et maladies signalés au Maroc pour les cultures d&#x27;agrumes et de palmier dattier. Le document détaille le statut officiel des menaces, les périodes de vigilance accrues ainsi que l&#x27;index phytosanitaire actualisé pour les producteurs. <span class=\"news-reason\">L&#x27;article traite des risques sanitaires pour les agrumes et les dattes au Maroc, origine et produits clés.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/ravageurs-et-maladies-des-cultures-au-maroc/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Guide to pests and diseases of citrus and date palms in Morocco -- <span class=\"news-date\">17/11/2026 10:23</span></div><div class=\"news-body\">A new guide lists the main pests and diseases reported in Morocco for citrus and date palm crops. The document details the official status of threats, periods of increased vigilance, as well as the updated phytosanitary index for producers. <span class=\"news-reason\">The article discusses health risks for citrus and dates in Morocco, origin and key products.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/ravageurs-et-maladies-des-cultures-au-maroc/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מדריך למזיקים ומחלות של הדרים ודקלי תמר במרוקו -- <span class=\"news-date\">17/11/2026 10:23</span></div><div class=\"news-body\">מדריך חדש מפרט את המזיקים והמחלות העיקריים שדווחו במרוקו עבור גידולי הדרים ודקל התמר. המסמך מפרט את הסטטוס הרשמי של האיומים, תקופות ערנות מוגברת וכן את האינדקס הפיטוסניטרי המעודכן עבור המגדלים. <span class=\"news-reason\">המאמר עוסק בסיכונים בריאותיים עבור הדרים ותמרים במרוקו, מקור ומוצרי מפתח.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/ravageurs-et-maladies-des-cultures-au-maroc/\" target=\"_blank\">AgriMaroc -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
