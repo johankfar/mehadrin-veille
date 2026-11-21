@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-21T12:07:03.963204+00:00",
-  "article_count": 52,
+  "last_updated": "2026-11-21T15:06:36.242058+00:00",
+  "article_count": 53,
   "attention_points": [
     {
       "id": "attention-e205cbc815cf1ba9",
@@ -19,7 +19,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 5
+      "age_hours": 8
     },
     {
       "id": "attention-9b8ed59161f28f70",
@@ -38,14 +38,14 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 17
+      "age_hours": 20
     },
     {
       "id": "attention-696cd8ce009aea5a",
       "article_id": "1795187285_1",
       "url": "https://www.freshplaza.es/article/9894290/la-caida-del-poder-adquisitivo-se-nota-en-las-ventas/",
       "source": "FreshPlaza ES",
-      "title": "Transition variétale et incidences du pouvoir d'achat",
+      "title": "Transition variétale et incidence du pouvoir d’achat",
       "summary": "La baisse du pouvoir d'achat ralentit les ventes de clémentines et de mandarines",
       "origin_code": null,
       "origin_label": null,
@@ -57,7 +57,7 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 21
+      "age_hours": 24
     },
     {
       "id": "attention-219d0950e8577492",
@@ -74,10 +74,28 @@
       "signal_label": "Alerte",
       "icon": "alert",
       "products": [],
-      "age_hours": 42
+      "age_hours": 45
     }
   ],
   "articles": [
+    {
+      "id": "1795273596_0",
+      "timestamp": "2026-11-21T15:06:36.242058+00:00",
+      "title": "Italie : une campagne de clémentines complexe à Tarente",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "ITA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Italie : une campagne de clémentines complexe à Tarente -- <span class=\"news-date\">20/11/2026 15:36</span></div><div class=\"news-body\">La campagne des agrumes dans la région de Tarente, en Italie, s&#x27;avère particulièrement complexe. Les producteurs locaux font face à un cumul de difficultés climatiques, de pressions phytosanitaires et de problématiques commerciales qui entravent le bon déroulement de la récolte de clémentines cette saison. <span class=\"news-reason\">L&#x27;article traite des problèmes de production des clémentines (agrumes) en Italie, impactant la disponibilité et la qualité.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894742/campana-de-clementinas-cuesta-arriba-en-tarento-italia/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Italy: difficult clementine campaign in Taranto -- <span class=\"news-date\">20/11/2026 15:36</span></div><div class=\"news-body\">The citrus campaign in the Taranto region of Italy is proving to be particularly complex. Local producers are facing a combination of climatic difficulties, phytosanitary pressures, and commercial issues that are hampering the smooth progress of the clementine harvest this season. <span class=\"news-reason\">The article discusses production problems for clementines (citrus) in Italy, impacting availability and quality.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894742/campana-de-clementinas-cuesta-arriba-en-tarento-italia/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">איטליה: עונת קלמנטינות קשה בטאראנטו -- <span class=\"news-date\">20/11/2026 15:36</span></div><div class=\"news-body\">עונת ההדרים באזור טאראנטו שבאיטליה מתגלה כמורכבת במיוחד. המגדלים המקומיים מתמודדים עם הצטברות של קשיים אקלימיים, לחצים פיטו-סניטריים ובעיות מסחריות המעכבים את המהלך התקין של קטיף הקלמנטינות העונה. <span class=\"news-reason\">המאמר עוסק בבעיות הייצור של קלמנטינות (הדרים) באיטליה, המשפיעות על הזמינות והאיכות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894742/campana-de-clementinas-cuesta-arriba-en-tarento-italia/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1795262823_0",
       "timestamp": "2026-11-21T12:07:03.963204+00:00",
@@ -171,7 +189,7 @@
     {
       "id": "1795187285_1",
       "timestamp": "2026-11-20T15:08:05.696158+00:00",
-      "title": "Transition variétale et incidences du pouvoir d&#x27;achat sur le marché des agrumes",
+      "title": "Transition variétale et incidence du pouvoir d’achat sur le marché des agrumes",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -180,7 +198,7 @@
         "mandarine"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Transition variétale et incidences du pouvoir d&#x27;achat sur le marché des agrumes -- <span class=\"news-date\">20/11/2026 15:36</span></div><div class=\"news-body\">Le marché européen des agrumes effectue sa transition annuelle avec l&#x27;introduction des clémentines espagnoles Oronules, tandis que les stocks de Nadorcott d&#x27;outre-mer s&#x27;épuisent. Toutefois, la baisse généralisée du pouvoir d&#x27;achat des consommateurs freine actuellement le rythme des ventes de fruits et légumes. <span class=\"news-reason\">Information sur la transition entre les variétés d&#x27;outre-mer (Nadorcott) et les clémentines espagnoles en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894290/la-caida-del-poder-adquisitivo-se-nota-en-las-ventas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Transition variétale et incidence du pouvoir d’achat sur le marché des agrumes -- <span class=\"news-date\">20/11/2026 15:36</span></div><div class=\"news-body\">Le marché européen des agrumes effectue sa transition annuelle avec l&#x27;introduction des clémentines espagnoles Oronules, tandis que les stocks de Nadorcott d&#x27;outre-mer s&#x27;épuisent. Toutefois, la baisse généralisée du pouvoir d&#x27;achat des consommateurs freine actuellement le rythme des ventes de fruits et légumes. <span class=\"news-reason\">Information sur la transition entre les variétés d&#x27;outre-mer (Nadorcott) et les clémentines espagnoles en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894290/la-caida-del-poder-adquisitivo-se-nota-en-las-ventas/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Varietal transition and impact of purchasing power on citrus fruits -- <span class=\"news-date\">20/11/2026 15:36</span></div><div class=\"news-body\">The European citrus market is undergoing its annual transition with the introduction of Spanish Oronules clementines, while overseas Nadorcott stocks are running out. However, the general decline in consumer purchasing power is currently slowing down the pace of fruit and vegetable sales. <span class=\"news-reason\">Information on the transition between overseas varieties (Nadorcott) and Spanish clementines in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894290/la-caida-del-poder-adquisitivo-se-nota-en-las-ventas/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מעבר זנים והשפעת כוח הקנייה על פירות הדר -- <span class=\"news-date\">20/11/2026 15:36</span></div><div class=\"news-body\">שוק פירות ההדר האירופי מבצע את המעבר השנתי שלו עם כניסת הקלמנטינות הספרדיות Oronules, בעוד שמלאי ה-Nadorcott מהמדינות שמעבר לים הולך ואוזל. עם זאת, הירידה הכללית בכוח הקנייה של הצרכנים מעכבת כיום את קצב המכירות של פירות וירקות. <span class=\"news-reason\">מידע על המעבר בין זנים מעבר לים (Nadorcott) לקלמנטינות ספרדיות באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894290/la-caida-del-poder-adquisitivo-se-nota-en-las-ventas/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -453,7 +471,7 @@
     {
       "id": "1795154795_3",
       "timestamp": "2026-11-20T06:06:35.183290+00:00",
-      "title": "Mexique : les prévisions de production d&#x27;avocats dépassent 1,3 million de tonnes",
+      "title": "Mexique : les prévisions de production d’avocats dépassent 1,3 million de tonnes",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -464,14 +482,14 @@
       "origins": [
         "MEX"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Mexique : les prévisions de production d&#x27;avocats dépassent 1,3 million de tonnes -- <span class=\"news-date\">20/11/2026 06:05</span></div><div class=\"news-body\">L&#x27;APEAM prévoit que la production d&#x27;avocats au Mexique pour la saison 2026/27 dépassera légèrement les 1,3 million de tonnes. L&#x27;organisation se prépare à gérer le pic de la campagne alors que les volumes sont en croissance constante. <span class=\"news-reason\">Contient des chiffres de production massifs pour la saison 2026/27 d&#x27;un concurrent mondial majeur de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892870/il-messico-affronta-il-picco-della-campagna-dell-avocado-con-volumi-in-crescita/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Mexique : les prévisions de production d’avocats dépassent 1,3 million de tonnes -- <span class=\"news-date\">20/11/2026 06:05</span></div><div class=\"news-body\">L&#x27;APEAM prévoit que la production d&#x27;avocats au Mexique pour la saison 2026/27 dépassera légèrement les 1,3 million de tonnes. L&#x27;organisation se prépare à gérer le pic de la campagne alors que les volumes sont en croissance constante. <span class=\"news-reason\">Contient des chiffres de production massifs pour la saison 2026/27 d&#x27;un concurrent mondial majeur de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892870/il-messico-affronta-il-picco-della-campagna-dell-avocado-con-volumi-in-crescita/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Mexico's avocado production forecasts exceed 1.3 million tons -- <span class=\"news-date\">20/11/2026 06:05</span></div><div class=\"news-body\">APEAM forecasts that Mexico's avocado production for the 2026/27 season will slightly exceed 1.3 million tons. The organization is preparing to manage the peak of the campaign as volumes are steadily growing. <span class=\"news-reason\">Contains massive production figures for the 2026/27 season from a major global avocado competitor.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892870/il-messico-affronta-il-picco-della-campagna-dell-avocado-con-volumi-in-crescita/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים ונפחים</div><div class=\"news-title\">תחזיות ייצור האבוקדו במקסיקו עולות על 1.3 מיליון טון -- <span class=\"news-date\">20/11/2026 06:05</span></div><div class=\"news-body\">ארגון APEAM צופה כי ייצור האבוקדו במקסיקו לעונת 2026/27 יעלה מעט על 1.3 מיליון טון. הארגון נערך לניהול שיא העונה כאשר הנפחים נמצאים בצמיחה מתמדת. <span class=\"news-reason\">מכיל נתוני ייצור מאסיביים לעונת 2026/27 של מתחרה עולמי מרכזי בתחום האבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892870/il-messico-affronta-il-picco-della-campagna-dell-avocado-con-volumi-in-crescita/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1795154795_2",
       "timestamp": "2026-11-20T06:06:35.183290+00:00",
-      "title": "Intensification des expéditions de clémentines corses après un début de campagne complexe",
+      "title": "Accélération des expéditions de clémentines corses après un début de campagne complexe",
       "category": "ALERTES SUPPLY",
       "commercials": [],
       "products": [
@@ -480,7 +498,7 @@
       "origins": [
         "FRA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Intensification des expéditions de clémentines corses après un début de campagne complexe -- <span class=\"news-date\">20/11/2026 06:05</span></div><div class=\"news-body\">Après un début de saison ralenti par la pluie et la douceur climatique, la campagne des clémentines corses s&#x27;accélère. La variété Fine de Corse arrive désormais à maturité, ce qui devrait entraîner une augmentation rapide des volumes expédiés vers les marchés. <span class=\"news-reason\">Information pertinente sur le calendrier de récolte et la disponibilité d&#x27;une origine concurrente directe sur le marché français.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892894/dopo-un-avvio-difficile-le-spedizioni-di-clementine-corse-stanno-entrando-nel-vivo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Accélération des expéditions de clémentines corses après un début de campagne complexe -- <span class=\"news-date\">20/11/2026 06:05</span></div><div class=\"news-body\">Après un début de saison ralenti par la pluie et la douceur climatique, la campagne des clémentines corses s&#x27;accélère. La variété Fine de Corse arrive désormais à maturité, ce qui devrait entraîner une augmentation rapide des volumes expédiés vers les marchés. <span class=\"news-reason\">Information pertinente sur le calendrier de récolte et la disponibilité d&#x27;une origine concurrente directe sur le marché français.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892894/dopo-un-avvio-difficile-le-spedizioni-di-clementine-corse-stanno-entrando-nel-vivo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Intensification of Corsican clementine shipments after a difficult start -- <span class=\"news-date\">20/11/2026 06:05</span></div><div class=\"news-body\">After a start to the season slowed by rain and mild weather, the Corsican clementine campaign is accelerating. The Fine de Corse variety is now reaching maturity, which should lead to a rapid increase in volumes shipped to markets. <span class=\"news-reason\">Relevant information on the harvest schedule and availability of a direct competing origin on the French market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892894/dopo-un-avvio-difficile-le-spedizioni-di-clementine-corse-stanno-entrando-nel-vivo/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">הגברת משלוחי הקלמנטינות מקורסיקה לאחר התחלה קשה -- <span class=\"news-date\">20/11/2026 06:05</span></div><div class=\"news-body\">לאחר תחילת עונה שהתעכבה בשל הגשמים והאקלים המתון, קמפיין הקלמנטינות מקורסיקה מאיצה. זן ה-Fine de Corse מגיע כעת להבשלה, מה שצפוי להוביל לעלייה מהירה בנפחי המשלוחים לשווקים. <span class=\"news-reason\">מידע רלוונטי על לוח הזמנים של הקטיף והזמינות של מקור מתחרה ישיר בשוק הצרפתי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892894/dopo-un-avvio-difficile-le-spedizioni-di-clementine-corse-stanno-entrando-nel-vivo/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -773,7 +791,7 @@
     {
       "id": "1795089943_2",
       "timestamp": "2026-11-19T12:05:43.809102+00:00",
-      "title": "Expansion de la filière biologique des agrumes et de l&#x27;avocat en Sicile",
+      "title": "Expansion de la filière biologique des agrumes et de l’avocat en Sicile",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia",
@@ -785,7 +803,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Expansion de la filière biologique des agrumes et de l&#x27;avocat en Sicile -- <span class=\"news-date\">19/11/2026 06:05</span></div><div class=\"news-body\">L&#x27;entreprise Brio a organisé l&#x27;événement professionnel &#x27;Bio in Brio&#x27; en Sicile les 17 et 18 novembre 2026. Cette rencontre a permis de mettre en avant la reprise du marché biologique et la croissance continue de la production italienne d&#x27;avocats. Les visites d&#x27;exploitations ont souligné la structuration de cette filière sicilienne qui intègre désormais agrumes et avocats sous certification biologique. <span class=\"news-reason\">L&#x27;article traite du développement de la production biologique d&#x27;avocats et d&#x27;agrumes en Italie, un marché clé pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894148/il-biologico-recupera-mercato-e-l-avocado-italiano-continua-a-crescere/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Expansion de la filière biologique des agrumes et de l’avocat en Sicile -- <span class=\"news-date\">19/11/2026 06:05</span></div><div class=\"news-body\">L&#x27;entreprise Brio a organisé l&#x27;événement professionnel &#x27;Bio in Brio&#x27; en Sicile les 17 et 18 novembre 2026. Cette rencontre a permis de mettre en avant la reprise du marché biologique et la croissance continue de la production italienne d&#x27;avocats. Les visites d&#x27;exploitations ont souligné la structuration de cette filière sicilienne qui intègre désormais agrumes et avocats sous certification biologique. <span class=\"news-reason\">L&#x27;article traite du développement de la production biologique d&#x27;avocats et d&#x27;agrumes en Italie, un marché clé pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894148/il-biologico-recupera-mercato-e-l-avocado-italiano-continua-a-crescere/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Growth of the organic citrus and avocado sector in Sicily -- <span class=\"news-date\">19/11/2026 06:05</span></div><div class=\"news-body\">The company Brio organized the professional event &#x27;Bio in Brio&#x27; in Sicily on November 17 and 18, 2026. This meeting highlighted the recovery of the organic market and the continuous growth of Italian avocado production. Farm visits emphasized the structuring of this Sicilian sector which now integrates citrus and avocados under organic certification. <span class=\"news-reason\">The article discusses the development of organic avocado and citrus production in Italy, a key market for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894148/il-biologico-recupera-mercato-e-l-avocado-italiano-continua-a-crescere/\" target=\"_blank\">FreshPlaza IT -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">צמיחה בענף האורגני של הדרים ואבוקדו בסיציליה -- <span class=\"news-date\">19/11/2026 06:05</span></div><div class=\"news-body\">חברת Brio ארגנה את האירוע המקצועי 'Bio in Brio' בסיציליה ב-17 וב-18 בנובמבר 2026. מפגש זה אפשר להדגיש את התאוששות השוק האורגני ואת הצמיחה המתמשכת של ייצור האבוקדו האיטלקי. ביקורים בחוות הדגישו את המבנה של הענף הסיציליאני הזה, שמשלב כעת הדרים ואבוקדו תחת הסמכה אורגנית. <span class=\"news-reason\">הכתבה עוסקת בפיתוח הייצור האורגני של אבוקדו והדרים באיטליה, שוק מרכזי עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894148/il-biologico-recupera-mercato-e-l-avocado-italiano-continua-a-crescere/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -933,7 +951,7 @@
     {
       "id": "1795068417_2",
       "timestamp": "2026-11-19T06:06:57.616970+00:00",
-      "title": "Mexique : suspension de la récolte d&#x27;avocats pour soutenir les cours",
+      "title": "Mexique : suspension de la récolte d’avocats pour soutenir les cours",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -945,7 +963,7 @@
         "MEX",
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Mexique : suspension de la récolte d&#x27;avocats pour soutenir les cours -- <span class=\"news-date\">19/11/2026 06:05</span></div><div class=\"news-body\">Dans la région du Michoacán, principal pôle de production d&#x27;avocats au Mexique, les agriculteurs ont interrompu la récolte depuis deux semaines. Cette décision fait suite à une deuxième année consécutive de récoltes exceptionnelles qui a entraîné des prix de vente jugés insuffisants sur le marché des États-Unis. <span class=\"news-reason\">Action directe d&#x27;un concurrent majeur (Mexique) sur un produit phare (avocat) impactant l&#x27;offre mondiale.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890556/i-produttori-messicani-di-avocado-sospendono-la-raccolta-per-sostenere-i-prezzi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Mexique : suspension de la récolte d’avocats pour soutenir les cours -- <span class=\"news-date\">19/11/2026 06:05</span></div><div class=\"news-body\">Dans la région du Michoacán, principal pôle de production d&#x27;avocats au Mexique, les agriculteurs ont interrompu la récolte depuis deux semaines. Cette décision fait suite à une deuxième année consécutive de récoltes exceptionnelles qui a entraîné des prix de vente jugés insuffisants sur le marché des États-Unis. <span class=\"news-reason\">Action directe d&#x27;un concurrent majeur (Mexique) sur un produit phare (avocat) impactant l&#x27;offre mondiale.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890556/i-produttori-messicani-di-avocado-sospendono-la-raccolta-per-sostenere-i-prezzi/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Mexican avocado producers suspend harvest to support prices -- <span class=\"news-date\">19/11/2026 06:05</span></div><div class=\"news-body\">In the Michoacán region, Mexico's main avocado production hub, farmers have halted the harvest for two weeks. This decision follows a second consecutive year of bumper harvests which led to selling prices deemed insufficient in the United States market. <span class=\"news-reason\">Direct action by a major competitor (Mexico) on a flagship product (avocado) impacting global supply.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890556/i-produttori-messicani-di-avocado-sospendono-la-raccolta-per-sostenere-i-prezzi/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מגדלי האבוקדו במקסיקו משעים את הקטיף כדי לתמוך במחירים -- <span class=\"news-date\">19/11/2026 06:05</span></div><div class=\"news-body\">באזור מיצ'ואקן, מרכז ייצור האבוקדו העיקרי במקסיקו, החקלאים הפסיקו את הקטיף מזה שבועיים. החלטה זו מגיעה בעקבות שנה שנייה ברציפות של יבולים יוצאי דופן שהובילו למחירי מכירה שנחשבו ללא מספיקים בשוק של ארצות הברית. <span class=\"news-reason\">פעולה ישירה של מתחרה מרכזי (מקסיקו) במוצר מוביל (אבוקדו) המשפיעה על ההיצע העולמי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9890556/i-produttori-messicani-di-avocado-sospendono-la-raccolta-per-sostenere-i-prezzi/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
