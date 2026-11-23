@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-23T16:35:32.775224+00:00",
-  "article_count": 37,
+  "last_updated": "2026-11-23T18:04:51.405443+00:00",
+  "article_count": 36,
   "attention_points": [
     {
       "id": "attention-1387774fd82749e3",
@@ -17,14 +17,14 @@
       "signal_label": "Alerte",
       "icon": "alert",
       "products": [],
-      "age_hours": 1
+      "age_hours": 2
     },
     {
       "id": "attention-bd1a434bc5223271",
       "article_id": "1795451732_2",
       "url": "https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/",
       "source": "FreshPlaza ES",
-      "title": "Fin de la campagne de mangues espagnoles",
+      "title": "Clôture de la campagne de mangues espagnoles",
       "summary": "La production espagnole atteint quarante mille tonnes avec des prix en baisse",
       "origin_code": "ESP",
       "origin_label": "Espagne",
@@ -36,7 +36,7 @@
       "products": [
         "mango"
       ],
-      "age_hours": 1
+      "age_hours": 3
     },
     {
       "id": "attention-d2075dd4b6928e54",
@@ -53,7 +53,7 @@
       "signal_label": "Météo",
       "icon": "weather",
       "products": [],
-      "age_hours": 1
+      "age_hours": 3
     },
     {
       "id": "attention-dad3fbb581fdba9f",
@@ -72,7 +72,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 3
+      "age_hours": 5
     }
   ],
   "articles": [
@@ -95,7 +95,7 @@
     {
       "id": "1795451732_2",
       "timestamp": "2026-11-23T16:35:32.775224+00:00",
-      "title": "Fin de la campagne de mangues espagnoles avec une production de 40 000 tonnes",
+      "title": "Clôture de la campagne de mangues espagnoles avec une production de 40 000 tonnes",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -106,7 +106,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Fin de la campagne de mangues espagnoles avec une production de 40 000 tonnes -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">La saison de récolte des mangues dans l&#x27;Axarquía (Malaga) et la Costa Tropical s&#x27;achève en novembre 2026. La production est estimée à environ 40 000 tonnes, un volume inférieur à la récolte record de la saison précédente. Les prix enregistrés en cette fin de campagne sont orientés à la baisse. <span class=\"news-reason\">L&#x27;article annonce la fin de campagne d&#x27;une origine concurrente (Espagne) avec des volumes et une tendance de prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Clôture de la campagne de mangues espagnoles avec une production de 40 000 tonnes -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">La saison de récolte des mangues dans l&#x27;Axarquía (Malaga) et la Costa Tropical s&#x27;achève en novembre 2026. La production est estimée à environ 40 000 tonnes, un volume inférieur à la récolte record de la saison précédente. Les prix enregistrés en cette fin de campagne sont orientés à la baisse. <span class=\"news-reason\">L&#x27;article annonce la fin de campagne d&#x27;une origine concurrente (Espagne) avec des volumes et une tendance de prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Closing of the Spanish mango campaign with a production of 40,000 tons -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">The mango harvest season in Axarquía (Malaga) and the Costa Tropical is ending in November 2026. Production is estimated at around 40,000 tons, a volume lower than the record harvest of the previous season. Prices recorded at the end of this campaign are trending downward. <span class=\"news-reason\">The article announces the end of the campaign for a competing origin (Spain) with volumes and a price trend.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיום קמפיין המנגו הספרדי עם ייצור של 40,000 טון -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">עונת קטיף המנגו באקסרקיה (Malaga) ובקוסטה טרופיקל מסתיימת בנובמבר 2026. הייצור מוערך בכ-40,000 טון, כמות נמוכה מהיבול המכור של העונה הקודמת. המחירים שנרשמו בסוף הקמפיין נמצאים במגמת ירידה. <span class=\"news-reason\">המאמר מודיע על סיום הקמפיין של מקור מתחרה (ספרד) עם נתוני כמויות ומגמת מחירים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- לקריאת המאמר</a></div></div>"
     },
@@ -148,7 +148,7 @@
     {
       "id": "1795446339_5",
       "timestamp": "2026-11-23T15:05:39.868646+00:00",
-      "title": "Les exportateurs péruviens prévoient une baisse des volumes de mangues",
+      "title": "Les exportateurs péruviens anticipent un repli des volumes de mangues",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -160,7 +160,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Les exportateurs péruviens prévoient une baisse des volumes de mangues -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">La campagne de mangues au Pérou s&#x27;annonce complexe avec une offre réduite et un calendrier d&#x27;exportation décalé par rapport aux saisons normales. Joseph Navarro, directeur de l&#x27;entreprise Masojo, confirme que ces volumes inférieurs influenceront la disponibilité sur le marché, alors que le secteur du gingembre subit parallèlement une baisse de prix. <span class=\"news-reason\">L&#x27;article traite d&#x27;une baisse de production et d&#x27;un changement de calendrier pour la mangue, un produit Mehadrin, sur une origine concurrente majeure (Pérou).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893377/gli-esportatori-peruviani-prevedono-volumi-di-mango-inferiori-e-ricavi-piu-bassi-per-lo-zenzero/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Les exportateurs péruviens anticipent un repli des volumes de mangues -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">La campagne de mangues au Pérou s&#x27;annonce complexe avec une offre réduite et un calendrier d&#x27;exportation décalé par rapport aux saisons normales. Joseph Navarro, directeur de l&#x27;entreprise Masojo, confirme que ces volumes inférieurs influenceront la disponibilité sur le marché, alors que le secteur du gingembre subit parallèlement une baisse de prix. <span class=\"news-reason\">L&#x27;article traite d&#x27;une baisse de production et d&#x27;un changement de calendrier pour la mangue, un produit Mehadrin, sur une origine concurrente majeure (Pérou).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893377/gli-esportatori-peruviani-prevedono-volumi-di-mango-inferiori-e-ricavi-piu-bassi-per-lo-zenzero/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Peruvian exporters anticipate a drop in mango volumes -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">The mango campaign in Peru looks to be complex with reduced supply and an export schedule shifted compared to normal seasons. Joseph Navarro, director of the company Masojo, confirms that these lower volumes will influence market availability, while the ginger sector is simultaneously experiencing a price drop. <span class=\"news-reason\">The article addresses a production decrease and a schedule change for mango, a Mehadrin product, from a major competing origin (Peru).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893377/gli-esportatori-peruviani-prevedono-volumi-di-mango-inferiori-e-ricavi-piu-bassi-per-lo-zenzero/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">היצואנים הפרואנים צופים ירידה בכמויות המנגו -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">עונת המנגו בפרו צפויה להיות מורכבת עם היצע מצומצם ולוח זמני ייצוא דחוי בהשוואה לעונות רגילות. ג'וזף נאבארו, מנהל חברת Masojo, מאשר כי כמויות נמוכות אלו ישפיעו על הזמינות בשוק, בעוד שמגזר הג'ינג'ר חווה במקביל ירידת מחירים. <span class=\"news-reason\">המאמר עוסק בירידה בייצור ובשינוי בלוח הזמנים של המנגו, מוצר של מהדרין, במקור מתחרה מרכזי (פרו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893377/gli-esportatori-peruviani-prevedono-volumi-di-mango-inferiori-e-ricavi-piu-bassi-per-lo-zenzero/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -421,7 +421,7 @@
     {
       "id": "1795424828_0",
       "timestamp": "2026-11-23T09:07:08.962048+00:00",
-      "title": "Westfalia Fruit nomme Carel van Krimpen à la direction de Greenpoint Trading",
+      "title": "Westfalia Fruit nomme Carel van Krimpen à la tête de Greenpoint Trading",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Ophélie"
@@ -430,7 +430,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Westfalia Fruit nomme Carel van Krimpen à la direction de Greenpoint Trading -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">Le groupe Westfalia Fruit a nommé Carel van Krimpen au poste de directeur général de Greenpoint Trading B.V. Fondateur de l&#x27;entreprise et de sa marque d&#x27;avocats Avojoy, il continuera à diriger l&#x27;entité de façon autonome. Greenpoint Trading est intégrée au groupe Westfalia depuis 2025. <span class=\"news-reason\">Nomination d&#x27;un dirigeant au sein du groupe Westfalia pour sa marque d&#x27;avocats, impactant la distribution en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895075/carel-van-krimpen-zum-direktor-von-greenpoint-trading-ernannt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Westfalia Fruit nomme Carel van Krimpen à la tête de Greenpoint Trading -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">Le groupe Westfalia Fruit a nommé Carel van Krimpen au poste de directeur général de Greenpoint Trading B.V. Fondateur de l&#x27;entreprise et de sa marque d&#x27;avocats Avojoy, il continuera à diriger l&#x27;entité de façon autonome. Greenpoint Trading est intégrée au groupe Westfalia depuis 2025. <span class=\"news-reason\">Nomination d&#x27;un dirigeant au sein du groupe Westfalia pour sa marque d&#x27;avocats, impactant la distribution en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895075/carel-van-krimpen-zum-direktor-von-greenpoint-trading-ernannt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">BANNER MOVEMENTS</div><div class=\"news-title\">Westfalia Fruit appoints Carel van Krimpen as head of Greenpoint Trading -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">The Westfalia Fruit group has appointed Carel van Krimpen to the position of managing director of Greenpoint Trading B.V. Founder of the company and its Avojoy avocado brand, he will continue to lead the entity independently. Greenpoint Trading has been integrated into the Westfalia group since 2025. <span class=\"news-reason\">Appointment of a leader within the Westfalia group for its avocado brand, impacting distribution in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895075/carel-van-krimpen-zum-direktor-von-greenpoint-trading-ernannt/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות מותגים</div><div class=\"news-title\">Westfalia Fruit ממנה את קארל ואן קרימפן להנהלת Greenpoint Trading -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">קבוצת Westfalia Fruit מינתה את קארל ואן קרימפן לתפקיד המנכ\"ל של Greenpoint Trading B.V. כמייסד החברה ומותג האבוקדו שלה Avojoy, הוא ימשיך להוביל את הישות באופן עצמאי. Greenpoint Trading משולבת בקבוצת Westfalia מאז 2025. <span class=\"news-reason\">מינוי מנהל בקבוצת Westfalia עבור מותג האבוקדו שלה, המשפיע על ההפצה באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895075/carel-van-krimpen-zum-direktor-von-greenpoint-trading-ernannt/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -544,7 +544,7 @@
     {
       "id": "1795413927_4",
       "timestamp": "2026-11-23T06:05:27.685167+00:00",
-      "title": "Tunisie : Baisse de la production de dattes et report de la campagne de récolte",
+      "title": "Tunisie : Recul de la production de dattes et report de la campagne de récolte",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica"
@@ -555,7 +555,7 @@
       "origins": [
         "TUN"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tunisie : Baisse de la production de dattes et report de la campagne de récolte -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">La récolte de dattes Deglet Nour en Tunisie accuse un retard de deux à trois semaines par rapport au calendrier habituel. Les volumes globaux sont estimés en baisse d&#x27;environ 20 % pour cette saison, bien que la qualité des fruits soit rapportée comme satisfaisante par les professionnels du secteur. <span class=\"news-reason\">Information sur la production de dattes d&#x27;une origine concurrente avec chiffres de baisse de volume.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893760/in-tunisia-inizia-in-ritardo-il-confezionamento-dei-datteri-deglet-nour-del-nuovo-raccolto/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tunisie : Recul de la production de dattes et report de la campagne de récolte -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">La récolte de dattes Deglet Nour en Tunisie accuse un retard de deux à trois semaines par rapport au calendrier habituel. Les volumes globaux sont estimés en baisse d&#x27;environ 20 % pour cette saison, bien que la qualité des fruits soit rapportée comme satisfaisante par les professionnels du secteur. <span class=\"news-reason\">Information sur la production de dattes d&#x27;une origine concurrente avec chiffres de baisse de volume.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893760/in-tunisia-inizia-in-ritardo-il-confezionamento-dei-datteri-deglet-nour-del-nuovo-raccolto/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Tunisia: Delayed harvest and drop in date production -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">The Deglet Nour date harvest in Tunisia is running two to three weeks behind the usual schedule. Overall volumes are estimated to be down by about 20% for this season, although fruit quality is reported as satisfactory by sector professionals. <span class=\"news-reason\">Information on date production from a competing origin with volume decrease figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893760/in-tunisia-inizia-in-ritardo-il-confezionamento-dei-datteri-deglet-nour-del-nuovo-raccolto/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">תוניסיה: עיכוב בקטיף וירידה בייצור התמרים -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">קטיף תמרי הדגלאט נור בתוניסיה מתעכב בשבועיים עד שלושה לעומת לוח הזמנים הרגיל. הכמויות הכוללות מוערכות בירידה של כ-20% העונה, למרות שאיכות הפירות מדווחת כמשביעת רצון על ידי אנשי המקצוע בענף. <span class=\"news-reason\">מידע על ייצור תמרים ממקור מתחרה עם נתוני ירידה בכמות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893760/in-tunisia-inizia-in-ritardo-il-confezionamento-dei-datteri-deglet-nour-del-nuovo-raccolto/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -717,24 +717,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les exportations agricoles du Pérou soutenues par l&#x27;avocat en dépit d&#x27;El Niño -- <span class=\"news-date\">20/11/2026 18:30</span></div><div class=\"news-body\">Les exportations agricoles du Pérou devraient clôturer l&#x27;année 2026 avec leur deuxième meilleur résultat, malgré un ralentissement dû au phénomène El Niño. Bien que le volume total cumulé affiche un recul de 1,1 % par rapport à 2025, la bonne performance de l&#x27;avocat (palta) a permis de soutenir la valeur globale de la canasta exportatrice. Les projections indiquent toutefois un résultat final inférieur au record historique de l&#x27;année passée. <span class=\"news-reason\">L&#x27;article traite des volumes d&#x27;exportation d&#x27;une origine concurrente majeure (Pérou) pour l&#x27;avocat avec des données chiffrées.</span></div><div class=\"news-source\"><a href=\"https://redagricola.com/agroexportaciones-cerrarian-2026-con-su-segundo-mejor-registro-aunque-pierden-ritmo-en-el-tramo-final/\" target=\"_blank\">Red Agrícola -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Peru's agricultural exports supported by avocado despite El Niño -- <span class=\"news-date\">20/11/2026 18:30</span></div><div class=\"news-body\">Peru's agricultural exports are expected to close the year 2026 with their second-best result, despite a slowdown due to the El Niño phenomenon. Although the total cumulative volume shows a decline of 1.1% compared to 2025, the strong performance of avocado (palta) helped support the overall value of the export basket. Projections indicate, however, a final result lower than the historical record of the previous year. <span class=\"news-reason\">The article discusses the export volumes of a major competing origin (Peru) for avocado with numerical data.</span></div><div class=\"news-source\"><a href=\"https://redagricola.com/agroexportaciones-cerrarian-2026-con-su-segundo-mejor-registro-aunque-pierden-ritmo-en-el-tramo-final/\" target=\"_blank\">Red Agrícola -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">היצוא החקלאי של פרו נתמך על ידי האבוקדו למרות אל ניניו -- <span class=\"news-date\">20/11/2026 18:30</span></div><div class=\"news-body\">היצוא החקלאי של פרו צפוי לחתום את שנת 2026 עם התוצאה השנייה בטיבה, למרות האטה עקב תופעת אל ניניו. למרות שהנפח המצטבר הכולל מציג ירידה של 1.1% לעומת 2025, הביצועים הטובים של האבוקדו (palta) אפשרו לתמוך בערך הכולל של סל היצוא. עם זאת, התחזיות מצביעות על תוצאה סופית נמוכה מהשיא ההיסטורי של השנה שעברה. <span class=\"news-reason\">המאמר עוסק בכמויות היצוא של מקור מתחרה מרכזי (פרו) עבור אבוקדו עם נתונים מספריים.</span></div><div class=\"news-source\"><a href=\"https://redagricola.com/agroexportaciones-cerrarian-2026-con-su-segundo-mejor-registro-aunque-pierden-ritmo-en-el-tramo-final/\" target=\"_blank\">Red Agrícola -- קרא את הכתבה</a></div></div>"
-    },
-    {
-      "id": "1795198008_0",
-      "timestamp": "2026-11-20T18:06:48.924744+00:00",
-      "title": "Pérou : baisse de 20 à 30 % de la production de mangues -- 20/11/2026 12:09",
-      "category": "PRIX &amp VOLUMES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "mango"
-      ],
-      "origins": [
-        "PER"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Pérou : baisse de 20 à 30 % de la production de mangues -- <span class=\"news-date\">20/11/2026 12:09</span></div><div class=\"news-body\">La production de mangues au Pérou devrait être inférieure de 20 à 30 % aux volumes normaux cette année. En plus de cette baisse quantitative, la récolte débute plus tard que d&#x27;habitude en raison de problèmes de floraison affectant les vergers péruviens. <span class=\"news-reason\">Information sur les volumes et le calendrier de récolte d&#x27;un produit Mehadrin (mangue) avec des chiffres précis.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9893375/peruaanse-mangoproductie-20-tot-30-procent-lager-gember-verliest-toegang-tot-europa/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Peru: 20 to 30% drop in mango production -- <span class=\"news-date\">20/11/2026 12:09</span></div><div class=\"news-body\">Mango production in Peru is expected to be 20 to 30% lower than normal volumes this year. In addition to this quantitative decline, the harvest is starting later than usual due to flowering problems affecting Peruvian orchards. <span class=\"news-reason\">Information on volumes and the harvest schedule of a Mehadrin product (mango) with precise figures.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9893375/peruaanse-mangoproductie-20-tot-30-procent-lager-gember-verliest-toegang-tot-europa/\" target=\"_blank\">AGF.nl -- Read the article</a></div></div>",
-      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">פרו: ירידה של 20% עד 30% בייצור המנגו -- <span class=\"news-date\">20/11/2026 12:09</span></div><div class=\"news-body\">ייצור המנגו בפרו צפוי להיות נמוך ב-20% עד 30% מהכמויות הרגילות השנה. בנוסף לירידה כמותית זו, הקטיף מתחיל מאוחר מהרגיל בשל בעיות פריחה המשפיעות על המטעים הפרואניים. <span class=\"news-reason\">מידע על כמויות ולוח זמני הקטיף של מוצר מהדרין (מנגו) עם נתונים מדויקים.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9893375/peruaanse-mangoproductie-20-tot-30-procent-lager-gember-verliest-toegang-tot-europa/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
     }
   ]
 }
