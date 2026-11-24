@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-24T16:34:47.995261+00:00",
-  "article_count": 51,
+  "last_updated": "2026-11-24T19:34:56.268575+00:00",
+  "article_count": 52,
   "attention_points": [
     {
       "id": "attention-2ecf5e714ace707f",
       "article_id": "1795532926_2",
       "url": "https://www.freshplaza.es/article/9895077/carel-van-krimpen-nombrado-director-de-greenpoint-trading/",
       "source": "FreshPlaza ES",
-      "title": "Westfalia Fruit nomme un nouveau directeur",
+      "title": "Westfalia Fruit nomme un nouveau dirigeant",
       "summary": "Carel van Krimpen est nommé directeur de la société Greenpoint Trading",
       "origin_code": null,
       "origin_label": null,
@@ -19,7 +19,7 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 1
+      "age_hours": 4
     },
     {
       "id": "attention-5b6660de842318af",
@@ -38,7 +38,26 @@
       "products": [
         "avocat"
       ],
-      "age_hours": 1
+      "age_hours": 4
+    },
+    {
+      "id": "attention-f2db5d083f442ada",
+      "article_id": "1795548896_0",
+      "url": "https://www.freshplaza.es/article/9895461/paises-bajos-retira-aceite-de-aguacate-espanol-por-esteres-glicidilicos-sobre-el-limite-legal/",
+      "source": "FreshPlaza ES",
+      "title": "Rappel d'huile d'avocat espagnole aux Pays-Bas pour non-conformité",
+      "summary": "Des contaminants dépassent les seuils réglementaires imposant un retrait immédiat des produits",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
+      "published_at": "2026-11-24T15:48:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "alert",
+      "signal_label": "Alerte",
+      "icon": "alert",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 4
     },
     {
       "id": "attention-6b427e1122d5c2b2",
@@ -58,27 +77,29 @@
         "mandarine",
         "orange"
       ],
-      "age_hours": 2
-    },
-    {
-      "id": "attention-4b37e210136044a4",
-      "article_id": "1795532926_4",
-      "url": "https://www.freshplaza.com/article/9895737/three-factories-in-georgia-s-adjara-region-ready-to-process-unlimited-citrus-volumes/",
-      "source": "FreshPlaza",
-      "title": "Géorgie mobilise trois usines pour la transformation",
-      "summary": "Dans la région d'Adjarie en Géorgie trois usines de transformation situées à Kobuleti.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-11-24T13:29:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "volume",
-      "products": [],
-      "age_hours": 4
+      "age_hours": 5
     }
   ],
   "articles": [
+    {
+      "id": "1795548896_0",
+      "timestamp": "2026-11-24T19:34:56.268575+00:00",
+      "title": "Rappel d&#x27;huile d&#x27;avocat espagnole aux Pays-Bas pour non-conformité sanitaire",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ESP",
+        "NLD"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Rappel d&#x27;huile d&#x27;avocat espagnole aux Pays-Bas pour non-conformité sanitaire -- <span class=\"news-date\">24/11/2026 15:48</span></div><div class=\"news-body\">Le Système d&#x27;alerte rapide pour les denrées alimentaires et les aliments pour animaux (RASFF) a émis une alerte de risque grave concernant de l&#x27;huile d&#x27;avocat en provenance d&#x27;Espagne. Les analyses ont révélé des niveaux d&#x27;esters glycidyliques d&#x27;acides gras supérieurs à la limite légale autorisée. Le produit a été retiré du marché aux Pays-Bas suite à cette notification enregistrée fin septembre 2026. <span class=\"news-reason\">Alerte sanitaire grave sur un produit dérivé de l&#x27;avocat provenant d&#x27;une origine clé (Espagne) vers un marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895461/paises-bajos-retira-aceite-de-aguacate-espanol-por-esteres-glicidilicos-sobre-el-limite-legal/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Recall of Spanish avocado oil in the Netherlands for health non-compliance -- <span class=\"news-date\">24/11/2026 15:48</span></div><div class=\"news-body\">The Rapid Alert System for Food and Feed (RASFF) has issued a serious risk alert regarding avocado oil from Spain. Analyses revealed levels of glycidyl fatty acid esters exceeding the legal authorized limit. The product was withdrawn from the market in the Netherlands following this notification recorded at the end of September 2026. <span class=\"news-reason\">Serious health alert on an avocado-derived product from a key origin (Spain) to a European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895461/paises-bajos-retira-aceite-de-aguacate-espanol-por-esteres-glicidilicos-sobre-el-limite-legal/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ריקול לשמן אבוקדו ספרדי בהולנד בשל אי-עמידה בתקני בריאות -- <span class=\"news-date\">24/11/2026 15:48</span></div><div class=\"news-body\">מערכת ההתרעה המהירה למזון ולמספוא (RASFF) פרסמה התראת סיכון חמורה בנוגע לשמן אבוקדו שמקורו בספרד. בבדיקות התגלו רמות של אסטרים גליצידיליים של חומצות שומן הגבוהות מהרף החוקי המותר. המוצר הוסר מהשוק בהולנד בעקבות הודעה זו שנרשמה בסוף ספטמבר 2026. <span class=\"news-reason\">התראת בריאות חמורה על מוצר המופק מאבוקדו שמקורו במדינת מקור מרכזית (ספרד) לשוק אירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895461/paises-bajos-retira-aceite-de-aguacate-espanol-por-esteres-glicidilicos-sobre-el-limite-legal/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1795538088_1",
       "timestamp": "2026-11-24T16:34:47.995261+00:00",
@@ -98,7 +119,7 @@
     {
       "id": "1795538087_0",
       "timestamp": "2026-11-24T16:34:47.995261+00:00",
-      "title": "Le Mexique assoit sa position de leader sur le marché américain de l&#x27;avocat",
+      "title": "Le Mexique consolide sa position de leader sur le marché américain de l&#x27;avocat",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -112,7 +133,7 @@
         "MEX",
         "USA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le Mexique assoit sa position de leader sur le marché américain de l&#x27;avocat -- <span class=\"news-date\">24/11/2026 10:37</span></div><div class=\"news-body\">La consommation d&#x27;avocats aux États-Unis poursuit sa progression, stimulée par des prix de vente attractifs pour les consommateurs. Au troisième trimestre 2026, les données indiquent une hausse de 6 % du volume d&#x27;achat. Le Mexique demeure le pilier de l&#x27;approvisionnement du marché, tandis que le Pérou et la Colombie complètent l&#x27;offre pour répondre à la demande croissante. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur l&#x27;évolution du marché de l&#x27;avocat (produit Mehadrin) impliquant le Pérou et la Colombie (origines Mehadrin).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895535/mexiko-bleibt-das-ruckgrat-unserer-avocadoversorgung-erganzt-durch-peru-und-kolumbien/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Le Mexique consolide sa position de leader sur le marché américain de l&#x27;avocat -- <span class=\"news-date\">24/11/2026 10:37</span></div><div class=\"news-body\">La consommation d&#x27;avocats aux États-Unis poursuit sa progression, stimulée par des prix de vente attractifs pour les consommateurs. Au troisième trimestre 2026, les données indiquent une hausse de 6 % du volume d&#x27;achat. Le Mexique demeure le pilier de l&#x27;approvisionnement du marché, tandis que le Pérou et la Colombie complètent l&#x27;offre pour répondre à la demande croissante. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur l&#x27;évolution du marché de l&#x27;avocat (produit Mehadrin) impliquant le Pérou et la Colombie (origines Mehadrin).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895535/mexiko-bleibt-das-ruckgrat-unserer-avocadoversorgung-erganzt-durch-peru-und-kolumbien/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Mexico dominates the American avocado market -- <span class=\"news-date\">24/11/2026 10:37</span></div><div class=\"news-body\">Avocado consumption in the United States continues to grow, stimulated by attractive retail prices for consumers. In the third quarter of 2026, data indicates a 6% increase in purchase volume. Mexico remains the backbone of market supply, while Peru and Colombia complement the offer to meet growing demand. <span class=\"news-reason\">The article provides precise figures on the evolution of the avocado market (Mehadrin product) involving Peru and Colombia (Mehadrin origins).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895535/mexiko-bleibt-das-ruckgrat-unserer-avocadoversorgung-erganzt-durch-peru-und-kolumbien/\" target=\"_blank\">FreshPlaza DE -- Read article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">מקסיקו שולטת בשוק האבוקדו האמריקאי -- <span class=\"news-date\">24/11/2026 10:37</span></div><div class=\"news-body\">צריכת האבוקדו בארצות הברית ממשיכה לצמוח, בעידוד מחירי מכירה אטרקטיביים לצרכנים. ברבעון השלישי של 2026, הנתונים מצביעים על עלייה של 6% בנפח הרכישה. מקסיקו נותרת עמוד התווך של אספקת השוק, בעוד שפרו וקולומביה משלימות את ההיצע כדי לענות על הביקוש הגובר. <span class=\"news-reason\">הכתבה מספקת נתונים מדויקים על התפתחות שוק האבוקדו (מוצר מהדרין) הכוללת את פרו וקולומביה (מקורות מהדרין).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895535/mexiko-bleibt-das-ruckgrat-unserer-avocadoversorgung-erganzt-durch-peru-und-kolumbien/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -149,7 +170,7 @@
     {
       "id": "1795532926_2",
       "timestamp": "2026-11-24T15:08:46.684132+00:00",
-      "title": "Westfalia Fruit nomme un nouveau directeur à la tête de sa filiale Greenpoint Trading",
+      "title": "Westfalia Fruit nomme un nouveau dirigeant à la tête de sa filiale Greenpoint Trading",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Ophélie"
@@ -158,7 +179,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Westfalia Fruit nomme un nouveau directeur à la tête de sa filiale Greenpoint Trading -- <span class=\"news-date\">24/11/2026 15:48</span></div><div class=\"news-body\">Westfalia Fruit Group a officialisé la nomination de Carel van Krimpen en tant que directeur de Greenpoint Trading B.V. Fondateur de la marque d&#x27;avocats Avojoy, il continuera de superviser cette entité intégrée au groupe depuis 2025 afin de renforcer le positionnement commercial de l&#x27;entreprise en Europe. <span class=\"news-reason\">Mouvement de direction chez un concurrent majeur (Westfalia) concernant le marché de l&#x27;avocat en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895077/carel-van-krimpen-nombrado-director-de-greenpoint-trading/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Westfalia Fruit nomme un nouveau dirigeant à la tête de sa filiale Greenpoint Trading -- <span class=\"news-date\">24/11/2026 15:48</span></div><div class=\"news-body\">Westfalia Fruit Group a officialisé la nomination de Carel van Krimpen en tant que directeur de Greenpoint Trading B.V. Fondateur de la marque d&#x27;avocats Avojoy, il continuera de superviser cette entité intégrée au groupe depuis 2025 afin de renforcer le positionnement commercial de l&#x27;entreprise en Europe. <span class=\"news-reason\">Mouvement de direction chez un concurrent majeur (Westfalia) concernant le marché de l&#x27;avocat en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895077/carel-van-krimpen-nombrado-director-de-greenpoint-trading/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Westfalia Fruit appoints a new director for its subsidiary Greenpoint Trading -- <span class=\"news-date\">24/11/2026 15:48</span></div><div class=\"news-body\">Westfalia Fruit Group has officialized the appointment of Carel van Krimpen as director of Greenpoint Trading B.V. Founder of the Avojoy avocado brand, he will continue to supervise this entity, which has been integrated into the group since 2025, to strengthen the company&#x27;s commercial positioning in Europe. <span class=\"news-reason\">Management movement at a major competitor (Westfalia) regarding the avocado market in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895077/carel-van-krimpen-nombrado-director-de-greenpoint-trading/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">שינויים במותגים</div><div class=\"news-title\">Westfalia Fruit ממנה מנהל חדש לחברת הבת Greenpoint Trading -- <span class=\"news-date\">24/11/2026 15:48</span></div><div class=\"news-body\">קבוצת Westfalia Fruit הפכה לרשמית את מינויו של קארל ואן קרימפן למנהל Greenpoint Trading B.V. כמייסד מותג האבוקדו Avojoy, הוא ימשיך לפקח על ישות זו המשולבת בקבוצה מאז 2025 במטרה לחזק את המיצוב המסחרי של החברה באירופה. <span class=\"news-reason\">שינוי בהנהלה אצל מתחרה מרכזי (Westfalia) בנוגע לשוק האבוקדו באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895077/carel-van-krimpen-nombrado-director-de-greenpoint-trading/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -417,7 +438,7 @@
     {
       "id": "1795451732_3",
       "timestamp": "2026-11-23T16:35:32.775224+00:00",
-      "title": "Signes de reprise pour la grenade indienne malgré des défis de qualité",
+      "title": "Signes de reprise pour la grenade indienne malgré des enjeux de qualité",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Jessica"
@@ -426,7 +447,7 @@
       "origins": [
         "IND"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Signes de reprise pour la grenade indienne malgré des défis de qualité -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">Le marché indien de la grenade montre des signes de reprise en novembre avec une disponibilité accrue. Cependant, garantir une qualité suffisante pour l&#x27;exportation reste un défi majeur. La pression des maladies et des conditions météorologiques défavorables a impacté la qualité des fruits destinés aux marchés internationaux. <span class=\"news-reason\">Information sur la disponibilité et les problèmes de qualité d&#x27;une origine concurrente sur un produit en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Signes de reprise pour la grenade indienne malgré des enjeux de qualité -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">Le marché indien de la grenade montre des signes de reprise en novembre avec une disponibilité accrue. Cependant, garantir une qualité suffisante pour l&#x27;exportation reste un défi majeur. La pression des maladies et des conditions météorologiques défavorables a impacté la qualité des fruits destinés aux marchés internationaux. <span class=\"news-reason\">Information sur la disponibilité et les problèmes de qualité d&#x27;une origine concurrente sur un produit en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Signs of recovery for Indian pomegranate despite quality challenges -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">The Indian pomegranate market shows signs of recovery in November with increased availability. However, ensuring sufficient quality for export remains a major challenge. Disease pressure and unfavorable weather conditions have impacted the quality of fruit intended for international markets. <span class=\"news-reason\">Information on the availability and quality issues of a competing origin for a product in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סימני התאוששות עבור הרימון ההודי למרות אתגרי איכות -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">שוק הרימונים ההודי מראה סימני התאוששות בנובמבר עם זמינות מוגברת. עם זאת, הבטחת איכות מספקת לייצוא נותרת אתגר משמעותי. לחץ של מחלות ותנאי מזג אוויר קשים השפיע על איכות הפירות המיועדים לשווקים הבינלאומיים. <span class=\"news-reason\">מידע על הזמינות ובעיות האיכות של מקור מתחרה במוצר שנמצא בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- לקריאת המאמר</a></div></div>"
     },
@@ -741,7 +762,7 @@
     {
       "id": "1795424828_1",
       "timestamp": "2026-11-23T09:07:08.962048+00:00",
-      "title": "Citruslandia prévoit de doubler sa production de clémentines Clemenules biologiques",
+      "title": "Citruslandia prévoit de doubler sa production de clémentines Clemenules biologiques.",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Nadia"
@@ -752,7 +773,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Citruslandia prévoit de doubler sa production de clémentines Clemenules biologiques -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">Face au délaissement de la variété Clemenules par les producteurs de Valence, Citruslandia mise sur un doublement de ses capacités de production en agriculture biologique. L&#x27;entreprise choisit de renforcer ce segment spécifique pour assurer une meilleure rentabilité économique malgré la transition variétale régionale en cours. <span class=\"news-reason\">Expansion stratégique de production sur un produit concurrent direct (clémentine) en Espagne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894757/citruslandia-strebt-verdoppelung-der-anbaukapazitaten-fur-bio-clemenules-an/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Citruslandia prévoit de doubler sa production de clémentines Clemenules biologiques. -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">Face au délaissement de la variété Clemenules par les producteurs de Valence, Citruslandia mise sur un doublement de ses capacités de production en agriculture biologique. L&#x27;entreprise choisit de renforcer ce segment spécifique pour assurer une meilleure rentabilité économique malgré la transition variétale régionale en cours. <span class=\"news-reason\">Expansion stratégique de production sur un produit concurrent direct (clémentine) en Espagne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894757/citruslandia-strebt-verdoppelung-der-anbaukapazitaten-fur-bio-clemenules-an/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">BANNER MOVEMENTS</div><div class=\"news-title\">Citruslandia plans to double its production of organic Clemenules clementines -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">Faced with the abandonment of the Clemenules variety by producers in Valencia, Citruslandia is betting on doubling its organic farming production capacity. The company is choosing to strengthen this specific segment to ensure better economic profitability despite the regional varietal transition underway. <span class=\"news-reason\">Strategic production expansion on a direct competing product (clementine) in Spain.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894757/citruslandia-strebt-verdoppelung-der-anbaukapazitaten-fur-bio-clemenules-an/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות מותגים</div><div class=\"news-title\">Citruslandia מתכננת להכפיל את ייצור הקלמנטינות האורגניות מזן Clemenules -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">לנוכח נטישת זן ה-Clemenules על ידי המגדלים בוולנסיה, חברת Citruslandia שואפת להכפיל את כושר הייצור שלה בחקלאות אורגנית. החברה בחרה לחזק את המגזר הספציפי הזה כדי להבטיח רווחיות כלכלית טובה יותר למרות תהליך החלפת הזנים האזורי המתבצע כעת. <span class=\"news-reason\">התרחבות אסטרטגית של ייצור מוצר מתחרה ישיר (קלמנטינה) בספרד.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894757/citruslandia-strebt-verdoppelung-der-anbaukapazitaten-fur-bio-clemenules-an/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -827,7 +848,7 @@
     {
       "id": "1795419312_0",
       "timestamp": "2026-11-23T07:35:12.445822+00:00",
-      "title": "L’impératif de l’innovation dans la commercialisation des oranges en Italie",
+      "title": "L&#x27;impératif d&#x27;innovation dans la commercialisation des oranges en Italie",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -838,7 +859,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’impératif de l’innovation dans la commercialisation des oranges en Italie -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">Face à une baisse constante des ventes d&#x27;oranges en grande distribution italienne, la marque I LOVE U cherche à renouveler l&#x27;offre traditionnelle. Lancée il y a dix ans, cette initiative vise à transformer l&#x27;expérience de consommation des agrumes pour sortir de la dépendance aux prix bas et valoriser le produit. <span class=\"news-reason\">L&#x27;article analyse la stratégie de positionnement du marché des agrumes en Italie face à la baisse de la consommation.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893830/non-ci-basta-che-le-arance-si-vendano-solo-se-costano-poco/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;impératif d&#x27;innovation dans la commercialisation des oranges en Italie -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">Face à une baisse constante des ventes d&#x27;oranges en grande distribution italienne, la marque I LOVE U cherche à renouveler l&#x27;offre traditionnelle. Lancée il y a dix ans, cette initiative vise à transformer l&#x27;expérience de consommation des agrumes pour sortir de la dépendance aux prix bas et valoriser le produit. <span class=\"news-reason\">L&#x27;article analyse la stratégie de positionnement du marché des agrumes en Italie face à la baisse de la consommation.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893830/non-ci-basta-che-le-arance-si-vendano-solo-se-costano-poco/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Need to innovate orange marketing in Italy -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">Faced with a steady decline in orange sales in Italian large-scale retail, the I LOVE U brand is seeking to renew the traditional offering. Launched ten years ago, this initiative aims to transform the citrus consumption experience to move away from low-price dependency and increase product value. <span class=\"news-reason\">The article analyzes the market positioning strategy for citrus in Italy in the face of declining consumption.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893830/non-ci-basta-che-le-arance-si-vendano-solo-se-costano-poco/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות ומקורות</div><div class=\"news-title\">הצורך בחדשנות בשיווק תפוזים באיטליה -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">אל מול ירידה מתמדת במכירות התפוזים ברשתות השיווק באיטליה, המותג I LOVE U שואף לחדש את ההיצע המסורתי. יוזמה זו, שהושקה לפני עשר שנים, נועדה לשנות את חוויית צריכת פירות ההדר כדי לצאת מהתלות במחירים נמוכים ולהעלות את ערך המוצר. <span class=\"news-reason\">המאמר מנתח את אסטרטגיית המיצוב של שוק פירות ההדר באיטליה לנוכח הירידה בצריכה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893830/non-ci-basta-che-le-arance-si-vendano-solo-se-costano-poco/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>"
     },
