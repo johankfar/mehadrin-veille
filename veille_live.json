@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-23T19:36:06.214211+00:00",
-  "article_count": 37,
+  "last_updated": "2026-11-24T06:05:00.089487+00:00",
+  "article_count": 40,
   "attention_points": [
+    {
+      "id": "attention-a1543f54d2ee973d",
+      "article_id": "1795500300_0",
+      "url": "https://www.agrimaroc.ma/les-articles-les-plus-lus-de-la-semaine-sur-agrimaroc-ma-4/",
+      "source": "AgriMaroc",
+      "title": "Campagne de vente des petits agrumes",
+      "summary": "Les flux d'exportation et les tendances de vente sont analysés pour la saison.",
+      "origin_code": "MAR",
+      "origin_label": "Maroc",
+      "published_at": "2026-11-24T00:07:11+00:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "volume",
+      "products": [
+        "mandarine"
+      ],
+      "age_hours": 5
+    },
     {
       "id": "attention-04a88b1e1df73106",
       "article_id": "1795462566_0",
@@ -19,7 +38,7 @@
       "products": [
         "orange"
       ],
-      "age_hours": 1
+      "age_hours": 12
     },
     {
       "id": "attention-1387774fd82749e3",
@@ -36,46 +55,77 @@
       "signal_label": "Alerte",
       "icon": "alert",
       "products": [],
-      "age_hours": 4
+      "age_hours": 14
     },
     {
-      "id": "attention-bd1a434bc5223271",
-      "article_id": "1795451732_2",
-      "url": "https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/",
+      "id": "attention-3b767135bc70371e",
+      "article_id": "1795500300_2",
+      "url": "https://www.freshplaza.es/article/9895455/las-lluvias-en-piura-podrian-dificultar-la-cosecha-de-mango-a-partir-de-diciembre/",
       "source": "FreshPlaza ES",
-      "title": "Campagne de mangues en Espagne se clôture",
-      "summary": "La production espagnole atteint quarante mille tonnes avec des prix en baisse",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-11-23T15:53:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "mango"
-      ],
-      "age_hours": 4
-    },
-    {
-      "id": "attention-d2075dd4b6928e54",
-      "article_id": "1795451732_3",
-      "url": "https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/",
-      "source": "FreshPlaza ES",
-      "title": "Signes de reprise pour la grenade indienne malgré",
-      "summary": "La qualité des grenades indiennes reste insuffisante pour les marchés internationaux d'exportation",
-      "origin_code": "IND",
-      "origin_label": "Inde",
+      "title": "Précipitations menacent la récolte de mangues à Piura",
+      "summary": "Des précipitations importantes à Piura pourraient perturber la récolte de mangues en décembre",
+      "origin_code": "PER",
+      "origin_label": "Pérou",
       "published_at": "2026-11-23T15:53:00+01:00",
       "published_at_source": "rss",
       "signal_type": "weather",
       "signal_label": "Météo",
       "icon": "weather",
-      "products": [],
-      "age_hours": 4
+      "products": [
+        "mango"
+      ],
+      "age_hours": 15
     }
   ],
   "articles": [
+    {
+      "id": "1795500300_2",
+      "timestamp": "2026-11-24T06:05:00.089487+00:00",
+      "title": "Pérou : les précipitations menacent la récolte de mangues à Piura",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "mango"
+      ],
+      "origins": [
+        "PER"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pérou : les précipitations menacent la récolte de mangues à Piura -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">Les pluies persistantes dans la région de Piura au Pérou, atteignant 140 mm par endroits, font peser un risque important sur la récolte de mangues dès décembre. L&#x27;humidité élevée favorise le développement de l&#x27;anthracnose, une maladie fongique qui peut affecter la qualité de la mangue après la récolte, même sur des fruits d&#x27;apparence saine lors de la cueillette. <span class=\"news-reason\">Alerte sur les conditions météorologiques affectant la qualité et la disponibilité d&#x27;une origine concurrente majeure pour la mangue.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895455/las-lluvias-en-piura-podrian-dificultar-la-cosecha-de-mango-a-partir-de-diciembre/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Rainfall in Peru threatens the mango harvest in Piura -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">Persistent rains in the Piura region of Peru, reaching 140 mm in some places, pose a significant risk to the mango harvest starting in December. High humidity promotes the development of anthracnose, a fungal disease that can affect mango quality after harvest, even on fruit that appears healthy when picked. <span class=\"news-reason\">Alert on weather conditions affecting the quality and availability of a major competing origin for mangoes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895455/las-lluvias-en-piura-podrian-dificultar-la-cosecha-de-mango-a-partir-de-diciembre/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">המשקעים בפרו מאיימים על קטיף המנגו בפיורה -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">הגשמים הממושכים במחוז פיורה (Piura) שבפרו, שהגיעו ל-140 מ\"מ במקומות מסוימים, מהווים סיכון משמעותי לקטיף המנגו החל מדצמבר. הלחות הגבוהה מעודדת התפתחות של אנתרקנוז, מחלה פטרייתית שעלולה לפגוע באיכות המנגו לאחר הקטיף, גם בפירות שנראו בריאים בזמן הקטיף. <span class=\"news-reason\">התראה על תנאי מזג אוויר המשפיעים על האיכות והזמינות של מקור מתחרה מרכזי למנגו.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895455/las-lluvias-en-piura-podrian-dificultar-la-cosecha-de-mango-a-partir-de-diciembre/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795500300_1",
+      "timestamp": "2026-11-24T06:05:00.089487+00:00",
+      "title": "Recul de 15 % des exportations brésiliennes de papaye en octobre",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [],
+      "products": [
+        "papaya"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul de 15 % des exportations brésiliennes de papaye en octobre -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">En octobre 2026, les exportations brésiliennes de papaye ont chuté de 15 % par rapport à l&#x27;année précédente, totalisant un peu plus de 4 000 tonnes. Les revenus d&#x27;exportation FOB se sont élevés à environ 6 millions de dollars. Ce ralentissement pourrait être lié à des facteurs logistiques ou de production locale affectant les flux vers les marchés internationaux. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur les volumes et revenus d&#x27;exportation d&#x27;un produit exotique Mehadrin depuis une origine clé.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895085/las-exportaciones-brasilenas-de-papaya-caen-un-15-en-octubre/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">15% drop in Brazilian papaya exports in October -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">In October 2026, Brazilian papaya exports fell by 15% compared to the previous year, totaling just over 4,000 tons. FOB export revenues amounted to approximately 6 million dollars. This slowdown could be linked to logistical or local production factors affecting flows to international markets. <span class=\"news-reason\">The article provides precise figures on the export volumes and revenues of a Mehadrin exotic product from a key origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895085/las-exportaciones-brasilenas-de-papaya-caen-un-15-en-octubre/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 15% בייצוא הפפאיה מברזיל באוקטובר -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">באוקטובר 2026, ייצוא הפפאיה מברזיל צנח ב-15% בהשוואה לשנה הקודמת, והסתכם בקצת יותר מ-4,000 טונות. הכנסות הייצוא (FOB) עמדו על כ-6 מיליון דולר. האטה זו עשויה להיות קשורה לגורמים לוגיסטיים או לייצור מקומי המשפיעים על הזרימה לשווקים הבינלאומיים. <span class=\"news-reason\">הכתבה מספקת נתונים מדויקים על כמויות והכנסות מייצוא של מוצר אקזוטי של מהדרין ממקור מפתח.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895085/las-exportaciones-brasilenas-de-papaya-caen-un-15-en-octubre/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795500300_0",
+      "timestamp": "2026-11-24T06:05:00.089487+00:00",
+      "title": "Actualité des exportations de clémentines marocaines vers Rungis -- 24/11/2026 00:07",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "MAR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Actualité des exportations de clémentines marocaines vers Rungis -- <span class=\"news-date\">24/11/2026 00:07</span></div><div class=\"news-body\">La presse spécialisée souligne l&#x27;arrivée des clémentines de Berkane sur le marché de Rungis. La revue de presse hebdomadaire analyse également les derniers chiffres d&#x27;exportation des fruits et légumes marocains. <span class=\"news-reason\">L&#x27;article rapporte la présence de clémentines de Berkane (Maroc) sur le marché de Rungis et mentionne des chiffres d&#x27;exportation.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/les-articles-les-plus-lus-de-la-semaine-sur-agrimaroc-ma-4/\" target=\"_blank\">AgriMaroc -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Update on Moroccan clementine exports to Rungis -- <span class=\"news-date\">24/11/2026 00:07</span></div><div class=\"news-body\">The specialized press highlights the arrival of Berkane clementines on the Rungis market. The weekly press review also analyzes the latest export figures for Moroccan fruits and vegetables. <span class=\"news-reason\">The article reports the presence of Berkane clementines (Morocco) on the Rungis market and mentions export figures.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/les-articles-les-plus-lus-de-la-semaine-sur-agrimaroc-ma-4/\" target=\"_blank\">AgriMaroc -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">עדכונים על ייצוא קלמנטינות ממרוקו לרונג'יס -- <span class=\"news-date\">24/11/2026 00:07</span></div><div class=\"news-body\">העיתונות המקצועית מדגישה את הגעתן של קלמנטינות מברקן לשוק רונג'יס. סקירת העיתונות השבועית מנתחת גם את נתוני הייצוא האחרונים של פירות וירקות ממרוקו. <span class=\"news-reason\">הכתבה מדווחת על נוכחותן של קלמנטינות מברקן (מרוקו) בשוק רונג'יס ומציינת נתוני ייצוא.</span></div><div class=\"news-source\"><a href=\"https://www.agrimaroc.ma/les-articles-les-plus-lus-de-la-semaine-sur-agrimaroc-ma-4/\" target=\"_blank\">AgriMaroc -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1795462566_3",
       "timestamp": "2026-11-23T19:36:06.214211+00:00",
@@ -111,7 +161,7 @@
     {
       "id": "1795451732_3",
       "timestamp": "2026-11-23T16:35:32.775224+00:00",
-      "title": "Signes de reprise pour la grenade indienne malgré des enjeux de qualité",
+      "title": "Signes de reprise pour la grenade indienne malgré des problèmes de qualité",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Jessica"
@@ -120,14 +170,14 @@
       "origins": [
         "IND"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Signes de reprise pour la grenade indienne malgré des enjeux de qualité -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">Le marché indien de la grenade montre des signes de reprise en novembre avec une disponibilité accrue. Cependant, garantir une qualité suffisante pour l&#x27;exportation reste un défi majeur. La pression des maladies et des conditions météorologiques défavorables a impacté la qualité des fruits destinés aux marchés internationaux. <span class=\"news-reason\">Information sur la disponibilité et les problèmes de qualité d&#x27;une origine concurrente sur un produit en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Signes de reprise pour la grenade indienne malgré des problèmes de qualité -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">Le marché indien de la grenade montre des signes de reprise en novembre avec une disponibilité accrue. Cependant, garantir une qualité suffisante pour l&#x27;exportation reste un défi majeur. La pression des maladies et des conditions météorologiques défavorables a impacté la qualité des fruits destinés aux marchés internationaux. <span class=\"news-reason\">Information sur la disponibilité et les problèmes de qualité d&#x27;une origine concurrente sur un produit en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Signs of recovery for Indian pomegranate despite quality challenges -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">The Indian pomegranate market shows signs of recovery in November with increased availability. However, ensuring sufficient quality for export remains a major challenge. Disease pressure and unfavorable weather conditions have impacted the quality of fruit intended for international markets. <span class=\"news-reason\">Information on the availability and quality issues of a competing origin for a product in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סימני התאוששות עבור הרימון ההודי למרות אתגרי איכות -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">שוק הרימונים ההודי מראה סימני התאוששות בנובמבר עם זמינות מוגברת. עם זאת, הבטחת איכות מספקת לייצוא נותרת אתגר משמעותי. לחץ של מחלות ותנאי מזג אוויר קשים השפיע על איכות הפירות המיועדים לשווקים הבינלאומיים. <span class=\"news-reason\">מידע על הזמינות ובעיות האיכות של מקור מתחרה במוצר שנמצא בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- לקריאת המאמר</a></div></div>"
     },
     {
       "id": "1795451732_2",
       "timestamp": "2026-11-23T16:35:32.775224+00:00",
-      "title": "La campagne de mangues en Espagne se clôture sur une production de 40 000 tonnes",
+      "title": "Espagne : la campagne de mangues se clôture avec une production de 40 000 tonnes",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -138,7 +188,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La campagne de mangues en Espagne se clôture sur une production de 40 000 tonnes -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">La saison de récolte des mangues dans l&#x27;Axarquía (Malaga) et la Costa Tropical s&#x27;achève en novembre 2026. La production est estimée à environ 40 000 tonnes, un volume inférieur à la récolte record de la saison précédente. Les prix enregistrés en cette fin de campagne sont orientés à la baisse. <span class=\"news-reason\">L&#x27;article annonce la fin de campagne d&#x27;une origine concurrente (Espagne) avec des volumes et une tendance de prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la campagne de mangues se clôture avec une production de 40 000 tonnes -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">La saison de récolte des mangues dans l&#x27;Axarquía (Malaga) et la Costa Tropical s&#x27;achève en novembre 2026. La production est estimée à environ 40 000 tonnes, un volume inférieur à la récolte record de la saison précédente. Les prix enregistrés en cette fin de campagne sont orientés à la baisse. <span class=\"news-reason\">L&#x27;article annonce la fin de campagne d&#x27;une origine concurrente (Espagne) avec des volumes et une tendance de prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Closing of the Spanish mango campaign with a production of 40,000 tons -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">The mango harvest season in Axarquía (Malaga) and the Costa Tropical is ending in November 2026. Production is estimated at around 40,000 tons, a volume lower than the record harvest of the previous season. Prices recorded at the end of this campaign are trending downward. <span class=\"news-reason\">The article announces the end of the campaign for a competing origin (Spain) with volumes and a price trend.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיום קמפיין המנגו הספרדי עם ייצור של 40,000 טון -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">עונת קטיף המנגו באקסרקיה (Malaga) ובקוסטה טרופיקל מסתיימת בנובמבר 2026. הייצור מוערך בכ-40,000 טון, כמות נמוכה מהיבול המכור של העונה הקודמת. המחירים שנרשמו בסוף הקמפיין נמצאים במגמת ירידה. <span class=\"news-reason\">המאמר מודיע על סיום הקמפיין של מקור מתחרה (ספרד) עם נתוני כמויות ומגמת מחירים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- לקריאת המאמר</a></div></div>"
     },
@@ -435,7 +485,7 @@
     {
       "id": "1795424828_1",
       "timestamp": "2026-11-23T09:07:08.962048+00:00",
-      "title": "Citruslandia ambitionne de doubler sa production de clémentines Clemenules biologiques",
+      "title": "Citruslandia prévoit de doubler sa production de clémentines Clemenules biologiques",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Nadia"
@@ -446,14 +496,14 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Citruslandia ambitionne de doubler sa production de clémentines Clemenules biologiques -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">Face au délaissement de la variété Clemenules par les producteurs de Valence, Citruslandia mise sur un doublement de ses capacités de production en agriculture biologique. L&#x27;entreprise choisit de renforcer ce segment spécifique pour assurer une meilleure rentabilité économique malgré la transition variétale régionale en cours. <span class=\"news-reason\">Expansion stratégique de production sur un produit concurrent direct (clémentine) en Espagne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894757/citruslandia-strebt-verdoppelung-der-anbaukapazitaten-fur-bio-clemenules-an/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Citruslandia prévoit de doubler sa production de clémentines Clemenules biologiques -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">Face au délaissement de la variété Clemenules par les producteurs de Valence, Citruslandia mise sur un doublement de ses capacités de production en agriculture biologique. L&#x27;entreprise choisit de renforcer ce segment spécifique pour assurer une meilleure rentabilité économique malgré la transition variétale régionale en cours. <span class=\"news-reason\">Expansion stratégique de production sur un produit concurrent direct (clémentine) en Espagne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894757/citruslandia-strebt-verdoppelung-der-anbaukapazitaten-fur-bio-clemenules-an/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">BANNER MOVEMENTS</div><div class=\"news-title\">Citruslandia plans to double its production of organic Clemenules clementines -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">Faced with the abandonment of the Clemenules variety by producers in Valencia, Citruslandia is betting on doubling its organic farming production capacity. The company is choosing to strengthen this specific segment to ensure better economic profitability despite the regional varietal transition underway. <span class=\"news-reason\">Strategic production expansion on a direct competing product (clementine) in Spain.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894757/citruslandia-strebt-verdoppelung-der-anbaukapazitaten-fur-bio-clemenules-an/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות מותגים</div><div class=\"news-title\">Citruslandia מתכננת להכפיל את ייצור הקלמנטינות האורגניות מזן Clemenules -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">לנוכח נטישת זן ה-Clemenules על ידי המגדלים בוולנסיה, חברת Citruslandia שואפת להכפיל את כושר הייצור שלה בחקלאות אורגנית. החברה בחרה לחזק את המגזר הספציפי הזה כדי להבטיח רווחיות כלכלית טובה יותר למרות תהליך החלפת הזנים האזורי המתבצע כעת. <span class=\"news-reason\">התרחבות אסטרטגית של ייצור מוצר מתחרה ישיר (קלמנטינה) בספרד.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894757/citruslandia-strebt-verdoppelung-der-anbaukapazitaten-fur-bio-clemenules-an/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1795424828_0",
       "timestamp": "2026-11-23T09:07:08.962048+00:00",
-      "title": "Westfalia Fruit nomme Carel van Krimpen à la direction de Greenpoint Trading",
+      "title": "Westfalia Fruit nomme Carel van Krimpen à la tête de Greenpoint Trading",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Ophélie"
@@ -462,7 +512,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Westfalia Fruit nomme Carel van Krimpen à la direction de Greenpoint Trading -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">Le groupe Westfalia Fruit a nommé Carel van Krimpen au poste de directeur général de Greenpoint Trading B.V. Fondateur de l&#x27;entreprise et de sa marque d&#x27;avocats Avojoy, il continuera à diriger l&#x27;entité de façon autonome. Greenpoint Trading est intégrée au groupe Westfalia depuis 2025. <span class=\"news-reason\">Nomination d&#x27;un dirigeant au sein du groupe Westfalia pour sa marque d&#x27;avocats, impactant la distribution en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895075/carel-van-krimpen-zum-direktor-von-greenpoint-trading-ernannt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Westfalia Fruit nomme Carel van Krimpen à la tête de Greenpoint Trading -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">Le groupe Westfalia Fruit a nommé Carel van Krimpen au poste de directeur général de Greenpoint Trading B.V. Fondateur de l&#x27;entreprise et de sa marque d&#x27;avocats Avojoy, il continuera à diriger l&#x27;entité de façon autonome. Greenpoint Trading est intégrée au groupe Westfalia depuis 2025. <span class=\"news-reason\">Nomination d&#x27;un dirigeant au sein du groupe Westfalia pour sa marque d&#x27;avocats, impactant la distribution en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895075/carel-van-krimpen-zum-direktor-von-greenpoint-trading-ernannt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">BANNER MOVEMENTS</div><div class=\"news-title\">Westfalia Fruit appoints Carel van Krimpen as head of Greenpoint Trading -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">The Westfalia Fruit group has appointed Carel van Krimpen to the position of managing director of Greenpoint Trading B.V. Founder of the company and its Avojoy avocado brand, he will continue to lead the entity independently. Greenpoint Trading has been integrated into the Westfalia group since 2025. <span class=\"news-reason\">Appointment of a leader within the Westfalia group for its avocado brand, impacting distribution in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895075/carel-van-krimpen-zum-direktor-von-greenpoint-trading-ernannt/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות מותגים</div><div class=\"news-title\">Westfalia Fruit ממנה את קארל ואן קרימפן להנהלת Greenpoint Trading -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">קבוצת Westfalia Fruit מינתה את קארל ואן קרימפן לתפקיד המנכ\"ל של Greenpoint Trading B.V. כמייסד החברה ומותג האבוקדו שלה Avojoy, הוא ימשיך להוביל את הישות באופן עצמאי. Greenpoint Trading משולבת בקבוצת Westfalia מאז 2025. <span class=\"news-reason\">מינוי מנהל בקבוצת Westfalia עבור מותג האבוקדו שלה, המשפיע על ההפצה באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895075/carel-van-krimpen-zum-direktor-von-greenpoint-trading-ernannt/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -627,7 +677,7 @@
     {
       "id": "1795413927_1",
       "timestamp": "2026-11-23T06:05:27.685167+00:00",
-      "title": "Acquisition d’une exploitation d’avocats au Portugal pour renforcer l’offre",
+      "title": "Acquisition d&#x27;une exploitation d&#x27;avocats au Portugal pour renforcer l&#x27;offre",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Ophélie"
@@ -638,7 +688,7 @@
       "origins": [
         "PRT"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Acquisition d’une exploitation d’avocats au Portugal pour renforcer l’offre -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">Le groupe Alcoaxarquía a acquis la propriété Citago en Algarve, au Portugal. Cette acquisition vise à sécuriser l&#x27;approvisionnement pour les mois de février et mars avec une production estimée à 1 000 tonnes d&#x27;avocats, principalement de la variété Hass, incluant également 3 % de variété Bacon. <span class=\"news-reason\">Expansion d&#x27;un concurrent (Alcoaxarquía) sur le segment avocat (Hass) avec des volumes précis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894243/acquisita-un-azienda-agricola-di-avocado-in-portogallo-per-rafforzare-le-forniture-di-febbraio-e-marzo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Acquisition d&#x27;une exploitation d&#x27;avocats au Portugal pour renforcer l&#x27;offre -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">Le groupe Alcoaxarquía a acquis la propriété Citago en Algarve, au Portugal. Cette acquisition vise à sécuriser l&#x27;approvisionnement pour les mois de février et mars avec une production estimée à 1 000 tonnes d&#x27;avocats, principalement de la variété Hass, incluant également 3 % de variété Bacon. <span class=\"news-reason\">Expansion d&#x27;un concurrent (Alcoaxarquía) sur le segment avocat (Hass) avec des volumes précis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894243/acquisita-un-azienda-agricola-di-avocado-in-portogallo-per-rafforzare-le-forniture-di-febbraio-e-marzo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Acquisition of an avocado farm in Portugal to strengthen supply -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">The Alcoaxarquía group has acquired the Citago property in Algarve, Portugal. This acquisition aims to secure supply for the months of February and March with an estimated production of 1,000 tonnes of avocados, mainly of the Hass variety, also including 3% of the Bacon variety. <span class=\"news-reason\">Expansion of a competitor (Alcoaxarquía) in the avocado segment (Hass) with specific volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894243/acquisita-un-azienda-agricola-di-avocado-in-portogallo-per-rafforzare-le-forniture-di-febbraio-e-marzo/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות</div><div class=\"news-title\">רכישת מטע אבוקדו בפורטוגל לחיזוק ההיצע -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">קבוצת אלקואקסארקיה רכשה את נחלת סיטאגו באלגרבה, פורטוגל. רכישה זו נועדה להבטיח את האספקה לחודשים פברואר ומרץ עם ייצור מוערך של 1,000 טונות אבוקדו, בעיקר מזן האס, הכולל גם 3% מזן בייקון. <span class=\"news-reason\">התרחבות של מתחרה (Alcoaxarquía) בסגמנט האבוקדו (האס) עם כמויות מדויקות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894243/acquisita-un-azienda-agricola-di-avocado-in-portogallo-per-rafforzare-le-forniture-di-febbraio-e-marzo/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -663,7 +713,7 @@
     {
       "id": "1795273596_0",
       "timestamp": "2026-11-21T15:06:36.242058+00:00",
-      "title": "Italie : une campagne complexe pour les clémentines à Tarente",
+      "title": "Italie : une campagne complexe pour la clémentine à Tarente",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Nadia"
@@ -674,7 +724,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Italie : une campagne complexe pour les clémentines à Tarente -- <span class=\"news-date\">20/11/2026 15:36</span></div><div class=\"news-body\">La campagne des agrumes dans la région de Tarente, en Italie, s&#x27;avère particulièrement complexe. Les producteurs locaux font face à un cumul de difficultés climatiques, de pressions phytosanitaires et de problématiques commerciales qui entravent le bon déroulement de la récolte de clémentines cette saison. <span class=\"news-reason\">L&#x27;article traite des problèmes de production des clémentines (agrumes) en Italie, impactant la disponibilité et la qualité.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894742/campana-de-clementinas-cuesta-arriba-en-tarento-italia/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Italie : une campagne complexe pour la clémentine à Tarente -- <span class=\"news-date\">20/11/2026 15:36</span></div><div class=\"news-body\">La campagne des agrumes dans la région de Tarente, en Italie, s&#x27;avère particulièrement complexe. Les producteurs locaux font face à un cumul de difficultés climatiques, de pressions phytosanitaires et de problématiques commerciales qui entravent le bon déroulement de la récolte de clémentines cette saison. <span class=\"news-reason\">L&#x27;article traite des problèmes de production des clémentines (agrumes) en Italie, impactant la disponibilité et la qualité.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894742/campana-de-clementinas-cuesta-arriba-en-tarento-italia/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Italy: difficult clementine campaign in Taranto -- <span class=\"news-date\">20/11/2026 15:36</span></div><div class=\"news-body\">The citrus campaign in the Taranto region of Italy is proving to be particularly complex. Local producers are facing a combination of climatic difficulties, phytosanitary pressures, and commercial issues that are hampering the smooth progress of the clementine harvest this season. <span class=\"news-reason\">The article discusses production problems for clementines (citrus) in Italy, impacting availability and quality.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894742/campana-de-clementinas-cuesta-arriba-en-tarento-italia/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">איטליה: עונת קלמנטינות קשה בטאראנטו -- <span class=\"news-date\">20/11/2026 15:36</span></div><div class=\"news-body\">עונת ההדרים באזור טאראנטו שבאיטליה מתגלה כמורכבת במיוחד. המגדלים המקומיים מתמודדים עם הצטברות של קשיים אקלימיים, לחצים פיטו-סניטריים ובעיות מסחריות המעכבים את המהלך התקין של קטיף הקלמנטינות העונה. <span class=\"news-reason\">המאמר עוסק בבעיות הייצור של קלמנטינות (הדרים) באיטליה, המשפיעות על הזמינות והאיכות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894742/campana-de-clementinas-cuesta-arriba-en-tarento-italia/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
