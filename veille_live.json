@@ -1,25 +1,43 @@
 {
-  "last_updated": "2026-11-25T09:06:05.695432+00:00",
-  "article_count": 59,
+  "last_updated": "2026-11-25T10:36:02.231013+00:00",
+  "article_count": 64,
   "attention_points": [
     {
-      "id": "attention-fdde98f817c7f603",
-      "article_id": "1795597565_0",
-      "url": "https://fyh.es/el-aguacate-valenciano-supera-ya-los-43-millones-en-exportaciones/",
-      "source": "Frutas y Hortalizas",
-      "title": "Exportations d'avocats de Valence franchissent le cap",
-      "summary": "Les revenus issus des expéditions internationales progressent suite à l'augmentation des surfaces.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-11-25T08:47:43+00:00",
+      "id": "attention-63949abf1b8d7969",
+      "article_id": "1795602962_3",
+      "url": "https://www.freshplaza.de/article/9896043/neues-annahmezentrum-in-valencia-soll-avocado-erzeuger-besser-versorgen/",
+      "source": "FreshPlaza DE",
+      "title": "Un nouveau centre de réception pour avocats",
+      "summary": "Une nouvelle installation permet d'améliorer le service aux producteurs de la filière.",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
+      "published_at": "2026-11-25T10:04:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "information",
+      "signal_label": "Information",
+      "icon": "information",
+      "products": [
+        "avocat",
+        "orange"
+      ],
+      "age_hours": 1
+    },
+    {
+      "id": "attention-f0d1bd011364d8ae",
+      "article_id": "1795602962_2",
+      "url": "https://www.freshplaza.de/article/9896053/hohere-interne-kosten-setzen-den-argentinischen-zitrusexport-unter-druck/",
+      "source": "FreshPlaza DE",
+      "title": "Poids des coûts internes sur les exportations d'agrumes",
+      "summary": "Les coûts de production internes pèsent sur la compétitivité des exportations d'agrumes.",
+      "origin_code": "ARG",
+      "origin_label": "Argentine",
+      "published_at": "2026-11-25T10:04:00+01:00",
       "published_at_source": "rss",
       "signal_type": "volume",
       "signal_label": "Volumes",
       "icon": "volume",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 0
+      "products": [],
+      "age_hours": 1
     },
     {
       "id": "attention-dfdc53f2c557bd9a",
@@ -38,46 +56,116 @@
       "products": [
         "date"
       ],
-      "age_hours": 2
+      "age_hours": 3
     },
     {
-      "id": "attention-626aea4c91c433c8",
-      "article_id": "1795586785_1",
-      "url": "https://www.freshplaza.it/article/9894289/il-calo-del-potere-d-acquisto-sta-incidendo-sulle-vendite/",
+      "id": "attention-6b070ceb2a2ffec1",
+      "article_id": "1795602962_5",
+      "url": "https://www.freshplaza.it/article/9894772/la-qualita-gustativa-delle-arance-del-portogallo-potrebbe-accelerare-l-iter-per-il-riconoscimento-dell-igp/",
       "source": "FreshPlaza IT",
-      "title": "Transition variétale et érosion du pouvoir d'achat",
-      "summary": "Le marché des agrumes en Italie entame sa transition saisonnière avec l'introduction des clémentines.",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
-      "published_at": "2026-11-25T06:05:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "information",
-      "signal_label": "Information",
-      "icon": "information",
-      "products": [
-        "mandarine"
-      ],
-      "age_hours": 4
-    },
-    {
-      "id": "attention-a13d570fbba6a8f0",
-      "article_id": "1795586785_3",
-      "url": "https://www.freshplaza.it/article/9896107/il-prodotto-c-e-ed-e-buono-il-mercato-deve-valorizzarlo-di-piu/",
-      "source": "FreshPlaza IT",
-      "title": "Lancement de la campagne de récolte des agrumes",
-      "summary": "La production sicilienne débute avec une excellente qualité malgré des températures élevées.",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
+      "title": "Lancement de la campagne des oranges du Portugal",
+      "summary": "Les premières cargaisons arrivent sur le marché européen avec des volumes globaux stables.",
+      "origin_code": "FRA",
+      "origin_label": "France",
       "published_at": "2026-11-25T06:05:00+01:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
-      "products": [],
-      "age_hours": 4
+      "products": [
+        "orange"
+      ],
+      "age_hours": 5
     }
   ],
   "articles": [
+    {
+      "id": "1795602962_5",
+      "timestamp": "2026-11-25T10:36:02.231013+00:00",
+      "title": "Lancement de la campagne des oranges du Portugal -- 25/11/2026 06:05",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "orange"
+      ],
+      "origins": [
+        "FRA",
+        "PRT"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne des oranges du Portugal -- <span class=\"news-date\">25/11/2026 06:05</span></div><div class=\"news-body\">La saison des oranges portugaises a débuté avec des premières livraisons sur le marché français en semaine 47. Les volumes globaux sont attendus à un niveau similaire à l&#x27;an dernier. <span class=\"news-reason\">Début de campagne pour un produit concurrent (orange) sur le marché français.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894772/la-qualita-gustativa-delle-arance-del-portogallo-potrebbe-accelerare-l-iter-per-il-riconoscimento-dell-igp/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Launch of the Portuguese orange campaign -- <span class=\"news-date\">25/11/2026 06:05</span></div><div class=\"news-body\">The Portuguese orange season has begun with the first deliveries to the French market in week 47. Overall volumes are expected to be at a similar level to last year. <span class=\"news-reason\">Start of the campaign for a competing product (orange) on the French market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894772/la-qualita-gustativa-delle-arance-del-portogallo-potrebbe-accelerare-l-iter-per-il-riconoscimento-dell-igp/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">השקת קמפיין התפוזים מפורטוגל -- <span class=\"news-date\">25/11/2026 06:05</span></div><div class=\"news-body\">עונת התפוזים הפורטוגזיים החלה עם משלוחים ראשונים לשוק הצרפתי בשבוע 47. הכמויות הכוללות צפויות להיות ברמה דומה לשנה שעברה. <span class=\"news-reason\">תחילת קמפיין למוצר מתחרה (תפוז) בשוק הצרפתי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894772/la-qualita-gustativa-delle-arance-del-portogallo-potrebbe-accelerare-l-iter-per-il-riconoscimento-dell-igp/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795602962_3",
+      "timestamp": "2026-11-25T10:36:02.231013+00:00",
+      "title": "Nouveau centre de réception pour les producteurs d&#x27;avocats à Valence",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Nouveau centre de réception pour les producteurs d&#x27;avocats à Valence -- <span class=\"news-date\">25/11/2026 10:04</span></div><div class=\"news-body\">L&#x27;entreprise Trops a inauguré une nouvelle installation à Palma de Gandía, dans la région de Valence, pour centraliser la réception des avocats de ses producteurs affiliés. <span class=\"news-reason\">Expansion logistique d&#x27;un acteur majeur de l&#x27;avocat en Espagne (Trops), origine clé pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896043/neues-annahmezentrum-in-valencia-soll-avocado-erzeuger-besser-versorgen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">New reception center for avocado producers in Valencia -- <span class=\"news-date\">25/11/2026 10:04</span></div><div class=\"news-body\">The company Trops has inaugurated a new facility in Palma de Gandía, in the Valencia region, to centralize the reception of avocados from its affiliated producers. <span class=\"news-reason\">Logistics expansion of a major avocado player in Spain (Trops), a key origin for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896043/neues-annahmezentrum-in-valencia-soll-avocado-erzeuger-besser-versorgen/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות רשתות שיווק</div><div class=\"news-title\">מרכז קבלה חדש למגדלי אבוקדו בוולנסיה -- <span class=\"news-date\">25/11/2026 10:04</span></div><div class=\"news-body\">חברת Trops חנכה מתקן חדש בפאלמה דה גנדיה, שבאזור ולנסיה, לריכוז קבלת האבוקדו מהמגדלים המסונפים אליה. <span class=\"news-reason\">התרחבות לוגיסטית של שחקן מרכזי בתחום האבוקדו בספרד (Trops), מקור מפתח עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896043/neues-annahmezentrum-in-valencia-soll-avocado-erzeuger-besser-versorgen/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795602962_2",
+      "timestamp": "2026-11-25T10:36:02.231013+00:00",
+      "title": "Le poids des coûts internes sur les exportations d&#x27;agrumes argentins",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "ARG"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le poids des coûts internes sur les exportations d&#x27;agrumes argentins -- <span class=\"news-date\">25/11/2026 10:04</span></div><div class=\"news-body\">Bien que la saison d&#x27;exportation se termine avec des volumes satisfaisants, l&#x27;augmentation des coûts internes en Argentine menace la compétitivité du secteur des agrumes sur le marché mondial. <span class=\"news-reason\">L&#x27;article traite de la compétitivité et des prix de l&#x27;origine concurrente Argentine pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896053/hohere-interne-kosten-setzen-den-argentinischen-zitrusexport-unter-druck/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Internal costs weigh on Argentine citrus exports -- <span class=\"news-date\">25/11/2026 10:04</span></div><div class=\"news-body\">Although the export season is ending with satisfactory volumes, rising internal costs in Argentina threaten the competitiveness of the citrus sector on the global market. <span class=\"news-reason\">The article discusses the competitiveness and prices of the competing origin Argentina for citrus.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896053/hohere-interne-kosten-setzen-den-argentinischen-zitrusexport-unter-druck/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">העלויות הפנימיות מעיקות על יצוא ההדרים מארגנטינה -- <span class=\"news-date\">25/11/2026 10:04</span></div><div class=\"news-body\">למרות שעונת היצוא מסתיימת עם כמויות משביעות רצון, העלייה בעלויות הפנימיות בארגנטינה מאיימת על התחרותיות של מגזר ההדרים בשוק העולמי. <span class=\"news-reason\">הכתבה עוסקת בתחרותיות ובמחירים של המקור המתחרה ארגנטינה בתחום ההדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896053/hohere-interne-kosten-setzen-den-argentinischen-zitrusexport-unter-druck/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795602962_1",
+      "timestamp": "2026-11-25T10:36:02.231013+00:00",
+      "title": "L&#x27;Espagne au premier rang européen en nombre d&#x27;organisations de producteurs -- 24/11/2026 00:00",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [],
+      "products": [],
+      "origins": [
+        "FRA",
+        "ITA",
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">L&#x27;Espagne au premier rang européen en nombre d&#x27;organisations de producteurs -- <span class=\"news-date\">24/11/2026 00:00</span></div><div class=\"news-body\">L&#x27;Espagne, l&#x27;Italie et la France concentrent le plus grand nombre d&#x27;organisations de producteurs de fruits et légumes (OPFH) de l&#x27;Union Européenne. L&#x27;Espagne domine le classement avec 513 organisations, suivie par l&#x27;Italie avec 299 et la France avec 195, bien que les structures néerlandaises soient économiquement plus importantes. <span class=\"news-reason\">Données structurelles sur l&#x27;organisation des marchés en Espagne, Italie et France, zones clés pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.fepex.es/noticias/detalle/radiografia-opfh-ue-espana-paises-bajos\" target=\"_blank\">FEPEX -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Spain ranks first in Europe in number of producer organizations -- <span class=\"news-date\">24/11/2026 00:00</span></div><div class=\"news-body\">Spain, Italy, and France concentrate the highest number of fruit and vegetable producer organizations (PO) in the European Union. Spain dominates the ranking with 513 organizations, followed by Italy with 299 and France with 195, although Dutch structures are economically more significant. <span class=\"news-reason\">Structural data on market organization in Spain, Italy, and France, key areas for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.fepex.es/noticias/detalle/radiografia-opfh-ue-espana-paises-bajos\" target=\"_blank\">FEPEX -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות רשתות שיווק</div><div class=\"news-title\">ספרד במקום הראשון באירופה במספר ארגוני המגדלים -- <span class=\"news-date\">24/11/2026 00:00</span></div><div class=\"news-body\">ספרד, איטליה וצרפת מרכזות את המספר הגדול ביותר של ארגוני מגדלי פירות וירקות (OPFH) באיחוד האירופי. ספרד מובילה את הדירוג עם 513 ארגונים, אחריה איטליה עם 299 וצרפת עם 195, למרות שהמבנים ההולנדיים חשובים יותר מבחינה כלכלית. <span class=\"news-reason\">נתונים מבניים על ארגון השווקים בספרד, איטליה וצרפת, אזורי מפתח עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.fepex.es/noticias/detalle/radiografia-opfh-ue-espana-paises-bajos\" target=\"_blank\">FEPEX -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795602962_0",
+      "timestamp": "2026-11-25T10:36:02.231013+00:00",
+      "title": "Baisse de 45 % de la production d&#x27;avocats Hass au Pérou en 2027 -- 24/11/2026 16:15",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "PER"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Baisse de 45 % de la production d&#x27;avocats Hass au Pérou en 2027 -- <span class=\"news-date\">24/11/2026 16:15</span></div><div class=\"news-body\">Les anomalies de température liées au phénomène El Niño ont gravement perturbé la floraison et la nouaison dans les principales régions de production du nord du Pérou. En conséquence, les prévisions indiquent une chute de 45 % de la production d&#x27;avocats Hass pour la saison 2027. <span class=\"news-reason\">Annonce d&#x27;une chute massive des volumes chez un concurrent majeur de l&#x27;avocat suite à El Niño.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/24/avocado-pe/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">45% drop in Hass avocado production in Peru in 2027 -- <span class=\"news-date\">24/11/2026 16:15</span></div><div class=\"news-body\">Temperature anomalies linked to the El Niño phenomenon have severely disrupted flowering and fruit set in the main production regions of northern Peru. Consequently, forecasts indicate a 45% drop in Hass avocado production for the 2027 season. <span class=\"news-reason\">Announcement of a massive drop in volumes from a major avocado competitor following El Niño.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/24/avocado-pe/\" target=\"_blank\">Fresh Fruit Portal -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">ירידה של 45% בייצור אבוקדו האס בפרו בשנת 2027 -- <span class=\"news-date\">24/11/2026 16:15</span></div><div class=\"news-body\">חריגות בטמפרטורה הקשורות לתופעת אל ניניו שיבשו קשות את הפריחה וחניטת הפרי באזורי הייצור העיקריים בצפון פרו. כתוצאה מכך, התחזיות מצביעות על ירידה של 45% בייצור אבוקדו האס לעונת 2027. <span class=\"news-reason\">הודעה על ירידה מאסיבית בכמויות אצל מתחרה מרכזי בתחום האבוקדו בעקבות אל ניניו.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/24/avocado-pe/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1795597565_1",
       "timestamp": "2026-11-25T09:06:05.695432+00:00",
@@ -320,7 +408,7 @@
     {
       "id": "1795532926_0",
       "timestamp": "2026-11-24T15:08:46.684132+00:00",
-      "title": "Lancement de la campagne de l&#x27;avocat Hass espagnol sous influence israélienne",
+      "title": "Lancement de la campagne espagnole de l&#x27;avocat Hass sous influence israélienne",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -332,14 +420,14 @@
         "ESP",
         "ISR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne de l&#x27;avocat Hass espagnol sous influence israélienne -- <span class=\"news-date\">24/11/2026 15:48</span></div><div class=\"news-body\">La campagne espagnole d&#x27;avocats débute avec la variété Hass après la fin des variétés à peau verte. Juan Antonio Reyes Gutiérrez indique que la concurrence et les volumes provenant d&#x27;Israël seront des facteurs déterminants pour l&#x27;évolution des prix et de l&#x27;offre sur le marché européen cette saison. <span class=\"news-reason\">L&#x27;article traite du démarrage de la saison de l&#x27;avocat Hass en Espagne et mentionne l&#x27;influence directe de l&#x27;offre israélienne sur le marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895971/el-aguacate-hass-espanol-arranca-con-buenas-perspectivas-comerciales-aunque-israel-marcara-la-campana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne espagnole de l&#x27;avocat Hass sous influence israélienne -- <span class=\"news-date\">24/11/2026 15:48</span></div><div class=\"news-body\">La campagne espagnole d&#x27;avocats débute avec la variété Hass après la fin des variétés à peau verte. Juan Antonio Reyes Gutiérrez indique que la concurrence et les volumes provenant d&#x27;Israël seront des facteurs déterminants pour l&#x27;évolution des prix et de l&#x27;offre sur le marché européen cette saison. <span class=\"news-reason\">L&#x27;article traite du démarrage de la saison de l&#x27;avocat Hass en Espagne et mentionne l&#x27;influence directe de l&#x27;offre israélienne sur le marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895971/el-aguacate-hass-espanol-arranca-con-buenas-perspectivas-comerciales-aunque-israel-marcara-la-campana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Launch of the Spanish Hass avocado campaign under Israeli influence -- <span class=\"news-date\">24/11/2026 15:48</span></div><div class=\"news-body\">The Spanish avocado campaign begins with the Hass variety following the end of the green-skin varieties. Juan Antonio Reyes Gutiérrez indicates that competition and volumes from Israel will be determining factors for the evolution of prices and supply on the European market this season. <span class=\"news-reason\">The article discusses the start of the Hass avocado season in Spain and mentions the direct influence of Israeli supply on the market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895971/el-aguacate-hass-espanol-arranca-con-buenas-perspectivas-comerciales-aunque-israel-marcara-la-campana/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השקת עונת אבוקדו ההאס הספרדי תחת השפעה ישראלית -- <span class=\"news-date\">24/11/2026 15:48</span></div><div class=\"news-body\">עונת האבוקדו הספרדית מתחילה עם זן ההאס לאחר סיום זני הקליפה הירוקה. חואן אנטוניו רייס גוטיירס מציין כי התחרות והכמויות המגיעות מישראל יהיו גורמים מכריעים בהתפתחות המחירים וההיצע בשוק האירופי העונה. <span class=\"news-reason\">הכתבה עוסקת בתחילת עונת אבוקדו ההאס בספרד ומציינת את ההשפעה הישירה של ההיצע הישראלי על השוק.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895971/el-aguacate-hass-espanol-arranca-con-buenas-perspectivas-comerciales-aunque-israel-marcara-la-campana/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
     {
       "id": "1795527381_5",
       "timestamp": "2026-11-24T13:36:21.041866+00:00",
-      "title": "Campagne de promotion de la chérimole espagnole",
+      "title": "Campagne de promotion de la chérimole d&#x27;Espagne",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Jessica"
@@ -348,7 +436,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Campagne de promotion de la chérimole espagnole -- <span class=\"news-date\">24/11/2026 06:05</span></div><div class=\"news-body\">La DOP Chirimoya de la Costa Tropical de Granada-Málaga lance une campagne de promotion en novembre et décembre à Madrid, Barcelone et Séville. L&#x27;initiative vise à promouvoir la qualité et l&#x27;origine protégée de ce fruit exotique auprès des consommateurs espagnols. <span class=\"news-reason\">Action marketing sur un fruit exotique concurrent en Espagne, origine majeure pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892446/fare-conoscere-ai-consumatori-la-cherimoya-della-costa-tropical-di-granada-e-malaga/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Campagne de promotion de la chérimole d&#x27;Espagne -- <span class=\"news-date\">24/11/2026 06:05</span></div><div class=\"news-body\">La DOP Chirimoya de la Costa Tropical de Granada-Málaga lance une campagne de promotion en novembre et décembre à Madrid, Barcelone et Séville. L&#x27;initiative vise à promouvoir la qualité et l&#x27;origine protégée de ce fruit exotique auprès des consommateurs espagnols. <span class=\"news-reason\">Action marketing sur un fruit exotique concurrent en Espagne, origine majeure pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892446/fare-conoscere-ai-consumatori-la-cherimoya-della-costa-tropical-di-granada-e-malaga/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Promotion campaign for Spanish cherimoya -- <span class=\"news-date\">24/11/2026 06:05</span></div><div class=\"news-body\">DOP Chirimoya de la Costa Tropical de Granada-Málaga is launching a promotion campaign in November and December in Madrid, Barcelona, and Seville. The initiative aims to promote the quality and protected origin of this exotic fruit to Spanish consumers. <span class=\"news-reason\">Marketing action on a competing exotic fruit in Spain, a major origin for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892446/fare-conoscere-ai-consumatori-la-cherimoya-della-costa-tropical-di-granada-e-malaga/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">קמפיין קידום מכירות לאנונה הספרדית -- <span class=\"news-date\">24/11/2026 06:05</span></div><div class=\"news-body\">כינוי המקור המוגן (DOP) Chirimoya de la Costa Tropical de Granada-Málaga פותח בקמפיין קידום מכירות בחודשים נובמבר ודצמבר במדריד, ברצלונה וסביליה. היוזמה נועדה לקדם את האיכות ואת המקור המוגן של פרי אקזוטי זה בקרב הצרכנים הספרדים. <span class=\"news-reason\">פעילות שיווקית על פרי אקזוטי מתחרה בספרד, מקור מרכזי עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9892446/fare-conoscere-ai-consumatori-la-cherimoya-della-costa-tropical-di-granada-e-malaga/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -553,7 +641,7 @@
     {
       "id": "1795451732_3",
       "timestamp": "2026-11-23T16:35:32.775224+00:00",
-      "title": "Signes de reprise pour la grenade indienne malgré des enjeux de qualité",
+      "title": "Signes de reprise pour la grenade indienne malgré des défis de qualité",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Jessica"
@@ -562,7 +650,7 @@
       "origins": [
         "IND"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Signes de reprise pour la grenade indienne malgré des enjeux de qualité -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">Le marché indien de la grenade montre des signes de reprise en novembre avec une disponibilité accrue. Cependant, garantir une qualité suffisante pour l&#x27;exportation reste un défi majeur. La pression des maladies et des conditions météorologiques défavorables a impacté la qualité des fruits destinés aux marchés internationaux. <span class=\"news-reason\">Information sur la disponibilité et les problèmes de qualité d&#x27;une origine concurrente sur un produit en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Signes de reprise pour la grenade indienne malgré des défis de qualité -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">Le marché indien de la grenade montre des signes de reprise en novembre avec une disponibilité accrue. Cependant, garantir une qualité suffisante pour l&#x27;exportation reste un défi majeur. La pression des maladies et des conditions météorologiques défavorables a impacté la qualité des fruits destinés aux marchés internationaux. <span class=\"news-reason\">Information sur la disponibilité et les problèmes de qualité d&#x27;une origine concurrente sur un produit en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Signs of recovery for Indian pomegranate despite quality challenges -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">The Indian pomegranate market shows signs of recovery in November with increased availability. However, ensuring sufficient quality for export remains a major challenge. Disease pressure and unfavorable weather conditions have impacted the quality of fruit intended for international markets. <span class=\"news-reason\">Information on the availability and quality issues of a competing origin for a product in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סימני התאוששות עבור הרימון ההודי למרות אתגרי איכות -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">שוק הרימונים ההודי מראה סימני התאוששות בנובמבר עם זמינות מוגברת. עם זאת, הבטחת איכות מספקת לייצוא נותרת אתגר משמעותי. לחץ של מחלות ותנאי מזג אוויר קשים השפיע על איכות הפירות המיועדים לשווקים הבינלאומיים. <span class=\"news-reason\">מידע על הזמינות ובעיות האיכות של מקור מתחרה במוצר שנמצא בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- לקריאת המאמר</a></div></div>"
     },
@@ -895,7 +983,7 @@
     {
       "id": "1795424828_0",
       "timestamp": "2026-11-23T09:07:08.962048+00:00",
-      "title": "Westfalia Fruit nomme Carel van Krimpen à la direction de Greenpoint Trading",
+      "title": "Westfalia Fruit nomme Carel van Krimpen à la tête de Greenpoint Trading",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Ophélie"
@@ -904,7 +992,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Westfalia Fruit nomme Carel van Krimpen à la direction de Greenpoint Trading -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">Le groupe Westfalia Fruit a nommé Carel van Krimpen au poste de directeur général de Greenpoint Trading B.V. Fondateur de l&#x27;entreprise et de sa marque d&#x27;avocats Avojoy, il continuera à diriger l&#x27;entité de façon autonome. Greenpoint Trading est intégrée au groupe Westfalia depuis 2025. <span class=\"news-reason\">Nomination d&#x27;un dirigeant au sein du groupe Westfalia pour sa marque d&#x27;avocats, impactant la distribution en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895075/carel-van-krimpen-zum-direktor-von-greenpoint-trading-ernannt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Westfalia Fruit nomme Carel van Krimpen à la tête de Greenpoint Trading -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">Le groupe Westfalia Fruit a nommé Carel van Krimpen au poste de directeur général de Greenpoint Trading B.V. Fondateur de l&#x27;entreprise et de sa marque d&#x27;avocats Avojoy, il continuera à diriger l&#x27;entité de façon autonome. Greenpoint Trading est intégrée au groupe Westfalia depuis 2025. <span class=\"news-reason\">Nomination d&#x27;un dirigeant au sein du groupe Westfalia pour sa marque d&#x27;avocats, impactant la distribution en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895075/carel-van-krimpen-zum-direktor-von-greenpoint-trading-ernannt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">BANNER MOVEMENTS</div><div class=\"news-title\">Westfalia Fruit appoints Carel van Krimpen as head of Greenpoint Trading -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">The Westfalia Fruit group has appointed Carel van Krimpen to the position of managing director of Greenpoint Trading B.V. Founder of the company and its Avojoy avocado brand, he will continue to lead the entity independently. Greenpoint Trading has been integrated into the Westfalia group since 2025. <span class=\"news-reason\">Appointment of a leader within the Westfalia group for its avocado brand, impacting distribution in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895075/carel-van-krimpen-zum-direktor-von-greenpoint-trading-ernannt/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות מותגים</div><div class=\"news-title\">Westfalia Fruit ממנה את קארל ואן קרימפן להנהלת Greenpoint Trading -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">קבוצת Westfalia Fruit מינתה את קארל ואן קרימפן לתפקיד המנכ\"ל של Greenpoint Trading B.V. כמייסד החברה ומותג האבוקדו שלה Avojoy, הוא ימשיך להוביל את הישות באופן עצמאי. Greenpoint Trading משולבת בקבוצת Westfalia מאז 2025. <span class=\"news-reason\">מינוי מנהל בקבוצת Westfalia עבור מותג האבוקדו שלה, המשפיע על ההפצה באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895075/carel-van-krimpen-zum-direktor-von-greenpoint-trading-ernannt/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -1069,7 +1157,7 @@
     {
       "id": "1795413927_1",
       "timestamp": "2026-11-23T06:05:27.685167+00:00",
-      "title": "Acquisition d&#x27;une exploitation d&#x27;avocats au Portugal pour renforcer l&#x27;offre",
+      "title": "Acquisition d’une exploitation d’avocats au Portugal pour renforcer l’offre",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Ophélie"
@@ -1080,7 +1168,7 @@
       "origins": [
         "PRT"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Acquisition d&#x27;une exploitation d&#x27;avocats au Portugal pour renforcer l&#x27;offre -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">Le groupe Alcoaxarquía a acquis la propriété Citago en Algarve, au Portugal. Cette acquisition vise à sécuriser l&#x27;approvisionnement pour les mois de février et mars avec une production estimée à 1 000 tonnes d&#x27;avocats, principalement de la variété Hass, incluant également 3 % de variété Bacon. <span class=\"news-reason\">Expansion d&#x27;un concurrent (Alcoaxarquía) sur le segment avocat (Hass) avec des volumes précis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894243/acquisita-un-azienda-agricola-di-avocado-in-portogallo-per-rafforzare-le-forniture-di-febbraio-e-marzo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Acquisition d’une exploitation d’avocats au Portugal pour renforcer l’offre -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">Le groupe Alcoaxarquía a acquis la propriété Citago en Algarve, au Portugal. Cette acquisition vise à sécuriser l&#x27;approvisionnement pour les mois de février et mars avec une production estimée à 1 000 tonnes d&#x27;avocats, principalement de la variété Hass, incluant également 3 % de variété Bacon. <span class=\"news-reason\">Expansion d&#x27;un concurrent (Alcoaxarquía) sur le segment avocat (Hass) avec des volumes précis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894243/acquisita-un-azienda-agricola-di-avocado-in-portogallo-per-rafforzare-le-forniture-di-febbraio-e-marzo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Acquisition of an avocado farm in Portugal to strengthen supply -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">The Alcoaxarquía group has acquired the Citago property in Algarve, Portugal. This acquisition aims to secure supply for the months of February and March with an estimated production of 1,000 tonnes of avocados, mainly of the Hass variety, also including 3% of the Bacon variety. <span class=\"news-reason\">Expansion of a competitor (Alcoaxarquía) in the avocado segment (Hass) with specific volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894243/acquisita-un-azienda-agricola-di-avocado-in-portogallo-per-rafforzare-le-forniture-di-febbraio-e-marzo/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות</div><div class=\"news-title\">רכישת מטע אבוקדו בפורטוגל לחיזוק ההיצע -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">קבוצת אלקואקסארקיה רכשה את נחלת סיטאגו באלגרבה, פורטוגל. רכישה זו נועדה להבטיח את האספקה לחודשים פברואר ומרץ עם ייצור מוערך של 1,000 טונות אבוקדו, בעיקר מזן האס, הכולל גם 3% מזן בייקון. <span class=\"news-reason\">התרחבות של מתחרה (Alcoaxarquía) בסגמנט האבוקדו (האס) עם כמויות מדויקות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894243/acquisita-un-azienda-agricola-di-avocado-in-portogallo-per-rafforzare-le-forniture-di-febbraio-e-marzo/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
