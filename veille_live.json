@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-25T15:06:46.708014+00:00",
-  "article_count": 72,
+  "last_updated": "2026-11-25T16:37:30.147617+00:00",
+  "article_count": 75,
   "attention_points": [
     {
       "id": "attention-72c355b1798f4a60",
@@ -19,26 +19,24 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 0
+      "age_hours": 1
     },
     {
-      "id": "attention-9eef808f19721b85",
-      "article_id": "1795619206_6",
-      "url": "https://www.freshplaza.es/article/9896368/la-superficie-de-aguacate-en-la-comunitat-valenciana-se-multiplica-por-14-en-nueve-anos/",
-      "source": "FreshPlaza ES",
-      "title": "Superficie consacrée à la culture d'avocats à Valence",
-      "summary": "Les superficies allouées à cette culture connaissent une hausse globale extrêmement significative",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-11-25T15:42:00+01:00",
+      "id": "attention-69f57ec341aeda29",
+      "article_id": "1795624650_1",
+      "url": "https://www.fruchthandel.de/news/world-citrus-organisation-trotz-anhaltender-herausforderungen-staerkere-saison-erwartet",
+      "source": "Fruchthandel",
+      "title": "Prévisions à la hausse pour la récolte mondiale",
+      "summary": "La World Citrus Organisation prévoit une saison globale plus importante malgré des défis persistants.",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-11-25T14:58:17+00:00",
       "published_at_source": "rss",
       "signal_type": "availability",
       "signal_label": "Disponibilité",
       "icon": "availability",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 0
+      "products": [],
+      "age_hours": 1
     },
     {
       "id": "attention-d49cc54dfd801abf",
@@ -55,33 +53,80 @@
       "signal_label": "Volumes",
       "icon": "volume",
       "products": [],
-      "age_hours": 2
+      "age_hours": 3
     },
     {
-      "id": "attention-626aea4c91c433c8",
-      "article_id": "1795586785_1",
-      "url": "https://www.freshplaza.it/article/9894289/il-calo-del-potere-d-acquisto-sta-incidendo-sulle-vendite/",
-      "source": "FreshPlaza IT",
-      "title": "Transition variétale et érosion du pouvoir d'achat",
-      "summary": "Le marché des agrumes en Italie entame sa transition saisonnière avec l'introduction des clémentines.",
-      "origin_code": "ITA",
-      "origin_label": "Italie",
-      "published_at": "2026-11-25T06:05:00+01:00",
+      "id": "attention-63949abf1b8d7969",
+      "article_id": "1795602962_3",
+      "url": "https://www.freshplaza.de/article/9896043/neues-annahmezentrum-in-valencia-soll-avocado-erzeuger-besser-versorgen/",
+      "source": "FreshPlaza DE",
+      "title": "Un nouveau centre de réception pour avocats",
+      "summary": "Une nouvelle installation permet d'améliorer le service aux producteurs de la filière.",
+      "origin_code": "ESP",
+      "origin_label": "Espagne",
+      "published_at": "2026-11-25T10:04:00+01:00",
       "published_at_source": "rss",
       "signal_type": "information",
       "signal_label": "Information",
       "icon": "information",
       "products": [
-        "mandarine"
+        "avocat",
+        "orange"
       ],
-      "age_hours": 10
+      "age_hours": 7
     }
   ],
   "articles": [
     {
+      "id": "1795624650_6",
+      "timestamp": "2026-11-25T16:37:30.147617+00:00",
+      "title": "Modernisation de la lutte contre le verdissement des agrumes aux États-Unis -- 25/11/2026 13:28",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Modernisation de la lutte contre le verdissement des agrumes aux États-Unis -- <span class=\"news-date\">25/11/2026 13:28</span></div><div class=\"news-body\">Des scientifiques américains améliorent une plateforme de données pour coordonner la gestion du verdissement des agrumes (HLB). Cette initiative est cruciale pour sauvegarder l&#x27;industrie nationale des agrumes face à cette maladie dévastatrice. <span class=\"news-reason\">Développement technologique pour protéger la production d&#x27;agrumes contre une maladie majeure menaçant l&#x27;offre.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9896169/u-s-researchers-upgrade-platform-to-combat-citrus-greening-disease/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Modernization of the fight against citrus greening in the United States -- <span class=\"news-date\">25/11/2026 13:28</span></div><div class=\"news-body\">American scientists are improving a data platform to coordinate the management of citrus greening (HLB). This initiative is crucial to safeguarding the national citrus industry in the face of this devastating disease. <span class=\"news-reason\">Technological development to protect citrus production against a major disease threatening supply.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9896169/u-s-researchers-upgrade-platform-to-combat-citrus-greening-disease/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">מודרניזציה של המאבק במחלת ה-HLB (התיירוק הדרים) בארצות הברית -- <span class=\"news-date\">25/11/2026 13:28</span></div><div class=\"news-body\">מדענים אמריקאים משפרים פלטפורמת נתונים לתיאום הטיפול במחלת ה-HLB (התיירוק הדרים). יוזמה זו חיונית להגנה על תעשיית ההדרים הלאומית מפני מחלה הרסנית זו. <span class=\"news-reason\">פיתוח טכנולוגי להגנה על ייצור ההדרים מפני מחלה משמעותית המאיימת על ההיצע.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9896169/u-s-researchers-upgrade-platform-to-combat-citrus-greening-disease/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795624650_5",
+      "timestamp": "2026-11-25T16:37:30.147617+00:00",
+      "title": "La grenade, une culture alternative face à la sécheresse en Californie -- 25/11/2026 13:28",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [
+        "pomegranate"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">La grenade, une culture alternative face à la sécheresse en Californie -- <span class=\"news-date\">25/11/2026 13:28</span></div><div class=\"news-body\">En Californie, la culture de la grenade se présente comme une alternative viable pour les agriculteurs de la Central Valley confrontés aux pénuries d&#x27;eau. Cet arbre tolère bien la sécheresse ainsi que la salinité élevée des sols. <span class=\"news-reason\">Expansion de la culture de grenades dans une zone concurrente en raison de sa résistance à la sécheresse.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9896168/pomegranates-offer-california-growers-a-drought-tolerant-crop-alternative/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Pomegranate, an alternative crop in the face of drought in California -- <span class=\"news-date\">25/11/2026 13:28</span></div><div class=\"news-body\">In California, pomegranate cultivation presents itself as a viable alternative for Central Valley farmers facing water shortages. This tree tolerates drought well as well as high soil salinity. <span class=\"news-reason\">Expansion of pomegranate cultivation in a competing area due to its drought resistance.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9896168/pomegranates-offer-california-growers-a-drought-tolerant-crop-alternative/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">הרימון, גידול חלופי אל מול הבצורת בקליפורניה -- <span class=\"news-date\">25/11/2026 13:28</span></div><div class=\"news-body\">בקליפורניה, גידול הרימון מוצג כחלופה בת-קיימא עבור חקלאי העמק המרכזי המתמודדים עם מחסור במים. עץ זה עמיד היטב לבצורת וכן למליחות גבוהה של הקרקע. <span class=\"news-reason\">התרחבות גידול הרימונים באזור מתחרה בשל עמידותם לבצורת.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9896168/pomegranates-offer-california-growers-a-drought-tolerant-crop-alternative/\" target=\"_blank\">FreshPlaza -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795624650_1",
+      "timestamp": "2026-11-25T16:37:30.147617+00:00",
+      "title": "Prévisions à la hausse pour la récolte mondiale d&#x27;agrumes -- 25/11/2026 14:58",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Prévisions à la hausse pour la récolte mondiale d&#x27;agrumes -- <span class=\"news-date\">25/11/2026 14:58</span></div><div class=\"news-body\">La World Citrus Organisation prévoit une saison globale plus importante malgré des défis persistants. Les prévisions indiquent une récolte en croissance à l&#x27;échelle mondiale, bien que les résultats varient significativement selon les pays en fonction des conditions climatiques et des capacités de production spécifiques à chaque région productrice. <span class=\"news-reason\">Perspectives globales de production pour la saison des agrumes par la WCO</span></div><div class=\"news-source\"><a href=\"https://www.fruchthandel.de/news/world-citrus-organisation-trotz-anhaltender-herausforderungen-staerkere-saison-erwartet\" target=\"_blank\">Fruchthandel -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Upward forecast for global citrus harvest -- <span class=\"news-date\">25/11/2026 14:58</span></div><div class=\"news-body\">The World Citrus Organization predicts a larger overall season despite ongoing challenges. Forecasts indicate a growing harvest globally, although results vary significantly by country depending on weather conditions and specific production capacities in each producing region. <span class=\"news-reason\">Global production outlook for the citrus season by the WCO</span></div><div class=\"news-source\"><a href=\"https://www.fruchthandel.de/news/world-citrus-organisation-trotz-anhaltender-herausforderungen-staerkere-saison-erwartet\" target=\"_blank\">Fruchthandel -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\" dir=\"rtl\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">תחזיות לעלייה ביבול ההדרים העולמי -- <span class=\"news-date\">25/11/2026 14:58</span></div><div class=\"news-body\">ארגון ההדרים העולמי צופה עונה גלובלית גדולה יותר למרות אתגרים מתמשכים. התחזיות מצביעות על יבול בסימן צמיחה בקנה מידה עולמי, אם כי התוצאות משתנות באופן משמעותי בין המדינות בהתאם לתנאי האקלים ויכולות הייצור הייחודיות לכל אזור גידול. <span class=\"news-reason\">תחזיות ייצור עולמיות לעונת ההדרים של ה-WCO</span></div><div class=\"news-source\"><a href=\"https://www.fruchthandel.de/news/world-citrus-organisation-trotz-anhaltender-herausforderungen-staerkere-saison-erwartet\" target=\"_blank\">Fruchthandel -- לקריאת הכתבה</a></div></div>"
+    },
+    {
       "id": "1795619206_6",
       "timestamp": "2026-11-25T15:06:46.708014+00:00",
-      "title": "La superficie consacrée à la culture d&#x27;avocats à Valence multipliée par quatorze en neuf ans",
+      "title": "La superficie consacrée à la culture de l&#x27;avocat à Valence multipliée par quatorze en neuf ans",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -92,7 +137,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La superficie consacrée à la culture d&#x27;avocats à Valence multipliée par quatorze en neuf ans -- <span class=\"news-date\">25/11/2026 15:42</span></div><div class=\"news-body\">Dans la Communauté de Valence, les surfaces dédiées à l&#x27;avocat sont passées de 279 hectares en 2016 à 3 855 hectares en 2025. La production régionale atteint désormais 32 382 tonnes, ce qui représente 22,5 % du volume total produit en Espagne. <span class=\"news-reason\">Données chiffrées précises sur l&#x27;évolution des surfaces de culture et des volumes de production d&#x27;avocats en Espagne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9896368/la-superficie-de-aguacate-en-la-comunitat-valenciana-se-multiplica-por-14-en-nueve-anos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La superficie consacrée à la culture de l&#x27;avocat à Valence multipliée par quatorze en neuf ans -- <span class=\"news-date\">25/11/2026 15:42</span></div><div class=\"news-body\">Dans la Communauté de Valence, les surfaces dédiées à l&#x27;avocat sont passées de 279 hectares en 2016 à 3 855 hectares en 2025. La production régionale atteint désormais 32 382 tonnes, ce qui représente 22,5 % du volume total produit en Espagne. <span class=\"news-reason\">Données chiffrées précises sur l&#x27;évolution des surfaces de culture et des volumes de production d&#x27;avocats en Espagne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9896368/la-superficie-de-aguacate-en-la-comunitat-valenciana-se-multiplica-por-14-en-nueve-anos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Avocado cultivation area in Valencia multiplied by fourteen in nine years -- <span class=\"news-date\">25/11/2026 15:42</span></div><div class=\"news-body\">In the Valencian Community, areas dedicated to avocados increased from 279 hectares in 2016 to 3,855 hectares in 2025. Regional production now reaches 32,382 tons, representing 22.5% of the total volume produced in Spain. <span class=\"news-reason\">Precise numerical data on the evolution of cultivation areas and avocado production volumes in Spain.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9896368/la-superficie-de-aguacate-en-la-comunitat-valenciana-se-multiplica-por-14-en-nueve-anos/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">שטח גידול האבוקדו בוולנסיה גדל פי 14 בתשע שנים -- <span class=\"news-date\">25/11/2026 15:42</span></div><div class=\"news-body\">בקהילת ולנסיה, השטחים המוקדשים לאבוקדו גדלו מ-279 הקטר ב-2016 ל-3,855 הקטר ב-2025. הייצור האזורי מגיע כעת ל-32,382 טון, המהווים 22.5% מכלל הנפח המיוצר בספרד. <span class=\"news-reason\">נתונים מספריים מדויקים על התפתחות שטחי הגידול וכמויות הייצור של אבוקדו בספרד.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9896368/la-superficie-de-aguacate-en-la-comunitat-valenciana-se-multiplica-por-14-en-nueve-anos/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -542,7 +587,7 @@
     {
       "id": "1795532926_0",
       "timestamp": "2026-11-24T15:08:46.684132+00:00",
-      "title": "Lancement de la campagne espagnole de l&#x27;avocat Hass sous influence israélienne",
+      "title": "Lancement de la campagne espagnole de l&#x27;avocat Hass sous l&#x27;influence d&#x27;Israël",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -554,7 +599,7 @@
         "ESP",
         "ISR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne espagnole de l&#x27;avocat Hass sous influence israélienne -- <span class=\"news-date\">24/11/2026 15:48</span></div><div class=\"news-body\">La campagne espagnole d&#x27;avocats débute avec la variété Hass après la fin des variétés à peau verte. Juan Antonio Reyes Gutiérrez indique que la concurrence et les volumes provenant d&#x27;Israël seront des facteurs déterminants pour l&#x27;évolution des prix et de l&#x27;offre sur le marché européen cette saison. <span class=\"news-reason\">L&#x27;article traite du démarrage de la saison de l&#x27;avocat Hass en Espagne et mentionne l&#x27;influence directe de l&#x27;offre israélienne sur le marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895971/el-aguacate-hass-espanol-arranca-con-buenas-perspectivas-comerciales-aunque-israel-marcara-la-campana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne espagnole de l&#x27;avocat Hass sous l&#x27;influence d&#x27;Israël -- <span class=\"news-date\">24/11/2026 15:48</span></div><div class=\"news-body\">La campagne espagnole d&#x27;avocats débute avec la variété Hass après la fin des variétés à peau verte. Juan Antonio Reyes Gutiérrez indique que la concurrence et les volumes provenant d&#x27;Israël seront des facteurs déterminants pour l&#x27;évolution des prix et de l&#x27;offre sur le marché européen cette saison. <span class=\"news-reason\">L&#x27;article traite du démarrage de la saison de l&#x27;avocat Hass en Espagne et mentionne l&#x27;influence directe de l&#x27;offre israélienne sur le marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895971/el-aguacate-hass-espanol-arranca-con-buenas-perspectivas-comerciales-aunque-israel-marcara-la-campana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Launch of the Spanish Hass avocado campaign under Israeli influence -- <span class=\"news-date\">24/11/2026 15:48</span></div><div class=\"news-body\">The Spanish avocado campaign begins with the Hass variety following the end of the green-skin varieties. Juan Antonio Reyes Gutiérrez indicates that competition and volumes from Israel will be determining factors for the evolution of prices and supply on the European market this season. <span class=\"news-reason\">The article discusses the start of the Hass avocado season in Spain and mentions the direct influence of Israeli supply on the market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895971/el-aguacate-hass-espanol-arranca-con-buenas-perspectivas-comerciales-aunque-israel-marcara-la-campana/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השקת עונת אבוקדו ההאס הספרדי תחת השפעה ישראלית -- <span class=\"news-date\">24/11/2026 15:48</span></div><div class=\"news-body\">עונת האבוקדו הספרדית מתחילה עם זן ההאס לאחר סיום זני הקליפה הירוקה. חואן אנטוניו רייס גוטיירס מציין כי התחרות והכמויות המגיעות מישראל יהיו גורמים מכריעים בהתפתחות המחירים וההיצע בשוק האירופי העונה. <span class=\"news-reason\">הכתבה עוסקת בתחילת עונת אבוקדו ההאס בספרד ומציינת את ההשפעה הישירה של ההיצע הישראלי על השוק.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895971/el-aguacate-hass-espanol-arranca-con-buenas-perspectivas-comerciales-aunque-israel-marcara-la-campana/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -713,14 +758,14 @@
     {
       "id": "1795500300_1",
       "timestamp": "2026-11-24T06:05:00.089487+00:00",
-      "title": "Baisse de 15 % des exportations brésiliennes de papaye en octobre",
+      "title": "Les exportations brésiliennes de papaye en recul de 15 % en octobre",
       "category": "PRIX &amp VOLUMES",
       "commercials": [],
       "products": [
         "papaya"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse de 15 % des exportations brésiliennes de papaye en octobre -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">En octobre 2026, les exportations brésiliennes de papaye ont chuté de 15 % par rapport à l&#x27;année précédente, totalisant un peu plus de 4 000 tonnes. Les revenus d&#x27;exportation FOB se sont élevés à environ 6 millions de dollars. Ce ralentissement pourrait être lié à des facteurs logistiques ou de production locale affectant les flux vers les marchés internationaux. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur les volumes et revenus d&#x27;exportation d&#x27;un produit exotique Mehadrin depuis une origine clé.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895085/las-exportaciones-brasilenas-de-papaya-caen-un-15-en-octubre/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les exportations brésiliennes de papaye en recul de 15 % en octobre -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">En octobre 2026, les exportations brésiliennes de papaye ont chuté de 15 % par rapport à l&#x27;année précédente, totalisant un peu plus de 4 000 tonnes. Les revenus d&#x27;exportation FOB se sont élevés à environ 6 millions de dollars. Ce ralentissement pourrait être lié à des facteurs logistiques ou de production locale affectant les flux vers les marchés internationaux. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur les volumes et revenus d&#x27;exportation d&#x27;un produit exotique Mehadrin depuis une origine clé.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895085/las-exportaciones-brasilenas-de-papaya-caen-un-15-en-octubre/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">15% drop in Brazilian papaya exports in October -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">In October 2026, Brazilian papaya exports fell by 15% compared to the previous year, totaling just over 4,000 tons. FOB export revenues amounted to approximately 6 million dollars. This slowdown could be linked to logistical or local production factors affecting flows to international markets. <span class=\"news-reason\">The article provides precise figures on the export volumes and revenues of a Mehadrin exotic product from a key origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895085/las-exportaciones-brasilenas-de-papaya-caen-un-15-en-octubre/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 15% בייצוא הפפאיה מברזיל באוקטובר -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">באוקטובר 2026, ייצוא הפפאיה מברזיל צנח ב-15% בהשוואה לשנה הקודמת, והסתכם בקצת יותר מ-4,000 טונות. הכנסות הייצוא (FOB) עמדו על כ-6 מיליון דולר. האטה זו עשויה להיות קשורה לגורמים לוגיסטיים או לייצור מקומי המשפיעים על הזרימה לשווקים הבינלאומיים. <span class=\"news-reason\">הכתבה מספקת נתונים מדויקים על כמויות והכנסות מייצוא של מוצר אקזוטי של מהדרין ממקור מפתח.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895085/las-exportaciones-brasilenas-de-papaya-caen-un-15-en-octubre/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -775,7 +820,7 @@
     {
       "id": "1795451732_3",
       "timestamp": "2026-11-23T16:35:32.775224+00:00",
-      "title": "Signes de reprise pour la grenade indienne malgré des enjeux de qualité",
+      "title": "Signes de reprise pour la grenade indienne malgré des défis qualitatifs",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Jessica"
@@ -784,7 +829,7 @@
       "origins": [
         "IND"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Signes de reprise pour la grenade indienne malgré des enjeux de qualité -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">Le marché indien de la grenade montre des signes de reprise en novembre avec une disponibilité accrue. Cependant, garantir une qualité suffisante pour l&#x27;exportation reste un défi majeur. La pression des maladies et des conditions météorologiques défavorables a impacté la qualité des fruits destinés aux marchés internationaux. <span class=\"news-reason\">Information sur la disponibilité et les problèmes de qualité d&#x27;une origine concurrente sur un produit en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Signes de reprise pour la grenade indienne malgré des défis qualitatifs -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">Le marché indien de la grenade montre des signes de reprise en novembre avec une disponibilité accrue. Cependant, garantir une qualité suffisante pour l&#x27;exportation reste un défi majeur. La pression des maladies et des conditions météorologiques défavorables a impacté la qualité des fruits destinés aux marchés internationaux. <span class=\"news-reason\">Information sur la disponibilité et les problèmes de qualité d&#x27;une origine concurrente sur un produit en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Signs of recovery for Indian pomegranate despite quality challenges -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">The Indian pomegranate market shows signs of recovery in November with increased availability. However, ensuring sufficient quality for export remains a major challenge. Disease pressure and unfavorable weather conditions have impacted the quality of fruit intended for international markets. <span class=\"news-reason\">Information on the availability and quality issues of a competing origin for a product in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סימני התאוששות עבור הרימון ההודי למרות אתגרי איכות -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">שוק הרימונים ההודי מראה סימני התאוששות בנובמבר עם זמינות מוגברת. עם זאת, הבטחת איכות מספקת לייצוא נותרת אתגר משמעותי. לחץ של מחלות ותנאי מזג אוויר קשים השפיע על איכות הפירות המיועדים לשווקים הבינלאומיים. <span class=\"news-reason\">מידע על הזמינות ובעיות האיכות של מקור מתחרה במוצר שנמצא בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- לקריאת המאמר</a></div></div>"
     },
@@ -844,7 +889,7 @@
     {
       "id": "1795446339_5",
       "timestamp": "2026-11-23T15:05:39.868646+00:00",
-      "title": "Les exportateurs péruviens anticipent un repli des volumes de mangues",
+      "title": "Pérou : les exportateurs anticipent un recul des volumes de mangues",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -856,7 +901,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Les exportateurs péruviens anticipent un repli des volumes de mangues -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">La campagne de mangues au Pérou s&#x27;annonce complexe avec une offre réduite et un calendrier d&#x27;exportation décalé par rapport aux saisons normales. Joseph Navarro, directeur de l&#x27;entreprise Masojo, confirme que ces volumes inférieurs influenceront la disponibilité sur le marché, alors que le secteur du gingembre subit parallèlement une baisse de prix. <span class=\"news-reason\">L&#x27;article traite d&#x27;une baisse de production et d&#x27;un changement de calendrier pour la mangue, un produit Mehadrin, sur une origine concurrente majeure (Pérou).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893377/gli-esportatori-peruviani-prevedono-volumi-di-mango-inferiori-e-ricavi-piu-bassi-per-lo-zenzero/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pérou : les exportateurs anticipent un recul des volumes de mangues -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">La campagne de mangues au Pérou s&#x27;annonce complexe avec une offre réduite et un calendrier d&#x27;exportation décalé par rapport aux saisons normales. Joseph Navarro, directeur de l&#x27;entreprise Masojo, confirme que ces volumes inférieurs influenceront la disponibilité sur le marché, alors que le secteur du gingembre subit parallèlement une baisse de prix. <span class=\"news-reason\">L&#x27;article traite d&#x27;une baisse de production et d&#x27;un changement de calendrier pour la mangue, un produit Mehadrin, sur une origine concurrente majeure (Pérou).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893377/gli-esportatori-peruviani-prevedono-volumi-di-mango-inferiori-e-ricavi-piu-bassi-per-lo-zenzero/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Peruvian exporters anticipate a drop in mango volumes -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">The mango campaign in Peru looks to be complex with reduced supply and an export schedule shifted compared to normal seasons. Joseph Navarro, director of the company Masojo, confirms that these lower volumes will influence market availability, while the ginger sector is simultaneously experiencing a price drop. <span class=\"news-reason\">The article addresses a production decrease and a schedule change for mango, a Mehadrin product, from a major competing origin (Peru).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893377/gli-esportatori-peruviani-prevedono-volumi-di-mango-inferiori-e-ricavi-piu-bassi-per-lo-zenzero/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">היצואנים הפרואנים צופים ירידה בכמויות המנגו -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">עונת המנגו בפרו צפויה להיות מורכבת עם היצע מצומצם ולוח זמני ייצוא דחוי בהשוואה לעונות רגילות. ג'וזף נאבארו, מנהל חברת Masojo, מאשר כי כמויות נמוכות אלו ישפיעו על הזמינות בשוק, בעוד שמגזר הג'ינג'ר חווה במקביל ירידת מחירים. <span class=\"news-reason\">המאמר עוסק בירידה בייצור ובשינוי בלוח הזמנים של המנגו, מוצר של מהדרין, במקור מתחרה מרכזי (פרו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893377/gli-esportatori-peruviani-prevedono-volumi-di-mango-inferiori-e-ricavi-piu-bassi-per-lo-zenzero/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -1133,7 +1178,7 @@
     {
       "id": "1795419312_3",
       "timestamp": "2026-11-23T07:35:12.445822+00:00",
-      "title": "Expansion de la gamme d&#x27;avocats et d&#x27;agrumes biologiques siciliens en grande distribution",
+      "title": "Élargissement de la gamme d&#x27;avocats et d&#x27;agrumes biologiques siciliens en grande distribution",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Nadia",
@@ -1146,7 +1191,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Expansion de la gamme d&#x27;avocats et d&#x27;agrumes biologiques siciliens en grande distribution -- <span class=\"news-date\">20/11/2026 10:40</span></div><div class=\"news-body\">La marque biologique Brio enregistre une croissance en Sicile portée par des petites et moyennes exploitations agricoles. Les avocats et les oranges renforcent leur présence sur les étals des supermarchés locaux et nationaux, comme souligné lors de l&#x27;événement Bio in Brio. <span class=\"news-reason\">L&#x27;article traite de l&#x27;expansion commerciale des avocats et agrumes (oranges) en Sicile, produits et origine clés.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894235/bio-avocados-und-zitrusfruchte-aus-sizilien-gewinnen-in-den-supermarktregalen-an-bedeutung/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Élargissement de la gamme d&#x27;avocats et d&#x27;agrumes biologiques siciliens en grande distribution -- <span class=\"news-date\">20/11/2026 10:40</span></div><div class=\"news-body\">La marque biologique Brio enregistre une croissance en Sicile portée par des petites et moyennes exploitations agricoles. Les avocats et les oranges renforcent leur présence sur les étals des supermarchés locaux et nationaux, comme souligné lors de l&#x27;événement Bio in Brio. <span class=\"news-reason\">L&#x27;article traite de l&#x27;expansion commerciale des avocats et agrumes (oranges) en Sicile, produits et origine clés.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894235/bio-avocados-und-zitrusfruchte-aus-sizilien-gewinnen-in-den-supermarktregalen-an-bedeutung/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Growth of organic Sicilian avocados and citrus in retail -- <span class=\"news-date\">20/11/2026 10:40</span></div><div class=\"news-body\">The organic brand Brio is recording growth in Sicily driven by small and medium-sized agricultural holdings. Avocados and oranges are strengthening their presence on local and national supermarket shelves, as highlighted during the Bio in Brio event. <span class=\"news-reason\">The article discusses the commercial expansion of avocados and citrus (oranges) in Sicily, key products and origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894235/bio-avocados-und-zitrusfruchte-aus-sizilien-gewinnen-in-den-supermarktregalen-an-bedeutung/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות רשתות שיווק</div><div class=\"news-title\">צמיחה במכירות אבוקדו ופירות הדר אורגניים מסיציליה ברשתות השיווק -- <span class=\"news-date\">20/11/2026 10:40</span></div><div class=\"news-body\">המותג האורגני Brio רושם צמיחה בסיציליה המונעת על ידי משקים חקלאיים קטנים ובינוניים. האבוקדו והתפוזים מחזקים את נוכחותם על המדפים בסופרמרקטים המקומיים והארציים, כפי שהודגש במהלך אירוע Bio in Brio. <span class=\"news-reason\">המאמר עוסק בהתרחבות המסחרית של אבוקדו ופירות הדר (תפוזים) בסיציליה, מוצרי מפתח ומקור מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894235/bio-avocados-und-zitrusfruchte-aus-sizilien-gewinnen-in-den-supermarktregalen-an-bedeutung/\" target=\"_blank\">FreshPlaza DE -- לקריאת המאמר</a></div></div>"
     },
@@ -1291,7 +1336,7 @@
     {
       "id": "1795413927_1",
       "timestamp": "2026-11-23T06:05:27.685167+00:00",
-      "title": "Acquisition d’une exploitation d’avocats au Portugal pour renforcer l’offre",
+      "title": "Acquisition d&#x27;une exploitation d&#x27;avocats au Portugal pour renforcer l&#x27;offre",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Ophélie"
@@ -1302,7 +1347,7 @@
       "origins": [
         "PRT"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Acquisition d’une exploitation d’avocats au Portugal pour renforcer l’offre -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">Le groupe Alcoaxarquía a acquis la propriété Citago en Algarve, au Portugal. Cette acquisition vise à sécuriser l&#x27;approvisionnement pour les mois de février et mars avec une production estimée à 1 000 tonnes d&#x27;avocats, principalement de la variété Hass, incluant également 3 % de variété Bacon. <span class=\"news-reason\">Expansion d&#x27;un concurrent (Alcoaxarquía) sur le segment avocat (Hass) avec des volumes précis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894243/acquisita-un-azienda-agricola-di-avocado-in-portogallo-per-rafforzare-le-forniture-di-febbraio-e-marzo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Acquisition d&#x27;une exploitation d&#x27;avocats au Portugal pour renforcer l&#x27;offre -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">Le groupe Alcoaxarquía a acquis la propriété Citago en Algarve, au Portugal. Cette acquisition vise à sécuriser l&#x27;approvisionnement pour les mois de février et mars avec une production estimée à 1 000 tonnes d&#x27;avocats, principalement de la variété Hass, incluant également 3 % de variété Bacon. <span class=\"news-reason\">Expansion d&#x27;un concurrent (Alcoaxarquía) sur le segment avocat (Hass) avec des volumes précis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894243/acquisita-un-azienda-agricola-di-avocado-in-portogallo-per-rafforzare-le-forniture-di-febbraio-e-marzo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Acquisition of an avocado farm in Portugal to strengthen supply -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">The Alcoaxarquía group has acquired the Citago property in Algarve, Portugal. This acquisition aims to secure supply for the months of February and March with an estimated production of 1,000 tonnes of avocados, mainly of the Hass variety, also including 3% of the Bacon variety. <span class=\"news-reason\">Expansion of a competitor (Alcoaxarquía) in the avocado segment (Hass) with specific volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894243/acquisita-un-azienda-agricola-di-avocado-in-portogallo-per-rafforzare-le-forniture-di-febbraio-e-marzo/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות</div><div class=\"news-title\">רכישת מטע אבוקדו בפורטוגל לחיזוק ההיצע -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">קבוצת אלקואקסארקיה רכשה את נחלת סיטאגו באלגרבה, פורטוגל. רכישה זו נועדה להבטיח את האספקה לחודשים פברואר ומרץ עם ייצור מוערך של 1,000 טונות אבוקדו, בעיקר מזן האס, הכולל גם 3% מזן בייקון. <span class=\"news-reason\">התרחבות של מתחרה (Alcoaxarquía) בסגמנט האבוקדו (האס) עם כמויות מדויקות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894243/acquisita-un-azienda-agricola-di-avocado-in-portogallo-per-rafforzare-le-forniture-di-febbraio-e-marzo/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
