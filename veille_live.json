@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-25T18:08:07.294483+00:00",
-  "article_count": 75,
+  "last_updated": "2026-11-25T19:36:56.403930+00:00",
+  "article_count": 77,
   "attention_points": [
     {
       "id": "attention-72c355b1798f4a60",
@@ -19,7 +19,7 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 3
+      "age_hours": 4
     },
     {
       "id": "attention-69f57ec341aeda29",
@@ -36,7 +36,7 @@
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [],
-      "age_hours": 3
+      "age_hours": 4
     },
     {
       "id": "attention-d49cc54dfd801abf",
@@ -53,7 +53,7 @@
       "signal_label": "Volumes",
       "icon": "volume",
       "products": [],
-      "age_hours": 5
+      "age_hours": 6
     },
     {
       "id": "attention-63949abf1b8d7969",
@@ -73,10 +73,42 @@
         "avocat",
         "orange"
       ],
-      "age_hours": 9
+      "age_hours": 10
     }
   ],
   "articles": [
+    {
+      "id": "1795635416_4",
+      "timestamp": "2026-11-25T19:36:56.403930+00:00",
+      "title": "Caroline du Nord : retards de récolte et aléas climatiques pour la patate douce -- 25/11/2026 15:42",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "sweet_potato"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Caroline du Nord : retards de récolte et aléas climatiques pour la patate douce -- <span class=\"news-date\">25/11/2026 15:42</span></div><div class=\"news-body\">Les producteurs de Caroline du Nord terminent leur récolte de patates douces avec un retard significatif par rapport à une saison normale. Ce décalage s&#x27;explique par des difficultés techniques et climatiques rencontrées lors des phases de plantation et de transplantation des plants plus tôt dans l&#x27;année. <span class=\"news-reason\">L&#x27;article concerne la patate douce, produit Mehadrin, et signale un retard de récolte impactant l&#x27;offre mondiale et la concurrence sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895564/los-productores-de-batata-de-carolina-del-norte-atraviesan-una-temporada-de-cambios/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">North Carolina: harvest delays and climatic hazards for sweet potatoes -- <span class=\"news-date\">25/11/2026 15:42</span></div><div class=\"news-body\">North Carolina growers are finishing their sweet potato harvest with a significant delay compared to a normal season. This shift is due to technical and climatic difficulties encountered during the planting and transplanting phases earlier in the year. <span class=\"news-reason\">The article concerns sweet potatoes, a Mehadrin product, and reports a harvest delay impacting global supply and competition in the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895564/los-productores-de-batata-de-carolina-del-norte-atraviesan-una-temporada-de-cambios/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">צפון קרוליינה: עיכובים בקציר ותהפוכות אקלימיות עבור בטטה -- <span class=\"news-date\">25/11/2026 15:42</span></div><div class=\"news-body\">מגדלים בצפון קרוליינה מסיימים את קציר הבטטות בעיכוב משמעותי לעומת עונה רגילה. עיכוב זה מוסבר בקשיים טכניים ואקלימיים שנתקלו בהם בשלבי השתילה וההעתקה של השתילים מוקדם יותר השנה. <span class=\"news-reason\">הכתבה עוסקת בבטטה, מוצר מהדרין, ומדווחת על עיכוב בקציר המשפיע על ההיצע העולמי והתחרות בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895564/los-productores-de-batata-de-carolina-del-norte-atraviesan-una-temporada-de-cambios/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795635416_2",
+      "timestamp": "2026-11-25T19:36:56.403930+00:00",
+      "title": "Promotion du chirimoya de la Costa Tropical sur les marchés espagnols -- 25/11/2026 13:08",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Jessica"
+      ],
+      "products": [],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Promotion du chirimoya de la Costa Tropical sur les marchés espagnols -- <span class=\"news-date\">25/11/2026 13:08</span></div><div class=\"news-body\">L&#x27;AOP Chirimoya de la Costa Tropical de Grenade-Málaga lance une campagne promotionnelle en novembre et décembre. L&#x27;action cible les marchés municipaux de Madrid, Barcelone et Séville pour valoriser l&#x27;onctuosité et l&#x27;origine du fruit. <span class=\"news-reason\">Information sur une campagne de promotion pour un fruit exotique en Espagne (origine et marché Mehadrin).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9892448/une-campagne-de-promotion-pour-le-chirimoya-de-la-costa-tropical-de-granada-malaga/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Promotion of Costa Tropical cherimoya on Spanish markets -- <span class=\"news-date\">25/11/2026 13:08</span></div><div class=\"news-body\">The Costa Tropical of Granada-Málaga Cherimoya PDO is launching a promotional campaign in November and December. The action targets municipal markets in Madrid, Barcelona, and Seville to highlight the fruit's creaminess and origin. <span class=\"news-reason\">Information on a promotional campaign for an exotic fruit in Spain (Mehadrin origin and market).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9892448/une-campagne-de-promotion-pour-le-chirimoya-de-la-costa-tropical-de-granada-malaga/\" target=\"_blank\">FreshPlaza FR -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">קידום פרי הצ'ירימויה מהקוסטה טרופיקל בשווקים הספרדיים -- <span class=\"news-date\">25/11/2026 13:08</span></div><div class=\"news-body\">ה-AOP צ'ירימויה מהקוסטה טרופיקל של גרנדה-מלאגה משיק קמפיין קידום מכירות בנובמבר ודצמבר. הפעילות מכוונת לשווקים העירוניים של מדריד, ברצלונה וסביליה כדי להדגיש את המרקם הקרמי ואת מקור הפרי. <span class=\"news-reason\">מידע על קמפיין קידום לפרי אקזוטי בספרד (מקור ושוק מהדרין).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9892448/une-campagne-de-promotion-pour-le-chirimoya-de-la-costa-tropical-de-granada-malaga/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1795624650_6",
       "timestamp": "2026-11-25T16:37:30.147617+00:00",
@@ -126,7 +158,7 @@
     {
       "id": "1795619206_6",
       "timestamp": "2026-11-25T15:06:46.708014+00:00",
-      "title": "La superficie consacrée à la culture de l&#x27;avocat à Valence multipliée par quatorze en neuf ans",
+      "title": "La superficie de culture de l&#x27;avocat à Valence multipliée par quatorze en neuf ans",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -137,7 +169,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La superficie consacrée à la culture de l&#x27;avocat à Valence multipliée par quatorze en neuf ans -- <span class=\"news-date\">25/11/2026 15:42</span></div><div class=\"news-body\">Dans la Communauté de Valence, les surfaces dédiées à l&#x27;avocat sont passées de 279 hectares en 2016 à 3 855 hectares en 2025. La production régionale atteint désormais 32 382 tonnes, ce qui représente 22,5 % du volume total produit en Espagne. <span class=\"news-reason\">Données chiffrées précises sur l&#x27;évolution des surfaces de culture et des volumes de production d&#x27;avocats en Espagne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9896368/la-superficie-de-aguacate-en-la-comunitat-valenciana-se-multiplica-por-14-en-nueve-anos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">La superficie de culture de l&#x27;avocat à Valence multipliée par quatorze en neuf ans -- <span class=\"news-date\">25/11/2026 15:42</span></div><div class=\"news-body\">Dans la Communauté de Valence, les surfaces dédiées à l&#x27;avocat sont passées de 279 hectares en 2016 à 3 855 hectares en 2025. La production régionale atteint désormais 32 382 tonnes, ce qui représente 22,5 % du volume total produit en Espagne. <span class=\"news-reason\">Données chiffrées précises sur l&#x27;évolution des surfaces de culture et des volumes de production d&#x27;avocats en Espagne.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9896368/la-superficie-de-aguacate-en-la-comunitat-valenciana-se-multiplica-por-14-en-nueve-anos/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Avocado cultivation area in Valencia multiplied by fourteen in nine years -- <span class=\"news-date\">25/11/2026 15:42</span></div><div class=\"news-body\">In the Valencian Community, areas dedicated to avocados increased from 279 hectares in 2016 to 3,855 hectares in 2025. Regional production now reaches 32,382 tons, representing 22.5% of the total volume produced in Spain. <span class=\"news-reason\">Precise numerical data on the evolution of cultivation areas and avocado production volumes in Spain.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9896368/la-superficie-de-aguacate-en-la-comunitat-valenciana-se-multiplica-por-14-en-nueve-anos/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">שטח גידול האבוקדו בוולנסיה גדל פי 14 בתשע שנים -- <span class=\"news-date\">25/11/2026 15:42</span></div><div class=\"news-body\">בקהילת ולנסיה, השטחים המוקדשים לאבוקדו גדלו מ-279 הקטר ב-2016 ל-3,855 הקטר ב-2025. הייצור האזורי מגיע כעת ל-32,382 טון, המהווים 22.5% מכלל הנפח המיוצר בספרד. <span class=\"news-reason\">נתונים מספריים מדויקים על התפתחות שטחי הגידול וכמויות הייצור של אבוקדו בספרד.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9896368/la-superficie-de-aguacate-en-la-comunitat-valenciana-se-multiplica-por-14-en-nueve-anos/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -280,7 +312,7 @@
     {
       "id": "1795602962_3",
       "timestamp": "2026-11-25T10:36:02.231013+00:00",
-      "title": "Nouveau centre de collecte pour les producteurs d&#x27;avocats à Valence",
+      "title": "Nouveau centre de collecte pour les producteurs d’avocats à Valence",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Ophélie"
@@ -291,7 +323,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Nouveau centre de collecte pour les producteurs d&#x27;avocats à Valence -- <span class=\"news-date\">25/11/2026 10:04</span></div><div class=\"news-body\">L&#x27;entreprise Trops a inauguré une nouvelle installation à Palma de Gandía, dans la région de Valence, pour centraliser la réception des avocats de ses producteurs affiliés. <span class=\"news-reason\">Expansion logistique d&#x27;un acteur majeur de l&#x27;avocat en Espagne (Trops), origine clé pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896043/neues-annahmezentrum-in-valencia-soll-avocado-erzeuger-besser-versorgen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Nouveau centre de collecte pour les producteurs d’avocats à Valence -- <span class=\"news-date\">25/11/2026 10:04</span></div><div class=\"news-body\">L&#x27;entreprise Trops a inauguré une nouvelle installation à Palma de Gandía, dans la région de Valence, pour centraliser la réception des avocats de ses producteurs affiliés. <span class=\"news-reason\">Expansion logistique d&#x27;un acteur majeur de l&#x27;avocat en Espagne (Trops), origine clé pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896043/neues-annahmezentrum-in-valencia-soll-avocado-erzeuger-besser-versorgen/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">New reception center for avocado producers in Valencia -- <span class=\"news-date\">25/11/2026 10:04</span></div><div class=\"news-body\">The company Trops has inaugurated a new facility in Palma de Gandía, in the Valencia region, to centralize the reception of avocados from its affiliated producers. <span class=\"news-reason\">Logistics expansion of a major avocado player in Spain (Trops), a key origin for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896043/neues-annahmezentrum-in-valencia-soll-avocado-erzeuger-besser-versorgen/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות רשתות שיווק</div><div class=\"news-title\">מרכז קבלה חדש למגדלי אבוקדו בוולנסיה -- <span class=\"news-date\">25/11/2026 10:04</span></div><div class=\"news-body\">חברת Trops חנכה מתקן חדש בפאלמה דה גנדיה, שבאזור ולנסיה, לריכוז קבלת האבוקדו מהמגדלים המסונפים אליה. <span class=\"news-reason\">התרחבות לוגיסטית של שחקן מרכזי בתחום האבוקדו בספרד (Trops), מקור מפתח עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896043/neues-annahmezentrum-in-valencia-soll-avocado-erzeuger-besser-versorgen/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
@@ -587,7 +619,7 @@
     {
       "id": "1795532926_0",
       "timestamp": "2026-11-24T15:08:46.684132+00:00",
-      "title": "Lancement de la campagne de l&#x27;avocat Hass en Espagne sous l&#x27;influence d&#x27;Israël",
+      "title": "Espagne : coup d’envoi de la campagne de l’avocat Hass sous l’influence d’Israël",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Ophélie"
@@ -599,7 +631,7 @@
         "ESP",
         "ISR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne de l&#x27;avocat Hass en Espagne sous l&#x27;influence d&#x27;Israël -- <span class=\"news-date\">24/11/2026 15:48</span></div><div class=\"news-body\">La campagne espagnole d&#x27;avocats débute avec la variété Hass après la fin des variétés à peau verte. Juan Antonio Reyes Gutiérrez indique que la concurrence et les volumes provenant d&#x27;Israël seront des facteurs déterminants pour l&#x27;évolution des prix et de l&#x27;offre sur le marché européen cette saison. <span class=\"news-reason\">L&#x27;article traite du démarrage de la saison de l&#x27;avocat Hass en Espagne et mentionne l&#x27;influence directe de l&#x27;offre israélienne sur le marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895971/el-aguacate-hass-espanol-arranca-con-buenas-perspectivas-comerciales-aunque-israel-marcara-la-campana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Espagne : coup d’envoi de la campagne de l’avocat Hass sous l’influence d’Israël -- <span class=\"news-date\">24/11/2026 15:48</span></div><div class=\"news-body\">La campagne espagnole d&#x27;avocats débute avec la variété Hass après la fin des variétés à peau verte. Juan Antonio Reyes Gutiérrez indique que la concurrence et les volumes provenant d&#x27;Israël seront des facteurs déterminants pour l&#x27;évolution des prix et de l&#x27;offre sur le marché européen cette saison. <span class=\"news-reason\">L&#x27;article traite du démarrage de la saison de l&#x27;avocat Hass en Espagne et mentionne l&#x27;influence directe de l&#x27;offre israélienne sur le marché.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895971/el-aguacate-hass-espanol-arranca-con-buenas-perspectivas-comerciales-aunque-israel-marcara-la-campana/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Launch of the Spanish Hass avocado campaign under Israeli influence -- <span class=\"news-date\">24/11/2026 15:48</span></div><div class=\"news-body\">The Spanish avocado campaign begins with the Hass variety following the end of the green-skin varieties. Juan Antonio Reyes Gutiérrez indicates that competition and volumes from Israel will be determining factors for the evolution of prices and supply on the European market this season. <span class=\"news-reason\">The article discusses the start of the Hass avocado season in Spain and mentions the direct influence of Israeli supply on the market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895971/el-aguacate-hass-espanol-arranca-con-buenas-perspectivas-comerciales-aunque-israel-marcara-la-campana/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">השקת עונת אבוקדו ההאס הספרדי תחת השפעה ישראלית -- <span class=\"news-date\">24/11/2026 15:48</span></div><div class=\"news-body\">עונת האבוקדו הספרדית מתחילה עם זן ההאס לאחר סיום זני הקליפה הירוקה. חואן אנטוניו רייס גוטיירס מציין כי התחרות והכמויות המגיעות מישראל יהיו גורמים מכריעים בהתפתחות המחירים וההיצע בשוק האירופי העונה. <span class=\"news-reason\">הכתבה עוסקת בתחילת עונת אבוקדו ההאס בספרד ומציינת את ההשפעה הישירה של ההיצע הישראלי על השוק.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895971/el-aguacate-hass-espanol-arranca-con-buenas-perspectivas-comerciales-aunque-israel-marcara-la-campana/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -836,7 +868,7 @@
     {
       "id": "1795451732_2",
       "timestamp": "2026-11-23T16:35:32.775224+00:00",
-      "title": "Espagne : la campagne de mangues se clôture sur une production de 40 000 tonnes",
+      "title": "Espagne : la campagne de mangues s’achève sur une production de 40 000 tonnes",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -847,7 +879,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la campagne de mangues se clôture sur une production de 40 000 tonnes -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">La saison de récolte des mangues dans l&#x27;Axarquía (Malaga) et la Costa Tropical s&#x27;achève en novembre 2026. La production est estimée à environ 40 000 tonnes, un volume inférieur à la récolte record de la saison précédente. Les prix enregistrés en cette fin de campagne sont orientés à la baisse. <span class=\"news-reason\">L&#x27;article annonce la fin de campagne d&#x27;une origine concurrente (Espagne) avec des volumes et une tendance de prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la campagne de mangues s’achève sur une production de 40 000 tonnes -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">La saison de récolte des mangues dans l&#x27;Axarquía (Malaga) et la Costa Tropical s&#x27;achève en novembre 2026. La production est estimée à environ 40 000 tonnes, un volume inférieur à la récolte record de la saison précédente. Les prix enregistrés en cette fin de campagne sont orientés à la baisse. <span class=\"news-reason\">L&#x27;article annonce la fin de campagne d&#x27;une origine concurrente (Espagne) avec des volumes et une tendance de prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Closing of the Spanish mango campaign with a production of 40,000 tons -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">The mango harvest season in Axarquía (Malaga) and the Costa Tropical is ending in November 2026. Production is estimated at around 40,000 tons, a volume lower than the record harvest of the previous season. Prices recorded at the end of this campaign are trending downward. <span class=\"news-reason\">The article announces the end of the campaign for a competing origin (Spain) with volumes and a price trend.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיום קמפיין המנגו הספרדי עם ייצור של 40,000 טון -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">עונת קטיף המנגו באקסרקיה (Malaga) ובקוסטה טרופיקל מסתיימת בנובמבר 2026. הייצור מוערך בכ-40,000 טון, כמות נמוכה מהיבול המכור של העונה הקודמת. המחירים שנרשמו בסוף הקמפיין נמצאים במגמת ירידה. <span class=\"news-reason\">המאמר מודיע על סיום הקמפיין של מקור מתחרה (ספרד) עם נתוני כמויות ומגמת מחירים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- לקריאת המאמר</a></div></div>"
     },
@@ -1178,7 +1210,7 @@
     {
       "id": "1795419312_3",
       "timestamp": "2026-11-23T07:35:12.445822+00:00",
-      "title": "Expansion de la gamme d&#x27;avocats et d&#x27;agrumes biologiques siciliens en grande distribution",
+      "title": "Élargissement de la gamme d&#x27;avocats et d&#x27;agrumes biologiques siciliens en grande distribution",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Nadia",
@@ -1191,7 +1223,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Expansion de la gamme d&#x27;avocats et d&#x27;agrumes biologiques siciliens en grande distribution -- <span class=\"news-date\">20/11/2026 10:40</span></div><div class=\"news-body\">La marque biologique Brio enregistre une croissance en Sicile portée par des petites et moyennes exploitations agricoles. Les avocats et les oranges renforcent leur présence sur les étals des supermarchés locaux et nationaux, comme souligné lors de l&#x27;événement Bio in Brio. <span class=\"news-reason\">L&#x27;article traite de l&#x27;expansion commerciale des avocats et agrumes (oranges) en Sicile, produits et origine clés.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894235/bio-avocados-und-zitrusfruchte-aus-sizilien-gewinnen-in-den-supermarktregalen-an-bedeutung/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Élargissement de la gamme d&#x27;avocats et d&#x27;agrumes biologiques siciliens en grande distribution -- <span class=\"news-date\">20/11/2026 10:40</span></div><div class=\"news-body\">La marque biologique Brio enregistre une croissance en Sicile portée par des petites et moyennes exploitations agricoles. Les avocats et les oranges renforcent leur présence sur les étals des supermarchés locaux et nationaux, comme souligné lors de l&#x27;événement Bio in Brio. <span class=\"news-reason\">L&#x27;article traite de l&#x27;expansion commerciale des avocats et agrumes (oranges) en Sicile, produits et origine clés.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894235/bio-avocados-und-zitrusfruchte-aus-sizilien-gewinnen-in-den-supermarktregalen-an-bedeutung/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Growth of organic Sicilian avocados and citrus in retail -- <span class=\"news-date\">20/11/2026 10:40</span></div><div class=\"news-body\">The organic brand Brio is recording growth in Sicily driven by small and medium-sized agricultural holdings. Avocados and oranges are strengthening their presence on local and national supermarket shelves, as highlighted during the Bio in Brio event. <span class=\"news-reason\">The article discusses the commercial expansion of avocados and citrus (oranges) in Sicily, key products and origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894235/bio-avocados-und-zitrusfruchte-aus-sizilien-gewinnen-in-den-supermarktregalen-an-bedeutung/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות רשתות שיווק</div><div class=\"news-title\">צמיחה במכירות אבוקדו ופירות הדר אורגניים מסיציליה ברשתות השיווק -- <span class=\"news-date\">20/11/2026 10:40</span></div><div class=\"news-body\">המותג האורגני Brio רושם צמיחה בסיציליה המונעת על ידי משקים חקלאיים קטנים ובינוניים. האבוקדו והתפוזים מחזקים את נוכחותם על המדפים בסופרמרקטים המקומיים והארציים, כפי שהודגש במהלך אירוע Bio in Brio. <span class=\"news-reason\">המאמר עוסק בהתרחבות המסחרית של אבוקדו ופירות הדר (תפוזים) בסיציליה, מוצרי מפתח ומקור מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894235/bio-avocados-und-zitrusfruchte-aus-sizilien-gewinnen-in-den-supermarktregalen-an-bedeutung/\" target=\"_blank\">FreshPlaza DE -- לקריאת המאמר</a></div></div>"
     },
@@ -1285,7 +1317,7 @@
     {
       "id": "1795413927_4",
       "timestamp": "2026-11-23T06:05:27.685167+00:00",
-      "title": "Tunisie : Repli de la production de dattes et report de la campagne de récolte",
+      "title": "Tunisie : Recul de la production de dattes et report de la campagne de récolte",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica"
@@ -1296,7 +1328,7 @@
       "origins": [
         "TUN"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tunisie : Repli de la production de dattes et report de la campagne de récolte -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">La récolte de dattes Deglet Nour en Tunisie accuse un retard de deux à trois semaines par rapport au calendrier habituel. Les volumes globaux sont estimés en baisse d&#x27;environ 20 % pour cette saison, bien que la qualité des fruits soit rapportée comme satisfaisante par les professionnels du secteur. <span class=\"news-reason\">Information sur la production de dattes d&#x27;une origine concurrente avec chiffres de baisse de volume.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893760/in-tunisia-inizia-in-ritardo-il-confezionamento-dei-datteri-deglet-nour-del-nuovo-raccolto/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tunisie : Recul de la production de dattes et report de la campagne de récolte -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">La récolte de dattes Deglet Nour en Tunisie accuse un retard de deux à trois semaines par rapport au calendrier habituel. Les volumes globaux sont estimés en baisse d&#x27;environ 20 % pour cette saison, bien que la qualité des fruits soit rapportée comme satisfaisante par les professionnels du secteur. <span class=\"news-reason\">Information sur la production de dattes d&#x27;une origine concurrente avec chiffres de baisse de volume.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893760/in-tunisia-inizia-in-ritardo-il-confezionamento-dei-datteri-deglet-nour-del-nuovo-raccolto/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Tunisia: Delayed harvest and drop in date production -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">The Deglet Nour date harvest in Tunisia is running two to three weeks behind the usual schedule. Overall volumes are estimated to be down by about 20% for this season, although fruit quality is reported as satisfactory by sector professionals. <span class=\"news-reason\">Information on date production from a competing origin with volume decrease figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893760/in-tunisia-inizia-in-ritardo-il-confezionamento-dei-datteri-deglet-nour-del-nuovo-raccolto/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">תוניסיה: עיכוב בקטיף וירידה בייצור התמרים -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">קטיף תמרי הדגלאט נור בתוניסיה מתעכב בשבועיים עד שלושה לעומת לוח הזמנים הרגיל. הכמויות הכוללות מוערכות בירידה של כ-20% העונה, למרות שאיכות הפירות מדווחת כמשביעת רצון על ידי אנשי המקצוע בענף. <span class=\"news-reason\">מידע על ייצור תמרים ממקור מתחרה עם נתוני ירידה בכמות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893760/in-tunisia-inizia-in-ritardo-il-confezionamento-dei-datteri-deglet-nour-del-nuovo-raccolto/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -1336,7 +1368,7 @@
     {
       "id": "1795413927_1",
       "timestamp": "2026-11-23T06:05:27.685167+00:00",
-      "title": "Acquisition d’une exploitation d’avocats au Portugal pour renforcer l’offre",
+      "title": "Acquisition d’une exploitation d’avocats au Portugal afin de renforcer l’offre",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Ophélie"
@@ -1347,7 +1379,7 @@
       "origins": [
         "PRT"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Acquisition d’une exploitation d’avocats au Portugal pour renforcer l’offre -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">Le groupe Alcoaxarquía a acquis la propriété Citago en Algarve, au Portugal. Cette acquisition vise à sécuriser l&#x27;approvisionnement pour les mois de février et mars avec une production estimée à 1 000 tonnes d&#x27;avocats, principalement de la variété Hass, incluant également 3 % de variété Bacon. <span class=\"news-reason\">Expansion d&#x27;un concurrent (Alcoaxarquía) sur le segment avocat (Hass) avec des volumes précis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894243/acquisita-un-azienda-agricola-di-avocado-in-portogallo-per-rafforzare-le-forniture-di-febbraio-e-marzo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Acquisition d’une exploitation d’avocats au Portugal afin de renforcer l’offre -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">Le groupe Alcoaxarquía a acquis la propriété Citago en Algarve, au Portugal. Cette acquisition vise à sécuriser l&#x27;approvisionnement pour les mois de février et mars avec une production estimée à 1 000 tonnes d&#x27;avocats, principalement de la variété Hass, incluant également 3 % de variété Bacon. <span class=\"news-reason\">Expansion d&#x27;un concurrent (Alcoaxarquía) sur le segment avocat (Hass) avec des volumes précis.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894243/acquisita-un-azienda-agricola-di-avocado-in-portogallo-per-rafforzare-le-forniture-di-febbraio-e-marzo/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">Acquisition of an avocado farm in Portugal to strengthen supply -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">The Alcoaxarquía group has acquired the Citago property in Algarve, Portugal. This acquisition aims to secure supply for the months of February and March with an estimated production of 1,000 tonnes of avocados, mainly of the Hass variety, also including 3% of the Bacon variety. <span class=\"news-reason\">Expansion of a competitor (Alcoaxarquía) in the avocado segment (Hass) with specific volumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894243/acquisita-un-azienda-agricola-di-avocado-in-portogallo-per-rafforzare-le-forniture-di-febbraio-e-marzo/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות</div><div class=\"news-title\">רכישת מטע אבוקדו בפורטוגל לחיזוק ההיצע -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">קבוצת אלקואקסארקיה רכשה את נחלת סיטאגו באלגרבה, פורטוגל. רכישה זו נועדה להבטיח את האספקה לחודשים פברואר ומרץ עם ייצור מוערך של 1,000 טונות אבוקדו, בעיקר מזן האס, הכולל גם 3% מזן בייקון. <span class=\"news-reason\">התרחבות של מתחרה (Alcoaxarquía) בסגמנט האבוקדו (האס) עם כמויות מדויקות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9894243/acquisita-un-azienda-agricola-di-avocado-in-portogallo-per-rafforzare-le-forniture-di-febbraio-e-marzo/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
