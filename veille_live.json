@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-25T06:06:25.320858+00:00",
-  "article_count": 56,
+  "last_updated": "2026-11-25T07:35:53.440372+00:00",
+  "article_count": 57,
   "attention_points": [
+    {
+      "id": "attention-71ffea0b55e5194a",
+      "article_id": "1795592153_1",
+      "url": "https://east-fruit.com/en/trending/georgia-may-struggle-to-sell-up-to-25000-tonnes-of-citrus-for-export/",
+      "source": "EastFruit",
+      "title": "Risques pesant sur l'exportation de 25 000 tonnes",
+      "summary": "Les volumes de mandarines pour l'exportation pourraient ne pas trouver de preneurs",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-11-25T07:05:14+00:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "volume",
+      "products": [
+        "mandarine"
+      ],
+      "age_hours": 0
+    },
     {
       "id": "attention-dfdc53f2c557bd9a",
       "article_id": "1795586785_0",
@@ -38,14 +57,14 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 1
+      "age_hours": 2
     },
     {
       "id": "attention-a13d570fbba6a8f0",
       "article_id": "1795586785_3",
       "url": "https://www.freshplaza.it/article/9896107/il-prodotto-c-e-ed-e-buono-il-mercato-deve-valorizzarlo-di-piu/",
       "source": "FreshPlaza IT",
-      "title": "Début de la campagne de récolte des agrumes",
+      "title": "Lancement de la campagne de récolte des agrumes",
       "summary": "La production sicilienne débute avec une excellente qualité malgré des températures élevées.",
       "origin_code": "ITA",
       "origin_label": "Italie",
@@ -55,33 +74,30 @@
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [],
-      "age_hours": 1
-    },
-    {
-      "id": "attention-f2db5d083f442ada",
-      "article_id": "1795548896_0",
-      "url": "https://www.freshplaza.es/article/9895461/paises-bajos-retira-aceite-de-aguacate-espanol-por-esteres-glicidilicos-sobre-el-limite-legal/",
-      "source": "FreshPlaza ES",
-      "title": "Rappel d'huile d'avocat espagnole aux Pays-Bas pour non-conformité",
-      "summary": "Des contaminants dépassent les seuils réglementaires imposant un retrait immédiat des produits",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-11-24T15:48:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "alert",
-      "signal_label": "Alerte",
-      "icon": "alert",
-      "products": [
-        "avocat"
-      ],
-      "age_hours": 15
+      "age_hours": 2
     }
   ],
   "articles": [
     {
+      "id": "1795592153_1",
+      "timestamp": "2026-11-25T07:35:53.440372+00:00",
+      "title": "Risques pesant sur l&#x27;exportation de 25 000 tonnes de mandarines géorgiennes -- 25/11/2026 07:05",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Risques pesant sur l&#x27;exportation de 25 000 tonnes de mandarines géorgiennes -- <span class=\"news-date\">25/11/2026 07:05</span></div><div class=\"news-body\">La Géorgie prévoit une récolte d&#x27;agrumes de 80 000 tonnes en 2026. Selon EastFruit, citant BM.ge, environ 20 000 à 25 000 tonnes de mandarines de qualité export pourraient ne pas trouver de marchés en raison d&#x27;une demande incertaine et d&#x27;un calendrier de vente restreint. <span class=\"news-reason\">Données précises sur les volumes d&#x27;une origine concurrente en agrumes (mandarines) impactant les marchés d&#x27;Europe de l&#x27;Est.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/trending/georgia-may-struggle-to-sell-up-to-25000-tonnes-of-citrus-for-export/\" target=\"_blank\">EastFruit -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Risks weighing on the export of 25,000 tonnes of Georgian mandarins -- <span class=\"news-date\">25/11/2026 07:05</span></div><div class=\"news-body\">Georgia expects a citrus harvest of 80,000 tonnes in 2026. According to EastFruit, citing BM.ge, approximately 20,000 to 25,000 tonnes of export-quality mandarins may not find markets due to uncertain demand and a restricted sales schedule. <span class=\"news-reason\">Precise data on the volumes of a competing origin for citrus fruits (mandarins) impacting Eastern European markets.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/trending/georgia-may-struggle-to-sell-up-to-25000-tonnes-of-citrus-for-export/\" target=\"_blank\">EastFruit -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">סיכונים המכבידים על ייצוא של 25,000 טונות של מנדרינות גיאורגיות -- <span class=\"news-date\">25/11/2026 07:05</span></div><div class=\"news-body\">גיאורגיה צופה יבול הדרים של 80,000 טונות בשנת 2026. לפי EastFruit, המצטטים את BM.ge, כ-20,000 עד 25,000 טונות של מנדרינות באיכות ייצוא עלולות שלא למצוא שווקים בשל ביקוש לא ודאי ולוח זמנים מכירות מוגבל. <span class=\"news-reason\">נתונים מדויקים על נפחי ייצור ממקור מתחרה בהדרים (מנדרינות) המשפיעים על השווקים במזרח אירופה.</span></div><div class=\"news-source\"><a href=\"https://east-fruit.com/en/trending/georgia-may-struggle-to-sell-up-to-25000-tonnes-of-citrus-for-export/\" target=\"_blank\">EastFruit -- קרא את הכתבה</a></div></div>"
+    },
+    {
       "id": "1795586785_3",
       "timestamp": "2026-11-25T06:06:25.320858+00:00",
-      "title": "Début de la campagne de récolte des agrumes de qualité en Sicile",
+      "title": "Lancement de la campagne de récolte des agrumes de qualité en Sicile",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -90,7 +106,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Début de la campagne de récolte des agrumes de qualité en Sicile -- <span class=\"news-date\">25/11/2026 06:05</span></div><div class=\"news-body\">La récolte des agrumes a commencé dans la province de Catane avec des températures supérieures aux moyennes saisonnières. Malgré cette chaleur, la qualité des fruits est jugée excellente et les quantités disponibles pour ce début de campagne sont intéressantes. <span class=\"news-reason\">Début de campagne d&#x27;une origine concurrente sur les agrumes (Sicile).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9896107/il-prodotto-c-e-ed-e-buono-il-mercato-deve-valorizzarlo-di-piu/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne de récolte des agrumes de qualité en Sicile -- <span class=\"news-date\">25/11/2026 06:05</span></div><div class=\"news-body\">La récolte des agrumes a commencé dans la province de Catane avec des températures supérieures aux moyennes saisonnières. Malgré cette chaleur, la qualité des fruits est jugée excellente et les quantités disponibles pour ce début de campagne sont intéressantes. <span class=\"news-reason\">Début de campagne d&#x27;une origine concurrente sur les agrumes (Sicile).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9896107/il-prodotto-c-e-ed-e-buono-il-mercato-deve-valorizzarlo-di-piu/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Launch of the quality citrus harvest in Sicily -- <span class=\"news-date\">25/11/2026 06:05</span></div><div class=\"news-body\">The citrus harvest has begun in the province of Catania with temperatures above seasonal averages. Despite this heat, the quality of the fruit is considered excellent and the quantities available for this start of the campaign are promising. <span class=\"news-reason\">Start of the season for a competing origin for citrus (Sicily).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9896107/il-prodotto-c-e-ed-e-buono-il-mercato-deve-valorizzarlo-di-piu/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">תחילת קטיף הדרים איכותיים בסיציליה -- <span class=\"news-date\">25/11/2026 06:05</span></div><div class=\"news-body\">קטיף ההדרים החל במחוז קטניה עם טמפרטורות הגבוהות מהממוצע העונתי. למרות החום, איכות הפירות נחשבת למצוינת והכמויות הזמינות לתחילת העונה מעוררות עניין. <span class=\"news-reason\">תחילת עונה של מקור מתחרה בתחום ההדרים (סיציליה).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9896107/il-prodotto-c-e-ed-e-buono-il-mercato-deve-valorizzarlo-di-piu/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -441,14 +457,14 @@
     {
       "id": "1795500300_1",
       "timestamp": "2026-11-24T06:05:00.089487+00:00",
-      "title": "Recul de 15 % des exportations brésiliennes de papaye en octobre",
+      "title": "Baisse de 15 % des exportations brésiliennes de papaye en octobre",
       "category": "PRIX &amp VOLUMES",
       "commercials": [],
       "products": [
         "papaya"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul de 15 % des exportations brésiliennes de papaye en octobre -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">En octobre 2026, les exportations brésiliennes de papaye ont chuté de 15 % par rapport à l&#x27;année précédente, totalisant un peu plus de 4 000 tonnes. Les revenus d&#x27;exportation FOB se sont élevés à environ 6 millions de dollars. Ce ralentissement pourrait être lié à des facteurs logistiques ou de production locale affectant les flux vers les marchés internationaux. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur les volumes et revenus d&#x27;exportation d&#x27;un produit exotique Mehadrin depuis une origine clé.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895085/las-exportaciones-brasilenas-de-papaya-caen-un-15-en-octubre/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Baisse de 15 % des exportations brésiliennes de papaye en octobre -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">En octobre 2026, les exportations brésiliennes de papaye ont chuté de 15 % par rapport à l&#x27;année précédente, totalisant un peu plus de 4 000 tonnes. Les revenus d&#x27;exportation FOB se sont élevés à environ 6 millions de dollars. Ce ralentissement pourrait être lié à des facteurs logistiques ou de production locale affectant les flux vers les marchés internationaux. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur les volumes et revenus d&#x27;exportation d&#x27;un produit exotique Mehadrin depuis une origine clé.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895085/las-exportaciones-brasilenas-de-papaya-caen-un-15-en-octubre/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">15% drop in Brazilian papaya exports in October -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">In October 2026, Brazilian papaya exports fell by 15% compared to the previous year, totaling just over 4,000 tons. FOB export revenues amounted to approximately 6 million dollars. This slowdown could be linked to logistical or local production factors affecting flows to international markets. <span class=\"news-reason\">The article provides precise figures on the export volumes and revenues of a Mehadrin exotic product from a key origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895085/las-exportaciones-brasilenas-de-papaya-caen-un-15-en-octubre/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 15% בייצוא הפפאיה מברזיל באוקטובר -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">באוקטובר 2026, ייצוא הפפאיה מברזיל צנח ב-15% בהשוואה לשנה הקודמת, והסתכם בקצת יותר מ-4,000 טונות. הכנסות הייצוא (FOB) עמדו על כ-6 מיליון דולר. האטה זו עשויה להיות קשורה לגורמים לוגיסטיים או לייצור מקומי המשפיעים על הזרימה לשווקים הבינלאומיים. <span class=\"news-reason\">הכתבה מספקת נתונים מדויקים על כמויות והכנסות מייצוא של מוצר אקזוטי של מהדרין ממקור מפתח.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895085/las-exportaciones-brasilenas-de-papaya-caen-un-15-en-octubre/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -572,7 +588,7 @@
     {
       "id": "1795446339_5",
       "timestamp": "2026-11-23T15:05:39.868646+00:00",
-      "title": "Les exportateurs péruviens prévoient une baisse des volumes de mangues",
+      "title": "Les exportateurs péruviens prévoient un recul des volumes de mangues",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -584,7 +600,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Les exportateurs péruviens prévoient une baisse des volumes de mangues -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">La campagne de mangues au Pérou s&#x27;annonce complexe avec une offre réduite et un calendrier d&#x27;exportation décalé par rapport aux saisons normales. Joseph Navarro, directeur de l&#x27;entreprise Masojo, confirme que ces volumes inférieurs influenceront la disponibilité sur le marché, alors que le secteur du gingembre subit parallèlement une baisse de prix. <span class=\"news-reason\">L&#x27;article traite d&#x27;une baisse de production et d&#x27;un changement de calendrier pour la mangue, un produit Mehadrin, sur une origine concurrente majeure (Pérou).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893377/gli-esportatori-peruviani-prevedono-volumi-di-mango-inferiori-e-ricavi-piu-bassi-per-lo-zenzero/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Les exportateurs péruviens prévoient un recul des volumes de mangues -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">La campagne de mangues au Pérou s&#x27;annonce complexe avec une offre réduite et un calendrier d&#x27;exportation décalé par rapport aux saisons normales. Joseph Navarro, directeur de l&#x27;entreprise Masojo, confirme que ces volumes inférieurs influenceront la disponibilité sur le marché, alors que le secteur du gingembre subit parallèlement une baisse de prix. <span class=\"news-reason\">L&#x27;article traite d&#x27;une baisse de production et d&#x27;un changement de calendrier pour la mangue, un produit Mehadrin, sur une origine concurrente majeure (Pérou).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893377/gli-esportatori-peruviani-prevedono-volumi-di-mango-inferiori-e-ricavi-piu-bassi-per-lo-zenzero/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Peruvian exporters anticipate a drop in mango volumes -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">The mango campaign in Peru looks to be complex with reduced supply and an export schedule shifted compared to normal seasons. Joseph Navarro, director of the company Masojo, confirms that these lower volumes will influence market availability, while the ginger sector is simultaneously experiencing a price drop. <span class=\"news-reason\">The article addresses a production decrease and a schedule change for mango, a Mehadrin product, from a major competing origin (Peru).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893377/gli-esportatori-peruviani-prevedono-volumi-di-mango-inferiori-e-ricavi-piu-bassi-per-lo-zenzero/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">היצואנים הפרואנים צופים ירידה בכמויות המנגו -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">עונת המנגו בפרו צפויה להיות מורכבת עם היצע מצומצם ולוח זמני ייצוא דחוי בהשוואה לעונות רגילות. ג'וזף נאבארו, מנהל חברת Masojo, מאשר כי כמויות נמוכות אלו ישפיעו על הזמינות בשוק, בעוד שמגזר הג'ינג'ר חווה במקביל ירידת מחירים. <span class=\"news-reason\">המאמר עוסק בירידה בייצור ובשינוי בלוח הזמנים של המנגו, מוצר של מהדרין, במקור מתחרה מרכזי (פרו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893377/gli-esportatori-peruviani-prevedono-volumi-di-mango-inferiori-e-ricavi-piu-bassi-per-lo-zenzero/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -845,7 +861,7 @@
     {
       "id": "1795424828_0",
       "timestamp": "2026-11-23T09:07:08.962048+00:00",
-      "title": "Westfalia Fruit nomme Carel van Krimpen à la tête de Greenpoint Trading",
+      "title": "Westfalia Fruit nomme Carel van Krimpen à la direction de Greenpoint Trading",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Ophélie"
@@ -854,7 +870,7 @@
         "avocat"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Westfalia Fruit nomme Carel van Krimpen à la tête de Greenpoint Trading -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">Le groupe Westfalia Fruit a nommé Carel van Krimpen au poste de directeur général de Greenpoint Trading B.V. Fondateur de l&#x27;entreprise et de sa marque d&#x27;avocats Avojoy, il continuera à diriger l&#x27;entité de façon autonome. Greenpoint Trading est intégrée au groupe Westfalia depuis 2025. <span class=\"news-reason\">Nomination d&#x27;un dirigeant au sein du groupe Westfalia pour sa marque d&#x27;avocats, impactant la distribution en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895075/carel-van-krimpen-zum-direktor-von-greenpoint-trading-ernannt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Westfalia Fruit nomme Carel van Krimpen à la direction de Greenpoint Trading -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">Le groupe Westfalia Fruit a nommé Carel van Krimpen au poste de directeur général de Greenpoint Trading B.V. Fondateur de l&#x27;entreprise et de sa marque d&#x27;avocats Avojoy, il continuera à diriger l&#x27;entité de façon autonome. Greenpoint Trading est intégrée au groupe Westfalia depuis 2025. <span class=\"news-reason\">Nomination d&#x27;un dirigeant au sein du groupe Westfalia pour sa marque d&#x27;avocats, impactant la distribution en Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895075/carel-van-krimpen-zum-direktor-von-greenpoint-trading-ernannt/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">BANNER MOVEMENTS</div><div class=\"news-title\">Westfalia Fruit appoints Carel van Krimpen as head of Greenpoint Trading -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">The Westfalia Fruit group has appointed Carel van Krimpen to the position of managing director of Greenpoint Trading B.V. Founder of the company and its Avojoy avocado brand, he will continue to lead the entity independently. Greenpoint Trading has been integrated into the Westfalia group since 2025. <span class=\"news-reason\">Appointment of a leader within the Westfalia group for its avocado brand, impacting distribution in Europe.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895075/carel-van-krimpen-zum-direktor-von-greenpoint-trading-ernannt/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות מותגים</div><div class=\"news-title\">Westfalia Fruit ממנה את קארל ואן קרימפן להנהלת Greenpoint Trading -- <span class=\"news-date\">23/11/2026 09:27</span></div><div class=\"news-body\">קבוצת Westfalia Fruit מינתה את קארל ואן קרימפן לתפקיד המנכ\"ל של Greenpoint Trading B.V. כמייסד החברה ומותג האבוקדו שלה Avojoy, הוא ימשיך להוביל את הישות באופן עצמאי. Greenpoint Trading משולבת בקבוצת Westfalia מאז 2025. <span class=\"news-reason\">מינוי מנהל בקבוצת Westfalia עבור מותג האבוקדו שלה, המשפיע על ההפצה באירופה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9895075/carel-van-krimpen-zum-direktor-von-greenpoint-trading-ernannt/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -913,7 +929,7 @@
     {
       "id": "1795419312_0",
       "timestamp": "2026-11-23T07:35:12.445822+00:00",
-      "title": "L’impératif d’innovation dans la commercialisation des oranges en Italie",
+      "title": "L&#x27;impératif d&#x27;innovation dans la commercialisation des oranges en Italie",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -924,7 +940,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’impératif d’innovation dans la commercialisation des oranges en Italie -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">Face à une baisse constante des ventes d&#x27;oranges en grande distribution italienne, la marque I LOVE U cherche à renouveler l&#x27;offre traditionnelle. Lancée il y a dix ans, cette initiative vise à transformer l&#x27;expérience de consommation des agrumes pour sortir de la dépendance aux prix bas et valoriser le produit. <span class=\"news-reason\">L&#x27;article analyse la stratégie de positionnement du marché des agrumes en Italie face à la baisse de la consommation.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893830/non-ci-basta-che-le-arance-si-vendano-solo-se-costano-poco/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;impératif d&#x27;innovation dans la commercialisation des oranges en Italie -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">Face à une baisse constante des ventes d&#x27;oranges en grande distribution italienne, la marque I LOVE U cherche à renouveler l&#x27;offre traditionnelle. Lancée il y a dix ans, cette initiative vise à transformer l&#x27;expérience de consommation des agrumes pour sortir de la dépendance aux prix bas et valoriser le produit. <span class=\"news-reason\">L&#x27;article analyse la stratégie de positionnement du marché des agrumes en Italie face à la baisse de la consommation.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893830/non-ci-basta-che-le-arance-si-vendano-solo-se-costano-poco/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Need to innovate orange marketing in Italy -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">Faced with a steady decline in orange sales in Italian large-scale retail, the I LOVE U brand is seeking to renew the traditional offering. Launched ten years ago, this initiative aims to transform the citrus consumption experience to move away from low-price dependency and increase product value. <span class=\"news-reason\">The article analyzes the market positioning strategy for citrus in Italy in the face of declining consumption.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893830/non-ci-basta-che-le-arance-si-vendano-solo-se-costano-poco/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות ומקורות</div><div class=\"news-title\">הצורך בחדשנות בשיווק תפוזים באיטליה -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">אל מול ירידה מתמדת במכירות התפוזים ברשתות השיווק באיטליה, המותג I LOVE U שואף לחדש את ההיצע המסורתי. יוזמה זו, שהושקה לפני עשר שנים, נועדה לשנות את חוויית צריכת פירות ההדר כדי לצאת מהתלות במחירים נמוכים ולהעלות את ערך המוצר. <span class=\"news-reason\">המאמר מנתח את אסטרטגיית המיצוב של שוק פירות ההדר באיטליה לנוכח הירידה בצריכה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893830/non-ci-basta-che-le-arance-si-vendano-solo-se-costano-poco/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>"
     },
