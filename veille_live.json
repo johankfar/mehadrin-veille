@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-25T12:06:31.147522+00:00",
-  "article_count": 65,
+  "last_updated": "2026-11-25T13:37:26.920659+00:00",
+  "article_count": 68,
   "attention_points": [
     {
       "id": "attention-d49cc54dfd801abf",
@@ -20,6 +20,25 @@
       "age_hours": 0
     },
     {
+      "id": "attention-7e5cfa82c2ce0031",
+      "article_id": "1795613846_2",
+      "url": "https://www.freshplaza.fr/article/9893790/nous-sommes-pleinement-engages-dans-le-developpement-des-avocats-hass/",
+      "source": "FreshPlaza FR",
+      "title": "Investissement majeur dans le conditionnement des avocats Hass",
+      "summary": "Une entreprise investit dans une ligne de conditionnement d'avocats pour la campagne future",
+      "origin_code": null,
+      "origin_label": null,
+      "published_at": "2026-11-25T13:08:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "avocat"
+      ],
+      "age_hours": 1
+    },
+    {
       "id": "attention-63949abf1b8d7969",
       "article_id": "1795602962_3",
       "url": "https://www.freshplaza.de/article/9896043/neues-annahmezentrum-in-valencia-soll-avocado-erzeuger-besser-versorgen/",
@@ -37,7 +56,7 @@
         "avocat",
         "orange"
       ],
-      "age_hours": 3
+      "age_hours": 4
     },
     {
       "id": "attention-dfdc53f2c557bd9a",
@@ -56,29 +75,60 @@
       "products": [
         "date"
       ],
-      "age_hours": 5
-    },
-    {
-      "id": "attention-6b070ceb2a2ffec1",
-      "article_id": "1795602962_5",
-      "url": "https://www.freshplaza.it/article/9894772/la-qualita-gustativa-delle-arance-del-portogallo-potrebbe-accelerare-l-iter-per-il-riconoscimento-dell-igp/",
-      "source": "FreshPlaza IT",
-      "title": "Lancement de la campagne des oranges du Portugal",
-      "summary": "Les premières cargaisons arrivent sur le marché européen avec des volumes globaux stables.",
-      "origin_code": "FRA",
-      "origin_label": "France",
-      "published_at": "2026-11-25T06:05:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [
-        "orange"
-      ],
-      "age_hours": 7
+      "age_hours": 6
     }
   ],
   "articles": [
+    {
+      "id": "1795613846_5",
+      "timestamp": "2026-11-25T13:37:26.920659+00:00",
+      "title": "Le Rwanda ambitionne d&#x27;accroître ses exportations d&#x27;avocats -- 25/11/2026 13:28",
+      "category": "CONCURRENCE ORIGINES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Le Rwanda ambitionne d&#x27;accroître ses exportations d&#x27;avocats -- <span class=\"news-date\">25/11/2026 13:28</span></div><div class=\"news-body\">Le Rwanda met en œuvre des stratégies pour étendre la culture d&#x27;avocats, améliorer la qualité des fruits et attirer des investissements pour l&#x27;exportation. Le National Agricultural Export Development Board (NAEB) travaille à augmenter l&#x27;accès aux marchés internationaux pour les producteurs locaux. <span class=\"news-reason\">Information sur l&#x27;expansion de la production d&#x27;avocats et la stratégie d&#x27;accès aux marchés internationaux par un nouveau pays concurrent.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9896316/rwanda-seeks-to-expand-avocado-exports-and-improve-market-access/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Rwanda aims to increase avocado exports -- <span class=\"news-date\">25/11/2026 13:28</span></div><div class=\"news-body\">Rwanda is implementing strategies to expand avocado cultivation, improve fruit quality, and attract investment for export. The National Agricultural Export Development Board (NAEB) is working to increase access to international markets for local producers. <span class=\"news-reason\">Information on the expansion of avocado production and the strategy for international market access by a new competing country.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9896316/rwanda-seeks-to-expand-avocado-exports-and-improve-market-access/\" target=\"_blank\">FreshPlaza -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">רואנדה שואפת להגדיל את יצוא האבוקדו שלה -- <span class=\"news-date\">25/11/2026 13:28</span></div><div class=\"news-body\">רואנדה מיישמת אסטרטגיות להרחבת גידול האבוקדו, שיפור איכות הפרי ומשיכת השקעות ליצוא. המועצה הלאומית לפיתוח יצוא חקלאי (NAEB) פועלת להגברת הגישה לשווקים בינלאומיים עבור יצרנים מקומיים. <span class=\"news-reason\">מידע על הרחבת ייצור האבוקדו ואסטרטגיית הגישה לשווקים בינלאומיים על ידי מדינה מתחרה חדשה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9896316/rwanda-seeks-to-expand-avocado-exports-and-improve-market-access/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795613846_3",
+      "timestamp": "2026-11-25T13:37:26.920659+00:00",
+      "title": "Lancement de la campagne de l&#x27;avocat Hass en Espagne -- 25/11/2026 12:07",
+      "category": "ALERTES SUPPLY",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ESP"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Lancement de la campagne de l&#x27;avocat Hass en Espagne -- <span class=\"news-date\">25/11/2026 12:07</span></div><div class=\"news-body\">La saison des avocats espagnols est en cours dans la région de Malaga. Après les variétés à peau lisse, la récolte des premiers avocats Hass, variété la plus vendue sur le marché, a commencé. Malgré les craintes récurrentes de surproduction, le marché absorbe actuellement les volumes sans surplus notable. <span class=\"news-reason\">Information directe sur le début de campagne d&#x27;un concurrent majeur (Espagne) sur l&#x27;avocat Hass.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9896062/ik-hoor-al-jaren-dat-er-ooit-een-avocado-overschot-komt-maar-dat-is-nog-niet-gebeurd/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Launch of the Hass avocado campaign in Spain -- <span class=\"news-date\">25/11/2026 12:07</span></div><div class=\"news-body\">The Spanish avocado season is underway in the Malaga region. Following smooth-skinned varieties, the harvest of the first Hass avocados, the market's top-selling variety, has begun. Despite recurring fears of overproduction, the market is currently absorbing volumes without any notable surplus. <span class=\"news-reason\">Direct information on the start of the campaign for a major competitor (Spain) for Hass avocados.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9896062/ik-hoor-al-jaren-dat-er-ooit-een-avocado-overschot-komt-maar-dat-is-nog-niet-gebeurd/\" target=\"_blank\">AGF.nl -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">השקת עונת אבוקדו האס בספרד -- <span class=\"news-date\">25/11/2026 12:07</span></div><div class=\"news-body\">עונת האבוקדו הספרדית בעיצומה באזור מלאגה. לאחר הזנים בעלי הקליפה החלקה, החל קטיף ראשוני האבוקדו מזן האס, הזן הנמכר ביותר בשוק. למרות חששות חוזרים ונשנים מעודף ייצור, השוק קולט כעת את הכמויות ללא עודף משמעותי. <span class=\"news-reason\">מידע ישיר על תחילת העונה של מתחרה מרכזי (ספרד) באבוקדו האס.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9896062/ik-hoor-al-jaren-dat-er-ooit-een-avocado-overschot-komt-maar-dat-is-nog-niet-gebeurd/\" target=\"_blank\">AGF.nl -- לקריאת הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795613846_2",
+      "timestamp": "2026-11-25T13:37:26.920659+00:00",
+      "title": "Investissement majeur dans le conditionnement des avocats Hass pour le marché européen -- 25/11/2026 13:08",
+      "category": "MOUVEMENTS ENSEIGNES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Investissement majeur dans le conditionnement des avocats Hass pour le marché européen -- <span class=\"news-date\">25/11/2026 13:08</span></div><div class=\"news-body\">Un fournisseur de la grande distribution européenne annonce des ambitions de croissance pour l&#x27;avocat Hass. Pour la campagne 2028/29, l&#x27;entreprise prévoit la construction d&#x27;un entrepôt de conditionnement ultramoderne doté d&#x27;une nouvelle ligne technologique MAF-Roda afin de renforcer sa position sur le marché. <span class=\"news-reason\">L&#x27;article concerne le développement et l&#x27;investissement dans le secteur des avocats Hass, un produit stratégique pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9893790/nous-sommes-pleinement-engages-dans-le-developpement-des-avocats-hass/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Major investment in Hass avocado packaging for the European market -- <span class=\"news-date\">25/11/2026 13:08</span></div><div class=\"news-body\">A supplier for European large-scale retail announces growth ambitions for Hass avocados. For the 2028/29 season, the company plans the construction of an ultra-modern packing warehouse equipped with a new MAF-Roda technology line to strengthen its market position. <span class=\"news-reason\">The article concerns development and investment in the Hass avocado sector, a strategic product for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9893790/nous-sommes-pleinement-engages-dans-le-developpement-des-avocats-hass/\" target=\"_blank\">FreshPlaza FR -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות שיווק</div><div class=\"news-title\">השקעה גדולה באריזת אבוקדו האס לשוק האירופי -- <span class=\"news-date\">25/11/2026 13:08</span></div><div class=\"news-body\">ספק של רשתות השיווק האירופיות מודיע על שאיפות צמיחה עבור אבוקדו האס. לקראת עונת 2028/29, החברה מתכננת הקמת בית אריזה מודרני המצויד בקו טכנולוגי חדש של MAF-Roda במטרה לחזק את מעמדה בשוק. <span class=\"news-reason\">הכתבה נוגעת לפיתוח והשקעה במגזר אבוקדו האס, מוצר אסטרטגי עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9893790/nous-sommes-pleinement-engages-dans-le-developpement-des-avocats-hass/\" target=\"_blank\">FreshPlaza FR -- לקריאת הכתבה</a></div></div>"
+    },
     {
       "id": "1795608391_1",
       "timestamp": "2026-11-25T12:06:31.147522+00:00",
@@ -134,7 +184,7 @@
     {
       "id": "1795602962_2",
       "timestamp": "2026-11-25T10:36:02.231013+00:00",
-      "title": "Impact des coûts internes sur les exportations d&#x27;agrumes argentins",
+      "title": "Incidence des coûts internes sur les exportations d&#x27;agrumes argentins",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -143,7 +193,7 @@
       "origins": [
         "ARG"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Impact des coûts internes sur les exportations d&#x27;agrumes argentins -- <span class=\"news-date\">25/11/2026 10:04</span></div><div class=\"news-body\">Bien que la saison d&#x27;exportation se termine avec des volumes satisfaisants, l&#x27;augmentation des coûts internes en Argentine menace la compétitivité du secteur des agrumes sur le marché mondial. <span class=\"news-reason\">L&#x27;article traite de la compétitivité et des prix de l&#x27;origine concurrente Argentine pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896053/hohere-interne-kosten-setzen-den-argentinischen-zitrusexport-unter-druck/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Incidence des coûts internes sur les exportations d&#x27;agrumes argentins -- <span class=\"news-date\">25/11/2026 10:04</span></div><div class=\"news-body\">Bien que la saison d&#x27;exportation se termine avec des volumes satisfaisants, l&#x27;augmentation des coûts internes en Argentine menace la compétitivité du secteur des agrumes sur le marché mondial. <span class=\"news-reason\">L&#x27;article traite de la compétitivité et des prix de l&#x27;origine concurrente Argentine pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896053/hohere-interne-kosten-setzen-den-argentinischen-zitrusexport-unter-druck/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Internal costs weigh on Argentine citrus exports -- <span class=\"news-date\">25/11/2026 10:04</span></div><div class=\"news-body\">Although the export season is ending with satisfactory volumes, rising internal costs in Argentina threaten the competitiveness of the citrus sector on the global market. <span class=\"news-reason\">The article discusses the competitiveness and prices of the competing origin Argentina for citrus.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896053/hohere-interne-kosten-setzen-den-argentinischen-zitrusexport-unter-druck/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">העלויות הפנימיות מעיקות על יצוא ההדרים מארגנטינה -- <span class=\"news-date\">25/11/2026 10:04</span></div><div class=\"news-body\">למרות שעונת היצוא מסתיימת עם כמויות משביעות רצון, העלייה בעלויות הפנימיות בארגנטינה מאיימת על התחרותיות של מגזר ההדרים בשוק העולמי. <span class=\"news-reason\">הכתבה עוסקת בתחרותיות ובמחירים של המקור המתחרה ארגנטינה בתחום ההדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896053/hohere-interne-kosten-setzen-den-argentinischen-zitrusexport-unter-druck/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
@@ -656,7 +706,7 @@
     {
       "id": "1795451732_3",
       "timestamp": "2026-11-23T16:35:32.775224+00:00",
-      "title": "Signes de reprise pour la grenade indienne malgré des défis de qualité",
+      "title": "Signes de reprise pour la grenade indienne malgré des défis qualitatifs",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Jessica"
@@ -665,7 +715,7 @@
       "origins": [
         "IND"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Signes de reprise pour la grenade indienne malgré des défis de qualité -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">Le marché indien de la grenade montre des signes de reprise en novembre avec une disponibilité accrue. Cependant, garantir une qualité suffisante pour l&#x27;exportation reste un défi majeur. La pression des maladies et des conditions météorologiques défavorables a impacté la qualité des fruits destinés aux marchés internationaux. <span class=\"news-reason\">Information sur la disponibilité et les problèmes de qualité d&#x27;une origine concurrente sur un produit en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Signes de reprise pour la grenade indienne malgré des défis qualitatifs -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">Le marché indien de la grenade montre des signes de reprise en novembre avec une disponibilité accrue. Cependant, garantir une qualité suffisante pour l&#x27;exportation reste un défi majeur. La pression des maladies et des conditions météorologiques défavorables a impacté la qualité des fruits destinés aux marchés internationaux. <span class=\"news-reason\">Information sur la disponibilité et les problèmes de qualité d&#x27;une origine concurrente sur un produit en saison.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Signs of recovery for Indian pomegranate despite quality challenges -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">The Indian pomegranate market shows signs of recovery in November with increased availability. However, ensuring sufficient quality for export remains a major challenge. Disease pressure and unfavorable weather conditions have impacted the quality of fruit intended for international markets. <span class=\"news-reason\">Information on the availability and quality issues of a competing origin for a product in season.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">סימני התאוששות עבור הרימון ההודי למרות אתגרי איכות -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">שוק הרימונים ההודי מראה סימני התאוששות בנובמבר עם זמינות מוגברת. עם זאת, הבטחת איכות מספקת לייצוא נותרת אתגר משמעותי. לחץ של מחלות ותנאי מזג אוויר קשים השפיע על איכות הפירות המיועדים לשווקים הבינלאומיים. <span class=\"news-reason\">מידע על הזמינות ובעיות האיכות של מקור מתחרה במוצר שנמצא בעונה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9894708/la-granada-india-da-senales-de-recuperacion-pero-la-calidad-de-exportacion-sigue-siendo-el-gran-reto/\" target=\"_blank\">FreshPlaza ES -- לקריאת המאמר</a></div></div>"
     },
@@ -1014,7 +1064,7 @@
     {
       "id": "1795419312_3",
       "timestamp": "2026-11-23T07:35:12.445822+00:00",
-      "title": "Expansion de la gamme d&#x27;avocats et d&#x27;agrumes biologiques siciliens en grande distribution",
+      "title": "Élargissement de la gamme d&#x27;avocats et d&#x27;agrumes biologiques siciliens en grande distribution",
       "category": "MOUVEMENTS ENSEIGNES",
       "commercials": [
         "Nadia",
@@ -1027,7 +1077,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Expansion de la gamme d&#x27;avocats et d&#x27;agrumes biologiques siciliens en grande distribution -- <span class=\"news-date\">20/11/2026 10:40</span></div><div class=\"news-body\">La marque biologique Brio enregistre une croissance en Sicile portée par des petites et moyennes exploitations agricoles. Les avocats et les oranges renforcent leur présence sur les étals des supermarchés locaux et nationaux, comme souligné lors de l&#x27;événement Bio in Brio. <span class=\"news-reason\">L&#x27;article traite de l&#x27;expansion commerciale des avocats et agrumes (oranges) en Sicile, produits et origine clés.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894235/bio-avocados-und-zitrusfruchte-aus-sizilien-gewinnen-in-den-supermarktregalen-an-bedeutung/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">Élargissement de la gamme d&#x27;avocats et d&#x27;agrumes biologiques siciliens en grande distribution -- <span class=\"news-date\">20/11/2026 10:40</span></div><div class=\"news-body\">La marque biologique Brio enregistre une croissance en Sicile portée par des petites et moyennes exploitations agricoles. Les avocats et les oranges renforcent leur présence sur les étals des supermarchés locaux et nationaux, comme souligné lors de l&#x27;événement Bio in Brio. <span class=\"news-reason\">L&#x27;article traite de l&#x27;expansion commerciale des avocats et agrumes (oranges) en Sicile, produits et origine clés.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894235/bio-avocados-und-zitrusfruchte-aus-sizilien-gewinnen-in-den-supermarktregalen-an-bedeutung/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAIL MOVEMENTS</div><div class=\"news-title\">Growth of organic Sicilian avocados and citrus in retail -- <span class=\"news-date\">20/11/2026 10:40</span></div><div class=\"news-body\">The organic brand Brio is recording growth in Sicily driven by small and medium-sized agricultural holdings. Avocados and oranges are strengthening their presence on local and national supermarket shelves, as highlighted during the Bio in Brio event. <span class=\"news-reason\">The article discusses the commercial expansion of avocados and citrus (oranges) in Sicily, key products and origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894235/bio-avocados-und-zitrusfruchte-aus-sizilien-gewinnen-in-den-supermarktregalen-an-bedeutung/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תנועות רשתות שיווק</div><div class=\"news-title\">צמיחה במכירות אבוקדו ופירות הדר אורגניים מסיציליה ברשתות השיווק -- <span class=\"news-date\">20/11/2026 10:40</span></div><div class=\"news-body\">המותג האורגני Brio רושם צמיחה בסיציליה המונעת על ידי משקים חקלאיים קטנים ובינוניים. האבוקדו והתפוזים מחזקים את נוכחותם על המדפים בסופרמרקטים המקומיים והארציים, כפי שהודגש במהלך אירוע Bio in Brio. <span class=\"news-reason\">המאמר עוסק בהתרחבות המסחרית של אבוקדו ופירות הדר (תפוזים) בסיציליה, מוצרי מפתח ומקור מרכזי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9894235/bio-avocados-und-zitrusfruchte-aus-sizilien-gewinnen-in-den-supermarktregalen-an-bedeutung/\" target=\"_blank\">FreshPlaza DE -- לקריאת המאמר</a></div></div>"
     },
@@ -1066,7 +1116,7 @@
     {
       "id": "1795419312_0",
       "timestamp": "2026-11-23T07:35:12.445822+00:00",
-      "title": "L’impératif d’innovation dans la commercialisation des oranges en Italie",
+      "title": "L&#x27;impératif d&#x27;innovation dans la commercialisation des oranges en Italie",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -1077,7 +1127,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L’impératif d’innovation dans la commercialisation des oranges en Italie -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">Face à une baisse constante des ventes d&#x27;oranges en grande distribution italienne, la marque I LOVE U cherche à renouveler l&#x27;offre traditionnelle. Lancée il y a dix ans, cette initiative vise à transformer l&#x27;expérience de consommation des agrumes pour sortir de la dépendance aux prix bas et valoriser le produit. <span class=\"news-reason\">L&#x27;article analyse la stratégie de positionnement du marché des agrumes en Italie face à la baisse de la consommation.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893830/non-ci-basta-che-le-arance-si-vendano-solo-se-costano-poco/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">L&#x27;impératif d&#x27;innovation dans la commercialisation des oranges en Italie -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">Face à une baisse constante des ventes d&#x27;oranges en grande distribution italienne, la marque I LOVE U cherche à renouveler l&#x27;offre traditionnelle. Lancée il y a dix ans, cette initiative vise à transformer l&#x27;expérience de consommation des agrumes pour sortir de la dépendance aux prix bas et valoriser le produit. <span class=\"news-reason\">L&#x27;article analyse la stratégie de positionnement du marché des agrumes en Italie face à la baisse de la consommation.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893830/non-ci-basta-che-le-arance-si-vendano-solo-se-costano-poco/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Need to innovate orange marketing in Italy -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">Faced with a steady decline in orange sales in Italian large-scale retail, the I LOVE U brand is seeking to renew the traditional offering. Launched ten years ago, this initiative aims to transform the citrus consumption experience to move away from low-price dependency and increase product value. <span class=\"news-reason\">The article analyzes the market positioning strategy for citrus in Italy in the face of declining consumption.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893830/non-ci-basta-che-le-arance-si-vendano-solo-se-costano-poco/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות ומקורות</div><div class=\"news-title\">הצורך בחדשנות בשיווק תפוזים באיטליה -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">אל מול ירידה מתמדת במכירות התפוזים ברשתות השיווק באיטליה, המותג I LOVE U שואף לחדש את ההיצע המסורתי. יוזמה זו, שהושקה לפני עשר שנים, נועדה לשנות את חוויית צריכת פירות ההדר כדי לצאת מהתלות במחירים נמוכים ולהעלות את ערך המוצר. <span class=\"news-reason\">המאמר מנתח את אסטרטגיית המיצוב של שוק פירות ההדר באיטליה לנוכח הירידה בצריכה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893830/non-ci-basta-che-le-arance-si-vendano-solo-se-costano-poco/\" target=\"_blank\">FreshPlaza IT -- לקריאת המאמר</a></div></div>"
     },
@@ -1121,7 +1171,7 @@
     {
       "id": "1795413927_4",
       "timestamp": "2026-11-23T06:05:27.685167+00:00",
-      "title": "Tunisie : Recul de la production de dattes et report de la campagne de récolte",
+      "title": "Tunisie : Recul de la production de dattes et ajournement de la campagne de récolte",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Jessica"
@@ -1132,7 +1182,7 @@
       "origins": [
         "TUN"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tunisie : Recul de la production de dattes et report de la campagne de récolte -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">La récolte de dattes Deglet Nour en Tunisie accuse un retard de deux à trois semaines par rapport au calendrier habituel. Les volumes globaux sont estimés en baisse d&#x27;environ 20 % pour cette saison, bien que la qualité des fruits soit rapportée comme satisfaisante par les professionnels du secteur. <span class=\"news-reason\">Information sur la production de dattes d&#x27;une origine concurrente avec chiffres de baisse de volume.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893760/in-tunisia-inizia-in-ritardo-il-confezionamento-dei-datteri-deglet-nour-del-nuovo-raccolto/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Tunisie : Recul de la production de dattes et ajournement de la campagne de récolte -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">La récolte de dattes Deglet Nour en Tunisie accuse un retard de deux à trois semaines par rapport au calendrier habituel. Les volumes globaux sont estimés en baisse d&#x27;environ 20 % pour cette saison, bien que la qualité des fruits soit rapportée comme satisfaisante par les professionnels du secteur. <span class=\"news-reason\">Information sur la production de dattes d&#x27;une origine concurrente avec chiffres de baisse de volume.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893760/in-tunisia-inizia-in-ritardo-il-confezionamento-dei-datteri-deglet-nour-del-nuovo-raccolto/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Tunisia: Delayed harvest and drop in date production -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">The Deglet Nour date harvest in Tunisia is running two to three weeks behind the usual schedule. Overall volumes are estimated to be down by about 20% for this season, although fruit quality is reported as satisfactory by sector professionals. <span class=\"news-reason\">Information on date production from a competing origin with volume decrease figures.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893760/in-tunisia-inizia-in-ritardo-il-confezionamento-dei-datteri-deglet-nour-del-nuovo-raccolto/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">תוניסיה: עיכוב בקטיף וירידה בייצור התמרים -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">קטיף תמרי הדגלאט נור בתוניסיה מתעכב בשבועיים עד שלושה לעומת לוח הזמנים הרגיל. הכמויות הכוללות מוערכות בירידה של כ-20% העונה, למרות שאיכות הפירות מדווחת כמשביעת רצון על ידי אנשי המקצוע בענף. <span class=\"news-reason\">מידע על ייצור תמרים ממקור מתחרה עם נתוני ירידה בכמות.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893760/in-tunisia-inizia-in-ritardo-il-confezionamento-dei-datteri-deglet-nour-del-nuovo-raccolto/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
