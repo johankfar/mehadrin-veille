@@ -1,7 +1,46 @@
 {
-  "last_updated": "2026-11-26T10:36:34.998081+00:00",
-  "article_count": 67,
+  "last_updated": "2026-11-26T12:06:54.448495+00:00",
+  "article_count": 66,
   "attention_points": [
+    {
+      "id": "attention-52dbd6205b03c978",
+      "article_id": "1795694814_3",
+      "url": "https://www.freshplaza.fr/article/9896021/malgre-des-mandarines-a-0-18-eur-kg-sur-pied-nous-avons-toujours-du-mal-a-vendre/",
+      "source": "FreshPlaza FR",
+      "title": "Chute des prix des mandarines grecques",
+      "summary": "Le prix des mandarines grecques chute à dix-huit centimes d'euro le kilo",
+      "origin_code": "GRC",
+      "origin_label": "Grèce",
+      "published_at": "2026-11-26T12:56:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "price",
+      "signal_label": "Prix",
+      "icon": "price",
+      "products": [
+        "mandarine"
+      ],
+      "age_hours": 0
+    },
+    {
+      "id": "attention-86cc5919d57eeddb",
+      "article_id": "1795694814_4",
+      "url": "https://www.agf.nl/article/9896478/volle-markten-en-wisselende-kwaliteit-maakten-argentijns-citrusseizoen-lastig/",
+      "source": "AGF.nl",
+      "title": "Filière des agrumes argentins sous pression",
+      "summary": "Une offre abondante sature les marchés et entraîne une baisse des prix",
+      "origin_code": "EGY",
+      "origin_label": "Égypte",
+      "published_at": "2026-11-26T12:02:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "availability",
+      "signal_label": "Disponibilité",
+      "icon": "availability",
+      "products": [
+        "lemon",
+        "orange"
+      ],
+      "age_hours": 1
+    },
     {
       "id": "attention-96927407b754f4ef",
       "article_id": "1795689395_0",
@@ -20,7 +59,7 @@
         "avocat",
         "date"
       ],
-      "age_hours": 1
+      "age_hours": 2
     },
     {
       "id": "attention-72c355b1798f4a60",
@@ -39,51 +78,92 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 19
-    },
-    {
-      "id": "attention-69f57ec341aeda29",
-      "article_id": "1795624650_1",
-      "url": "https://www.fruchthandel.de/news/world-citrus-organisation-trotz-anhaltender-herausforderungen-staerkere-saison-erwartet",
-      "source": "Fruchthandel",
-      "title": "Prévisions à la hausse pour la récolte mondiale",
-      "summary": "La World Citrus Organisation prévoit une saison globale plus importante malgré des défis persistants.",
-      "origin_code": null,
-      "origin_label": null,
-      "published_at": "2026-11-25T14:58:17+00:00",
-      "published_at_source": "rss",
-      "signal_type": "availability",
-      "signal_label": "Disponibilité",
-      "icon": "availability",
-      "products": [],
-      "age_hours": 19
-    },
-    {
-      "id": "attention-63949abf1b8d7969",
-      "article_id": "1795602962_3",
-      "url": "https://www.freshplaza.de/article/9896043/neues-annahmezentrum-in-valencia-soll-avocado-erzeuger-besser-versorgen/",
-      "source": "FreshPlaza DE",
-      "title": "Un nouveau centre de réception pour avocats",
-      "summary": "Une nouvelle installation permet d'améliorer le service aux producteurs de la filière.",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-11-25T10:04:00+01:00",
-      "published_at_source": "rss",
-      "signal_type": "information",
-      "signal_label": "Information",
-      "icon": "information",
-      "products": [
-        "avocat",
-        "orange"
-      ],
-      "age_hours": 25
+      "age_hours": 21
     }
   ],
   "articles": [
     {
+      "id": "1795694814_4",
+      "timestamp": "2026-11-26T12:06:54.448495+00:00",
+      "title": "La filière des agrumes argentins sous pression face à la concurrence égyptienne -- 26/11/2026 12:02",
+      "category": "ALERT SUPPLY",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "lemon",
+        "orange"
+      ],
+      "origins": [
+        "EGY",
+        "ZAF",
+        "ARG"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERT SUPPLY</div><div class=\"news-title\">La filière des agrumes argentins sous pression face à la concurrence égyptienne -- <span class=\"news-date\">26/11/2026 12:02</span></div><div class=\"news-body\">La campagne des agrumes en Argentine a été confrontée à des marchés saturés, une baisse des prix et des coûts de production élevés. Cette situation a été exacerbée par l&#x27;arrivée de volumes massifs d&#x27;autres origines concurrentes, notamment les oranges d&#x27;Égypte et les citrons d&#x27;Afrique du Sud, compliquant l&#x27;écoulement des stocks sur le marché européen. <span class=\"news-reason\">L&#x27;article analyse la concurrence sur le marché des oranges impliquant l&#x27;Egypte, origine stratégique pour Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9896478/volle-markten-en-wisselende-kwaliteit-maakten-argentijns-citrusseizoen-lastig/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERT</div><div class=\"news-title\">The Argentine citrus sector under pressure in the face of Egyptian competition -- <span class=\"news-date\">26/11/2026 12:02</span></div><div class=\"news-body\">The citrus campaign in Argentina has faced saturated markets, falling prices, and high production costs. This situation has been exacerbated by the arrival of massive volumes from other competing origins, notably oranges from Egypt and lemons from South Africa, complicating the movement of stocks on the European market. <span class=\"news-reason\">The article analyzes competition in the orange market involving Egypt, a strategic origin for Mehadrin.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9896478/volle-markten-en-wisselende-kwaliteit-maakten-argentijns-citrusseizoen-lastig/\" target=\"_blank\">AGF.nl -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראת אספקה</div><div class=\"news-title\">ענף ההדרים הארגנטינאי תחת לחץ מול התחרות המצרית -- <span class=\"news-date\">26/11/2026 12:02</span></div><div class=\"news-body\">עונת ההדרים בארגנטינה התמודדה עם שווקים רוויים, ירידת מחירים ועלויות ייצור גבוהות. מצב זה הוחמר בשל הגעת כמויות מאסיביות ממקורות מתחרים אחרים, בפרט תפוזים ממצרים ולימונים מדרום אפריקה, מה שמקשה על מכירת המלאי בשוק האירופי. <span class=\"news-reason\">המאמר מנתח את התחרות בשוק התפוזים המערבת את מצרים, מקור אסטרטגי עבור מהדרין.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9896478/volle-markten-en-wisselende-kwaliteit-maakten-argentijns-citrusseizoen-lastig/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795694814_3",
+      "timestamp": "2026-11-26T12:06:54.448495+00:00",
+      "title": "Chute des prix des mandarines grecques à 0,18 euro le kilo -- 26/11/2026 12:56",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine"
+      ],
+      "origins": [
+        "GRC"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Chute des prix des mandarines grecques à 0,18 euro le kilo -- <span class=\"news-date\">26/11/2026 12:56</span></div><div class=\"news-body\">Les exportations de mandarines grecques stagnent malgré des prix tombés à 0,18 €/kg sur pied dans certaines régions comme l&#x27;Étolie-Acarnanie. La situation commerciale des clémentines est jugée préoccupante par les opérateurs locaux en raison d&#x27;une demande extrêmement faible. <span class=\"news-reason\">Article contenant des prix précis sur un produit en saison (mandarine) pour une origine Mehadrin (Grèce).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9896021/malgre-des-mandarines-a-0-18-eur-kg-sur-pied-nous-avons-toujours-du-mal-a-vendre/\" target=\"_blank\">FreshPlaza FR -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Greek mandarin prices drop to 0.18 euros per kilo -- <span class=\"news-date\">26/11/2026 12:56</span></div><div class=\"news-body\">Greek mandarin exports are stagnating despite prices falling to €0.18/kg on the tree in some regions such as Aetolia-Acarnania. The commercial situation for clementines is considered worrying by local operators due to extremely low demand. <span class=\"news-reason\">Article containing precise prices for a seasonal product (mandarin) for a Mehadrin origin (Greece).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9896021/malgre-des-mandarines-a-0-18-eur-kg-sur-pied-nous-avons-toujours-du-mal-a-vendre/\" target=\"_blank\">FreshPlaza FR -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">צניחה במחירי המנדרינות היווניות ל-0.18 אירו לקילו -- <span class=\"news-date\">26/11/2026 12:56</span></div><div class=\"news-body\">יצוא המנדרינות היווניות קופא על שמרו למרות מחירים שירדו ל-0.18 אירו לק\"ג \"על העץ\" באזורים מסוימים כמו אטוליה-אקארנאניה. המצב המסחרי של הקלמנטינות נחשב למדאיג על ידי המפעילים המקומיים בשל ביקוש נמוך ביותר. <span class=\"news-reason\">מאמר המכיל מחירים מדויקים על מוצר בעונה (מנדרינה) עבור מקור מהדרין (יוון).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.fr/article/9896021/malgre-des-mandarines-a-0-18-eur-kg-sur-pied-nous-avons-toujours-du-mal-a-vendre/\" target=\"_blank\">FreshPlaza FR -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795694814_1",
+      "timestamp": "2026-11-26T12:06:54.448495+00:00",
+      "title": "Croissance de la consommation d&#x27;avocats aux États-Unis alimentée par le Mexique et le Pérou -- 26/11/2026 12:02",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "PER",
+        "COL",
+        "MEX",
+        "USA"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Croissance de la consommation d&#x27;avocats aux États-Unis alimentée par le Mexique et le Pérou -- <span class=\"news-date\">26/11/2026 12:02</span></div><div class=\"news-body\">Au troisième trimestre 2026, le volume d&#x27;achat d&#x27;avocats aux États-Unis a augmenté de 6 %, soutenu par des prix moyens inférieurs. Le Mexique demeure le principal fournisseur du marché américain, complété par des exportations en provenance du Pérou et de la Colombie. <span class=\"news-reason\">Information sur les volumes et prix des avocats (produit Mehadrin) impliquant le Pérou et la Colombie (origines Mehadrin).</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9895532/mexico-blijft-belangrijkste-leverancier-van-avocado-s-voor-de-amerikaanse-markt-aangevuld-met-peru-en-colombia/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Growth in avocado consumption in the United States fueled by Mexico and Peru -- <span class=\"news-date\">26/11/2026 12:02</span></div><div class=\"news-body\">In the third quarter of 2026, avocado purchase volume in the United States increased by 6%, supported by lower average prices. Mexico remains the primary supplier to the U.S. market, supplemented by exports from Peru and Colombia. <span class=\"news-reason\">Information on avocado volumes and prices (Mehadrin product) involving Peru and Colombia (Mehadrin origins).</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9895532/mexico-blijft-belangrijkste-leverancier-van-avocado-s-voor-de-amerikaanse-markt-aangevuld-met-peru-en-colombia/\" target=\"_blank\">AGF.nl -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">צמיחה בצריכת האבוקדו בארצות הברית המונעת על ידי מקסיקו ופרו -- <span class=\"news-date\">26/11/2026 12:02</span></div><div class=\"news-body\">ברבעון השלישי של 2026, נפח רכישת האבוקדו בארצות הברית עלה ב-6%, בתמיכת מחירי ממוצע נמוכים יותר. מקסיקו נותרת הספקית העיקרית לשוק האמריקאי, בהשלמה של יצוא מפרו וקולומביה. <span class=\"news-reason\">מידע על כמויות ומחירי אבוקדו (מוצר מהדרין) הכולל את פרו וקולומביה (מקורות מהדרין).</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9895532/mexico-blijft-belangrijkste-leverancier-van-avocado-s-voor-de-amerikaanse-markt-aangevuld-met-peru-en-colombia/\" target=\"_blank\">AGF.nl -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795694814_0",
+      "timestamp": "2026-11-26T12:06:54.448495+00:00",
+      "title": "Progression des exportations chinoises d&#x27;agrumes vers le marché russe -- 26/11/2026 08:00",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Nadia"
+      ],
+      "products": [
+        "mandarine",
+        "orange",
+        "citrus_grapefruit"
+      ],
+      "origins": [],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Progression des exportations chinoises d&#x27;agrumes vers le marché russe -- <span class=\"news-date\">26/11/2026 08:00</span></div><div class=\"news-body\">Les exportations chinoises d&#x27;agrumes vers la Russie ont dépassé les 7 000 tonnes pour la saison automnale. Les cargaisons incluent des mandarines, des oranges et des pomelos ayant passé les inspections phytosanitaires. Ce flux témoigne d&#x27;une intensification du commerce régional pour ces produits en cette période de l&#x27;année. <span class=\"news-reason\">L&#x27;article fournit des données de volumes (7 000 tonnes) pour des agrumes (mandarines, oranges, pomelos) sur un marché européen (Est).</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/26/chinese-citrus-russia/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Growth of Chinese citrus exports to the Russian market -- <span class=\"news-date\">26/11/2026 08:00</span></div><div class=\"news-body\">Chinese citrus exports to Russia exceeded 7,000 tons for the autumn season. Shipments include mandarins, oranges, and pomelos that have passed phytosanitary inspections. This flow reflects an intensification of regional trade for these products at this time of year. <span class=\"news-reason\">The article provides volume data (7,000 tons) for citrus fruits (mandarins, oranges, pomelos) in a European market (East).</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/26/chinese-citrus-russia/\" target=\"_blank\">Fresh Fruit Portal -- Read article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים &amp; כמויות</div><div class=\"news-title\">התקדמות בייצוא פירות הדר סיניים לשוק הרוסי -- <span class=\"news-date\">26/11/2026 08:00</span></div><div class=\"news-body\">יצוא פירות ההדר מסין לרוסיה עלה על 7,000 טון לעונת הסתיו. המטען כולל מנדרינות, תפוזים ופומלות שעברו את הבדיקות הפיטוסניטריות. זרם זה מעיד על התגברות הסחר האזורי במוצרים אלו בתקופה זו של השנה. <span class=\"news-reason\">המאמר מספק נתוני כמויות (7,000 טון) עבור פירות הדר (מנדרינות, תפוזים, פומלות) בשוק אירופי (מזרח).</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/26/chinese-citrus-russia/\" target=\"_blank\">Fresh Fruit Portal -- קרא את הכתבה</a></div></div>"
+    },
+    {
       "id": "1795689395_2",
       "timestamp": "2026-11-26T10:36:34.998081+00:00",
-      "title": "Avocats Hass : Israël pèsera sur le déroulement de la saison espagnole -- 26/11/2026 10:22",
+      "title": "Avocats Hass : Israël pèsera sur la campagne espagnole",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -95,7 +175,7 @@
         "ESP",
         "ISR"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Avocats Hass : Israël pèsera sur le déroulement de la saison espagnole -- <span class=\"news-date\">26/11/2026 10:22</span></div><div class=\"news-body\">La campagne espagnole d&#x27;avocats Hass commence avec des perspectives de vente positives. Juan Antonio Reyes Gutiérrez, directeur de Reyes Gutiérrez, souligne que le déroulement de la saison en Europe dépendra fortement des volumes et du calendrier des exportations israéliennes, qui déterminent souvent l&#x27;équilibre du marché européen pour cette variété. <span class=\"news-reason\">Lien direct entre l&#x27;offre israélienne et la concurrence espagnole pour l&#x27;avocat Hass.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896065/spanische-hass-avocado-startet-mit-guten-absatzaussichten-auch-wenn-israel-den-saisonverlauf-bestimmen-wird/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Avocats Hass : Israël pèsera sur la campagne espagnole -- <span class=\"news-date\">26/11/2026 10:22</span></div><div class=\"news-body\">La campagne espagnole d&#x27;avocats Hass commence avec des perspectives de vente positives. Juan Antonio Reyes Gutiérrez, directeur de Reyes Gutiérrez, souligne que le déroulement de la saison en Europe dépendra fortement des volumes et du calendrier des exportations israéliennes, qui déterminent souvent l&#x27;équilibre du marché européen pour cette variété. <span class=\"news-reason\">Lien direct entre l&#x27;offre israélienne et la concurrence espagnole pour l&#x27;avocat Hass.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896065/spanische-hass-avocado-startet-mit-guten-absatzaussichten-auch-wenn-israel-den-saisonverlauf-bestimmen-wird/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Hass Avocados: Israel will influence the course of the Spanish season -- <span class=\"news-date\">26/11/2026 10:22</span></div><div class=\"news-body\">The Spanish Hass avocado campaign begins with positive sales prospects. Juan Antonio Reyes Gutiérrez, director of Reyes Gutiérrez, highlights that the progress of the season in Europe will depend heavily on the volumes and timing of Israeli exports, which often determine the balance of the European market for this variety. <span class=\"news-reason\">Direct link between Israeli supply and Spanish competition for Hass avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896065/spanische-hass-avocado-startet-mit-guten-absatzaussichten-auch-wenn-israel-den-saisonverlauf-bestimmen-wird/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">אבוקדו האס: ישראל תשפיע על מהלך העונה הספרדית -- <span class=\"news-date\">26/11/2026 10:22</span></div><div class=\"news-body\">עונת האבוקדו האס הספרדית מתחילה עם תחזיות מכירה חיוביות. חואן אנטוניו רייס גוטיירז, מנהל Reyes Gutiérrez, מדגיש כי מהלך העונה באירופה יהיה תלוי במידה רבה בכמויות ובלוחות הזמנים של הייצוא הישראלי, הקובעים לעיתים קרובות את מאזן השוק האירופי עבור זן זה. <span class=\"news-reason\">קשר ישיר בין ההיצע הישראלי לתחרות הספרדית על אבוקדו האס.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896065/spanische-hass-avocado-startet-mit-guten-absatzaussichten-auch-wenn-israel-den-saisonverlauf-bestimmen-wird/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
     },
@@ -489,7 +569,7 @@
     {
       "id": "1795586785_3",
       "timestamp": "2026-11-25T06:06:25.320858+00:00",
-      "title": "Lancement de la campagne de récolte des agrumes de qualité en Sicile",
+      "title": "Lancement de la campagne de récolte d&#x27;agrumes de qualité en Sicile",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -498,7 +578,7 @@
       "origins": [
         "ITA"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne de récolte des agrumes de qualité en Sicile -- <span class=\"news-date\">25/11/2026 06:05</span></div><div class=\"news-body\">La récolte des agrumes a commencé dans la province de Catane avec des températures supérieures aux moyennes saisonnières. Malgré cette chaleur, la qualité des fruits est jugée excellente et les quantités disponibles pour ce début de campagne sont intéressantes. <span class=\"news-reason\">Début de campagne d&#x27;une origine concurrente sur les agrumes (Sicile).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9896107/il-prodotto-c-e-ed-e-buono-il-mercato-deve-valorizzarlo-di-piu/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Lancement de la campagne de récolte d&#x27;agrumes de qualité en Sicile -- <span class=\"news-date\">25/11/2026 06:05</span></div><div class=\"news-body\">La récolte des agrumes a commencé dans la province de Catane avec des températures supérieures aux moyennes saisonnières. Malgré cette chaleur, la qualité des fruits est jugée excellente et les quantités disponibles pour ce début de campagne sont intéressantes. <span class=\"news-reason\">Début de campagne d&#x27;une origine concurrente sur les agrumes (Sicile).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9896107/il-prodotto-c-e-ed-e-buono-il-mercato-deve-valorizzarlo-di-piu/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Launch of the quality citrus harvest in Sicily -- <span class=\"news-date\">25/11/2026 06:05</span></div><div class=\"news-body\">The citrus harvest has begun in the province of Catania with temperatures above seasonal averages. Despite this heat, the quality of the fruit is considered excellent and the quantities available for this start of the campaign are promising. <span class=\"news-reason\">Start of the season for a competing origin for citrus (Sicily).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9896107/il-prodotto-c-e-ed-e-buono-il-mercato-deve-valorizzarlo-di-piu/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">תחילת קטיף הדרים איכותיים בסיציליה -- <span class=\"news-date\">25/11/2026 06:05</span></div><div class=\"news-body\">קטיף ההדרים החל במחוז קטניה עם טמפרטורות הגבוהות מהממוצע העונתי. למרות החום, איכות הפירות נחשבת למצוינת והכמויות הזמינות לתחילת העונה מעוררות עניין. <span class=\"news-reason\">תחילת עונה של מקור מתחרה בתחום ההדרים (סיציליה).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9896107/il-prodotto-c-e-ed-e-buono-il-mercato-deve-valorizzarlo-di-piu/\" target=\"_blank\">FreshPlaza IT -- לקריאת הכתבה</a></div></div>"
     },
@@ -927,7 +1007,7 @@
     {
       "id": "1795451732_2",
       "timestamp": "2026-11-23T16:35:32.775224+00:00",
-      "title": "Espagne : la campagne de mangues s&#x27;achève sur une production de 40 000 tonnes",
+      "title": "Espagne : la campagne de mangues se clôture sur une production de 40 000 tonnes",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -938,7 +1018,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la campagne de mangues s&#x27;achève sur une production de 40 000 tonnes -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">La saison de récolte des mangues dans l&#x27;Axarquía (Malaga) et la Costa Tropical s&#x27;achève en novembre 2026. La production est estimée à environ 40 000 tonnes, un volume inférieur à la récolte record de la saison précédente. Les prix enregistrés en cette fin de campagne sont orientés à la baisse. <span class=\"news-reason\">L&#x27;article annonce la fin de campagne d&#x27;une origine concurrente (Espagne) avec des volumes et une tendance de prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la campagne de mangues se clôture sur une production de 40 000 tonnes -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">La saison de récolte des mangues dans l&#x27;Axarquía (Malaga) et la Costa Tropical s&#x27;achève en novembre 2026. La production est estimée à environ 40 000 tonnes, un volume inférieur à la récolte record de la saison précédente. Les prix enregistrés en cette fin de campagne sont orientés à la baisse. <span class=\"news-reason\">L&#x27;article annonce la fin de campagne d&#x27;une origine concurrente (Espagne) avec des volumes et une tendance de prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Closing of the Spanish mango campaign with a production of 40,000 tons -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">The mango harvest season in Axarquía (Malaga) and the Costa Tropical is ending in November 2026. Production is estimated at around 40,000 tons, a volume lower than the record harvest of the previous season. Prices recorded at the end of this campaign are trending downward. <span class=\"news-reason\">The article announces the end of the campaign for a competing origin (Spain) with volumes and a price trend.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיום קמפיין המנגו הספרדי עם ייצור של 40,000 טון -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">עונת קטיף המנגו באקסרקיה (Malaga) ובקוסטה טרופיקל מסתיימת בנובמבר 2026. הייצור מוערך בכ-40,000 טון, כמות נמוכה מהיבול המכור של העונה הקודמת. המחירים שנרשמו בסוף הקמפיין נמצאים במגמת ירידה. <span class=\"news-reason\">המאמר מודיע על סיום הקמפיין של מקור מתחרה (ספרד) עם נתוני כמויות ומגמת מחירים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- לקריאת המאמר</a></div></div>"
     },
@@ -980,7 +1060,7 @@
     {
       "id": "1795446339_5",
       "timestamp": "2026-11-23T15:05:39.868646+00:00",
-      "title": "Pérou : les exportateurs prévoient une baisse des volumes de mangues",
+      "title": "Pérou : les exportateurs prévoient un recul des volumes de mangues",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -992,7 +1072,7 @@
       "origins": [
         "PER"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pérou : les exportateurs prévoient une baisse des volumes de mangues -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">La campagne de mangues au Pérou s&#x27;annonce complexe avec une offre réduite et un calendrier d&#x27;exportation décalé par rapport aux saisons normales. Joseph Navarro, directeur de l&#x27;entreprise Masojo, confirme que ces volumes inférieurs influenceront la disponibilité sur le marché, alors que le secteur du gingembre subit parallèlement une baisse de prix. <span class=\"news-reason\">L&#x27;article traite d&#x27;une baisse de production et d&#x27;un changement de calendrier pour la mangue, un produit Mehadrin, sur une origine concurrente majeure (Pérou).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893377/gli-esportatori-peruviani-prevedono-volumi-di-mango-inferiori-e-ricavi-piu-bassi-per-lo-zenzero/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Pérou : les exportateurs prévoient un recul des volumes de mangues -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">La campagne de mangues au Pérou s&#x27;annonce complexe avec une offre réduite et un calendrier d&#x27;exportation décalé par rapport aux saisons normales. Joseph Navarro, directeur de l&#x27;entreprise Masojo, confirme que ces volumes inférieurs influenceront la disponibilité sur le marché, alors que le secteur du gingembre subit parallèlement une baisse de prix. <span class=\"news-reason\">L&#x27;article traite d&#x27;une baisse de production et d&#x27;un changement de calendrier pour la mangue, un produit Mehadrin, sur une origine concurrente majeure (Pérou).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893377/gli-esportatori-peruviani-prevedono-volumi-di-mango-inferiori-e-ricavi-piu-bassi-per-lo-zenzero/\" target=\"_blank\">FreshPlaza IT -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Peruvian exporters anticipate a drop in mango volumes -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">The mango campaign in Peru looks to be complex with reduced supply and an export schedule shifted compared to normal seasons. Joseph Navarro, director of the company Masojo, confirms that these lower volumes will influence market availability, while the ginger sector is simultaneously experiencing a price drop. <span class=\"news-reason\">The article addresses a production decrease and a schedule change for mango, a Mehadrin product, from a major competing origin (Peru).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893377/gli-esportatori-peruviani-prevedono-volumi-di-mango-inferiori-e-ricavi-piu-bassi-per-lo-zenzero/\" target=\"_blank\">FreshPlaza IT -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">היצואנים הפרואנים צופים ירידה בכמויות המנגו -- <span class=\"news-date\">23/11/2026 06:05</span></div><div class=\"news-body\">עונת המנגו בפרו צפויה להיות מורכבת עם היצע מצומצם ולוח זמני ייצוא דחוי בהשוואה לעונות רגילות. ג'וזף נאבארו, מנהל חברת Masojo, מאשר כי כמויות נמוכות אלו ישפיעו על הזמינות בשוק, בעוד שמגזר הג'ינג'ר חווה במקביל ירידת מחירים. <span class=\"news-reason\">המאמר עוסק בירידה בייצור ובשינוי בלוח הזמנים של המנגו, מוצר של מהדרין, במקור מתחרה מרכזי (פרו).</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.it/article/9893377/gli-esportatori-peruviani-prevedono-volumi-di-mango-inferiori-e-ricavi-piu-bassi-per-lo-zenzero/\" target=\"_blank\">FreshPlaza IT -- קרא את הכתבה</a></div></div>"
     },
@@ -1139,98 +1219,6 @@
       "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Croissance de la consommation d&#x27;avocats aux États-Unis au troisième trimestre 2026 -- <span class=\"news-date\">23/11/2026 13:46</span></div><div class=\"news-body\">Selon les données du troisième trimestre 2026, la consommation d&#x27;avocats aux États-Unis progresse avec une hausse de 6 % des volumes d&#x27;achat et de 4 % de la fréquence des courses. Le Mexique demeure le fournisseur principal du marché, complété par les apports du Pérou et de la Colombie. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur la hausse des volumes d&#x27;achat et la fréquence de consommation d&#x27;avocats, concernant des origines Mehadrin comme le Pérou et la Colombie.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9895483/mexico-remains-the-backbone-of-our-avocado-supply-complemented-by-peru-and-colombia/\" target=\"_blank\">FreshPlaza -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Growth of avocado consumption in the United States in the third quarter of 2026 -- <span class=\"news-date\">23/11/2026 13:46</span></div><div class=\"news-body\">According to third-quarter 2026 data, avocado consumption in the United States is growing, with a 6% increase in purchase volumes and a 4% increase in shopping frequency. Mexico remains the primary supplier for the market, supplemented by contributions from Peru and Colombia. <span class=\"news-reason\">The article provides precise figures on the increase in purchase volumes and the frequency of avocado consumption, concerning Mehadrin origins such as Peru and Colombia.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9895483/mexico-remains-the-backbone-of-our-avocado-supply-complemented-by-peru-and-colombia/\" target=\"_blank\">FreshPlaza -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">צמיחה בצריכת האבוקדו בארצות הברית ברבעון השלישי של 2026 -- <span class=\"news-date\">23/11/2026 13:46</span></div><div class=\"news-body\">לפי נתוני הרבעון השלישי של 2026, צריכת האבוקדו בארצות הברית נמצאת במגמת עלייה עם גידול של 6% בכמויות הרכישה ו-4% בתדירות הקניות. מקסיקו נותרה הספקית העיקרית של השוק, בתוספת אספקה מפרו ומקולומביה. <span class=\"news-reason\">המאמר מספק נתונים מדויקים על העלייה בכמויות הרכישה ותדירות צריכת האבוקדו, בנוגע למקורות של מהדרין כמו פרו וקולומביה.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.com/article/9895483/mexico-remains-the-backbone-of-our-avocado-supply-complemented-by-peru-and-colombia/\" target=\"_blank\">FreshPlaza -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1795435482_4",
-      "timestamp": "2026-11-23T12:04:42.262440+00:00",
-      "title": "Campagne de promotion de la chérimole de Grenade et Malaga -- 23/11/2026 12:04",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Jessica"
-      ],
-      "products": [],
-      "origins": [
-        "ESP"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Campagne de promotion de la chérimole de Grenade et Malaga -- <span class=\"news-date\">23/11/2026 12:04</span></div><div class=\"news-body\">Le conseil régulateur de l&#x27;AOP Chirimoya de la Costa Tropical de Granada-Málaga lance une campagne promotionnelle pour les mois de novembre et décembre. Des actions marketing sont organisées sur les marchés de Madrid, Barcelone et Séville afin de renforcer la notoriété de ce fruit exotique. <span class=\"news-reason\">Information sur la promotion d&#x27;un fruit exotique concurrent sur le marché espagnol</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9892444/cherimoya-uit-granada-en-malaga-wil-bekender-worden/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Promotion campaign for cherimoya from Granada and Malaga -- <span class=\"news-date\">23/11/2026 12:04</span></div><div class=\"news-body\">The regulatory council of the PDO Chirimoya de la Costa Tropical de Granada-Málaga is launching a promotional campaign for November and December. Marketing actions are organized in the markets of Madrid, Barcelona, and Seville to strengthen the awareness of this exotic fruit. <span class=\"news-reason\">Information on the promotion of a competing exotic fruit in the Spanish market</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9892444/cherimoya-uit-granada-en-malaga-wil-bekender-worden/\" target=\"_blank\">AGF.nl -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">קמפיין לקידום האנונה מגרנדה ומאלגה -- <span class=\"news-date\">23/11/2026 12:04</span></div><div class=\"news-body\">המועצה המפקחת על כינוי המקור המוגן (AOP) אנונה מהקוסטה טרופיקל של גרנדה-מאלגה משיקה קמפיין פרסומי לחודשים נובמבר ודצמבר. פעולות שיווק מאורגנות בשווקים של מדריד, ברצלונה וסביליה במטרה לחזק את המודעות לפרי האקזוטי הזה. <span class=\"news-reason\">מידע על קידום פרי אקזוטי מתחרה בשוק הספרדי</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9892444/cherimoya-uit-granada-en-malaga-wil-bekender-worden/\" target=\"_blank\">AGF.nl -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1795435482_3",
-      "timestamp": "2026-11-23T12:04:42.262440+00:00",
-      "title": "Baisse de rendement anticipée pour la saison des agrumes à Valence -- 23/11/2026 08:00",
-      "category": "ALERTES SUPPLY",
-      "commercials": [
-        "Nadia"
-      ],
-      "products": [],
-      "origins": [
-        "ESP",
-        "EGY",
-        "ZAF"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Baisse de rendement anticipée pour la saison des agrumes à Valence -- <span class=\"news-date\">23/11/2026 08:00</span></div><div class=\"news-body\">La campagne 2026/27 des agrumes de Valence fait face à des rendements inférieurs et à une forte concurrence de l&#x27;Égypte et de l&#x27;Afrique du Sud. <span class=\"news-reason\">Alerte sur les volumes d&#x27;une origine concurrente majeure (Espagne) et pression concurrentielle de l&#x27;Égypte et de l&#x27;Afrique du Sud.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/23/valencia-2027/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">Anticipated yield decrease for the citrus season in Valencia -- <span class=\"news-date\">23/11/2026 08:00</span></div><div class=\"news-body\">The 2026/27 Valencia citrus campaign faces lower yields and strong competition from Egypt and South Africa. <span class=\"news-reason\">Alert on volumes from a major competing origin (Spain) and competitive pressure from Egypt and South Africa.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/23/valencia-2027/\" target=\"_blank\">Fresh Fruit Portal -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות שרשרת אספקה</div><div class=\"news-title\">צפי לירידה ביבול לעונת ההדרים בוולנסיה -- <span class=\"news-date\">23/11/2026 08:00</span></div><div class=\"news-body\">עונת ההדרים 2026/27 בוולנסיה עומדת בפני יבולים נמוכים יותר ותחרות עזה מצד מצרים ודרום אפריקה. <span class=\"news-reason\">התראה על כמויות ממקור מתחרה עיקרי (ספרד) ולחץ תחרותי ממצרים ומדרום אפריקה.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/23/valencia-2027/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1795435482_2",
-      "timestamp": "2026-11-23T12:04:42.262440+00:00",
-      "title": "TROPS investit un million d&#x27;euros dans une unité de conditionnement d&#x27;avocats à Valence -- 23/11/2026 10:46",
-      "category": "MOUVEMENTS ENSEIGNES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "ESP"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">MOUVEMENTS ENSEIGNES</div><div class=\"news-title\">TROPS investit un million d&#x27;euros dans une unité de conditionnement d&#x27;avocats à Valence -- <span class=\"news-date\">23/11/2026 10:46</span></div><div class=\"news-body\">La coopérative TROPS renforce sa présence à Valence avec une nouvelle installation de conditionnement d&#x27;avocats représentant un investissement d&#x27;un million d&#x27;euros. <span class=\"news-reason\">Investissement majeur d&#x27;un concurrent direct espagnol dans le conditionnement d&#x27;avocats.</span></div><div class=\"news-source\"><a href=\"https://revistamercados.com/trops-refuerza-su-apuesta-por-el-aguacate-valenciano-con-una-nueva-planta-cercana-al-millon-de-euros/\" target=\"_blank\">Revista Mercados -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">RETAILER MOVEMENTS</div><div class=\"news-title\">TROPS invests one million euros in an avocado packing facility in Valencia -- <span class=\"news-date\">23/11/2026 10:46</span></div><div class=\"news-body\">The TROPS cooperative is strengthening its presence in Valencia with a new avocado packing facility representing an investment of one million euros. <span class=\"news-reason\">Major investment by a direct Spanish competitor in avocado packing.</span></div><div class=\"news-source\"><a href=\"https://revistamercados.com/trops-refuerza-su-apuesta-por-el-aguacate-valenciano-con-una-nueva-planta-cercana-al-millon-de-euros/\" target=\"_blank\">Revista Mercados -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מהלכי רשתות שיווק</div><div class=\"news-title\">TROPS משקיעה מיליון אירו במתקן אריזת אבוקדו בוולנסיה -- <span class=\"news-date\">23/11/2026 10:46</span></div><div class=\"news-body\">קואופרטיב TROPS מחזק את נוכחותו בוולנסיה עם מתקן אריזה חדש לאבוקדו המייצג השקעה של מיליון אירו. <span class=\"news-reason\">השקעה משמעותית של מתחרה ספרדי ישיר באריזת אבוקדו.</span></div><div class=\"news-source\"><a href=\"https://revistamercados.com/trops-refuerza-su-apuesta-por-el-aguacate-valenciano-con-una-nueva-planta-cercana-al-millon-de-euros/\" target=\"_blank\">Revista Mercados -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1795435482_1",
-      "timestamp": "2026-11-23T12:04:42.262440+00:00",
-      "title": "Les agriculteurs italiens développent la culture d&#x27;avocats et de mangues dans les Pouilles -- 23/11/2026 12:04",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat",
-        "mango",
-        "papaya"
-      ],
-      "origins": [
-        "ITA"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Les agriculteurs italiens développent la culture d&#x27;avocats et de mangues dans les Pouilles -- <span class=\"news-date\">23/11/2026 12:04</span></div><div class=\"news-body\">Suite à la perte d&#x27;oliviers due à la bactérie Xylella, les producteurs des Pouilles diversifient leurs cultures en plantant des avocats, des mangues et des papayes depuis 2017. <span class=\"news-reason\">Expansion de la production de produits Mehadrin (avocat, mangue, papaye) dans une région concurrente en Italie.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9895406/italiaanse-telers-planten-avocado-s-na-verlies-van-olijfgaarden-door-xylella/\" target=\"_blank\">AGF.nl -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">Italian farmers develop avocado and mango cultivation in Puglia -- <span class=\"news-date\">23/11/2026 12:04</span></div><div class=\"news-body\">Following the loss of olive trees due to the Xylella bacteria, Puglia producers have been diversifying their crops by planting avocados, mangoes, and papayas since 2017. <span class=\"news-reason\">Expansion of production of Mehadrin products (avocado, mango, papaya) in a competing region in Italy.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9895406/italiaanse-telers-planten-avocado-s-na-verlies-van-olijfgaarden-door-xylella/\" target=\"_blank\">AGF.nl -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">חקלאים איטלקים מפתחים את גידול האבוקדו והמנגו במחוז פוליה -- <span class=\"news-date\">23/11/2026 12:04</span></div><div class=\"news-body\">בעקבות אובדן עצי זית עקב חיידק הקסיללה (Xylella), מגדלים בפוליה מגוונים את הגידולים שלהם על ידי נטיעת אבוקדו, מנגו ופפאיה מאז 2017. <span class=\"news-reason\">הרחבת הייצור של מוצרי מהדרין (אבוקדו, מנגו, פפאיה) באזור מתחרה באיטליה.</span></div><div class=\"news-source\"><a href=\"https://www.agf.nl/article/9895406/italiaanse-telers-planten-avocado-s-na-verlies-van-olijfgaarden-door-xylella/\" target=\"_blank\">AGF.nl -- לקריאת הכתבה</a></div></div>"
-    },
-    {
-      "id": "1795435482_0",
-      "timestamp": "2026-11-23T12:04:42.262440+00:00",
-      "title": "Les leaders sud-américains de la filière avocat appellent à renforcer la promotion du secteur -- 23/11/2026 08:00",
-      "category": "CONCURRENCE ORIGINES",
-      "commercials": [
-        "Ophélie"
-      ],
-      "products": [
-        "avocat"
-      ],
-      "origins": [
-        "PER",
-        "COL",
-        "CHL"
-      ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Les leaders sud-américains de la filière avocat appellent à renforcer la promotion du secteur -- <span class=\"news-date\">23/11/2026 08:00</span></div><div class=\"news-body\">Les représentants de l&#x27;industrie du Chili, du Pérou et de la Colombie se sont réunis pour discuter des défis de rentabilité, de la variabilité climatique et de l&#x27;accès au marché mondial. <span class=\"news-reason\">Information stratégique sur la coordination commerciale des pays concurrents (Pérou, Chili, Colombie) sur le marché de l&#x27;avocat.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/23/latam-avocado-outlook/\" target=\"_blank\">Fresh Fruit Portal -- Lire l article</a></div></div>",
-      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">COMPETITION ORIGINS</div><div class=\"news-title\">South American avocado industry leaders call for strengthened promotion of the sector -- <span class=\"news-date\">23/11/2026 08:00</span></div><div class=\"news-body\">Representatives from the industry in Chile, Peru, and Colombia met to discuss profitability challenges, climate variability, and global market access. <span class=\"news-reason\">Strategic information on the commercial coordination of competing countries (Peru, Chile, Colombia) in the avocado market.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/23/latam-avocado-outlook/\" target=\"_blank\">Fresh Fruit Portal -- Read article</a></div></div>",
-      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות מקורות</div><div class=\"news-title\">מנהיגי ענף האבוקדו בדרום אמריקה קוראים לחיזוק קידום המגזר -- <span class=\"news-date\">23/11/2026 08:00</span></div><div class=\"news-body\">נציגי התעשייה מצ'ילה, פרו וקולומביה התכנסו כדי לדון באתגרי הרווחיות, השתנות האקלים והגישה לשוק העולמי. <span class=\"news-reason\">מידע אסטרטגי על התיאום המסחרי של המדינות המתחרות (פרו, צ'ילה, קולומביה) בשוק האבוקדו.</span></div><div class=\"news-source\"><a href=\"https://www.freshfruitportal.com/news/2026/11/23/latam-avocado-outlook/\" target=\"_blank\">Fresh Fruit Portal -- לקריאת הכתבה</a></div></div>"
     }
   ]
 }
