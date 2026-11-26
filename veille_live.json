@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-11-26T09:05:42.543249+00:00",
-  "article_count": 65,
+  "last_updated": "2026-11-26T10:36:34.998081+00:00",
+  "article_count": 67,
   "attention_points": [
+    {
+      "id": "attention-96927407b754f4ef",
+      "article_id": "1795689395_0",
+      "url": "https://www.freshplaza.de/article/9896659/mit-unserer-avocado-produktion-in-israel-und-peru-konnen-wir-unsere-kunden-das-ganze-jahr-uber-beliefern/",
+      "source": "FreshPlaza DE",
+      "title": "Galilee Export : expansion des exportations d'avocats",
+      "summary": "Les plantations de dattes Medjool se multiplient rapidement en Israël pour l'exportation",
+      "origin_code": "ISR",
+      "origin_label": "Israël",
+      "published_at": "2026-11-26T10:22:00+01:00",
+      "published_at_source": "rss",
+      "signal_type": "volume",
+      "signal_label": "Volumes",
+      "icon": "volume",
+      "products": [
+        "avocat",
+        "date"
+      ],
+      "age_hours": 1
+    },
     {
       "id": "attention-72c355b1798f4a60",
       "article_id": "1795619206_0",
@@ -19,7 +39,7 @@
       "products": [
         "mandarine"
       ],
-      "age_hours": 18
+      "age_hours": 19
     },
     {
       "id": "attention-69f57ec341aeda29",
@@ -36,24 +56,7 @@
       "signal_label": "Disponibilité",
       "icon": "availability",
       "products": [],
-      "age_hours": 18
-    },
-    {
-      "id": "attention-d49cc54dfd801abf",
-      "article_id": "1795608391_1",
-      "url": "https://www.agrimaroc.ma/il-y-a-un-an-sur-agrimaroc-lenvolee-vers-lespagne-a-t-elle-dure/",
-      "source": "AgriMaroc",
-      "title": "Baisse des volumes de fruits marocains exportés",
-      "summary": "Les expéditions de produits frais affichent une baisse globale des tonnages",
-      "origin_code": "ESP",
-      "origin_label": "Espagne",
-      "published_at": "2026-11-25T12:40:03+00:00",
-      "published_at_source": "rss",
-      "signal_type": "volume",
-      "signal_label": "Volumes",
-      "icon": "volume",
-      "products": [],
-      "age_hours": 20
+      "age_hours": 19
     },
     {
       "id": "attention-63949abf1b8d7969",
@@ -73,10 +76,50 @@
         "avocat",
         "orange"
       ],
-      "age_hours": 24
+      "age_hours": 25
     }
   ],
   "articles": [
+    {
+      "id": "1795689395_2",
+      "timestamp": "2026-11-26T10:36:34.998081+00:00",
+      "title": "Avocats Hass : Israël pèsera sur le déroulement de la saison espagnole -- 26/11/2026 10:22",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Ophélie"
+      ],
+      "products": [
+        "avocat"
+      ],
+      "origins": [
+        "ESP",
+        "ISR"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Avocats Hass : Israël pèsera sur le déroulement de la saison espagnole -- <span class=\"news-date\">26/11/2026 10:22</span></div><div class=\"news-body\">La campagne espagnole d&#x27;avocats Hass commence avec des perspectives de vente positives. Juan Antonio Reyes Gutiérrez, directeur de Reyes Gutiérrez, souligne que le déroulement de la saison en Europe dépendra fortement des volumes et du calendrier des exportations israéliennes, qui déterminent souvent l&#x27;équilibre du marché européen pour cette variété. <span class=\"news-reason\">Lien direct entre l&#x27;offre israélienne et la concurrence espagnole pour l&#x27;avocat Hass.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896065/spanische-hass-avocado-startet-mit-guten-absatzaussichten-auch-wenn-israel-den-saisonverlauf-bestimmen-wird/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Hass Avocados: Israel will influence the course of the Spanish season -- <span class=\"news-date\">26/11/2026 10:22</span></div><div class=\"news-body\">The Spanish Hass avocado campaign begins with positive sales prospects. Juan Antonio Reyes Gutiérrez, director of Reyes Gutiérrez, highlights that the progress of the season in Europe will depend heavily on the volumes and timing of Israeli exports, which often determine the balance of the European market for this variety. <span class=\"news-reason\">Direct link between Israeli supply and Spanish competition for Hass avocados.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896065/spanische-hass-avocado-startet-mit-guten-absatzaussichten-auch-wenn-israel-den-saisonverlauf-bestimmen-wird/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">אבוקדו האס: ישראל תשפיע על מהלך העונה הספרדית -- <span class=\"news-date\">26/11/2026 10:22</span></div><div class=\"news-body\">עונת האבוקדו האס הספרדית מתחילה עם תחזיות מכירה חיוביות. חואן אנטוניו רייס גוטיירז, מנהל Reyes Gutiérrez, מדגיש כי מהלך העונה באירופה יהיה תלוי במידה רבה בכמויות ובלוחות הזמנים של הייצוא הישראלי, הקובעים לעיתים קרובות את מאזן השוק האירופי עבור זן זה. <span class=\"news-reason\">קשר ישיר בין ההיצע הישראלי לתחרות הספרדית על אבוקדו האס.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896065/spanische-hass-avocado-startet-mit-guten-absatzaussichten-auch-wenn-israel-den-saisonverlauf-bestimmen-wird/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
+    },
+    {
+      "id": "1795689395_0",
+      "timestamp": "2026-11-26T10:36:34.998081+00:00",
+      "title": "Galilee Export : expansion des exportations d&#x27;avocats et de dattes Medjool d&#x27;Israël",
+      "category": "PRIX &amp VOLUMES",
+      "commercials": [
+        "Jessica",
+        "Ophélie"
+      ],
+      "products": [
+        "avocat",
+        "date"
+      ],
+      "origins": [
+        "ISR",
+        "PER"
+      ],
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Galilee Export : expansion des exportations d&#x27;avocats et de dattes Medjool d&#x27;Israël -- <span class=\"news-date\">26/11/2026 10:22</span></div><div class=\"news-body\">Eitan Zvi, directeur de Galilee Export, souligne le boom actuel des exportations d&#x27;avocats israéliens. Il note également une expansion massive des plantations de dattes Medjool en Israël. La combinaison des productions israélienne et péruvienne permet d&#x27;assurer un approvisionnement continu du marché tout au long de l&#x27;année malgré les défis logistiques. <span class=\"news-reason\">Information stratégique sur la production et l&#x27;exportation d&#x27;Israël (origine Mehadrin) pour les avocats et les dattes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896659/mit-unserer-avocado-produktion-in-israel-und-peru-konnen-wir-unsere-kunden-das-ganze-jahr-uber-beliefern/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">Galilee Export: expansion of avocado and Medjool date exports from Israel -- <span class=\"news-date\">26/11/2026 10:22</span></div><div class=\"news-body\">Eitan Zvi, director of Galilee Export, highlights the current boom in Israeli avocado exports. He also notes a massive expansion of Medjool date plantations in Israel. The combination of Israeli and Peruvian production ensures a continuous supply to the market throughout the year despite logistical challenges. <span class=\"news-reason\">Strategic information on Israel&#x27;s production and export (Mehadrin origin) for avocados and dates.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896659/mit-unserer-avocado-produktion-in-israel-und-peru-konnen-wir-unsere-kunden-das-ganze-uber-believern/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
+      "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">גליל אקספורט: התרחבות יצוא האבוקדו ותמרי המג'הול מישראל -- <span class=\"news-date\">26/11/2026 10:22</span></div><div class=\"news-body\">איתן צבי, מנהל גליל אקספורט, מדגיש את הפריחה הנוכחית בייצוא האבוקדו הישראלי. הוא מציין גם התרחבות מסיבית של מטעי תמר מג'הול בישראל. השילוב של הייצור הישראלי והפרואני מאפשר להבטיח אספקה רציפה לשוק לאורך כל השנה למרות האתגרים הלוגיסטיים. <span class=\"news-reason\">מידע אסטרטגי על הייצור והייצוא של ישראל (מקור מהדרין) עבור אבוקדו ותמרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896659/mit-unserer-avocado-produktion-in-israel-und-peru-konnen-wir-unsere-kunden-das-ganze-jahr-uber-beliefern/\" target=\"_blank\">FreshPlaza DE -- קרא את הכתבה</a></div></div>"
+    },
     {
       "id": "1795673245_1",
       "timestamp": "2026-11-26T06:07:25.743274+00:00",
@@ -96,7 +139,7 @@
     {
       "id": "1795635416_4",
       "timestamp": "2026-11-25T19:36:56.403930+00:00",
-      "title": "Caroline du Nord : le secteur de la patate douce face aux retards de récolte et aux aléas climatiques",
+      "title": "Caroline du Nord : la filière de la patate douce face aux retards de récolte et aux aléas climatiques",
       "category": "ALERTES SUPPLY",
       "commercials": [
         "Ophélie"
@@ -105,7 +148,7 @@
         "sweet_potato"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Caroline du Nord : le secteur de la patate douce face aux retards de récolte et aux aléas climatiques -- <span class=\"news-date\">25/11/2026 15:42</span></div><div class=\"news-body\">Les producteurs de Caroline du Nord terminent leur récolte de patates douces avec un retard significatif par rapport à une saison normale. Ce décalage s&#x27;explique par des difficultés techniques et climatiques rencontrées lors des phases de plantation et de transplantation des plants plus tôt dans l&#x27;année. <span class=\"news-reason\">L&#x27;article concerne la patate douce, produit Mehadrin, et signale un retard de récolte impactant l&#x27;offre mondiale et la concurrence sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895564/los-productores-de-batata-de-carolina-del-norte-atraviesan-una-temporada-de-cambios/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">ALERTES SUPPLY</div><div class=\"news-title\">Caroline du Nord : la filière de la patate douce face aux retards de récolte et aux aléas climatiques -- <span class=\"news-date\">25/11/2026 15:42</span></div><div class=\"news-body\">Les producteurs de Caroline du Nord terminent leur récolte de patates douces avec un retard significatif par rapport à une saison normale. Ce décalage s&#x27;explique par des difficultés techniques et climatiques rencontrées lors des phases de plantation et de transplantation des plants plus tôt dans l&#x27;année. <span class=\"news-reason\">L&#x27;article concerne la patate douce, produit Mehadrin, et signale un retard de récolte impactant l&#x27;offre mondiale et la concurrence sur le marché européen.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895564/los-productores-de-batata-de-carolina-del-norte-atraviesan-una-temporada-de-cambios/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">SUPPLY ALERTS</div><div class=\"news-title\">North Carolina: harvest delays and climatic hazards for sweet potatoes -- <span class=\"news-date\">25/11/2026 15:42</span></div><div class=\"news-body\">North Carolina growers are finishing their sweet potato harvest with a significant delay compared to a normal season. This shift is due to technical and climatic difficulties encountered during the planting and transplanting phases earlier in the year. <span class=\"news-reason\">The article concerns sweet potatoes, a Mehadrin product, and reports a harvest delay impacting global supply and competition in the European market.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895564/los-productores-de-batata-de-carolina-del-norte-atraviesan-una-temporada-de-cambios/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">התראות אספקה</div><div class=\"news-title\">צפון קרוליינה: עיכובים בקציר ותהפוכות אקלימיות עבור בטטה -- <span class=\"news-date\">25/11/2026 15:42</span></div><div class=\"news-body\">מגדלים בצפון קרוליינה מסיימים את קציר הבטטות בעיכוב משמעותי לעומת עונה רגילה. עיכוב זה מוסבר בקשיים טכניים ואקלימיים שנתקלו בהם בשלבי השתילה וההעתקה של השתילים מוקדם יותר השנה. <span class=\"news-reason\">הכתבה עוסקת בבטטה, מוצר מהדרין, ומדווחת על עיכוב בקציר המשפיע על ההיצע העולמי והתחרות בשוק האירופי.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895564/los-productores-de-batata-de-carolina-del-norte-atraviesan-una-temporada-de-cambios/\" target=\"_blank\">FreshPlaza ES -- קרא את הכתבה</a></div></div>"
     },
@@ -346,7 +389,7 @@
     {
       "id": "1795602962_2",
       "timestamp": "2026-11-25T10:36:02.231013+00:00",
-      "title": "Incidence des coûts internes sur les exportations d&#x27;agrumes argentins",
+      "title": "Impact des coûts internes sur les exportations d&#x27;agrumes argentins",
       "category": "CONCURRENCE ORIGINES",
       "commercials": [
         "Nadia"
@@ -355,7 +398,7 @@
       "origins": [
         "ARG"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Incidence des coûts internes sur les exportations d&#x27;agrumes argentins -- <span class=\"news-date\">25/11/2026 10:04</span></div><div class=\"news-body\">Bien que la saison d&#x27;exportation se termine avec des volumes satisfaisants, l&#x27;augmentation des coûts internes en Argentine menace la compétitivité du secteur des agrumes sur le marché mondial. <span class=\"news-reason\">L&#x27;article traite de la compétitivité et des prix de l&#x27;origine concurrente Argentine pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896053/hohere-interne-kosten-setzen-den-argentinischen-zitrusexport-unter-druck/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">CONCURRENCE ORIGINES</div><div class=\"news-title\">Impact des coûts internes sur les exportations d&#x27;agrumes argentins -- <span class=\"news-date\">25/11/2026 10:04</span></div><div class=\"news-body\">Bien que la saison d&#x27;exportation se termine avec des volumes satisfaisants, l&#x27;augmentation des coûts internes en Argentine menace la compétitivité du secteur des agrumes sur le marché mondial. <span class=\"news-reason\">L&#x27;article traite de la compétitivité et des prix de l&#x27;origine concurrente Argentine pour les agrumes.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896053/hohere-interne-kosten-setzen-den-argentinischen-zitrusexport-unter-druck/\" target=\"_blank\">FreshPlaza DE -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">ORIGIN COMPETITION</div><div class=\"news-title\">Internal costs weigh on Argentine citrus exports -- <span class=\"news-date\">25/11/2026 10:04</span></div><div class=\"news-body\">Although the export season is ending with satisfactory volumes, rising internal costs in Argentina threaten the competitiveness of the citrus sector on the global market. <span class=\"news-reason\">The article discusses the competitiveness and prices of the competing origin Argentina for citrus.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896053/hohere-interne-kosten-setzen-den-argentinischen-zitrusexport-unter-druck/\" target=\"_blank\">FreshPlaza DE -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">תחרות לפי מקורות</div><div class=\"news-title\">העלויות הפנימיות מעיקות על יצוא ההדרים מארגנטינה -- <span class=\"news-date\">25/11/2026 10:04</span></div><div class=\"news-body\">למרות שעונת היצוא מסתיימת עם כמויות משביעות רצון, העלייה בעלויות הפנימיות בארגנטינה מאיימת על התחרותיות של מגזר ההדרים בשוק העולמי. <span class=\"news-reason\">הכתבה עוסקת בתחרותיות ובמחירים של המקור המתחרה ארגנטינה בתחום ההדרים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.de/article/9896053/hohere-interne-kosten-setzen-den-argentinischen-zitrusexport-unter-druck/\" target=\"_blank\">FreshPlaza DE -- לקריאת הכתבה</a></div></div>"
     },
@@ -806,14 +849,14 @@
     {
       "id": "1795500300_1",
       "timestamp": "2026-11-24T06:05:00.089487+00:00",
-      "title": "Les exportations brésiliennes de papaye ont reculé de 15 % en octobre",
+      "title": "Recul de 15 % des exportations brésiliennes de papaye en octobre",
       "category": "PRIX &amp VOLUMES",
       "commercials": [],
       "products": [
         "papaya"
       ],
       "origins": [],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Les exportations brésiliennes de papaye ont reculé de 15 % en octobre -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">En octobre 2026, les exportations brésiliennes de papaye ont chuté de 15 % par rapport à l&#x27;année précédente, totalisant un peu plus de 4 000 tonnes. Les revenus d&#x27;exportation FOB se sont élevés à environ 6 millions de dollars. Ce ralentissement pourrait être lié à des facteurs logistiques ou de production locale affectant les flux vers les marchés internationaux. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur les volumes et revenus d&#x27;exportation d&#x27;un produit exotique Mehadrin depuis une origine clé.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895085/las-exportaciones-brasilenas-de-papaya-caen-un-15-en-octubre/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Recul de 15 % des exportations brésiliennes de papaye en octobre -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">En octobre 2026, les exportations brésiliennes de papaye ont chuté de 15 % par rapport à l&#x27;année précédente, totalisant un peu plus de 4 000 tonnes. Les revenus d&#x27;exportation FOB se sont élevés à environ 6 millions de dollars. Ce ralentissement pourrait être lié à des facteurs logistiques ou de production locale affectant les flux vers les marchés internationaux. <span class=\"news-reason\">L&#x27;article fournit des chiffres précis sur les volumes et revenus d&#x27;exportation d&#x27;un produit exotique Mehadrin depuis une origine clé.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895085/las-exportaciones-brasilenas-de-papaya-caen-un-15-en-octubre/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICES &amp; VOLUMES</div><div class=\"news-title\">15% drop in Brazilian papaya exports in October -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">In October 2026, Brazilian papaya exports fell by 15% compared to the previous year, totaling just over 4,000 tons. FOB export revenues amounted to approximately 6 million dollars. This slowdown could be linked to logistical or local production factors affecting flows to international markets. <span class=\"news-reason\">The article provides precise figures on the export volumes and revenues of a Mehadrin exotic product from a key origin.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895085/las-exportaciones-brasilenas-de-papaya-caen-un-15-en-octubre/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">ירידה של 15% בייצוא הפפאיה מברזיל באוקטובר -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">באוקטובר 2026, ייצוא הפפאיה מברזיל צנח ב-15% בהשוואה לשנה הקודמת, והסתכם בקצת יותר מ-4,000 טונות. הכנסות הייצוא (FOB) עמדו על כ-6 מיליון דולר. האטה זו עשויה להיות קשורה לגורמים לוגיסטיים או לייצור מקומי המשפיעים על הזרימה לשווקים הבינלאומיים. <span class=\"news-reason\">הכתבה מספקת נתונים מדויקים על כמויות והכנסות מייצוא של מוצר אקזוטי של מהדרין ממקור מפתח.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895085/las-exportaciones-brasilenas-de-papaya-caen-un-15-en-octubre/\" target=\"_blank\">FreshPlaza ES -- לקריאת הכתבה</a></div></div>"
     },
@@ -884,7 +927,7 @@
     {
       "id": "1795451732_2",
       "timestamp": "2026-11-23T16:35:32.775224+00:00",
-      "title": "Espagne : la campagne de mangues s’achève sur une production de 40 000 tonnes",
+      "title": "Espagne : la campagne de mangues s&#x27;achève sur une production de 40 000 tonnes",
       "category": "PRIX &amp VOLUMES",
       "commercials": [
         "Ophélie"
@@ -895,7 +938,7 @@
       "origins": [
         "ESP"
       ],
-      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la campagne de mangues s’achève sur une production de 40 000 tonnes -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">La saison de récolte des mangues dans l&#x27;Axarquía (Malaga) et la Costa Tropical s&#x27;achève en novembre 2026. La production est estimée à environ 40 000 tonnes, un volume inférieur à la récolte record de la saison précédente. Les prix enregistrés en cette fin de campagne sont orientés à la baisse. <span class=\"news-reason\">L&#x27;article annonce la fin de campagne d&#x27;une origine concurrente (Espagne) avec des volumes et une tendance de prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
+      "content_fr": "<div class=\"news-item\"><div class=\"news-cat\">PRIX &amp; VOLUMES</div><div class=\"news-title\">Espagne : la campagne de mangues s&#x27;achève sur une production de 40 000 tonnes -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">La saison de récolte des mangues dans l&#x27;Axarquía (Malaga) et la Costa Tropical s&#x27;achève en novembre 2026. La production est estimée à environ 40 000 tonnes, un volume inférieur à la récolte record de la saison précédente. Les prix enregistrés en cette fin de campagne sont orientés à la baisse. <span class=\"news-reason\">L&#x27;article annonce la fin de campagne d&#x27;une origine concurrente (Espagne) avec des volumes et une tendance de prix.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- Lire l article</a></div></div>",
       "content_en": "<div class=\"news-item\"><div class=\"news-cat\">PRICE &amp; VOLUMES</div><div class=\"news-title\">Closing of the Spanish mango campaign with a production of 40,000 tons -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">The mango harvest season in Axarquía (Malaga) and the Costa Tropical is ending in November 2026. Production is estimated at around 40,000 tons, a volume lower than the record harvest of the previous season. Prices recorded at the end of this campaign are trending downward. <span class=\"news-reason\">The article announces the end of the campaign for a competing origin (Spain) with volumes and a price trend.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- Read the article</a></div></div>",
       "content_he": "<div class=\"news-item\"><div class=\"news-cat\">מחירים וכמויות</div><div class=\"news-title\">סיום קמפיין המנגו הספרדי עם ייצור של 40,000 טון -- <span class=\"news-date\">23/11/2026 15:53</span></div><div class=\"news-body\">עונת קטיף המנגו באקסרקיה (Malaga) ובקוסטה טרופיקל מסתיימת בנובמבר 2026. הייצור מוערך בכ-40,000 טון, כמות נמוכה מהיבול המכור של העונה הקודמת. המחירים שנרשמו בסוף הקמפיין נמצאים במגמת ירידה. <span class=\"news-reason\">המאמר מודיע על סיום הקמפיין של מקור מתחרה (ספרד) עם נתוני כמויות ומגמת מחירים.</span></div><div class=\"news-source\"><a href=\"https://www.freshplaza.es/article/9895466/campana-de-mango-en-la-axarquia-cierra-con-40-000-toneladas-y-precios-a-la-baja/\" target=\"_blank\">FreshPlaza ES -- לקריאת המאמר</a></div></div>"
     },
